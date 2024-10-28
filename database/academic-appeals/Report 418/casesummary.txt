@@ -1,0 +1,155 @@
+Report 418
+
+DATE:
+
+   February 8, 2022
+
+PARTIES:
+
+   Ms. M.M. (the ‚Student‚) v. School of Graduate Studies
+
+HEARING DATE:
+
+   December 14, 2021, via Zoom
+
+Chair:
+
+   Professor Andrew Green
+
+Appearances:
+
+For the Student Appellant:
+
+   Ms. Julia Wilkes, Adair Goldblatt Bieber LLP
+   Ms. Marlie Earle, Adair Goldblatt Bieber LLP
+   The Student
+
+For the School of graduate studies:
+
+   Mr. Robert Centa, Paliare Roland Rosenberg Rothstein LLP
+
+   The Student sought a reconsideration of a decision of a prior panel of
+   the Academic Appeals Committee (‚AAC‚) which dismissed her appeal. The
+   Student argued that materials she received from a Freedom of
+   Information and Protection of Privacy Act (‚FIPPA‚) request provided
+   evidence that the grades she received in a course were unreliable and
+   that certain members of the School of Public Health had deliberately
+   withheld documents and/or misled the Graduate Academic Appeals Board
+   (‚GAAB‚) and the prior panel of the AAC.
+
+   Issues pertaining to jurisdiction are a question of law that must be
+   determined by the Chair alone. The Chair of this Panel of the Academic
+   Appeal Committee (‚Panel‚) needed to determine whether the AAC has
+   jurisdiction to reconsider its prior decisions and if so, in what
+   circumstances, and if the AAC does have jurisdiction in certain
+   circumstances, then should the Committee do so in this case. The Chair
+   noted that whether the AAC can reconsider its prior decisions rests on
+   the application of the legal principle of functus officio. With certain
+   exceptions, an administrative tribunal, such as the AAC, that makes a
+   final decision is functus officio, meaning that its work is done and it
+   cannot change or reconsider its decision. The Chair further noted that
+   this principle rests on the need for finality in decision making and
+   such finality provides certainty for the parties, allows for reliance
+   on the decision, limits the burden on the administrative system, and
+   allows a stable basis for judicial review or appeal. The Chair of the
+   Committee referenced the Supreme Court of Canada‚s decision in Chandler
+   v. Alberta Association of Architects, [1989] 2 SCR 848 (‚Chandler‚) in
+   his analysis of the application of functus officio to administrative
+   decision-makers. The Chair noted that based on the discussion found in
+   Chandler the principle of functus officio applies to administrative
+   tribunals such as the AAC based on the need for finality of proceedings
+   but must be applied flexibly. There are two clear exceptions to the
+   functus officio principle which are outlined in Paper Machinery Ltd. V.
+   J. O. Ross Engineering Corp. [1934] SCR 186 and cited by the Supreme
+   Court in Chandler; (1) the tribunal has made a ‚slip‚ in its decision
+   such as a minor error in wording; and (2) the tribunal made an error in
+   expressing its ‚manifest intention.‚¬  The Chair noted that beyond
+   these two exceptions, functus officio generally applies unless there is
+   an explicit or implicit statutory power of reconsideration. The Chair
+   stated that the AAC does not have an explicit or implicit power to
+   reconsider its prior decisions because neither the University of
+   Toronto‚s Governing Council bylaws nor the AAC‚s Terms of Reference
+   provide the AAC with an explicit power of reconsideration. Furthermore,
+   the Terms of Reference do not contain any procedures relating to
+   reconsideration and emphasize that the AAC is the final decision-maker
+   on appeals that have already been through appeal processes in different
+   divisions.
+
+   The Student argued that in the context of court proceedings, courts
+   have made an exception for fraud on the tribunal and such an exception
+   to functus officio is appropriate also in the administrative law
+   context. The Chair noted that Berge v. College of Audiologists and
+   Speech Language Pathologists of Ontario, 2019 ONSC 3351 and Kennedy v.
+   College of Veterinarians of Ontario, 2021 ONSC 578 (Div Ct) do not find
+   such a fraud exception in the context of an administrative tribunal,
+   and the Federal Court of Appeal, in Canadian Association of Film
+   Distributors and Exporters v. Society for Reproduction Rights of
+   Authors, Composers and Publishers in Canada (SODRAC) Inc., 2014 FCA
+   235, stated that there should be a reluctance to find new exceptions to
+   the functus officio rules.
+
+   The Student also pointed to a broader exception to the application of
+   functus officio which, she argued, relates to a denial of ‚natural
+   justice‚ or perhaps, more generally, unfairness. The Chair noted that
+   the Supreme Court in Chandler stated that a tribunal must ‚start
+   afresh‚ where ‚the error which renders the decision a nullity is one
+   that taints the whole proceeding.‚ In support of this, the Supreme
+   Court cited cases which ‚involve a denial of natural justice which
+   vitiated the whole proceeding.‚ Furthermore, the Student provided cases
+   that outline tribunals obtaining the power of reconsideration where
+   there was a breach of procedural fairness. The Chair remarked that the
+   case law seems unclear on this point. In two recent decisions of the
+   Ontario Court of Appeal (Jacobs Catalytic Ltd. v. I.B.E.W., Local 353,
+   2009 ONCA 749 and Stanley v. Office of the Independent Police Review
+   Director, 2020 ONCA 252), the Court found that there was no power of
+   reconsideration even though the contexts encompassed potential breaches
+   of procedural fairness. The Chair noted that the AAC allows for a final
+   resolution of appeals that gives parties certainty and provides a limit
+   on the resources for any single appeal. Parties can seek judicial
+   review of these decisions on both procedural and substantive grounds.
+   The Chair found that the AAC has no express statutory power to
+   reconsider its prior decisions and has very limited common law power to
+   reconsider decisions where there is a minor error that amounts to a
+   ‚slip‚ or where the tribunal has made an error in expressing its
+   intent.
+
+   In deciding whether the Panel should reconsider the AAC‚s original
+   decision in this matter, the Chair noted that the Panel only needs to
+   consider whether it has the power to reconsider the decision in this
+   case because there was fraud or a breach of natural justice. The Panel
+   found that (1) there was no evidence to support the allegations of
+   fraud; (2) there was no evidence of any intent to mislead either the
+   GAAB or the prior panel of the AAC; and (3) the proposed exceptions for
+   the breaches of natural justice did not apply in this case. The Panel
+   noted that the purpose of fairness is to ensure ‚administrative
+   decisions are made using a fair and open procedure, appropriate to the
+   decision being made and its statutory, institutional, and social
+   context, with an opportunity for those affected by the decision to put
+   forward their views and evidence fully and have them considered by the
+   decision-maker‚ (Baker v. Canada (Minister of Citizenship and
+   Immigration), [1999] 2 SCR 817, at para. 22). The Panel noted that none
+   of the materials provided under the FIPPA request change any of the
+   basic facts nor do they demonstrate any insufficiencies in disclosure
+   by the time of the original AAC hearing to warrant reconsideration.
+   Furthermore, the FIPPA materials only support the conclusion that the
+   Student received the necessary materials to make her case. The Panel
+   noted that there may be cases where a breach of fairness is so
+   egregious that it gives rise to a power of reconsideration, however,
+   this is not such a case. Furthermore, fairness can clearly be raised on
+   a judicial review application.
+
+   Given that the Panel found that this case does not fit within the very
+   limited circumstances permitting reconsideration, it is unnecessary to
+   deal with the other two issues (delay and the merits of this appeal).
+   Request for reconsideration dismissed.
+
+   The Panel recommended that (1) the Division ensure steps are taken to
+   provide students with timely and accurate information about their
+   grades when they are appealed; and (2) the governance process be
+   engaged to determine whether the Terms of Reference should be clarified
+   regarding reconsiderations.
+   [1]View Report
+
+References
+
+   1. file:///media/30250

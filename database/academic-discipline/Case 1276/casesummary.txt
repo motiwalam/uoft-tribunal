@@ -1,0 +1,143 @@
+Case 1276
+
+   DATE:
+
+   May 16, 2022
+
+   PARTIES:
+
+   University of Toronto v. S.P. ("the Student")
+
+   HEARING DATE:
+
+   April 13, 2022, via Zoom
+
+   PANEL MEMBERS:
+
+   Ms. Sana Halwani, Chair
+   Dr. Wendy Rotenberg, Faculty Panel Member
+   Ms. Samantha Chang, Student Panel Member
+
+   APPEARANCES:
+
+   Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+   Mr. William Webb, Co-Counsel, Paliare Roland Rothstein Rosenberg LLP
+
+   NOT IN ATTENDANCE:
+
+   The Student
+
+   HEARING SECRETARY:
+
+   Mr. Christopher Lang, Director, Office of Appeals, Discipline and
+   Faculty Grievances
+
+   The‚ØStudent‚Øwas charged under s. B.i.1(b) of the‚ØCode of Behaviour
+   on Academic Matters, 1995‚Ø(the ‚Code‚) on the basis that she knowingly
+   used or possessed an unauthorized aid, or obtained unauthorized
+   assistance in a connection with a test. In the alternative, the Student
+   was charged under s. B.i.1(d) of the Code on the basis that she
+   knowingly represented as her own an idea or expression of an idea or
+   work of another in a test. In the further alternative, the Student was
+   charged under s. B.i.3(b) of the Code on the basis that he knowingly
+   engaged in a form of cheating, academic dishonesty or misconduct, fraud
+   or misrepresentation in order to‚Øobtain academic credit or other
+   academic advantage‚Øin connection with a test.
+
+   The Student nor a representative of the Student appeared at the
+   hearing. Assistant Discipline Counsel (‚Counsel‚) requested that the
+   Panel proceed with the hearing in the absence of the Student. The Panel
+   received affidavit evidence that the Student was served with the Notice
+   of Electronic Hearing to the Student‚s email address contained in the
+   University of Toronto Repository of Student Information (‚ROSI‚). The
+   Panel also received affidavit evidence that the Student was contacted
+   via their utoronto and gmail accounts, by telephone to the Student‚s
+   number listed in ROSI, and by courier to the Student‚s mailing and
+   permanent addresses contained in ROSI. The Panel noted that the
+   evidence provided did not go so far as to confirm that the Student
+   received the latest Notice of Hearing, but it was clear from the
+   evidence that the Student was given reasonable notice under the Rules
+   of Practice and Procedure (‚Rules‚). As set out in Rule 17 of the
+   Rules, where a notice of hearing was given in accordance with this
+   rule, and the person does not attend, the panel may proceed in the
+   absence of the person. On this basis, the Panel proceeded with the
+   hearing in the absence of the Student.
+
+   Regarding the charge under s. B.i.1(b) of the Code, the Panel received
+   affidavit evidence of the course coordinator for the course in which
+   the test in question was submitted, and the former Director, Faculty
+   Governance in the Faculty of Arts and Science (‚Faculty‚) who oversaw
+   the Academic Integrity team (‚SAI‚). The course coordinator‚s affidavit
+   outlined that she and the instructors of the course found that several
+   questions and answers from the test were posted on Chegg.com. The
+   course coordinator reported this to SAI. As part of SAI‚s
+   investigation, the Faculty obtained data from Chegg.com that showed
+   that a subscriber with an email address that, as confirmed by the
+   Student Web Services Activity Log (‚Activity Log‚), was the email
+   address the Student had on record with the University until January 15,
+   2021 posted three questions to Chegg.com during the test window. The
+   data from Chegg.com also showed that answers to the posted questions
+   were uploaded on the day of the test but only one of the questions was
+   answered during the test period. The Activity Log also showed that the
+   IP address the Student used to log into the Web Services was the same
+   as the IP address of the subscriber who posted the questions to
+   Chegg.com. The course coordinator reached out to the Student to book a
+   meeting via the Student‚s gmail account, the same addressed used by the
+   subscriber, and the Student responded from the same email address. The
+   Panel noted that the burden is on the University to prove the charges
+   on a balance of probabilities. Based on the evidence presented at the
+   hearing, the Panel found that it was more likely than not that the
+   Student posted questions and viewed answers on Chegg.com. The Student
+   was found guilt on the first charge. The University withdrew the two
+   alternative charges.
+
+   In determining sanction, the Panel was asked to consider the Provost‚s
+   Guidance on Sanctions, similar cases, and the factors and principles
+   relevant to sanctions set out by the Tribunal in University of Toronto
+   and Mr. C (Case No. 1976/77-3, November 5, 1976). The Panel noted that
+   the Provost‚s Guidance on Sanctions outlines that the Provost will
+   request that the Tribunal suspend a student for two years for any
+   offence involving academic dishonesty where the student has not
+   committee a prior offence, as it was in the case. However, it also
+   outlines that the Provost will request that the Tribunal recommend that
+   a student be expelled where the student has submitted academic work
+   that was purchased. Counsel argued that this case has a significant
+   aggravating factor due to the use of a commercial service. The Panel
+   noted that the similar cases presented by Counsel varied; however,
+   penalties ranged from two to three years for student without prior
+   offences, penalties where the commercial aspect was not proven tended
+   to be on the lower two-year end, and where a student had prior
+   offences, the penalty tended to be on the higher three-year end of the
+   range. The Panel noted that the commercial aspect was proven, and this
+   is an important consideration for penalty. Regarding the factors
+   relevant to sanction, the Panel noted that the Student had not
+   participated at any stage of the process, and therefore, had not shown
+   any remorse, nor presented any character evidence and did not raised
+   any mitigating or extenuating factors to warrant a more lenient
+   sanction. There was some correspondence from the Student that she was
+   experiencing family issues, mental health issues and hardships related
+   to Covid-19. However, because the Panel did not have any details of the
+   situation, and the University was not able to test those statements
+   because the Student did not attend, the Panel afforded the mitigating
+   factors identified in the email limited weight. However, the Panel did
+   take into consideration the stress caused by the Covid-19 pandemic.
+   With respect to the nature of the offence, the Panel noted that this
+   offence is very serious because there is an element of deliberation and
+   purposeful dishonesty in carrying it out. Regarding the need to deter
+   others, the Panel echoed the sentiments of the Panel in University of
+   T.J. (Case No. 1102, November 5, 2021) ‚cheating on exams must always
+   be denounced and deterred in order to protect the academic integrity of
+   the University. In today‚s online world, it is all too easy for
+   students to find new outlets for unauthorized assistance. Students must
+   understand that this kind of misconduct will have serious
+   repercussions, so that they will be dissuaded from the temptation to
+   cheat when under pressure.‚ The Panel imposed the following sanctions:
+   a final grade of zero in the course, a three-year suspension, a four
+   year notation on the transcript, and a report to the Provost for
+   publication.
+   [1]View Case
+
+References
+
+   1. file:///media/30502

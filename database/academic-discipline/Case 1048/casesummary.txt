@@ -1,0 +1,150 @@
+Case 1048
+
+   DATE:
+
+   February 22, 2022
+
+   PARTIES:
+
+   University of Toronto v. L.L. ("the Student")
+
+   HEARING DATE:
+
+   December 7, 2021, via Zoom
+
+   Panel Members:
+
+   Mr. Simon Clements, Chair
+   Dr. Chris Koenig-Woodyard, Faculty Panel Member
+   Ms. Julie Farmer, Student Panel Member
+
+   Appearances:
+
+   Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+   Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+
+   Not in Attendance:
+
+   The Student
+
+   Hearing Secretary:
+
+   Ms. Nadia Bruno, Special Projects Officer, Office of Appeals,
+   Discipline and Faculty Grievances
+
+   The‚ØStudent‚Øwas charged under s. B.i.1(c)‚Øof the‚ØCode of Behaviour
+   on Academic Matters, 1995‚Ø(the ‚Code‚) on the basis that she knowingly
+   personated an individual at a final exam. The Student was also charged
+   under s. B.i.1(a) of the Code on the basis that she knowingly forged or
+   in any other way altered or falsified a document required by the
+   University, or that she knowingly uttered, circulated or made use of
+   that forged, altered or falsified document, namely a final exam. In the
+   alternative, the‚ØStudent‚Øwas charged under s.‚ØB.i.3(b) of
+   the‚ØCode‚Øon the basis that the‚ØStudent‚Øknowingly engaged in a form
+   of cheating, academic dishonesty or misconduct, fraud, or
+   misrepresentation‚Øin order to‚Øobtain academic credit or other
+   academic advantage‚Øin connection with a final exam.
+
+   Neither the Student nor a legal representative of
+   the‚ØStudent‚Øappeared at the hearing. Assistant Discipline Counsel
+   (‚Counsel‚) advised the Panel that the Student, nor a legal
+   representative for the Student, had responded to the Notice of
+   Electronic Hearing. Counsel requested that the Panel proceed with the
+   hearing in the absence of the Student. The Panel noted that s. 6 of the
+   Statutory Powers and Procedures Act (‚SPPA‚) outlines that parties to a
+   proceeding shall be given reasonable notice of hearing by the tribunal.
+   Furthermore, s. 7(3) of the SPPA outlines that where reasonable notice
+   of a hearing has been given to a party to a proceeding in accordance
+   with the SPPA and the party does not participate in accordance with
+   notice, the tribunal may proceed without the party‚s participation. The
+   Panel noted that rule 17 of the University Tribunal‚s Rules of Practice
+   and Procedure (‚Rules‚) mirrors that which is outlined in s. 7(3) of
+   the SPPA. The Panel also outlined that rule 9 of the Rules provides
+   that the charges, a notice of hearing, and disclosure may be served on
+   a student by email or courier to the student‚s email or postal address
+   in University of Toronto Repository of Student Information (‚ROSI‚).
+   The University‚s‚ØPolicy on Official Correspondence with
+   Students‚Øprovides that students are responsible for maintaining a
+   current and valid postal address and email account in ROSI. Students
+   are expected to monitor and retrieve all mail, including emails, on a
+   frequent and consistent basis. The Panel noted that the onus of proof
+   is on the University to demonstrate that it provided a student with
+   reasonable notice of the hearing. The University provided evidence that
+   the‚ØStudent‚Øhad been served via email and courier at her ROSI-listed
+   email and postal addresses with the‚Øcharges‚Øand Notice of Electronic
+   Hearing. The University also provided evidence that Counsel‚s assistant
+   attempted to call the Student at the telephone number in ROSI but was
+   unable to reach the Student or leave a message as the voicemail box had
+   not been initialized. The University also provided evidence that the
+   last time someone accessed the Student‚s email account was after the
+   Notice of Electronic Hearing and the charges were served on the Student
+   by email. Therefore, the Panel noted that the Student would have been
+   able to read the Notice of Electronic Hearing. The Panel found that
+   reasonable notice of the hearing had been provided and that it could
+   hear the case on its merits in the absence of the Student. The hearing
+   proceeded on the basis that the Student denied the charges made against
+   her.
+
+   Regarding the charges under ss. B.i.1(c) and B.i.1(a) of the Code, the
+   Panel received affidavit evidence of the Professor who was the course
+   coordinator of course for which the exam in question was submitted. The
+   Professor‚s affidavit outlined that she found one exam booklet with
+   identifying information that did not match any of the students enrolled
+   in the course. The Panel noted that the Professor‚s affidavit also
+   outlined that an Associate Professor who assisted her in reviewing the
+   exam requested that the Computer Science Undergraduate Office search
+   the student name and number that appeared on the exam booklet. No
+   student with the student number or student name identified on the exam
+   booklet turned up in their search. On review of the exam sign-in sheets
+   and the class list, it was discovered that the Student signed in as
+   present for the exam but did not submit a completed exam booklet. The
+   University requested that the Student attend a meeting to discuss the
+   exam. The Panel received affidavit evidence of the administrator who
+   was present at the meeting with the Student. The administrator‚s
+   affidavit outlined that the Student denied that the exam booklet in
+   question was her exam.
+
+   The Panel heard testimonial evidence of a Forensic Document Examiner,
+   Diane Kruger, who was accepted as an expert in forensic document
+   examination. Ms. Kruger testified that a name, student ID, and student
+   number which had originally been written on the cover of the exam
+   booklet had been erased and replaced. Ms. Kruger further testified that
+   she attempted to recover the erased writing by visual inspection under
+   various light sources and microscopic inspection, however, because the
+   erasures were so thorough, she was not able to recover the erased
+   writing. The Panel noted that Ms. Kruger outlined that it appeared as
+   though lower-case letters ‚ssa‚ had been erased from the first name
+   field on the exam. Furthermore, it appeared as though an upper case ‚L‚
+   and lower-case ‚y‚ had been erased from the family name field. The
+   Panel found that the only reasonable explanation for the Student being
+   present at the exam but no exam booklet with her name on it was
+   received is that when the Student realized she was going to fail the
+   exam she erased her name and student number and replaced it with a
+   fictitious name and student number. The Student was found guilty
+
+   of forging or in any other way altering or falsifying an academic
+   record, and/or uttering, circulating or making use of such forged,
+   altered or falsified record. The University withdrew the first and
+   third charge.
+
+   In determining sanction,‚Øthe‚ØPanel received various authorities
+   dealing with similar offences involving the falsification of documents.
+   The Panel noted that the most relevant of these authorities imposed a
+   sanction of a zero in the course, a two-year suspension, and a
+   three-year notation. The Panel also considered the factors outlined in
+   the University of Toronto v. Mr. C (Case No. 1976/77-3, November 5,
+   1976). The Panel noted that there was no evidence of extenuating
+   circumstances and no evidence of insight into her conduct. The
+   University submitted that the forgery or falsification of an academic
+   record is an offence of the utmost seriousness because such
+   falsification both undermines the credibility of the University and of
+   other students who have legitimately earned their degrees. The Panel
+   agreed with this submission. The Panel imposed the following sanctions:
+   final grade of zero in the courses; two-year suspension; three-year
+   notation on transcript; and a report to the Provost for publication.
+   [1]View Case
+
+References
+
+   1. file:///media/30267

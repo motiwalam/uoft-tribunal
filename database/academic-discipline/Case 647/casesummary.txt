@@ -1,0 +1,91 @@
+Case 647
+
+DATE:
+
+   October 30, 2012
+
+PARTIES:
+
+   University of Toronto v. A.K.
+
+Hearing Date(s):
+
+   May 22, 2012; June 5, 2012; June 7, 2012; June 18, 2012
+
+Panel Members:
+
+   Mr. John A. Keefe, Chair
+   Professor Gabriele DâEleuterio, Faculty Member
+   Ms. Vy Nguyen, Student Member
+
+Appearances:
+
+   Ms. Lily Harmer, Assistant Discipline Counsel for the University
+   Ms. Sierra Robart, DLS for the Student
+   Mr. Ab Gehani, Manager of Client Services at the University's Help Desk
+   Dr. Sheryl Stevenson, Writing Specialist at the Scarborough and St.
+   George campuses
+   Mr. Kevin Lo, Managing Director, Digital Forensics and Electronic
+   Discoveries at Froese Forensics
+
+In Attendance:
+
+   Ms. A.K., the Student
+   Prof. Eleanor Irwin, Dean's Designate
+   Ms. Betty-Ann Campbell, Law Clerk, Paliare Roland
+   Ms.Â Natalie Ramtahal, Coordinator, Appeals, Discipline and Faculty
+   Grievances
+   Mr. Chrisopher Lang, Director, Appeals, Discipline and Faculty
+   Grievances
+
+   Student charged under s. B.i.1 (d) of the Code. The charges related to
+   allegations that the Student submitted a purchased essay. An
+   originality report by turnitin.com of the Studentâs essay showed a
+   similarity index of 81%, meaning that 81% of the words in her essay
+   matched a paper submitted by a student at York University. The Student
+   claimed that the essay was her original work. To corroborate her claim,
+   she submitted the electronic files of her essay and handwritten notes
+   she claimed to have written while preparing for the essay. The Student
+   also claimed that she sent her essay to a person named Bryan to receive
+   assistance but was told he could not help with her essay. The issue at
+   the hearings was whether the University could prove on a balance of
+   probabilities that the essay was not the Studentâs original work. The
+   metadata analysis of the file showed the author as Bryan and the
+   company as ZAS. Bryan was known by the University as a disbarred lawyer
+   who assisted students in writing papers. The Panel accepted the expert
+   testimony that the only way the metadata on the Word document could
+   show Bryan as the author and ZAS as the company would be if the
+   document was created on Bryanâs computer. With regards to the notes,
+   the Panel found that the Student prepared them during the course and
+   that they showed that she had real input into the ideas and content of
+   the essay. Based on the above evidence, the Panel concluded that the
+   Student took notes and gave them to Bryan who took the words and ideas
+   from the notes and put them into an essay form which the Student
+   submitted as her own work. Consequently, the Panel concluded that the
+   essay was prepared at least in part by Bryan and found the Student
+   guilty under s. B.i.1(d) . However, the Panel was not convinced that
+   the Student purchased the essay from Bryan. With regards to the
+   proposed penalty, the Panel rejected the Studentâs submission that the
+   suspension should commence on the date of the offence or the date of
+   the notice of hearing. It was not appropriate to backdate the
+   commencement of the suspension unless it was in close proximity to the
+   date of the hearing. However, the Panel stated that it was appropriate
+   for the suspension to commence on a date that would allow the Student
+   to resume her studies in the summer term of 2014. Accordingly, the
+   Panel backdated the commencement to May 1, 2012. In considering the
+   penalty, the Panel noted that had it found that the Student purchased
+   her essay, it would have imposed a far more severe penalty. The Panel
+   found that a two-year suspension was appropriate for first offenders
+   found guilty of plagiarism. The Panel noted that there was little
+   likelihood of repetition as the Student completed all her courses
+   necessary to graduate. The Panel found that there were no extenuating
+   circumstances and emphasized the need for general deterrence without
+   avoiding a penalty that unduly punishes the Student. The Panel imposed
+   a grade assignment of zero for the course; a two-year suspension; a
+   three-year notation on the transcript or until graduation whichever was
+   to occur first; and a report be issued to the Provost.
+   [1]View Case
+
+References
+
+   1. file:///media/13020

@@ -1,0 +1,127 @@
+Case 948 - Interim Decision
+
+   [1]Case 948 - Finding
+   [2]Case 948 - Sanction
+   DATE : December 21, 2018
+   PARTIES : University of Toronto v. S.W.
+   HEARING DATE : September 12, 2018
+
+   Panel Members :
+   Mr. Nader R. Hasan, Co. Chair
+   Professor Pascal van Lieshout, Faculty Panel Member
+   Ms. Yusra Qazi, Student Panel Member
+
+   Appearances :
+   Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+   Ms. Lauren Pearce, Assistant Discipline Counsel, Paliare Roland
+   Rosenberg Rothstein LLP
+   Mr. Lorne Sabsay, Counsel for the Student
+   Ms. Jennifer Jackson, Assistant to Mr. Lorne Sabsay, Counsel for the
+   Student
+   S.W., the Student (via Skype)
+
+   In Attendance :
+   Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary,
+   Appeals, Discipline and Faculty Grievances
+
+   The Student was charged with academic misconduct under the Code of
+   Behaviour on Academic Matters, 1995 (the â Code â) on the basis that
+   she allegedly submitted fraudulent transcripts to support her transfer
+   application to the University. There was no dispute between the parties
+   that fraudulent transcripts were submitted on the Studentâs behalf; the
+   dispute was whether the Student was aware of the fraudulent nature of
+   the transcripts. The Provost intended to call as a witness Y.L., the
+   ex-boyfriend of the Student, who was expected to testify about the
+   Studentâs knowledge of the fraudulent transcripts. In advance of the
+   hearing on the merits, the Student brought a motion before the Panel to
+   preclude Y.L. from testifying in the proceedings. The Provost in turn
+   sought an order declaring that the judgment and portions of the
+   transcript from Y.L.âs criminal trial be admissible in the hearing on
+   the merits of the charges against the Student. The Provost further
+   sought an order that the transcripts from Y.L.âs criminal trial be
+   admissible for the purpose of impeaching Y.L. or the Student during
+   their respective cross-examinations before the Panel.
+
+   Counsel for the Student asserted that it would be a violation of the
+   Studentâs rights under the Canadian Charter of Rights and Freedoms (the
+   â Charter â) and the Ontario Human Rights Code to have Y.L. testify,
+   and that not only should a portion of Y.L.âs evidence be excluded, but
+   that the Provost should be precluded from calling him altogether.
+   Counsel for the Student argued that the Student would be traumatized by
+   having Y.L. testify. The Panel noted that this motion presented a
+   threshold issue of whether the Charter applies to University discipline
+   proceedings, which assertion the Provost contested. The Panel held that
+   it was not necessary to decide this issue because even if the Charter
+   did apply, the Studentâs motion must be dismissed. It noted that Y.Lâs
+   evidence went to the heart of the issues (whether the Student had
+   knowledge of the fraudulent nature of the transcripts) and that Counsel
+   for the Student had provided no authority for the proposition that the
+   Tribunal had the power to preclude a witness with relevant evidence due
+   to the emotional impact on another party. Neither did Counsel for the
+   Student tender any evidence from a physician or otherwise that
+   supported the proposition that the Student would be traumatized by
+   having Y.L. testify. The Panel invited Counsel for the Student to seek
+   alternative relief in the form of accommodation for the Student to deal
+   with the anticipated emotional issues, which accommodation was
+   ultimately reached between the parties.
+
+   With regard to the admissibility of the judgment from Y.L.âs criminal
+   trial (in which adverse findings of credibility were made against the
+   Student and to some extent Y.L.), the Panel noted that generally, a
+   trier of fact's assessment of a witness' credibility in one proceeding
+   is not relevant to another tribunal's assessment of that witness'
+   credibility in a subsequent proceeding. The Panel was satisfied that it
+   was for it to independently assess and come to its own conclusions with
+   respect to the Student's credibility. It noted subsection 15(1) of the
+   Statutory Powers and Procedure Act (the â SPPA â) which permits a
+   tribunal to admit as evidence at a hearing any oral testimony and
+   document relevant to the proceeding, and to exclude anything unduly
+   repetitious. The Panel noted that this subsection affords it latitude
+   in admitting evidence that may not be admissible in a civil or criminal
+   proceeding, but that evidence must be relevant and must not lead to
+   unfairness. Guided by the rules of evidence, under which evidence can
+   be excluded where its probative value is outweighed by its prejudicial
+   effect, the Panel noted that the risk of prejudice here was
+   significant. Although the Panel would no doubt direct itself not to be
+   unduly influenced by the judgment delivered in the criminal trial, the
+   findings in that trial had the potential to overpower the Panel. Given
+   the slight probative value and the high potential for prejudice, the
+   Panel ruled that the judgment was inadmissible.
+
+   The Panel was satisfied that different considerations applied to the
+   transcripts from Y.L.âs criminal trial, noting that it is established
+   law that an out-of-court statement made by a party to a proceeding that
+   is adverse to their interest in that proceeding may be tendered by an
+   opposing party to prove the truth of the facts contained in the
+   statement. Even if it were wrong in this regard, the Panel decided, it
+   would admit the transcripts under subsection 15(1) of the SPPA . The
+   Panel stated that the probative value of admitting the transcripts
+   outweighed its prejudicial effects and noted that although transcripts
+   are hearsay statements, they contain the hallmarks of reliability. The
+   Panel also noted that the Student was not a compellable witness in the
+   proceedings before it and if she chose not to testify, the transcripts
+   would be the only evidence of what she had said about the fraudulent
+   academic transcripts. The Panel therefore ruled that the transcripts be
+   admitted.
+
+   Finally, in ordering that the transcripts could be used for
+   cross-examination, the Panel stated that it had no basis to interfere
+   with the long established principle that parties may be cross-examined
+   on their prior statements. The Panel accepted that cross-examination on
+   a prior inconsistent statement may be used to impeach the credibility
+   of the witness.
+
+   The Studentâs motion to preclude Y.L. from testifying was dismissed.
+   The Universityâs motion was allowed in part; the judgment from Y.L.âs
+   criminal trial was held inadmissible, but the transcripts were held to
+   be admissible in the hearing on the merits of the charges against the
+   Student and were permitted to be used for the purpose of
+   cross-examination.
+   [3]View Case
+
+References
+
+   1. https://governingcouncil.utoronto.ca/sites/default/files/university-tribunal-decisions/948_Redacted.pdf
+   2. https://governingcouncil.utoronto.ca/sites/default/files/university-tribunal-decisions/Case%20948%20-%20Sanction.pdf
+   3. file:///media/28798

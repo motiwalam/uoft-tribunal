@@ -1,0 +1,106 @@
+Case 1077
+
+DATE:
+
+   November 2, 2020
+
+PARTIES:
+
+   University of Toronto v. J.H. (âthe Studentâ)
+
+HEARING DATES:
+
+   August 6, 2020, via Zoom
+
+Panel Members:
+
+   Mr. Dean Embry, Chair
+   Professor Kimberley Widger, Faculty Panel Member
+   Ms. Emily Hawes, Student Panel Member
+
+Appearances:
+
+   Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+
+Not in Attendance:
+
+   The Student
+
+In Attendance:
+
+   Ms. Krista Kennedy, Administrative Clerk &Â HearingÂ Secretary, Office
+   of the Appeals, Discipline and Faculty Grievances, University of
+   Toronto
+
+   TheÂ StudentÂ was charged underÂ s. B.i.1(d) of theâ¯Code of Behaviour
+   on Academic Matters, 1995â¯(the âCodeâ) on the basis that heÂ knowingly
+   represented an idea or expression of an idea or work of another as his
+   own in an assignmentÂ to obtain an academic credit. In the alternative,
+   theÂ StudentÂ was charged under ss. B.i.1(b) and B.i.3(b) of
+   theÂ CodeÂ on the basis that theÂ StudentÂ knowingly obtained
+   unauthorized assistance in connection with an assignmentÂ and knowingly
+   engaged in a form of cheating, academic dishonesty or misconduct, fraud
+   or misrepresentationÂ in order toÂ obtain academic credit or other
+   academic advantage.
+
+   Neither the Student nor a legal representative of the Student appeared
+   at the hearing.â¯The University provided evidence that the Student had
+   been served at his ROSI-listed email address with theâ¯chargesâ¯and
+   notice of hearing. The Student was subsequentlyÂ providedÂ withÂ an
+   opportunity to provide submissionsÂ in relation to the request of
+   Assistant Discipline Counsel for thisÂ matter to proceed electronically
+   due to the COVID-19 pandemic. The Student did not respondÂ to this
+   request and the hearing was ordered to proceed electronically.Â The
+   charges,Â notice,Â andÂ otherÂ email correspondence to the
+   StudentÂ went unanswered.Â The PanelÂ found thatÂ Â that the Student
+   had beenÂ provided withÂ Â reasonableâ¯noticeâ¯and proper service in
+   accordance with Rule 14 and 9 of theÂ TribunalâsÂ Rules of Practice and
+   ProcedureÂ andâ¯therefore determined it would proceed to hear the case
+   on its merits in theÂ StudentâsÂ absence.
+
+   The assignment in questionÂ required theÂ StudentÂ to write an
+   interactive tree-map visualization tool in which theÂ StudentÂ was
+   provided withÂ aÂ âstarterÂ codeâ which he wasÂ requiredÂ to
+   buildÂ upon to create the envisioned tool. TheÂ course in question was
+   taught at both the St. George and University of Toronto
+   MississaugaÂ (âUTMâ)Â campusesÂ at the same time in which the âstarter
+   codeâ was the same. However, there were two non-operative changes made
+   to the code to differentiate between the two
+   campuses.Â TheÂ StudentâsÂ assignment contained theÂ UTM started code
+   insteadÂ of the one provided to theÂ St. George campus students.
+
+   Regarding the charges laid under s. B.i.1(d) of theÂ Code, the
+   PanelÂ considered the possibility that theÂ StudentÂ generated his own
+   original work and it was somehow shared or accessedÂ by other students
+   without his knowledge, however, the Panel foundÂ that the identical
+   orÂ substantially similar contents of theÂ StudentâsÂ assignment
+   compared toÂ the assignments of the other studentsÂ andÂ the use
+   ofÂ the UTMÂ âstarter codeâÂ makes thatÂ possibility unlikely.
+   TheÂ Panel found that it was more likelyÂ thanÂ not that
+   theÂ StudentÂ was guilty of one count of knowingly representing an idea
+   or expression of an idea or work of another as his own, contrary to
+   section B.i.1(d) of theÂ Code.Â Given the Panelâs finding, the
+   University withdrew the charges underâ¯ss. B.i.1(b) and B.i.3(b).
+
+   In determining sanction,â¯theÂ PanelÂ declined to treatÂ the Studentâs
+   lack ofÂ participation in the process as an aggravating factor asÂ it
+   is the Panelâs finding that the Studentâs lack of participation is not
+   evidenceÂ that the Student has no insight or is not remorsefulÂ and it
+   would be improper to infer anything from the lack of participation or
+   attendance as there is noÂ evidence before the Panel as to why the
+   Student did not participate in the process.Â Without the Studentâs
+   participation,Â the PanelÂ found no evidence of mitigating
+   circumstances or factorsÂ and accepted the Universityâs submission on
+   penalty. Given the seriousness of the offence the PanelÂ imposedÂ the
+   following sanctions:Â a final grade of zero in the
+   course;Â aÂ two-yearÂ suspensionÂ from the
+   University;Â aÂ three-yearÂ notation of the sanction on
+   theÂ StudentâsÂ transcript; andÂ aÂ publication by theÂ ProvostÂ of a
+   notice of the decision and sanctionsâ¯imposedâ¯with
+   theÂ StudentâsÂ name withheld.
+   [1]View Case
+
+References
+
+   1. file:///media/29497

@@ -1,0 +1,171 @@
+Case 1215
+
+   DATE: January 13, 2022
+   PARTIES: University of Toronto v. S.E.C. ("the Student")
+
+   HEARING DATE: November 12, 2021, via Zoom
+
+   Panel Members:
+   Mr. Christopher Wirth, Chair
+   Professor Glen Jones, Faculty Panel Member
+   Mr. Yazan Zamel, Student Panel Member
+
+   Appearances:
+   Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+   The Student
+
+   Hearing Secretary:
+   Ms. Nadia Bruno, Special Projects Officer, Office of Appeals,
+   Discipline & Faculty Grievances
+
+   NOTE: Case being appealed.
+
+   The Student was charged under s. B.i.1(b) of the‚ØCode of Behaviour on
+   Academic Matters, 1995‚Ø(the ‚Code‚) on the basis that the Student
+   knowingly used or possessed an unauthorized aid or obtained
+   unauthorized assistance in connection with a test. In the alternative,
+   the Student was charged under s. B.i.1(d) of the Code on the basis that
+   the Student knowingly represented as her own an idea or expression of
+   an idea or work of another in a test. In the further alternative, the
+   Student was charged under s. B.i.3(b) of the Code on the basis that the
+   Student knowingly engaged in a form of cheating, academic dishonesty or
+   misconduct, fraud or misrepresentation not otherwise described in the
+   Code in order to obtain academic credit or other academic advantage of
+   any kind in connection with a test.
+
+   The Student attended the hearing and denied the charges. As a result,
+   the hearing proceeded on the basis that the University bore the burden
+   of proving the charges on the balance of probabilities. The University
+   tendered evidence of four witnesses who provided their evidence by way
+   of affidavit, which was accepted by the Panel pursuant to Rule 61 of
+   the University Tribunal‚s Rules of Practice and Procedure. The Student
+   testified on her own behalf.
+
+   The Panel considered the evidence of the Assistant Professor who was
+   the course coordinator for the course in which the test in question was
+   submitted. The Panel noted that a student notified the Assistant
+   Professor that several questions from the test had been posted to
+   Chegg.com during the time period allotted for the test. The University
+   requested information from Chegg.com to investigate the matter. The
+   data obtained by Chegg.com outlined that a subscriber from the
+   University of Toronto with an email address that contained the last and
+   first name of the Student had accessed a question that was on the test.
+   The Panel examined the evidence of the Dean‚s Designate. The affidavit
+   of the Dean‚s Designate outlined that she met with the Student
+   regarding the alleged academic misconduct. At the meeting, the Student
+   denied that the email address belonged to her, denied that she
+   committed an academic offence, and also denied that her IP address
+   could match those used to access Chegg.com. The Student admitted that
+   she had a Chegg.com account but explained that her account was not
+   associated with the email address that contained her last and first
+   name, and that she used her Chegg.com account mainly for homework.
+
+   The Panel reviewed the evidence of the former Director of Faculty
+   Governance (‚Former Director‚). The Former Director‚s affidavit
+   outlined that the Chegg.com‚s Honor Code Team provided an Excel
+   spreadsheet which outlined that a ‚viewer‚ from the University with an
+   email address that contained the last and first name of the Student
+   accessed the answer to a question on the test and it further outlined
+   the IP address that accessed that question on the day of the test. The
+   Panel examined the affidavit and testimonial evidence of the Director
+   of Academic & Collective Technologies in Information Technology
+   Services (‚Director‚). The Director‚s affidavit outlined that at the
+   request of Assistant Discipline Counsel his team pulled the Quercus
+   Application Page View reports for the Student‚s user id. The Student‚s
+   Quercus Application Page View report showed that the user id
+   exclusively assigned to a UTORid with the Student‚s last name and first
+   initial, accessed the course, including the quiz tool for the test at
+   various times from a computer with a particular IP address. To clarify
+   his affidavit, the Director testified that there are two types of IP
+   addresses, a public and a private one. In response to the Student and
+   Panel‚s questions, the Director stated that he had no way of assessing
+   the likelihood of one IP address being assigned to more than one device
+   while using the same router and that each device would have its own
+   private IP address, but it is possible that several devices sharing a
+   common router could have the same public IP address.
+
+   The Student testified that the IP address for her on Quercus when she
+   wrote the test is shown as having been from a Macintosh computer, but
+   she did not own one at that time. Furthermore, the email address shown
+   as the one being used to access the answers on Chegg.com was not hers
+   and that email addresses can be created by anyone. The Student
+   furthered by advising the Panel that she lived in a communal house with
+   an unsecured network and given the evidence on how IP addresses work it
+   could have been anyone in that house. She denied accessing the answer
+   on Chegg.com. In cross-examination, the Student testified that the
+   Director‚s affidavit accurately set out her University of Toronto user
+   id and email address. She further confirmed that she used her
+   University of Toronto ID and password to write the test and no one else
+   had access to that password. The Student indicated that she is a
+   subscriber to Chegg.com. The Student further confirmed that the Quercus
+   information in the Director‚s affidavit shows that someone used her
+   user ID to view the quiz page and the Student has no evidence that
+   Quercus was in any way tampered with. The Panel noted that the Student
+   testified that she had not contacted Chegg.com herself once she was
+   aware of these issues. Based on the evidence and the submissions by
+   Assistant Discipline Counsel and the Student, the Panel considered it
+   to be highly improbable that another University of Toronto student
+   taking the same course as the Student and writing the same test, living
+   with her in the same house and using the same internet, would have
+   created an email address in her name and use that email address to
+   access the answer to the test on Chegg.com and for the IP address which
+   the Student wrote the test to be identical to the IP address to that
+   which accessed Chegg.com to obtain the answer. Accordingly, on a
+   balance of probabilities based upon the clear and convincing evidence,
+   the Panel was satisfied that the Student accessed the answer to the
+   test on Chegg.com and used it to complete the test and thereby
+   committed the academic offence of knowingly using or possessing an
+   unauthorized aid or obtaining unauthorized assistance in connection
+   with the test contrary to s. B.i.1(b) of the Code. Given this finding,
+   the University withdrew the alternative charges.
+
+   During the sanction phase of the hearing, the Student submitted a
+   letter from a doctor which was entered into evidence. She was then
+   cross-examined. She testified that she never provided the letter to the
+   University and stated that when she spoke to the Dean‚s Designate, she
+   felt that it was pointless to do so. Furthermore, she did not tell the
+   Dean‚s Designate that this matter was impacting her mental health or
+   that she was under the care of a doctor. The Student further testified
+   that she wanted to enter this letter into evidence now to show that the
+   University needs to improve matters and she was not using it for the
+   purpose of obtaining a lesser sanction, but rather to demonstrate how
+   these matters can have an impact on mental health. The University had
+   no reply evidence on sanction. The University made submissions on the
+   appropriate sanction. The Student left the hearing during the
+   University‚s submissions and therefore, did not provide her own
+   submissions on the appropriate sanction. The Panel considered the
+   factors and principles relevant to sanction as set out by this Tribunal
+   in The University of Toronto and Mr. C. (Case no. 1976/77-3, November
+   5, 1976). In addition to these factors, the Panel considered other
+   decisions of this Tribunal involving similar misconduct. However, the
+   Panel remained cognizant of the fact that no two cases are identical
+   and that it is not bound by past decisions of this Tribunal, but the
+   Tribunal does try to develop a consistent body of cases so that
+   students are treated fairly and consistently. The Panel noted that the
+   Student‚s adamant denial of the allegations and her refusal to accept
+   responsibility for her conduct was troubling in the context of
+   accessing her character. The Panel was further concerned that there was
+   a real likelihood that the Student would potentially commit a
+   repetition of the offence. The Panel noted that by cheating on the
+   test, the Student undermined the grades-based system of evaluation and
+   broke the honour code that is essential to modern learning.
+   Furthermore, any sanction must denounce cheating on tests and deter
+   others in to protect the academic integrity of the University. Students
+   must understand that this kind of misconduct will have serious
+   repercussions to that they will be deterred from cheating. The Panel
+   accepted the University‚s submission that by using Chegg.com, a paid
+   commercial subscription service, the Student committed a more serious
+   form of academic misconduct, and that while normally the sanction for
+   the first offence would be a two-year suspension, the Panel was
+   satisfied that the circumstances of this case combined with this
+   aggravating factor, a three year suspension of the Student from the
+   University was appropriate. The Panel imposed the following sanctions:
+   a final grade of zero in the course; a three-year suspension; a
+   four-year notation on the transcript; and a report to the Provost for
+   publication.
+   [1]View Case
+
+References
+
+   1. file:///media/30176

@@ -1,0 +1,164 @@
+Case 1274
+
+FILE:
+
+   Case # 1274 (2022-2023)
+
+DATE:
+
+   July 11, 2022
+
+PARTIES:
+
+   University of Toronto v. X.Z. (‚the Student‚)
+
+HEARING DATE(S):
+
+   April 19, 2022, via Zoom
+
+PANEL MEMBERS:
+
+   Ms. Cynthia Kuehl, Chair
+
+   Professor Ernest Lam, Faculty Panel Member
+
+   Ms. Saskia Van Beers, Student Panel Member
+
+APPEARANCES:
+
+   Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+
+   Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+
+HEARING SECRETARY:
+
+   Ms. Nadia Bruno, Special Projects Officer, Office of Appeals,
+   Discipline and Faculty Grievances
+
+   The Student was charged under s. B.i.1(b) of the Code of Behaviour on
+   Academic Matters , 1995 (the ‚ Code ‚ ) on the basis that the Student
+   knowingly used or possessed an unauthorized aid or obtained
+   unauthorized assistance in an assessment. In the alternative, the
+   Student was charged under s. B.i.3(b) of the Code on the basis that the
+   Student knowingly engaged in a form of cheating, academic dishonesty or
+   misconduct, fraud or misrepresentation not otherwise described in the
+   Code in order to obtain academic credit or other academic advantage in
+   connection with an assessment.
+
+   The hearing was scheduled to commence at 5:45 p.m., but the Panel
+   waited until 6:00 p.m. before commencing the hearing. The Student did
+   not appear. The University requested that the hearing proceed in the
+   absence of the Student. The Panel noted that the jurisdiction for
+   proceeding in the absence of the Student is set out in ss. 6 and 7 of
+   the Statutory Powers Procedure Act (‚SPPA‚) and rule 17 of the
+   University Tribunal Rules of Practice and Procedure (‚Rules‚). The
+   Panel further noted that the Tribunal may proceed in the absence of a
+   party provided that reasonable notice of an oral hearing has been given
+   to the party in accordance with the SPPA, and when a party does not
+   attend and reasonable notice was given, a party is not entitled to
+   further notice. The University provided evidence that the Student was
+   served with the charges, Notice of Electronic Hearing, and other
+   correspondence to the Student‚s email address as recorded in the
+   Repository of Student Information (‚ROSI‚). The Panel noted that
+   students are responsible for maintaining in ROSI a current and valid
+   mailing address and University-issued email account and are expected to
+   retrieve mail and email on a frequent and consistent basis. Rule 9 of
+   the Rules provides that a student may be served by sending a copy of a
+   document to a student‚s email address as contained in ROSI. The Panel
+   noted that the service of documents to the Student‚s email address
+   contained in ROSI therefore met the requirements for service under rule
+   9. The University provided evidence that they took numerous steps to
+   contact the Student including by email, telephone, and courier to the
+   Student‚s last known mailing address contained in ROSI. Given the
+   evidence, the Panel found that notice had been given in accordance with
+   the SPPA and the Rules and that there was no reason not to proceed in
+   the absence of the Student in accordance with s. 7(3) of the SPPA. The
+   Panel proceeded to hear the case on its merits in the absence of the
+   Student.
+
+   Regarding the charge under s.B.i.1(b) of the Code, the Panel received
+   affidavit evidence of one of the professors who taught the course for
+   which the assessment in question was submitted and of a member of the
+   Association of Professional Language Interpreters who provided a
+   translation of a poster for Easy Edu, a commercial tutoring service.
+   The Professor supplemented his affidavit with testimonial evidence. The
+   Professor‚s evidence outlined that after the assessment, the Professor
+   was contacted by a student in the course who advised that there has
+   been a review session online by a commercial tutoring service called
+   Easy Edu. The review session included a copy of a student package that
+   contained 22 questions. The Professor confirmed that those exact same
+   22 questions had been provided to another student who subsequently
+   admitted they had paid a tutor to check their answers during the
+   assessment period. Another student emailed the Professor, and the
+   Student Academic Integrity office, expressing concerns with the
+   academic integrity of this particular assessment and attached a link to
+   a YouTube video of the Easy Edu review session. Upon review of the
+   YouTube video, the Professor noted that all 22 questions in the student
+   package were solved, there were at least 180 attendees, and the session
+   occurred during the assessment period. The Panel noted that the
+   Professor testified that the student package had four different authors
+   on it and that in his view, a proficient person could both modify the
+   questions and develop solutions to all the questions in a one-hour
+   period. The Professor further testified that although the video was in
+   another language, he was able to understand the math as seen in the
+   video and confirmed that the 22 questions that were solved during the
+   review session were the ones he had written for the assessment.
+   Furthermore, review of the rough work submitted by the Student revealed
+   a number of similarities with the answers that Easy Edu provided in the
+   review session. The Panel noted that the Professor confirmed that he
+   was able to see the names of the attendees at the review session and
+   these names included the name of the Student. The Panel was convinced,
+   on a balance of probabilities, that the student whose name appeared on
+   the review video was the same person as the Student who is the subject
+   of these charges. The Panel further noted that there was only one
+   student by that name in the course, and therefore only one student of
+   that name would be motivated to attend. Furthermore, the similarities
+   of the specific idiosyncratic notations between the Easy Edu answers
+   and the Student‚s rough work established that the Student received and
+   used unauthorized assistance to complete the assessment, contrary to s.
+   B.i.1(b) of the Code. In consideration of all the evidence, the Panel
+   found that the University had established the first charge. The
+   University withdrew the alternative charge.
+
+   In determining sanction, the Panel carefully considered the factors set
+   out in University of Toronto v. Mr. C. (Case No. 1976/77-3, November 5,
+   1976). The Panel noted that there was no evidence of the Student‚s
+   character other than those in relation to the offence. The Panel noted
+   that this was the Student‚s first offence, but it was unable to make
+   any findings in relation to the likelihood of repetition of offence in
+   the future. With respect to the nature of the offence, the Panel noted
+   that the University must be able to trust that asynchronous testing
+   will be completed with the same academic integrity as if the test were
+   administered in person. Regarding the detriment to the University, the
+   Panel accepted that the University‚s trust in the Student was harmed as
+   a result of this incident and noted that the University is harmed
+   whenever students participate in mass cheating incidents, as they
+   potentially send a message to the broader community regarding the
+   University‚s integrity. The Panel outlined that general deterrence is
+   an important factor in these cases especially since it is apparent that
+   the abuse of asynchronous/online testing is an ongoing issue at the
+   University. The Panel noted that unauthorized assistance strikes at the
+   heart of academic integrity, and it is appropriate to send a strong
+   message to student that this type of misconduct will be treated very
+   seriously. In determining the appropriate length of suspension, the
+   Panel had particular regard for two cases provided to it by the
+   University: University of Toronto and D.K. (Case No. 1119, July 21,
+   2021) ( D.K.) and University of Toronto and S.C. (Case No. 1215,
+   January 13, 2022) ( S.C .). The Panel agreed that where there is the
+   use of a commercial provider there ought to be consequences over and
+   above the typical two-year suspension for unauthorized assistance and
+   conventional academic dishonesty. S.C. and D.K. are good examples of
+   incremental increased in the length of suspension. Given the absence of
+   any other aggravating factors and any prior misconduct, the Panel
+   determined that a suspension of two-and-a-half years, representing the
+   aggravation of a commercial nature of enterprise only, was appropriate.
+   The Panel imposed the following sanctions: a grade of zero in the
+   course; a two-and-a-half-year suspension; a three-and-a-half-year
+   notation on the transcript; and a report to the Provost office for
+   publication.
+   [1]View Case
+
+References
+
+   1. file:///media/30613

@@ -1,0 +1,151 @@
+Case 1301
+
+FILE:
+
+   Case # 1301 (2023-2024)
+
+DATE:
+
+   October 23, 2023
+
+Parties:
+
+   University of Toronto v. M.S. (‚the Student‚)
+
+Hearing Date(s):
+
+   June 13, 2023, in person
+
+   July 25, 2023, via Zoom
+
+Panel Members:
+
+   Sarah Whitmore, Chair
+
+   Professor Michael Saini, Faculty Panel Member
+
+   Cameron Miranda-Radbord, Student Panel Member
+
+Appearances:
+
+   William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+
+   Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg
+   Rothstein LLP
+
+   Ivan Hsieh, Representative for the Student, Downtown Legal Services
+
+   Joshua Lee, Co-Representative for the Student, Downtown Legal Services
+
+   The Student
+
+Hearing Secretary:
+
+   Carmelle Salomon-Labb√©, Associate Director, Office of Appeals,
+   Discipline and Faculty Grievances
+
+   Christopher Lang, Director, Office of Appeals, Discipline and Faculty
+   Grievances
+
+   The Student was charged with knowingly engaging in a form of cheating,
+   academic dishonesty or misconduct, fraud or misrepresentation not
+   otherwise described in the Code of Behaviour on Academic Matters, 2019
+   (the ‚Code‚) in connection with a term test in order to obtain academic
+   credit, contrary to s. B.i.3(b) of the Code. The Student was also
+   charged with knowingly representing as their own, an idea or expression
+   of an idea, or work of another in a writing assignment, contrary to s.
+   B.i.1(d) of the Code. The Student was further charged with knowingly
+   forging, or in any other way, altering or falsifying a document or
+   evidence required by the University, or uttering, circulating or making
+   use of such forged, altered or falsified document or evidence, contrary
+   to s. B.i.1(a) of the Code. In the alternative, the Student was charged
+   with knowingly obtaining unauthorized assistance in connection with a
+   writing assignment and knowingly engaging in a form of cheating,
+   academic dishonesty or misconduct, fraud or misrepresentation in order
+   to obtain academic credit by submitting a forged, altered or falsified
+   invoice, contrary to s. B.i.1(b) and B.i.3(b) of the Code,
+   respectively.¬  In the further alternative, the Student was charged
+   with three counts of knowingly engaging in a form of cheating, academic
+   dishonesty or misconduct, fraud or misrepresentation not otherwise
+   described in the Code in order to obtain academic credit or other
+   academic advantage in connection a writing assignment, contrary to s.
+   B. i.3(b) of the Code.
+
+   The hearing proceeded on the basis of an Agreed Statement of Facts
+   (‚ASF‚). The Panel noted that the ASF outlined that the Provost
+   withdrew the charge made in relation to the term test under s. B.i.3(b)
+   of the Code. With respect to the remaining charges, the Student
+   admitted that they (a) knowingly represented as their own an idea or
+   expression of an idea or work of another; (b) knowingly obtained
+   unauthorized assistance; and (c) knowingly engaged in a form of
+   cheating, academic dishonesty or misconduct, fraud or misrepresentation
+   not otherwise described in the Code in order to obtain academic credit
+   or other academic advantage in connection with a writing assignment.
+
+   Regarding the invoice submitted in support of the Student‚s position
+   that they did not commit an academic offence in connection with the
+   term test, the Panel noted that the ASF outlined that an Academic
+   Integrity Assistant (‚AIA‚) conducted various searches to verify the
+   authenticity of the invoice. The AIA found that the name of the company
+   on the invoice did not appear in any Google searches and when the AIA
+   attended the address for the company listed on the invoice, no company
+   by that name existed at that address. The Panel received affidavit
+   evidence of an employee of the car repair shop located at the addressed
+   listed for the company on the invoice. Their affidavit outlined¬  that
+   to the best of their knowledge, since 2017, there has never been a
+   company by the name listed on the invoice at that location. The Student
+   admits that the invoice is (a) forged, altered, or falsified; (b) the
+   invoice was a document or evidence required by the University; and (c)
+   the Student uttered, circulated or made use of the invoice. The Student
+   denied that they knew or reasonably ought to have known that the
+   invoice was forged, altered, or falsified. The Panel was divided. The
+   Majority Panel (the ‚Majority‚) found the Student guilty under s.
+   B.i.1(a) of the Code. The Majority noted that a student does not need
+   actual knowledge, but it can be established on an objective test of
+   whether a student knew or ought to have known. Furthermore, the Code
+   penalizes not just intentional acts of forgery but also acts of forgery
+   which result from unreasonable ignorance or reckless indifference. The
+   University Tribunal‚s Appeal Division confirmed this principle in
+   University of Toronto and C.Z. , (Case No. 512, July 27, 2006), in
+   respect to the offence of plagiarism. The Majority found that this
+   principle applies equally to forgery offences. The Majority noted that
+   where there are circumstances present for a student to reasonably
+   believe that a document required by the University may be forged,
+   altered or falsified, before submitting the document, a student should
+   take steps to assess the authenticity of the document. Otherwise,
+   students could blindly submit documents to the University without
+   considering their authenticity and face no consequences under the Code.
+   Furthermore, such a result would undermine the purpose of forgery
+   offences which is to foster and support the integrity of the University
+   community. It was the Student‚s evidence that upon receipt of the
+   invoice, they checked the invoice to confirm whether their name and
+   amount was accurate. Based on the evidence before it, the Majority
+   found that in the suspicious circumstances of this case and the
+   awareness of the University‚s need of the invoice as part of the
+   academic discipline proceeding, a reasonable person would have taken
+   some additional steps to verify and assess whether the invoice was
+   authentic. The Majority further found that the Student did not need to
+   be certain of the authenticity of the invoice when they chose to submit
+   it to the University, but they also could not be recklessly indifferent
+   to its authenticity, which they were.
+
+   In determining sanction, the Panel considered the Joint Submission on
+   Penalty (‚JSP‚). The Panel noted that the JSP in this case is
+   reasonable. The Panel took into consideration the seriousness of the
+   offences and the fact that these were not the Student‚s first offences.
+   Therefore, there is a likelihood that the Student may commit another
+   offence. The Panel noted that forgery and plagiarism are on the most
+   serious end of the spectrum of Code offences because these offences are
+   a breach of the University‚s trust relationship with its students. The
+   Panel also considered certain mitigating factors such as the Student‚s
+   cooperation in the process and entering into the ASF and JSP, thereby
+   showing insight and remorse. The Panel imposed the following sanctions:
+   a grade of zero in the course; a five-year suspension; a notation on
+   the transcript for six years or until graduation; and a report to the
+   Provost for publication.
+   [1]View Case
+
+References
+
+   1. file:///media/31343
