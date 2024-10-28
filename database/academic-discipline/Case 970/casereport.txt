@@ -1,0 +1,438 @@
+Case No.: 970
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on July 20, 2018
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+-■-
+
+S
+
+J
+
+REASONS FOR DECISION
+
+Hearing Dates: August 10, 2018 and October 4, 2018
+Members of the Panel:
+Ms. Sara Zborovski, Barrister and Solicitor, Chair
+Professor Michael Evans, Faculty Panel Member
+Ms. Yusra Qazi, Student Panel Member
+Appearances:
+Robert A. Centa, Assistant Discipline Counsel, Paliare Roland, Barristers
+In Attendance:
+Ms. Laurie O’Handley, Academic Integrity Specialist, Faculty of Arts & Science
+Hearing Secretary:
+Mr. Christopher Lang, Director, Appeals, Discipline and Academic Grievances, University of
+Toronto (August 10, 2018)
+Ms. Tracey Gamerio, Associate Director, Appeals, Discipline and Academic Grievances,
+University of Toronto (October 4, 2018)
+Not in Attendance:
+Mr. S
+J
+, the Student
+
+-■-
+
+2
+
+--
+
+1.
+
+This panel of the University Tribunal held a hearing on October 4th, 2018 to consider
+
+J
+
+-
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 9:45 am on August 10th, 2018. At that time,
+
+the charges brought by the University of Toronto (the “University”) against Mr. S
+
+Discipline Counsel advised that neither the Student nor a representative of the Student had
+responded to the Notice of Hearing.
+3.
+
+Discipline Counsel made submissions on proceeding with the hearing in the absence
+
+of the Student. He advised the Tribunal that the following attempts had been made to provide
+notice of the charges and hearing to the Student:
+i.
+
+On April 18th, the University sent the charges as issued to the Student
+to his utoronto email address, the email address provided by him in
+ROSI.
+
+ii.
+
+On June 15th, the University attempted to contact the Student by email
+at his utoronto email address to advise that he had been charged with
+certain offences under the Code and that a hearing had been scheduled
+to take place on August 10th at 9:45. This correspondence to the
+Student also advised that no hard copies of documents would be
+provided by courier because he had not listed a current or permanent
+address in ROSI.
+
+The Student did not respond to any of this
+
+correspondence. No “bounce back” message was received indicating
+that the email could not be delivered.
+4.
+
+As of the August 10th hearing date, the Student had not responded to any of the above-
+
+noted correspondence.
+
+3
+
+5.
+
+However, in light of the limited attempt to provide notice to the Student, i.e., only
+
+through his utoronto account, the Tribunal adjourned the hearing to October 4th, 2018 to
+provide additional time for the Student to respond to notice of the hearing.
+6.
+
+At the hearing on October 4th, Discipline Counsel advised of the following additional
+
+attempts which had been made to contact the Student to advise of the new hearing date:
+i.
+
+On August 10th, 2018, the Office of Governing Council sent the charges
+in this matter on the Student by email to the email address that the
+Student had provided in ROSI.
+
+No “bounce back” message was
+
+received indicating that the email could not be delivered.
+ii.
+
+Assistant Discipline Counsel, was advised by Mike Wiseman, acting
+Director, Information Security, Information Technology Services at the
+University that the last login to the Student’s utoronto account was
+September 21st, 2018 at 12:09 and that the account has not been
+forwarded to another email account.
+
+iii.
+
+A student in Assistant Discipline Counsel’s office contacted Owens
+OnLine, the company that placed the request to verify the academic
+credentials of the Student to determine if they had additional contact
+information for the Student but was advised that the company has not
+had any direct communication with the Student and no contact
+information for him.
+
+iv.
+
+On August 20th, 2018, Assistant Discipline Counsel sent a letter by
+overnight courier to the Student at the address provided in ROSI
+attaching the Notice of Hearing for the continuation of the hearing on
+October 4th at 1:45 pm, the revised charges, correspondence from the
+Office of Governing Council, the Code and the University Tribunal Rules
+of Practice and Procedure (the “Rules”). On August 21st, 2018 the
+courier advised Assistant Discipline Counsel’s office that they received
+no answer at the address, that the concierge confirmed that the Student
+
+4
+
+lived at the address but would not accept the courier package. Assistant
+Discipline Counsel subsequently followed up by sending a letter to the
+Student by mail to this same address enclosing the Notice of Hearing
+for the continuation of the hearing on October 4th at 1:45 pm and the
+revised charge.
+7.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”) and
+
+Rule 17 of the Rules, where reasonable notice of an oral hearing has been given to a party
+in accordance with the Act and the party does not attend the hearing, the Tribunal may
+proceed in the absence of the party and the party is not entitled to any further notice in the
+proceeding.
+8.
+
+The University requested that the Tribunal proceed with this hearing in the absence of
+
+the Student.
+9.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+
+including by sending a copy of the document by courier to the student’s mailing address in
+ROSI or by emailing a copy of the document to the student’s email address in ROSI.
+10.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account
+on ROSI. Students are expected to monitor and retrieve all mail, including emails, on a
+frequent and consistent basis.
+11.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+
+reasonable notice of the hearing.
+12.
+
+Based on totality of the attempts made to provide notice to the Student, and particularly
+
+given the evidence that the Student had accessed his utoronto account subsequent to notice
+of the charges and hearing being sent thereto, the Tribunal concluded that the Student was
+given reasonable notice of the hearing in compliance with the notice requirements of the Act
+and the Rules.
+
+5
+
+13.
+
+The Tribunal therefore determined on October 4th, 2018 that it would proceed to hear
+
+the case on its merits in the absence of the Student, and the hearing proceeded on the basis
+that the Student was deemed to deny the Charge made against him.
+B.
+
+The Charge and Particulars
+
+14.
+
+The Revised Charges and Particulars were detailed in a letter dated July 20, 2018 and
+
+are set out below:
+i.
+
+You knowingly forged or in any other way altered or falsified an
+academic record, and/or uttered, circulated or made use of such forged,
+altered or falsified record, namely, a document which purported to be a
+degree certificate from the University of Toronto dated June 12, 2015
+2005, contrary to section B.I.3(a) of the Code.
+
+Particulars
+
+ii.
+
+You were a registered student in the Faculty of Arts, University of
+Toronto, from Fall 2011 to Winter 2015. You accumulated 9.0 earned
+credits. You did not graduate from the University of Toronto.
+
+iii.
+
+You circulated and made use of a document that purported to be
+your degree certificate from the University of Toronto dated June 12,
+2015 2005.
+
+iv.
+
+You forged this document and falsely represented your academic
+history and status.
+
+v.
+
+You knew that this document was forged, altered, and/or falsified
+when you circulated or made use of it.
+
+vi.
+
+You had an obligation to provide accurate and truthful information
+and not to misrepresent your academic record.
+
+6
+
+C.
+
+The Evidence
+
+15.
+
+The University called the evidence of Mr. Terry Johnston, Assistant Director of the
+
+Office of Convocation at the University. The Office of Convocation is responsible for annual
+convocation ceremonies and for the reissue of degrees and diplomas and the verification of
+the graduation status of the University alumni.
+16.
+
+The University accepts third-party requests to confirm degrees through the University
+
+of Toronto Confirmation of Degree Website.
+
+Mr. Johnston monitors the email account to
+
+which requests are made.
+17.
+
+Mr. Johnston advised the Tribunal that on December 1st, 2017 a confirmation of
+
+degree request was received from Armi Pineda of Owens OnLine requesting confirmation of
+a degree conferred in 2015 on the Student. Mr. Johnston advised that he reviewed the
+University’s records and, on December 4th, 2017, sent an email to Mr. Pineda advising that
+no degree had been granted to the Student.
+18.
+
+Mr. Pineda responded to Mr. Johnston providing an image of the University degree
+
+that the Student had provided for verification (the “Purported Degree”).
+
+Mr. Johnston
+
+responded to Mr. Pineda and reiterated that the University had no record of conferring a
+degree on the Student.
+19.
+
+Mr. Johnston forwarded his correspondence with Mr. Pineda, including the image of
+
+the Purported Degree he received to Sana Kawar on December 5th, 2017.
+20.
+
+The University called the evidence of Ms. Sana Kawar, Manager of the University’s
+
+transcripts center. Ms. Kawar’s duties include the responsibility for responding to requests
+for confirmation of transcripts. Ms. Kawar explained the process for third-party verification of
+transcripts.
+21.
+
+Ms. Kawar confirmed for the Tribunal that she had received a copy of an email
+
+exchange between Mr. Johnston and Armi Pineda of Owens OnLine. Ms. Kawar advised that
+
+7
+
+she is familiar with Owens OnLine and has handled several previous requests from that
+company.
+22.
+
+Ms. Kawar advised the Tribunal that she accessed the Student’s academic record and
+
+the University’s academic history for the Student. Ms. Kawar determined that the University
+had never conferred a degree on the Student and that the Student had only completed 9
+credits and was serving a three-year suspension for poor academic performance in
+December 2018.
+D.
+
+Decision of the Tribunal.
+
+23.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+
+and convincing evidence,that the academic offence charged has been committed by the
+Student.
+24.
+
+The Student was charged with two offences under Section B.I.3(a) of the Code, which
+
+reads:
+It shall be an offence for a […] student […] knowingly: to forge or in any other way
+alter or falsify any academic record, or to utter, circulate or make use of any such
+forged, altered or falsified record, whether the record be in print or electronic form.
+
+25.
+
+The Tribunal determined that the evidence clearly established that the Purported
+
+Degree provided by the Student to Owens OnLine was false.
+26.
+
+Having concluded that the Purported Degree was a forgery, and given that it was
+
+circulated and/or made use of by the Student, as evidenced by the fact that the Student
+provided it to Owens OnLine, the Tribunal found it more likely than not that the Student was
+responsible for circulating and making use of the forged record.
+27.
+
+The Tribunal found that the Student is guilty of forging or in any other way altering or
+
+falsifying an academic record, and/or uttering, circulating or making use of such forged,
+altered or falsified record, contrary to section B.I.3(a) of the Code.
+
+8
+
+E.
+
+Penalty
+
+28.
+
+The matter continued with a hearing on the appropriate sanction. The University
+
+requested that the Tribunal make an order immediately suspending the Student for up to five
+years, and recommending to the President of the University that he recommend to the
+Governing Council that the Student be expelled from the University.
+29.
+
+The panel reviewed a number of Tribunal decisions presented by the University.
+
+These cases establish the importance of the University as an educational institution and as a
+degree-granting body, and emphasize that members of the public must be able to rely on
+degree certificates allegedly issued by the University as being accurate. These decisions
+establish that the forgery or falsification of an academic record, including a transcript, is an
+offence of the utmost seriousness because such falsification both undermines the credibility
+of the University and of other students who have legitimately earned their grades and
+degrees.
+30.
+
+Additional considerations of the Tribunal included that the Student’s conduct was
+
+premediated and egregious, and that the Student did not respond to correspondence from
+the University or its counsel, nor did he attend the Hearing or send anyone on her behalf. As
+a result there were no mitigating circumstances for consideration.
+31.
+
+The Tribunal deliberated and concluded that, under the circumstances, it was
+
+appropriate to make a recommendation for expulsion.
+F.
+
+Conclusion
+
+32.
+
+The Tribunal orders that the Student is guilty of 1 count of knowingly forging, altering,
+
+or falsifying, an academic record, or uttering, circulating, or making use of such an academic
+record, contrary to section B.I.3(a) of the Code;
+33.
+
+The Tribunal orders that the following sanctions be imposed on the Student:
+
+9
+
+i.
+
+the Student be immediately suspended from the University of Toronto for a
+period of up to 5 years from the date of the Tribunal's order or until Governing
+Council makes its decision on expulsion, whichever comes first, and that a
+corresponding notation be placed on her academic record and transcript; and
+
+ii.
+
+the Tribunal recommends to the President of the University that he
+recommend to the Governing Council that the Student be expelled from the
+University.
+
+34.
+
+The Tribunal· also ordered, that the case be reported to the Provost for publication of
+
+a notice of this decision and the sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto this
+
+fr day of \) e c.£vVl l, ~
+
+018
+
+

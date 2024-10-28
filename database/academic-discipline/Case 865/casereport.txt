@@ -1,0 +1,832 @@
+Case No.:865
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 6, 2016
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+C. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+REASONS FOR DECISION
+
+Hearing Date: November 17, 2016
+
+Members of the Panel:
+Ms. Johanna Braden, Barrister and Solicitor, Chair
+Professor Richard Day, Faculty Panel Member
+Ms. Alexis Giannelia, Student Panel Member
+Appearances:
+Ms. Lilly Harmer, Assistant Discipline Counsel, Paliare Roland, Barristers
+In Attendance:
+Mr. Christopher Lang, Director, Office of the Appeals, Discipline and Faculty Grievances
+Ms. Lucy Gaspini, Manager, Academic Integrity and Affairs, Office of the Dean,
+University of Toronto, Mississauga
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Not In Attendance:
+Ms. ~ - ~. Student
+
+2
+
+1.
+
+The Trial Division of the University Tribunal was convened on November 17, 2016,
+to consider charges brought by the University of Toronto ("the University") against
+Ms. S-
+
+-
+
+M.
+
+("the Student") under the University of Toronto Code of
+
+Behaviour on Academic Matters, 1995 ("the Code").
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 5:45 p.m. The Tribunal waited until 6:00
+p.m. to commence the hearing. Neither the Student, nor a representative of the
+Student, appeared.
+
+3.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act ("the Act"),
+and Rule 17 of the University Tribunal Rules of Practice and Procedure ("the
+Rules"), where reasonable notice of an oral hearing has been given to a party in
+accordance with the Act and the party does not attend at the hearing, the Tribunal
+may proceed in the absence of the party and the party is not entitled to any further
+notice in the proceeding. The University requested that the Tribunal proceed with
+this hearing
+
+4.
+
+Pursuant to Rule 9, a notice of hearing may be served on a student by various
+means, including by:
+(a)
+
+sending a copy of the document by courier to the student's mailing address
+contained in ROSI (the Repository of Student Information); or
+
+(b)
+
+emailing a copy of the document to the student's email address contained in
+ROSI.
+
+5.
+
+The University's Policy on Official Correspondence with Students expressly states
+that students are responsible for maintaining on ROSI a current and valid postal
+address and a University-issued email account. Students are expected to monitor
+and retrieve their mail, including electronic messaging accounts issued to them by
+the University, on a frequent and consistent basis.
+
+3
+
+6.
+
+The onus of proof is on the University under the Act and the Rules to establish that
+it provided the Student with reasonable notice of the hearing in accordance with
+these provisions.
+
+7.
+
+The University filed affidavit evidence showing that the Student had been sent the
+Notice of Hearing dated September 2, 2016 by way of email to the Student at the
+email address she had provided on ROSI, and by courier to the mailing address
+the Student had provided on ROSI.
+
+8.
+
+The University also filed affidavit evidence showing that the Student had been
+served with the charges by way of email to the Student at the email address she
+had provided on ROSI. The affidavit evidence showed that the Student responded
+to the University and initially indicated an intention to participate in this proceeding.
+However, she stopped responding to the University after September 30, 2016.
+The University has continued to serve the Student with disclosure materials and
+pre-hearing updates, and received no response.
+
+9.
+
+The Tribunal reviewed the evidence and the submissions of counsel for the
+University and concluded that the Student was given reasonable notice of the
+hearing in compliance with the notice requirements of the Act and the Rules.
+
+10. The University has proven that it provided reasonable notice of the time, date,
+place and nature of the hearing to the Student. The Student was made aware of
+the consequences of not attending this hearing. The Tribunal therefore determined
+that it would proceed to hear the case on its merits in the absence of the Student.
+The Charges and Particulars
+11.
+
+The Charges and Particulars alleged against the Student are as follows:
+1.
+
+On or about December 16, 2014, you knowingly used or possessed
+
+an unauthorized aid or aids or obtained unauthorized assistance in
+
+4
+
+connection with the final examination in GGR246H 1F ("Exam" and "Course"
+respectively), contrary to sections 8.1.1 (b) of the Code.
+2.
+
+On or about December 16, 2014, you knowingly engaged in a form
+
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code to obtain academic credit or other
+academic advantage of any kind, in connection with the Exam, contrary to
+section B.l.3(b) of the Code.
+Particulars
+The particulars of the offences charged are as follows :
+a)
+
+At all material times you were a student registered at the University of
+Toronto Mississauga.
+
+b)
+
+In the 2014 Fall term you enrolled in the Course, which was taught by Dr.
+Jeff May.
+
+c)
+
+The Exam was worth 25% of the Course mark. No aids were allowed in the
+Exam.
+
+d)
+
+You wrote the Exam on December 16, 2014 in the AccessAbility Resource
+Centre ("ARC").
+
+e)
+
+At the beginning of the Exam you signed a copy of the ARC Exam Policy,
+which included a warning that notes and cheat sheets were not permitted
+during the Exam. The front cover of the Exam also indicated that aids were
+not allowed.
+
+f)
+
+You were not permitted to have a memory aid during the Exam as an
+accommodation.
+
+g)
+
+Before you handed in your Exam you were found to be in possession of
+three pages of handwritten notes and one page of typed notes which related
+to the Course material.
+
+5
+
+12.
+
+Although the Charges were not pleaded in the alternative, counsel for the
+University advised that the University was seeking a finding with respect to only
+one of them. She further advised that if the Tribunal were to find the Student
+guilty of Charge 1, the University would withdraw Charge 2.
+
+The Evidence
+13.
+
+On the substance of the Charges, the Tribunal heard oral evidence from five
+witnesses and received affidavit evidence from two additional witnesses.
+
+A
+
+summary of the evidence is as follows.
+(a)
+14.
+
+The Course
+
+In Summer 2014, the Student enrolled in the course GGR246H1 F - Geography
+of Canada (the "Course"). The Course was taught by Matthew Siemiatycki who
+swore an affidavit that the Tribunal accepted into evidence. The Course syllabus
+warned students that any cases of cheating on exams would be handled in
+accordance with the University's policies.
+
+15.
+
+The Course evaluations included a requirement that students write a midterm
+exam worth 20% and a final exam worth 25% of the Course mark. The Student
+asked Professor Siemiatycki for accommodation, first to miss the midterm exam,
+and second to write the deferred final exam.
+medical reasons.
+
+Both requests were granted for
+
+As a result, the Student wrote the final Course exam on
+
+December 16, 2014 (the "Exam").
+
+The Exam was worth 45% of her Course
+
+mark.
+16.
+
+The front page of the Exam stated "No Aids Allowed." Professor Siemiatycki did
+not receive any requests from the Student for accommodations to use a memory
+aid sheet in the Exam.
+
+6
+
+(b)
+17.
+
+Accommodation for Exams
+
+The University has an AccessAbility Resource Centre (the "Centre") for students
+who require accommodations based on medical documentation due to disability.
+The Centre administers exams for students who are registered with the Centre,
+and takes steps to ensure that required accommodations are made.
+
+18.
+
+Michal Serwin testified that he has worked at the Centre for over seven years.
+He coordinates the administration of tests and exams for students who are
+registered with the Centre. The Centre keeps a database where Mr. Serwin can
+see the list of approved accommodations for registered students. One possible
+accommodation is a permitted memory aid.
+
+A memory aid would only be
+
+permitted if the course professor provided the aid to the Centre and indicated in
+writing that a student could use the aid. The aid would then be placed into an
+envelope, attached to the exam, and given to the student at the commencement
+of the exam. A student cannot bring their own aid to the exam.
+19.
+
+The Student was registered with the Centre, and was permitted to write the Exam
+through the Centre.
+
+Mr. Serwin prepared the AccessAbility Resource Centre
+
+Student Information Sheet for the Student, which lists among other things the
+accommodations the Student is entitled to.
+
+The Student Information Sheet
+
+indicated that the Student was entitled to extra time. There is a space on the
+Student Information Sheet for listing approved aids. None were listed.
+20.
+
+Mr. Serwin testified to the general processes used by the Centre to ensure that
+students are accommodated during exams, and to the steps taken for this
+particular Student writing this particular Exam. Nothing in the Student's file with
+the Centre indicated that the Student was entitled to have any aids during the
+Exam, which is consistent with the evidence of Professor Siemiatycki.
+
+7
+
+(c)
+21 .
+
+Writing the Exam
+
+On the day of the Exam, there were three invigilators present at the Centre who
+testified before the Tribunal: lhor Wankiewicz, Aneela Munir and RunXing Zhu.
+
+22.
+
+By the day of the Exam, Mr. Wankiewicz had been working as an invigilator at
+the Centre for about two years. He was working the morning shift on December
+16, 2014.
+
+23.
+
+Mr. Wankiewicz signed the Student in to the Exam. Although the Exam was
+scheduled to begin at 9:00 a.m., the Student arrived at 9:28 a.m.
+
+Mr.
+
+Wankiewicz had the Student sign a Forfeit Adjusted Time Sheet acknowledging
+that due to her lateness she had forfeited the missed time.
+
+Mr. Wankiewicz
+
+testified that he then went through his usual procedures with the Student, which
+would have included:
+(a)
+
+verbally reviewing with the Student the Student Information Sheet, setting
+out the nature of the permitted accommodations and whether there were
+any authorized aids;
+
+(b)
+
+verbally reviewing with the Student a standard printed sheet on the first
+page of each exam administered at the Centre, explaining, among other
+things, that no unauthorized aids would be permitted;
+
+(c)
+
+verbally reviewing with the Student the Centre's printed unauthorized aid
+policy; and
+
+(d)
+
+having the Student sign all three sheets.
+
+8
+
+24.
+
+These sign-in procedures usually take about one minute. The Student put her
+belongings in a designated area at the front of the room. She began writing the
+Exam at 9:29 a.m.
+
+Mr. Wankiewicz's understanding was that she was not
+
+permitted any aids, and was not permitted any scrap paper.
+permitted to have writing utensils.
+
+She was only
+
+Mr. Wankiewicz recalled that the Student
+
+seemed nervous during the sign-in procedure.
+25.
+
+At 10:00 a.m., the Student asked Mr. Wankiewicz if she could move to a quieter
+spot. She asked for one of the seats at the side of the room, facing the wall, but
+those were taken. Mr. Wankiewicz moved the Student to Seat 11, which was at
+the back of the room. At Seat 11, the Student faced the back wall, with her back
+to the invigilators.
+
+26.
+
+Shortly after switching seats, Mr. Wankiewicz saw the Student in the front of the
+room, very close to the area where the students' backpacks and other belongings
+were kept. At the time Mr. Wankiewicz had been assisting another student at the
+Centre who seemed unwell, and he didn't know how long the Student had been
+at the front of the room. He asked the Student what she was doing. She said
+she needed an eraser.
+
+Mr. Wankiewicz gave her one, as students were not
+
+permitted to access their belongings during the exam.
+27.
+
+Mr. Wankiewicz' shift ended and he left as the Student was still writing her exam.
+When he left, two invigilators were working in the Exam room: Aneela Munir, who
+was working at the Centre that day as a floating invigilator, and Run Xing Zhu.
+Both invigilators were experienced in their job.
+
+28.
+
+Ms. Munir testified that the Student came to her attention when the Student
+finished her Exam, at around 11 :45 a.m. The Student began walking toward the
+front of the room where Ms. Munir and Ms. Zhu were sitting. Ms. Munir assumed
+the Student was coming to hand in her Exam. Ms. Munir could see that the
+Student was holding the brown examination envelope, her writing utensils, the
+
+9
+
+examination booklet, and script and what Ms. Munir described as "extra papers"
+with the Student's handwriting.
+29.
+
+Instead of bringing her examination to the invigilators, the Student went to the
+area where students' backpacks and belongings were kept.
+
+This struck Ms.
+
+Munir as odd and unusual, as students were supposed to hand in their
+examinations before retrieving their belongings. There was a partition between
+the invigilators' desk and the backpack area, so Ms. Munir could not see what the
+Student was doing.
+30.
+
+The Student then came out of the backpack area and approached the invigilators
+to hand in her exam. By this time, she only had the brown examination envelope
+and the examination booklet. She did not have the extra papers or her writing
+utensils.
+
+31 .
+
+Ms. Munir told the other invigilator, Ms. Zhu, that the Student had been holding
+the extra papers when she walked back from her desk to the backpack area. Ms.
+Zhu approached the Student and asked her where the extra papers were. The
+Student gave them to Ms. Zhu.
+
+32.
+
+Ms. Munir identified the "extra papers" she had seen in the Student's hand. They
+consist of one page of typewritten notes (double-sided) and three pages of
+handwritten notes (also double-sided).
+
+The handwriting is the same as the
+
+handwriting in the Student's Exam booklet.
+33.
+
+Ms. Zhu testified that she observed nothing out of the ordinary until Ms. Munir
+brought the Student to her attention, telling her that the Student had extra papers
+with her when she walked to the backpack area.
+
+Ms. Zhu approached the
+
+Student and asked her why she had gone to her backpack before handing in her
+Exam.
+
+The Student gave no answer.
+
+notes in her hand.
+
+Ms. Zhu noticed that the Student had
+
+Ms. Zhu confiscated the notes and placed them in the
+
+envelope with the Student's Exam. Like Ms. Munir, she identified the notes she
+
+10
+
+took from the Student as one page of typewritten notes (double-sided) and three
+pages of handwritten notes (also double-sided).
+34.
+
+Ms. Zhu testified the Student told her that she had been permitted to use the
+notes by her AccessAbility advisor named "Sue".
+
+Ms. Zhu said there was no
+
+indication on the Exam that aids were permitted. Ms. Zhu called Mr. Serwin on
+the phone and asked whether the Student was permitted a memory aid.
+
+Mr.
+
+Serwin checked the records, including the cabinet where any permitted aids
+would have been stored. He spoke to both Ms. Zhu and the Student, and told
+both of them that no memory aids were permitted for the Exam.
+(d)
+35.
+
+After the Exam
+
+On February 3, 2015, the Student sent an email to Professor Siemiatycki, and
+gave an explanation of her actions.
+AccessAbility advisor in
+
+She wrote that she had told her
+
+December that she would
+
+need
+
+memory aid
+
+accommodations for the Exam, and that the advisor had said it would be a onepage memory aid. The Student said she was not informed of the memory aid
+process at that time. She wrote that as she was leaving the Exam classroom
+with all her belongings, the invigilator asked her for "all my papers" and that the
+Student gave the invigilator the notes which the invigilator submitted in with the
+Exam. The Student also wrote that she spoke with Mr. Serwin the day of the
+Exam, who advised her that "everything would be okay since I was not aware of
+the entire process."
+36.
+
+On November 5, 2015, the Student met with Catherine Seguin, the Dean's
+Designate for the University in the Faculty of Arts and Science, Mississauga
+Campus. The purpose of the meeting was to discuss the allegations of academic
+misconduct.
+
+Professor Seguin's affidavit evidence affirms that at the Dean's
+
+meeting, the Student acknowledged that she had brought the handwritten and
+typed notes into the Exam room with her, but claimed she had left them on top of
+her backpack while she wrote the Exam. She picked them up after completing
+
+11
+
+her Exam and had them in her hand when Ms. Zhu approached her.
+
+The
+
+Student denied that she had asked to be moved during the Exam and denied
+going to her backpack until the end of the Exam.
+37.
+
+As of the fall of 2015, the Student was placed on academic suspension from the
+University due to her low grade-point-average. This suspension will last for three
+years, meaning that the Student will become eligible to return to the University for
+the Fall session in 2018.
+
+Decision of the Tribunal on the Charges
+
+38.
+
+As the Student was not present, the hearing proceeded on the basis that she
+denied the Charges against her. The onus was on the University to establish on
+the balance of probabilities, using clear, cogent and convincing evidence, that
+one or more of the academic offences charged has been committed by the
+Student.
+
+39.
+
+Having considered all the evidence in this hearing, the Tribunal found it was
+more likely than not that the Student had knowingly possessed an unauthorized
+aid, contrary to section B.l.1(b) of the Code of Behaviour on Academic Matters,
+as alleged in Charge 1.
+(a)
+
+The evidence of Professor Siemiatycki and the evidence of Mr. Serwin
+clearly established that there were no aids permitted for this Exam
+generally, or for this Student particularly.
+
+(b)
+
+The evidence of Mr. Wankiewicz, including the exhibits he identified
+bearing the Student's signature, showed that the Student was made
+aware that no aids were permitted during the Exam. The Student did not
+question or challenge this during the sign-in process, and never claimed to
+be entitled to use an aid until the very end of the Exam, when she was
+questioned by Ms. Zhu about the extra papers she had been seen holding.
+
+12
+
+(c)
+
+The evidence of Ms. Munir and Ms. Zhu established that the Student was
+seen at the end of the Exam with papers in her hand that amounted to
+unauthorized aids.
+
+The Student was seen holding those papers while
+
+walking from her desk at Seat 11 to the front of the room where her
+backpack was.
+(d)
+
+The papers were confiscated by Ms. Zhu, and formed part of the evidence
+in this case. They are clearly notes relating to the Course, designed to
+assist the Student in the examination.
+
+(e)
+
+The evidence of the three invigilators at the Exam was credible and
+reliable.
+
+All three were experienced invigilators with the Centre. Their
+
+recollection of events was supported by contemporaneous documentation,
+including the Invigilator Documentation Report and Ms. Zhu's incident
+report. The evidence of each was generally consistent with the evidence
+of the others, and there was no motivation for any of the invigilators to be
+less than truthful with the Tribunal.
+(f)
+
+The Student gave differing accounts of her actions. At the time she was
+discovered, she told Ms. Zhu and Ms. Munir that she was permitted by her
+advisor "Sue" to have the confiscated notes with her. Some 6 weeks later,
+she told Professor Siemiatycki in an email that she had discussed having
+a "one-page" memory aid with her advisor but had not been told of the
+process. The Student did not clearly explain in that email the presence of
+not one page, but a total of 4 double-sided pages of notes. Months later,
+the Student denied during the Dean's meeting that she had any memory
+aids with her at all during the writing of the Exam, and that the notes had
+simply been on top of her backpack. Without any sort of explanation by
+the Student at this hearing, it is impossible to reconcile these different
+versions of events. The best inference is that the Student was lying to
+avoid the consequences of her actions.
+
+13
+
+(g)
+
+There is not clear evidence as to how the Student managed to get the
+unauthorized aids into the Exam.
+
+There was no evidence as to the
+
+condition of the papers, such as whether they appeared to have been
+folded or crumpled. Perhaps the Student had them hidden on her person
+from the start of the Exam, or perhaps she used the opportunity when Mr.
+Wankiewicz was distracted by an unwell student to obtain them from her
+backpack. The Tribunal can make a finding that the Student possessed
+the unauthorized aids during the Exam without knowing how she managed
+to sneak them in or how she managed to avoid detection until the end of
+the Exam.
+40.
+
+In light of the Tribunal's finding on Charge 1, Charge 2 was withdrawn by the
+University.
+
+Decision of the Tribunal on Penalty
+
+o The Student receive a final grade of zero in GGR246H1 F in Summer
+2014;
+o The Student be suspended from the University for a period of two years,
+commencing on September 1, 2017 and ending August 31, 2019
+o The sanction be recorded on the Student's academic record and transcript
+to the effect that she was sanctioned for academic misconduct until
+August31,2020;and
+o This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the
+name of the student withheld.
+41 .
+
+The University did not lead any additional evidence with respect to the issue of
+sanction.
+
+14
+42.
+
+The University sought the following sanctions:
+(a)
+
+a final grade of zero in the Course;
+
+(b)
+
+a suspension from the University for a period of two years;
+
+(c)
+
+that the sanction be recorded on her academic record and transcript for a
+period of three years; and
+
+(d)
+
+that this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanctions imposed, with the name of
+the Student withheld.
+
+43.
+
+One element of the sanction that the University left to the Tribunal's discretion
+was the question of when the suspension and notation provisions would become
+effective. The Student is under academic suspension until the Fall of 2018 due
+to her low grade-point-average.
+
+If the Tribunal were to order a two-year
+
+suspension to commence the date of the Tribunal's order, it would as a practical
+matter translate into only one additional term of suspension. If the Tribunal were
+to order a two-year suspension to run entirely consecutively with the Student's
+academic suspension, the Student would not be able to attend the University
+until the Fall of 2020.
+44.
+
+The Tribunal has considered the principles and factors relevant to sanction set
+out by this Tribunal in University of Toronto and Mr. C (November 5, 1976, Case
+No. 1976/77-3). While the determination of an appropriate penalty in every case
+by the Tribunal will depend on an individual assessment of these principles and
+factors, it is important to have general consistency in the Tribunal's approach to
+sanction so that students are treated fairly and equitably.
+
+45.
+
+At this Tribunal, cheating during exams, whether through the giving or receiving
+of unauthorized aid, generally results in a suspension of at least two to three
+years. This is true even when it is a first-time offence, and even when there is no
+evidence that the student actually used the aids during the exam.
+
+15
+
+46.
+
+The Tribunal considered the University's submissions in light of its findings and
+the factors from Mr. C., supra.
+(a)
+
+The character of the Student: there was no evidence before the Tribunal
+regarding the Student's character other than the facts of the offence as
+found by the Tribunal.
+
+Those facts show, however, that the Student
+
+engaged in a course of deliberate deception, both during and after the
+Exam.
+(b)
+
+The likelihood of a repetition of the offence: there was no particular
+evidence led that would lead the Tribunal to conclude one way or another
+on this factor. This was the Student's first offence.
+
+(c)
+
+The nature of the offence committed: the integrity of examinations is a
+cornerstone of academic life. The University spends considerable
+resources to ensure that examinations are fair.
+
+This includes allowing
+
+aids for those who require them by virtue of their medical condition, and
+otherwise ensuring that no student has an unfair advantage. The
+Student's subterfuge shows a calculated attempt to gain a benefit for
+herself to which she was not entitled.
+(d)
+
+Any extenuating circumstances surrounding the commission of the
+offence: the Student did not participate in this hearing, and so there is no
+evidence before the Tribunal of mitigating or extenuating circumstances,
+other than this being the Student's first offence. There was no evidence
+of any remorse or insight.
+
+Indeed, the Student's changing explanations
+
+for her conduct suggest that she has attempted to manipulate the truth in
+order to avoid the consequences of her dishonesty.
+(e)
+
+The detriment to the University occasioned by the offence: fortunately, the
+Student's misconduct was detected quickly. However, any time the rules
+
+16
+
+of an examination are deliberately breached, the reputation of the
+University is threatened.
+(f)
+
+The need to deter others from committing a similar offence: this is a key
+factor in any cheating case. It is important to send a clear message that
+surreptitious
+
+attempts
+
+to
+
+undermine
+
+the
+
+academic
+
+integrity
+
+of
+
+examinations will be taken seriously.
+47.
+
+In all of the circumstances, and with regard to the factors identified in the C.
+case, the Tribunal was satisfied that the sanction requested by the University
+was appropriate and in accordance with similar cases.
+
+48.
+
+As to the timing of the suspension and transcript notation, the Tribunal sought to
+impose an order that would be meaningful to the Student and have some
+practical impact on her ability to attend the University.
+
+However, the Tribunal
+
+was concerned that an order which effectively kept the Student from attending
+the University for two years on top of her academic suspension would be overly
+punitive.
+
+The Tribunal decided that the suspension and transcript notation
+
+provisions of the sanction would commence September 1, 2017, such that one
+year of the two-year suspension would be concurrent with her academic
+suspension.
+49.
+
+Accordingly, the Tribunal made the following Order.
+1.
+
+THAT the Student is guilty of one count of knowingly using or possessing
+
+an unauthorized aid, contrary to section B.l.1(b) of the Code of Behaviour
+on Academic Matters;
+
+2.
+
+THAT the Student receive a final grade of zero in GGR246H1F in Summer
+
+2014;
+
+17
+
+3.
+
+THAT the Student be suspended from the University for a period of two
+years, commencing on September 1, 2017 and ending on August 31,
+
+2019;
+4.
+
+THAT the sanction be recorded on the Student's academic record and
+
+transcript to the effect that she was sanctioned for academic
+misconduct until August 31, 2020; and
+5.
+
+THAT this case shall be reported to the Provost for publication of a notice
+
+of the decision of the Tribunal and the sanction or sanctions imposed, with
+the name of the Student withheld.
+
+111. ~ .
+
+Dated at Toronto this " day of
+
+f .u>(t.JJ'\
+
+-- ~ 2017
+
+

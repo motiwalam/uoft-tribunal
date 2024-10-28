@@ -1,0 +1,208 @@
+UNIVERSITY OF TORONTO
+GOVERNING COUNCIL
+Report #432 of the Academic Appeals Committee
+February 9, 2024
+To the Academic Board
+University of Toronto
+Your Committee reports that it held a hearing on Friday, November 17, 2023, at which the
+following members were present:
+Academic Appeal Committee Members:
+Sara Faherty (Chair)
+Professor Nhung Tuyet Tran, Faculty Governor
+Dveeta Lal, Student Governor
+Hearing Secretary:
+Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+P.Y. (the “Student”)
+Thomas Mathews, Thomas Mathews Litigation, Counsel for the Student
+For the Faculty of Applied Science & Engineering:
+Professor Thomas Coyle, Vice Dean, Undergraduate
+
+The Appeal
+This is an appeal from a decision made on April 12, 2023, by the Faculty of Applied Science &
+Engineering’s Academic Appeals Board. The Appeals Board communicated its decision that
+day, explaining they were denying the Student’s request to continue his studies at U of T
+Engineering. In his decision Professor Don Kirk, Chair of the Academic Appeals Board
+expressed sympathy for the Student but found there was “insufficient justification” to grant the
+Student’s request.
+The Student needed to request permission to continue in the program because following the Fall
+2022 semester he had been refused further registration based on the grade he had been assigned
+in ECE241H1 Digital Systems. While this was a passing mark (a “D”), and the Student received
+credit for the course, the mark brought his sessional GPA beneath the threshold for continued
+enrolment in the Faculty. As we discuss below, the Student sought a number of remedies that
+would alter the treatment of the mark in ECE241H1, Digital Systems and raise his sessional
+average above the required minimum, including requesting an assessed mark, being granted
+Aegrotat status, or being allowed Late Withdrawal without Academic Penalty.
+
+1
+
+The Facts
+The Student has had a long and challenging academic career at the Faculty of Applied Science &
+Engineering. He first enrolled as an undergraduate working towards his BASc in Computer
+Engineering during the Fall of 2004, almost twenty years ago. For the first few years of his
+enrollment his progress was not strong. He was first placed on academic probation during his
+second semester, the Winter 2005 term, when his sessional average dipped below 60%. He
+continued to struggle academically, falling below a 60% sessional average again in the Fall of
+2006, and for a third time during the term that is the subject of this appeal, during the Fall term
+of 2022. We note that he had long leaves during this period, including a five-year gap between
+the Fall of 2015 and the Fall of 2020. This student is clearly unwell and has struggled in this
+program for almost two decades.
+During the Fall, 2022 term the Student enrolled in ECE241H1, Digital Systems. The Student’s
+mark for this course was based on three evaluations:
+Lab Work (weighted as 20% of final mark) —
+82.5%
+Midterm Exam (weighted as 30% of final mark) — 65.3%
+Final Exam (weighted as 50% of final mark) —
+39.8%.
+This resulted in a course mark of 56%, or a D.
+The Student attended his exam for ECE241H1, Digital Systems, on December 19, 2022. He
+became ill during the exam, suffering severe headaches and blurred vision. He did not abandon
+the exam, or even notify an invigilator of his health problems. He explained that he believed
+disturbing the other students taking the examination would have been inappropriate. Rather, the
+Student completed and submitted the exam. The Student concluded that the exam was a problem
+relatively quickly and requested either Aegrotat standing or an assessed mark in the course the
+following day, on December 20, 2022. In support of his request, he submitted a Verification of
+Student Illness form dated January 22, 2023, signed by Dr. Hung-I Henry Ho, a physician whom
+he sees regularly. On the form, Dr. Ho indicated that the impact of the Student’s condition
+caused impairment that was between “severe” and “serious.” He wrote that the Student suffers
+chronic illness with acute exacerbation, adding “I recommend AEG.”
+The stakes in this course are high for the Student, since this mark he was given brings his
+sessional average below 60% threshold required for continued enrolment, given his repeated
+probation status.
+The Faculty of Applied Science & Engineering does not consider Aegrotat standing for courses
+in which all the work is completed and submitted. The Faculty also ruled out offering a deferred
+examination since the Student had completed the final exam as offered. The assignment of an
+assessed mark was complicated by the Faculty’s practice of excluding work that was “not closely
+supervised” in determining whether an exam mark is significantly lower than the marks earned
+during a term (which would confirm a student’s argument that there was an unanticipated issue
+during the writing of the examination.) Vice Dean Coyle explained that the Faculty compared
+the final exam mark (39.8) to his closely supervised work on the midterm (65.3) and concluded
+2
+
+that there was not a sufficient difference to warrant an assigning of an assessed mark that
+excluded the unsupervised Lab Work. This eliminated three remedies that might have been
+available if the Student had abandoned the exam and earned a lower mark.
+Decision
+The Student is anxious to have the mark he earned in ECE241H1 Digital Systems excluded from
+his transcript because the consequences of the mark are dire: they bring his sessional mark
+below the threshold for continued registration. In the course of his appeal, he has asked for three
+different remedies:
+Aegrotat standing which would give him credit for the course but exclude the course
+from calculations of his grade point average because he was ill while writing the exam;
+an assessed mark that excludes the low final exam grade and would result in a mark
+above the threshold on the grounds that his course work establishes his mastery of the
+material; or
+Late Withdrawal without Academic Penalty on compassionate grounds because his mark
+was affected by circumstances outside his control.
+He also challenges the reasonableness of the Academic Appeals Board decision and the
+reasonableness of the results.
+Aegrotat standing
+The Student requests Aegrotat standing due to his illness during the exam. The illness is
+corroborated by the Verification of Student Illness form submitted by Dr. Ho. There is no
+disagreement that the Student is unwell, and he has worked hard to overcome the challenges
+posed by his condition. Had he abandoned the exam when he began to experience symptoms
+Aegrotat would have been a reasonable remedy. The Student’s decision to complete the exam
+makes Aegrotat an inappropriate solution. His concern for the other students writing the exam
+should not have prevented him from quietly approaching an invigilator and seeking guidance.
+His transcript indicates that he has written at least nineteen examinations at the Faculty of
+Applied Science & Engineering, and he has a responsibility to be aware of his division’s exam
+policies. It is difficult to conceive that in all these exams he has never interacted with an
+invigilator or seen other students interacting with invigilators. While the Student asserted that he
+was unwell and under pressure, and consequently he did not have the details of University
+policies at the front of his mind on the day of the examination, this does not exempt him from
+being subject to those policies. The Student’s mistaken belief that he should not disturb other
+exam writers is unfortunate, but it cannot mean he will be treated as if he had abandoned the
+examination.
+Your Committee is sympathetic to the Student’s plight that day, and gives great deference to the
+form submitted by Dr. Ho. We note, however, that while Dr. Ho is a medical expert, he does not
+have expertise in academic accommodations or in University or divisional policies. His role is to
+3
+
+identify the level of impairment of the Student due to his medical condition—not to prescribe
+academic accommodations. Your Committee disagrees with Dr. Ho that Aegrotat is the
+appropriate remedy in these circumstances, given the Faculty’s policy, which is clearly stated in
+its Academic Calendar at page 21: “Aegrotat standing granted on the basis of session work and
+medical or similar evidence where the student was not able to write the final examination in the
+course.” [Emphasis added.]
+An assessed mark
+The Faculty of Applied Science & Engineering declined to assign an assessed mark to the
+Student in ECE241H1 Digital Systems. The decision rested on their evaluation of the difference
+between the mark the Student earned on the exam in question (a 39.8%) and his other closely
+supervised work in the course. The Student understandably wanted his Lab Work mark included
+as part of the “other work in the course,” since he did so well on his Lab Work. Including the
+Lab Work would have led the Faculty to compare the 39.8% mark on the final to an “other
+work” average of 72.2%. Excluding the Lab Work mark meant the comparison was between the
+39.8% final mark and the 65.3% midterm mark. The Faculty did not find that difference to be
+compelling.
+The first issue raised by the Student is that in his view the difference between the midterm and
+the final exam grades is significant, and the Faculty should have given him an assessed mark
+based on that difference. His second argument is that if they had included the Lab Work mark the
+even greater difference would have been even more compelling.
+The Vice Dean explained that Lab Work and other work that is not closely supervised is
+reasonably excluded from these comparisons because they are not earned in tightly controlled
+settings like exam rooms, and often include contributions made by other students. The Student
+characterised the failure to include the Lab Work as a “glaring omission,” but your Committee
+finds this position to be reasonable.
+Your Committee is of the view that the Faculty is justified in excluding work that is not closely
+supervised from these comparisons. Our view of the significance of the 25% difference in the
+midterm mark and the final mark is clouded by the lack of clarity in the Faculty of Applied
+Science & Engineering’s policies. While we are willing to defer to the Faculty’s Committee
+members and their academic judgement on this issue, we would be more certain in this
+conclusion if there were established guidelines on this important issue. The Faculty explained
+that they do not consider assessed marks in cases where a student has completed the exam.
+The Committee notes that members asked which policies the Faculty administrators applied in
+this circumstance and was not given a response.
+Late Withdrawal without Academic Penalty
+The third remedy requested by the Student, Late Withdrawal without Academic Penalty, would
+deny the Student credit for the course but will give him an opportunity to remain enrolled at the
+Faculty of Applied Science & Engineering. It is unusual, but not unprecedented for a Student at
+4
+
+the University of Toronto to be allowed to Withdraw from a course after the drop deadline and
+even after an exam is written. Vice Dean Coyle explained that the mark is not appropriate based
+on the Faculty’s normal procedures, suggesting that LWD is reserved for students who have
+struggled throughout the term. Your Committee finds that it would be confusing to tell a student
+his marks were too low throughout the term to warrant an assessed mark (see above), but too
+high throughout the term to warrant a late withdrawal. Your Committee notes that it gave the
+Faculty several opportunities to point to an existing policy related to these decisions. They were
+unable to do so. It would be important to have such a clear policy.
+The Student provided clear medical documentation of his situation. While it would have been
+better if he had abandoned the examination on December 19th, he made a relatively prompt
+request for late withdrawal on December 20th, the following day. This remedy was not driven by
+an effort to manipulate the sessional average, since he made this request before he saw the final
+mark. The fact that the Student’s circumstances are beyond his control lead your Committee to
+allow this request on compassionate grounds.
+Vice Dean Coyle told us that the Faculty has a policy against allowing students to repeat courses
+they have completed. Your Committee agrees that the Student should not take ECE241H1
+Digital Systems again unless the course is required for graduation. If the course is required for
+graduation, then the Student must be permitted to take this course, or a suitable substitute course.
+The reasonableness of the Academic Appeals Board decision and the Reasonableness of the
+result
+The Academic Appeal Board decision is brief. The section devoted to reasoning is two
+sentences:
+“The AAB is sympathetic to your situation and acknowledges the difficult circumstances you
+faced due to health conditions. After carefully considering the information presented, the Board
+finds insufficient justification in granting your request.”
+This summary decision does not illuminate the Faculty of Applied Science & Engineering’s
+reasoning and made it hard for your Committee to assess what factors were important, which
+facts were determinative, and whether they were fair to the Student. We do not doubt the
+Faculty’s respect for the Student and sympathy for his condition—it has accommodated him
+generously and patiently over the almost twenty years of his enrolment. As Vice Dean Coyle
+pointed out, they have been willing to bend policies in his favour more than once. A more
+expansive explanation of their thinking would have been helpful here. Were they concerned
+about the timing of the Student’s submission of the Verification of Student Illness? Did they
+want more detail or more information about the Student’s condition? It would have been helpful
+to the Student and your Committee if the decision had provided more insight into how the
+Academic Appeal Board assessed the Student’s request.
+Related to the above, your Committee could not find the result of the Academic Appeal to be
+reasonable. While he ultimately received a clear explanation in the Faculty’s response to his
+Appeal and in Vice Dean Coyle’s explanations at the hearing, the process within the Faculty was
+5
+
+too skeletal to be helpful. Your Committee finds that clarity in the policies and more fulsome
+explanations for decisions are important components of a fair grading and appeal system.
+For the reasons outlined above the Appeal is allowed.
+
+6
+
+

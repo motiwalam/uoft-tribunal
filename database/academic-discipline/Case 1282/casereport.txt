@@ -1,0 +1,455 @@
+Case No. 1282
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on November 4, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and M
+
+L
+
+REASONS FOR DECISION
+Hearing Date: September 28, 2022, via Zoom
+Members of the Panel:
+Ms. Dena Varah, Chair
+Professor George Cree, Faculty Panel Member
+Mr. Dylan Dingwell, Student Panel Member
+Appearances:
+Mr. William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Joseph Berger, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+Not In Attendance:
+Mr. M
+L
+
+2
+
+1.
+
+The Trial Division of the University Tribunal was convened on September 28, 2022 (the
+
+“Hearing Date”) to consider the charges brought by the University of Toronto (the “University”)
+against M
+
+L
+
+(the “Student”).
+
+PART 1 - CHARGES
+2.
+
+The Student is charged with three offences under the University of Toronto Code of
+
+Behaviour on Academic Matters, 2019 (the “Code”):
+Charge 1:
+
+On or about December 7, 2020 you knowingly used or possessed an
+
+unauthorized aid and/or obtained and/or provided unauthorized assistance in connection
+with Assignment 3 in CSC108H1F: Introduction to Computer Programming (the
+“Course”), contrary to B.I.1(b) of the Code;
+Charge 2:
+
+On or about December 7, 2020, you knowingly represented as your own
+
+idea or expression of an idea or work in another in Assignment 3 in the Course contrary to
+B.I.1(d) of the Code; and
+Charge 3:
+
+In the alternative to the above charges on or about December 7, 2020, you
+
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with Assignment 3 that you
+submitted in the Course, contrary to B.I.3(b) of the Code.
+3.
+
+Assistant Discipline Counsel advised that Charge 3 is in the alternative. If the Student is
+
+found guilty of either Charge 1 or Charge 2, Charge 3 will be withdrawn.
+
+3
+
+PART 2 - PROCEEDING IN THE ABSENCE OF THE STUDENT
+4.
+
+Assistant Discipline Counsel attended the hearing date. The Student did not attend. The
+
+evidence of Laurie O’Handley, Academic Integrity Specialist with Student Academic Integrity
+(“SAI”) at the Faculty of Arts and Sciences at the University of Toronto was tendered by way of
+affidavit affirmed on September 21, 2022.
+5.
+
+Ms. O’Handley affirmed that in April 2021, SAI received allegations that a number of
+
+students had committed academic misconduct in Assignment 3: Exploring the Twitterverse
+(“Assignment 3”) in the Course. The Student was one of those students.
+6.
+
+On May 19, 2021, SAI emailed the Student regarding the academic integrity allegations
+
+against him. The Student was invited to meet with the Dean’s Designate for Academic Integrity
+with SAI to discuss the allegations against him. A follow up email was sent on May 28, 2021,
+after SAI received no response to its email of May 19, 2021.
+7.
+
+As the Student did not respond to the emails, the Dean’s meeting scheduled for June 2,
+
+2021, was cancelled. The meeting was rescheduled for July 15, 2021. SAI sent an email to the
+Student on June 25, 2021, advising of the new date. The Student did not respond to this email. As
+a result, SAI sent a letter to the Student on July 19, 2021, advising that the case was being
+forwarded to the Vice-Provost for review and recommendations that charges be laid.
+8.
+
+The evidence of Samanthe Huang, Administrative Assistant with the Office of Appeals,
+
+Discipline and Faculty Grievances (“ADFG Office”) at the University was tendered by way of
+affidavit sworn September 21, 2022.
+9.
+
+After charges were filed, Ms. Huang served the Student on November 4, 2021, with the
+
+4
+
+letter regarding the charges that were filed against him by way of email to the email address that
+the Student had provided in the Repository of Student Information (“ROSI”).
+10.
+
+Ms. Huang followed up with a Notice of Electronic Hearing for a hearing on September
+
+28, 2022, by way of email of August 3, 2022. A revised Notice of Electronic Hearing was sent by
+email on August 24, 2022.
+11.
+
+Ms. Huang did not receive a bounce back to any of her emails, which indicated that they
+
+could be delivered.
+12.
+
+Natalia Botelho, an Assistant at the law firm, Paliare Roland Rosenberg Rothstein LLP
+
+(“Paliare Roland”), provided an affidavit affirmed September 22, 2022.
+13.
+
+In that affidavit, Ms. Botelho outlined additional attempts she or Ms. Harmer, the former
+
+Assistant Discipline Counsel with carriage of his matter, made to contact the Student. This
+includes early emails in November and December 2021, in which Ms. Harmer attempted to engage
+the Student in discussions about the charges. A disclosure letter was sent by email on February
+16, 2022, by an articling student at Paliare Roland. Ms. Harmer sent a follow up email on March
+24, 2022, again trying to engage the Student in discussions.
+14.
+
+By the summer of 2022, there were additional emails regarding scheduling with the Student
+
+as well as the emails aforementioned that had gone from the ADFG Office with the Notices of
+Electronic Hearing.
+15.
+
+Ms. Harmer attempted to call the Student at the number that the Student had provided in
+
+ROSI. Ms. Harmer received a voice mail recording of a female voice that identified the mailbox
+as belonging to “Bella”.
+
+5
+
+16.
+
+On September 22, 2022, Paliare Roland arranged for a courier to deliver a package to the
+
+Student at the address provided for in ROSI. A male adult at the address indicated that the Student
+did not live at that address.
+17.
+
+Finally, Ms. Botelho emailed the Student on September 22, 2022, advising that the Provost
+
+would rely on affidavits at the hearing and asking whether the Student intended to cross-examine
+on any of them.
+18.
+
+The Student never replied to any correspondence from the University or from Paliare
+
+Roland.
+19.
+
+Based on the extensive attempted correspondence with the Student, at the email address
+
+and telephone number that the Student provided for in ROSI, the Panel is satisfied that pursuant to
+the Statutory Power and Procedures Act and the University Tribunal’s Rules of Practice and
+Procedure (the “Rules”) the Student received reasonable notice of the hearing date.
+20.
+
+The Rules provide that service is effected by sending a copy of the document to the
+
+Student’s mailing address contained in ROSI or by emailing a copy to the email contained in ROSI.
+Both of these steps were taken numerous times.
+21.
+
+The hearing proceeded in the absence of the Student.
+
+PART 3 - THE FACTS UNDERLYING THE CHARGES
+22.
+
+The Student was enrolled in the Course in the fall 2020 term,. The Course was taught
+
+online by Jacqueline Smith (“Professor Smith”).
+23.
+
+Assignment 3 was worth 9.5% of the grade in the Course and required students to practice
+
+6
+
+working with structured files, practice building and using dictionaries, as well as other problem
+breakdown into sub-tasks and functions. The Student submitted his work on December 7, 2020,
+using MarkUs.
+24.
+
+The Course syllabus included a section entitled “Academic Integrity”. The section referred
+
+and directed students to the Code. It also specifically instructed students to never look at another
+student’s assignment, show other students their assignments, solutions or drafts or seek help of
+websites like Chegg.com or online tutors. Professor Smith also advised students during the Course
+to complete assignments independently.
+25.
+
+In reviewing the Student’s assignment, Professor Smith noticed that it was similar to an
+
+assignment submitted by another student. Professor Smith used the MOSS software, which
+identified extensive similarities between the two assignments. Professor Smith then herself
+reviewed the assignments and generated a line by line comparison. She identified that the answers
+given by the two students were highly and unusually similar for most of their 300 lines of code
+and even included certain things that were not discussed in the Course.
+26.
+
+Professor Smith further discovered that Assignment 3 had a match with another student
+
+enrolled at the University of Toronto’s Mississauga campus. It was Professor Smith’s professional
+opinion that the “extensive similarities” in the assignments of the two students were “too great and
+too unusual to be coincidental”.
+27.
+
+As noted above, the Student never answered any requests to discuss these issues. By
+
+contrast, the other student met with the Dean’s designate on July 15, 2021, to discuss the
+allegations. In this meeting, the other student admitted to sharing a screenshot of her work for
+Assignment 3 with other students in the Course in a group chat. She was sanctioned for this
+
+7
+
+offence.
+
+PART 4 - FINDINGS ON LIABILITY
+28.
+
+The Panel was satisfied that the evidence establishes that the University has proven on a
+
+balance of probabilities the facts to support a conviction on Charges 1 and 2. As a result, Charge
+3 was withdrawn by the University.
+29.
+
+The evidence establishes without question that there were highly unusual similarities
+
+between the assignment submitted by the Student and the assignment submitted by another student.
+Professor Smith’s evidence is that most of the 300 lines of code were “highly and unusually
+similar” and also included matters that were not discussed in the Course. These two things in
+combination make it extremely unlikely that the similarities were due to chance. It is far more
+likely that, in contravention of the Code, the students shared their work and produced similar
+assignments. There is therefore little doubt that Charge 1 was made out on the evidence.
+30.
+
+The more complicated question was whether or not Charge 2 was established by the
+
+evidence. Charge 2 relies on the Student having represented another’s ideas or expressions as his
+own, rather than the less specific question in Charge 1 as to whether or not there was unauthorized
+aid either obtained or provided. Therefore, in order to make out Charge 2, the Panel had to be
+satisfied that it was more likely than not that the Student had used another student’s work rather
+than collaborated on the assignment or shared his work.
+31.
+
+The Panel accepted the admission by the other student that she had shared a screenshot of
+
+her work with others. It was therefore more likely than not, that she had shared the work with the
+Student who had then used it, representing it has his own idea or expression. The evidence on this
+point was not perfect, nor was it tested.
+
+That said, the question is merely whether on a
+
+8
+
+preponderance of the evidence, the Panel was satisfied that this was the more likely flow of
+assistance. On a whole, the Panel was satisfied. This is also in the face of no evidence of any kind
+from the Student.
+32.
+
+The Panel is also satisfied that even if Charge 2 had not been made out, the penalty for
+
+Charge 1 alone would be identical to the penalty that it imposed on the Student for both Charges
+1 and 2, which is set out below. Therefore, if the Panel is wrong on a review of the evidence and
+its conclusion with regard to Charge 2, the sanction is unaffected
+
+PART 5 - SUBMISSIONS ON PENALTY
+33.
+
+Assistant Discipline Counsel seeks the following sanctions be imposed on the Student:
+a)
+
+a final grade of zero in the course CSC108H1F in Fall 2020;
+
+b)
+
+a suspension from the University of Toronto for a period of two years from
+September 1, 2022 to August 31, 2024; and
+
+c)
+
+a notation of the sanction on his academic record and transcript from the date
+of the Tribunal’s order to August 31, 2025.
+
+34.
+
+Assistant Discipline Counsel referred to Appendix “C” to the Code, which provides a guide
+
+to sanctions. This guide provides that in the case of a first time academic offence such as
+plagiarism, the University will seek a two-year suspension. Although this is not binding on the
+Panel, it provides the expectation for students and consistency in penalties sought.
+35.
+
+Assistant Discipline Counsel noted that the proposed suspension in this case was slightly
+
+under two years to allow the Student to enrol for Fall classes in 2024. If the suspension went for
+
+9
+
+two full years, it would actually require that the Student not be enrolled in the University for longer
+than two years.
+36.
+
+Assistant Discipline Counsel submitted that the nature of the offence is serious, and that
+
+the detriment to the University occasioned by the offence and the need to deter others is central.
+Assistant Discipline Counsel did not seek to rely on any aggravating factors. Assistant Discipline
+Counsel acknowledged that this was the Student’s first offence.
+37.
+
+As the Student did not provide any evidence or submissions, there was nothing before the
+
+Panel regarding the character of the Student or other mitigating factors on penalty.
+38.
+
+Assistant Discipline Counsel relied on eight precedents in which students had committed
+
+similar offences. The precedents did not readily distinguish between plagiarism or unauthorized
+assistance, as the offences are considered similar under the factors that dictate the penalty. In the
+cases relied on by Assistant Discipline Counsel, a two-year suspension was the minimum penalty
+imposed for this type of offence.
+
+DECISION ON PENALTY
+39.
+
+The Panel carefully considered the facts of the case, the factors to consider on penalty and
+
+the facts of this case. The Panel is aware that prior Tribunal decisions are not binding on it, but
+that they do offer guidance for the Panel on penalties imposed on other students in similar
+circumstances. There is a value in consistency in penalties.
+40.
+
+The seminal case of Mr. C outlines the factors that the Panel should consider in determining
+
+the appropriate penalty:
+a) The character of the person charged;
+
+10
+
+b) The likelihood of repetition of the offence;
+c) The nature of the offence committed;
+d) Any extenuating circumstances surrounding the commission of the offence;
+e) The detriment to the University occasioned by the offence; and
+f) The need to deter others from committing a similar offence.
+(University of Toronto v. Mr. C. Case No. 1976/77-3, November 5, 1976, at p. 15)
+41.
+
+In this case, the Panel agreed that the appropriate penalty is the one sought by Assistant
+
+Discipline Counsel. It is fair that the penalty be just under two years, backdated to September 1,
+2022, as the Student will not be able to obtain credit from the University for two years. He will be
+able to enrol again for the Fall semester in 2024.
+42.
+
+There is no evidence of any mitigating or aggravating factors in this case nor any evidence
+
+about the character of the Student. The penalty must therefore be focused on the nature of the
+offences and the need for deterrence. The nature of the offences and their impact on the University
+require that the penalty be significant. It is oft stated how serious the offences of plagiarism and
+unauthorized assistance are in the university setting. There is good reason for this: these offences
+undermines the very foundation of academic integrity and result in a profound unfairness to
+students who work diligently and independently to earn their credits. If left unchecked, these
+offences can undermine the credibility of the institution and the degrees it confers.
+43.
+
+Students are informed at every turn – from the Code to course syllabi – that plagiarism will
+
+not be tolerated. Where students commit this type of offence, they cannot claim ignorance – the
+
+11
+
+University has delivered the message of its expectations, and the seriousness of the offence
+repeatedly and clearly.
+44.
+
+The offence in The University of Toronto and G.L. (Case No. 1262, February 22, 2022)
+
+(“G.L.”) was comparable to the one in this case. Two students provided a strikingly similar answer
+to a question on an assignment in a Math course. In that case, the original answers appear to have
+been copied from the website Chegg.com. The student did not participate in the process and there
+was no evidence of mitigating factors. The Panel in G.L. imposed slightly less than a two-year
+suspension to allow the student to re-enroll in the University at the two-year mark.
+45.
+
+Several other cases with similar facts impose two-to-three-year penalties, which vary
+
+slightly with factors including the participation of the student, the nature of the offence and
+aggravating factors such as previous offences. A sanction of at least two years for unauthorized
+assistance and/or plagiarism is both standard and reasonable.
+46.
+
+There is no basis in this case for a different penalty than the one outlined by the Code and
+
+imposed in numerous precedents. The offence is no less serious than those in the cases relied by
+Assistant Discipline Counsel, all of which impose at least two years for unauthorized assistance
+and/or plagiarism. Given the notice provided by the Code, the Student himself could expect no
+different penalty in the circumstances.
+47.
+
+The appropriate length of suspension in this case is two years.
+
+PART 6 - THE ORDER
+48.
+
+The University Tribunal orders:
+a) a final grade of zero in the course CSC108H1F in Fall 2020;
+
+12
+
+b) a suspension from the University of Toronto for a period of two years from
+September 1, 2022, to August 31, 2024; and
+c) a notation of the sanction on his academic record and transcript from the date
+of the Tribunal’s order to August 31, 2025.
+49.
+
+That this case shall be reported to the Provost for publication of a notice of the decision of
+
+the Tribunal and the sanction or sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto this 19th day of December, 2022
+
+Original signed by:
+________________________________________
+Dena Varah, Chair
+On behalf of the Panel
+
+

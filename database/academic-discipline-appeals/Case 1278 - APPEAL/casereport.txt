@@ -1,0 +1,1039 @@
+Case No. 1278
+
+THE DISCIPLINE APPEALS BOARI)
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF an appeal of findings made and a sanction imposed by the University
+Tribunal on January 9,2023, in respect of charges of academic misconduct filed on October 12,
+2021,
+
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am.
+S.O. 1978, c. 88
+
+BETWEEN:
+
+Z
+
+H
+
+Appellant
+-and-
+
+UNIVERSITY OF TORONTO
+Respondent
+
+REASONS FOR DECISION
+
+Appeal Hearing Date: January 12,2024,viaZoom
+Members of the Discipline Appeals Board Panel:
+Paul Michell, Associate Chair
+Professor Aarthi Ashok, Faculty Board Member
+Emily Hawes, Student Board Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Calvin Zhang, Counsel for the Appellant, Starkman Lawyers
+H
+Z
+
+Hearing Secretary:
+ChristopherLang, Director, Office of Appeals, Discipline and Faculty Grievances
+
+2
+
+A.
+1.
+
+Introduction
+
+On January 10, 2024, we heard the appeal of H
+
+Z
+
+(the "Student"), an
+
+undergraduate atthe Faculty of Arts & Science, from the University Tribunal's January 9,2023
+decision on liability and sanction under the Code of Behaviour on Academic Matters (the "Code").
+The Tribunal's reasons for decision were released on March 23,2023.
+
+2.
+
+The Student raised several arguments about the manner in which the Tribunal had weighed
+
+the evidence and evaluated the credibility of witnesses. In form, these were claims that the Tribunal
+
+had erred in law. However, we take the view that in substance they were simply disagreements
+
+with the Tribunal's findings of fact. We lack jurisdiction to hear appeals from such findings. We
+conclude that the Tribunal did not make the legal enors, or effors of law application, that the
+Student ascribes to it. We would dismiss the appeal.
+
+3.
+
+Before the Tribunal, there was a detailed agreed statement of facts. The parties also agreed
+
+on a joint submission on penalty in the event that the Tribunal accepted the Provost's position on
+
+liability. The Student had been enrolled in an introductory microeconomics course. Students were
+required to write five term assessments, each worth I0.5% of the final grade. On the first
+assessment, the Student scored 53.33%.
+
+4.
+
+The second assessment posed a mixture of multiple-choice questions and questions
+
+requiring a numeric answer. Students were required to draft rough handwritten notes for each
+question, and submit pictures of their rough work to the course website. The second assessment
+was to be written during a window in mid-October 2020. Students were prohibited from discussing
+
+the second assessment with anyone during the assessment window. During that window, a private
+
+tutoring service called Easy Edu conducted an online review session on Zoom. In the review
+
+J
+
+session, a tutor solved questions that were substantially the same as questions on the second
+assessment. A video recording of the review session showed that someone using aZoom account
+
+with the Student's name had attended the review session. The Student was the only person with
+that name in the course. On the second assessment, the Student scored 73.33%.
+
+5.
+
+Thus, before the Tribunal, the main issue was whether the Student had attended the review
+
+session using his Zoom account (as the Provost argued), or whether someone else had used the
+
+Student's Zoomaccount to attend. The Student denied having attended the review session. Instead,
+he claimed that his friend X
+
+"R
+
+"R
+
+had attended the session using the Student's
+
+gaming computer and Zoom account. It was common ground that if the Provost showed that the
+Student had attended the review session, the first charge (set out below) would be established.
+
+B.
+
+The Charges Against the Student
+
+6.
+
+On October 12,2021, the Provost charged the Student with two offences:
+
+1.
+
+On oraboutOctober 18 and 19,2020,the Studentknowinglyusedorpossessed
+
+an
+
+unauthorized aid or obtained unauthorized assistance in Assessment#2 in ECO101HlF (20209)
+(the "Course"), contrary to section 8.I.1(b) of the Code.
+
+2.
+
+In the alternative, on or about October 18 and 19,2020,the Student knowingly engaged in
+
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+
+described in the Code in order to obtain academic credit or other academic advantage of any kind
+
+in connection with Assessment #2 inthe Course, contrary to section B.L3(b) of the Code.
+
+C.
+
+Tribunal's Decision on Liability
+
+7.
+
+The Tribunal focused on evidence about the identity of the person who had used the
+
+Student's Zoom account in the review session.
+
+4
+
+1. Competing explanations
+
+8.
+
+The Student's evidence was that he had not attended the review session. His explanation
+
+was that his friend Mr. R
+
+had, without his knowledge, attended the review session using the
+
+Student's gaming computer and Zoom account. Mr. R
+
+was not registered in the course. He
+
+testified that he had attended the review session because he had wanted to become a teaching
+assistant for Easy Edu, and Easy Edu had suggested that he attend a review session as a trial.
+
+2. Participation in the review session using the Student's Zoom account
+
+9.
+
+One issue before the Tribunal was the nature and extent of participation in the review
+
+session by the person using the Student's account. The Provost led evidence that the person using
+
+the Student's Zoom account had been a frequent and engaged participant in the review session.
+The Provost argued that this was more consistent with the Student having attended the review
+session than with the Student's explanation that he had not attended, but that Mr. R
+
+10.
+
+had.
+
+The Tribunal found that the Student's account had participated "quite extensively" in the
+
+review session by typing in a number of comments, most of which were directed at providing
+answers to the questions being taught. The Tribunal found that the nature and extent of the
+account's participation were consistent only with someone interested in and knowledgeable about
+the course materials, which it infened would be a student in the course. The Tribunal found that
+
+the person using the Student's account was interested in understanding the course content and
+participating in a manner that was educative in nature.
+
+3. Similarities between the tutor's work in the review session and the Student's
+rough work for the second assessment
+11
+
+The Provost called evidence from Professor Robert Gazzale, one of the course co-
+
+instructors, about similarities between the work presented during the review session and the rough
+
+5
+
+work that the Student had provided on his second assessment. He included a chart showing a visual
+comparison between Mr. Z
+
+'s rough work and the Easy Edu tutor's rough work. These
+
+similarities included the use of vertical lines to indicate absolute value (something that Professor
+Gazzale did not teach in the course); the use of the acronym TB and the idea of total benefit (which
+he initially claimed he did not use in the course, but later conceded that the term had appeared in
+at least one question on the second assessment); the use of the acronym E to denote elasticity; and
+
+the fact that the Student had answered at least one multiple choice question (involving a shift in
+
+both the supply and demand curves) without drawing a graph in his rough notes, where it would
+have been difficult for students not to have drawn a graph to answer that question (unless, he
+
+implied, the student already knew the answer from the review session).
+
+12.
+
+Professor Gazzale also testified about the Student's performance on the other assessments
+
+in the course. In each case, the Student had performed significantly worse than he did on the second
+assessment, making his performance in the second assessment anomalous. The Tribunal accepted
+
+this evidence as one factor in concluding that the Student had participated in the review session.
+
+13.
+
+Finally, during the review session, the Student's account had typed the name "Lee Bailey"
+
+in response to a question about a professor at the University of Toronto Mississauga ("UTM") who
+
+taught ECOIOO (a full year introductory course that had both a microeconomics and
+macroeconomics component). The Student's account typed the name after the Easy Edu tutor had
+indicated that the professor's name was "Bailey". As we discuss below, the appropriate conclusion
+
+to be drawn from this evidence was an issue on the appeal before us.
+
+6
+
+4. Mr. R
+
+'s evidence
+
+14. Like the Student, Mr. R
+
+testified that he had attended the review session, not the Student.
+
+He said that he had applied for a job as a teaching assistant with Easy Edu. He claimed that Easy
+Edu had suggested that he attend a review session, and that he had done so, using the Student's
+gaming laptop and the Student's Zoomaccount. His evidence was that he had only realizedduring
+the review session itself that he was logged in as the Student, that he did not think it would be an
+issue, and that he had not been sure how to the change the name of the account.
+
+15.
+
+The Tribunal did not accept Mr. R
+
+'s evidence. It contrasted Mr. R
+
+'s minimal
+
+qualifications to be a teaching assistant (he had never successfully completed an economics course
+
+in high school or at the University) with Easy Edu's webpage advertisements outlining the
+qualifications and experience of its instructors. The Tribunal also noted that Mr. R
+
+had taken no
+
+other steps with Easy Edu, and had been slow even to attend the review session.
+
+16. The Tribunal concluded that the Student, not Mr. R
+
+, had attended the review session
+
+using the Student's Zoom account. On this basis, the Tribunal found the Student guilty of the first
+charge. The Provost withdrew the second charge.
+
+D.
+
+Penalty
+
+17.
+
+The Provost and the Student made a joint submission on penalty to the Tribunal providing
+
+for the following sanctions to be imposed on the Student:
+
+(a)
+
+a final grade of zerc in ECO10lHlF in the fall of 2020;
+
+(b)
+
+a suspension from the University for two years and four months commencing on
+
+January 1,2023;
+
+7
+
+(c)
+
+a notation of the sanction on the Student's academic record and transcript for four
+
+years from the date of this order until graduation, whichever comes first; and
+
+(d)
+
+the case to be reported to the Provost for publication of a notice of the Tribunal's
+decision and the sanctions imposed, with the Student's name withheld.
+
+18. The Tribunal explained that it was obliged to accept the joint submission on penalty unless
+doing so would bring the administration of justice into disrepute. The Tribunal saw no basis for
+departing from the joint submission.
+
+19.
+
+The Tribunal considered cases involving unauthorized assistance or plagiarism, including
+
+University of Toronto v. X.Z. (Case No. 1274, July 11,2022), where another student who had
+participated in the same review session at issue in this appeal had been found guilty, and had
+received a two-and-a-half-year suspension. The Tribunal also noted that the penalty for a first
+offence of cheating by receiving unauthorized aid generally includes a suspension of at least two
+years: University of Toronto v. Y.Y. (Case No. 85 I , March I , 2017), at para. 7 , and that assistance
+
+from a commercial provider is an aggravating factor in determining the length of the suspension.
+
+20.
+
+The Tribunal considered the agreed penalty here to fall within a reasonable range, although
+
+it noted that absent such an agreement, it might have been inclined to order a more severe penalty,
+given what it viewed as the Student's effort to cover up his involvement with an "elaborate story"
+
+about the involvement of Mr. R
+
+. The Tribunal reviewed the factors set out in University of
+
+Toronto v. Mr. C (Case No. 1976177-3, November 5, 1976), and was satisfied that it should accept
+the joint submission on penalty.
+
+8
+
+E.
+
+Notice of Appeal
+
+21.
+
+On January 12,2023, after the Tribunal's order but before the release of its reasons for
+
+decision, the Student delivered a notice of appeal. He alleged, among other things, that the Tribunal
+had misapprehended the evidence, had erred in law in analysing the credibility and reliability of
+witnesses, and had reached an unreasonable verdict.
+
+22. The Student's factum raised four issues, submitting that the Tribunal had erred by:
+(a)
+
+improperly shifting the burden of proof to the Student;
+
+(b)
+
+analyzingthewitnesses' credibility andreliability;
+
+(c)
+
+applying uneven scrutiny by emphasizing the Student's motivation instead of
+evidence of the circumstances; and
+
+(d)
+23.
+
+admitting Professor Gazzale's evidence as expert opinion evidence.
+
+We note that each of these grounds of appeal concerns liability, not the penalty imposed
+
+by the Tribunal. Although the Student filed a broad notice of appeal, and the opening paragraph of
+
+his factum sought to appeal from the penalty imposed, the balance of his factum did not address
+the penalty imposed or set out any reason why the Tribunal had erred in imposing it.
+
+F.
+
+Standard of Review and Jurisdiction
+
+24
+
+The Student did not address the applicable standard of review on this appeal, nor our
+
+jurisdiction with respect to his grounds of appeal
+
+25.
+
+On the applicable standard of review on this appeal, the Provost noted that in practice the
+
+Board adheres to a level of deference to the Tribunal on the weighing of evidenc e (J.H.L. v.
+University of Toronto,z}22DAB 1059, at para.39) and findings of credibility (M.K .v. University
+
+9
+
+of Toronto, 2012 DAB 634 at para. 30; University of Toronto v. L.5., 2017 DAB 841 at para. 9;
+J.H.L., atpara.39)
+
+26. The Provost submitted that, as set out in section E.a@) of the Code, the Board lacks
+jurisdiction to hear appeals by an accused from a conviction attrial upon a question offact alone,
+a point recently confirmed by the Senior Chair in J.H.L., at paras. 38-39 and 51.
+
+27. We agree with these submissions.
+G.
+
+Student's Grounds of Appeal
+
+1. Did the Tribunal improperly shift the burden of proof to the Student?
+
+28.
+
+The parties agree that the Provost bore the burden of proof before the Tribunal to show that
+
+the Student was guilty of an offence, on a balance of probabilities standard. They disagreed on
+whether the Tribunal had properly allocated the burden of proof here.
+
+29.
+
+The Student argued that several findings of fact showed that the Tribunal had improperly
+
+shifted the burden of proof to him in certain instances:
+
+(a)
+
+The Tribunal found that the Student had intended to participate in the review
+session, although the Provost led no evidence to support this conclusion.
+
+(b)
+
+The Tribunal found that it made no sense that Mr. R
+
+, who wanted to obtain a
+
+job, would wait from May or June2020 until October 2020, even though the
+Provost had tendered no evidence contrary to Mr. R
+argued that there was evidence that Mr. R
+
+'s evidence. The Student
+
+was not eager to obtain a job at the
+
+time, and only applied when a family friend had offered him a job at Easy Edu.
+(c)
+
+The Tribunal found that Mr. R
+
+had "fuled" Easy Edu's job interview by "not
+
+using his own computer which presumably had his own name on the Zoom
+
+platform" and by "not providing any feedback" to Easy Edu about the review
+
+10
+
+session. The Student argued that the Provost did not lead any evidence to show
+
+that Easy Edu requires job candidates to use their own name on Zoom. The
+Student also claimed that on cross-examination, Mr. R
+
+had testified that he had
+
+provided feedback to Easy Edu, including "how he will teach the course and how
+the teaching environment [slc]."
+
+(d)
+
+The Tribunal found that although Mr. R
+
+had claimed that he (not the Student)
+
+had attended the review session, he gave no evidence as to how he could have
+
+understood the course content, because "he had never taken the course, nor had he
+completed ECO100", and "there was no credible explanation for Mr. R
+
+'s
+
+participation". The Student argued that these findings were a "clear indication"
+that the Tribunal had shifted the burden to the Student to show that Mr. R
+
+had
+
+the intention to attend the Zoom session, whereas the burden lay with the Provost
+
+to show that the Student (and not Mr. R
+
+Mr. R
+
+) had attended. The Student also noted
+
+'s cross-examination evidence that he had attended ECO100 before
+
+dropping the course.
+
+30.
+
+The Provost argued that this was not a case where the Tribunal had found that an offence
+
+had been established simply because it did not believe the defence evidence, but failed to clearly
+accept the prosecution evidence. Instead, the Provost submitted that the Tribunal had both rejected
+
+the defence evidence and fovnd that the agreed statement of facts and the prosecution evidence
+proved the offence. In short, rejecting a defendant's evidence cannot be equated with shifting the
+burden of proof to the defence: Singh v. 1.C.8.C.,2022BCCA320 atpara.24.
+
+31.
+
+The Provost also took issue with the Student's particular claims:
+(a)
+
+The Student's claim that there was no evidence that he had intended to attend the
+
+review session was incorrect. The Tribunal had relied inpart on evidence that the
+Student's account had actively participated in the review session in a manner
+
+11
+
+consistent only with someone who was interested in understanding and learning
+the course content.
+
+(b)
+
+The Student's claim that Mr. R
+
+was not eager to obtain a job at the time was not
+
+supported by the evidence. In fact, Mr. R
+
+had agreed on cross-examination that
+
+he had been "anxious to get a job so that [he] could start earning money."
+
+(c)
+
+The Student's suggestion that there was no evidence that Easy Edu required
+prospective employees to use their own name on Zoom sessions mischaracterized
+the Tribunal's reasons. Instead, the Tribunal had concluded that Mr. R
+
+'s
+
+professed desire to work for Easy Edu was inconsistent with the evidence: he did
+
+not change the Zoom account name to his own name, and he did not reach out to
+Easy Edu after the Zoom session (but before the allegations against the Student
+arose in December 2020) to provide feedback. Further, the Student misstated the
+
+evidence in suggesting that Mr. R
+
+had testified that he had given feedback to
+
+Easy Edu about the review session. The evidence was to the contrary.
+
+(d)
+
+The Tribunal did not shift the burden of proof to the Student to show that Mr. R
+had the intention to attend the review session. Rather, the Tribunal had rejected
+
+Mr. R
+
+'s evidence about why he had allegedly attended the Zoom session.
+
+2. Did the Tribunal err in law in analyzing the witnesses' credibility and
+reliability?
+
+32.
+
+The Student's second argument was phrased broadly. He referred us to one of the most
+
+frequently-cited statements in Canadian law: a passage from the British Columbia Court of
+Appeal's decision in Faryna v. Chorny, lI952l2 D.L.R. 354 at 357 about the evaluation of the
+
+credibility of interested witnesses. The Court cautioned that evaluating the credibility of such a
+witness requires the trier of fact to consider whether it is in "harmony with the preponderance of
+the probabilities thatapractical and informed person would readily recognize as reasonable in that
+
+place and in those conditions", and not simply to focus on the personal demeanor of the witness.
+
+12
+
+33.
+
+As became clear, the Student had three particular concerns.
+
+34.
+
+First, the Student claimed that the Tribunal had, contrary to the passage just quoted, focused
+
+on the personal demeanor of Mr. R
+oounsuitable
+
+by stating that his knowledge of economics made him
+
+for the role of a teaching assistant", and by finding that it made no sense for Mr. R
+
+to have waited from May to October 2020 to contact Easy Edu.
+
+35.
+
+Second, the Student noted that the Tribunal had rejected his explanation that rough work
+
+is not required to answer multiple choice or numeric answer questions. The Student argued that
+
+what he said was the Tribunal's explanation for this conclusion-that "all of other evidence
+pointed to the Student's attendance at the Review $ss5is1"-\Mas umeasonable. The Tribunal had
+also rejected the Student's evidence about the similarities between his rough notes and the answers
+
+given in the review session. The Student also noted that although Professor Gazzale had testified
+that "total benefit" was not a term he recalled having used in the class by the time of the second
+assessment, in fact Professor Gazzale hadusedthe term in two questions on the second assessment.
+
+36.
+
+Third, the Student noted that Mr. R
+
+had testified that during the review session, Mr. R
+
+had written Professor Bailey's name in the Zoom chat, and had done so because Mr. R
+
+knew
+
+Professor Bailey. By contrast, the Student testified that at the time of the review session, he did
+not know who Lee Bailey was.
+
+37. In response, the Provost argued that the Student was seeking to have us review the
+Tribunal's assessment of the credibility of the defence witnesses. The Provost submitted that this
+was o'quintessentially" a question of fact (Dr. Q. v. College of Physicians and Surgeons of British
+
+Columbia,2003 SCC 19 atpara.38) not open to us to review, since (as noted above) we can hear
+appeals by an accused from a conviction only
+
+otpon a question which is not one of fact alone."
+
+l3
+
+38.
+
+The Provost went on to argue that if the Student was claiming that the Tribunal had
+
+misapprehended the evidence, he had not established a reversable error. To succeed, the Student
+
+would have needed to show that any such misapprehension was material (not peripheral) and that
+the evidence at issue had played an essential part in the Tribunal's reasoning process: R. v. Lohrer,
+
+2004 SCC 80 at para. 2; R. v. D.A., 2024 ONCA 39 at parc. 12. With reference to the Student's
+three particular examples, the Provost submitted that the Student had not done so here.
+
+.
+
+First, the Provost argued that the Student's concerns about how the Tribunal had considered
+
+Mr. R
+
+'s evidence about his knowledge of economics, and his explanation about why he waited
+
+39
+
+several months before following up with Easy Edu did not concern Mr. R
+
+'s demeanor during
+
+his testimony, which refers to non-verbal presentation or cues a witness gives while testi$ing.
+
+40.
+
+Second, the Provost submitted that the Student had essentially argued that the Tribunal had
+
+erred because it had rejected the Student's explanations as to why he had performed better on the
+second assessment than on the first assessment, and about the similarities between his rough work
+and the Easy Edu tutor's rough work. The Provost argued that the Tribunal did not misapprehend
+the evidence: it had considered the Student's evidence on these points, weighed it against the other
+
+evidence, and rejected his explanations. The Provost noted that the Board has confirmed that it
+
+will not substitute its own views in assessing credibility or the relative weight to be given to witness
+evidence: e.g., (Jniversity of Toronto v. L.5.,2017 DAB 841 at paras. 57,70; J.H.L., atpara. 5I.
+
+41.
+
+Third, the Provost noted that the Tribunal had rejected the Student's evidence that he had
+
+not known Professor Bailey's name. The Provost submitted that there was ample evidence to
+support the Tribunal's conclusion: Professor Bailey was known to be a hard grader at UTM; the
+Student had been at UTM in his first year; and during the time that he was the Student's friend,
+
+I4
+Mr. R
+
+had dropped out of Professor Bailey's ECOIOO course. In sum, the Provost submitted that
+
+the Student had failed to show that the Tribunal had committed a reversible error.
+
+3. Did the Tribunal err in applying uneven scrutiny by emphasizing the
+Student's motivation instead of the circumstantial evidence?
+
+42.
+
+The Student argued that the Tribunal was obliged to fairly and evenly evaluate the evidence
+
+called by both parties. In his view, the Tribunal had improperly focused on the motivations of the
+Student and Mr. R
+
+to participate in the review session, rather than focusing on whether there
+
+was evidence that the Student had actually participated in the review session.
+
+43.
+
+The Provost made two points in response.
+
+44.
+
+First, he noted that arguments based on uneven scrutiny are difficult to prove, because they
+
+impugn a Tribunal's findings on credibility, which are subject to a "very high degree of deference
+on appeal": R. v. G.F.,202I SCC 20 at para. 99; R. v. Chanmany, 2016 ONCA 576 at para. 26.
+Indeed, in,R. v. G.F., atpara. 100, the Supreme Court of Canada expressed "serious reseryations"
+about whether uneven scrutiny is analytically coherent or an independent ground of appeal. In any
+case, the Student would need to identi$ a basis in the Tribunal's reasons, or in the record, to show
+
+that the Tribunal had applied different standards of scrutiny to the witnesses. The Provost
+submitted that the Student had not done so here.
+
+45.
+
+Second, the Provost argued that although cloaked in the language of uneven scrutiny, the
+
+Student was really arguing about the relative weight that the Tribunal had placed on particular
+pieces of evidence. The Provost submitted that the Board cannot intervene in these circumstances.
+
+15
+
+4. Did the Tribunal err in admitting Professor Gazzale's evidence as expert
+opinion evidence?
+
+46.
+
+The Student's final argument was that a portion of Professor Gazzale's testimony was in
+
+substance expert opinion evidence that the Tribunal should not have admitted. At issue was
+
+Professor Gazzale's testimony about the rough work that students normally did when answering
+
+multiple choice questions, and whether they would be likely to draw a graph for certain questions.
+
+47.
+
+The Student made two points. First, he relied on the general proposition that opinion
+
+evidence is (subject to exceptions) inadmissible, and that a party seeking to rely on opinion
+evidence must fit it within such an exception. Second, he argued that he had not had an opportunity
+
+to retain an expert to rebut this evidence, and that this denial of opportunity violated his right to
+procedural fairness.
+
+48.
+
+The Provost did not challenge the Student's charucteization of Professor Gazzale's
+
+evidence as opinion evidence. Instead, he raised procedural objections to this ground ofappeal.
+
+49.
+
+First, the Provost noted that the Student had not raised this ground-and in particular, the
+
+suggestion that he had not had an opportunity to retain an expert-in his notice of appeal. Nor had
+
+the Student sought to amend his notice of appeal to add this ground.
+
+50.
+
+Second, the Provost argued that the Student had not objected to Professor Gazzale's
+
+testimony before the Tribunal. The Provost relied on decisions confirming that a party cannot
+appeal based on a decision-maker's admission of evidence where the party did not object at the
+
+time (e.g., Ontario (Attorney General) v. Trinity Bible Chapel,2023 ONCA I34 atpara.43), and
+that a party cannot normally complain about a breach of procedural fairness by an administrative
+tribunal where the party did not raise its complaint at the earliest reasonable opportunity (e.g., Lum
+
+T6
+
+v. College of Physiotherapists of Ontario,20l 8 ONSC 567 at para. 7 (Div. Ct.)). Not only did the
+
+Student not object to the admissibility of Professor Gazzale's evidence; he did not indicate to the
+
+Tribunal that he wanted to call an expert to respond to Professor Gazzale's evidence.
+
+51. Third, and in any event, the Provost argued that there was no evidence that the Student
+lacked the opportunity to retain an expert. The Student received disclosure in February 2022 and
+retained counsel in March 2022. The hearing did not start until November 2022. Critically, more
+
+than a month passed between Professor Gazzale's testimony (November 2022) and the date that
+
+the Student called his witnesses (January 2023). The Student thus had an opportunity to call
+evidence to respond to Professor Gazzale's evidence. If he needed more time, he could have sought
+an adjournment. He never did. And as noted above, he did not raise the issue with the Tribunal.
+
+H.
+
+Decision
+
+52.
+
+For the following reasons, we do not accept the Student's four grounds of appeal
+
+1. The Tribunal did not shift the burden of proof to the Student
+53
+
+The Tribunal did not shift the burden of proof from the Provost to the Student.
+
+54. First, there was evidence that the Student attended the review session, including the
+behaviour of the person who used the Student's Zoom account. The Tribunal found the Student's
+explanation (and that of Mr. R
+
+) not to be credible. A party (here, the Provost) who bears a burden
+
+of proof may fuIfil that burden in different ways, including through eliciting evidence on crossexamination of opposing witnesses that supports the cross-examining party's position.
+
+55.
+
+Second, the Student complained about the Tribunal's findings about Mr. R
+
+'s explanation
+
+of his pursuit of employment with Easy Edu based on the inconsistency between Mr. R 's
+
+T7
+
+explanation and his (a) lack of action to pursue a position; and (b) weak qualifications for such a
+
+position. In the same vein, Mr. R
+
+'s failure to use his own name during the review session
+
+(assuming he attended it), and his failure to provide feedback to Easy Edu about the review session
+
+(ostensibly a main reason he had attended the review session) had, in the Tribunal's view,
+undermined his explanation for having attended the review session in the first place. The evidence
+does not support the Student's submissions on this point.
+
+56.
+
+Third, we dismiss the Student's suggestion that the Tribunal's treatment of Mr. R 's
+
+qualifications suggests that the Tribunal shifted the burden of proof. The Tribunal found, based on
+evidence before it, that Mr. R
+
+had dropped out of ECO100 before completing it (albeit having
+
+taken a substantial portion of the microeconomics element of the course), and that his academic
+
+performance in that course (and more generally) was weak. The Tribunal concluded that this
+evidence undermined Mr. R
+
+57.
+
+'s testimony on this point. We share that view.
+
+Ultimately, we agree with the Provost that these complaints simply seek to challenge the
+
+Tribunal's findings. They do not establish that the Tribunal improperly shifted the burden of proof.
+
+2. No legal error in the Tribunal's analysis of credibility and reliability
+
+58.
+
+The Student argued that the Tribunal had committed a legal error in the way in which it
+
+had evaluated the credibility and reliability of witnesses (and in particular, the evidence of the
+Student and Mr. R
+
+). However, in substance, the Student was really challenging the Tribunal's
+
+preference for the evidence of the Provost's witnesses over his evidence and that of Mr. R
+
+59.
+
+First, the Tribunal did not accept Mr. R
+
+.
+
+'s evidence that he had attended the review
+
+session using the Student's gaming laptop andZoom account. However, the Tribunal did not rely
+
+on Mr. R
+
+'s personal demeanor to do so. Instead, it concluded that Mr. R
+
+'s actions and
+
+18
+
+qualifications were inconsistent with his explanation. He had testified that he had attended the
+review session because he was seeking employment as an economics teaching assistant with Easy
+Edu. Yet he waited months to attend the review session, and did not follow up with Easy Edu after
+
+the review session. The Tribunal found it implausible that he would be suitable as a teaching
+assistant: he had not completed the basic ECO100 course, and his overall academic performance
+
+(only 2.00 credits, with a CGPA of 2.23) was weak. These findings were based on the content of
+
+Mr. R 's evidence. The Tribunal said nothing about his demeanor.
+
+60.
+
+Second, the Tribunal rejected the Student's explanation of his approach to answering
+
+questions on the second assessment. That raises no legal issue before us. We cannot substitute our
+
+views for those of the Tribunal in assessing credibility or the relative weight to be given to witness
+evidence. The Student made much of Professor Gazzale's change of evidence (described above)
+about his use of
+
+oototal
+
+benefit", initially not recallingthathe had used the term in class, but later,
+
+when presented with evidence that he had used the term on the second assessment, accepting that
+his recollection had been inaccurate. The Tribunal noted this change of position in its reasons, but
+
+did not view it as having undermined Professor Gazzale's evidence more generally. That
+conclusion was open to the Tribunal. It is not uncommon for witnesses to give contradictory
+evidence. Whether the contradiction undermines their credibility on a material point frequently
+depends on the nature of the contradiction, the significance of the evidence and the issue it relates
+
+to, and whether the witness satisfactorily explains the contradiction. Not all contradictions are the
+same in origin, significance or consequence.
+
+61.
+
+Third, the Student's argument about who knew about "Lee Bailey" and when is a classic
+
+example of fact-finding that cannot ordinarily be challenged on appeal. The Tribunal considered
+
+l9
+and evaluated the evidence of the Student and Mr. R
+
+on this point, and identified several reasons
+
+why it did not accept that evidence. The Student has identified no legal error here.
+
+3. No uneven scrutiny
+
+62.
+
+We agree that the Tribunal must apply the same level of scrutiny to the evidence called by
+
+students and by the Provost: R. v. Bartholomew,2019 ONCA 377 atparas. 30-31. As the Court of
+
+Appeal indicated, in the face of an uneven scrutiny allegation, we must review the reasons as a
+
+whole to ensure that the Tribunal dealt with the evidence with an open mind, and addressed
+conflicting accounts or inconsistencies in the evidence of both parties fairly. Nevertheless, "being
+disbelieved does not translate into uneven scrutiny": R. v. Bartholomew, atpara.3l.
+
+63.
+
+Our review of the Tribunal's reasons reveals no basis for the suggestion that it applied
+
+uneven scrutiny. The Tribunal found Mr. R
+
+'s evidence to be "not credible, artdattimes bordering
+
+on the incredible." It explained why it had reached this conclusion. The Tribunal also rejected
+significant elements of the Student's evidence. It did not have similar concerns about the evidence
+
+of the witnesses called by the Provost. That does not mean that it applied different standards to
+different witnesses; it simply found the evidence of some witnesses to be wanting.
+
+4. No error in admitting Professor Gazzale's evidence
+
+64.
+
+Finally, we do not accept the Student's argument that the Tribunal erred in its treatment of
+
+Professor Gazzale's evidence. We doubt that the passage from Professor Gazzale's testimony that
+
+the Student now objects to was actually opinion evidence. Professor Gazzale did not purport to
+give expert opinion evidence. And just because a witness has expertise in a subject does not make
+his or her evidence o'opinion evidence". Professor Gazzale testified about testing in his class, and
+
+what students normally do to answer different types of questions. That was an area in which he
+
+20
+had experience and expertise. Arguably, his evidence was more in the nature of a "participant
+expert" who gives fact evidence about the events in issue, akin to a treating physician, as in
+Westerhofv. Gee Estate, 2015 ONCA 206, not true opinion evidence based on assumed facts.
+
+65.
+
+Nevertheless, we need not decide that question. We share the Provost's view that if the
+
+Student was concerned about the admissibility of some element of Professor Gazzale's evidence,
+he was obliged to object in a timely manner, not wait for the Tribunal to decide the merits of the
+charges against him, and then raise his objection for the first time in his appeal factum. Moreover,
+if the Student's real concern was to respond to the substance of Professor Gazzale's evidence, he
+had an opportunity to (and did) cross-examine Professor Gazzale, and there was sufficient time for
+the Student to call responding evidence or else seek an adjournment to do so. The Student did not
+take these steps.
+66.
+
+Having rejected the Student's grounds of appeal, we dismiss his appeal on liability. As set
+
+out above, the Student advanced no grounds to challenge the Tribunal's decision on penalty. We
+thus see no basis to interfere with it.
+67.
+
+The appeal is dismissed.
+
+68.
+
+We thank counsel for the parties for their written and oral submissions, which were of great
+
+assistance to the Board to deciding this appeal.
+Dated at Toronto, this 11th day of March, 2024.
+Original signed by:
+Paul Michell, Associate Chair
+On behalf of the Discipline Appeals Board Panel
+
+

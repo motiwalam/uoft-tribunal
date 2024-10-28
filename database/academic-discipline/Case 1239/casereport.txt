@@ -1,0 +1,1466 @@
+Case No: 1239
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on October 14, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND Y
+
+L
+
+REASONS FOR DECISION
+Hearing Date: February 8, 2022, via Zoom
+Panel Members:
+Mr. Christopher Wirth, Chair
+Professor Ernest Lam, Faculty Panel Member
+Ms. Jihyun Kwon, Student Panel Member
+Appearances:
+Mr. William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Lily Harmer, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk & Hearing Secretary, Appeals, Discipline and
+Faulty Grievances
+Not in Attendance:
+
+A Panel of the Trial Division of the University Tribunal was convened on February
+8, 2022 by videoconference to consider charges brought by the University of
+Toronto (the “University”) against
+
+(the “Student”) under the University’s
+
+Code of Behaviour on Academic Matters, 1995 (the “Code”).
+Preliminary Issue: Proceeding in the Absence of the Student
+The hearing was scheduled to begin at 9:45 a.m. Neither the Student, nor anyone
+on the Student’s behalf, were logged onto the Zoom link at that time. The Panel
+waited until 10:00 a.m. to start the hearing. The University then requested that the
+Panel proceed with the hearing in the Student’s absence.
+Pursuant to Rule 16 of the University Tribunal Rules of Practice and Procedure
+(the “Rules”), notice of an electronic hearing must include the date, time, place and
+purpose of the hearing; a reference to the statutory authority under which the
+hearing will be held; information about the manner in which the hearing will be held;
+and a statement that if a person does not attend the hearing, the Panel may
+proceed in the person’s absence. Rule 17 provides that where notice of an
+electronic hearing has been given to a person and that person does not attend the
+hearing, the Panel may proceed with the hearing in the party’s absence. The Rules
+conform to sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”),
+which set out the notice requirements.
+Pursuant to Rule 9, a notice of hearing may be served on a student by various
+means, including by emailing a copy of the document to the student’s email
+address contained in the University’s Repository of Student Information (“ROSI”).
+The University’s Policy on Official Correspondence with Students dated
+September 1, 2006 expressly states that students are responsible for maintaining
+on ROSI a current and valid mailing address and University-issued email account,
+and that “[f]ailure to do so may result in a student missing important information
+and will not be considered an acceptable rationale for failing to receive official
+correspondence from the University.” Students are expected to monitor and
+
+2
+
+retrieve their email on a frequent and consistent basis. Students have the right to
+forward their University issued email account to another email account, but remain
+responsible for ensuring that all University email communications are received and
+read.
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+In this case, the University provided evidence relevant to service by way of the
+evidence of five witnesses: Laurie O’Handley (“Ms. O’Handley”), an Academic
+Integrity Specialist with Student Academic Integrity at the University, Andrew Wagg
+(“Mr. Wagg”), an Incident Report Architect at Information Security, Information
+Technology Services at the University, Justine Cox (“Ms. Cox”), of the Office of the
+Vice-Provost, Faculty & Academic Life at the University, Samanthe Huang (“Ms.
+Huang”), an Administrative Assistant with the Appeals, Discipline and Faculty
+Grievances Office, Office of the Governing Council at the University and Natalia
+Botelho (“Ms. Botelho”), an Assistant at the law firm of Paliare Roland Rosenberg
+Rothstein LLP. These five witnesses provided their evidence by affidavit, which
+were accepted by the Panel pursuant to Rule 61 of the University Tribunal’s Rules
+of Practice and Procedure (the “Rules”).
+The contents of the affidavits (without Exhibits) of these five witnesses are set out
+below:
+a) Evidence of Ms. O’Handley
+Ms. O’Handley’s affidavit provides as follows:
+1.
+
+I am an Academic Integrity Specialist with Student Academic Integrity (“SAI”) at
+the University of Toronto (the “University”). As such, I have personal knowledge of
+the matters set out in this affidavit. Where I do not have personal knowledge of a
+matter, I state the source of my information and I believe it to be true.
+
+2.
+
+SAI is the office at the Faculty of Arts and Science that is responsible for
+investigating allegations of academic misconduct and arranging for students who
+
+3
+
+are facing such allegations to meet with the Dean or Dean’s Designate in
+accordance with the process set out in the Code of Behaviour on Academic
+Matters (the “Code”).
+A.
+
+Academic history
+
+3.
+
+first registered at the University in Fall 2017.
+academic suspension in 2019-2020. To date,
+a cumulative GPA of 0.31.
+
+served a one-year
+has earned 1.5 credits with
+
+is currently serving a three-year academic
+
+suspension, which commenced following the Winter 2021 semester, due to his low
+cumulative GPA. At present,
+
+is eligible to return to the University in May
+
+2024. I have attached a copy of
+
+academic history dated January 10, 2022,
+
+to my affidavit as Exhibit A.
+B.
+
+Instructor contact with the student
+
+1.
+
+Professor Robert Gazzale, one of the instructors for ECO101 H1F: Principles of
+Microeconomics (the “Course”), has advised me that on October 19, 2020, he
+emailed
+
+, stating that a version of Term Assessment 2 was provided to a
+
+commercial tutoring service, and that he had concerns about the similarity of the
+assessment that
+
+completed and the commercial tutoring service’s study
+
+guide. Professor Gazzale has advised me that
+
+responded via email on
+
+October 22, 2020. I have attached a copy of this email thread, which Professor
+Gazzale provide to SAI, to my affidavit as Exhibit B.
+2.
+
+Professor Gazzale has advised me that, on October 26, 2020, he met with
+to discuss allegations of academic misconduct.
+
+C.
+
+Attempts to contact the student
+
+3.
+
+On December 9, 2020, SAI emailed
+
+to request that he meet with the Dean’s
+
+Designate to discuss the allegations of academic misconduct on December 15,
+2020. On December 14, 2020, SAI emailed
+scheduled for the next day.
+
+a reminder about the meeting
+
+did not respond to either email. I have attached
+
+a copy of the email thread between SAI and
+
+4
+
+to my affidavit as Exhibit C.
+
+4.
+
+On December 22, 2020, SAI emailed
+
+to request that he meet with the
+
+Dean’s Designate to discuss the allegations of academic misconduct on February
+2, 2021. On and February 1, 2021, SAI emailed
+meeting scheduled for the next day.
+
+a reminder about the
+
+did not respond to either email. A copy
+
+of these emails is included in the email thread attached to my affidavit as Exhibit
+C.
+5.
+
+The matter was subsequently forwarded to the Vice-Provost.
+
+D.
+
+SWS Activity Log
+
+6.
+
+On February 1, 2022, I obtained a copy of the Student Web Services Activity Log
+(“SWS Activity Log”) for
+
+from the Repository of Student Information
+
+(“ROSI”). The SWS Activity Log shows that
+
+last logged onto the University’s
+
+online portal on October 27, 2020 at 20:52:45. I have attached a copy of the SWS
+Activity Log to my affidavit as Exhibit D.
+
+b) Evidence of Mr. Wagg
+Mr. Wagg’s affidavit provides as follows:
+1.
+
+I am an Incident Report Architect at Information Security, Information Technology
+Services at the University of Toronto (the “University”). As such, I have knowledge
+of the matters contained in this affidavit. Where I do not have direct knowledge of
+a matter contained in this affidavit, I state the source of my knowledge and I believe
+it to be true.
+
+2.
+
+Information Technology Services provides many services to the University,
+including management of the email accounts used by students. To access an email
+account one needs to input both the user’s login id and the password for that
+account. The Microsoft 365 Exchange portal automatically records the last time
+someone accessed a particular university-issued email account. This is denoted
+with the code “LastUserActionTime.” The LastUserActionTime log only updates
+when someone logs in to a university-issued email account.
+
+3.
+
+On January 10, 2022, at the request of William Webb, Assistant Discipline Counsel
+for the University, I checked the portal records to determine the last time someone
+
+5
+
+accessed the email account
+
+. In order to view the
+
+LastUserActionTime log, I ran a PowerShell script.
+4.
+
+I determined that the last time someone accessed this e-mail account was on
+October 29, 2020 at 3:13:20 AM, local Toronto time.
+
+c) Evidence of Ms. Cox
+Ms. Cox’s affidavit provides as follows:
+1.
+
+On October 14, 2021, I served
+Heather
+
+Boon.
+
+I
+
+served
+
+with the charges issued by Professor
+
+the
+
+charges
+
+on
+
+by
+
+e-mail
+
+to
+
+, which was the e-mail address
+provided to the University of Toronto in ROSI.
+2.
+
+Attached as Exhibit A is a copy of
+
+ROSI.
+
+3.
+
+Attached as Exhibit B is a copy of the email and charges that was sent to
+on October 14, 2021.
+
+d) Evidence of Ms. Huang
+Ms. Huang’s affidavit provides as follows:
+1.
+
+I am an Administrative Assistant with the Appeals, Discipline and Faculty
+Grievances Office (“ADFG Office”), Office of the Governing Council, University of
+Toronto (the “University”) and, as such, have knowledge of the matters contained
+in this affidavit.
+
+2.
+
+On October 15, 2021, I served
+
+(the “Student”) with a letter regarding the
+
+revised charges that were filed against him, together with copies of the revised
+charges, the Code of Behaviour on Academic Matters, the Rules of Practice and
+Procedure and a pamphlet for Downtown Legal Services. I served the Student with
+these documents by email at
+
+, which is the e-mail
+
+address that the Student had provided in the Repository of Student Information
+(“ROSI”). A copy of my email and letter of October 15, 2021 (without any other
+enclosures) is attached to my affidavit as Exhibit “A”.
+
+6
+
+3.
+
+On January 3, 2022, I received an email from William Webb, an associate at
+Paliare Roland, requesting to schedule an electronic hearing for the Student for
+Tuesday, February 8, 2022 at 9:45 am. The Student was copied on Mr. Webb’s
+email.
+
+4.
+
+On January 3, 2022, I responded to Mr. Webb’s email advising that the Notice of
+Electronic Hearing would be issued in due course. A copy of my email exchange
+with Mr. Webb is attached to my affidavit as Exhibit “B”.
+
+5.
+
+On January 3, 2022, I served the Student with the Notice of Electronic Hearing for
+a hearing on February 8, 2022 at 9:45 am, together with copies of my letter of
+October 15, 2021 and enclosures (which included the revised charges) by email. I
+advised the Student that the hearing would be conducted using the Zoom
+videoconferencing platform and I provided the Student with the coordinates to
+access the videoconference. A copy of my email of January 3, 2022 and the Notice
+of Electronic Hearing (without any other enclosures) is attached to my affidavit as
+Exhibit “C”.
+
+6.
+
+All of my emails to the Student were sent to
+
+,
+
+which is the email address that the Student had provided in ROSI. I did not receive
+a “bounce back” message to any of my emails, indicating that they could not be
+delivered.
+7.
+
+I have not received a response from the Student to any of my correspondence. To
+the best of my knowledge, the Student has not contacted my office.
+
+e) Evidence of Ms. Botelho
+Ms. Botelho’s affidavit provides as follows:
+1.
+
+I am an assistant at the law firm of Paliare Roland Rosenberg Rothstein LLP
+(“Paliare Roland”). I work with Lily Harmer, a partner at Paliare Roland, who
+currently acts as Assistant Discipline Counsel for the University of Toronto. Ms.
+Harmer is prosecuting the charges filed against
+
+on behalf of the Provost.
+
+As such, I have knowledge of the matters set out in this affidavit. Where my
+
+7
+
+information is based on information and belief, I have stated the source of that
+information and that I believe it to be true.
+contact information
+
+A.
+1.
+
+On November 23, 2021, at the request of William Webb, an associate at Paliare
+Roland, the Student Academic Integrity (“SAI”) office at the Faculty of Arts and
+Science, University of Toronto, provided my office with a copy of the current
+contact information for
+
+in the University’s Repository of Student Information
+
+(“ROSI”). A copy of
+
+ROSI record dated November 23, 2021, is attached
+
+to my affidavit as Exhibit “A”.
+2.
+
+On January 6, 2022, at the request of Mr. Webb, the SAI office provided my office
+with a copy of the current contact information for
+
+in ROSI. A copy of
+
+ROSI record dated January 6, 2022, is attached to my affidavit as
+Exhibit “B”.
+3.
+
+In
+
+ROSI record dated January 6, 2022, his official email address is listed
+
+as
+4.
+
+A copy of
+
+(the “
+
+Email”).
+
+academic record as of January 10, 2022, is attached to my
+
+affidavit as Exhibit “C”.
+B.
+
+Service of revised charges and disclosure to
+
+5.
+
+On October 14, 2021, the Office of the Vice-Provost, Faculty and Academic Life
+served the revised charges in this matter on
+
+by email to the
+
+Email.
+
+A copy of the email and revised charges is attached to my affidavit as Exhibit “D”.
+6.
+
+On October 20, 2021, Ms. Harmer sent an email to
+to introduce herself. Ms. Harmer advised
+
+at the
+
+Email
+
+that important documents and
+
+correspondence would be sent to his mail.utoronto.ca email address. A copy of
+Ms. Harmer’s email (on which I was copied) is attached to my affidavit as Exhibit
+“E”.
+7.
+
+On November 5, 2021, Mr. Webb sent
+
+an email at the
+
+attaching a letter from Ms. Harmer to
+
+dated November 5, 2021 (the
+
+8
+
+Email
+
+“Disclosure Letter”), a disclosure brief relating to this matter, and a copy of the
+University’s Policy on Official Correspondence with Students. A copy of the email
+and the Disclosure Letter (on which I was copied), without other attachments, is
+attached to my affidavit as Exhibit “F”.
+8.
+
+On November 8, 2021, Mr. Webb sent
+
+an email at the
+
+Email
+
+attaching the Disclosure Letter and a revised disclosure brief. A copy of the email
+(on which I was copied), without any attachments, is attached to my affidavit as
+Exhibit “G”.
+C.
+
+Emails to
+
+regarding the hearing
+
+9.
+
+On December 6, 2021, Mr. Webb sent an email to
+
+at the
+
+Email
+
+regarding scheduling a hearing date in this matter. Mr. Webb advised
+if he did not hear back from
+
+that
+
+regarding his availability by December 13,
+
+2021, Mr. Webb would request a hearing date to be scheduled. A copy of the email
+(on which I was copied) is attached to my affidavit as Exhibit “H”.
+10.
+
+On January 3, 2022, Mr. Webb sent a follow-up email to
+
+at the
+
+Email advising that he would be requesting a hearing to be scheduled for Tuesday,
+February 8, 2022 at 9:45 am. A copy of the email (on which I was copied) is
+attached to my affidavit as Exhibit “I”.
+11.
+
+On January 3, 2022, Mr. Webb and the Office of Appeals, Discipline and Faculty
+Grievances (“ADFG”) had an email exchange regarding the request for a hearing
+date of February 8, 2022 at 9:45 am.
+
+was copied on this email at the
+
+Email. A copy of the email exchange (on which I was copied) is attached
+to my affidavit as Exhibit “J”.
+12.
+
+On January 3, 2022, the ADFG sent an email to
+
+at the
+
+Email. The
+
+ADFG issued the Notice of Electronic Hearing to take place via zoom on February
+8, 2022 at 9:45 am. A copy of ADFG’s email (on which I was copied) and the Notice
+of Electronic Hearing is attached to my affidavit as Exhibit “K”.
+D.
+
+Attempts to contact
+
+by telephone
+
+9
+
+13.
+
+I am advised by Mr. Webb that he made attempts to call
+2021 at the phone number
+
+on November 23,
+
+, which is the number that
+
+had
+
+provided in ROSI. I am advised by Mr. Webb that:
+(a)
+
+a man answered the phone and stated that he did not know anyone
+named
+
+(b)
+
+or
+
+;
+
+he called
+
+again, and that he spoke with the same man
+
+who stated he did not know anyone named
+(c)
+
+or
+
+;
+
+he reviewed the number that he dialed, and verified that he dialed
+on both occasions.
+
+14.
+
+I am advised by Mr. Webb that he reviewed
+
+ROSI record, dated January
+
+6, 2022, on that same date to determine whether
+number.
+
+had updated his phone
+
+phone number in the November 23, 2021 ROSI record and the
+
+January 6, 2022 ROSI record are both
+did not call
+
+. I am advised that Mr. Webb
+
+on January 6, 2022 because
+
+had not updated
+
+his number.
+E.
+
+Attempts to contact
+
+by courier
+
+15.
+
+On January 7, 2022, our office arranged for a courier to deliver a package to
+at
+
+(the “
+
+Address”), which is the mailing address that
+
+had provided in ROSI. The
+
+courier package contained a letter from Ms. Harmer dated January 7, 2022, the
+Notice of Electronic Hearing and cover email from Samanthe Huang dated January
+3, 2022 (which contained the Zoom details to access the hearing), and the revised
+charges in this matter. A copy of Ms. Harmer’s letter (without any enclosures) and
+the courier delivery notification email are attached to my affidavit as Exhibits “L”
+and “M”.
+16.
+
+On January 10, 2022, I spoke to the courier company regarding the delivery of our
+package on January 7, 2022 at the
+
+Address. The courier company advised
+
+me that the courier arrived at the
+
+Address, which is an English speaking
+
+school called
+
+, and was told by an individual to leave the
+
+package on the main table.
+
+10
+
+17.
+
+On January 12, 2022, our office arranged for a courier to deliver a package to
+at
+
+(the “
+
+Address”), which is the permanent address that
+
+had provided in ROSI. The
+
+courier package contained a letter from Ms. Harmer dated January 11, 2022, the
+Notice of Electronic Hearing and cover email from Samanthe Huang dated January
+3, 2022 (which contained the Zoom details to access the hearing), and the revised
+charges in this matter. A copy of Ms. Harmer’s letter (without any enclosures) and
+the courier delivery notification email are attached to my affidavit as Exhibits “N”
+and “O”.
+18.
+
+On January 14, 2022, I spoke to the courier company regarding the delivery of our
+package on January 12, 2022 at the
+
+Address. The courier company
+
+advised me that the courier arrived at the
+
+Address, which is an
+
+apartment building. The entrance to the apartment building was locked. The
+courier was able to enter the apartment building and left the package in front of the
+Canada Post box where other packages were piled up.
+19.
+
+had not provided an apt. # in ROSI for the
+
+20.
+
+has not provided any other addresses in ROSI.
+
+Address.
+
+F.
+
+University’s attempts to contact
+
+21.
+
+The file that our office received from the Vice-Provost indicates that the following
+attempts were made to contact
+
+about the allegations of academic
+
+misconduct in issue:
+(a)
+
+Between December 9, 2020 to February 1, 2021, SAI sent emails to
+at
+
+about the allegation of
+
+academic misconduct. A copy of these emails is attached to my
+affidavit as Exhibit “P”.
+(b)
+
+On March 17, 2021, SAI sent an email to
+to advise that the matter would be
+forwarded to the Vice-Provost. A copy of the email is attached to my
+affidavit as Exhibit “Q”.
+
+11
+
+at
+
+G.
+
+Affidavits
+
+22.
+
+On February 1, 2022, Mr. Webb sent
+
+a copy of the affidavit of R. Gazzale.
+
+Mr. Webb stated that the University would rely on the affidavit at the hearing. Mr.
+Webb also stated that Professor Gazzale would attend the hearing and be
+available for cross-examination. I have attached a copy of Mr. Webb’s email
+(without attachment), on which I was copied, to my affidavit as Exhibit “R”.
+H.
+
+Communication from
+
+23.
+
+To date, our office has not received any communication from
+
+The evidence is that the Student has not received actual notice of the Charges, of
+the disclosure or of the Notice of Electronic Hearing. However, the Rules do not
+require actual notice. The University can serve the Student, but cannot make the
+Student actually read what is served.
+The University did everything it could reasonably have done to contact the Student
+and did take the steps it was required to under the Rules. Given the Student’s
+academic suspension and his interactions with Professor Gazzale concerning the
+allegations of academic misconduct, the Tribunal was satisfied it was more likely
+than not that the Student had made a deliberate choice some time ago to avoid his
+University-issued email and turn his back on any official communications from the
+University. That choice has consequences.
+Therefore, in light of the evidence and the submissions of Assistant Discipline
+Counsel, the Panel was satisfied that the Student had been given reasonable
+notice of the hearing in compliance with the notice requirements of the SPPA and
+the Rules. The Panel decided to hear the case on its merits in the absence of the
+Student.
+Charges and Particulars
+The revised charges alleged against the Student as filed by the Provost on October
+14, 2021 are as follows:
+
+12
+
+1.
+
+On or about October 18 and 19, 2020, you knowingly used or possessed an
+unauthorized aid or obtained unauthorized assistance in Assessment #2 in
+ECO101H1F (20209) (“Course”), contrary to section B.I.1(b) of the Code.
+
+2.
+
+In the alternative, on or about October 18 and 19, 2020, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with Assessment #2
+in the Course, contrary to section B.I.3(b) of the Code.
+
+The particulars related to charges 1 and 2 are as follows:
+1.
+
+At all material times, you were a registered student in the Faculty of Arts & Science,
+University of Toronto.
+
+2.
+
+In Fall 2020, you enrolled in the Course, which was taught by Professor Robert
+Gazzale.
+
+3.
+
+On October 18 and 19, 2020, you wrote Assessment #2, which was worth 10.5%
+of the final grade in the Course. Due to the COVID-19 pandemic, the assessment
+was administered online in an unsupervised setting.
+
+4.
+
+You knew that you were not permitted to collaborate with other persons during the
+assessment.
+
+5.
+
+You knowingly obtained unauthorized assistance from a paid tutor while
+completing Assessment #2.
+
+6.
+
+While completing Assessment #2, you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct in order to obtain an academic advantage.
+
+The Student’s Position
+Given that the Student was not present nor represented, he was deemed to have
+denied the charges. As a result, the hearing proceeded on the basis that the
+University bore the burden of proving the charges on the balance of probabilities.
+
+13
+
+Overview
+In addition to the previously identified affidavits, the University tendered the
+evidence of one witness, Professor Robert Gazzale (“Professor Gazzale”), an
+Associate Professor whose course the Student was in who provided his evidence
+by affidavit, which was accepted by the Panel pursuant to Rule 61 of the University
+Tribunal’s Rules. Professor Gazzale also testified at the hearing to supplement his
+affidavit.
+After careful deliberation, and having considered all the evidence, the Panel found
+that on the balance of probabilities the evidence is sufficiently clear, cogent and
+convincing to discharge the burden of proof on the University and found that the
+Student had committed academic misconduct.
+The Evidence
+The contents of Professor Gazzale’s affidavit (without Exhibits) is set out below along with
+any pertinent evidence from his examination in chief.
+a) Evidence of Professor Gazzale
+Professor Gazzale’s affidavit provides as follows:
+1.
+
+I am an Associate Professor, Teaching Stream in the Department of Economics at
+the University of Toronto. As such, I have personal knowledge of the matters set
+out in this affidavit. Where I do not have personal knowledge of a matter, I state
+the source of my information and I believe it to be true.
+
+A.
+
+The Course
+
+2.
+
+In Fall 2020, Professor Abdollah Farhoodi and I taught ECO101H1F: Principles of
+Microeconomics (the “Course”). The Course is an introductory course on
+microeconomics that aims to introduce students to the economist way of thinking.
+I have attached a copy of the syllabus to my affidavit as Exhibit A.
+
+3.
+
+was a student in the Course.
+
+14
+
+4.
+
+The syllabus stated that students were required to read the Code of Behaviour on
+Academic Matters. The syllabus also contained a specific direction that students
+were not permitted to receive assistance on any assessment or activity that
+counted for their course grade:
+8
+
+Academic Integrity
+
+The over-arching rules is simple. For an assessment or activity that counts towards
+your course grade:
+•
+
+You may not receive assistance from another individual. This includes, but is
+in no way limited to, any online forum or other digital communications as well
+as any tutoring or assistance service.
+
+[…]
+
+5.
+
+Students in the Course were evaluated based on: participation (worth 20%), entry
+tasks (worth 1%), quizzes (worth 16%), 5 term assessments (each worth 10.5%),
+and a final assessment (worth 10.5%).
+
+B.
+
+Term Assessment 2
+
+6.
+
+When I created Term Assessment 2, I wrote 77 different questions. 40 questions
+were multiple-choice, and 37 questions required students to provide a numeric
+answer. I organized the 77 questions into 17 question pools according to subject
+matter. A question pool contained anywhere from 3 to 10 questions. Quercus
+randomly selected one or more questions from each pool, and assigned those
+questions to a student.
+
+7.
+
+Each student received 23 questions for Term Assessment 2. The first question on
+every assessment was the same—it asked students to confirm that they
+understood that they must complete their rough work on paper, and upload a scan
+of their rough work to Crowdmark within 30 minutes of completing the assessment
+on Quercus. The remaining 22 questions were randomly assigned from the 17
+question pools.
+
+8.
+
+On October 18 and 19, 2020, students in the Course were required to write Term
+Assessment 2, which was worth 10.5% of the final grade in the Course. Students
+had 90 minutes from the time they chose to start to write the assessment between
+October 18, 2020 at 7:00 p.m. and October 19, 2020 at 7:00 p.m. Students only
+
+15
+
+gained access to the Term Assessment 2 questions when they began the
+assessment. I have attached a copy of the Term Assessment 2 instructions to my
+affidavit as Exhibit B.
+9.
+
+Term Assessment 2 was an open book assessment. The instructions stated that
+the following aids were allowed:
+Allowed Aids: non-programmable calculator, class material including textbook,
+videos, problem sets, tutorial material etc.
+
+10.
+
+The instructions also contained a lengthy statement on academic integrity, which
+included the following statement:
+•
+
+11.
+
+This is an individual assignment. You CANNOT discuss ANY graded work with
+ANYONE–this includes classmates, friends, family, tutors (paid or unpaid),
+neighbours, literally anyone. Checking websites for answers, posting your work for
+others to use, collaborating, soliciting/receiving answers, stating false or
+misleading information related to assessments, etc., are examples of actions
+violate Academic Integrity. Unintentional mistakes or confusion is not a defence.
+Ask us if you're unsure.
+
+On or about October 18, 2020 at 8:02 p.m.,
+2.
+
+took 63 minutes to complete Term Assignment 2. I have attached a copy
+
+of
+12.
+
+Term Assessment 2 to my affidavit as Exhibit C.
+
+On or about October 18, 2020,
+have attached a copy of
+
+13.
+
+submitted his Term Assignment
+
+submitted his rough work to Crowd Mark. I
+rough work to my affidavit as Exhibit D.
+
+received a grade of 52 out of 60 on his Term Assignment 2.
+
+C.
+
+Easy Edu
+
+14.
+
+On October 19, 2020, a student in the Course notified me that she attended a
+review session that provided solutions to questions that were similar to the
+questions on Term Assessment 2 (the “Review Session”). I met with the student
+on Microsoft Teams and she told me that Easy Edu, a commercial tutoring service,
+held the Review Session and provided students with a copy of a study package.
+After we met, the student sent me a copy of the study package, which contains 22
+questions (the “Study Package”). I have attached a copy of the study package to
+my affidavit as Exhibit E.
+
+16
+
+15.
+
+I reviewed the Study Package and found that each one of the 22 questions in the
+Study Package corresponded directly with one of the questions that I had written
+for Term Assessment 2. The questions in the Study Package were substantially
+the same as the questions that I wrote, but contain superficial differences. For
+example, whereas one of my questions asks about the marginal cost of phone
+plans, the corresponding question in the Study Package asks about the marginal
+cost of Netflix plans.
+
+16.
+
+At the time when I reviewed the Study Package, only 849 students out of the 1831
+students in the Course had written Term Assessment 2.
+
+17.
+
+After I had matched the 22 questions in the Study Package with the questions that
+I wrote, I downloaded the Term Assessment 2 files for these 849 students from
+Quercus. I ran these files through a statistical software program called Stata to
+determine who had received which questions.
+
+18.
+
+was the only student of these 849 students who had been assigned each
+one of the 22 questions that corresponded with the Easy Edu Study Package.
+While other students in the Course received one or more of the 22 questions in the
+Study Package on their version of the assessment, only
+
+version of the
+
+assessment contained all 22 questions in the Study Package. I have attached an
+excerpt from my academic integrity report on
+
+that compares the questions
+
+received and the questions in the Study Package to my affidavit as Exhibit
+F.
+19.
+
+After all 1831 students in the Course submitted Term Assessment 2, I performed
+the same analysis to determine whether any other students had been assigned the
+same 22 questions as
+
+I downloaded all of the student’s files from Quercus
+
+and ran them through Stata to determine who had received which questions.
+Again,
+
+was the only student in the entire Course that had been assigned
+
+each of the 22 questions that corresponded with the Easy Edu Study Package.
+20.
+
+On October 19, 2020, I emailed
+
+, stating that a version of Term Assessment
+
+2 was provided to a commercial tutoring service, and that I had concerns about the
+similarity of the assessment that he completed and the commercial tutoring
+service’s study guide.
+
+17
+
+21.
+
+sent me an email on October 22, 2020, in which he admitted that he paid
+a tutor to check his answers during the assessment period.
+
+stated:
+
+Dear professor
+I feel so sorry that I missed the email last time. I had really struggling life this period
+of time.
+Firstly I want to say I didn't know anything about commercial tutoring service
+providing term assessment 2.
+I was a little overwhelmed with this course, and missing term assessment 1 and
+missing numerous quiz and tutorials, I felt like I needed some extra help with this
+test. So I paid for a tutor to check my answers as I did the assessment. But I didn't
+know if he is part of any relationship that you mentioned in the email.
+I know this is wrong and I honestly regret it. But I don't know anything about
+commercial tutoring service. I am trying very hard in this course and struggling as
+well. I know now to not get tutor help during test time, but this course is very
+important to me and I want to work on it honestly. I really hope you can give me a
+second chance.
+
+[Emphasis added]
+
+22.
+
+I have attached a copy of
+
+email to my affidavit as Exhibit G.
+
+D.
+
+The Study Package and the Review Session
+
+23.
+
+Later that week, a student emailed me a link to a YouTube video of the Easy Edu
+Review Session. The YouTube video shows that Easy Edu held the Review
+Session via Zoom at 9:08 p.m. EST on October 18, 2020, which was within the
+assessment period. Based on the Zoom attendance list, at least 180 students
+attended at least part of the Review Session. I have attached a screen shot of the
+Review Session that shows the session began at 9:08 p.m. EST on October 18,
+2020 to my affidavit as Exhibit H.
+
+24.
+
+The document properties of the Study Guide show that it was created on October
+18, 2020 at 8:46 p.m. The document properties show that there are four different
+authors: Kevin, Amy, Bruce, and Elvin. The author’s last names are not provided.
+I have attached a copy of the document properties to my affidavit as Exhibit I.
+
+25.
+
+In my view, four people could have easily modified the questions from the form in
+which they appear on
+
+assessment to the form in which they appear in the
+
+Study Guide in one hour. In my view, one proficient person could complete this
+
+18
+
+same task in an hour. The questions on Term Assessment 2 were first year
+economics questions, and the changes to the questions were superficial. For
+example, whereas Question 2 on
+
+Term Assessment 2 asks about the
+
+marginal cost of phone plans, the corresponding question in the Study Package
+asks about the marginal cost of Netflix plans. Each of the superficial similarities
+can be seen in my academic integrity report that is attached to my affidavit as
+Exhibit G.
+26.
+
+In addition, four people could easily come up with solutions to the 22 questions in
+one hour for the Review Session. Again, one proficient person could complete this
+task in an hour. I gave students 90 minutes to complete Term 2 Assessment on
+the assumption that they were somewhat new to the study of microeconomics. In
+any event,
+
+completed Term Assessment 2 in 63 minutes.
+
+E.
+
+The instructor meeting
+
+27.
+
+I met with
+
+28.
+
+The matter was subsequently forwarded to the Student Academic Integrity office.
+
+F.
+
+Course performance
+
+29.
+
+on October 26, 2020 to discuss his Term Assessment 2.
+
+only completed one out of the five term assessments (Term Assessment
+2), and one of the twelve quizzes in the Course. He also received a grade of
+6.67/100 for his participation grade.
+
+completed no other academic work in
+
+the Course. I have attached a copy of
+
+grades on Quercus to my affidavit
+
+as Exhibit J.
+
+In addition to his affidavit, Professor Gazzale also testified in chief that:
+(a)
+
+He has been with the University since 2012 and received his PhD from the
+University of Michigan in 2004.
+
+(b)
+
+The instructions for Term Assessment #2 were clear and were designed to
+ensure that those who took it would not discuss it with those who took it
+later so that they could have an advantage.
+
+19
+
+(c)
+
+All the questions on Term Assessment #2 were new questions that year.
+
+(d)
+
+Prior to Term Assessment #2 there were five quizzes held along with
+tutorials every week. However, the Student’s only participation was in one
+tutorial where he received a partial participation mark of one-third of the
+participation credit. In addition, the Student only completed one of the
+quizzes before taking Term Assessment #2.
+
+(e)
+
+He had reviewed the Quercus logs for the Student and up to the week prior
+to Term Assessment #2, the Student had not accessed the website for this
+Course and only did so in the week before Term Assessment #2 during
+which time there was a reasonable amount of activity, but not an extremely
+high amount.
+
+(f)
+
+In Professor Gazzale’s view, given that the Course was taught at a high
+level and idiosyncratic, unless a student entered the Course with a strong
+knowledge in the subject area, given this level of preparation in Quercus, it
+would be highly unlikely that a student could do well on Term Assessment
+#2.
+
+(g)
+
+The student who contacted him on October 19, 2020 did so by email and
+expressed her concerns that by attending the Easy Edu review session she
+would be considered to have committed an academic offence.
+
+(h)
+
+By the evening of October 19, 2020, only seventy students had completed
+Term Assessment #2, so there were many who could still have obtained an
+advantage from the Easy Edu review session.
+
+(i)
+
+The Easy Edu review session started at 9:00 p.m. which was two hours after
+the permitted start time for Term Assessment #2. He was able to view the
+recording of the review session and to take screenshots from it. These
+screenshots allowed him to identify the fact that there was up to one
+hundred and eighty different people using different names registered and
+attending the review session. He then proceeded to match the names with
+
+20
+
+the student roster in his Course and this led to over one hundred students
+from it who were at the review session. Because Term Assessment #2 was
+worth more than 10% of the Course mark, the sanctions involved were
+above the economics department’s level and so over one hundred cases
+were sent to the Dean to be dealt with. Most acknowledged their conduct
+and received a zero in the Course and a temporary notation on their
+transcript.
+(j)
+
+In Professor Gazzale’s view, it would have been fairly straightforward to
+have made the modifications to the questions in the time that was available.
+The only variable would be the number of people who would have to be
+involved, but certainly one or two people could come up with the minor
+variations to the questions which were made. In that regard, his review of
+the Easy Edu document shows that there were four individuals identified as
+the authors of it.
+
+The Panel had no questions for Professor Gazzale and this concluded the
+University’s evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that Professor Gazzale’s evidence along
+with the Student’s admissions, support a finding on the balance of probabilities that
+the Student committed the academic offences as alleged. In that regard, the Panel
+was asked to draw the inference that the Student provided his twenty-two
+questions from Term Assessment #2 to Easy Edu, a commercial tutoring service
+and that it was more likely than not that the Student knew or ought to have known
+that it would use this to assist other students to cheat.
+Standard of Proof
+The onus is on the University to establish, based upon clear and convincing
+evidence on a balance of probabilities, that the academic offences charged have
+been committed.
+
+21
+
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University, the
+Student was found guilty of one count of knowingly using or possessing an
+unauthorized aid or obtaining unauthorized assistance in Assessment #2 in
+ECO101H1F (20209) (the “Course”), contrary to section B.I.1.(b) of the Code and
+of one count of knowingly engaging in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind in
+connection with Assessment #2 in the Course, contrary to section B.I.3(b) of the
+Code as alleged in Charges 1 and 2 filed by the Provost on October 14, 2021.
+Reasons for Decision
+Although Term Assessment #2 was an open book assessment, the instructions
+provided to students for it clearly stated which aids were allowed and also
+contained a lengthy statement on academic integrity which clearly instructed the
+students that it was an individual assignment which they could not discuss with
+anyone including their classmates, friends, family, tutors (paid or unpaid),
+neighbours, literally anyone, and that posting the work for others to use,
+collaborating, soliciting/receiving answers, were all examples of actions which
+would violate academic integrity. Students were also instructed to ask if they were
+unsure.
+When Professor Gazzale was advised by another student to the fact that Easy
+Edu, a commercial tutoring service had held a review session and provided
+students with a copy of a study package for Term Assessment #2, a copy of which
+he obtained, Professor Gazzale was able to determine that of the twenty-two
+questions contained in the study package, they were essentially identical to the
+questions which he had prepared for Term Assessment #2. In addition, he was
+able to determine that it was only the Student who had received these twenty-two
+random questions. When Professor Gazzale contacted the Student by email to
+confront him with respect to the concerns he had, the Student responded with an
+
+22
+
+email on October 22, 2020 in which he admitted that he had paid a tutor to check
+his answers during the assessment, that he knew that this was wrong and that he
+regretted it.
+On October 18, 2020 at 8:02 p.m., the Student submitted his Term Assessment #2
+which had taken him only 63 minutes to complete, which is 2.86 minutes per
+answer. For this he received a grade of 52 out of 60 (86%).
+Prior to Term Assessment #2, the Student had a very low GPA and was on
+academic probation. His highest mark ever had been 61%, yet despite this and
+using only two-thirds of his allotted time to take Term Assessment #2, he was able
+to achieve a mark of 86% and to answer the questions in 2.86 minutes each.
+Further, the evidence clearly established that the Student had only logged into the
+Course website one week before he took Term Assessment #2.
+It was also clear from the evidence that Easy Edu had more than sufficient time
+following the 63 minutes it took the Student to complete Term Assessment #2, to
+revise the twenty-two questions and to prepare the study package which was then
+distributed to other students in the Course who were attending the Easy Edu
+review session for Term Assessment #2.
+The Student clearly knew that he was not allowed to use the assistance of anyone
+including a commercial tutoring service to aid him in completing Term Assessment
+#2 nor was he to provide a copy of it to anyone.
+Despite this, the evidence establishes and the Student has clearly admitted that
+he used the services of Easy Edu, a commercial tutoring service to assist him in
+completing Term Assessment #2. In addition, the Panel was satisfied that Easy
+Edu in turn, used the Student’s copy of Term Assessment #2 to prepare its study
+package which was then distributed to other students in the Course for the review
+session which Easy Edu provided to them and that the Student knew or ought
+reasonably to have known that by his actions, Easy Edu would aid others in the
+taking of Term Assessment #2 using his copy of it.
+
+23
+
+As such, the Panel was satisfied on the balance of probabilities that the Student
+committed the academic offences of knowingly using or possessing an
+unauthorized aid or obtaining unauthorized assistance in Assessment #2 in
+ECO101H1F (20209) (the “Course”) contrary to section B.I.1(b) of the Code and
+that he also knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind in
+connection with Assessment #2 in the Course, contrary to section B.I.3(b) of the
+Code as alleged in Charges 1 and 2 filed by the Provost on October 14, 2021.
+Sanction
+The University’s Evidence
+The University provided the Panel with a Book of Documents re: Sanction
+containing a number of prior decisions of this Tribunal and a chart summarizing
+them.
+The University’s Submissions
+Counsel for the University submitted that the proper sanctions to be imposed on
+the Student should be:
+(a)
+
+a final grade of zero in ECO101H1F (20209);
+
+(b)
+
+a suspension from the University for five years from the date the Tribunal
+makes its order;
+
+(c)
+
+a notation of the offence on his academic record and transcript for six years
+from the date of the Tribunal’s order; and
+
+(d)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the Tribunal’s decision and the sanction imposed,
+with the Student’s name withheld.
+
+24
+
+Assistant Discipline Counsel reviewed with the Panel the chart summarizing the
+sanctions which have been given to students by this Tribunal in prior similar cases.
+The first eight involved the purchasing of essays, while the remaining seven
+involved personation. They all demonstrated that the sanctions imposed were in a
+narrow range of either a five year suspension or expulsion, particularly where there
+had been prior offences or the student did not admit the offence.
+Assistant Discipline Counsel then reviewed with the Tribunal the principles relative
+to sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/773, November 5, 1976) (“Mr. C.”), namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of a repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+
+(d)
+
+Any extenuating circumstances;
+
+(e)
+
+The detriment to the University caused by the misconduct; and
+
+(f)
+
+The need for general deterrence.
+
+Assistant Discipline Counsel submitted that by having provided Term Assessment
+#2 to a commercial tutoring service, this enabled it to help over one hundred other
+students cheat and the Student knew or ought to have known that his actions might
+aid others.
+Further purchasing academic work is the most serious conduct a student can
+commit. As well, the detriment to the University and the need for general
+deterrence were the most important factors. However, there were mitigating factors
+as the Student had no prior offences and did admit to his conduct early on in his
+email in response to Professor Gazzale, and as such, a five year suspension was
+appropriate.
+
+25
+
+Sanction Decision
+After deliberations, the Tribunal ordered that the following sanctions shall be
+imposed on the Student:
+(a)
+
+a final grade of zero in ECO101H1F (20209);
+
+(b)
+
+a suspension from the University for five years from the date the Tribunal
+makes its order;
+
+(c)
+
+a notation of the offence on his academic record and transcript for six years
+from the date of the Tribunal’s order; and
+
+(d)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the Tribunal’s decision and the sanction imposed,
+with the Student’s name withheld.
+
+An Order was signed at the hearing by the Panel to this effect.
+Reasons for Sanction
+The Tribunal considered the factors and principles relevant to sanction in Mr. C,
+supra, as set out above.
+In addition to these factors, the Panel considered the other decisions of this
+Tribunal involving similar misconduct as contained in the University’s Book of
+Documents on Sanction and the sanctions imposed. However, the Panel remained
+cognizant of the fact that no two cases are identical and that it is not bound by past
+decisions of this Tribunal. However, the Tribunal does try to develop a consistent
+body of cases so that students are treated fairly and consistently in similar
+circumstances.
+By cheating on Term Assessment #2, the Student undermined the grades-based
+system of evaluation and broke the honour code that is essential to modern
+learning. In that regard, the pandemic and the resulting required online learning
+provides more opportunities for students to cheat, requiring the University to go to
+
+26
+
+considerable lengths to detect and uncover students’ misconduct. Further, by
+providing it to a commercial tutoring service, he permitted it to assist over one
+hundred other students to cheat.
+In today’s online world, it is easy for students to find new ways to access
+unauthorized assistance and so any sanction must denounce cheating on tests
+and deter others in order to protect the academic integrity of the University.
+Students must understand that this kind of misconduct will have serious
+repercussions, so that they will be dissuaded from the temptation to consider
+cheating.
+The Panel accepted the University’s submission that by using a paid commercial
+tutoring service, the Student committed a serious form of academic misconduct,
+however, the Panel was satisfied that despite this aggravating factor, given the
+circumstances of this case including the Student’s remorse as demonstrated in his
+interaction with Professor Gazzale where he admitted his conduct, while
+considering the range of sanctions provided by prior decisions of this Tribunal in
+similar circumstances, a five year suspension of the Student from the University
+rather than expulsion was appropriate.
+Dated at Toronto, this
+
+17th day of March 2022
+
+Original signed by:
+______________________________________
+Mr. Christopher Wirth, Chair
+On behalf of the Panel
+
+27
+
+

@@ -1,0 +1,423 @@
+Case No.: 1088
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on July 13, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO (the “University”)
+- and C
+
+E
+
+B
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: March 26, 2021, via Zoom
+
+Members of the Panel:
+Ms. Sana Halwani, Chair
+Professor Michael Saini, Faculty Panel Member
+Ms. Parsa Mahmud, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk & Hearing Secretary, Office of Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+The Student
+
+I.
+
+Charges and Procedural History
+
+1.
+
+The Trial Division of the Tribunal held a hearing on March 26, 2021 to address the following
+charges brought by the University against the “Student” under the Code of Behaviour on
+Academic Matters, 1995 (the “Code”) (alternative charges have been omitted):
+a. On or about April 21, 2020, the Student knowingly represented as her own an idea
+or expression of an idea or work of another in a paper submitted in SMC430H1
+(the “Course”), contrary to section B.I.1(d) of the Code.
+b. On or about April 28, 2020, the Student knowingly forged or in any other way
+altered or falsified a document or evidence required by the University, or uttered,
+circulated or made use of such forged, altered or falsified document, namely a
+paper that the Student had altered and submitted in the Course, contrary to section
+B.I.1(a) of the Code.
+c. On or about April 28, 2020, the Student knowingly forged or in any other way
+altered or falsified a document or evidence required by the University, or uttered,
+circulated or made use of such forged, altered or falsified document, namely a
+screenshot purportedly containing the document properties for a paper that the
+Student submitted in the Course, contrary to section B.I.1(a) of the Code.
+
+II.
+
+Notice
+
+2.
+
+The Student was not in attendance at the hearing and, as a result, counsel for the University
+addressed the issue of notice.
+
+3.
+
+On review of the evidence, and on considering the Statutory Powers and Procedures Act,
+Rules 9(b), 13, 14 and 17 of the University Tribunal’s Rules of Practice and Procedure, and
+the University’s Policy on Official Correspondence with Students, the Panel was satisfied
+that notice had been adequately provided to the Student and decided to proceed with the
+hearing despite her absence.
+
+4.
+
+The evidence of notice included three affidavits as follows:
+a. An affidavit of Nusaiba Khan, Administrative Assistant with the ADFG Office,
+enclosing email correspondence showing that the Student had requested an
+adjournment of her February 8, 2021 hearing; that request was granted; the
+2
+
+Tribunal provided new dates for the hearing; the Chair of the Panel gave the
+Student until February 16, 2021 to respond and provide her availability, and
+cautioned that different considerations would go into considering any subsequent
+adjournment request. The Student failed to respond in the time given and the
+hearing was set for March 26, 2021. No further correspondence was received from
+the Student by either the Tribunal or the University’s counsel.
+b. Two affidavits of Kimberly Blake, a legal assistant at Paliare Roland Rosenberg
+Rothstein LLP, showing all the efforts to contact the Student prior to the first
+hearing date and confirming that the mail.utoronto.ca email address is still the
+current contact information for the Student on ROSI; and
+c. Two affidavits of Andrew Wagg, a member of the University’s Information
+Technology Services, providing evidence that the last time the Student’s ROSI
+email address had been accessed was on February 9, 2021, after the direction of
+the Chair and warning to respond was provided, but before the revised Notice of
+Hearing had been sent.
+5.
+
+Although the evidence of Mr. Wagg did not go so far as to confirm that the Student had
+received the latest Notice of Hearing, it is clear from the evidence that the Student was
+aware of the proposed date for the hearing and failed to communicate with the Tribunal or
+University counsel about that date – whether to confirm it or ask for an alternative date –
+despite being given ample opportunity to do so after her request for an adjournment was
+granted.
+
+6.
+
+On this basis, the Panel was of the view that reasonable notice had been provided under
+the Rules and was content to proceed with the hearing in the Student’s absence.
+
+III.
+
+Summary of Evidence
+
+7.
+
+The Student submitted a paper in the Course (the “Original Paper”). That paper was found
+to contain plagiarism. When confronted with the allegation of plagiarism the Student stated
+that she had mistakenly submitted a rough draft and sent another version of the paper to
+Professor Parker that she stated was the final draft (the “Purported Final Paper”). The
+metadata in the Purported Final Paper showed that the paper had been substantially revised
+after the discussion with Professor Parker. The Student also provided a screenshot of
+3
+
+document properties that purported to show that the paper had last been modified on the
+date it was originally submitted and not after (the “Purported Screenshot”). That Purported
+Screenshot did not match the actual document properties of the Purported Final Paper.
+8.
+
+The evidence of the University on the charges was presented by way of affidavit from:
+a. Felan Parker, Assistant Professor, Teaching Stream, Book and Media Studies, St.
+Michael’s College at the University, who was the instructor for the Course; and
+b. Elizabeth Cowper, Professor Emeritus in the Department of Linguistics at the
+
+University and Dean’s Designate for Academic Integrity with Student Academic
+Integrity (“SAI”), Faculty of Arts and Science, at the University.
+9.
+
+As the Student did not attend and was not represented at the hearing, the affiants were not
+cross-examined but were made available to the Panel for questions.
+
+10.
+
+With respect to each of the charges, the salient evidence for each of the charges is as
+follows.
+A.
+
+Plagiarism in Original Paper
+
+11.
+
+The first charge facing the Student is a plagiarism charge.
+
+12.
+
+Professor Parker provided evidence that the students in his course were made aware of the
+academic integrity expectations of the University.
+
+13.
+
+Despite those clear expectations, the Original Paper, which was submitted on April 21,
+2021, included passages that were verbatim or near verbatim excerpts from three online
+sources. None of those sources were cited in the Original Paper. Taken together, those
+passages amount to a little over one page of a nine-page paper.
+
+14.
+
+When this issue was referred to the Provost, the Student told the Dean’s Designate that the
+Original Paper contained plagiarism but that it was submitted in error and that she had
+intended to submit the Purported Final Paper.
+B.
+
+15.
+
+Alteration in the Purported Final Paper
+
+The second charge facing the Student is a charge of forging, altering or falsifying a
+document, namely the Purported Final Paper.
+
+4
+
+16.
+
+After the Student submitted the Original Paper, Professor Parker emailed the Student on
+April 27, 2021, told her that he had issues with the academic integrity of the paper, and
+asked to speak with her about it. In that email he did not identify the parts of the Original
+Paper that were at issue.
+
+17.
+
+The Student and Professor Parker spoke on April 28, 2021, and thereafter the Student sent
+him Microsoft Word and PDF versions of the Purported Final Paper. The Purported Final
+Paper contained substantial changes from the Original Paper and when Professor Parker
+turned on the track changes in the Word version he was able to see the dates of the changes
+and that they were all made on April 28, 2020.
+
+18.
+
+When questioned about this discrepancy by the Deans’ Designate, the Student suggested
+that she made few additional edits after she realized that she had originally submitted the
+wrong paper. This explanation is undermined by the fact that all of the changes made
+between the Original Paper and the Purported Final Paper bear a date of April 28, 2020.
+C.
+
+19.
+
+Purported Screenshot
+
+The third charge facing the Student is a charge of forging, altering or falsifying a document,
+namely the Purported Screenshot.
+
+20.
+
+When the Student provided the Purported Final Paper to Professor Parker, she also
+provided the Purported Screenshot in an effort to show that the paper was last modified on
+April 21, 2020, before she submitted the Original Paper.
+
+21.
+
+However, Professor Parker provided evidence that the actual document properties of the
+Purported Final Paper show that the paper was last modified on April 28, 2020 (consistent
+with the dates of the revisions discussed above).
+
+22.
+
+The Purported Screenshot (left) and the document properties snapshot provided by
+Professor Parker (right) are reproduced here:
+
+5
+
+23.
+
+When questioned by the Dean’s Designate about the discrepancy in the Purported
+Screenshot and the document properties of the Purported Final Paper, the Student denied
+modifying the document properties in the Purported Screenshot, but had no explanation for
+the discrepancy.
+
+IV.
+
+Finding on Charges
+
+24.
+
+Following deliberation and based on the affidavit evidence and the documents in the
+University’s Book of Documents (re: Finding of Offence), the Panel concluded there was
+clear and convincing evidence, on a balance of probabilities, that the Student:
+a. used the words of another without proper attribution in the Original Paper, and
+admitted to the plagiarism in her meeting with the Dean’s Designate;
+b. altered the Purported Final Paper by revising the paper substantially after the due
+date while representing that it was completed prior to the due date; and
+
+6
+
+c. falsified the Purported Screenshot by representing that it was the screenshot of
+the Purported Final Paper when it was not.
+25.
+
+Although the Panel could not know whether the Student had herself altered the Purported
+Final Paper and falsified the Purported Screenshot (as she could have elicited the help of
+another person), it was clear that the Student had circulated or made use of those records.
+
+26.
+
+The charges were therefore proven, and the Student was found guilty.
+
+V.
+
+Finding on Penalty
+
+27.
+
+Once the Panel had made a determination on the charges, we were provided with evidence
+of the Student’s academic record and prior academic offences. With respect to the latter,
+the Student had two prior offences as follows:
+a. Plagiarism in an assignment worth 7.5% in March 2018. The Student admitted
+guilt to this offence, and it was dealt with at the department level by way of a mark
+of 0 for the relevant assignment.
+b. Plagiarism of an assignment worth 4% in March 2019. Professor Cowper met with
+the Student to address this offence and she admitted guilt. The offence was
+therefore dealt with at the Divisional level, and the sanction imposed was a mark
+of 0 on the relevant assignment, a further mark reduction of 4% on the course, and
+a transcript notation that is still in place until August 2021.
+
+28.
+
+With respect to her academic record, the Student is one credit short of graduation and was
+last enrolled in the summer 2020 term at the University.
+
+29.
+
+The University requested the following penalty for this now third offence:
+a. a final grade of zero in the course SMC430H1 in Winter 2020;
+b. a suspension from the University of Toronto from the date of the Panel’s order until
+December 31, 2025 (just under five years); and
+c. a notation of the sanction on her academic record and transcript from the date of
+the Panel’s order until graduation or December 31, 2026, whichever is later.
+
+7
+
+30.
+
+The University also requested that this case be reported to the Provost for publication of a
+notice of the decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+
+31.
+
+This is the maximum penalty that the Code allows the Tribunal to impose as expulsion can
+only be recommended by the Tribunal.
+
+32.
+
+Counsel for the University provided the Panel with a series of similar cases to consider.
+While the Panel is not bound by any of these decisions, they are helpful in assisting the
+Tribunal in treating like cases alike.
+
+33.
+
+The cases provided to us by counsel for the University involved plagiarism only or plagiarism
+and other associated offences. The cases also varied with respect to whether the students
+had prior offences, whether they participated in the proceeding, and whether there was an
+Agreed Statement of Facts and/or a Joint Submission on Penalty. To summarize them
+briefly, the plagiarism only cases – most of which involved prior offences – resulted in
+suspensions in the three-to-four-year range. The plagiarism cases involving forgeries or
+altered documents resulted in penalties ranging from a three-year suspension to expulsion.
+
+34.
+
+Counsel for the University made submissions on the factors to be considered in penalty as
+set out in Mr. C. case (Case No.: 1976/77-3, November 5, 1976).
+
+35.
+
+The Student in this case has not participated at any stage of the process. The Student has
+therefore not shown any remorse, not presented any character evidence and not raised any
+mitigating or extenuating factors to warrant a more lenient sanction. Indeed, the evidence
+shows an element of deliberation with these offences. The Student kept digging the hole
+deeper for herself by submitting the Purported Final Paper and the Purported Screenshot,
+and by lying to Professor Cowper. This behaviour and the prior offences show a pattern of
+resorting to dishonesty and there is no evidence that the Student has any insight or remorse.
+
+36.
+
+With respect to the likelihood of repetition of the offence, the Student’s record includes two
+prior plagiarism offences, increasing in severity. These prior offences and sanctions did not
+deter the Student from re-offending. And when confronted with a third apparent instance of
+plagiarism, she did not respond with honesty or remorse but continued to turn to dishonesty.
+The Student does not appear to have learned her lesson and that is a factor that the Panel
+ought to take into account.
+
+8
+
+37.
+
+With respect to the forgery, alteration or falsification offences, these offences are at the
+most serious end of the spectrum because there is an element of deliberation and
+purposeful dishonesty in carrying them out.
+
+Such offences are rarely committed
+
+inadvertently or carelessly. In this case, the Panel was provided with evidence of the
+significant alterations that the Student made to her paper before she re-submitted it to
+Professor Parker. She also falsified the document properties to further her lie. The coverup here can be seen as even more serious than the original misconduct. The University
+needs to deter students from turning to falsification when faced with a charge of academic
+misconduct.
+38.
+
+With respect to the plagiarism, such conduct undermines the teaching and learning missions
+of the University. The University needs to be able to trust that the work being submitted is
+in fact the work of the students who submit them. Plagiarism is a constant threat to the
+University especially with the increased use of online sources.
+
+39.
+
+Based on the circumstances of this case and the comparator cases, counsel for the
+University suggested that the Provost would have been justified in requesting a
+recommendation for expulsion, particularly give the multiple charges, falsification of
+documents, prior offences, and lack of any mitigating circumstances. However, given the
+Student is only one credit short of a degree, the Provost requested a suspension of just
+under five years.
+
+40.
+
+Taking all of the evidence and submissions into consideration, the Panel accepted this
+recommendation and imposed the requested penalty.
+
+VI.
+
+Decision of the Panel
+
+41.
+
+At the conclusion of the hearing on penalty, the Panel conferred and made the following
+order:
+a. that the Student is guilty of one count of knowingly representing an idea or
+expression of an idea or work of another as her own, contrary to section B.I.1(d)
+of the Code;
+b. that the Student is guilty of two counts of knowingly forging or in any other way
+altering or falsifying a document or evidence required by the University, or uttering,
+9
+
+circulating or making use of such forged, altered or falsified document, contrary to
+section B.I.1(a) of the Code;
+c. that the following sanctions shall be imposed on the Student:
+i. a final grade of zero in the course SMC430H1 in Winter 2020;
+ii. a suspension from the University of Toronto from the date of this order until
+December 31, 2025; and
+iii. a notation of the sanction on her academic record and transcript from the
+date of this order until graduation or December 31, 2026, whichever is later;
+and
+d. that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+DATED at Toronto, April 28, 2021
+
+_________________________________
+Sana Halwani, Chair
+on behalf of the Panel
+
+10
+
+

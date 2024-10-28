@@ -1,0 +1,333 @@
+Case No.: 872
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on May 31, 2016,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and -
+
+--
+
+C
+
+D
+
+(
+
+)
+
+Hearing Date: October 13, 2016
+Members of the Panel:
+William C. McDowell, Lawyer, Chair
+Professor Maria Rozakis-Adcock, Faculty Panel Member
+Ms. Amanda Nash, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Barristers
+Dr. Leanne Carroll, Course Instructor for FAH102H1-S, (via Skype)
+Ms. Heather Huckfield, Program Director, John H. Daniels Faculty of Architecture,
+Landscape and Design
+In Attendance:
+Ms. Krista Osbourne, Administrative Assistant, Appeals, Discipline and Faculty
+Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Mr. Dave Vanderploeg, Audio Technician, Live Media
+
+-
+
+Not In Attendance:
+Ms. C
+D
+, Student
+1
+
+REASONS FOR DECISION
+1.
+
+~
+
+[Ill ("the Student") was charged with the following offences
+
+pursuant to the Code of Behaviour on Academic Matters, 1995 ("the Code"):
+1.
+
+"In or about February 2014, you knowingly represented as your
+own an idea or expression of an idea, and/or the work of another in
+an essay titled "Visual Analysis Paper" ("Essay"), which you
+submitted for academic credit in FAH 102H 1S: The Practice of Art
+History in the Winter 2014 Session (the "Course"), contrary to
+section 8.i.1 (d) of the Code.
+
+2.
+
+In the alternative, in or about February 2014, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any
+kind in connection with the Essay, which you submitted for
+academic credit in the Course, contrary to section B.l.3(b) of the
+Code.
+
+The particulars related to the charges are as follows:
+a) At all material times, you were a registered student at the
+University of Toronto in the Daniels Faculty of Architecture and
+Design.
+b) In Winter 2014, you enrolled in the Course.
+c) Students in the Course were required to submit a visual analysis
+paper in partial completion of the Course requirements. In or
+about February 2014, you submitted the Essay to complete this
+requirement.
+2
+
+d) You submitted the Essay knowing that it contained ideas, the
+expression of ideas, and verbatim or nearly verbatim text from
+publications and articles (the "Sources") which were not written
+by you.
+e) You knowingly represented the work of another person, or
+persons, who wrote the Sources as your own. You knowingly
+included in the Essay ideas and expressions that were not your
+own, but were the ideas and expressions of another person, or
+persons,
+
+who
+
+wrote
+
+the
+
+Sources,
+
+which
+
+you
+
+did
+
+not
+
+acknowledge in the Essay.
+f)
+
+For the purposes of obtaining academic credit and/or other
+academic advantage, you knowingly committed plagiarism in
+the Essay."
+
+3.
+
+For the reasons that follow, we found Ms.
+
+i=-i guilty of one count of
+
+plagiarism contrary to s. B.1.1 (d) of the Code.
+
+Service and Jurisdiction
+4.
+
+The Student did not appear at the hearing before the Tribunal. Counsel for
+
+the Provost filed the affidavit of Virginia Fletcher, a Law Clerk at Paliare Roland.
+The Student proved very difficult to reach at all stages of the University process.
+Ms. Fletcher outlined the steps which had been taken to reach the Student. It will
+suffice to say that service of documents was made to the Student's utoronto.ca
+email address, which she had placed on ROSI.
+
+5.
+
+Pursuant to the University's policy on Official Correspondence With
+
+Students, the Student is held to be responsible to monitor and retrieve her mail
+
+3
+
+from her "University issued electronic mail account". The Notice of Hearing and
+the correspondence were sent to her at that address.
+6.
+
+We also note that Dr. Leanne Caroll, the instructor for the Course, met
+
+with the Student on March 3, 2014 and in the course of that meeting showed the
+Student how to check her utoronto email.
+7.
+
+Given these facts, we found that we had jurisdiction to proceed, and that it
+
+would be appropriate to proceed in the Student's absence.
+The Facts
+
+8.
+
+Dr. Caroll testified before the Tribunal via Skype from Mount Allison
+
+University in Sackville, New Brunswick where she now teaches as a lecturer. The
+Student registered for the course, the Practice of Art History FAH102H1S ("the
+FAH Course"). Dr. Caroll taught the course with the aid of a number of teaching
+assistants.
+9.
+
+Dr. Caroll required that students submit an essay ("the Essay") described
+
+in the syllabus as a "visual analysis paper". The Essay was to be a brief
+assignment of two to three pages and would be worth 20% of the course grade.
+10.
+
+Early in the term, Dr. Caroll taught a class focussed on effective writing.
+
+In addition to other topics covered during this lecture, students were given careful
+instruction concerning proper paraphrasing, and were warned of the dangers of
+plagiarism. Dr. Caroll also required that students submit with their written work a
+document entitled "Academic Integrity Checklist" in which the student certified
+
+4
+
+that authenticity of the assignment submitted, for example, by confirming that "I
+have acknowledged the use of another's ideas with accurate citations".
+11.
+
+The Student submitted the Essay on February 13, 2014. She failed to
+
+submit the Academic Integrity Checklist with the Essay. Accordingly, when her
+paper was returned to her, marks had been deducted from it at the rate of 2% per
+day. The Student ultimately submitted a signed Academic Integrity Checklist on
+February 27, 2014.
+12.
+
+The paper was somewhat incoherent, and the teaching assistant who
+
+graded it provided some constructive commentary, including "I encourage you to
+visit your College's writing centre ... to learn how an English language learning
+resource is available at U of T". The teaching assistant was also concerned
+about the authorship of the paper, and drew these concerns to the attention of
+Dr. Caroll. Ultimately, Dr. Caroll and the teaching assistant compared the Essay
+to an online chapter entitled "Modern Art in Europe and the Americas, 1900 to
+1950", which formed part of an art history text (Art History, Vol. 2, 4th ed. by
+Marilyn Stokstad, and Michael W. Cothren).
+13.
+
+We reviewed the passages highlighted at Tab 5 of Exhibit 3 and are
+
+satisfied that these were taken without attribution from the Stokstad text. In
+several instances the Essay contains whole paragraphs ostensibly lifted from
+Stokstad, with no attribution whatsoever. Of course, the Student was not present
+to provide any explanation for her failure to provide citations or indeed other
+attribution for the impugned passages. We accepted the evidence outlined
+
+5
+
+above. We found the Student guilty of one count of plagiarism contrary to Section
+B.1.1 (d) of the Code.
+Penalty
+
+14.
+
+The University submitted that the following penalty was appropriate:
+•
+
+That the Student receive a final grade of zero in FAH102H1 S in
+Winter 2014;
+
+•
+
+That the Student be suspended from the University for a period of
+two years, commencing on October 13, 2016 and ending on
+October 12, 2018;
+
+•
+
+That the sanction be recorded on the Student's academic record
+and transcript to the effect that she was sanctioned for academic
+misconduct, for a period of three years from the date of our Order
+until October 12, 2019; and
+
+•
+
+That the case be reported to the Provost for publication of a notice
+of the decision of the Tribunal and the sanction or sanctions
+imposed, with the name of the Student withheld.
+
+15.
+
+Counsel for the Provost reviewed a number of authorities with us, and we
+
+are satisfied from a review of such authorities as The University of Toronto and
+
+M. L. (June 27, 2016, Ms. Roslyn M. Tsao, Chair, Case No.: 850), and The
+University of Toronto and Y. G. (July 14, 2014; Ms. Sarah Kraicer, Chair, Case
+No.: 802), that the University's proposed sanctions were appropriate.
+16.
+
+As the Tribunal noted in the Y.G. case at paragraph 32:
+
+6
+
+The determination of an appropriate penalty in every
+case by the Tribunal will depend on an assessment of
+[the principles and factors described in The University
+of Toronto and Mr. C, bearing in mind the individual
+
+circumstances of the case]. At the same time, it is
+important that there is general consistency in the
+approach of Tribunals to sanction, so that students
+are treated fairly and equitably. [citations omitted]
+
+17.
+
+We are satisfied that the sanction proposed in the present case meets
+
+these goals. It is well within the range of penalties imposed recently in similar
+matters.
+Order of the Tribunal
+
+18.
+
+We issued the following order:
+1.
+
+THAT the hearing may proceed in the absence of the Student;
+
+2.
+
+THAT the Student is guilty of one count of plagiarism contrary to
+
+section B.1.1 (d) of the Code of Behaviour on Academic Matters;
+3.
+
+THAT the Student receive a final grade of zero in FAH102H1S in
+
+Winter 2014;
+4.
+
+THAT the Student be suspended from the University for a period of
+
+two years, commencing on October 13, 2016 and ending on
+October 12, 2018;
+5.
+
+THAT the sanction be recorded on the Student's academic record
+
+and transcript to the effect that she was sanctioned for academic
+misconduct, for a period of three years from the date of this Order
+until October 12, 2019; and
+7
+
+6.
+
+THAT this case shall be reported to the Provost for publication of a
+
+notice of the decision of the Tribunal and the sanction or sanctions
+imposed, with the name of the Student withheld.
+
+DATED at Toronto, this
+
+~ f January, 2017.
+
+~/
+William C. McDowell, Chair
+
+8
+
+

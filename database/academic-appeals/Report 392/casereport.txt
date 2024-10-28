@@ -1,0 +1,632 @@
+THE UNIVERSITY OF TORONTO
+THE GOVERNING COUNCIL
+Report #392 of the Academic Appeals Committee
+December 11, 2017
+To the Academic Board
+University of Toronto
+Your Committee reports that it held a hearing on Wednesday, November 1, 2017 at which the
+following members were present:
+Mr. John Monahan (Chair)
+Professor Jan Mahrt-Smith, Faculty Governor
+Mr. Aidan Fishman, Student Governor
+Hearing Secretary:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Appearances:
+For the Student Appellant:
+Mr. L.R. (“the Student”)
+Mr. Robert Sniderman, Law Student, Downtown Legal Services
+Ms. Jennifer Fehr, Staff Lawyer, Downtown Legal Services
+For the Faculty of Engineering and Applied Science:
+Mr. Rob Centa, Counsel, Paliare Roland
+Ms. Emily Home, Counsel, Paliare Roland
+Professor James Davis, Associate Professor Teaching Stream
+Mr. Don MacMillan, Faculty Registrar
+I.
+
+Appeal
+
+The Student appeals a decision of the Academic Appeals Board (the “AAB”) of the Faculty of
+Engineering and Applied Sciences dated August 29, 2016. Or, more accurately according to the
+Student’s Notice and Statement of Appeal, the Student appeals “the aftermath” of that decision.
+In its decision of August 29, 2016, the AAB had granted the Student’s appeal of the Committee on
+Examinations’ (“the CoE”) decision to deny his petition for a re-read of his final examinations in the
+courses ECE314 and APM384. The re-reads of these two courses that took place in October and
+November 2016, respectively, are the subject of this appeal.
+
+1
+
+The Student asserts that the re-reads were performed in an unfair manner because they were not
+both conducted by external examiners and because neither involved the use of clean copies of his
+exams. Accordingly, the Student has asked your Committee to allow this appeal and to grant him
+the remedy of obtaining re-reads of clean copies of both examinations by Faculty professors other
+than those who originally taught him the courses.
+For its part, the Faculty has responded by submitting that the appeal should be dismissed because
+the Student submitted his appeal outside the timeframe for doing so; that the Faculty acted
+reasonably and fairly in re-grading the Student’s exams in both courses; and the Student has been
+accorded procedural fairness throughout both his earlier appeals and in the re-grading process.
+
+II.
+
+Facts
+
+The Student began his studies in the Electrical & Computer Engineering program in the Faculty of
+Applied Science and Engineering in 2013.
+In the 2015 Fall Semester, the Student took Fundamentals of Electrical Energy Systems
+(“ECE314H1”) and Partial Differential Equations (“APM384”). He wrote final exams in both courses
+in December 2015. His final mark in the former was 57% (after an exam re-check that raised his
+mark by 1%), and his final mark in the latter was 52%. In January 2016, the Student was placed on
+Repeat Probation and required to withdraw from the Faculty until he could re-take the Fall 2015
+semester.
+During the Winter 2016 semester, although having been forced to withdraw from the program for
+the semester, the Student filed two petitions with the Faculty. The first, which was granted by the
+Faculty’s Committee on Examinations (“CoE”) on or about February 1, 2016, allowed the Student to
+register as a part-time student while waiting to repeat the Fall 2015 semester.1 The second,
+requesting that his probationary status be removed, was refused.2
+Meanwhile, the Student consulted Part B, section 2.3.1. of the University Assessment and Grading
+Practices Policy, which provides that “…all divisions should provide, in addition to the customary rechecking of grades, the opportunity for students to petition for the re-reading of their examinations
+where feasible.”3 The Student thereafter petitioned the CoE to request a re-read of his examinations
+in both courses. On or about June 28, 2016, the CoE advised the Student that his petition was denied
+based on “insufficient reasoning or invalid reason.”4
+The Student appealed the CoE decision to the Faculty’s Academic Appeals Board (“AAB”). In his
+submission to the AAB, the Student “(requested) the panel to kindly initiate a re-read of the two
+final exams being sought, preferably by a competent person other than the instructor or member
+
+1
+
+Respondent’s Book of Documents at Tab 10
+Respondent’s Book of Documents at Tab 11
+3
+Appellant’s Notice and Statement of Appeal, at Tab F and Respondent’s Book of Documents at Tab 6
+4
+Appellant’s Notice and Statement of Appeal, at Tab B
+2
+
+2
+
+who has graded each of the two during Fall 2015.”5 In his petition seeking appeal, the Student
+offered explanations and/or requested additional marks for a number of the answers he had
+provided.6
+The AAB granted the Student’s appeal on or about August 29, 2016. In its letter to the Student
+advising him of that decision, the AAB informed him that it had considered his request that his final
+exams in ECE314 and APM384 be re-graded “by instructors other than the ones who taught the
+courses.” “(H)owever,” the AAB continued, “the re-reads will be conducted by the instructors who
+taught the courses.”7 At the bottom of the same letter, beneath the listed names of those receiving
+copies of the letter, the AAB included the following recommendation:
+Please review your rights and responsibilities surrounding academic appeals:
+http://uoft.me/apscappeals8
+
+On or about October 24, 2016, the Student was advised by the Chair of the Faculty’s AAB that the
+two re-reads would be performed by the original markers with the original exams, with the original
+markers’ comments included.9
+During the fall of 2016, the two re-reads were conducted.
+Because the original instructor for ECE314 was on sabbatical during that time, the re-read of the
+Student’s ECE314 examination was performed by another instructor. The Student’s examination
+was read with the notations that had been made and the marks that had been awarded by the
+original instructor visible. The instructor who performed the re-read made informal comments
+while reviewing the Student’s examination that led to his examination mark being increased by
+several points, and that ultimately resulted in the Student’s final mark in the course being increased
+to 61% from 57%. This news was communicated to the Student in early December 2016.10
+The original instructor for APM384 re-read the Student’s final examination, and no additional
+marks were awarded.
+In December 2016, the Student was in communication with Michael Nicholson and Helen Slade,
+both of them Coordinators of Student Progress & Support for the university. One of the topics of
+communication with the Student was the appropriate avenue for appealing the re-reads of the
+Student’s examinations. It was ultimately confirmed to the Student by Ms. Slade on or about
+
+5
+
+Appellant’s Notice and Statement of Appeal, at Tab H.
+Appellant’s Notice and Statement of Appeal, at Tab H.
+7
+Appellant’s Notice and Statement of Appeal, at Tab A.
+8
+Appellant’s Notice and Statement of Appeal, at Tab A.
+9
+Appellant’s Notice and Statement of Appeal, Submissions at par. 12.
+10
+Appellant’s Notice and Statement of Appeal, Submissions at par. 15.
+6
+
+3
+
+January 19, 2017 that the Faculty had definitely confirmed that the only avenue of appeal left to the
+Student was to the Academic Appeals Committee of Governing Council.11
+Later in January, 2017, the Student contacted Downtown Legal Services (DLS), his current
+representatives, for the first time. His first in-person meeting with DLS, however, did not take place
+until February 22, 2017. A number of weeks after that meeting, in mid-March 2017, DLS advised
+the Student that they could not represent him.
+The Student confronted a number of medical challenges in the spring of 2017. According to medical
+documentation submitted, between mid-April and the end of that month, the Student suffered from
+sleep deprivation serious enough to interfere with his examination preparedness. Then, the
+Student was hospitalized from May 5 to 23, 2017, inclusive.
+On or about May 9, 2017, the Student was advised by letter from the University of Toronto that a
+Notice of Trespass under the Trespass to Property Act had been issued against him, with the
+implication that he could not enter any University property until further notice.
+On or about July 20, 2017, the Student returned to DLS to seek assistance again. This time, DLS
+accepted his case, and the Student submitted his Notice of Appeal of the AAB’s decision to your
+Committee, through the Office of Appeals, Discipline and Faculty Grievances, on or about August 2,
+2017.
+
+III.
+
+Preliminary Issue: Timeliness
+
+Before turning its mind to the merits of the Student’s appeal, your Committee first had to consider
+the preliminary issue of the timeliness of the appeal.
+The Faculty, in its Calendar that is made widely available to students of the Faculty, outlines its
+policy with respect to both petitions and appeals. That policy includes the provision that a student
+wishing to appeal a final decision of the Faculty may appeal to the Governing Council, and that such
+appeals must be filed within ninety (90) days of the date of the notification of the Faculty’s final
+decision. The relevant portion of the Calendar reads as follows:
+
+XII. Petitions and Appeals
+…
+2. A student wishing to appeal against a final decision of the Faculty may appeal to the
+Governing Council of the University. In that event, the student should consult the Director,
+Appeals, Discipline and Faculty Grievances, Office of the Governing Council, about the
+preparation and submission of the appeal. Appeals to the Governing Council must be
+
+11
+
+Appellant’s Notice and Statement of Appeal at Tab P.
+
+4
+
+made within ninety days of the date of the notification of the final decision of the
+Faculty. [emphasis added]12
+
+This same general information appears on the website of the Faculty under the heading “Appeals.”
+That term is easily searchable on the Faculty’s website pages for Current Engineering
+Undergraduates. It can also be found by clicking “Petitions,” which is both one of the major subheadings on the main landing page for Current Engineering Undergraduates, and one of the links
+provided on the side of the website interface under the heading “Quick Links.” The relevant section
+of the website reads:
+Appeal: Academic Appeals Committee, Governing Council
+If your appeal is denied by the Faculty’s Board, the final level of appeal is the University’s
+Academic Appeals Committee (AAC), a committee of the Academic Board, which is the
+academic arm of Governing Council. The AAC meets infrequently and is a much more formal
+panel chaired by someone with legal expertise. Students are generally advised to seek legal
+assistance at this level; although it is not mandatory, it does help expedite the process.
+Deadline: You must file your appeal from the AAB refusal within 90 days of the date on
+that decision. The appeal must be submitted in writing to the Office of the Governing
+Council, Simcoe Hall. [Emphasis added]13
+
+In the event, however, the Student did not file his appeal to the AAB decision until August 2, 2017,
+almost a full year after the issuance of the AAB decision on August 29, 2016.
+The preliminary question before your Committee, therefore, was whether there were compelling
+reasons for it to exercise its discretion to hear and decide the appeal of the Student on its merits
+even though the appeal was filed with Governing Council well outside the published timelines for
+doing so.
+
+IV.
+
+Substantive Issue: Was the Relevant Policy Applied Fairly?
+
+The Student and the Faculty both provided arguments regarding the substantive merits of the
+Student’s appeal.
+The Faculty of Applied Sciences and Engineering does not have its own, faculty-specific written
+policy concerning the re-reading of contested undergraduate examinations that outlines such
+12
+13
+
+Respondent’s Book of Documents at Tab 1.
+See http://undergrad.engineering.utoronto.ca/petitions/appeals/
+
+5
+
+matters as who should perform the re-reads or whether such re-reads should be performed using
+clean copies. However, the Faculty is subject to the University Assessment and Grading Practices
+Policy, the Overarching Principles of which are the following:
+
+
+
+
+That assessment and grading practices across the University are consistent and reflect
+appropriate academic standards;
+That student performance is evaluated in a manner that is fair, accurate, consistent, and
+objective and in compliance with these academic standards;
+That the academic standing of every student can be accurately assessed even when
+conducted in different divisions of the University and evaluated according to different
+grading scales.14
+
+Regarding the re-reading of examinations, the University Assessment and Grading Practices Policy
+simply provides as follows in Part B, S. 2.3.1:
+For undergraduate courses, all divisions should provide, in addition to the customary rechecking of grades, the opportunity for students to petition for the re-reading of their
+examination where feasible. Divisions/faculties may charge a cost-recovery fee (for rereading) consistent with the Policy on Ancillary Fees.15
+
+Both parties agreed that, in the absence of a specific policy governing undergraduate exam re-reads,
+the faculty has a duty to ensure a fair process is instituted and is applied consistently.
+Demonstration of a lack of fairness in the process itself or in its application to the Student in
+question would warrant your Committee granting the present appeal.
+For his part, the Student argued that “While there is no specific process for how re-reads are
+conducted at the Undergraduate level, the process cannot be fair or objective without clean copies
+of the examination or external reviewers.”16 The Student further argued that, because of the undue
+influence that an initial marker’s comments and the grade assigned could have on the re-reader’s
+own effort to assess a contested examination, “without a clean copy of the exam, the external
+review cannot be impartial or objective.”17
+The Student noted that the practices concerning re-reads for graduate students enrolled in the
+Faculty were significantly different than those for undergraduates. In the case of the former, they
+were governed by the School of Graduate Studies’ policy on Re-Reading and Retention of
+Examinations, which requires both the use of clean copies and the use of external examiners for rereads of examinations. The Student opined that because there is “no substantial difference between
+an undergraduate’s work and a graduate’s work such that the procedures for examination re-reads
+14
+
+Appellant’s Notice and Statement of Appeal at Tab F
+Appellant’s Notice and Statement of Appeal at Tab F
+16
+Appellant’s Notice and Statement of Appeal, Submissions at par. 18.
+17
+Appellant’s Notice and Statement of Appeal, Submissions at par. 19.
+15
+
+6
+
+ought to differ”, and because the Faculty does not have any specific written policy concerning the
+re-reads of undergraduates’ examinations, the Faculty should apply the re-read standards of the
+SGS policy to all engineering students.18
+By contrast, the Faculty took the position that fairness does not require that the Faculty assign
+someone to conduct the re-read other than the original instructor. In fact, the Faculty asserts that it
+is “entirely fair to allow re-grading to occur by the original grader and/or to occur with copies of
+the original grading comments…(because this) promotes consistency of grading between all
+students in the class.” 19 The Faculty further notes that “There are infinite ways to get a wrong
+answer, but students tend to make many of the same mistakes on their exams. It is fair that these
+students receive the same marks for these attempts.”20
+The Faculty also argues that in highly technical courses such as ECE314 and APM 384, “(f)inding
+mistakes is not generally an issue of judgment."21 Therefore, the grading of answers in such
+courses’ final examinations is relatively devoid of subjectivity and independent of the grader.
+With respect to the use of a student’s original marked exam by a re-reader, the Faculty asserts that
+there is no reason to assume that “another grading of a clean examination by a different person
+would produce a more ‘accurate’ grade than did the original grading.”22
+V.
+i.
+
+Decision
+Preliminary Issue
+
+At essence, the role of this Committee is to evaluate the decisions of the bodies it reviews. In this
+case, however, before turning to the August 29, 2016 decision of the Faculty’s AAB - and/or its
+“aftermath,” as submitted by the Student - we first have to consider the essential preliminary issue
+of whether the Student initiated the appeals process with Governing Council within the timeframe
+of the relevant policy. If not, we are required to decide whether your Committee should exercise its
+discretion to overlook any lateness.
+Much discussion ensued as to when the metaphorical “clock’ had begun on the 90-day time limit for
+the Student to submit an appeal application to Governing Council. However, while we are wellaware of the longstanding legal principle that “ignorance of the law is no excuse,” in an
+administrative context within a university your Committee believes it is reasonable to begin with a
+consideration of whether or not the Student in question was aware of the University’s policy
+imposing a 90-day time limit to appeal final Faculty decisions.
+
+18
+
+Appellant’s Notice and Statement of Appeal, Submissions at par. 24.
+Respondent’s Submissions at par. 73.
+20
+Respondent’s Submissions at par. 76.
+21
+Respondent’s Submissions at par. 74.
+22
+Respondent’s Submissions at par. 86.
+19
+
+7
+
+On that point, we are persuaded that the Student knew or ought to have known of the 90-day time
+limit on or about August 29, 2016. That was when he received the letter from the Faculty advising
+him that, while his two examinations would be re-read as he had asked for in his appeal, they would
+be re-read by the course’s original instructors. At the bottom of that same letter was the following
+line:
+Please review your rights and responsibilities surrounding academic appeals:
+http://uoft.me/apscappeals.23
+
+However, even if the Student was aware of that 90-day time limit, your Committee heard from the
+Student that it would not be reasonable for the clock to begin running until after the Student fully
+understood the way in which those re-reads would be carried out. Your Committee found that
+argument to be persuasive.
+Your Committee is therefore of the opinion that, in this instance, the clock did not automatically
+begin to run on August 29, 2016, when the Student was first notified of the decision of the AAB.
+Rather, your Committee finds that the clock did not begin to run for the Student’s appeal deadline to
+Governing Council until he was aware both that the exams would be re-marked by the same
+instructors who had marked them in the first place, and that clean copies of the exams would not be
+used.
+The Faculty contends that the letter of August 29, 2016 makes clear that “the re-reads (for the
+Student’s ECE314 and APM384 exams) will be conducted by the instructors who taught the
+courses.” The Student, by contrast, submits that he thought that the exams would be re-marked by
+other instructors who had previously taught the same courses. Although the Student’s
+interpretation might have an element of wishful thinking attached to it, your Committee is prepared
+to believe that he did not fully understand that the very same instructors who had taught him the
+two courses would be asked to re-mark his exam papers.
+Moreover, the letter of August 29, 2016 did not specify that the exams would be re-marked without
+benefit of clean copies. The Student submitted a copy of an e-mail he had written to the Chair of the
+AAB dated October 24, 2016 that suggests he only realized on or around that date that his exams
+would be re-read without first blacking out the markers’ comments on his original exams.24
+By his own admission, the Student was made aware on or around October 24, 2016 by the Chair of
+the AAB, Professor Jason Foster, that his two examinations were to be re-read by the original
+markers using the original exams and with the original markers’ comments included. Further, as
+noted above, if by that time he had not already noted the information regarding the deadline for
+filing appeals in his Faculty’s Calendar or by visiting the URL suggested to him in the AAB’s letter of
+
+23
+
+Respondent’s Book of Documents at Tab 15
+
+24
+
+Appellant’s Notice and Statement of Appeal at Tab I
+
+8
+
+August 29, 2016, he told your Committee that he had visited the Faculty’s website page regarding
+appeals “in October.”
+Therefore, your Committee takes the position that the 90-day clock for the Student to file his appeal
+with Governing Council from both the August 29, 2016 decision of the AAB and its relevant
+aftermath began to run on or about October 24, 2016. Were it to run continuously from that date,
+therefore, the final deadline for submitting an application to appeal the decision of the AAB would
+have fallen on or around the end of January 2017.
+In the event, however, the Student was advised by a university staff member, Mr. Michael
+Nicholson, a Coordinator of Student Progress & Support, on or about December 13, 2016 to “hit the
+pause button” on pursuing an appeal until such a time as he and the Student could meet in person.25
+Given the Student’s reasonable perception that a staff representative responsible for Student
+Progress & Support was speaking for the university’s administration, your Committee is prepared
+to find that Mr. Nicholson’s message had the effect of pausing the 90-day clock at approximately the
+half-way mark of 45 days, even though a subsequent e-mail from Mr. Nicholson to the Student that
+same afternoon of December 13 specifically referenced Governing Council as the “next level” for
+any appeal.26 Fairness dictates that the Student be given the benefit of any doubt in this instance.
+Notably, the agents for the Student expressed to your Committee that the 90-day appeals clock
+should only begin to run on January 19, 2017. That was the date on which Helen Slade, a colleague
+of Mr. Nicholson who together with him had met with the Student the previous week, wrote to the
+Student to confirm what he had already been told previously by Faculty representatives:
+The Faculty has clarified that if you do choose to appeal, your next appeal will be to
+Academic Appeals at the level of Governing Council.
+http://www.adfgutoronto.caprocesses/acappeals.htm.27
+
+For the reasons outlined above, your Committee believes that the clock had already been running
+for more than six weeks when it was paused on December 13, but it does take the view that the
+clock began to run again as of January 19, 2017.
+With the clock running again, the Student contacted DLS in late January – when asked, neither the
+Student nor his agents could provide a more specific date - and, due to what the agents for the
+Student described to your Committee as some “glitches” concerning case assignment, the Student
+did not actually meet with a representative of DLS until February 22. By that time, the 90-day clock
+had been running for more than 75 days.
+Notably, in his second e-mail message to the Student on December 13, Mr. Nicholson had
+specifically mentioned DLS to the Student, describing it as a “free service available to UofT
+
+25
+
+Appellant’s Notice and Statement of Appeal at Tab O.
+Appellant’s Notice and Statement of Appeal at Tab O
+27
+Appellant’s Notice and Statement of Appeal at Tab P.
+26
+
+9
+
+students,” and advising that if he were going to be pursuing an appeal, “they may be willing to work
+with you on the case.” Within less than two minutes, the Student had replied to Mr. Nicholson to
+thank him for the suggestion, and to say, “I may look into it after my exams [emphasis added].”28
+When asked by your Committee about his delay in reaching out to DLS when he was already aware
+that the 90-day clock was running, the Student advised your Committee that he wanted to keep
+open the option of retaining alternate legal representation.
+As it turned out, in mid-March 2017, DLS wrote to the Student to advise him that they would not be
+able to represent him after all due to resource constraints. To take a very generous interpretation
+of events, the Student may have thought that his representation by DLS was a foregone conclusion.
+For that reason, your Committee is prepared to consider the 90-day clock paused for the period of
+time between the Student’s first meeting with DLS on February 22 and their communication with
+him of mid-March to advise they could not represent him.
+However, there was no evidence submitted to show or suggest that the Student even then made any
+effort to retain alternative legal representation. In fact, roughly another month (or 30 days) passed
+between mid-March and April 17, the first date for which medical documentation indicates that the
+Student’s capacity to address his academic appeal concerns was reduced due to health-related
+issues29. In other words, as of April 17, the clock on his appeal deadline was already showing 105
+days since he had been made fully aware of the process and practices that had been applied to the
+re-reads of his two impugned final examinations; had been advised that an appeal to Governing
+Council was his only remaining appeal route; and was fully aware of the 90-day deadline for filing
+his notice of appeal.
+Your Committee is prepared to exercise its discretion to find that the clock remained paused until
+one week after the Student’s release from hospital on or around May 23. Even so, approximately 50
+more days would pass before the Student would return to DLS on or about July 20, 2017 to once
+again ask for assistance with this appeal. By that time, the clock stood at roughly 155 days and
+counting. By the time his notice of appeal was actually submitted to Governing Council on August 2,
+2017, some 165 days – closing in on twice the 90-day limit - had transpired since the appeals clock
+had first begun to run.
+Having arrived at even this approximate count, it is clear that the Student submitted his notice of
+appeal long after the published and understood deadline for doing so. However, both the Student
+and the Faculty acknowledged that your Committee can exercise its discretion to allow a late appeal
+to proceed.
+The Student submitted that the decision to grant an extension to file an appeal in an administrative
+context is “a discretionary one that should be made with regard to all of the evidence.30” He then
+proceeded to outline a multi-part test as presented by Madam Justice Snider in Canada (Minister of
+Human Resources Development) v. Gattellaro [2005] F.C.J. No. 1106 F.C. A decision to grant an
+28
+
+Appellant’s Notice and Statement of Appeal at Tab O.
+Appellant’s Notice and Statement of Appeal at Tab Q
+30
+Appellant’s Notice and Statement of Appeal, Submissions at par. 35.
+29
+
+10
+
+extension or not should be the result of a consideration and a weighing of the following four
+criteria:
+i.
+ii.
+iii.
+iv.
+
+A continuing intention to pursue the application or appeal.
+There is a reasonable explanation for the delay.
+The matter discloses an arguable case; and
+There is no prejudice to the other party in allowing the extension.
+
+Looking at these four criteria in reverse order, your Committee was not persuaded that there would
+be prejudice to the Faculty if the requested extension were allowed. The granting of such an
+extension would undoubtedly cause some frustration and inconvenience – the Faculty told your
+Committee of the importance of finalizing and submitting course marks within a reasonable, finite
+period of time for the benefit not only of other students who are anxious to know their results but
+also that of Faculty administrators for both reporting and planning purposes – but the Faculty’s
+argument that to allow this Student’s appeal to proceed would “open the floodgates to other
+student (sic) petitioning for re-reads of their exams semesters after the fact”31 was not
+substantiated by any supportive data. Your Committee does not see that the granting of an
+extension in this particular instance would lead to hordes of other past or present students
+submitting motions for your Committee to accept their appeals outside of the prescribed time
+limits. Certainly there would still be a strong motivation for students to finalize their marks and
+resolve their standing in the Faculty with as much expedition as possible. Moreover, no single
+decision of the Academic Appeals Committee has precedential value on all future decisions, and
+each case must be considered on its own merits given all of the relevant facts and circumstances.
+Looking at the third of the four criteria, your Committee believes that whether or not the Student in
+this instance was treated fairly in his dealings with the Faculty with respect to the re-reads of his
+examinations for ECE314 and APM384 is indeed an arguable case. Just given the widely divergent
+practices concerning re-reads among UofT faculties as adduced by the materials presented to your
+Committee, there would at very least appear to be value in examining whether the Student in this
+instance was treated fairly by his Faculty. Your Committee also notes that the implications of this
+case have such serious implications for the Student’s academic future that, again, any benefit of the
+doubt should accrue to the Student.
+Were the only criteria to be weighed and considered when determining whether or not to grant an
+extension be the above two criteria, therefore, your Committee would be inclined to exercise its
+discretion to grant the requested extension. However, that is not the case, and it is upon the first
+two criteria in the cited case that the Student’s argument falters.
+First, the Committee is of the unanimous opinion that the Student failed to demonstrate a
+continuing intention to pursue the appeal. Your Committee was not presented with any clear
+evidence to indicate that the student took any immediate, concrete steps to pursue his appeal
+
+31
+
+Respondent’s Submissions at par. 63 (d)
+
+11
+
+options after October 24, 2016 when he first became aware of how the re-reads of his two
+examinations were being conducted. Fully one month later, on November 24, 2016, the Student
+continued to exchange communications with the office of the Faculty’s Registrar concerning the
+final outcomes of his re-reads32, but there was still no clear indication of an intention to appeal to
+Governing Council. In fact, it was only in the correspondence between Mr. Nicholson and the
+Student on or about mid-December that the topic of securing legal representation for a possible
+appeal appears to have been raised. The “pause” between that point in time and the Student being
+advised by Ms. Slade on January 19, 2017 that the Faculty had confirmed to her that the only
+remaining appeal route was to Governing Council has already been explained and accounted for.
+However, even if your Committee were to ignore its own conclusions and instead accept the
+Student’s argument that the 90-day appeals clock only began to run on or about January 19, we
+would still be faced with a lack of evidence that the Student had a continuing intention to pursue an
+appeal to Governing Council. We note, in particular, a lack of evidence to show that the Student
+had:
+-
+
+taken any steps to preserve his appeal right prior to his meeting with DLS on February 22;
+taken any steps to pursue his appeal after the DLS advised him it could not represent him in
+mid-March and prior to his medical issues arising in mid-April; or
+taken any steps to pursue his appeal between his release from hospital at the end of May
+and his communication with DLS to request their reconsideration of his need for legal
+representation on or about July 20.
+
+Similarly, your Committee was not presented with a compelling or reasonable explanation for the
+Student’s delay in pursuing his appeal. Certainly your Committee is very sympathetic regarding the
+Student’s sleep-related troubles and his subsequent hospitalization and medical examination.
+However, that accounts for only the six-week period between mid-April 2017 and the end of May
+2017. It does not account for the delay in either filing an appeal himself or retaining any alternate
+legal representation after DLS advised him in mid-March they could not represent him and before
+his sleep disorder arose. It also fails to account for the more than seven-week delay between the
+end of his hospitalization and his request to DLS to reconsider his case in late July.
+Your Committee imagines that the fact that the Student was subject to a Trespass Notice barring
+him from university property after May 9, 2017 might have temporarily impeded his ability to meet
+with representatives of DLS, who are based at the University; however, no evidence was led to
+suggest that was the case. Moreover, the Trespass Notice remained in effect and appeared to pose
+no obstacle when the Student did eventually reach out to DLS to pursue the present appeal in the
+latter half of July.33
+For all these reasons, having weighed the evidence before it and having considered the four-part
+test laid out by Madam Justice Snider in Canada (Minister of Human Resources Development) v.
+Gattellaro, your Committee has determined that it would not be appropriate to exercise its
+
+32
+33
+
+Appellant’s Notice and Statement of Appeal at Tab K
+Appellant’s Notice and Statement of Appeal, Submissions at par. 44.
+
+12
+
+discretion to extend the deadline for the filing of the Student’s appeal in this case. Instead, your
+Committee finds that the Student was late in bringing his appeal, and his appeal is therefore
+dismissed for lack of timeliness.
+
+ii.
+
+The Merits of the Appeal
+
+In case your Committee is wrong in finding that the Student’s appeal was out of time, your
+Committee has also considered the substance of the Student’s appeal and the responding position
+from the Faculty on their respective merits.
+In doing so, our consideration has been not the correctness of the AAB’s decision or its “aftermath”,
+to adopt the language used by the Student; rather, we have asked ourselves whether the relevant
+policy of the Faculty has been applied fairly in this instance.
+As noted above, the relevant policy is the University Assessment and Grading Practices Policy. The
+Faculty – unlike some other faculties or academic units, including the Faculty of Arts and Science or
+the School of Graduate Studies, does not have its own, faculty-specific policy regarding re-reads.
+As also noted above, it is Part B, section 2.3.1 of the Policy that has the most direct bearing on the
+current fact situation:
+For undergraduate courses, all divisions should provide, in addition to the customary rechecking of grades, the opportunity for students to petition for the re-reading of their
+examinations where feasible. Divisions/faculties may charge a cost-recovery fee (for rereading) consistent with the Policy on Ancillary Fees.
+
+The written Policy itself is silent as to the matter of who should perform re-reads and whether or
+not they should be given clean copies to review, but your Committee is interested not only in the
+Policy as written, but also the Policy as applied within the Faculty. Is it applied in a fair, consistent
+and objective manner with respect to all students, including the Student appellant?
+In this instance, your Committee neither heard nor saw any evidence to suggest that the policy and
+the related processes acknowledged by both parties to be binding on the Faculty were applied
+inconsistently, unfairly or with partiality. Representatives of the Faculty could not recall any
+instances where re-reads were specifically directed to be performed by external examiners or
+where clean copies of the exams were used, and that the Student in this instance was treated the
+same as other students in his situation would be treated. For his part, the Student did not adduce
+any evidence to the contrary, nor did he demonstrate that the Faculty had shown a lack of
+objectivity or impartiality towards him specifically by declining to assign external examiners to reread his impugned exams (except where made necessary by the unavailability of the original
+instructor in ECE314). Similarly, the Student did not allege or demonstrate that other
+undergraduate students of the Faculty had been given the benefit of having their exams re-read
+using clean copies.
+13
+
+It is true that the approach taken by the Faculty appears to differ significantly from the practice of
+some other academic divisions, such as the School of Graduate Studies, whose policy on Re-reading
+and Retention of Examinations specifically requires a clean copy and an external examiners for rereads.34 The Student asserts that because the Faculty does not have a specific policy regarding rereads beyond the provisions laid out in the University Assessment and Grading Practices Policy it
+should automatically be required to apply the provisions of the School of Graduate Studies to
+undergraduate students in the same way as they are applied to graduate students of the Faculty.
+However, the argument could also be made that, if any third-party policy should be applied to
+undergraduate engineering students in the absence of a Faculty-specific policy, it should be that of
+the Faculty of Arts and Science in order to ensure a consistent approach to re-reads is adopted for
+as many undergraduates across the University as possible.
+In the end, neither argument is persuasive. No evidence was submitted to your Committee to
+indicate that the Faculty of Applied Science and Engineering is required to have its own, facultyspecific policy regarding re-reads, so to project another faculty’s policy onto the Faculty is to
+attempt to fill a gap that technically does not exist.
+Moreover, your Committee does not believe it is inherently unfair for the original instructor of a
+course to conduct a re-read for one of that instructor’s students. Rather, your Committee concurs
+with the Faculty that it is not unreasonable for the original instructor of a course to re-mark an
+examination if required, because such a practice promotes consistency of grading among all the
+students in the class. Without having other students from the same class as comparators, the act of
+marking a single student’s examination in a way that is consistent with the others in his or her class
+becomes more challenging.
+Similarly, we are not persuaded that fairness requires that examinations be re-read using only clean
+copies. Rather, the system described and practised by the Faculty that involves the re-reader
+having the opportunity to reference not only the original comments made and marks awarded by
+the original marker, but also the specific concerns and objections raised by the Student to those
+comments and marks, appears to us to be a fair one. The combination of the original comments and
+marks with the Student’s replies and explanations goes a long way to providing any re-reader with
+helpful context and background for consideration. Were only the original reader’s comments and
+marks provided to the re-reader without the corresponding responses from the Student, or vice
+versa, the process would arguably be less fair. However, that is not the case here. The fact that the
+re-read of ECE314 resulted in a significant increase to the Student’s grade also helps to bolster the
+argument that the process employed by the Faculty was a fair one.
+That said, it bears mentioning that your Committee is of the opinion that the Faculty would be
+helping both itself and its students were it to draft, adopt and disseminate a written, comprehensive
+Faculty-specific policy regarding examination re-reads that includes, but is not necessarily limited
+to, clear information regarding how re-reads are to be conducted, by whom, and so forth. However,
+it extends far beyond the purview of your Committee to opine that the absence of such a policy
+
+34
+
+Appellant’s Notice and Statement of Appeal, at Tab M.
+
+14
+
+represents in and of itself a denial of natural justice or procedural fairness to this Student or any
+other.
+The appeal is therefore dismissed on its merits.
+
+15
+
+

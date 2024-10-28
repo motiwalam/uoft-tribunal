@@ -1,0 +1,709 @@
+Case No.: 1107
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on October 22, 2020
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O.
+1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO (the “University”)
+
+- and -
+
+D
+
+B
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: January 11, 2021
+
+Members of the Panel:
+Mr. Simon Clements, Chair
+Dr. Chris Koenig-Woodyard, Faculty Panel Member
+Ms. Alena Zelinka, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Sonia Patel, Articling Student, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Appeals, Discipline & Faculty Grievances
+Not in Attendance:
+The Student
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on January 11, 2021 to consider the
+
+charges brought by the University against the Student under the Code of Behaviour on Academic
+Matters, 1995 (the “Code”).
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 1:45 pm on January 11, 2021 via Zoom. At that time,
+
+Assistant Discipline Counsel advised that neither the Student nor a representative of the Student had
+responded to the Notice of Hearing. The Student was given an additional 15 minutes to join Zoom, but
+he did not do so. The hearing then commenced at 2:00 pm. The Tribunal asked Assistant Discipline
+Counsel to make submissions on proceeding with the hearing in the absence of the Student.
+3.
+
+Assistant Discipline Counsel advised the Tribunal that the following attempts had been made
+
+to provide notice of the charges and hearing to the Student:
+i.
+
+On October 22, 2020, the Office of the Vice-Provost, Faculty and Academic Life,
+served the charges on the Student by email to the email address that the Student had
+provided in the University of Toronto Repository of Student Information (“ROSI”)
+being the Student’s utoronto account.
+
+ii.
+
+Assistant Discipline Counsel referred the Tribunal to the Affidavit of Service of Justine
+Cox, dated October 22, 2020, confirming that the charges had been e-mailed to the
+Student’s utoronto email account.
+
+iii.
+
+On November 19, 2020, Ms. Nusaiba Khan, Administrative Assistant in the Office of
+Appeals, Discipline and Faculty Grievances (ADFG) sent Assistant Discipline Counsel
+and the Student a Direction from the Tribunal that the Tribunal proposed to conduct
+this hearing electronically and, if the Student wished to make submissions regarding an
+electronic hearing, those submissions should be delivered by November 26, 2020. No
+submissions were delivered by the Student.
+
+3
+
+iv.
+
+On November 26, 2020, Ms. Khan then sent Assistant Discipline Counsel and the
+Student the Direction from the Tribunal that this matter would proceed electronically
+on January 11, 2021, at 1:45 pm.
+
+v.
+
+The delivery of both the November 19, 2020 and November 26, 2020 correspondence
+to the Student by email to his utoronto account was confirmed by an Affidavit of
+Service of Ms. Khan dated December 7, 2020, which was marked as Exhibit 1 in the
+hearing.
+
+vi.
+
+Assistant Discipline Counsel then referred the Tribunal to the Affidavit of Andrew
+Wagg, sworn December 10, 2020 and marked as Exhibit 4. Mr. Wagg deposed as
+follows:
+1.
+I am an Incident Report Architect at Information Security, Information
+Technology Services at the University of Toronto. As such, I have personal
+knowledge of the matters contained in this affidavit. Where my information is based
+on information and belief, I have stated the source of that information and that I
+believe it to be true.
+2.
+Information Technology Services provides many services to the University
+of Toronto, including management of the email accounts used by students. To
+access an email account, one needs to input both the user's login ID and the
+password for that account.
+3.
+The Microsoft 365 Exchange portal automatically records the last time
+someone accessed a particular university-issued email account. This is denoted
+with the code "LastUserActionTime." The LastUserActionTime log only updates
+when someone logs in to a university-issued email account.
+4.
+At the request of Robert Centa, Assistant Discipline Counsel for the
+University of Toronto, I checked the Microsoft records to determine the last time
+someone accessed the email account [listed in ROSI]. In order to view the
+LastUserActionTime log, I ran a PowerShell script.
+5.
+I determined that, as of December 4, 2020, the last time someone accessed
+this e-mail account was on December 2, 2020, at 12:35 PM, local Toronto time.
+
+4
+
+vii.
+
+While Mr. Wagg was not able to state that it was the Student who had logged in to the
+account, the person who did so required both the Student’s username and password.
+Accordingly, Assistant Discipline Counsel submitted that there is good reason to
+believe that the person who logged in on December 2, 2020 was the Student. As of that
+date the Student would have seen in the inbox of his account the charges served October
+22, 2020, the request for submissions on an electronic hearing sent on November 19,
+2020, and the Direction from the Tribunal that the matter would proceed electronically
+sent on November 26, 2020, advising the Student that the hearing would take place on
+January 11, 2021.
+
+viii.
+
+Assistant Discipline Counsel submitted, therefore, that the Student was provided with
+all the relevant information that he required in order to participate in the hearing on
+January 11, 2021.
+
+ix.
+
+Finally, Assistant Discipline Counsel directed the Tribunal to the Student’s phone
+number found in the Student Information System which was marked as Exhibit 3. Mr.
+Centa advised the Tribunal that he tried calling this number on the morning of January
+11, 2021 and that the number was not in service.
+
+4.
+
+As of the date of the January 11 hearing, the Student had not responded to any of the above-
+
+noted correspondence, even though it is more likely than not that it was the Student who logged in to
+the account on December 2, 2020.
+5.
+
+The Rules of Practice and Procedure of the University Tribunal Rule 9 (c) provides that a
+
+Notice of Hearing may be served on a student by various means, including by emailing a copy of the
+document to the student’s email address in ROSI.
+6.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”) and Rule 17 of
+
+the University Tribunal Rules of Practice and Procedure (the “Rules”), where reasonable notice of an
+oral hearing has been given to a party in accordance with the Act and the party does not attend the
+hearing, the Tribunal may proceed in the absence of the party and the party is not entitled to any further
+notice in the proceeding.
+
+5
+
+7.
+
+The University requested that the Tribunal proceed with this hearing in the absence of the
+
+Student.
+8.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account on ROSI.
+Students are expected to monitor and retrieve all mail, including emails, on a frequent and consistent
+basis.
+9.
+
+The onus of proof is on the University to demonstrate that it provided a student with reasonable
+
+notice of the hearing.
+10.
+
+Based on the Charges served on October 22, 2020, and the subsequent correspondence emailed
+
+to the Student providing the date and time of the hearing, all of which was before December 2, 2020
+when an individual logged in to the Student’s e-mail account, the Tribunal concluded that the Student
+was given reasonable notice of the hearing in compliance with the notice requirements of the Act and
+the Rules.
+11.
+
+On December 7, 2020, Ms. Khan served the Notice of Electronic Hearing by e-mail to the
+
+Student’s utoronto account. This letter provided the Student with the following Zoom log in details:
+Please find attached the Notice of Electronic Hearing regarding your academic
+discipline matter. An electronic hearing has been scheduled to proceed on Monday
+January 11th , 2021 at 1:45 P.M. (EST). Pursuant to section 5.2 of the Statutory
+Powers Procedures Act, R.S.O., c. S. 22 and the Rules of Practice and Procedure,
+(Part 8, R. 47), a hearing may proceed in electronic format. Your hearing will be
+conducted using the Zoom video conferencing platform. Please join the Zoom
+videoconference by clicking the meeting URL: https://zoom.us/j/99393307667 or
+by entering the Meeting ID: 993 9330 7667. Should you wish to dial in, please use
+the one-tap mobile number by dialing +14388097799, followed by the Meeting ID
+(Canada).
+
+6
+
+12.
+
+This communication with the Student came after the December 2, 2020 login to the Student’s
+
+account, and there is no evidence before the Tribunal that this communication was read by the Student.
+However, the communication demonstrates that the University attempted to provide the Student with
+the access that he needed to participate in this hearing electronically.
+13.
+
+The Tribunal therefore determined it would proceed to hear the case on its merits in the absence
+
+of the Student, and the hearing proceeded on the basis that the Student was deemed to deny the Charges
+made against him.
+B.
+
+The Charges and Particulars
+
+14.
+
+The Charges and Particulars were detailed in a letter to the Student dated October 22, 2020 and
+
+are set out below:
+1. On or about March 18, 2019, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in an essay titled “Waste Management:
+Comparing Mexico City, Mexico to Beijing City, China” (“Essay”) that you submitted for
+academic credit in POL346Y5Y 2018(9) (the “Course”), contrary to section B.I.1(d) of
+the Code.
+2. In the alternative to the above charge, you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in
+connection with the Essay you submitted in the Course, contrary to section B.I.3(b) of the
+Code. The particulars related to the charges are as follows:
+(a) At all material times, you were a registered student at the University of Toronto
+Mississauga.
+(b) The Course was taught by Professor Sara Hughes. The Course requirements included
+that you submit an essay for academic credit, which was worth 25% of the final grade in
+the Course. On March 18, 2019, you submitted your essay.
+
+7
+
+(c) You knowingly represented the work of another person as your own, including but not
+limited to: (i) D.A. de la Rosa et al. “Total gaseous mercury and volatile organic
+compounds measurements at five municipal solid waste disposal sites surrounding the
+Mexico City Metropolitan Area” Atmospheric Environment 40 (2006) 2079-2088. 018 (ii)
+E. Godoy, “The waste mountain engulfing Mexico City” The Guardian, January 9, 2012.
+(iii) N. Michell, “How Mexico City has turned garbage into fuel” Cities Today January
+18, 2013.
+(d) You knowingly included in your submission ideas and the expressions of ideas that
+were not your own, but those of another person, were the ideas, expressions of ideas, and
+verbatim or nearly verbatim text of another person, which you did not acknowledge.
+(e) For the purposes of obtaining academic credit and/or other academic advantage, you
+knowingly committed plagiarism in the Essay.
+C.
+
+The Evidence
+
+15.
+
+The University called the evidence of Professor Sara Hughes by Affidavit affirmed on
+
+December 23, 2020 and marked as Exhibit 5. Rule 61 of the Rules provides that affidavits may be
+received by the Tribunal as good evidence. Assistant Discipline Counsel noted that the time for service
+which is specified in Rule 72 (b) had been complied with. Additionally, Professor Hughes was
+available to answer any questions from the Tribunal. She remained in the Zoom waiting room. Having
+reviewed the Affidavit of Professor Hughes and the Exhibits attached thereto and having heard the
+submissions of Assistant Discipline Counsel based on the evidence, the Tribunal determined that it had
+no questions for Professor Hughes and she was excused from the hearing.
+16.
+
+In her affidavit, Professor Hughes deposed:
+1. I am an Assistant Professor in the School for Environment and Sustainability at the
+University of Michigan. Until September 2019, I was an Assistant Professor at the University
+of Toronto. As such, I have personal knowledge of the matters set out in this affidavit. Where
+
+8
+
+my information is based on information and belief, I have stated the source of that information
+and that I believe it to be true.
+A. The Course
+2. In the 2018-2019 academic year, I taught POL346Y5Y: Urban Politics (the “Course”).
+[The Student] was a student in the Course. I have attached a copy of the Course syllabus to
+this affidavit as Exhibit A.
+3. At the beginning of the Course, I emphasized to students the importance of academic
+integrity. The Course syllabus included a section titled “Academic Honesty” on page 5 that
+stated:
+It is the responsibility of each student to be able to demonstrate the originality of his or
+her work. Failure to properly reference figures, concepts, and quotations that are not your
+own will result in academic penalties, as required by the University of Toronto’s policy
+on plagiarism. At a minimum, for every assignment, the sources of all data and ideas
+must be properly referenced using a standard academic referencing style such as
+Chicago, APA, or MLA. If you are unclear about what constitutes plagiarism or how to
+reference
+
+sources,
+
+please
+
+visit:
+
+http://www.writing.utoronto.ca/advice/using-
+
+sources/how-not-toplagiarize
+4. The link in this passage directed students to a University of Toronto resource on common
+citation errors and strategies to avoid plagiarism. I have attached a screenshot of this web
+page to my affidavit as Exhibit B.
+5. The Course syllabus also included a full-page section titled “A Warning About Plagiarism”
+on page 15 which read, in part:
+Plagiarism is an academic offence with a severe penalty. It is essential that you understand
+what plagiarism is and that you do not commit it. In essence, it is the theft of the thoughts
+or words of others, without giving proper credit. You must put others’ words in quotation
+
+9
+
+marks and cite your source(s). You must give citations when using others’ ideas, even if
+those ideas are paraphrased in your own words. Plagiarism is unacceptable in a university.
+What the university calls “plagiarism”, non-university institutions might call “fraud”.
+[…]
+The following are some examples of plagiarism:
+[…]
+3. Using words, sentences, or paragraphs written by someone else and failing to place
+quotation marks around the material and reference the source and author. Using either
+quotation marks or reference alone is not sufficient. Both must be used!
+[…]
+Ignorance of the rules against plagiarism is not a defense; students are presumed to know
+what plagiarism is and how to avoid it. Students are especially reminded that material
+taken from the web must be quoted and cited in the same manner as if it came from a book
+or printed article.
+If you are not sure whether you have committed plagiarism, it is better to ask a faculty
+member or teaching assistant than risk discovery and be forced to accept an academic
+penalty. Plagiarism is cheating. It is considered a serious offence against intellectual
+honesty and intellectual property. Penalties can be severe, ranging from a mark of “0” for
+the assignment or test in question, up to and including expulsion from the university.
+B. The Assignment
+6. Students in the Course were required to submit a research paper worth 25% of their final
+grade by March 18, 2019 (the “Assignment”). The instructions for the Assignment
+required students to compare two cities of the student’s choice in the context of an area of
+urban politics. Students were required to use both scholarly and non-scholarly sources and
+
+10
+
+to cite those sources using the Chicago citation style. I required students to submit their
+papers through the turnitin.com website.
+7. [The Student] submitted his Assignment on March 21, 2019, through Turnitin. I have
+attached a copy of [the Student] ’s Assignment to my affidavit as Exhibit C.
+8. Turnitin flagged the Assignment as having a 22% similarity index. I have attached the
+Turnitin Originality Report to my affidavit as Exhibit D.
+9. After seeing the Turnitin Report, I reviewed the Assignment. I discovered that [the
+Student] had copied full sentences of the Assignment almost verbatim from outside
+sources (the “Sources”), with only a few words changed or re-ordered. While [the Student]
+referenced the Sources, he did not indicate that many of the sentences in the Assignment
+were copied through the use of quotation marks, as required.
+10. I have attached a highlighted copy of the Assignment (“Highlighted Assignment”) to
+my affidavit as Exhibit E.
+11. The highlighted and lettered portions of the Highlighted Assignment correspond to the
+highlighted passages in the Sources, which are marked by letters that correspond to those
+in the Highlighted Assignment. I have attached highlighted [sic] copies of the Sources to
+my affidavit as Exhibit F.
+12. While almost all of the Sources are available online, I am no longer able to find the
+full version of an article titled “Trend: Mexico City’s new approach to solid waste
+management” written by Angeles Rodriguez in 2017. It is possible that this web page has
+since been deleted. I have attached a partial version of this article in place of the full article
+as Tab E of Exhibit F.
+13. Based on my comparison of the Assignment and the Sources, I concluded that, in my
+view, [the Student] had included verbatim and nearly verbatim text in his Assignment
+without appropriate attribution.
+
+11
+
+14. I met with [the Student] to discuss my concerns on April 1, 2019. Following our
+meeting, I forwarded the case to the Chair of the Department of Political Science for
+further action.
+D.
+
+Submissions
+
+17.
+
+In reviewing the evidence of Professor Hughes, it is clear that the warning that plagiarism was
+
+an academic offence was highlighted to the Student. Professor Hughes provided the Student with a link
+to a resource entitled “How Not to Plagiarize” and the Course syllabus also included a full-page section
+titled “A Warning About Plagiarism”. It was made abundantly clear in these resources that when
+utilizing source material it was not sufficient to simply acknowledge the source by noting the source
+in brackets (which the Student did in this case) but that the academic requirement was that “you must
+put others’ words in quotation marks” and that the failure to do so constituted plagiarism and was an
+academic offence.
+18.
+
+Professor Hughes provided the Tribunal with a highlighted copy of the Assignment, as well as
+
+highlighted copies of the sources cited in the Assignment which demonstrated that the Student took
+verbatim or nearly verbatim wording from the sources without proper attribution. The “Warning about
+Plagiarism” to which the Student was directed in the course syllabus clearly stated that plagiarism
+included “using words, sentences, or paragraphs written by someone else and failing to place quotation
+marks around the material and reference the source and author. Using either quotation marks or
+reference alone is not sufficient. Both must be used!”.
+19.
+
+It was submitted by the University that the Student knew or ought to have known that he was
+
+required to place quotation marks around the material he was quoting from his sources. Through the
+syllabus Professor Hughes had explained the University’s expectations and warned the Student about
+what plagiarism is and the consequences of committing plagiarism. She also linked the Student,
+through the syllabus, to the resources on how to avoid plagiarism.
+20.
+
+A review of the Student’s Assignment shows that the Student, in fact, knew how to correctly
+
+cite his source material. On page 4 of his Assignment (Exhibit E, page 83 of Professor Hughes’
+Affidavit) the Student placed quotations around the words he had taken from the source and then cited
+
+12
+
+the source and the paragraph from which the quotation had been taken. As Assistant Discipline Counsel
+asserted, the fact that the Student thereafter did not follow the rules “crosses the line from poor
+academic practice to clear academic misconduct”.
+21.
+
+The University submitted that the Student committed the offence of plagiarism by taking
+
+another’s expression of the idea without appropriate paraphrasing or reproducing the words in
+quotation marks. By so doing, the Student “quilted together the words of another and attempted to
+present them as his own”. Having had the opportunity to compare the Student’s Assignment with the
+source material, the Tribunal agrees with this submission. It was clear to the Tribunal that Professor
+Hughes set out her expectations and those of the University. The Student demonstrated that he knew
+how to correctly reference a source, but for the balance of his 14-page Assignment he failed to do so
+and, thus, committed plagiarism.
+22.
+
+The Tribunal found that the Student is guilty of plagiarism contrary to section B.I.1(d) of the
+
+Code. As the Tribunal has found the Student guilty on Charge 1 of the Charges, the University has
+agreed to withdraw Charge 2.
+E.
+
+Penalty
+
+23.
+
+The matter continued with a hearing on the appropriate penalty.
+
+24.
+
+In determining penalty, the Tribunal was asked to consider the Mr. C. factors (Case No.
+
+1976/77-3, November 5, 1976) long recognized as the leading decision on sentencing principles.
+These factors are:
+(a) the character of the person charged;
+(b) the likelihood of repetition of the offence;
+(c) the nature of the offence committed;
+(d) any extenuating circumstances surrounding the commission of the offence;
+
+13
+
+(e) the detriment to the University by the offence; and
+(f) the need to deter others from committing a similar offence.
+25.
+
+Assistant Discipline Counsel submitted that in addition to these basic principles, there
+
+should be some measure of uniformity or proportionality in the sentencing process so that there
+should be similar sentences imposed for offences committed in similar circumstances – in other
+words, that like cases should be treated alike. Penalties imposed on students at the University
+should preserve and ensure fairness by avoiding disproportionate sentences so there are not wide
+swings or inconsistencies between like offences and like offenders, recognizing there is never a
+like offence or a like offender. Having said that, there should not be rigid rules or formulas applied
+in the sentencing process.
+26.
+
+The Tribunal was provided with the following chart summarizing similar cases of
+
+plagiarism as the basis of the University’s submissions on penalty:
+
+Case
+
+Page
+
+Date
+
+Chair
+
+Value
+
+Priors/
+
+of work
+
+ASF/JSP
+
+Offence
+
+Penalty
+
+0 in the course
+Plagiarism x1
+B.S.
+
+17
+
+Jan. 2014
+
+Schabas
+
+20%
+
+No/No/No
+
+3-year suspension
+3.5-year notation
+0 in the course
+
+Plagiarism x1
+F.A.
+
+31
+
+June 2015
+
+Kraicer
+
+8%
+
+No/No/No
+
+2-year suspension
+3-year notation
+0 in the course
+
+Plagiarism x1
+G.E.
+
+42
+
+April 2015
+
+Tsao
+
+15%
+
+No/No/No
+
+2-year suspension
+3-year notation
+0 in two courses
+
+HS.M
+
+47
+
+Feb.2015
+
+Tsao
+
+Plagiarism x1
+
+15%
+
+No/No/No
+2-year suspension
+
+14
+
+3-year notation
+0 in the course
+C.D.
+
+51
+
+Jan. 2017
+
+McDowell
+
+Plagiarism x1
+
+20%
+
+No/No/No
+
+2-year suspension
+3-year notation
+0 in the course
+
+Y.Z.
+
+59
+
+Aug. 2017
+
+Wirth
+
+Plagiarism x1
+
+15%
+
+No/No/No
+
+2-year suspension
+3-year notation
+0 in the course
+
+L.E-S.
+
+67
+
+Jan. 2019
+
+Zborovski
+
+Plagiarism x1
+
+15%
+
+No/No/No
+
+2-year suspension
+3-year notation
+
+27.
+
+The present case is analogous to those cited by the University. The charge is of a single act
+
+of plagiarism. In this case the Assignment was worth 25% of the grade for the course. This was a first
+offence. The Student did not participate in the hearing. There was no agreement between the Student
+and the University on an agreed statement of facts nor was there a joint submission on penalty.
+28.
+
+The Tribunal was referred to B.S. (Case No. 697 Reasons for Sanction, January 17, 2014),
+
+where the Mr. C. factors in the plagiarism context were discussed by the Tribunal at paragraphs 17-19
+of the Reasons for Decision:
+
+17) The seriousness of the offence of plagiarism has, of course, been well-recognized,
+and the need for a significant sanction in order to condemn and deter it is necessary. It
+has been suggested that, due to the internet, plagiarism is increasingly prevalent,
+although at the same time it may be more easily detected. (See, e.g., S.B. at para 26.)
+Both elements certainly existed in this case — as we saw a student effectively cut and
+paste large portions of articles, including footnotes which gave it away, from the
+internet, and an instructor who was also able to use the internet to identify the
+misconduct.
+
+15
+
+18) The seriousness of the offence means that, absent mitigating factors, the sanction
+must reflect the harm caused and convey the seriousness of the misconduct to others.
+As the Discipline Appeal Board stated in D.S. at para 39: "Plagiarism strikes at the
+core of academic integrity, so important to a University. The sanction must also act as
+a general deterrent." Similarly, in K.W.K. L. (Case No. 544; September 1, 2009), at
+para 19, a panel of this Tribunal expressed concern that the penalty for plagiarism must
+have a deterrent effect. And in M.M. (Case No. 543; January 28, 2010), the Tribunal
+stated at para. 9:
+All the cases, as well, give voice to the detriment to the University which is
+occasioned by the undermining of its credibility and academic mission through
+offences such as plagiarism, and the need for general deterrence which goes
+beyond, for example, a zero in the course for the person in question. The cases cite
+the need for a message to the University community that penalties imposed by
+tribunal in relation to such serious offences will not be a licence to commit such
+offences.
+19) In this case, the plagiarism was significant. With the exception of the opening
+paragraph, virtually all of the student's paper was plagiarized, knowingly and
+deliberately. This is not a case of forgotten quotations, or negligent note-taking,
+but of deliberate academic misconduct. In this regard, it is similar to X.P.Z. (Case
+No. 547; September 10, 2009), in which the plagiarized material "comprised
+virtually all of the submitted paper." (para. 18) (emphasis added).
+29. The same can be said in this case regarding the extent of the plagiarism by the Student in the
+Assignment.
+30. The Student has not participated at any stage of the hearing process. There is accordingly no
+evidence before us of mitigating or extenuating circumstances, good character, remorse or insight.
+
+16
+
+F. Conclusion
+31. The Tribunal deliberated and concluded that having regard to all the circumstances of this offence,
+including its deliberate and serious nature, and having regard to the need to treat students "fairly and
+equitably" and to achieve a degree of consistency in imposing sanctions, this panel of the Tribunal
+unanimously accepted the recommendation of sanction made by the University and imposes the
+following sanction:
+(a) a final grade of zero in the course POL346Y5Y 2018(9);
+(b) a suspension from the University for two years from the date of this order; and
+(c) a notation of this sanction on his academic record and transcript for three years from the
+date of this order.
+32. This case shall be reported to the Provost for publication of a notice of the decision of the Tribunal
+and the sanctions imposed, with the name of the student withheld.
+Dated at Toronto this 19th day of March 2021
+
+_________________________________________________
+Simon Clements, Chair
+
+

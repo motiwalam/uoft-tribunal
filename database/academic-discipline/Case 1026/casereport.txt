@@ -1,0 +1,540 @@
+Case No. 1026
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 15, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and Y.L. (the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: July 19, 2019
+Members of the Panel:
+Ms. Johanna Braden, Barrister and Solicitor, Chair
+Professor Michael Evans, Faculty Panel Member
+Ms. Alena Zelinka, Student Panel Member
+Appearances:
+Ms. Lauren Pearce, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein,
+LLP, Barristers
+Hearing Secretary:
+Ms. Jennifer Dent, Former Associate Director, Office of the Appeals, Discipline and
+Faculty Grievances
+Not in Attendance
+The Student
+
+1.
+
+The Trial Division of the University Tribunal was convened on July 19, 2019, to
+consider charges brought by the University of Toronto (the “University”) against the
+Student under the University of Toronto Code of Behaviour on Academic Matters,
+1995 (the “Code”).
+
+Preliminary Issue 1: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 9:45 am. Neither the Student, nor a
+representative on behalf of the Student, were in attendance. The Tribunal waited
+until 10:00 am to start the hearing. The University then requested that the Tribunal
+proceed with the hearing in the Student’s absence.
+
+3.
+
+Pursuant to Rule 14 of the University Tribunal Rules of Practice and Procedure (the
+“Rules”), notice of an oral hearing must include the date, time, place and purpose
+of the hearing; a reference to the statutory authority under which the hearing will be
+held; and a statement that if a person does not attend the hearing, the panel may
+proceed in the person’s absence. Rule 17 provides that where reasonable notice
+of an oral hearing has been given to a person and that person does not attend the
+hearing, the Tribunal may proceed with the hearing in the party’s absence. The
+Rules conform to sections 6 and 7 of the Statutory Powers Procedure Act (the
+“SPPA”).
+
+4.
+
+Pursuant to Rule 9, a notice of hearing may be served on a student by various
+means, including by emailing a copy of the document to the student’s email address
+contained in the University’s Repository of Student Information (“ROSI”).
+
+5.
+
+The University’s Policy on Official Correspondence with Students expressly states
+that students are responsible for maintaining on ROSI a current and valid mailing
+address and University-issued email account. Students are expected to monitor
+and retrieve their email on a frequent and consistent basis.
+
+2
+
+6.
+
+The onus of proof is on the University to establish that it provided with Student with
+reasonable notice of the hearing in accordance with these Rules.
+
+7.
+
+In this case, the University provided evidence that the Student had been served at
+his ROSI-listed email address with the Charges dated May 15, 2019 and the Notice
+of Hearing dated June 20, 2019. The Notice of Hearing was also sent to the
+Student’s ROSI-listed mailing address. There was evidence that the Student’s
+email account had been accessed on June 26, 2019, providing him with actual
+notice of the Charges and the Notice of Hearing. Assistant Discipline Counsel
+advised that the Student had not been in contact with anyone from her office.
+
+8.
+
+In light of the evidence and the submissions of Assistant Discipline Counsel, the
+Tribunal was satisfied that the Student had been given reasonable notice of the
+hearing in compliance with the notice requirements of the SPPA and the Rules.
+The Tribunal determined it would proceed to hear the case on its merits in the
+absence of the Student. The hearing proceeded on the basis that the Student was
+deemed to deny the Charges alleged against him.
+
+Preliminary Issue 2: Affidavit Evidence
+
+9.
+
+Assistant Discipline Counsel requested leave to introduce an affidavit served on the
+Student four days before the hearing. Rule 72 requires that affidavits proposed to
+be tendered in evidence at a hearing are to be disclosed at least 10 days before
+the hearing. Rule 74 provides that a panel of the Tribunal may grant leave to
+introduce evidence that does not comply with Rule 72.
+
+10.
+
+The affidavit at issue was the Supplementary Affidavit of Natalia Botelho, a legal
+assistant working in Assistant Discipline Counsel’s office. The charges against the
+Student allege that he fabricated a medical note. Ms. Botelho had made requests
+for information from doctors potentially involved with the note. One of the doctors
+had only responded to Ms. Botelho on Friday July 12, 2019. Ms. Botelho prepared
+
+3
+
+an affidavit including the new information on Monday July 15, and served the
+affidavit that same day on the Student.
+
+11.
+
+The Tribunal granted leave permitting introduction of this affidavit for the following
+reasons:
+
+(a)
+
+the affidavit contained information that was potentially significant to the merits
+of the hearing;
+
+(b)
+
+The University had made reasonable steps to obtain the information earlier,
+but had been unable to do so; and
+
+(c)
+
+The Student was not present to assert any prejudice.
+
+The Charges
+
+12.
+
+Two charges were laid against the Student, as follows.
+
+1.
+
+On or about April 30, 2018, you knowingly forged, altered, or falsified a document
+or evidence required by the University of Toronto, or uttered, circulated, or made
+use of any such forged, altered, or falsified document, namely, a University of
+Toronto Verification of Student Illness or Injury Form, dated April 30, 2018 (the
+“Illness Form”), which you submitted in support of your petitions for a first deferral
+of an unwritten final examination in GGRA03H3 and a first deferral of an unwritten
+final examination in EESA06H3, contrary to section B.i.1(a) of the Code.
+
+2.
+
+In the alternative to the charge above, on or about April 30, 2018, you knowingly
+engaged in a form of cheating, academic dishonesty, or misconduct, fraud, or
+misrepresentation, in order to obtain academic credit or other academic
+advantage of any kind, in connection with the Illness Form which you submitted
+in support of your petitions for a first deferral of an unwritten final examination in
+GGRA03H3 and a first deferral of an unwritten final examination in EESA06H3,
+which violated section B.i.3(b) of the Code.
+
+4
+
+The particulars in support of these charges are as follows:
+(a)
+
+You were a student at the University of Toronto Scarborough at all
+material times.
+
+(b)
+
+In the Winter 2018 academic term, you were enrolled in GGRA03H3 –
+Cities and Environments and EESA06H3 – Introduction to Planet Earth.
+
+(c)
+
+On April 19, 2018, you submitted a a [sic] petition for a first deferral of an
+unwritten examination in GGRA03H3 (“Petition #CL24535”).
+
+(d)
+
+On April 25, 2018, you submitted a a [sic] petition for a first deferral of an
+unwritten examination in EESA06H3 (“Petition #CL24755”).
+
+(e)
+
+On April 30, 2018, you submitted an Illness Form dated April 30, 2018,
+which was purportedly issued at the North York General Hospital. You
+submitted this Illness Form, as required, in support of Petition #CL24535
+and Petition #CL24755.
+
+(f)
+
+You knew that the Illness Form that you submitted was forged, altered, or
+contained false information when you submitted.
+
+(g)
+
+You knowingly submitted the Illness Form described above:
+(i)
+
+understanding that the University of Toronto required evidence to
+be presented in order to obtain the academic accommodation you
+sought.
+
+(ii)
+
+with the intention that the University of Toronto rely on it in
+considering whether or not to provide you with the academic
+accommodations you requested; and
+
+(iii)
+
+in an attempt to obtain an academic advantage.
+
+The Evidence
+
+13.
+
+The University’s first witness was Sherylin Biason, the Assistant Registrar of
+Petitions at the University of Toronto Scarborough. For 19 years she has assessed
+5
+
+petitions from students for various accommodations, including requests to defer
+exams because of illness.
+
+14.
+
+In 2018, petitions were submitted by students online, with original supporting
+documents submitted in person. This ensures that her office can inspect the
+original supporting documents to verify them. A student petitioning to defer an
+exam because of illness must submit an original form entitled Verification of Student
+Illness or Injury (an “Illness Form”), which is to be filled out and signed by a licensed
+health care practitioner. Ms. Biason or her assistant reviews this form to see the
+timing and nature of illness, the accommodation required, and the identity of the
+health care practitioner.
+
+15.
+
+Ms. Biason identified two petitions submitted by the Student in April of 2018. The
+on-line portion of the petitions show that the Student claimed to have missed two
+exams (one of April 17 and one on April 23) because of illness, and asked for
+permission to write deferred exams. The Student submitted an Illness Form in
+support of his two petitions. The Illness Form claims that the Student visited a
+healthcare practitioner on April 17, 2018, and that the Student had an illness
+considered to be “Serious”, starting on April 17 and anticipated to end on April 23.
+In the section for “Additional Comments”, someone seems to have written
+“Influenza - rest.”
+
+16.
+
+Ms. Biason was concerned about the Illness Form. It was hard to decipher the
+doctor’s purported signature (her best guess was “M. Chung”), and the doctor’s
+purported registration number with the College of Physicians and Surgeons of
+Ontario (her best guess was “77579”). The Illness Form had a business stamp from
+North York General Hospital. Ms. Biason called the phone number on the stamp.
+The phone number was connected to the hospital’s Patient Accounts department.
+They were not able to assist. Ms. Biason called the Student’s phone number, and
+received a message that the phone was not in service. Ms. Biason submitted the
+matter to the Academic Integrity Office. She posted a notice to the Student through
+
+6
+
+the online service for petitions, advising the Student that the petitions had been
+denied, the Illness Form was not valid, and the case had been reported to the
+Academic Integrity Office.
+
+A “viewed message” feature on the online service
+
+indicates the Student (or someone with access to the Student’s online portal) read
+these messages from Ms. Biason’s office on May 3, 2018.
+
+17.
+
+The University’s second witness was Arnold Doobay, an Academic Integrity
+Assistant at the University of Toronto Scarborough. He was assigned to investigate
+the authenticity of the Illness Form submitted by the Student. His evidence about
+his investigation was as follows.
+
+(a)
+
+He was unable to reach the Student by phone, and the Student did not
+respond to emails or letters from Mr. Doobay’s office.
+
+(b)
+
+The phone number on the business stamp affixed to the Illness Form
+was for the Patient Accounts department at the North York General
+Hospital, and they could not assist Mr. Doobay
+
+(c)
+
+The medical health records department for the North York General
+Hospital confirmed that there was no patient registered with the hospital
+matching the Student’s name.
+
+(d)
+
+Mr. Doobay tried to identify the doctor through the CPSO registration
+number scribbled on the Illness Form. He tried 3 different possible
+versions of the registration number. None of those doctors had privileges
+at North York General Hospital. One was a pediatrician, specializing in
+neurology, whose office refused over the phone to confirm or deny that
+the Student had ever been a patient. One was a plastic surgeon, who
+advised Mr. Doobay over the phone that they had no registered patients
+with the Student’s name and date of birth. The third possible doctor was
+
+7
+
+a general surgeon practicing in Ajax, Scarborough and Pickering. Mr.
+Doobay did not speak to him.
+
+18.
+
+The University’s third witness was Natalia Botelho, a legal assistant at Assistant
+Discipline Counsel’s firm. Her evidence was given via affidavit. Ms. Botelho had
+faxed the three doctors whose CPSO registration number matched the three
+possible versions of the scribbled CPSO number on the Illness Form. All three
+doctors eventually responded that they never saw patients out of North York
+General Hospital, and had no record of every seeing a patient with any of three
+variations of the Student’s name.
+
+Decision of the Tribunal on the Charges
+
+19.
+
+The University bears the burden of proving on a balance of probabilities that the
+Student knowingly forged, altered or falsified a document required by the University,
+or uttered, circulated, or made use of a forged, altered or falsified document. The
+evidence must be clear, cogent and convincing.
+
+20.
+
+The evidence in this case was clear that the Student, at a minimum, made use of a
+forged or falsified Illness Form.
+
+It does not matter if the Student forged the
+
+document himself or had another person do it for him. The Tribunal was able to
+view the Illness Form submitted by the Student in support of his two petitions for
+deferred exams. The Tribunal agreed with the University’s witnesses that the
+scribbled CPSO number on the Illness Form could be any of three possible
+numbers. The evidence of the University’s witnesses was that these three doctors
+were contacted, and none of them had treated the Student or filled out the Illness
+Form. This evidence was corroborated by the printouts from the CPSO’s on-line
+register, showing that none of the doctors had privileges at the North York General
+Hospital. The hospital stamp on the Illness Form could not be traced to any
+particular doctor, but rather was the general stamp used by the hospital’s Patient
+Accounts department. The medical records department at the hospital told Mr.
+
+8
+
+Doobay it had no record of the Student. The University reached out to the Student
+multiple times in multiple ways, seeking an explanation.
+
+The Student never
+
+responded.
+
+21.
+
+The Tribunal found that the Student is guilty of Charge 1. Charge 2 was withdrawn
+by the University.
+
+Evidence on Penalty
+
+22.
+
+The University called further evidence on the issue of penalty. The Student started
+his University studies in the Fall of 2016. In his second term - Winter 2017 - the
+Student admitted to the Dean’s Designate that he had plagiarized an assignment.
+In light of the Student’s quick admission, no Tribunal hearing was necessary. The
+Student received a grade of 0 on the plagiarized assignment, and a two-year
+notation in his transcript indicating that the Student had been sanctioned for
+academic misconduct.
+
+Decision of the Tribunal on Penalty
+
+23.
+
+The University sought the following sanctions:
+
+(a)
+
+a final grade of zero in courses GGRA03H3 and EESA06H3, those being
+the two final exams the Student had sought to defer with a fake Illness Form;
+
+(b)
+
+a suspension from the University for three years from the date of the
+hearing, ending on July 18, 2022;
+
+(c)
+
+a notation of this sanction on his academic record and transcript until four
+years from the date of the hearing, ending on July 18, 2023; and
+
+(d)
+
+a report to the Provost for publication of a notice of the decision of the
+Tribunal and the sanctions imposed, with the name of the student withheld.
+
+9
+
+24.
+
+The Tribunal considered the factors and principles relevant to sanction as set out
+by this Tribunal in University of Toronto and Mr. C. (Case No. 1976/77-3, November
+5, 1976).
+
+(a)
+
+The character of the Student: the Student did not attend the hearing. The
+Student made no effort to respond to the multiple outreach efforts of the
+University. The Tribunal has no information about the Student’s character
+other than what is revealed by the nature of the offence.
+
+(b)
+
+The likelihood of repetition of the offence: some months after admitting to
+the Dean’s Designate that he had plagiarized an assignment, the Student
+then submitted a fake Illness Form to the University, claiming he had missed
+two exams because of illness. There is nothing in the record to suggest
+that the Student is remorseful or repentant. It is possible that the Student
+might again resort to dishonesty to avoid his academic obligations.
+
+(c)
+
+The nature of the offence committed: this was a deliberate and careful
+falsification. This falsified Illness Form could not have occurred by accident
+or neglect. The Student first petitioned for a deferred exam due to illness
+on April 19. He submitted the fake Illness Form on April 30. This suggests
+something more serious than a panicked act of last-minute desperation.
+
+(d)
+
+Any extenuating circumstances: the Student declined to participate in this
+hearing. There may have been exceptional, mitigating facts that might have
+caused the Tribunal to make a more lenient order, however, without the
+Student’s participation, there is no evidence of extenuating circumstances
+for the Tribunal to consider.
+
+(e)
+
+The detriment to the University caused by the misconduct: the University
+works hard to accommodate students who require deferrals for medical
+reasons. Ms. Biason estimated her office reviewed about 1,000 petitions
+
+10
+
+last semester alone.
+
+Falsified medical documentation undermines the
+
+University’s system of accommodation, and overburdens the staff charged
+with reviewing student petitions.
+
+(f)
+
+The need for general deterrence: this is a significant concern. The volume
+of petitions received by the University is high, and forgery can be difficult to
+detect.
+
+25.
+
+Although the Tribunal is not bound by previous cases of this Tribunal, and while
+each case must be decided on its own facts, it is useful for like cases to be treated
+alike so that all parties can come to hearings with a reasonable expectation of what
+kind of penalty they can expect based upon the findings. The Tribunal reviewed six
+cases involving falsified medical notes and petition documents.
+
+In all cases,
+
+students received a grade of zero for the affected courses, as a direct and
+appropriate consequence of the misconduct. In all cases, students received a term
+of suspension. This ranged from two years to five, depending on the severity of the
+misconduct and whether there were prior offences.
+
+26.
+
+A two-year suspension is, as a general rule, the threshold sanction for an act of
+deliberate dishonesty such as plagiarism or falsified medical documents. In light of
+the Student’s prior, admitted act of plagiarism, and in the absence of any mitigating
+evidence the Student might have otherwise provided, the Tribunal found that the
+sanctions requested by the University were fair, proportional and appropriate.
+
+The Tribunal’s Order
+
+27.
+
+The Tribunal made an order as follows.
+
+1.
+
+THAT the hearing may proceed in the absence of the Student;
+
+2.
+
+THAT the Affidavit of Natalia Bothelo, sworn on July 15, 2019, may be
+
+11
+
+introduced as evidence at the hearing;
+3.
+
+THAT the Student is guilty of one count of knowingly forging, altering, or
+
+falsifying, a document or evidence required by the University, or uttering,
+circulating, or making use of any such forged, altered, or falsified document,
+contrary to section B.i.1(a) of the Code of Behaviour on Academic Matters;
+4.
+
+THAT the following sanctions shall be imposed on the Student:
+(a)
+
+a final grade of zero in the courses GGRA03H3 and EESA06H3;
+
+(b)
+
+a suspension from the University of Toronto for three years from the
+date of this Order, ending on July 18, 2022; and
+
+(c)
+
+a notation of this sanction on his academic record and transcript
+until four years from the date of this Order, ending on July 18, 2023;
+
+5.
+
+THAT this case shall be reported to the Provost for publication of a notice
+
+of the decision of the Tribunal and the sanctions imposed, with the name of the
+student withheld.
+
+12
+
+

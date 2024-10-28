@@ -1,0 +1,540 @@
+Case No.963
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on January 16, 2018
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and -
+
+--
+
+Q
+
+W
+
+REASONS FOR DECISION
+Hearing Date: August 22, 2018
+Members of the Panel:
+Ms. Breese Davies, Chair
+Professor Ian Crandall, Faculty Panel Member
+Ms. Morgan Watkins, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel for the University, Paliare Roland
+Ms. Wanda Restivo, Dean’s Designate, Office of the Vice-Principal (Academic) and Dean,
+University of Toronto Scarborough
+In Attendance:
+Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary, Office of Appeals,
+Discipline, Faculty Grievances
+Mr. Sean Lourim, IT Support, Office of the Governing Council
+
+--
+
+Not in Attendance:
+Mr. Q
+W
+, the Student
+
+2
+
+A. Charges
+1. On August 22, 2018, this panel of the University Tribunal held a hearing in the absence
+
+--
+
+of Q
+
+W
+
+(“the Student”) to consider the charges brought against him by the
+
+University of Toronto under the Code of Behaviour on Academic Matters, 1995 (“the
+Code”).
+2. The charges were detailed in a letter to the Student from Professor Nelson, ViceProvost, Faculty & Academic Life, dated January 16, 2018, as follows:
+1.
+
+On or about April 4, 2016, you did knowingly forge or in any other way alter
+
+or falsify an academic record, and/or did utter, circulate or make use of such
+forged, altered or falsified record, whether the record be in print or electronic form,
+namely an application for admission to the University (“Application”), contrary to
+section B.I.3(a) of the Code.
+2.
+
+On or about April 4, 2016, you did knowingly forge or in any other way alter
+
+or falsify an academic record, and/or did utter, circulate or make use of such
+forged, altered or falsified record, whether the record be in print or electronic form,
+namely an Official Transcript from Saint Mary’s University submitted with your
+Application, contrary to section B.I.3(a) of the Code.
+3.
+
+On or about June 15, 2016, you did knowingly forge or in any other way
+
+alter or falsify a document or evidence required by the University, and/or did utter,
+circulate or make use of such forged, altered or falsified document, namely a letter
+that you sent to the University to clarify your activities during September 2014January 2015 for purposes of supporting your Application, contrary to section
+B.I.1(a) of the Code.
+
+3
+
+4.
+
+In the alternative to paragraphs 1 and 2, on or about April 4, 2016, you did
+
+knowingly engage in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code, in order to obtain
+academic credit or other academic advantage of any kind, contrary to section
+B.I.3(b) of the Code, by submitting:
+(a) the Application falsely claiming that you had attended Saint Mary’s
+University from September 2009 to December 2015; and
+(b) an Official Transcript from Saint Mary’s University which was forged,
+altered or falsified.
+5.
+
+In the alternative to paragraph 3, on or about June 15, 2016, you did
+
+knowingly engage in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code, in order to obtain
+academic credit or other academic advantage of any kind by submitting a letter in
+support of your Application to the University in which you falsely claimed to have
+finished your last course at St. Mary’s University in December 2015, contrary to
+section B.I.3(b) of the Code.
+
+B. Hearing in the Absence of the Student
+3. The Student did not attend the hearing and was not represented by counsel. Assistant
+Discipline Counsel asked that the Tribunal order that the hearing proceed in the
+absence of the Student pursuant to Rule 17 of the Tribunal’s Rules of Practice and
+Procedure (“the Rules”) and s. 7 of the Statutory Powers Procedure Act (“the Act”).
+4. Rule 17 allows the Tribunal to proceed in the absence of a party if notice of the hearing
+
+4
+
+has been given in accordance with the Rules and if the person does not attend.
+5. Rule 9 provides a number of alternative means by which a Notice of Hearing may be
+served on a student. In addition to personal service, Rule 9 permits service by courier
+or by email. Rule 13 requires that all parties be provided with reasonable notice of a
+hearing. Rule 14 specifies the information that must be included in the Notice of
+Hearing, including the date, time, place and purpose of the hearing. Rule 14(c)
+requires the Notice to contain a statement that if the person notified does not attend
+at the hearing, the panel may proceed in the person’s absence and the person will not
+be entitled to any further notice of the proceeding.
+6. The Student’s hearing was originally scheduled to proceed on March 22, 2018 at 9:45
+am. A Notice of Hearing was sent to the Student by email on March 2, 2018. The
+email was sent to the email contained in ROSI as well as two other emails that appear
+to be associated with the Student. Attached to the email was also a copy of three
+affidavits the University intended to rely on at the hearing.
+7. A copy of the original Notice of Hearing was not provided to the Tribunal so we are
+unable to determine whether the original Notice complied with the requirements in the
+Rules. Nevertheless, on March 5, 2018, the Student responded to the email to which
+the Notice of Hearing was attached. He stated that he was in China. He also said he
+did not understand why the University was charging him and did not know how he
+should deal with the charges.
+8. A case management conference call was held on March 20, 2018 before Co-Chair,
+Nader Hasan. The Student requested an adjournment of his hearing to allow him to
+retain counsel. The University consented to the adjournment request. A request was
+
+5
+
+also made for the hearing to proceed electronically. Mr. Hasan made an order
+adjourning the hearing. He also ordered that the Student provide Assistant Discipline
+Counsel with contact information for his lawyer by June 7, 2018 and that a new date
+for the hearing be selected by June 20, 2018.
+9. On March 20, 2018, Virginia Fletcher, a law clerk working with Assistant Discipline
+Counsel, sent an email to the Student and provided him with information about
+Downtown Legal Services as well as the names of three lawyers who had previously
+represented students before the Tribunal.
+10. On June 8, 2018, Ms. Fletcher sent another email to the Student asking him to advise
+whether he had retained counsel and reminding the Student that a new date for the
+hearing needed to be selected by June 20, 2018. The Student responded on June 8,
+2018 and advised that he had not retained a lawyer. He also wrote “I will join the
+hearing by myself by Skype.”
+11. Ms. Fletcher sent a further email to the Student in which she provided the following
+five possible dates for the hearing:
+Monday, July 9, 2018 at 5:45 p.m.
+Tuesday, July 31, 2018 at 9:45 a.m.
+Wednesday, August 1, 2018 at 1:45 p.m.
+Wednesday, August 22, 2018 at 9:45 a.m.
+Thursday, August 23, 2018 at 5:45 p.m.
+Ms. Fletcher asked the Student to advise if he was available to attend the hearing on
+any of the dates provided. Ms. Fletcher also attached a copy of the four affidavits that
+the University intended to rely on at the Hearing. Ms. Fletcher also asked the Student
+
+6
+
+to advise if he wished to cross-examine any of the affiants at the hearing.
+12. The Student responded to Ms. Fletcher’s by email, writing “August 22 will be good for
+me, and I think no need to cross-examination.”
+13. On June 15, 2018, Krista Osbourne, Administrative Clerk & Hearing Secretary,
+Appeals, Discipline and Faculty Grievances, sent the Student a Notice of Hearing by
+email. The Notice of Hearing was sent to the email contained in ROSI for the Student
+as well as to the email address the Student had used to communicate with the
+University and Assistant Discipline Counsel’s office. According to Ms. Osbourne’s
+email and the Notice of Hearing, a copy was also sent by courier to the Student at an
+address in Markham, Ontario.
+14. The content of the Notice of Hearing sent on June 15, 2018 complies with Rule 14. It
+states that the hearing was scheduled for Wednesday, August 22, 2018 at 9:45 a.m.
+in room 107 of the McMurrich Building at the University of Toronto. The Notice also
+states as follows:
+You may choose to attend the hearing with or without representation, or not to
+attend at all. If you do not attend, the hearing may take place without you and you
+will not be entitled to further notice in the proceedings. If you do not attend you will
+be notified in writing of the decision.
+In the email that accompanied the Notice of Hearing, Ms Osbourne also wrote as
+follows:
+
+-
+
+As previously communicated to you, Mr. W
+you are permitted to participate
+electronically through Skype during your hearing. Please ensure you email me
+directly, with your Skype username as well as phone number. I will email you
+separately to set up a date/time to test your Skype connection in advance of the
+hearing.
+15. On June 17, 2018, the Student responded to Ms. Osbourne’s email of June 15, 2018
+
+7
+
+and provided her with his Skype ID. The Student did not provide a phone number as
+requested.
+16. On June 18, 2018, Ms. Osbourne sent an email to the Student proposing a number of
+dates and times to test his Skype connection in advance of the hearing. She also
+asked the Student again to provide a phone number.
+17. On June 18, 2018, the Student responded to Ms. Osbourne’s email and selected one
+of the dates proposed for the Skype test, writing “August 17 10:30am-noon would be
+good.” The Student also provided Ms. Osbourne with his phone number.
+18. On June 18, 2018, Ms. Osbourne sent a further email to the Student confirming the
+Skype test would proceed on Friday August 17th at 10:30 am.
+19. On August 7, 2018 a Revised Notice of Hearing was sent to the Student by email.
+According to the Notice, it was sent to the email address contained in ROSI for the
+Student as well as to the email address the Student used on June 18, 2018 to
+communicate with Ms. Osbourne. A Revised Notice of Hearing was sent because the
+Faculty and Student members of the Tribunal had changed since the June 15, 2018
+Notice of Hearing was sent. In all other respects, the August 7, 2018 Notice of Hearing
+was the same as the June 15, 2018 Notice of Hearing.
+20. On August 16, 2018, Ms. Osbourne sent the Student an email reminding him of the
+Skype test on August 17, 2018 at 10:30 am. This email was sent to the email address
+the Student used on June 18, 2018 to communicate with Ms. Osbourne.
+
+Ms.
+
+Osbourne sent a second email reminder to the Student at 9:50 a.m. on August 17,
+2018.
+21. On August 17, 2018, several attempts were made to contact the Student by Skype.
+
+8
+
+The Student did not answer or accept any of the calls made to him through Skype. An
+email was sent to the Student at 10:47 am on August 17, 2018 advising that several
+attempts had been made to contact him through Skype.
+22. On August 17, 2018 at 11:37 am, Ms. Osbourne sent an email to Assistant Discipline
+Counsel advising that the Student had failed to participate in the Skype test at the
+arranged time. Ms. Osbourne’s email was copied to two email addresses associated
+with the Student, including the email address the Student used to select the date and
+time for the Skype test.
+23. The Student did not respond to either of the emails sent on August 17, 2018.
+24. The Tribunal convened the hearing at 9:45 am on August 22, 2018 as scheduled.
+Three unsuccessful attempts were made to reach the Student by Skype. The Tribunal
+then recessed the proceedings briefly. During the adjournment, a message was sent
+to the Student through Skype. Assistant Discipline Counsel also sent an email to the
+Student at 9:59 am asking him to contact the Tribunal through Skype or to accept the
+Skype call to him. The Tribunal re-convened at 10:05 am. At that time, three further
+attempts were made to reach the Student by Skype, all of which were unsuccessful.
+The Tribunal also attempted to reach the Student by telephone using the number he
+provided in his June 18, 2018 email to Ms. Osbourne but there was no answer.
+25. The Tribunal found that the Student had notice of the hearing and the charges against
+him. He participated in a case management call on March 20, 2018 at which time he
+requested, and was granted, an adjournment of the original hearing date. In June
+2018, he communicated that he did not intend to retain counsel but would attend the
+hearing by Skype. He participated in selecting the date and time for the hearing. He
+
+9
+
+responded to the June 16, 2018 email to which the Notice of Hearing confirming the
+August 22, 2018 date was attached and provided his Skype ID. He selected the date
+and time to test his Skype connection to ensure he could participate in the hearing
+electronically.
+26. The Tribunal is satisfied that the University complied with the Rules and the Act. The
+Student was given reasonable notice of the hearing and did not attend. The Tribunal,
+therefore, ordered that the hearing should proceed in the Student’s absence.
+
+C. Affidavit Evidence
+27. The Provost sought to adduce three affidavits in evidence: an affidavit of Lynda
+Onorati affirmed February 27, 2018, a supplementary affidavit of Lynda Onorati
+affirmed March 16, 2018, an affidavit of Carol Farquhar sworn March 16, 2018 and an
+affidavit of Nisha Panchal affirmed March 6, 2018. As set out above, all of these
+affidavits were provided to the Student.
+28. The Tribunal concluded that this was an appropriate case in which to admit evidence
+by way of affidavit pursuant to Rule 61 of the Rules. In the absence of the Student,
+the affiants would not be subject to cross-examination even if they were called to
+testify. We note that the Student had previously advised Assistant Discipline Counsel
+that he did not intend to cross-examine the affiants at the hearing.
+29. We did advise Assistant Discipline Counsel that if the panel had questions after
+reviewing the affidavits, we might revisit our ruling that the hearing could proceed by
+affidavit evidence only, but that did not prove necessary.
+
+10
+
+D. Finding of Liability
+30. In April 2016, the Student applied for admission to University of Toronto Scarborough
+Campus (UTSC) as a transfer undergraduate student through the Ontario University
+Application Centre. In his application, the Student indicated that he attended St.
+Mary’s University (“SMU”) in Halifax from March 2009 to May 2012. In support of his
+application, the Student submitted what purported to be an official transcript from St.
+Mary’s University. The Student was required to provide an official transcript to the
+University from SMU as part of the application process.
+31. The transcript submitted by the Student has no credits earned between April 2014 and
+January 2015. The transcript also shows that the last credits earned by the Students
+were during the fall term in 2015. The Student was asked to provide a signed and
+dated letter indicating what he was doing between September 2014 and January 2015
+and since December 2015.
+32. On or about June 7, 2016, the Student uploaded an unsigned letter dated June 2,
+2016 which said that between September 2014 and December 2015 he was sick and
+returned home to China to seek medical attention. In terms of what he had been doing
+since December 2015, the letter states: “After I finished my last course at St. Mary
+[sic] which was on December 2015, I decided to start my application to U of T, I was
+studying English at home and collecting document [sic] for my application.” The
+University asked the Student to send a signed copy of his letter.
+33. On or about June 16, 2016, the Student uploaded a signed letter dated June 15, 2016.
+The content of the signed letter was the same as the unsigned letter dated June 2,
+2016.
+
+11
+
+34. On the strength of his application, the Student was admitted to UTSC in the Honours
+Bachelor of Arts program with a Major Program in Mathematics, and a Minor Program
+in Economics for Management Studies. He accepted the offer of admission on June
+29, 2016 and enrolled in courses for the Fall 2016 semester.
+35. On July 11, 2016, Enrolment Services sent out an automated email to all applicants
+for whom the University had not received official transcripts as required as a condition
+of their offer of admission. Follow up emails were sent to the Student requesting an
+official transcript on August 25, 2016 and October 26, 2016. The Student never
+provided the University with an official transcript from SMU.
+36. On October 18, 2016, the Student requested a transfer credit application and paid the
+fee to have his credits from SMU assessed. On October 19, 2016, Carol Farquhar,
+Admissions and Transfer Credit Assessor at UTSC, sent the Student a letter via email
+advising him that his request for transfer credits would be finalized once the University
+received detailed course outlines for specific courses he purportedly completed at
+SMU and an official transcript from SMU. In response to Ms. Farquhar’s email, the
+Student sent another copy of the same SMU transcript submitted with his application.
+The transcript was sent from a scanner at UTSC. The Student never provided an
+official transcript or course outlines.
+37. The Student attended UTSC for one semester from September to December 2016.
+He registered for three courses. He passed one course and 0.5 academic credits with
+a cumulative grade point average of 0.67. The Student has not enrolled in any courses
+at the University since December 2016.
+38. On December 2, 2016, Lynda Onorati, Senior Admissions Specialist, sent an email to
+
+12
+
+Paul Dixon at SMU requesting that they verify the authenticity of the Student’s SMU
+transcript. Mr. Dixon responded that the transcript submitted by the Student was a
+forgery.
+39. On January 15, 2018, Ms Onorati sent another email to Mr. Dixon at SMU asking if
+the Student was ever registered at SMU. Ms Onorati attached to her email another
+copy of the SMU transcript submitted by the Student with his application, which
+includes the Student’s name, date of birth and a student number. On January 22,
+2018, Dave Peters, Assistant Registrar, Systems and Records at SMU, confirmed that
+SMU has “no student or applicant” with the Student’s name.
+40. Evidence was also led that the Student applied to the UTSC as a high school applicant
+in 2014 but was denied admission to the University.
+41. Following deliberations at the conclusion of the liability hearing, the Tribunal found the
+Student guilty on counts one, two and three. In light of our findings, the Provost
+withdrew counts four and five. The Tribunal indicated we would provide reasons for
+our decision. The following are those reasons.
+42. Based on the evidence presented, the Tribunal found that the SMU transcript
+submitted with the Student’s application for admission is a forgery. The emails from
+Mr. Dixon and Mr. Peters provide clear evidence that the transcript is forged and the
+Student was never registered at SMU. The Tribunal also found that the reference to
+the Student attending SMU from September 2012 until December 2015 in his OUAC
+application was false. Finally, the Tribunal found that the statement in the signed and
+dated letter submitted electronically by the Student on June 15, 2016 that he went
+back to China to study English “after I finished my last course at St. Mary [sic] which
+
+13
+
+was on December 2015” was also false.
+43. For the offences charged to be made out, the University must not only prove that the
+documents in question are forged or contain false statements. The University must
+also prove that the student “knowingly” forged, falsified or made use of a forged or
+falsified document.
+
+As set out in the Code, whenever an offence requires the
+
+University to prove it was done knowingly, “the offence shall likewise be deemed to
+have been committed if the person ought reasonably to have known.”
+44. In an email to Ms. Fletcher dated March 5, 2018, the Student suggested that he had
+used a third party to assist him with his application to the University. He also suggested
+that it was the third party who submitted the false information in the application. Had
+the Student wanted to advance as a defence that he did not knowingly falsify or make
+use of falsified documents, he could have done so. Having not participated in the
+hearing, the University had no opportunity to test this claim.
+45. Nonetheless, because the burden is on the University to prove the allegations, the
+Tribunal was required to consider all the evidence to determine if the Student knew or
+ought to have known the documents used in support of his application and transfer
+credit application were forged or falsified.
+46. The Tribunal found that the evidence clearly establishes that the Student knew the
+SMU transcript submitted with his application was forged. As set out above, the
+Student was never enrolled at SMU. Any document that suggested the Student
+attended SMU and completed courses there was false. We are also satisfied that the
+Student submitted the forged application himself or knew the forged transcript was
+submitted with his application. Before he was offered admission to the University, he
+
+14
+
+was asked to account for his activities between September 2014 and January 2015
+and after December 2015. The Student provided the University with a signed and
+dated letter explaining what he had done during those relevant periods. In the letter,
+he says he returned to China and studied English “after I finished my last course at
+St. Mary [sic]”.
+
+The reference to SMU in the letter was also false and clearly
+
+establishes that the Student knew an SMU transcript with a gap between September
+2014 and January 2015 was submitted with his application.
+47. The Student also submitted the same forged transcript from SMU with his transfer
+credit assessment after he enrolled at the University. This copy of the SMU transcript
+was submitted from a scanner at UTSC, where the Student was enrolled.
+48. During the transfer credit assessment process, the Assessment Officer sent him a
+letter, which states, in part, as follows “You may be entitled for transfer credit for your
+studies at St. Mary’s University but before a decision can be reached you must send
+a final and official transcript to this office.” The letter also specifies that the Student
+may be entitled to credit for six courses listed on the transcript submitted but detailed
+course outlines were required for each court.
+49. Had the SMU transcript been submitted with the Student’s application without his
+knowledge, at some point during the admission or transfer credit process he would
+have corrected the University’s understanding. He never did so. In fact, he
+perpetuated the lie by submitting a letter that purports to explain why he was not at
+SMU during the Fall 2014 term.
+
+On the basis of all the evidence, we find that the
+
+Student knowingly made a false statement on his application to UTSC that he
+attended SMU, he knowingly submitted the forged SMU transcript with his application
+
+15
+
+and he knowingly submitted a falsified letter with his application stating he finished his
+last course at SMU in December 2015.
+
+E. Sanction
+50. The Provost sought an order imposing the following sanctions on the Student:
+• He be immediately suspended from the University for up to five years;
+• The Tribunal recommend to the President of the University that he recommend
+to the Governing Council that the Student be expelled from the University;
+• A permanent notation be placed on the Student’s academic record and transcript;
+and
+• The decision be reported to the Provost, for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the Student’s name withheld.
+51. After deliberations, the Tribunal accepted the Provost’s submissions on penalty and
+signed an Order to that effect. These are our reasons for that decision.
+52. It goes without saying that the falsification of an academic transcript or academic
+record threatens the integrity of the University’s admission process and tarnishes the
+reputation of the University. It misrepresents a student’s accomplishments and may
+result in a student obtaining a benefit that he or she does not deserve, thereby
+depriving a deserving student of that benefit.
+53. In University of Toronto v. Y.X. (Case No. 952; April 4, 2018), the Tribunal dealt with
+very similar allegations. In that case, the Tribunal articulated a number of principles
+to be considered in cases involving the forgery or falsification of an academic record:
+• Forgery or falsification of academic records is among the most serious academic
+
+16
+
+offences
+• Forgery may be difficult to detect, so that deterrence is a significant consideration
+• By its nature, forgery is only rarely the product of negligence or inadvertence.
+More commonly, it is the product of planning and knowing participation.
+54. It is clear from a number of recent decisions of this Tribunal that the usual sanction for
+forgery or falsification of academic transcripts is a recommendation for expulsion: Z.Z.
+(Case No. 958; April 17, 2018), A.B. (Case No. 917; June 13, 2017) at para. 18, J.F.
+(Case No. 915; May 29, 2017) at para. 14, J.Z. (Case No. 928; June 5, 2017) at para.
+22, and Y.X., supra at para. 39. It is an accepted principle of sentencing that like cases
+should be treated alike.
+55. We heard no evidence of any prior record of academic offences and we proceeded
+on the basis that these were the Student’s first offences.
+56. We received evidence that the Student failed to schedule a meeting with the Academic
+Integrity Office when the matter was first under investigation. The Student did not
+attend a Dean’s meeting.
+57. Although the Student participated in a case management call in March, he did not
+participate in the hearing. We, therefore, have no explanation for his conduct. We
+also have no evidence of any mitigating circumstances that might exist.
+58. Having no evidence or submissions from the Student, we have no basis for departing
+from the sanction ordinarily imposed for these serious offences.
+59. For these reasons, the Tribunal accepted the Provost’s submissions and signed an
+Order imposing the following sanction:
+
+17
+
+1.
+
+THAT the Student be immediately suspended from the University for a period of
+
+up to five years;
+ii.
+
+THAT the Tribunal recommends to the President of the University that he
+
+recommend to the Governing Council that the Student be expelled from the
+University;
+iii.
+
+THAT a permanent notation shall be placed on the Student's academic record and
+
+transcript; and
+
+1v.
+
+THAT this case shall be reported to the Provost for publication of a notice of the
+
+decision of the Tribunal and the sanction or sanctions imposed , with the name of
+the student withheld .
+
+Prior to these Reasons being finalized, Justice Breese Davies was appointed a judge of the
+Superior Court of Justice of Ontario. Therefore these reasons were issued by the remaining
+two Panel members.
+Dated at Toronto this
+
+f+i-1 day of September, 2018
+
+sor Ian Crandall, Faculty Panel Member
+
+Ms. Morgan Watkins, Student Panel Member
+
+17
+
+i.
+
+THAT the Student be immediately suspended from the University for a period of
+up to five years;
+
+ii.
+
+THAT the Tribunal recommends to the President of the University that he
+recommend to the Governing Council that the Student be expelled from the
+University;
+
+iii.
+
+THAT a permanent notation shall be placed on the Student’s academic record and
+transcript; and
+
+iv.
+
+THAT this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the name of
+the student withheld.
+
+Prior to these Reasons being finalized, Justice Breese Davies was appointed a judge of the
+Superior Court of Justice of Ontario. Therefore these reasons were issued by the remaining
+two Panel members.
+Dated at Toronto this 10th day of September, 2018
+
+__________________________________________
+Professor Ian Crandall, Faculty Panel Member
+
+__________________________________________
+Ms. Morgan Watkins, Student Panel Member
+
+

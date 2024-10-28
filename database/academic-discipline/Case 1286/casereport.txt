@@ -1,0 +1,621 @@
+Case No.: 1286
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on November 9, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and M
+
+C
+
+REASONS FOR DECISION
+Hearing Date: February 7, 2024, via Zoom
+Members of the Panel:
+Ira Parghi, Chair
+Professor Michael Saini, Faculty Panel Member
+Brinda Batra, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Chris Stienburg, Counsel for the Student, Stienburg Law
+Hearing Secretary:
+Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline & Faculty
+Grievances
+In Attendance:
+M
+C
+(for part of hearing)
+
+1
+
+I.
+
+Introduction
+
+1.
+The Trial Division of the University Tribunal was convened via videoconference on
+February 7, 2024, to consider charges brought against M.C. (the “Student”) by the
+University of Toronto (the “University”) pursuant to the University of Toronto Code of
+Behaviour on Academic Matters, 1995 (the “Code”) on November 9, 2021. The charges
+were as follows:
+1. On or about March 18, 2021, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in Test 2 in ECE285H1: Probability and Statistics
+(the “Course”), contrary to section B.I.1(b) of the Code;
+2. In addition and in the alternative to charge 1, on or about March 18, 2021, you knowingly
+aided and assisted other students in the Course to use or possess an unauthorized aid or
+aids or obtain unauthorized assistance in Test 2, contrary to sections B.I.1.(b) and B.II.1(a)
+of the Code;
+3. In addition and in the alternative to charges 1 and 2, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind, contrary to section B.I.3(b) of the Code, in connection with Test 2 in the Course;
+4. On or about April 27, 2021, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in the final exam in the Course, contrary to
+section B.I.1(b) of the Code;
+5. In addition and in the alternative to charge 4, on or about April 27, 2021, you knowingly
+aided and assisted other students in the Course to use or possess an unauthorized aid or
+aids or obtain unauthorized assistance in the final exam, contrary to sections B.I.1.(b) and
+B.II.1(a) of the Code; and
+6. In addition and in the alternative to charges 4 and 5, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind, contrary to section B.I.3(b) of the Code, in connection with the final exam in the
+Course.
+
+2.
+The particulars for the charges (with the names of other students changed to
+initials) were as follows:
+1. At all material times, you were a student at the University of Toronto in the
+Faculty of Applied Science and Engineering.
+
+2
+
+2. In Winter 2021, you were enrolled in the Course.
+3. Students in the Course were required to write Test 2 on March 18, 2021, which
+was worth 30% of the final mark in the Course (“Test 2”), and a final exam on April
+27, 2021, worth 35% (“Exam”). You submitted your Test 2 and your Exam to
+complete these requirements.
+4. You were not permitted to communicate with anyone during Test 2 and the
+Exam, and to submit only work that was your own.
+5. You confirmed in your answer to question 1 of each of Test 2 and the Exam that
+the work you submitted was solely your own.
+6. You did not write your Test 2 or your Exam independently, and the work you
+submitted was not solely your own.
+7. You organized and participated in an online group chat during Test 2 and the
+Exam in which you shared answers to those exams with other members of the
+group, and used those shared answers in Test 2 and the Exam.
+8. Your answers for many of the questions in Test 2 were extraordinarily similar to
+the answers given to those questions by a number of other students in the Course,
+including M.E-E. and C.U-O.
+9. Your answers for many of the questions in the Exam were extraordinarily similar
+to the answers given to those questions by a number of other students in the
+Course, including M.E-E., C.U-O., and X.S., among others.
+10. You knowingly obtained unauthorized assistance from and/or provided
+unauthorized assistance to others for answers to the questions on Test 2 and the
+Exam.
+11. You knowingly obtained and/or provided unauthorized assistance in connection
+with Test 2 and the Exam in the Course.
+3.
+The Student attended part of the hearing via Zoom. Part-way through the hearing,
+the Student lost connectivity to the hearing. The hearing was briefly adjourned so that his
+Counsel could speak with him and obtain his instructions. When the hearing reconvened,
+the Student’s Counsel advised that he had spoken with the Student and that the Student
+wished for the hearing to continue in his absence. The Student’s Counsel advised that he
+
+3
+
+was agreeable to proceeding in the Student’s absence. Counsel for the University advised
+that he, too, was agreeable to doing so. On this basis, the Tribunal was satisfied that the
+hearing could continue in the absence of the Student. The hearing accordingly continued
+in the absence of the Student.
+II.
+
+Liability
+
+4.
+The University and the Student filed a Joint Book of Documents re Finding of
+Offence, which was entered into evidence at the hearing. The Joint Book of Documents
+re Finding of Offence included an Agreed Statement of Facts that was signed by the
+Student on January 19, 2024 (the “ASF”).
+5.
+In the ASF, the University and the Student agreed that each of the documents
+attached to the ASF could be admitted into evidence before the Tribunal for all purposes,
+including for the truth of the document’s contents, without further need to prove the
+document, and that, if a document indicates that it was sent or received by someone, that
+is prima facie proof that the document was sent and received as indicated.
+6.
+The ASF indicates that the Student first registered as a student in the BASc in
+Engineering Science program in the Faculty of Applied Science & Engineering at the
+University of Toronto in Fall 2019. The relevant facts in this matter, as set forth in the ASF,
+are reproduced here (with references to underlying documentation removed, and with the
+names of other students changed to initials):
+A. The Course
+6. In Winter 2021, Mark Ebden taught ECE286H1: Probability and Statistics (the
+“Course”). Students in the Course were required to write an assignment (worth 15%), two
+mid-terms - Test 1 (worth 20%) and Test 2 (worth 30%), and a final exam worth 35% (the
+“Exam”).
+7. The syllabus contained a section on academic integrity that stated students were
+responsible for knowing the content of the University of Toronto's Code of Behaviour on
+Academic Matters, and to contact [Professor Ebden] if they had any questions.
+8. In January 2021, Professor Ebden posted instructions to Quercus about the term tests
+and exam. Students were instructed that printed material, the internet, calculators, and
+computing platforms were allowed provided that there was no interaction with other people
+directly or indirectly.
+9. The Student, V.B., T.C., R.H., M.E-E., X.S., M.T., C.U-O., A.V., and J.X. were all students
+in the Course (the “Students”).
+
+4
+
+10. Test 2 was administered online on March 18, 2021, from 9:00 a.m. to 11:00 a.m. Test
+2 was open book, but the instructions reminded students that there was to be no
+interaction with other people either directly or indirectly. Question 1 on Test 2 asked
+students to affirm adherence to the Code of Behaviour on Academic Matters, and that
+between 9:00 a.m. and 11:00 p.m. that day, they would not share technical content of Test
+2 with others.
+11. On March 18, 2021, the Student, M.E-E., and C.U-O. each submitted their Test 2 with
+the required academic integrity confirmation.
+12. The Exam was administered online on April 27, 2021, from 7:00 p.m. to 9:30 p.m. EST.
+The Exam was an open book, but the instructions again stated that there was to be no
+interaction with other people, either directly or indirectly.
+13. Professor Ebden distributed five different versions of the Exam to students. Version A
+was distributed to a student who required accommodations, and Version B was distributed
+to 4 students who wrote a deferred exam. Version C was the default exam, and versions
+D and E contained subtle differences to produce distinctive answers. For version D of the
+exam, questions 5 and 6 were reversed (e.g., question 5 on version D was question 6 on
+version E and vice versa), as were questions 9 and 10. These exams were distributed as
+follows: Version C was distributed to students with surnames A to K; Version D was
+distributed to students with surnames M to Z; and Version E was distributed to students
+with surnames L.
+14. The Exams were distributed to the Students as follows:
+(a) Version C: the Student, V.B., T.C., M.E-E., and R.H.
+(b) Version D: X.S., M.T., C.U-O., A.V., and J.X.
+15. The first question on each version of the Exam asked students to affirm adherence to
+the Code of Behaviour on Academic Matters, and that between 7:00 p.m. on the night of
+the exam and 11:30 a.m. the next morning, they would not share technical content of the
+exam with others.
+16. On April 27, 2021, the Students submitted their Exams with the required academic
+integrity confirmation.
+B. The investigation
+1. The Exam investigation
+
+5
+
+17. As Professor Ebden reviewed students’ Exams, he found many unusual similarities
+between the Student’s answers and other Students’ answers. Professor Ebden prepared
+a report that sets out the similarities in detail.
+18. Professor Ebden identified numerous similarities between the Student’s answers and
+other students’ answers. The similarities include several idiosyncratic features, such as
+making the same mistakes, arriving at the same answer without showing enough work,
+arriving at the same incorrect final answer, using the same non-standard notation, and
+providing an answer to a question that did not appear on his version of the Exam.
+19. In June 2021, Professor Ebden emailed the Student to schedule a meeting to discuss
+his concerns that the Student obtained unauthorized assistance on the Exam. The Student
+did not respond.
+2. The Test 2 investigation
+20. After discovering that several students had unusually similar answers on the Exam,
+Professor Ebden examined several students’ answers to other tests. Professor Ebden
+identified unusual similarities in the answers given by the Student, M.E-E., and C.U-O. in
+relation to Test 2. Professor Ebden prepared several academic integrity reports that set
+out these similarities on Test 2 in detail.
+21. Professor Ebden identified numerous similarities between the Student’s and M.EE.’s
+answers, and several similarities between the Student’s and C.U-O.’s answers. These
+similarities included idiosyncratic features, such as making the same mistakes in the same
+ways, using the same non-standard notation, and arriving at the same answer without
+showing enough work.
+…
+23. In July 2021, Professor Ebden emailed the Student to schedule a meeting to discuss
+his concerns that the Student obtained unauthorized assistance on Test 2. The Student
+did not respond.
+C. The Dean’s Office
+24. In June 2021, the Dean’s office at the Faculty of Engineering and Applied Science
+received allegations that several students collaborated on the Exam and Test 2. The late
+Hans Kunov, Professor Emeritus and Dean’s Designate of academic integrity, and Pamela
+Kennedy, Accreditation and Academic Integrity Coordinator, oversaw these allegations.
+1. Attempts to schedule a dean’s meeting with the Student
+
+6
+
+25. From June to October 2021, the faculty made numerous attempts to schedule a
+meeting with the Student to discuss the Exam and Test 2. In particular:
+(a) Professor Kunov and Ms. Kennedy gave the Student an opportunity to retain
+counsel and sent him resources about Downtown Legal Services;
+(b) Ms. Kennedy sent the Student mental health resources when the Student
+stated that he was experiencing mental health issues;
+(c) Professor Kunov, Professor Ebden, and Ms. Kennedy agreed to meet with the
+Student on weekends or evenings to accommodate his schedule;
+(d) Professor Kunov offered to reimburse the Student to access a payphone when
+the Student stated that he did not have an active phone line and could not afford a
+pay phone; and
+(e) On two separate occasions, Professor Kunov, Professor Ebden, and Ms.
+Kennedy waited approximately 45 minutes for the Student to join a call that he had
+agreed to attend, but the Student did not show up.
+26. The Student did not attend a dean’s meeting, and the matter was forwarded to the
+Provost.
+27. The Student obtained three credits in the Fall 2021 semester.
+2. Dean’s meetings about the Exam
+28. From June to September 2021, Professor Kunov, Professor Ebden, and Ms. Kennedy
+met with each of the students except the Student. Ms. Kennedy advised the students at
+the start of each meeting that minutes would be taken and could be used as evidence if
+the matter proceeded. Ms. Kennedy took detailed notes of each meeting and has
+confirmed that they were accurate.
+29. On May 31, 2021, J.X. admitted that he collaborated with other students during the
+Exam in a letter to Professor Kunov.
+30. On June 23, 2021, in a dean’s meeting, J.X. confirmed that he collaborated with other
+students during the Exam.
+31. On June 23, 2021, in a dean’s meeting, T.C. admitted that he collaborated with other
+students during the Exam.
+32. On June 23, 2021, in a dean’s meeting, C.U-O. admitted that he obtained unauthorized
+assistance from M.E-E.
+
+7
+
+33. On June 23, 2021, in a dean’s meeting, X.S. admitted that she collaborated with other
+students during the Exam. After the meeting, X.S. sent Professor Kunov a written
+admission in which she stated:
+(a) The Student sent her a link to a Google Doc to collaborate on the Exam;
+(b) During the Exam, there were approximately 15 users in the Google Doc, but
+everyone was anonymous except the Student; and
+(c) Several users uploaded answers to Exam questions on Google Docs, and she
+uploaded her answer to Question 5.
+34. On July 9, 2021, in a dean’s meeting, M.E-E. stated he did not provide or obtain
+unauthorized assistance on the Exam, and that he did not know the Student.
+35. On July 15, 2021, in a dean’s meeting, A.B. admitted that he collaborated with other
+students during the Exam. He stated:
+(a) The Student sent him a link to a Google Doc to collaborate on the Exam;
+(b) During the Exam, there were approximately 10 to 15 users in the Google Doc,
+but everyone was anonymous except for the Student;
+(c) Several users uploaded answers to Exam questions on the Google Doc, and
+he uploaded part of his answer to Question 13; and
+(d) He had previously worked with M.E-E. on an assignment and recognized his
+handwriting in one of the answers that had been uploaded to the Google Doc.
+Professor Ebden showed him a copy of M.E-E.’s answer to Question 9 on the
+Exam, and he confirmed that he saw that answer in the Google Doc.
+36. On July 15, 2021, in a dean’s meeting, R.H. admitted that he collaborated with other
+students during the Exam. He stated: he had access to a Google Doc to collaborate on
+the Exam; he did not want to comment on whether he knew the Student; and he
+collaborated with V.B. during the Exam.
+37. On July 23, 2021, in a dean’s meeting, M.E-E. again stated he did not knowingly
+provide or obtain unauthorized assistance on the Exam.
+38. On August 11, 2021, in a dean’s meeting, A.V. admitted that he collaborated with other
+students during the Exam, including M.T.
+
+8
+
+39. On August 24, 2021, in a dean’s meeting, M.T. admitted that he collaborated with other
+students during the Exam. He stated that the Student sent him a link to a Google Doc to
+collaborate on the Exam; he collaborated with the Student and A.V. on the Exam; and, in
+July and August 2021, the Student repeatedly suggested to him that he should not say
+anything about the allegations.
+3. Dean’s meetings about Test 2
+40. On August 26, 2022, in a dean’s meeting, C.U-O. said that he would not admit to an
+academic offence in relation to Test 2 if the evidence was not clear. C.U-O. then denied
+that he had committed an academic offence in relation to Test 2.
+41. On September 22, 2022, in a dean’s meeting, M.E-E. denied that he had received
+unauthorized assistance on Test 2.
+D. Procedural history
+1. Charges and Disclosure
+42. On November 9, 2021, the Office of the Vice-Provost, Faculty and Academic Life
+served the charges in this matter on the Student by email.
+43. On March 21, 2022, Downtown Legal Services inform Assistant Discipline Counsel
+that the Student had retained them in connection with this matter.
+44. On April 14, 2022, Mr. Webb emailed Downtown Legal Services and the Student a
+disclosure letter and a disclosure brief.
+45. The Student was enrolled in courses in Winter 2022. The Student has not enrolled in
+courses since the Winter 2022 semester.
+46. On June 22, 2022, Downtown Legal Services informed Mr. Webb that there was a
+breakdown in the solicitor-client relationship, and it no longer represented the Student for
+his academic integrity matters.
+47. On June 23, 2022, Mr. Webb emailed the Student: “We understand that Downtown
+Legal Services is no longer representing you in this matter. Please let us know whether
+you have retained other counsel, whether you would like us to provide you with referrals
+to other lawyers who practice in this area, or whether you intend to represent yourself.”
+The Student did not respond.
+2. The Initial Hearing Date
+
+9
+
+48. On July 5, 2022, Mr. Webb emailed the student about scheduling a hearing date. Mr.
+Webb advised that if he did not hear back by July 11, 2022, he would request a hearing
+date be scheduled. The Student did not respond.
+49. On July 12, 2022, Mr. Webb emailed the student to inform him that he was going to
+proceed with scheduling the hearing for August 19, 2022. Later that day, Mr. Webb emailed
+the Office of Appeals, Discipline and Faculty Grievances (the “ADFG Office”) to request a
+hearing be scheduled. The student was copied on this email.
+50. On July 12, 2022, the ADFG Office issued a Notice of Electronic Hearing. The ADFG
+Office sent the notice to the Student.
+3. The Initial Hearing Date Is Adjourned
+51. On August 15, 2022, the Assistant Discipline Counsel sent the Student an affidavit of
+C.U-O. In his affidavit, C.U-O. gives evidence that he collaborated with the Student on
+Test 2 and the Exam.
+52. Later that day, the Assistant Discipline Counsel requested an adjournment to provide
+the Student with additional time to review the new evidence and to retain counsel. The
+Student consented to the adjournment request, and the Chair granted the adjournment.
+4. The Second Hearing Date
+53. The Provost gave the Student additional time to retain counsel.
+54. The Student retained counsel in March 2023.
+55. The Student’s counsel and Assistant Discipline Counsel had several without-prejudice
+exchanges between March 2023 and October 2023.
+56. The Student requested that the Provost agree to postpone the hearing until 2024 on
+the basis that he was unable to attend a hearing in Fall 2023 due to health issues. The
+Provost agreed to postpone the hearing until 2024, and the parties subsequently agreed
+to schedule a hearing for February 7, 2024.
+
+7. In the ASF, the Student admitted and acknowledged the following:
+1. He knowingly obtained unauthorized assistance from several other students in
+connection with the Exam and Test 2;
+2. He knowingly provided unauthorized assistance to several other students in
+connection with the Exam and Test 2;
+
+10
+
+3. He invited several other students to join a Google Doc in which they could share
+answers to the Exam; and
+4. In July and August 2021, he repeatedly told other students not to say anything
+about the Exam allegations to the Dean’s office.
+8. The Student also admitted the following:
+1. He knowingly used or possessed an unauthorized aid or aids or obtained
+unauthorized assistance in connection with the Exam and Test 2, contrary to
+section B.I.1(b) of the Code;
+2. He knowingly aided and assisted other students in the Course to use or possess
+an unauthorized aid or aids or obtain unauthorized assistance in the Exam and
+Test 2, contrary to sections B.I.1.(b) and B.II.1(a) of the Code; and
+3. He knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind, in
+connection with the Exam and Test 2, contrary to section B.I.3(b) of the Code.
+9. The Student acknowledged that he was signing the ASF freely and voluntarily, knowing
+of the potential consequences he faced, and did so with the advice of counsel or having
+waived the right to obtain counsel.
+10. The onus on the University was to establish on a balance of probabilities, through
+clear and convincing evidence, that the Student had committed one or more of the
+academic offences enumerated above.
+11. Upon review of the ASF, including the Student’s admissions contained in the ASF and
+the documents attached to the ASF, and upon hearing the submissions of counsel, the
+Tribunal was satisfied on the balance of probabilities that the Student was guilty of
+charges 1, 2, and 4 through 6, as enumerated above. That is, the Tribunal was satisfied
+that the Student was guilty of the following academic offences:
+1. Two counts of knowingly obtaining unauthorized assistance, contrary to section
+B.I.1(b) of the Code;
+2. Two counts of knowingly aiding and assisting other students, contrary to
+sections B.I.1.(b) and B.II.1(a) of the Code; and
+11
+
+3. One count of knowingly engaging in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind, contrary
+to section B.I.3(b) of the Code.
+12. In light of the Tribunal’s findings, charges 1, 2, and 4 through 6, charge 3, of knowingly
+engaging in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind, contrary to section B.I.3(b) of the Code, in
+connection with Test 2 in the Course, was withdrawn by the University.
+IV.
+
+Penalty
+
+13. The University and the Student filed a Joint Book of Documents re: Sanction, which
+was entered into evidence at the hearing. The Joint Book of Documents re: Sanction
+included an Agreed Statement of Facts on Penalty and Joint Submission on Penalty that
+was signed by the Student on January 19, 2024.
+14. The Agreed Statement of Facts on Penalty set forth additional facts relevant to
+penalty, which are reproduced here (with references to underlying documentation
+removed and with the names of other students changed to initials):
+1. Prior Academic Offence
+4. In Fall 2020, the Student enrolled in ECE253H1: Digital and Computer Systems
+(“ECE253”), taught by Jason Anderson. During that semester, the Student submitted his
+midterm, which was worth 20% of his final grade.
+5. In December 2020, Professor Anderson alleged that the Student provided unauthorized
+assistance to and obtained unauthorized assistance from two other students in the course,
+M.E-E. and C. U-O. The late Hans Kunov, Professor Emeritus and Dean’s Designate of
+Academic Integrity, and Pamela Kennedy, Accreditation and Academic Integrity
+Coordinator, oversaw these allegations.
+6. On December 17, 2020, Professor Kunov, Professor Anderson, and Ms. Kennedy met
+with the Student to discuss the allegations that the Student provided and obtained
+unauthorized assistance in connection with the ECE253 midterm. The Student admitted
+that he and other students in ECE253 had shared copies of the midterm and collaborated
+during the midterm. The Student then pled guilty to plagiarism.
+7. The Student admits that he provided unauthorized assistance to and obtained
+unauthorized assistance from M.E-E. and C.U-O. in the ECE253 midterm.
+
+12
+
+8. The case was resolved at the divisional level. The Student was sanctioned with a final
+grade of zero on the midterm in ECE253.
+9. Later that day, the faculty sent the Student a letter confirming the sanction that was
+imposed. The letter also warned the Student that the penalty for future offences would be
+much more severe:
+Academic offences are extremely serious and constitute unacceptable behaviour
+in the University. They are a breach of ethical standards of the engineering
+profession that you aspire to enter. This letter is to serve as a strong warning to
+you that any future academic work must be conducted in full accordance with the
+rules and regulations of the University.
+Be advised that, in the event of a 2nd offence, the penalties would be much
+more severe.
+[Emphasis in original]
+10. The Student admits that he received and reviewed a copy of this letter in late 2020.
+2. Charged Academic Offences
+11. On March 18, 2021, the Student obtained and provided unauthorized assistance on
+Test 2 in ECE286H1: Probability and Statistics.
+12. On April 27, 2021, the Student obtained and provided unauthorized assistance on the
+final exam in ECE286H1: Probability and Statistics.
+13. In July and August 2021, the Student repeatedly told other students to not say anything
+about the ECE286H1 Final Exam allegations to the Dean’s office.
+3. Student Evidence
+14. The Student believes that he experienced mental health issues in 2020 and 2021 that
+were related to the pandemic. The Student states that he felt anxious and depressed at
+this time, and he believes that this affected his academics.
+15. On December 12, 2022, the Student was prescribed an antidepressant.
+16. On January 5, 2023, the Student was diagnosed with attention deficit hyperactivity
+disorder (“ADHD”). The Student believes that he had ADHD in 2020 and 2021, and he
+believes that this affected his academics.
+17. The Student is continuing to seek treatment for his mental health and ADHD.
+
+13
+
+18. The Student apologizes for committing the academic offences, and acknowledges that
+the facts at paragraphs 14 through 17 of the JSP do not excuse his behaviour.
+
+15. The Joint Submission on Penalty (“JSP”) stated as follows:
+The Provost and the Student submit that, in all the circumstances of the case, the
+University Tribunal should impose the following sanctions on the Student:
+(a) A final grade of zero in ECE286H1: Probability and Statistics;
+(b) A suspension from the University for a period of 3 years commencing on September 1,
+2023; and
+(c) A notation of the offence on the Student’s academic record and transcript for a period
+of 4 years from the date of the University Tribunal’s order.
+
+16. The JSP also indicated that the parties agree that this case shall be reported to the
+Provost for publication of a notice of the decision of the Tribunal and the sanction
+imposed, with the name of the Student withheld.
+17. In the Agreed Statement of Facts on Penalty and JSP, the Student acknowledged that
+the Provost had advised him of his right to obtain legal counsel and that the Student had
+obtained that advice or waived his right to obtain that advice.
+18. The Student also acknowledged that he was signing the JSP freely and voluntarily,
+knowing of the potential consequences he faced and knowing that the University Tribunal
+was not bound by the JSP and had the discretion to impose and/or recommend a different
+sanction, including one that is more severe than what the JSP recommends.
+19. When a JSP is filed, as here, the Tribunal is not bound to follow it when determining
+the sanction in the case before it. However, the case law is clear that a JSP should be
+disregarded by the Tribunal only where giving effect to the sanction would be contrary to
+the public interest or would bring the administration of justice into disrepute (see, e.g.,
+University of Toronto and Y.W. (Case No. 1155, July 26, 2021), University of Toronto and
+P.H.Q. (Case No. 982, May 8, 2019), and S.F. and The University of Toronto (Case No.
+690, October 20, 2014)).
+20. In the circumstances of this case, for the reasons outlined below, the Tribunal had no
+concern that proceeding in accordance with the JSP would be contrary to the public
+interest or bring the administration of justice into disrepute.
+
+14
+
+21. The Tribunal considered the principles and factors relevant to sanction as articulated
+in University of Toronto and Mr. C. (Case No. 1976/77-3, November 5, 1976). The Tribunal
+determined that these factors supported the imposition of the JSP. In this regard, the
+Tribunal observed the following:
+a. The nature of the offence: The Student’s offences are clearly serious in nature.
+He knowingly obtained unauthorized assistance from, and provided unauthorized
+assistance to, several other students on two separate occasions. He invited other
+students to join a Google Doc in which they could share answers to the Exam. He
+repeatedly told other students to not say anything about the Exam allegations to
+the Dean’s office. The Student’s provision and receipt of unauthorized assistance
+was pre-mediated, deliberate, and extensive.
+b. The detriment to the University occasioned by the offence: The harm caused to
+the University by these offences is extremely significant. This type of conduct
+undermines the process of academic evaluation at the University. It damages the
+University’s reputation. It erodes trust between the University and its students,
+between prospective employers and the University and its students, and between
+other academic institutions and the University and its students.
+c. The need to deter others from committing a similar offence: There is a strong
+need to deter others from providing or receiving unauthorized assistance during
+exams, and from pressuring others to not say anything about alleged academic
+misconduct during meetings with University administrators, for many of the
+reasons noted above. This type of offence poses a grave threat to the integrity of
+the University, is profoundly unfair to other students, and jeopardizes the
+University’s reputation. It also undermines the ability of the University to investigate
+and handle these matters at the departmental level and with the cooperation of
+students.
+d. The likelihood of a repetition of the offence: There is a clear likelihood of
+repetition of these offences. Indeed, the Student had a prior offence in fall 2020,
+involving a midterm examination in which he received unauthorized assistance
+from and provided unauthorized assistance to two other students, both of whom
+were involved in the matters at issue in this hearing. That case resulted in the
+Student receiving a final grade of zero on the midterm and receiving a formal
+warning. Just months later, the Student committed the offences at issue in this
+matter, in March 2021 and then again in April 2021.
+
+15
+
+e. The character of the Student, extenuating circumstances: At the same time, the
+Tribunal acknowledges that the Student showed insight into and remorse for his
+actions. The Student was experiencing attention deficit hyperactivity disorder, and
+pandemic-related anxiety and depression, at the time of the offences. He is now
+seeking medical treatment for those health concerns. The fact that he has sought
+and continues to receive medical treatment demonstrates that he acknowledges
+the seriousness of his situation and is attempting to address it. The Student has
+also acknowledged that these health issues do not excuse his behaviour.
+Additionally, while the Student was not initially responsive to efforts by the
+University to communicate with him about the offences, he did eventually
+participate in the process and attended the hearing (until he lost connectivity and
+asked that the hearing continue without him, as discussed above). He has also
+apologized for committing the academic offences. These are extenuating
+circumstances and are considerations that reflect positively on the character of the
+Student.
+22. The Tribunal was satisfied that these various factors were appropriately reflected in
+the Joint Submission on Penalty.
+23. In support of the sanction recommendation contained in the JSP, the Tribunal was
+directed by counsel for the University to prior decisions of the Tribunal in which students
+who had received and/or provided unauthorized aid were suspended for similar time
+periods to the one proposed in the JSP here. Many of these cases involved students who
+had committed prior academic offences and who participated in the disciplinary process
+through an Agreed Statement of Facts and JSP, like the Student here. In several of those
+cases, the students received 3-year suspensions, like the one contained in the Joint
+Submission on Penalty here (University of Toronto and A.G. (Case No. 935, August 21,
+2018); University of Toronto and S-H.K. (Case No. 732, March 11, 2014); and University
+of Toronto and S.S. (Case No. 1219, December 9, 2021)). In others, the students received
+slightly longer suspensions of 3 years and 8 months (University of Toronto and M.T. (Case
+No. 1391, December 16, 2022)) or 4 years (University of Toronto and J.G. (Case No. 753,
+April 10, 2014); University of Toronto and K.P. (Case No. 660, June 8, 2011); and
+University of Toronto and M.B. (Case No. 978, May 27, 2019)). In the cases in which the
+suspension was for 3 years, there was generally evidence of mitigating factors, such as
+health issues on the part of the student. In the cases in which the suspension was 4 years,
+there was generally no such evidence.
+24. The Tribunal determined that the JSP proposed here fell within the well-defined range
+of penalties established by the jurisprudence for cases like this one.
+
+16
+
+25. The Tribunal also determined that, in all of the circumstances, the appropriate penalty
+was the one submitted by the parties in the JSP.
+V.
+
+Order
+
+26. At the conclusion of the hearing, the Tribunal made the following order:
+THAT the Student is guilty of the following academic offences:
+(a)
+
+two counts of knowingly obtaining unauthorized assistance, contrary to
+section B.I.1(b) of the Code;
+
+(b)
+
+two counts of knowingly aiding and assisting other students, contrary to
+sections B.I.1.(b) and B.II.1(a) of the Code; and
+
+(c)
+
+one count of knowingly engaging in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.3(b) of the Code.
+
+THAT the following sanctions shall be imposed on the Student:
+(d)
+
+a final grade of zero in ECE286H1: Probability and Statistics;
+
+(e)
+
+a suspension from the University for a period of 3 years commencing on
+September 1, 2023; and
+
+(f)
+
+a notation of the offence on the Student’s academic record and transcript
+for a period of 4 years from the date of the University Tribunal’s order.
+
+THAT this case shall be reported to the Provost for publication of a notice of the
+decision of the University Tribunal and the sanctions imposed, with the name of
+the student withheld.
+
+Dated at Toronto, this 15th day of April, 2024
+
+Original signed by:
+___________________________________
+Ira Parghi, Chair
+On behalf of the Panel
+17
+
+

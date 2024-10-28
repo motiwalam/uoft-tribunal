@@ -1,0 +1,354 @@
+Case No.: 1068
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic misconduct filed on March 5, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and Y
+
+M (The “Student”)
+
+REASONS FOR DECISION
+Hearing Date: June 11, 2020
+Panel Members:
+Ms. Michelle S. Henry, Chair
+Professor Ernest Lam, Faculty Panel Member
+Ms. Elizabeth Frangos, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Hearings Secretary, Office of the Appeals, Discipline and Faculty
+Grievances, University of Toronto
+Not in Attendance:
+The Student
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on June 11, 2020, to
+consider charges of academic dishonesty brought by the University against the Student,
+under the Code of Behaviour on Academic Matters, 1995 (the “Code”). The Student was
+informed of the charges by letter dated March 5, 2020, from Professor Heather Boon, ViceProvost, Faculty & Academic Life.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+2. The hearing was scheduled to commence at 1:45 p.m. The Tribunal waited until 2:00 p.m.
+before commencing the hearing. The Student did not appear at the hearing.
+3. Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act
+and the party does not attend at the hearing, the Tribunal may proceed in the absence of the
+party, and the party is not entitled to any further notice in the proceeding. In this case, the
+University requested that the Tribunal proceed with the hearing in the absence of the
+Student.
+4. Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including by: sending a copy of the document by courier to the Student’s mailing address
+contained in the Repository of Student Information (“ROSI”); or emailing a copy of the
+document to the student’s email address contained in ROSI.
+5. The University’s Policy on Official Correspondence with Students expressly states that
+students are responsible for maintaining on ROSI a current and valid postal address and a
+University-issued email account. The Policy also makes it clear that students are expected
+to monitor and retrieve their mail, including electronic messaging account(s) issued to them
+by the University, on a frequent and consistent basis.
+6. Counsel for the Provost filed three Affidavits regarding the service on the Student. The
+Affidavit of Nusaiba Khan, sworn on June 3, 2020 (“Khan Affidavit”). The Khan Affidavit
+confirmed that, on March 5, 2020, Ms. Khan served the Student with the letter regarding
+the charges that were filed against her, together with copies of the charges, the Code of
+Behaviour on Academic Matters, the Rules of Practice and Procedure and a pamphlet for
+Downtown Legal Services. She served also the Student with these documents by e-mail to
+the email addresses the Student had provided to the University Repository of Student
+Information (“ROSI”).
+7. The Counsel for the Provost filed the Affidavit of Kimberly Blake, legal assistant at Paliare
+Roland Rosenberg Rothstein LLP, sworn on June 4, 2020. The evidence of Ms. Blake was
+as follows:
+2
+
+a.
+
+On March 5, 2020, the Office of the Vice-Provost, Faculty and Academic Life
+served the charges in this matter on the Student by email to
+@mail.utoronto.ca, which is the email address that the Student had
+provided in ROSI.
+
+b. On
+
+March 9, 2020, Ms. Lie sent an email to the Student at
+@mail.utoronto.ca to introduce herself. Ms. Lie advised that important
+documents and correspondence would be sent to the Student’s utoronto email
+address.
+
+c. On March 26, 2020, Ms. Lie sent the Student a letter and disclosure brief relating
+to this matter, as well as another copy of the charges and a copy of the University’s
+Policy on Official Correspondence with Students. Ms. Lie sent these documents to
+the Student by email at
+@mail.utoronto.ca.
+d. On April 30, May 5 and May 13, 2020, Ms. Lie sent emails to the Student at
+@mail.utoronto.ca regarding the scheduling of the hearing in this matter.
+e. On May 25 and June 1, 2020, Ms. Lie sent copies of the affidavits on which the
+University intended to rely at the hearing to the Student at
+@mail.utoronto.ca.
+f. Ms. Lie did not receive a “bounce back” message indicating that any of her emails
+could not be delivered. The Student did not respond to any of her emails.
+g. On June 1, 2 and 3, 2020, Ms. Blake tried calling the Student, at different times of
+the day (i.e., in the morning, afternoon and evening), at 437981-0916, which is the
+phone number that the Student had provided in ROSI. Each time she tried calling
+her on her landline, she received a busy signal. There was no opportunity to leave
+a voicemail message. When she tried to call the Student’s number on her cell phone,
+the call did not connect and her phone indicated that the “call failed”.
+h. On March 26, 2019, the Office of the Registrar and Student Services, Daniels
+Faculty, sent the Student an email to schedule a meeting for March 28, 2019 to
+discuss the allegation of academic misconduct that is in issue in this proceeding.
+However, the Student was a “no show” at the meeting.
+i. The Student did not contact Ms. Lie’s office.
+8. The Counsel for the Provost also filed the Affidavit of Mike Wiseman, Associate Director,
+Strategic Initiatives, Information Security at the University, sworn on June 4, 2020
+(“Wiseman Affidavit”). The evidence of Mr. Wiseman was as follows:
+3
+
+a. Information Security provides many services to the University of Toronto,
+including management of the email accounts used by students. To access
+an email account one needs to input both the user’s login id and the
+password for that account. Data logs automatically record the last time
+someone accessed a particular university-issued email account.
+b. On June 3, 2020, at the request of Tina Lie, Assistant Discipline Counsel
+for the University of Toronto, Mr. Wiseman checked the data logs to
+determine the last time someone accessed the email account
+@mail.utoronto.ca. He determined that the last time someone
+accessed this e-mail account was on May 27, 2020 at 9:35 am.
+9. Based on the academic history on ROSI, the Student last enrolled in courses at the
+University in the Fall of 2019. As such, it does not appear that she was a student at the
+University in 2020, at the time the documents were sent to her. Having said that, based on
+the Wiseman Affidavit, she accessed her utoronto email account on May 27, 2020, and
+ought to have seen the Notice of Hearing and the various correspondence from Ms. Khan
+and Ms. Lie’s office.
+10. Having reviewed the evidence and heard the submissions of counsel for the Provost, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+accordance with the notice requirements set out in the Act and the Rules. The Panel is
+satisfied that she received the Notice of Hearing advising her that the hearing was
+scheduled for June 11, 2020. The University has proven that it provided reasonable notice
+of the hearing to the Student. Accordingly, the Tribunal proceeded to hear the case on its
+merits in the absence of the Student.
+THE CHARGES
+11. At all material times, the Student was a registered student at the University, registered in
+John H. Daniels Faculty of Architecture, Landscape and Design (“Daniels Faculty”).
+12. The University alleges that the Student, on or about November 19, 2018, the Student
+knowingly forged or in any other way altered or falsified a document or evidence required
+by the University of Toronto, or uttered, circulated or made use of such forged, altered or
+falsified document, namely a Verification of Student Illness or Injury form dated October
+29, 2018, which she submitted in support of her request for academic accommodation or
+relief in ARC100H1, contrary to Section B.I.1(a) of the Code.
+13. The University alleges that, in the alternative, on or about November 19, 2018, the Student
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in order to obtain academic credit or other
+4
+
+academic advantage of any kind, by submitting a forged, altered or falsified document,
+namely a Verification of Student Illness or Injury form dated October 29, 2018, in support
+of her request for academic accommodation or relief in ARC100H1, contrary to Section
+B.I.3(b) of the Code.
+14. The particulars of the charges were as follows:
+a. In the Fall of 2018, the Student enrolled in ARC100H1 (Drawing and
+Representation I) (the “Course”).
+b. Students in the Course were required to attend several Exercise Reviews. The
+Student were required to attend in class on November 1, 2018, for her Exercise 2
+Review, which was worth 20% of her final grade in the Course. However, she was
+absent from class on November 1, 2018.
+c. On November 19, 2018, she sent one of the Course instructors a Verification of
+Student Illness or Injury Form dated October 29, 2018, purportedly signed by Dr.
+S. Gnanabaskaran of Super Clinic (the "Medical Note"). She submitted the Medical
+Note to explain her absence from her Exercise 2 Review and to obtain academic
+accommodation or relief in the Course.
+d. The Medical Note was forged, altered or falsified. It was not prepared or signed by
+Dr. S. Gnanabaskaran on October 29, 2018.
+e. The Student knowingly submitted the forged, altered or falsified Medical Note:
+i. understanding that the University of Toronto required legitimate medical
+documentation and evidence to be presented in order to obtain the academic
+accommodation or relief she sought;
+ii. with the intention that the University of Toronto rely on the Medical Note
+in considering whether or not to provide her with the academic
+accommodation or relief she requested; and,
+iii. in an attempt to obtain academic credit and/or other academic advantage.
+THE EVIDENCE
+15. The Tribunal received the Affidavit evidence of Anne-Marie Armstrong, a sessional
+lecturer at the Daniels Faculty. Her evidence was as follows:
+16. In Fall 2018, she was one of the instructors for the Course. The Course consisted of studio
+time and lectures. Students were evaluated on a series of Exercise Reviews, which were
+5
+
+project presentations conducted during studio time. Exercise Reviews 1, 2 and 3 were each
+worth 20% and the final Exercise Review was worth 30% of students’ final grades in the
+Course. An additional 10% of students’ final grades was based on a Growth Factor, which
+assessed students’ participation in class.
+17. Attendance in studio, lectures and Exercises Reviews was mandatory. Students were told
+that if they missed class as a result of illness, they were required to submit a Verification
+of Student Illness or Injury Form completed by a doctor. The course syllabus stated on
+page 5:
+Attendance and participation during the entire scheduled class time for both
+studio and lecture courses is mandatory. It is not enough to simply show up
+for a class. Students must be engage in questioning and discussing the work of
+the class. All students must participate in final studio reviews. The studio grade
+includes a growth factor/participation through the various studio projects and
+involvement in the studio. Unless previously discussed with instructor or
+cleared with a doctor’s note, lateness of more than 10 minutes to studio
+will result in a 2% deduction from the student’s final grade.
+All reviews are mandatory. The dates will be communicated to the class. If
+you will have to miss class in order to observe a religious holiday, notify the
+instructor at the beginning of the term by email. In the event of an absence
+due to illness, injury, or emergency, please communicate with the instructor
+as soon as possible thereafter.
+18. The course syllabus further provided at page 6:
+LATE WORK:
+All assignments are due in class at the specified time and date. Late
+submission will result in a 5% deduction (of each assignment’s total grade)
+per day (excluding weekends). In the case of illness or other special
+circumstance, notification should be given to the instructors and the Registrar
+as soon as possible and before the deadline in question; where required, the
+official University of Toronto Verification of Student Illness or Injury form
+must be submitted. Additional information is available on the Verification of
+Illness
+or
+Injury
+is
+available
+online:
+http://www.illnessverification.utoronto.ca/Frequently-Asked-Questions.php
+19. The Student was enrolled in the Course in Fall 2018.
+
+6
+
+20. On October 18, 2018, the Student sent me an email advising that she was not able to attend
+class that day due to an illness. She wrote:
+My name is Y
+M and I’m in the ARC100 class, 0108. I have caught a flu
+recently and wasn’t able to concentrate on my studies. I had tried my best to
+study over the passed semester but unfortunately had an extremely bad
+headache that I wasn’t able to attend the class. I’m truly sorry about that and
+here is my written confirmation. Today I need to go to the clinic again for
+illness because sudden drop in temperature made the cold become worse.
+21. The Student attached a copy of a Verification of Student Illness or Injury form signed by
+Dr. S. Gnanabaskaran of Super Clinic on October 15, 2018 (the “October 15 Medical
+Note”).
+22. A copy of the Student’s email and the October 15 Medical Note was included as an exhibit.
+23. Since the Student provided the October 15 Medical Note, she was not penalized for her
+absence in class on October 18, 2018.
+24. On November 1, 2018, the Student missed her Exercise Review 2 (which was worth 20%
+of her final grade).
+25. By November 11, 2018, Ms. Armstrong had not heard from the Student about her absence
+from her Exercise Review 2. As a result, Ms. Armstrong sent the Student an email asking
+if she still had the flu, and if so, to submit the appropriate documentation. Since she did
+not receive a response to her email, Ms. Armstrong followed up with the Student on
+November 16, 2018.
+26. On November 19, 2018, the Student responded to Ms. Armstrong’s email. She wrote:
+I am so sorry to reply to you late, here is my doctor note on presentation day.
+We could discuss on Thursday, thanks.
+27. The Student’s email of November 19, 2018 attached a copy of a Verification of Illness or
+Injury form signed by Dr. S. Gnanabaskaran on October 29, 2018 (the “October 29 Medical
+Note”). A copy of my email exchange with the Student, together with the October 29
+Medical Note, was attached to Ms. Armstrong’s affidavit.
+28. Ms. Armstrong stated in her Affidavit that the October 29 Medical Note looked suspicious
+to her. As a result, she reported the issue to Andrea McGee of the Office of the Registrar
+and Student Service; at the Daniels Faculty. Someone in Ms. McGee’s office confirmed
+with the doctor that the October 29 Medical Note was forged.
+
+7
+
+29. On December 10, 2018, Ms. Armstrong met with the Student to discuss her absence for the
+Exercise Review 2 and the October 29, 2018 Medical Note. This matter was subsequently
+forwarded to the Office of the Dean.
+30. The Tribunal also received the Affidavit evidence of Dr. Gnanbaskaran, the family
+medicine doctor at the Super Clinic. Dr. Gnanbaskaran confirmed that on October 15,
+2018, he saw the Student as a patient in his office. Dr. Gnanbaskaran confirmed that during
+the October 15, 2018 visit, the Student asked him to fill out a University of Toronto form
+titled Verification of Student Illness or Injury. He filled out the form, signed and dated it.
+31. On February 12, 2020, Dr. Gnanbaskaran confirmed that the October 29, 2018 Medical
+Note was not signed by him. He confirmed that he did not see the Student on October 29,
+2018, and did not complete the October 29, 2018 Medical Note.
+
+DECISION OF THE TRIBUNAL ON CHARGES
+32. Having considered all the evidence heard during the hearing and the Affidavit evidence,
+the Tribunal found that the Student knowingly forged the Verification of Student Illness or
+Injury form dated October 29, 2018, which she submitted in support of her request for
+academic accommodation or relief in ARC100H1, contrary to Section B.I.1(a) of the Code.
+It was clear to the Panel that the October 29, 2018 Medical Note was the same October 15,
+2018 Medical Note, where the dates had been altered, copied and submitted to Ms.
+Armstrong.
+33. Consequently, the Tribunal finds that the Charge #1 (as outlined in paragraph 12) above
+had been proven with clear and convincing evidence on a balance of probabilities.
+Accordingly, the Tribunal entered a finding of guilty with respect to the Charge.
+PENALTY
+34. The University sought the following penalties:
+a. a final grade of zero in the course ARC100H1;
+b. a suspension from the University of Toronto from the date of this order for a period
+of two years; and
+c. a notation of the sanction on her academic record and transcript from the date of
+this order for a period of three years; and
+
+8
+
+d. that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+35. The Provost called no further evidence.
+DECISION OF THE TRIBUNAL ON PENALTY
+36. The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and C. (File No. 1976/77-3; dated November 5,
+1976).
+a. The character of the Student. As the Student did not participate in the
+proceeding, there was no evidence before the Tribunal regarding the Student’s
+character other than the facts relating to this offence and the lack of response from
+the Student.
+b. The likelihood of a repetition of the offence. The Student did not have a prior
+record of academic offences. However, given the Student’s failure to attend the
+meeting on March 28, 2019, or attend the hearing, the Panel was unable to make
+any findings regarding the likelihood of a repetition of this offence.
+c. The nature of the offence committed. The Panel took into consideration the
+serious and deliberate nature of the offences and the detriment to the University.
+Forgery is considered a serious offence, especially in these circumstances. Given
+the size of the University, and the fact that the University is unable to verify every
+single medical note submitted to Instructors, the University must be able to trust
+that the Students are submitting legitimate Verification of Student Illness or Injury
+forms and that requests for accommodate are legitimate.
+d. Any extenuating circumstances surrounding the commission of the offence.
+The Student did not participate in this hearing. Accordingly there is no evidence
+before the Tribunal of mitigating or extenuating circumstances.
+e. The detriment to the University occasioned by the offence. The Panel
+understood and accepted the University’s concerns that the Student’s conduct in
+forging medical notes implicated medical professionals, and undermined the
+integrity of those charged with providing those medical notes, as well as the
+University’s procedure for assessing and granting accommodations to its students.
+f. The need to deter others from committing a similar offence. General deterrence
+is an important factor in these cases. The Panel accepts that the University and the
+9
+
+Tribunal must send a strong message to other students that such misconduct is
+considered a serious offence. .
+37. As established in University of Toronto and Mr. C, supra and other cases to follow, the
+determination of an appropriate penalty in every case by the Tribunal will depend on an
+assessment of these principles and factors in the individual circumstances of the case.
+However, the Discipline Appeals Board has stressed the importance of a general
+consistency in the approach of Tribunals to sanction, so that the students are treated fairly
+and equitably.
+38. Having regard to the cases, the submissions of the University, and the relevant factors
+outlined above, the Panel agrees that the recommended sanctions are appropriate.
+39. At the conclusion of the hearing, the Panel made the following Order:
+a. The Student is guilty of one count of knowingly forging or in any other way altering
+or falsifying a document or evidence required by the University of Toronto, or
+uttering, circulating or making use of such forged, altered or falsified document,
+contrary to section B.I.1.(a) of the Code.
+b. The following sanctions shall be imposed on the Student:
+i. a final grade of zero in the course ARC100H1;
+ii. a suspension from the University of Toronto from the date of this order for
+a period of two years; and
+iii. a notation of the sanction on the Student’s academic record and transcript
+from the date of this order for a period of three years; and
+c. This case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+DATED at Toronto, June 23, 2020.
+
+_______________________________________
+Michelle S. Henry, Co-Chair
+10
+
+

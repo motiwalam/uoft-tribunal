@@ -1,0 +1,990 @@
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+TRIAL DIVISION
+IN THE MATTER OF charges of academic misconduct made on November 14, 20 11 ,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University ofToronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+BETWEEN:
+THE UNIVERS ITY OF TORONTO
+-AND -
+
+REASONS FOR DECISION
+
+Hearing Dates: May 22, 2012, June 5, 2012, June 7, 2012, and June 18, 2012
+Membe1·s of the Panel:
+Mr. John A. Keefe, Lawyer, Barrister and Solicitor, Chair
+Professor Gabriel D'Eleuterio, Faculty of Applied Science and Engineering, Faculty Panel
+Member
+Ms. Vy Nguyen, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel for the University, Paliare Roland Barristers
+Ms. Sierra Robart, Legal Case Worker for the Student, Downtown Legal Services
+Mr. Ab Gehani, Manager of Client Services at the University's Help Desk
+Dr. Sheryl Stevenson, Writing Specialist at the Scarborough and St. George campuses
+Mr. Kevin Lo, Managing Director, Digital Forensics and Electronic Discoveries at Froese
+Forensics
+
+In Attendance:
+Ms. ~ ~' the Student
+Professor Eleanor Irwin, Dean's Designate, Office of the Dean and Vice Principal
+Ms. Betty-Ann Campbell, Law Clerk, Paliare Roland Barristers
+Ms. Natalie Ramtahal, Coordinator, Appeals, Discipline and Faculty Grievances
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+
+REASONS FOR DECISION
+
+1.
+
+The Trial Division of the University Tribunal was initially convened on May 22, 20 12, to
+
+consider charges under the University of Toronto Code of Behaviour on Academic Matters, 1995
+(the "Code") laid against Ms. ~ ~ (the "Student") by letter dated November 14,
+2011.
+2.
+
+The hearing proceeded as a contested hearing. It continued on June 5, 7 and 18, 2012 in
+
+circumstances that will be described further in these Reasons.
+T HE CHARGES
+
+3.
+
+The notice of hearing was dated May 2, 2012.
+
+4.
+
+The charges against the Student are as follows.
+
+1.
+In or about April, 2011, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in an essay entitled "Key
+emerging issues in recent Canadian health care reforms" (the "Essay") that you
+submitted for academic credit in HLTC03H3 - The Politics of Canadian Health
+Policy (the "Course"), contrary to section B.I. l (d) of the Code.
+2.
+In the alternative, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any
+kind in connection with the Essay you submitted for academic credit in the
+Course, contrary to section B.I.3.(b) of the Code.
+5.
+
+The pa1ticulars of the charges are as follows:
+3.
+At all material times, you were a registered student at the University of
+Toronto. Jn Winter 2011, you emolled in the Course, which was taught by
+Professor Bryant.
+4.
+Students in the Course were required to submit an essay on March 31 ,
+2011 which was wo1th 20% of the final grade in the Course ("Course
+Requirement").
+5.
+On or about March 31, 2011 and on April 2, 2011, you submitted the
+Essay in completion of the Course Requirement, and to obtain academic credit in
+the Course.
+
+..,
+
+- .) 6.
+In your Essay you knowingly purchased all or a substantial part of the
+Essay, and/or you copied the work of another person, and in so doing you:
+a.
+
+represented the work of another as your own work; and
+
+b.
+
+included in the Essay ideas, and expressions of ideas, that were not
+your own, but were the ideas and expressions of others, which you
+did not acknowledge in the Essay.
+
+7.
+For the purposes of obtaining academic credit and/or other academic
+advantage, you knowingly committed p lagiarism in the Essay.
+THE HEARING AND THE BACKGROUN D FACTS
+
+6.
+
+At the outset of the hearing, Counsel for the University submitted a Joint Book of
+
+Documents (Exhibit 1). The University called as its witnesses Professor Toba Bryant, Professor
+Irwin, the Dean 's Designate, and Betty-Ann Campbell, a Law Clerk employed by Paliare Roland
+Rosenberg Rothstein LLP ("Paliare Roland"). Ms. Campbell also submitted an affidavit sworn
+May 18, 2012 with exhibits (Exhibit 2).
+
+7.
+
+The facts as set out in the documents and the evidence presented at the hearing are
+
+summarized in the following paragraphs.
+
+8.
+
+The Student, Ms. ~
+
+' is a student at the University of Toronto, Scarborough campus.
+
+She had been attending the University of Toronto since 2007. At the time of the hearing, she had
+completed all of the course requirements to graduate, su~ject to the course in question.
+
+9.
+
+The course in question is HLTC03H3 . - Politics of Canadian Health Policy. The Student
+
+enrolled in this course in the Winter/Spring 2011 term. Professor Toba Bryant was the professor.
+The cou rse outline described the course requirements, which included a number of short term
+papers which were due on February 3, February 17, March 10, and March 24, 201 1. At some
+point during the course, Professor Bryant, with the consensus of the students, decided to drop the
+final short paper and changed the due date of the third paper from March 10, 2011 to March 31 ,
+201 1.
+10.
+
+The course outline described in some detail the University's requirements with respect to
+
+plagiarism. The students were told that the te1m papers were to be submitted to an Internet site
+called Turnitin.com at the same time as each assignment was due.
+
+The Turnitin.com site
+
+-4-
+
+electronically compares the papers submitted in the course to other materials published in one
+fonn or another on the Internet.
+11.
+
+On March 31, 2011, just after the deadline for submitting the assignment, the Student
+
+submitted to Professor Bryant a paper titled "Key Emerging Issues in Recent Canadian
+Healthcare Reforms". The date on the paper is March 3, 20 l l, but it is undisputed that it was
+submitted on March 31, 2011. The paper contained three full pages of text plus a fourth page of
+references. The Student submitted the term paper at the same time to Tumitin.com.
+12.
+
+Shortly after the paper was submitted, Professor Bryant received an originality report
+
+from Turnitin.com, indicating that there was a similarity index of 81 %, meaning that 81 % of the
+words contained in Ms. ~
+
+s paper matched a student paper submitted on April 1, 2011 by
+
+another student in another course at York University. The student paper submitted at York
+University was submitted in a course titled "Social Determinants of Health" taught by Professor
+Dennis Raphael.
+
+It was a ten page paper with two pages of references.
+
+By coincidence,
+
+Professor Bryant and Professor Raphael are spouses.
+13.
+
+It is very clear from the Tumitin.com originality report and from an examination of the
+
+paper submitted by Ms. ~ together with the student paper submitted to York University, that
+many of the words and expressions contained in Ms. ~
+
+'s paper are virtually identical to the
+
+words and expressions contained in the York University paper. There are even identical
+typographical errors in both papers.
+14.
+
+In addition to the body of the paper, the reference section of Ms. ~
+
+virtually identical to that contained in the York University paper, although Ms. I~
+
+s paper is
+'s paper
+
+did not include a reference to the textbook written by Professor D. Raphael. Significantly, both
+references pages contain an incorrect and odd expression "top of form/botto m of form" in the
+middle of the reference page.
+15.
+
+At page 3 of Ms. ~
+
+British spelling.
+University paper.
+
+s paper, the spelling of "programme" and "modelled" used
+
+The same words with the same spelling appear on page 9 of the York
+
+-516.
+
+In the paper submitted by Ms. ~
+
+' the closing words are: "But at the risk of making
+
+an overly optimistic reference, the glass in Canada is half-full, not empty." Similar words appear
+in the York University paper: "It may be that the glass in Canada is half-full, not half-empty."
+17.
+
+Various other parts of Ms. ~
+
+of the documents it appears that Ms. ~
+
+' s paper were examined by the Tribunal and on the face
+'s paper was lifted from the paper submitted to York
+
+Universi ty and was slightly modified before being submitted to Professor Bryant.
+18.
+
+Shortly after the paper was examined by Professor Bryant following receipt of the
+
+Turnitin .com report, the Student was referred to the Dean's Designate, Professor Irwi.n.
+MEETING WlTH DEAN'S DESIGNATE
+
+19.
+
+The first meeting with the Dean's Designate was on June 22, 2011. At this meeting the
+
+Student was confronted by Professor Irwin with the allegation that her essay was taken from the
+work of others. Janis Jones, from the Dean's office was present at the meeting taking notes.
+20.
+
+Ms. I~
+
+denied the allegation and maintained that the essay was her work. She
+
+volunteered that she had sent her essay electronically to a person named Bryan, but she said he
+did not have time to edit the paper so her mother edited it for her. Ms. ~ offered no good
+explanation for the similarities between her paper and the York University paper.
+21 .
+
+Al the meeting on June 22,2011, Ms. I~
+
+was invited to send to the Dean's Designate
+
+any material that she had used to prepare the paper that might corroborate her story. Following
+the meeting, Ms. I~
+from books that Ms. I~
+Ms. I~
+
+sent Janice Jones an e-mail with a number of large reports and excerpts
+said she had used in preparing her paper.
+
+She also sent what
+
+described as a draft of her paper and an outline that she said she used to prepare her
+
+paper.
+22.
+
+She met again with the Dean's Designate on July 6, 2011. At that meeting she told the
+
+Dean's Designate that the name of the person she described as Bryan was Bryan Davis, Davies
+or Davison. She gave the Dean's Designate his phone number. They called the number together
+and it was answered by an answering machine stating "you have reached Bryan".
+
+- 623.
+
+Ms. I~
+
+described Bryan to the Dean's Designate as someone she believed to be
+
+well-known to the University. She said that she had been having trouble with some of her essay
+writing and that she was looking for extra tutorial help on structuring the essay. She said that she
+sent the essay by email to Bryan but he did not do any work on it because he did not have time to
+help.
+24.
+
+A few days after the July meeting, Ms. ~ delivered to Janis Jones two pages of
+
+handwritten notes that she said were the materials she used to prepare her paper.
+
+These
+
+handwritten notes were not examined in any detail by Professor Irwin, Janis Jones or Professor
+Bryant at the time to see if they supported Ms. ~
+25.
+
+s story.
+
+On September 26, 2011 Professor Irwin notified Ms. ~ that she was sending the file
+
+to the Vice Provost to consider laying a charge of academic misconduct.
+26.
+
+Ms. ~ completed the remainder of the requirement in the course including the final
+
+examination.
+METADATA IN THE TERM PAPER IS EXAMINED IN DETAIL BY MS. CAMPBELL
+
+27.
+
+On November 14, 2011, the materials that had been forwarded by Ms. ~
+
+by e-mail to
+
+Ms. Jones on June 22, 2011 were forwarded to Ms. Campbell at Paliare Roland, the law firm
+representing the University.
+28.
+
+In Ms. ~
+
+•s e-mail of June 22, 2011 to Ms. Jones she stated that she was enclosing
+
+"the assignment and draft I created when doing the assignment".
+29.
+
+Two of the documents that were attached to Ms. K~
+
+Word format documents.
+
+s e-mail of June 22, 2011 were
+
+One had the heading "Hit c03 Assignment 2011.doc ("electronic
+
+essay"). The second document, also in Word format, was titled "draft of my paper (health
+
+studies).doc" ("electronic draft"). The electronic essay appeared to be identical to the paper
+submitted to Professor Bryant, except some words were added to the text of the paper stating
+"third short paper - due March 29, 2011 (Week 9)" and listed specific questions that had been
+raised by
+
+Professor Bryant.
+
+The reference page contained the unusual notation "top of
+
+form/bottom of form", but it had been slightly changed in the Word document compared to the
+form in the paper submitted to Professor Bryant.
+
+-7-
+
+30.
+
+Ms. ~ also sent what was titled an outline.
+
+31.
+
+Ms. Campbell testified that, after receiving the Word documents, she examined the
+
+metadata properties of these documents. The metadata properties were contained as Exhibit "E"
+to the Affidavit of Ms . Campbell and at Tabs 18 and 19 of the Joint Book of Documents. In the
+electronic essay document, in the field titled "author", the metadata describes "Bryan" as the
+author of the document and the company as "ZAS".
+32.
+
+Ms. Campbell testified that, based on her experience, the fact that the metadata properties
+
+of the Word document described the author as Bryan meant that the original of the paper was
+created on a computer that was owned or operated by Bryan and not by the Student. Ms.
+Campbell acknowledged that she is not an expert in computer forensics, but she did have
+experience examining metadata on Word documents.
+33.
+
+Ms. Campbell also testified that a person named Bryan Davies was known to the
+
+University as a result of another discipline proceeding at the University involving another
+student who admitted purchasing an essay from a person named Bryan Davies. In that other
+case, the University had obtained the metadata properties for the essay submitted by the Student
+that showed "Bryan" in the author field and "ZAS" in the company field.
+34.
+
+Ms. Campbell did other internet searches and found several references to Bryan Davies
+
+and his company described as ZAS. The phone number on the internet sites matched the phone
+number Ms. I~
+35.
+
+gave Professor Irwin for Bryan.
+
+Bryan Davies is a disbarred Ontario lawyer who, it appears, actively promotes his
+
+services in writing essays for students.
+36.
+
+The metadata on the Word documents fmther disclosed that the documents submitted to
+
+Janis Jones on June 22, 2011 were created on June 22, 2011 at 5:32 p.m., which is after the
+meeting with Professor Irwin, and that it was last saved by ~
+37.
+
+-
+
+Neither Professor Raphael nor the York University student were called as witnesses at the
+
+hearing. The only information provided to the Tribunal about the York University student was
+that the York University student received a failing mark because the paper was off topic.
+
+-838.
+
+Professor Irwin's evidence at the hearing was that Ms. ~ asked her if she could
+
+contact the student from York University, but Professor Irwin told her that she did not think that
+was a good idea. Neither Professor Irwin nor anyone from the University made any further
+attempts to contact the York University student or Bryan Davies.
+
+Ms. ~
+39.
+
+'s EVIDENCE AT THE HEARING
+Ms. I~
+
+testified at the hearing. Her evidence was that the words in the term paper
+
+were her own and that she did not copy her paper from the paper submitted to York University.
+She had no explanation for the fact that the same words appear in her paper and the paper
+submitted to York University. The only possible explanation she could offer was that her work
+must have been copied by the York University student, and not vice versa.
+40.
+
+She also attempted to explain the metadata on the documents showing Bryan as the
+
+author. She testified that she had taken a computer training course in Excel from this person,
+Bryan, almost a year earlier at a community centre. She said he helped her load her computer
+with a Microsoft Word program and that he must have set up her computer using his
+identification which would be embedded in her computer.
+THE HEARING CONTINUES ON JUNE 5, 2011
+
+41.
+
+The hearing commenced on the evening of May 22, 2012. The Student testified in-chief.
+
+It became apparent during her testimony that there would not be sufficient time to complete the
+hearing that evening. A new date was selected (over the objection of the Student) to permit the
+University to cross-examine the Student and to call reply evidence, if any.
+42.
+
+On June 5, 2011, the Tribunal reconvened for a full day of hearing.
+
+Ms. ~
+
+s
+
+evidence continued. During the course of her testimony in chief and in cross-examination, and
+in response to questions from the Tribunal, the Student's testimony was that:
+(a)
+
+She authored the paper. The paper was the result of her work.
+
+(b)
+
+She had no real explanation for the identical typographical errors appearing in
+both papers.
+
+-9(c)
+
+She suggested that the York University student must have taken her paper and
+incorporated it into the longer paper submitted to York University.
+
+(d)
+
+The reference page expression "top of form/bottom of form," was to indicate that
+the references that were above that line were more significant. She also said that
+she thought that this was the proper way to indicate a page break. She said she
+had based this formatting on a sample citation handout that she found at the
+University's writing centre, where she had sought assistance for her writing style
+and for this essay in particular.
+
+(e)
+
+She had taken a computer Excel spreadsheet training course from Bryan Davies
+approximately a year earlier at a community centre that offers support to recent
+immigrants. During this training, Bryan Davies offered to assist the students in
+copying Microsoft Word from his computer. Ms. ~ said that Bryan Davies
+installed Microsoft Word software on her computer and this could explain why
+the metadata showed Bryan as author.
+
+(t)
+
+She did not delete the email to Bryan Davies from her computer. She said it was
+automatically deleted which is the way the University's computer system works.
+
+(g)
+
+She fo rwarded a draft of her paper to Bryan Davies for editing, but he told her he
+did not have time to edit the paper. He did not send the paper back to her and he
+did not have any role in the preparation of her paper.
+
+(h)
+43.
+Ms. ~
+
+She did not pay Bryan Davies to write her paper.
+
+In Reply, the University called several witnesses to address various issues raised by
+. First, the University called a witness to rebut the evidence of Ms. ~ that she
+
+had not deleted the e-mail to Bryan, but that instead it had been automatically deleted from her
+computer through the University's computer system. The University called Mr. Ab Gehani, the
+Manager of Client Services at the University' s Help Desk.
+
+His evidence was that the
+
+University 's computer system does not have an automatic delete function.
+44.
+
+The University also called Dr. Sheryl Stevenson.
+
+She is a writing specialist at the
+
+Scarborough and St. George campuses. Her evidence was to address the formatting issue of "top
+
+- 10 of fo1m/bottom of form".
+
+Her evidence was that she is not familiar with anything m the
+
+University's citation systems that would make reference to "top of form/bottom of form".
+45.
+
+She did acknowledge that it is not uncommon for students to access different data bases
+
+supplied through the University's network of databases. It is open to the students to highlight
+citations and incorporate them into papers. In many cases the citations copied by students are
+not in accordance with the requirements of the University.
+46.
+Ms. I~
+
+Professor Irwin was also called in reply to confirn1 the portions of her notes where
+indicated that she had deleted the e-mail to Bryan Davies.
+
+THE STU DENT'S HANDWRITTEN NOTES -THE HEARING CONTINUES ON JUNE 7, 2012
+
+47.
+
+Near the conclusion of the hearing on June 5, 2012 and during the closing argument, the
+
+Tribunal pointed out to both parties that Ms. ~
+
+s handwritten notes that had been provided
+
+to Janis Jones may be of more significance to the Tribunal than either of the parties had
+suggested during the hearing. The notes appeared to contain references to some of the specific
+information and expressions of language that appeared in Ms. I~
+
+'s paper. For example,
+
+there are references in the notes to several of the authors referred to in the body of Ms. ~ s
+paper and in her reference page. The closing sentence of Ms. ~
+
+•s paper and the York
+
+University paper that contained the expression "half full/half empty" is scribbled in the margin of
+Ms. ~
+
+•s notes. Simply put, these notes seemed to corroborate, to some extent, Ms. ~
+
+s
+
+story that the paper was the result of her work. And yet there had only been passing reference to
+the handwritten notes during Ms. ~
+48.
+
+'s direct examination or cross-examination.
+
+The Panel invited the parties to consider whether they wished to reopen the evidence to
+
+specifically address the content of the notes in more detail.
+49.
+
+After some discussion, the parties agreed to re-open the evidence to address the notes.
+
+This required scheduling a further hearing date. We reconvened on June 7, 2012 in the evening.
+50.
+
+On June 7, 2012, Ms.
+
+KIii testified about her notes. She said that the notes were
+
+prepared by her in preparation for the paper. Her evidence concerning her notes was inconsistent
+and disjointed. She was confused about when she prepared the notes and she was very vague
+about the details contained in the notes.
+
+- 11 51.
+
+The University called Professor Bryant again as a witness on June 7, 2012.
+
+She
+
+acknowledged that she had not read the notes when the allegations originally arose. She also
+acknowledged that the notes appeared to support the Student's position that she used them in
+some way to prepare the paper, so the paper was the result of the Student's work.
+52.
+
+The T1ibunal provided the parties with a further opportunity to make submissions
+
+concerning the notes.
+53.
+
+Ms. Harmer asked the Tribunal to draw an adverse inference from the fact that the
+
+Student had not put forward the significance of the notes earlier. She suggested that the notes
+may have been fabricated by the Student and created after the June 22, 2012 meeting with
+Professor lrwin.
+54.
+
+Ms. Harmer acknowledged that, if the Panel found that the notes were not fabricated,
+
+they would support the Student's position that the paper was the result of her own work. Ms.
+Hanner acknowledged in closing that it would be impossible to tell with objective certainty what
+exactly happened and whether Mrs. I~
+
+s notes corroborate her version of events.
+
+Ms.
+
+Harmer did acknowledge that the notes do reflect some parallel with the paper and she conceded
+that they assisted the Student's case. Ms. Harmer indi cated that it is up to the Panel to weigh all
+the evidence and to indicate which facts are accepted and which are rejected.
+THE TIUBUNAL REQUESTS FURTHER EVIDENCE CONCERNING THE METADATA PROPERTIES
+
+ON THE DOCUMENTS SUBMITTED To THE UN IVERSITY
+
+55 .
+
+At the conclusion of the evidence and argument on June 7, 2012, the Tribunal was faced
+
+with a dilemma. After considering all the evidence and the arguments relating to the notes, the
+Tribunal concluded that the notes were not fabricated by the Student. The handwritten notes
+seemed to support the Student's evidence that she had real input into the content of the paper, but
+the Student's evidence concerning the notes and the preparation of the paper was disjointed and
+inconsistent. More importantly, there was no plausible explanation for the existence of "Bryan"
+on the metadata of the Word documents and her explanations for how it could have found its
+way onto the rnetadata were not plausible. The Tribunal advised the parties that it needed further
+expert assistance or technical advice as to how the reference to "Bryan" could have possibly
+found its way onto the metadata properties of Ms. ~
+
+'s Word document.
+
+- 12 56.
+
+In the course of the submissions of the parties to address this request, University Counsel
+
+asked for access to the Student's computer, which she said would be the best way to address this
+issue.
+
+After some deliberation, the parties advised the Tribunal that they had come to an
+
+agreement which would permit an expert to be retained by the University to examine her
+computer and to attend at a further resumed hearing to assist the Panel with respect to any
+questions the Tribunal may have concerning the evidence found on the Student's computer. The
+Student told the Tribunal that the computer was now owned by her mother, but that her Mother
+(who was in attendance throughout the hearing) would consent to having the computer examined
+by the expert, provided the examination was limited in scope to the issues raised in the hearing.
+The Tribunal made an interim order to the effect that the examination of the computer by the
+expert was to be limited to an examination of the computer and, specifically, to the exchanges
+between the Student and Bryan Davies concerning the subject matter of the Hearing.
+
+The
+
+Tribunal set Monday, June 18 th for the resumption of the hearing.
+57.
+
+During the week preceding June 18, 2012, the Tribunal received a request of the parties
+
+for directions from the Panel. The Tribunal convened a conference call. University counsel
+indicated that she had identified and retained an expert who was ready to perform the
+examination on the Student's computer within the timeframe set by the Tribunal. The Panel was
+advised that the Student's mother had changed her mind and was no longer prepared to turn over
+the computer to the University's expert.
+
+The Tribunal concluded that it could not force the
+
+Student's mother to turn over the computer for examination, but nonetheless it would like to
+have the expert examine the Word documents sent by the Student to Ms. Campbell and attend
+the hearing to address any questions the Tribunal may have concerning the metadata properties
+on the Word documents.
+58.
+
+The University retained Kevin Lo as the expert to assist the Tribunal.
+
+He is the
+
+Managing Director, Digital Forensics and Electronic Discoveries with Froese Forensics.
+
+He
+
+reviewed the electronic properties of the two Word documents that had been submitted by the
+Student on June 22, 2012. He did not examine the Student's computer. He acknowledged that
+an examination of the computer itself would be of more assistance than an examination of the
+Word documents. However, he was able to describe to the Tribunal the way in which metadata
+on a document is created. Based on his evidence, it was very clear to the Tribunal that the only
+
+- 13 -
+
+way the metadata on the Word document could show "Bryan" as the author and "ZAS" as the
+company would be if the document was created on Bryan's computer. Even if Bryan had loaded
+the Microsoft product on Ms. ~
+Ms. ~
+
+'s computer, the metadata on the documents created on
+
+'s computer would not show " Bryan" as the author.
+
+In simple terms, the Word
+
+documents had to have been created on Bryan's computer, not on Ms. ~
+
+s computer.
+
+CONCLUSION ON THE EVIDENCE
+
+59.
+
+The Tribunal was faced with considerable evidence, some of which was confusing and
+
+contradictory. We considered all the evidence and weighed it all in its totality and we have
+drawn inferences based on common sense from the evidence. We have seen the witnesses and
+assessed the credibility and weight of their evidence.
+60.
+
+Based on a careful examination of all the evidence, including the testimony of Ms. ~
+
+and examination of her notes and the evidence relating to the metadata on the Word documents
+submitted by her, the Tribunal concludes that there is a clear and convincing evidence that the
+paper submitted by Ms. ~ was prepared, at least in part, by Bryan Davies and submitted by
+Ms. ~ as her work only.
+61.
+
+The Tribunal concludes that Ms . ~ prepared the notes during the lectures and the
+
+tutorials and put some thought into the content of the essay. The notes were prepared by Ms.
+~ and they show that she had real input into the ideas and content of the essay.
+
+The
+
+Tribunal concludes that she took her notes and gave them to Bryan Davies who took the words
+and ideas from her notes and put them into the essay fonn that was submitted by Ms. ~ to
+the University as her own work. Bryan Davies helped Ms. ~ to express her ideas into
+words.
+
+However, she represented the paper as her own work which is a violation of the
+
+plagiarism provisions contained in Section B(I)( I)(d) of the Code.
+62.
+
+The Tribunal is not convinced based on all the evidence that Ms. ~ purchased the
+
+paper from Bryan Davies.
+63.
+
+Accordingly, the Tribunal concludes that the Student is guilty on count one. Based on
+
+this finding, the University withdrew count two.
+
+- 14 PENALTY
+
+64.
+
+University Counsel submitted that the appropriate penalty, in the circumstances, based on
+
+our finding was as follows:
+(a)
+
+a mark of zero in the course;
+
+(b)
+
+a two-year suspension commencing immediately;
+
+(c)
+
+notation on the Student's record for period of three years or until her graduation
+from the University, whichever is earlier;
+
+(d)
+
+that the case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and a sanction imposed with the name of the student withheld.
+
+65.
+
+Counsel for the Student indicated that she was in general agreement with the proposed
+
+penalty, but submitted that the date for the commencement of the suspension should be the date
+of the offence (March 31, 2011), or, alternatively, the date the Notice of Hearing (November 14,
+2011).
+66.
+
+Based on a number of University Tribunal decisions, including decisions of the Appeal
+
+Tribunal, the Tribunal concludes that it is not appropriate to back date the commencement of the
+suspension unless it is in close proximity to the date of the hearing. In this case, the hearing
+commenced on May 22, 2012.
+
+Although the hearing was concluded on June 18, 2012, we
+
+believe that it is reasonable in the circumstances that the commencement of the suspension be
+close in proximity to May 22, 2012. The Tribunal noted that this is close to the commencement
+date for the summer term. Accordingly, the Tribunal concluded that it is appropriate for the
+suspension to commence on a date that would permit the Student to enrol in the summer term of
+2014.
+
+This does not offend the basic principles against backdating the commencement of
+
+suspensions while allowing the Student to resume her academic career two years from the
+beginning of the hearing which was May 22, 2012.
+
+Accordingly, we have backdated the
+
+commencement of the suspension to May 1, 2012. Similarly, the notation on her transcript will
+expire on May 1, 2015 or until her graduation, whichever is earlier.
+
+- 15 GENERAL PRINCIPLES OF SENTENCING
+
+67.
+
+The decision in the matter of Mr. C (File: 1976/77; November 5, 1976) is the leading
+
+decision of the University Tribunal with respect to the general principles of sentencing. It is
+often refened to in University Tribunal cases. It sets out the following sentencing criteria:
+
+68.
+
+(a)
+
+the character of the person charged;
+
+(b)
+
+the likelihood of a repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the offence;
+
+(e)
+
+the detriment to the University occasioned by the offence; and
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+The Tribunal also believes that there should be some measure of uniformity or
+
+proportionality in the sentencing process so that similar sentences are imposed for offences
+committed in similar circumstances. There should not be rigid rules or formulas applied in the
+sentencing process.
+69.
+
+Applying these principles to the current case, the Tribunal notes, in particular, that it did
+
+not make a finding that the Student purchased the essay.
+
+Had we done so, based on other
+
+University Tribunal cases involving the purchasing of essays, the penalty would have been far .
+//
+
+more severe.
+70.
+
+University Counsel referred the Tribunal to several University Tribunal cases involving
+
+first offenders found guilty of plagiarism. It is quite common for a first offender to receive a
+penalty of a two-year suspension. A two-year suspension is a serious sanction and it sends a
+strong message that is consistent with the principles of general deterrence.
+71.
+
+In this case, the Tribunal noted that the Student completed all of her courses necessary to
+
+graduate, with this proceeding being the only impediment to her graduation.
+
+The Tribunal
+
+concluded that, in the circumstances, there is little likelihood of repetition of the offence.
+
+/----•
+
+- 16 72.
+
+There are no particular extenuating circumstances. The only extenuating circumstance is
+
+the Student's own naivete which allowed her to fall into the hands of Bryan Davies, who has a
+history of preying on students and offering them assistance when they are faced with pressure to
+complete their course requirements.
+
+The Student did not attempt to hide the fact of Bryan
+
+Davies ' involvement. In fact, she believed that the University would recognize that he was a
+person known to the University as someone who assists students in editing and other essaywriting skills. While the Tribunal did not accept all of M s.
+
+Kllllll's testimony, it did accept the
+
+fact that her notes showed that she had real involvement and input into the content of the paper.
+
+73.
+
+We believe that the penalty recommended by the University strikes the appropriate
+
+balance between protecting the integrity of the University, while, at the same time, avoiding a
+penalty that unduly punishes the Student, by making it impossible for her to graduate within a
+reasonable Lime .
+74.
+
+The Tribunal notes that plagiarism is a serious breach of the University 's Code of
+
+Behaviour. Because of dramatic changes in technology and the ability of the students to access
+materials on the Internet, the University must send a clear m essage that obtaining inappropriate
+assistance in the preparation of course work and representing the work as their own is contrary to
+the University's basic principles of honesty and integrity. Sanctions im posed by the University
+Tribunal must reflect the seriousness of the offence and provide general deterrence while
+recognizing that the sentencing process must also preserve and ensure fairness by avoiding
+disproportionate sentences and inconsistencies in like offences and like offenders. We believe
+that the sanction recommended by University Counsel meets these principles and provides an
+appropriate balance.
+C ONCLUSION
+
+75.
+
+Accordingly, we make the fo llowing order:
+(i)
+
+that Ms . I~
+
+is found guilty on one count of plagiarism , contrary to
+
+Section B(I)(l)(d) of the Code of Behaviour on Academic Matters;
+(ii)
+
+that Ms. ~ receives a final grade of zero in HLTC03H3 ;
+
+- 17 -
+
+(iii)
+
+that Ms. I~
+
+be suspended from the University for the period of two
+
+years commencing on May l , 2012;
+(iv)
+
+that the sanction be recorded on Ms. ~
+
+'s academic record for the
+
+period of three years until May 1, 2015 or her graduation from the
+University, whichever is earlier;
+(v)
+
+that this case be reported to the Provost for publication of a notice of
+decision of the Tribunal and the sanctions imposed, with the name of the
+student withheld.
+
+Dated at Toronto, this
+
+--.,",
+
+, ,
+
+\6129284
+
+.
+
+?,O<lf,October 201 2
+
+JI
+
+( u?. / I
+
+

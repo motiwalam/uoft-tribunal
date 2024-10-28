@@ -1,0 +1,251 @@
+Case No.: 1208
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on May 26, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and A
+
+S
+
+REASONS FOR DECISION
+
+Hearing Dates: June 15, 2022, and July 22, 2022, via Zoom
+Panel Members:
+Ms. Michelle S. Henry, Chair
+Professor George Cree, Faculty Panel Member
+Ms. Samantha Chang, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Ahmed Elahi, Articling Student, Paliare Roland Rosenberg Rothstein LLP
+Ms. Carla Luna, Clerk, Paliare Roland Rosenberg Rothstein LLP
+Mr. Justin Nathens, Student Representative, Downtown Legal Services (attended on July 22, 2022,
+only)
+Ms. A
+S
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk and Hearing Secretary, Office of Appeals, Discipline
+and Faculty Grievances (June 15, 2022)
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances (July 22, 2022)
+
+BACKGROUND
+1. A Hearing of the Trial Division of the University Tribunal convened on June 15, 2022, to
+consider charges of academic dishonesty brought by the University against the Student,
+under the Code of Behaviour on Academic Matters, 1995 (the “Code”). The Student was
+informed of the charges by letter dated May 26, 2021, from Professor Heather Boon, ViceProvost, Faculty & Academic Life.
+2. The June 15, 2022 hearing was adjourned during the penalty phase, as the self-represented
+Student no longer agreed with the Joint Submission on Penalty (“JSP”). On July 22, 2022,
+a continuation hearing took place. The Student was represented by Downtown Legal
+Services.
+
+THE CHARGES
+3. At all material times, the Student was a registered student in the Faculty of Arts & Science
+at the University of Toronto. The University alleges that the Student engaged in the
+following offences:
+i.
+
+On or about April 4, 2020, the Student knowingly represented as her own an idea
+or expression of an idea or work of another in an essay titled “What caused the Iran
+Iraq War?” (“Essay”) that she submitted in HIS103Y1Y - Statecraft and Strategy:
+An Introduction to the History of International Relations (“Course”), contrary to
+section B.I.1(d) of the Code.
+
+ii.
+
+On or about April 4, 2020, the Student knowingly submitted academic work
+containing a purported statement of fact or reference to a source which has been
+concocted in her Essay that she submitted in the Course, contrary to section B.I.1(f)
+of the Code.
+
+iii.
+
+In addition and in the alternative to charges 1 and 2, the Student knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+
+credit or other academic advantage of any kind in connection with your Essay,
+contrary to section B.I.3(b) of the Code.
+iv.
+
+On or about April 22, 2020, the Student knowingly represented as her own an idea
+or expression of an idea or work of another in an essay titled “What caused the Iran
+Iraq War?” (“Revised Essay”) that she submitted in the Course, contrary to section
+B.I.1(d) of the Code.
+
+v.
+
+On or about April 22, 2020, the Student knowingly submitted academic work
+containing a purported statement of fact or reference to a source which has been
+concocted in her Revised Essay that she submitted in the Course, contrary to section
+B.I.1(f) of the Code.
+
+vi.
+
+On or about April 22, 2020, the Student knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with her Revised Essay, contrary to section
+B.I.3(b) of the Code.
+
+AGREED STATEMENT OF FACTS
+4. The Hearing proceeded based on an Agreed Statement of Facts (“ASF”). The Panel also
+received a Joint Book of Documents (“JBD”) that is referred to in the ASF. The following
+is an abridged version of the ASF.
+5. The Student registered as a student at the University of Toronto, Faculty of Arts & Science
+in Fall 2020. As of June 6, 2022, the Student had earned 4.0 credits with a Cumulative
+GPA of 1.01. The Student was suspended for one year from the end of the 2021 Winter
+term as a result of her low CGPA.
+6. In Fall 2019 and Winter 2020, the Student enrolled in HIS103Y1Y - Statecraft and
+Strategy: An Introduction to the History of International Relations (the “Course”), a full
+year course taught by Professor Vasilis Dimitriadis and Professor Timothy Sayle.
+
+7. The Course syllabus included a section on “Plagiarism and Academic Integrity.” This
+section stressed the importance of avoiding plagiarism on written assignments and directed
+students to the Code for definitions of conduct that constituted academic dishonesty. The
+Course syllabus also informed students that they were expected to submit written
+assignments to Turnitin.com for review of textual similarity and detection of possible
+plagiarism.
+8. Students in the Course were required to submit a 7-page paper for 25% of their grade in
+the Course. The due date for this assignment was March 27, 2020.
+9. On April 4, 2020, the Student submitted her paper titled “What caused the Iran Iraq War?”
+to Turnitin.com as required (“Essay”). Turnitin.com detected that the Essay had a similarity
+index of 43% to numerous source documents.
+10. The Head Teaching Assistant in the Course (the “T.A.”), sent a message to the Student in
+Canvass to ask her to provide an explanation for the high degree of similarity with the
+external source documents identified by Turnitin, as follows:
+As you can see by looking over your essay and the Turnitin report, the similarity
+index is very high at 43%, and there are a number of passages used in the essay
+without quotation marks that are almost identical, save one or two words, to the
+passages found in the source material. There are many passages where text has been
+copied word for word for a source that was not listed in the corresponding footnote.
+To illustrate, a passage on page 2 copied text from the website:
+https://newyorkessays.com/essay-iran-iraq-war-causes-and-consequences/, but in
+the footnote, the paper cites: RAZOUX, PIERRE, and Nicholas Elliott. "Table of
+Contents." In The Iran-Iraq War, Ix-X. (Cambridge, Massachusetts; London,
+England:
+Harvard University Press, 2015.) .p. 25-27. www.jstor.org/stable/j.ctvjk2vcj.2.
+Finally, the bibliography is very large and eclectic (consisting of 17 sources) even
+though there are only 10 endnotes in the paper.
+As a first step, please respond to this email by explaining why this has occurred.
+It would be helpful for you to attach any notes you made when researching and
+writing this paper. We will expect your email by Friday, April 24th at the latest.
+11. The Student replied to the T.A. on April 22, 2020 as follows:
+
+There was a mix in my essay submission. At first, I sent my draft by
+accident where none of my work was properly cited or paraphrased, and
+then I acknowledged that late and resent it but the problem was that I named
+two of my easy the same even though one was not the edited version. Yes,
+I have used the New York sample essay and I did cite it. I should have
+rechecked my submission but I did not.
+12. In her April 22, 2020 email to the T.A., the Student included a link to a document called
+“his 103 essay 2 [Student’s first name] edited.docx” (“Revised Essay”).
+13. Professor Dimitriadis reviewed the Student’s Essay to assess the Turnitin similarity report.
+He reviewed the sources identified by Turnitin and confirmed that there were passages in
+the assignment that were taken verbatim or nearly verbatim from external sources,
+including articles and websites, without proper attribution. In particular, the Student’s
+Essay contains passages from at least four sources (the “Sources”).
+14. Professor Dimitriadis also reviewed the references cited by the Student in her footnotes,
+and concluded that the references cited in footnotes 1, 2 and 10 of the Essay did not contain
+the words or ideas to which they were cited in the body of the Essay.
+15. The Revised Essay submitted by the Student on April 22 after the Turnitin similarity index
+for her Essay had been brought to her attention showed considerable similarity with the
+original Essay; but certain passages had been edited and revised. Some of the citations
+were changed; but incorrect citations that had been identified in the original Essay
+remained as incorrect citations in the Revised Essay. Further, a number of passages that
+had been flagged as plagiarized in the Essay were unchanged in the Revised Essay, so that
+the text of the Revised Essay for these passages remained virtually the same as the text
+from the Sources.
+16. Professor Dimitriadis met with the Student on April 22, 2020, after which he forwarded
+the file to the Office of Student Academic Integrity. The Student did not respond to
+requests to meet with the Dean’s Designate.
+Admissions and Acknowledgements
+17. The Student admits and acknowledges that:
+
+a. She knowingly submitted her Essay.
+b. She knowingly committed plagiarism by submitting her Essay on April 4, 2020,
+and her Revised Essay on April 22, 2020, both of which contained verbatim and
+nearly verbatim text without appropriate attribution, contrary to section B.I.1(d) of
+the Code.
+c. She knowingly submitted academic work containing a purported statement of fact
+or reference to a source, which has been concocted in each of her Essay and Revised
+Essay contrary to section B.I.1(f) of the Code.
+d. She knew or ought to have known that she engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the
+Code in order to obtain academic credit or other academic advantage of any kind
+in connection with the Essay and again with the Revised Essay, contrary to section
+B.I.3(b) of the Code.
+
+FINDINGS ON CHARGES
+18. Following deliberations and based on the ASF and the JBD, the Panel concluded that
+charges 1 and 2 were proven on a balance of probabilities. The Student knowingly
+represented as her own an idea or expression of an idea or work of another in the Essay,
+contrary to section B.I.1(d) of the Code; and, the Student knowingly submitted academic
+work containing a purported statement of fact or reference to a source which has been
+concocted in the Essay, contrary to section B.I.1(f) of the Code. The Panel accepted the
+guilty pleas of the Student in respect of these charges.
+19. The Panel was advised that if the Tribunal convicts the Student on the above charges, the
+University would withdraw the alternative charges. Accordingly, the Panel makes no
+findings with respect to the alternative charges.
+
+PENALTY
+20. The University and the Student submitted a JSP recommending the following penalty:
+a. A final grade of zero in HIS103Y1Y, 2020(1);
+b. A suspension from the University for three years from June 15, 2022 to June 14,
+2025; and
+c. A notation of the offence on her academic transcript and record for four years from
+June 15, 2022 to June 14, 2026.
+21. The parties also agreed that this case would be reported to the Provost for publication of a
+notice of the decision of the Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+22. Assistant Discipline Counsel provided submissions on the high threshold required for a
+Tribunal to deviate from the JSP. As set out in the Discipline Appeals Board decision in
+The University of Toronto and S.F. (Case No. 690, October 20, 2014), only truly
+unreasonable or “unconscionable” joint submissions should be rejected (para. 22).
+23. The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and Mr. C. (File 1976/77-3, November 5, 1976),
+namely: 1) the character of person charged; 2) the likelihood of repetition of the offence;
+3) the nature of offence committed; 4) any extenuating circumstances surrounding the
+commission of the offence; 5) detriment to the University occasioned by the offence; and
+6) the need to deter others from committing a similar offence.
+24. With respect to her character, the Student’s admission of wrongdoing came early on. We
+noted the Student’s desire to have the issue resolved as soon as possible.
+25. The Student had the opportunity to make submissions at the Hearing. The Panel accepted
+that the Student was under stress in her personal life, as she explained during the Hearing.
+
+She recognized that her personal situation does not justify her error in judgement; but her
+comments provided the Panel with some insight into her personal circumstances.
+26. The Panel also took into consideration the serious and deliberate nature of the offence and
+the detriment to the University. The University stressed the need to send a strong message
+of deterrence in order to communicate the seriousness of these offences.
+27. Having regard to the above, and based on the review of similar cases provided by Counsel
+to the University, in the Panel’s view, the joint submission in this case is reasonable. The
+Panel agrees that the recommended sanctions are appropriate.
+DECISION OF THE PANEL
+28. At the conclusion of the hearing, the Panel made the following order:
+a. THAT the Student is guilty of two counts of the academic offence of obtaining
+unauthorized assistance contrary to section B.I.1(b) of the Code and of two counts
+of concocted references contrary to section B.I.1(f) of the Code;
+b. THAT the following sanctions shall be imposed on the Student:
+i. A final grade of zero in HIS103Y1Y, 2020(1);
+ii. A suspension from the University for three years from June 15, 2022, to
+June 14, 2025; and
+iii. A notation of the offence on her academic transcript and record for four
+years from June 15, 2022 to June 14, 2026.
+c. THAT this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+29. An Order was signed at the hearings on June 15, 2022, and July 22, 2022 by the Panel to this
+effect.
+DATED at Toronto, 17 October, 2022.
+
+Original signed by:________
+Michelle S. Henry, Chair
+On behalf of the Panel
+
+

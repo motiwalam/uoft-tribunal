@@ -1,0 +1,411 @@
+Case No. 1151
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 18, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO (the “University”)
+- and S
+
+L
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: September 14, 2021, via Zoom
+Members of the Panel:
+Ms. Dena Varah, Chair
+Professor Michael Saini, Faculty Panel Member
+Ms. Samantha Chang, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeals, Discipline and Faculty Grievances
+Not In Attendance:
+The Student
+
+2
+
+REASONS FOR DECISION
+
+The trial division of the University was convened on September 14, 2021 (the “Hearing
+
+1.
+Date”).
+
+PART 1 - THE CHARGES
+2.
+
+The Student was charged with the following offences under the Code of Behaviour on
+
+Academic Matters (the “Code”).
+1) On or about April 9, 2020, the Student knowingly represented an expression of an idea
+or work of another in the final exam MAT136H1 (the “Course”), contrary to s. B.I.1(d)
+of the Code.
+
+2) On or about April 9, 2020, the Student knowingly obtained unauthorized assistance in
+connection with the final exam in the Course, contrary to s. B.I.1(b) of the Code.
+
+3) In the further alternative, on or about April 9, 2020, the Student knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the final exam in the Course, contrary to s.
+B.I.3(b) of the Code.
+
+3.
+
+Assistant Discipline Counsel advised that Charges 1 and 2 are in the alternative. That is,
+
+if the Student is found guilty of Charge 1, then Charge 2 will be withdrawn and vice-versa. Charge
+3 will be withdrawn if the Student is found guilty of either Charges 1 or 2.
+
+3
+
+PART 2 - PROCEEDING IN THE ABSENCE OF THE STUDENT
+4.
+
+The Student did not attend the Hearing Date.
+
+5.
+
+In advance of the Hearing Date, the Student did not respond to any correspondence from
+
+the University regarding charges they were advancing under the Code.
+6.
+
+Assistant Discipline Counsel advised that the Student had not responded to any attempts
+
+by the University or by her office to advise of the charges and of the Hearing Date. She relied on
+the Affidavit of the Samanthe Huang, an Administrative Assistant with the Appeals, Discipline
+and Faculty Grievance Office (“ADFG Office”). Ms. Huang served the Student with a Notice of
+Electronic Hearing for a hearing via email on August 20th and 24th, 2020 to the email address that
+the Student provided in ROSI.
+7.
+
+Assistant Discipline Counsel also relied on the Affidavit of Kimberly Blake, Legal
+
+Assistant at Paliare Roland Rosenberg Rothstein LLP.
+
+Ms. Blake outlined that Assistant
+
+Discipline Counsel had emailed the Student on August 6th and 17th, 2021 to advise of the Hearing
+Date. Assistant Discipline Counsel further emailed additional documents on September 2nd and
+7th, 2021. The Student did not respond to these emails.
+8.
+
+Ms. Blake also telephoned the Student at the number provided in ROSI, but the Student
+
+did not pick up and as the voicemail was automated, it did not indicate the person to whom the
+voice mailbox belonged. Ms. Blake left a detailed message. This was followed by a courier
+package delivered to the Student’s address as found in ROSI which was signed for by “Glen” on
+August 30th, 2021.
+9.
+
+Ms. Blake also outlined various attempts by the University to contact the Student from
+
+4
+
+May 4th, 2020 through to October 14th, 2020.
+10.
+
+Although it does not appear that the Student accessed his email address, the Panel was
+
+satisfied that pursuant to the Statutory Powers and Procedures Act and the University Tribunal’s
+Rules of Practice and Procedure, that the Student received reasonable notice of the Hearing Date.
+11.
+
+The Rules of Practice and Procedure provide that service is effected by sending a copy of
+
+the document to the Student’s mailing address contained in ROSI or by emailing a copy to the
+email address. Numerous steps were taken above and beyond the requirements of the Rules of
+Practice and Procedure and the Statutory Powers and Procedures Act. The Panel was therefore
+satisfied to proceed with the hearing in the absence of the Student.
+
+PART 3 - THE FACTS UNDERLYING THE CHARGE
+12.
+
+The Student was enrolled at the University of Toronto Faculty of Arts and Sciences
+
+commencing in the 2019 Fall term.
+13.
+
+In Winter 2020, the Student was enrolled in MAT1361H1 (Calculus 1(B)) (the “Course”).
+
+14.
+
+The University filed the Affidavit of Dror Bar-Natan a Professor in the Department of
+
+Mathematics at the University. The Panel was satisfied that the facts contained therein and
+documents attached in Professor Bar-Natan’s Affidavit were admissible for the truth of their
+contents. The Panel did not require that Professor Bar-Natan to provide viva voce evidence.
+15.
+
+In Winter 2020, Professor Bar-Natan assisted with the administration of the final exam in
+
+the Course. As a result of the COVID-19 pandemic, the final examination was administered online
+on April 9th, 2020 from 2:00 p.m. to 5:00 p.m. There were approximately 1600 students who wrote
+the final examination.
+
+5
+
+16.
+
+Professor Bar-Natan was not the instructor of the Course but assisted with the
+
+administration of the final examination. The final examination had two parts: twenty multiple
+choice questions and six problems that required students to provide their solutions through an
+online grading software used by the Department of Mathematics.
+17.
+
+Although the final examination was open book, students were only permitted to use their
+
+course work, but not any other aids or to collaborate with one another in providing their answers.
+The final examination material indicated that it would be a potential offence to search for answers
+online, look for someone else’s answers or work together to answer questions.
+18.
+
+The Student submitted his answers to the final examination on April 9th, 2020. The portion
+
+of the final examination at issue were the solutions to questions 21 – 26, submitted to Crowdmark,
+the online grading software described above.
+19.
+
+In his Affidavit, Professor Bar-Natan indicated that Chegg.com is a subscription-based
+
+website that allows students to post problems which are answered by “experts” on the site. There
+is a subscription cost of $14.95 per month and subscribers are able to receive answers in as little
+as thirty minutes. Instructors and teaching assistants in the Course found several problems from
+the final examination posted on Chegg.com during the time period that students had to complete
+the final examination.
+20.
+
+At the time of marking the Student’s answer to question 24, the instructors determined that
+
+there were significant similarities between the Student’s answers and the answer to question 24
+that they had seen posted on Chegg.com. Professor Bar-Natan was asked to review the similarities
+between the Student’s answer to question 24 and the answer posted on Chegg.com.
+
+6
+
+21.
+
+According to Professor Bar-Natan, in examining the answer he considered the similarities
+
+to be suspicious because the answers were virtually identical and, most importantly, the answer
+contained significant errors. In Professor Bar-Natan’s view, it was “highly unlikely” that a student
+would make the same logical error as the Chegg.com answer and take the same steps in this
+erroneous analysis.
+22.
+
+In particular, Professor Bar-Natan noted that the variable “r” was used in lines one and two
+
+to represent a single value and in line two to represent numerous values. Both of these were
+mistakes, and, according to Professor Bar-Natan, it is “hard to imagine these two mistakes repeated
+in two different solutions (Chegg’s and a student’s) in an independent manner”.
+23.
+
+Professor Bar-Natan forwarded the matter to the Student Academic Integrity Office of the
+
+Faculty of Arts and Science (the “Office”). As a result, the Office sent an email with the allegations
+to the Student.
+24.
+
+The University relied on the Affidavit of Obianuju Umenyi, an Academic Integrity
+
+Specialist with the Office. The Panel relied on the Affidavit of Ms. Umenyi and did not require
+that she provide viva voce evidence.
+25.
+
+Ms. Umenyi noted that the Office sent the Student an email regarding the allegations of
+
+academic misconduct on May 4th, 2020. On May 7th, 2020 the Student sent an email advising that
+he wished to schedule a meeting with the Dean’s Designate.
+26.
+
+Ms. Umenyi met with the Student virtually along with Professor Francois Pitt, Dean’s
+
+Designate for Academic Integrity, to discuss the allegations of academic misconduct. In that
+meeting on October 13th, 2020, Professor Pitt gave the Student a warning that is required to be
+
+7
+
+given under the Code.
+27.
+
+In the discussion regarding academic misconduct, the Student denied any knowledge of
+
+Chegg.com, instead indicating that he had a “private tutor” who he had hired from a Korean
+website. The Student stated that the tutor had previously given him several questions and answers
+from previous exams including question 24. Although the Student could not recall how far in
+advance of the examination he received this question, he held firm that that question and answer
+had been provided by the tutor with instructions to memorize the answer.
+28.
+
+On October 15th, 2020, Professor Pitt emailed the Student advising that the matter would
+
+be forwarded to the Vice-Provost for review.
+29.
+
+The University relied on the Affidavit of Sarah Mayes-Tang, an Associate Professor in the
+
+Department of Mathematics at the University. The Panel deemed the Affidavit of Professor
+Mayes-Tang to be admissible with no requirement for viva voce evidence.
+30.
+
+Professor Mayes-Tang’s evidence is that she created the problem at question 24 and did so
+
+directly before the final examination in the matter. She indicates that it was entirely unique and
+based on a story that she had come across relating to the COVID-19 pandemic and the resulting
+stay-at-home orders. The only people who had access to the examination questions before the
+final examination were instructors for the Course.
+
+PART 4 - FINDINGS ON LIABILITY
+
+31.
+
+The Panel was satisfied that the evidence supports the Student did commit the offence
+
+contained in Charge 1. As a result of this finding, Charges 2 and 3 are withdrawn. The Panel makes
+
+8
+
+no findings with respect to these Charges.
+32.
+
+On Charge 1, the Panel finds that the evidence supports on a balance of probabilities that
+
+the answer to question 24 provided by the Student was in whole or in part the work of another,
+namely by those supporting the Chegg.com website. In coming to this conclusion, the Panel
+specifically relies on the following facts:
+1) The evidence that this question and answer were posted on Chegg.com;
+2) Professor Bar-Natan’s evidence the type of errors and reasoning provided that
+are almost entirely identical between the Chegg.com website and the Student’s
+paper are “highly unlikely” to be the result of chance;
+3) The evidence of Professor Mayes-Tang that the problem she had created was
+unique and completed directly before the examination; and
+4) That the Student’s explanation was therefore unlikely in that context. He would
+not have had this question before the examination as it was not repeated from
+previous examinations. We also note that the Student was relatively vague
+about who his tutor was and when he had been instructed to memorize the
+answers.
+5) There was no credible explanation for the similarities between the Student’s
+answer and the answer on Chegg.com other than the Student representing the
+Chegg.com answers as his own.
+33.
+
+We note that explanation of the Student would have been unlikely even if the question had
+
+9
+
+not been unique or recently created. The explanation relies on an unknown tutor having access to
+past exam questions, telling the Student to memorize an answer, rather than learn how to solve the
+problem (itself highly problematic), and providing an answer that was incorrect in the exact way
+as it was in the answer listed on Chegg.com.
+
+PART 5 - DECISION ON PENALTY
+34.
+
+Assistant Discipline Counsel submitted that the appropriate penalty in this case is:
+1) a final grade of 0 in the Course;
+2) A suspension from the University immediately for 2 years ending on September
+13, 2023;
+3) A notation of the sanction on the Student’s academic record and transcripts
+immediately for a period of 3 years, ending on September 13, 2024; and
+4) That the case be reported to the Provost for publication of a notice of the
+Decision of the Tribunal and sanction imposed with the Student’s name
+withheld.
+
+35.
+
+Assistant Discipline Counsel relied on the caselaw to outline the factors that the Panel
+
+should consider in determining the appropriate penalty:
+1) The character of the person charged;
+2) The likelihood of repetition of the offence;
+3) The nature of the offence committed;
+
+10
+
+4) Any extenuating circumstances surrounding the commission of the offence;
+5) The detriment to the University occasioned by the offence; and
+6) The need to deter others from committing a similar offence.
+(University of Toronto v. Mr. C. Case No. 1976/77-3, November 5, 1976 at p. 15)
+36.
+
+Assistant Discipline Counsel also noted that the Code provides a guide for penalty on the
+
+first offence of representing another’s ideas as one’s own. Although this guide is not binding on
+the Panel, it demonstrates the expectations that have been communicated to students in the event
+they violate the Code. In the Code, the guide provides for a two-year suspension for a first offence
+of plagiarism.
+37.
+
+Assistant Discipline Counsel submitted that the nature of the offence is serious and that the
+
+detriment to the University occasioned by the offence and the need to strongly deter others is of
+central importance. Plagiarism that has been planned has rightly been described as “one that strikes
+at the heart of academic integrity” (University of Toronto v. D.K (Case No. 1119, July 21,2021))
+38.
+
+Assistance Discipline Counsel did note that the cases consider plagiarism involving a
+
+commercial aspect to be more serious than those without one. Introducing a commercial aspect to
+the academic environment, one built on individual effort and hard work, has been described as
+“among the most egregious offences a student can commit”. (University of Toronto v J.W (Case
+No. 1082, August 23, 2019)). Assistant Discipline Counsel fairly acknowledged that the
+commercial aspect of this offence cannot be proven – it is unknown whether the Student was a
+subscriber to Chegg.com or was provided the answer by another student who subscribed to the
+service. In the absence of evidence that the Student transacted for this answer, Assistant Discipline
+
+11
+
+Counsel did not seek a finding that this was an aggravating factor.
+39.
+
+The Student obviously did not provide any submissions. As a result, there was no evidence
+
+before the Panel of the character of the Student or other mitigating factors on penalty. Assistant
+Discipline Counsel acknowledged that this was a first offence. There was not enough evidence to
+determine whether an offence was likely to be repeated or whether there were other aggravating
+or mitigating factors.
+40.
+
+Assistant Discipline Counsel relied on several precedents in which students had committed
+
+similar offences. In the cases relied on by Assistant Discipline Counsel, a two-year suspension was
+the minimal penalty imposed for this type of offence. Although these precedents do not bind the
+Panel, this is the sanction that has been imposed on students in similar circumstances, and it is
+important to have general consistency at the Tribunal. The penalty is appropriate given the serious
+nature of the offence and the need for general deterrence.
+
+PART 6 - THE ORDER
+41.
+
+The University Tribunal orders as follows:
+THAT the hearing may proceed in the Student’s absence;
+THAT the Student is guilty of one count of knowingly representing an idea or expression
+of an idea or work of another as their own, contrary to section B.I.1.(d) of the Code;
+THAT the following sanctions shall be imposed on the Student:
+(a) a final grade of zero in the course MAT136H1 in Winter 2020;
+(b) a suspension from the University of Toronto from the date of this order for a period
+of 2 years, ending on September 13, 2023; and
+
+12
+
+(c) a notation of the sanction on her academic record and transcript from the date of
+this order for a period of 3 years, ending on September 13, 2024; and
+
+THAT this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the Student’s name withheld.
+
+Dated at Toronto this 30th day of November, 2021
+Original signed by:
+________________________________________
+Dena Varah, Chair
+On behalf of the Panel
+
+

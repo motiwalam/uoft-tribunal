@@ -1,0 +1,262 @@
+UNIVERSITY OF TORONTO
+GOVERNING COUNCIL
+Report #424 of the Academic Appeals Committee
+November 10, 2022
+
+To the Academic Board
+University of Toronto
+Your Committee held a hearing on Friday, August 12, 2022, via audio-visual conference, at which the
+following members were present:
+Academic Appeals Committee Members:
+Ms. Sara Faherty, Senior Chair
+Professor Mark Lautens, Faculty Governor
+Ms. Susan Froom, Student Governor
+Hearing Secretary:
+Ms. Krista Kennedy, Hearing Secretary, Office of Appeals, Discipline and Faculty Grievances
+Appearing for the Student-Appellant:
+Mr. O.R. (the Student-Appellant)
+Appearing for the Faculty of Applied Science & Engineering:
+Professor Thomas Coyle, Faculty of Applied Science & Engineering, Vice Dean, Undergraduate
+I. Overview
+The Student-Appellant appeals the April 18, 2022 decision communicated by the Chair of the Academic
+Appeals Board of the Faculty of Applied Science & Engineering, Professor Don Kirk. The Academic
+Appeal Board denied the Student-Appellant’s request to adjust the Student-Appellant’s final grade in
+MIE253H1, Data Modelling.
+The facts of this incident are complicated, involving a course taken during one academic year (Fall of
+2020) and continuing in progress during the following academic year and audited in Fall of 2021. The
+Student had a mishap writing the midterm in the Fall of 2020 and deferred his final exam until December
+of 2021. In the interim, there was more than one proposed and rejected remedy for the interrupted
+midterm exam, and the division appears to have lost track of (or never been properly made aware of) the
+midterm issue. It ends with this appeal, in which the Student-Appellant requests a different formula for
+calculating his course mark than the formula proposed by the Faculty of Applied Science & Engineering.
+There is no dispute that a technical error interrupted the Student-Appellant’s writing of his mid-term
+exam on October 29, 2020, and no dispute that the Faculty of Applied Science & Engineering had an
+obligation to provide a remedy for this unfortunate occurrence. The dispute revolves around the
+appropriate calculation of the final course mark when students start an exam and are not able to finish it
+through no fault of their own.
+
+1
+
+The Student-Appellant adds that the appeal also involves several unstructured frustrations and problems
+that ensued during the remaining writing time after the abrupt and incorrect shut down of his exam, and in
+conversations after the exam to remedy the early and incorrect shut down.
+II. Facts
+The Student-Appellant enrolled in MIE253H1, Data Modelling, during the Fall term of 2021. The course
+provided the following clear breakdown of assessment:
+Midterm exam: 30%
+Term work:
+30%
+Final exam:
+40%
+The Student-Appellant set about writing an on-line midterm exam on October 29, 2020. The standard
+writing time was two hours (120 minutes), but the Student-Appellant had an academic accommodation of
+additional writing time that brought his writing time to three and a half hours (210 minutes). Due to a
+technical error, the Student-Appellant’s exam shut down at the two-hour mark, and he was unable to write
+any more.
+The Student immediately notified his instructor that he was timed out early and deprived of the
+appropriate amount of time to write his midterm exam. The instructor responded promptly and attempted
+but was unable to get the Student-Appellant back into his midterm document. In the course of the first
+two hours of writing time (57%) of what should have been his allotted writing time, the Student answered
+nine of the thirty questions (30%) of the questions, and all of his responses were correct.
+The instructor emailed back and forth with the Student repeatedly on October 29, the day of the exam,
+and the following day. On the 30th the instructor offered the Student the opportunity to write the exam the
+following day. The Student-Appellant chose not to do so because he was not confident that the instructor
+understood his concerns and because he was not available on that day.
+The Student-Appellant contacted his accessibility services counsellor and continued to engage directly
+with the instructor, but due to medical circumstances, he was unable to resolve the issue and missed the
+deadline to submit a petition. The Student-Appellant’s efforts to remedy the situation were delayed for
+medical reasons. The result of these mishaps was that efforts to remedy the interrupted midterm exam
+took place entirely informally, between the instructor and the Student-Appellant. This is a small detail,
+but it becomes important later in this complicated case that unfolded over two academic years.
+There were several series of email exchanges, including in late November and mid-December of 2020.
+On December 19, 2020, the Student wrote to the instructor two times, proposing different schema under
+which his correct answers on the midterm be accounted for in the calculation of his final mark. The
+instructor responded to both emails promptly, each time ending his message with “The percentage will be
+applied to the exam.” By this he meant that rather than the grade weight distribution listed above, the
+Student-Appellant’s course mark would be determined by allocating 30% to term work, and 70% (the
+30% originally meant to be measured by the midterm plus the 40% originally allocated to the final exam)
+to the final exam.
+Further complicating matters, the Student-Appellant was required to defer the December 2020 final exam
+for medical reasons, and the Student was scheduled to instead write that final exam the following year.
+The following year the Student-Appellant audited the course and prepared to write the final exam for the
+Fall, 2021 iteration of the course in order to complete his Fall, 2020 MIE253H1, Data Modelling, as per
+2
+
+the unrelated deferral of his final exam. More emails were exchanged during the Fall 2021 term. The
+Student-Appellant and instructor met via audio-visual conference in late October of 2021, and the Student
+wrote the following email after that meeting:
+“Hi Professor,
+Regarding the two exam options for my case that we discussed over Teams on Friday, I’d like to
+write the final exam with a 70% weighting (Final + Midterm Weight). I have also asked the
+Registrar’s office to send you notific[a]tion of the de[ferr]al final exam.”
+At least for a short time it appears that the Faculty of Applied Science & Engineering and the StudentAppellant were in agreement about how to handle the interrupted midterm and how to calculate the
+Student’s course mark.
+Unfortunately, this period of agreement was short-lived. In late December of 2021, there was another
+email exchange. The instructor invoked the Faculty of Applied Science & Engineering’s permission to
+defer the final exam in MIE253H1 to December of 2021, and concluded that he did not have the authority
+to apply the remedy of moving the weight of the October 2020 interrupted midterm exam to the final
+exam in order to determine the final course mark. On December 14th the instructor emailed the Student,
+writing, “Faculty of Applied Science & Engineering only authorized me to take your exam during this
+term. In consequence you[r] mark will be updated ONLY in the exam (40%).” It seems to this
+Committee, and to the Vice Dean of Undergraduate Studies who represented the division at the hearing,
+that the instructor misinterpreted the Examination Committee decision allowing the final exam deferral,
+believing it displaced the earlier decision to move the weight of the midterm to the final exam.
+III. Issues
+At issue in this academic appeal is the process of dealing with an examination that has been interrupted
+through no fault of the Student’s, and the appropriate calculation of a student’s course mark when a
+course component is invalidated. The fact that this course stretched over two terms, a year apart,
+complicated matters, and may have contributed to major players’ losing track of important details, but is
+irrelevant to this appeal.
+Your Committee has been asked to answer three questions:
+1.
+
+Is the Student-Appellant entitled to carry forward the remedy regarding his interrupted
+midterm from the Fall 2020 term into the Fall 2021 term?
+
+2.
+
+What is the appropriate method for calculating the Student-Appellant’s term mark?
+
+3.
+
+Did the errors made by the Faculty of Applied Science & Engineering Academic Appeal
+Board and adopted by the instructor burden the Student-Appellant and, if so, what is an
+appropriate remedy for the frustration he endured?
+IV. Analysis
+
+1.
+
+Is the Student-Appellant entitled to carry forward the remedy regarding his interrupted
+midterm from the Fall 2020 term into the Fall 2021 term?
+
+This is the most straightforward question raised by this appeal, and the answer is certainly an unequivocal
+“yes.” We note that the Faculty of Applied Science & Engineering does not contest this point. On the
+3
+
+contrary, in his written response to the Student-Appellant’s appeal, Vice Dean Undergraduate, Professor
+Thomas Coyle acknowledged that the instructor’s assertion that he could not apply the previously agreed
+upon remedy concerning the midterm because the Undergraduate Assessment Committee’s did not
+expressly tell him he could do so was “mistaken []”.
+The Faculty of Applied Science & Engineering supports applying the Student-Appellant’s request for the
+remedy for the weight of the interrupted midterm to the final course mark, and so does your Committee.
+2.
+
+What is the appropriate method for calculating the Student-Appellant’s term mark?
+
+The Faculty of Applied Science & Engineering has a process for calculating course marks when a course
+component is compromised: they typically add the weight of the missing assessment to the weight
+allocated to the final exam. The instructor offered the Student-Appellant an opportunity to rewrite the
+midterm, but the Student declined. After that the instructor twice told the Student-Appellant “the
+percentage will be applied to the exam.” There is no disagreement between the parties that there are
+multiple possible methods for dealing with a compromised course component. Many different formulas
+can be generated for this purpose, and none of them would be perfect.
+At one point in time the Student-Appellant seemed to accept the Faculty’s typical practice, writing in his
+October 24, 2021 email that he wished to move the weight of the interrupted midterm to the final exam:
+“Regarding the two exam options for my case that we discussed over Teams on Friday, I’d like to write
+the final exam with a 70% weighting (Final + Midterm Weight).”
+In his arguments, the Student-Appellant acknowledged, “I understand the faculty’s typical and common
+consideration of adding the midterm test to the final examination and how that solution typically resolves
+testing incidents, however, because it typically is applied doesn’t mean it’s adequate or fair to apply here
+or in all outlier cases.” The Student-Appellant does not establish that in his case the method is inadequate
+or unfair, and he does not explain how his case is an outlier.
+The Student-Appellant has generated a different formula for calculating his mark, but your Committee is
+not convinced that the formula proposed is a fair one. He wishes to reap some of the benefits of his
+correct answers, without recognizing the disproportionate amount of time he spent writing those answers.
+Later in his arguments, he proposed applying a pro-rated version of his original formula, but this misses
+the point—the division does not need a new way to calculate the Student-Appellant’s course mark. It
+already has a formula for doing so, that was clearly communicated to the Student early in the process, and
+that it applies to all other students in the same position. Even if the Student-Appellant’s proposal were
+mathematically defensible, it would still be unfair to offer that remedy to this student, when it is not
+offered to other students. Your Committee believes it is important for the Faculty of Applied Science &
+Engineering to be consistent and transparent in how it deals with missed assessments, and believes the
+method typically used by the division, the one that was proposed by the instructor during the term the
+midterm was missed and selected by the Student-Appellant before he wrote his final exam, is the most
+appropriate one here.
+
+3.
+
+Did the errors made by the Faculty of Applied Science & Engineering Academic Appeal
+Board and adopted by the instructor burden the Student-Appellant and, if so, what is an
+appropriate remedy for the frustration he endured?
+
+The Student-Appellant writes that his confidence, trust, and security in the academic fairness and values
+of the Faculty of Applied Science & Engineering has been shaken by this incident. This is a sad turn of
+
+4
+
+events. Your Committee understands the Student-Appellant’s frustration, and agrees that several errors
+were made by members of the Faculty of Applied Science & Engineering in handling this file.
+First, the instructor engaged in lengthy exchanges with the Student about how to resolve his difficulties
+instead of referring him to the appropriate contacts in the department or instructing him to submit a
+petition. The instructor was correct in identifying the Faculty of Applied Science & Engineering’s
+practice of moving the weight of compromised assessments to the final exam, however, this substantively
+correct response was arrived at informally, and the fact that the remedy was not given by the Faculty of
+Applied Science & Engineering may have led to the second error, because the interrupted midterm was
+not on the Faculty of Applied Science & Engineering’s radar.
+Second, when the Student ended up deferring his final exam in MIE253H1, Data Modelling, it may have
+been unaware of the separate arrangements that had been made between the instructor and the StudentAppellant. The instructor’s December 14, 2021 email incorrectly interpreted the Faculty of Applied
+Science & Engineering’s approval of a deferred exam due to the Student-Appellant’s December 2020
+illness and mistakenly believed it precluded the consideration he had already granted that the October
+2021 midterm weight would be moved to the final exam. The Student-Appellant tried to explain that the
+midterm remedy was related to a different set of issues, but the instructor did not appear to be moved,
+concluding the exchange on December 29, 2022, with, “Unfortunately I must follow the rules. Faculty of
+Applied Science & Engineering only authorised me to provide you with a deferred exam. Nothing more.”
+Third, it seems the Undergraduate Assessment Committee’s January 31, 2022 decision denied the
+Student-Appellant’s petition for special consideration without actually understanding the StudentAppellant’s request. We note that the request itself is somewhat unclear, and in his petition the StudentAppellant expressly mentioned that he was unable to submit the attachments he wished the Committee to
+consider. The Undergraduate Assessment Committee determined simply that there was insufficient
+reasoning for the Student-Appellant’s request. Given the lack of clarity of the Student-Appellant’s
+request, and the missing documents, it was inappropriate for the Undergraduate Assessment Committee to
+issue a decision. We believe a further inquiry would have been a better response than denying the
+petition. While the Undergraduate Assessment Committee did suggest that the Student-Appellant consult
+with his Academic Advisor, and inform him of an appeal process, given the lack of clarity and
+completeness of the request, a request for resubmission would have been a better approach.
+Finally, the April 18, 2022 decision of the Academic Appeals Board incorrectly denied the StudentAppellant’s request to adjust his mark based on the mid-term grade and weight. In its reasoning, the
+Board found that the deferred exam in December 2021 was a sufficient remedy, apparently not
+understanding that the Student-Appellant was asking for an additional remedy based on a different set of
+facts.
+Your Committee might call this a comedy of errors, except there is nothing comedic about the level of
+frustration experienced by the Student-Appellant. There were serious miscommunications throughout this
+process, some of which are the responsibility of the Student-Appellant, whose email requests and
+petitions were not always clear. However understandable the decision-makers’ lack of comprehension
+may have been, your Committee thinks they had a responsibility to seek more information when they did
+not understand the Student-Appellant’s requests.
+Fortunately, the Vice Dean of Undergraduate students at the Faculty of Applied Science & Engineering
+did finally piece together the Student-Appellant’s file. He correctly identified his predecessor’s errors in
+denying the Student-Appellant’s request to move the weight of the midterm to the final exam.
+
+5
+
+There were errors made by the Student-Appellant as well, including failing to file a timely petition
+regarding the midterm mishap and not reducing the size of his attachments so he could submit them with
+his petition, either by editing them or including their substance in his petition. Overall, it was frustrating
+for the Student-Appellant to have to wait for this appeal process to get a coherent response from the
+Faculty of Applied Science & Engineering. The University does allow this appeal process, and it is
+through this process that the errors have been corrected.
+Your Committee is sympathetic to the Student-Appellant on this count and hopes the Faculty of Applied
+Science & Engineering will improve its petition process to allow students with incomplete or confusing
+petitions to repair their requests before decisions are made.
+V. Conclusion
+The Student-Appellant was granted and is entitled to two separate academic accommodations he received
+during the Fall 2020 academic term. He was entitled to move the weight of his interrupted midterm to
+the final exam, and he was entitled to defer that exam to the winter of 2021. The Faculty of Science &
+Engineering disallowed the implementation of both of those accommodations at the same time, apparently
+thinking the exam deferral was offered instead of the re-allocation of the assessment weight, or, maybe
+more likely, being unaware of the issue with the midterm and the privately agreed upon remedy between
+the instructor and the Student. This was incorrect, which the Faculty now concedes. The StudentAppellant should receive both of those considerations.
+Both the Student-Appellant and the Faculty of Applied Science & Engineering agree that the usual
+method of remedying interrupted assessments in the Faculty of Science & Engineering is to move the
+weight of the interrupted assessment to the course’s final assessment. That is a legitimate method of
+dealing with interrupted assessments, and, importantly, is consistent with how the Faculty deals with
+other students in similar circumstances. The Student-Appellant’s proposed alternate method of
+calculating the course mark favours him, but students are not entitled to choose the formula they prefer
+for calculating their marks. On the contrary, the Faculty has an interest in consistency and transparency
+in calculating marks.
+It is unfortunate that the Faculty of Applied Science & Engineering lost track of the Student-Appellant’s
+two separate sets of problems and two separate requests. The Student-Appellant may have contributed to
+the confusion by not following the formal process for resolving one of the issues, and in a lack of clarity
+in his communications. The remedy for correcting errors is to submit a petition and appeal, and the
+Student-Appellant has followed and succeeded in that process.
+
+6
+
+

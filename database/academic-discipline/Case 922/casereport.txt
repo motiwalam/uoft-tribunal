@@ -1,0 +1,387 @@
+Case No.: 922
+UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 26, 2017.
+AND IN THE MATTER OF the University of Toronto Code ofBehaviour on Academic
+Matters, 1995 ("Code")
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+BETWEEN:
+UNIVERSITY OF TORONTO (the "University")
+-AND~ 7'1111111 (the "Student")
+
+REASONS FOR DECISION
+Hearing Date: May 10, 2017
+Panel Members:
+Mr. Christopher Wirth, Barrister and Solicitor, Chair
+Professor Ato Quayson, Faculty Panel Member
+Mr. Andrey Lapin, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, for the University of Toronto, Paliare Roland
+Barristers
+In Attendance:
+Professor Eleanor Irwin, Dean's Designate, University of Toronto Scarborough
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Not In Attendance:
+Ms. ~ ~ . the Student
+
+Charges and Appearances
+1.
+
+The Trial Division of the Tribunal heard this matter on May 10, 2017. The Student was
+charged with the following academic offences filed with the Provost on January 26, 2017:
+1.
+
+In or about Winter 2016, you knowingly represented as your own an idea or
+expression of an idea or work of another in an assignment that you submitted in
+BIOB51H3 - Evolutionary Biology ("Course") entitled "GMO Applorange" (the
+"Essay"), contrary to section B.I.l(d) of the Code.
+
+2.
+
+In the alternative, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any
+kind, contrary to section B.I.3(b) of the Code, in connection with the Essay.
+
+The particulars for these charges were as follows:
+(a)
+
+At all material times you were a student at the University of Toronto
+Scarborough;
+
+(b)
+
+In Winter 2016 you emolled in the Course;
+
+(c)
+
+Students in the Course were required to submit an assignment worth 15%. You
+submitted the Essay to complete this requirement;
+
+(d)
+
+You submitted the Essay knowing that it contained ideas, the expression of ideas,
+and verbatim or nearly verbatim text from publications and articles (the
+"Sources") which were not written by you;
+
+(e)
+
+You knowingly represented the work of another person, or persons, who wrote the
+Sources as your own. You knowingly included in the Essay, ideas and expressions
+that were not your own, but were the ideas and expressions of another person, or
+persons, who wrote the Sources, which you did not acknowledge in your Essay;
+
+(f)
+
+You knowingly submitted the Essay with the intention that the University of
+Toronto Scarborough rely on each of them as containing your own ideas,
+
+2
+
+expressions of ideas or work in considering the appropriate academic credit to be
+assigned to your work.
+2.
+
+The Student did not attend the hearing. After waiting 15 minutes for her, the hearing
+proceeded in her absence. Based upon the affidavit of service of Virginia Fletcher, sworn
+May 9, 2017 (Exhibit 1) including the affidavit of Susan Murphy, sworn February 15,
+2017 (Exhibit 4, Tab 6) and the affidavit of Krista Osbourne, affirmed April 21, 2017
+(Exhibit 1, Tab 13), the Panel was satisfied that the Student had been served with the
+Charges and the Revised Notice of Hearing in accordance with the University Tribunal's
+Rules of Practice and Proceeding.
+
+THE EVIDENCE
+Enrollment at the University of Toronto, Scarborough
+
+3.
+
+The Student was, at all material times, a registered student at the University of Toronto
+Scarborough and was enrolled in B1OB38 in the Winter 2016 term as per the Student's
+academic record, copies of which were found in Exhibit 1 at Tabs 5 and 19.
+
+BIOB38 (2016)
+
+4.
+
+The Affidavit of Connie Soros sworn May 1, 2017 (Exhibit 4) provided the following
+evidence:
+
+"A.
+
+Background
+
+I.
+
+In Winter 2016, I taught the course BIOB38: Plants in Society ("Course"). I
+attach a true copy of the Course Syllabus as Exhibit "A" to my affidavit.
+
+2.
+
+~ . . . ("Ms . . . . ,J was a student at UTSC enrolled in the course.
+
+B.
+
+The Course
+
+3.
+
+The Course syllabus contained a paragraph about academic honesty and
+referenced the Code.
+
+Students were given information about expectations of
+
+academic integrity, and in particular about plagiarism and writing resources.
+
+3
+
+4.
+
+The Course required an Essay, "Assignment 2 ", to be submitted on March 1,
+2016 (the "Paper''). The Paper was worth 15% of the Course mark.
+
+5.
+
+Ms . . . . submitted the Paper on March 2, 2016, which was one day late. Ms .
+. . . was penalized 10% for the late submission of his Paper. I attach a true
+copy ofMs . . . . 's Paper titled Assignment 2, as Exhibit "B" to my affidavit.
+
+5.
+
+I was notified by my Teaching Assistant Eliana Vonapartis that Ms . . . . 's Paper
+contained text copied from internet sources.
+
+I compared Ms. . . . 's Paper
+
+against the internet sources, which revealed that Ms. . . . 's Paper contained
+several lengthy passages of text copied from the following sources, which were
+not put in quotation marks and were not attributed to any source at all:
+(a)
+
+FrankenFoodFacts, http://fi:ankenfoodfacts.blogspot.ca/ 2015/06/i-got-99problems-but ...
+
+(b)
+
+GMO Truths and Consequences, http://www.naturalawakeningsmag.com/
+Natural-Awakenings/January...... .
+
+I attach a true copy of the Ms . . . . ,s Paper with highlighting applied to the text
+copied from the above two internet sources as Exhibit "C" to my affidavit. I
+attach
+
+true
+
+copies
+
+of the
+
+internet
+
+sources
+
+FrankenFoodFacts
+
+from
+
+http://frankenfoodfacts. blogspot. cal 2015/06/i-got-99-problems-but and GMO
+Truths and Consequences,
+
+http://www.naturalawakeningsmag.com/ Natural-
+
+Awakenings/January ... as Exhibits "D" and "E" to my affidavit, respectively.
+7.
+
+I am advised by the Course Coordinator Ahmed Elbassiouny that he asked Ms .
+. . . to meet with him to discuss the concerns with her Paper, but that Ms . . . .
+did not respond and no meeting was held with her.
+
+8.
+
+I make this affidavit in connection with the Tribunal hearing into the charges
+filed against Ms . . . . on January 26, 2017 under the Code of Behaviour on
+Academic Matters, 1995, andfor no other purpose."
+
+4
+
+University's Submissions
+
+5.
+
+The University submitted that the evidence clearly established that the Student had
+committed the academic offense charged.
+
+Standard of Proof
+
+6.
+
+The onus is on the University to establish based upon clear and convincing evidence on a
+balance of probabilities that the academic offence charge has been committed.
+
+Decision of the Tribunal
+
+7.
+
+Based on the evidence and the Panel's review of the plagiarized source material, the
+Student was found guilty of plagiarism contrary to section B.I. l (d) of the Code, namely
+Charge 1 as set out above.
+
+8.
+
+The University then withdrew Charge 2.
+
+Reasons for Decision
+
+9.
+
+The Panel was satisfied that the evidence submitted before it as set out above, clearly
+established that in the Winter of 2016, the Student, a registered student at the University
+of Toronto, was enrolled in BIOB38H3 and that the Student submitted an essay entitled
+GMO Applorange (the "Essay") as an assignment in this course.
+
+10.
+
+The Panel was also satisfied based upon the evidence before it as detailed above, that this
+essay clearly contained content which was not the Student's own idea or expression of an
+idea and was in fact the work of another as set out in paragraph 5 of the Affidavit of
+Connie Soros sworn May 1, 2017 (Exhibit "4") and Exhibits "C", "D" and "E" to that
+Affidavit.
+
+11.
+
+Accordingly, the Panel was satisfied based upon clear and convincing evidence on a
+balance of probabilities that the Student had knowingly represented as her own an idea or
+expression of an idea or work of another and had committed the academic offence
+
+5
+
+charged, namely that she had submitted the Essay as an assignment in BIOB38H3 in the
+Winter 2016 term and that the Essay contained ideas or expressions of ideas and works of
+another, which she knowingly represented as her own, contrary to section B.I.l(d) of the
+Code.
+Penalty
+
+12.
+
+The University did not lead any additional evidence with respect to penalty and submitted
+that the following penalty should be imposed:
+(a)
+
+a final grade of zero in BIOB38H3 in Winter 2016;
+
+(b)
+
+a two year suspension from the University to commence on the day the
+Tribunal makes its order; and
+
+(c)
+
+a notation of the sanction on the Student's academic record and transcript
+for three years from the date the Tribunal makes its Order; and
+
+(d)
+
+that the Tribunal report this case to the Provost for publication of a notice
+of the decision of the Tribunal and the sanction or sanctions imposed in
+the University newspapers, with the name of the Student withheld.
+
+13.
+
+In the University's submission, given that this was a first offence, the foregoing penalty
+accorded with other decisions of this Tribunal in similar circumstances.
+
+14.
+
+After deliberations, the Tribunal ordered as follows:
+(a)
+
+THAT the Student is guilty of one count of plagiarism contrary to section
+B.I.1 (d) of the Code of Behaviour on Academic Matters;
+
+(b)
+
+THAT the Student receive a final grade of zero in BIOB38H3 in Winter 2016;
+
+(c)
+
+THAT the Student be suspended from the University for a period of two years,
+
+commencing on May 10, 2017 and ending on May 9, 2019;
+
+6
+
+(d)
+
+THAT the sanction be recorded for a period of three years on the Student's
+
+academic record and transcript to the effect that she was sanctioned for academic
+misconduct for a period of three years, commencing on May 10, 2017 and ending
+on May 9, 2020; and
+(e)
+
+THAT this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the name of
+the Student withheld.
+
+15.
+
+An Order was signed at the hearing by the Panel to this effect.
+
+Reasons for Penalty
+16.
+
+The Panel was satisfied that given that this was a first offence, this penalty was
+appropriate given t h e ~ factors (Case No. 1976/77-3, November 5, 1976), and was
+in accordance with other decisions of this Tribunal in similar circumstances.
+
+Additional Issue
+17.
+
+Following the hearing of this matter on May 10, 2017, while the Panel was preparing its
+Reasons for Decision, it encountered an issue for which it requested submissions to be
+received from the University and from the Student.
+
+18.
+
+In that regard, the Panel noticed that the course identified in the charges against the
+Student in which it was alleged she had submitted the essay, was "B1OB51H3Evolutionary Biology" whereas the course identified in the evidence before the Panel as
+the course in which the Student submitted the essay was "B1OB38H3: Plants in Society.
+
+19.
+
+Accordingly, the Panel sought submissions from the University and the Student as to how
+it should deal with this circumstance.
+
+The Panel did not receive any submissions from
+
+the Student on this issue but did receive submissions from counsel for the University.
+20.
+
+After considering the matter, including the University's response to the question posed by
+the Panel, the Panel concluded that it appeared to clearly be a clerical error by which the
+charges had contained a reference to the wrong course number than that which was the
+actual course in which the Student submitted her essay.
+
+7
+
+21.
+
+The Panel was satisfied that the Student had not been, in any way, prejudiced by this
+typographical error, that she had been fully aware that she had submitted her essay in
+course "BIOB38H3" and not in "BIOB51H3", that this was made clear by the evidence
+before the Panel and that all of this evidence had been disclosed to the Student, making it
+very clear to her which course was in issue in the charges against her as the course in
+which she submitted her essay.
+
+22.
+
+Accordingly, the Panel exercised its discretion pursuant to Section 21.1 of the Statutory
+Powers and Procedure Act, R.S.O. 1990, c.S.22, to correct this clerical error and directs
+that the course referenced in the charges be corrected from "BIOB51H3-Evolutionary
+Biology" to "BIOB38H3: Plants in Society".
+
+Dated at Toronto, this / <;;)- day of August, 2017
+
+8
+
+

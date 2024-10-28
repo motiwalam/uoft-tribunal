@@ -1,0 +1,820 @@
+Case No. 1027
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on July 23, 2019
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO (the “University”)
+- and -
+
+Y
+
+T
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: December 3, 2020, via Zoom
+Panel Members:
+Ms. Alexi Wood, Chair
+Professor Ken Derry, Faculty Panel Member
+Ms. Emily Hawes, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Daniel Walker, Bobila Walker Law LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances,
+University of Toronto
+
+1
+
+A.
+
+OVERVIEW
+
+1.
+
+On December 3, 2020, a Panel of the University Tribunal (the “Tribunal”) convened to
+
+hear the Provost’s allegations that the Student violated the Code of Behaviour on Academic
+Matters (the “Code”). By letter dated 23 July 2020, the charges against the Student were that:
+1.
+
+On or about November 1, 2018, [the Student] knowingly represented as [her] own
+
+an idea or expression of an idea, and/or the work of another in an assignment titled “BINSX-Chimera” (“BIN-SX-Chimera Report”) that [she] submitted in partial completion of
+the requirements for BCH441H1: Bioinformatics (“Course”) contrary to section B.I.1(d)
+of the Code.
+2.
+
+In addition and in the alternative to paragraph 1, on or about November 1, 2018,
+
+[the Student] knowingly used or possessed an unauthorized aid or obtained unauthorized
+assistance in connection with [her] BIN-SX-Chimera Report that [she] submitted in partial
+completion of the requirements for the Course contrary to section B.I.1(b) of the Code.
+3.
+
+In addition and in the alternative to paragraphs 1 and 2, on or about November 1,
+
+2018, [the Student] knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in connection
+with [her] BIN-SX-Chimera Report that [she] submitted in order to obtain academic credit
+or other academic advantage of any kind in the Course, contrary to section B.I.3(b) of the
+Code.
+4.
+
+On or about November 21, 2018, [the Student] knowingly represented as [her] own
+
+an idea or expression of an idea, and/or the work of another in an assignment submitted as
+a prerequisite to an oral test in the Integrator Unit Mutation Impact (“Oral Test Code”) that
+2
+
+[she] submitted in partial completion of the requirements for the Course contrary to section
+B.I.1(d) of the Code.
+5.
+
+In addition and in the alternative to paragraph 4, on or about November 21, 2018,
+
+[the Student] knowingly used or possessed an unauthorized aid or obtained unauthorized
+assistance in [her] Oral Test Code that [she] submitted in partial completion of the
+requirements for the Course contrary to section B.I.1(b) of the Code.
+6.
+
+In the alternative to paragraphs 4 and 5, on or about November 21, 2018, [the
+
+Student] knowingly engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code in connection with [her]
+Oral Test Code submitted in order to obtain academic credit or other academic advantage
+of any kind in the Course, contrary to section B.I.3(b) of the Code.
+2.
+
+The particulars related to the charges are:
+1.
+
+At all material times, [the Student was] a registered student in the Faculty of Arts
+
+& Sciences at the University of Toronto.
+2.
+
+In Fall 2018, [she] registered in the Course, which was taught by Professor Boris
+
+Steipe.
+3.
+
+Students in the Course were required to choose a variety of formats for evaluation
+
+in the Course, which included:
+(a)
+
+written assignments on chosen learning units, worth 6% each; and
+
+3
+
+(b)
+
+an oral test, for which [the Student was] required in advance to complete a
+
+chosen Integrator Unit and to have submitted a report containing the related
+computer code and results, worth 16% of the Course mark.
+4.
+
+In fulfillment of these Course requirements [the Student] submitted the following
+
+assignments:
+(a)
+
+[t]he BIN-SX-Chimera Report for the Learning Unit UCSF Chimera:
+
+Structure Visualization and Analysis on November 1, 2018; and
+(b)
+
+[t]he Oral Test Code for purposes of [her] oral test in the Integrator Unit
+
+Mutation Impact on or about November 21, 2018.
+5.
+
+[The Student] submitted each of the BIN-SX-Chimera Report and the Oral Test
+
+Code after knowingly using an unauthorized aid and/or obtaining unauthorized assistance
+to write them, and knowing that they contained ideas and the expression of ideas and text
+from an unnamed source or sources which were not written by [her] and to which [she]
+gave no attribution.
+6.
+
+[The Student] knowingly represented the work of another person, or persons, as
+
+[her] own. [She] knowingly included in the BIN-SX-Chimera Report and the Oral Test
+Code ideas and expressions that were not [her] own, but were the ideas and expressions of
+another person, or persons, which [she] did not properly acknowledge in [her] BIN-SXChimera Report or [her] Oral Test Code.
+7.
+
+[The Student] knowingly submitted each of the BIN-SX-Chimera Report and the
+
+Oral Test Code with the intention that the University of Toronto rely on them as containing
+4
+
+[her] own ideas, expressions of ideas or work in considering the appropriate academic
+credit to be assigned to [her] work.
+8.
+
+For the purposes of obtaining academic credit and/or other academic advantage,
+
+[The Student] knowingly committed plagiarism in and used an unauthorized aid and/or
+obtained unauthorized assistance with [her] BIN-SX-Chimera Report and the Oral Test
+Code in the Course.
+3.
+
+The parties provided the Tribunal with an Agreed Statement of Facts (“ASF”), that the
+
+Student acknowledged she signed freely and voluntarily, knowing the consequences she faced,
+and with the advice of counsel. In the ASF, the Student confirmed she had received a copy of the
+charges. After hearing the submissions of counsel for both parties and reviewing the facts outlined
+in the ASF, the Tribunal found that the Student had committed the offence in paragraph 1(1) and
+1(4) above, specifically that the Student had:
+1)
+
+on or about November 1, 2018, knowingly represented as her own an idea or
+expression of an idea, and / or the work of another in the BIN-SX-Chimera Report
+that she submitted in partial completion of the requirements for the Course contrary
+to section B.I.1(d) of the Code; and
+
+2)
+
+on or about November 21, 2018, knowingly represented as her own an idea or
+expression of an idea, and / or the work of another in the Oral Test Code that she
+submitted in partial completion of the requirements for the Course contrary to
+section B.I.1(d) of the Code.
+
+5
+
+4.
+
+As a result of this finding, the Provost agreed to withdraw the charges in paragraphs 1(2),
+
+1(3), 1(5) and 1(6) above.
+5.
+
+The Student also signed an Agreed Statement of Facts for Penalty, again, freely and
+
+voluntarily, knowing the potential consequences she faced, and with the advice of counsel.
+6.
+
+The Tribunal imposed the penalty agreed to by the parties in a Joint Submission on Penalty
+
+and ordered that:
+1)
+
+the Student receive a grade of zero in BCH441H1 in the Fall 2018 term;
+
+2)
+
+the Student be suspended from the University for three and a half years from
+December 3, 2020 to June 2, 2024; and
+
+3)
+
+a notation be placed on the Student’s academic record and transcript from the day
+the Tribunal makes its order to the earlier date of:
+
+4)
+
+a)
+
+May 31, 2025; or
+
+b)
+
+the date on which she graduates from the University; and
+
+this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction or sanctions imposed, with the name of the Student
+withheld.
+
+7.
+
+At the conclusion of the hearing, the Tribunal made its order with reasons to follow. These
+
+are the reasons.
+
+6
+
+B.
+
+AGREED FACTS
+
+8.
+
+At all material times, the Student was registered at the University of Toronto. As of
+
+November 19, 2020, the Student had earned 18 credits and had a GPA of 2.31.
+9.
+
+In the 2018 Fall term, the Student was enrolled in the Course at the University of Toronto.
+
+The Course was taught by Professor Boris Steipe. The Course is an introduction to computational
+methods and internet resources in modern biochemistry and molecular biology.
+10.
+
+The Student received a copy of the syllabus for the Course. The syllabus contained the
+
+instructions for marking, including describing how students in the Course were expected to work
+through various learning units independently, in whatever order made sense to them, with the goal
+of bringing their knowledge and skill together in four main Integrator Units. Three of the Integrator
+Units were worth eight marks. The students had to choose a fourth Integrator Unit that would
+constitute their oral test, and would be worth 16 marks.
+11.
+
+The students also had to submit various preparatory Learning Units. Students could choose
+
+which Learning Units to submit for marking, with each typically worth six marks, to a maximum
+of 30 marks in total for all submitted Learning Units.
+12.
+
+At the start of the Course, students were required to complete a self-study unit on
+
+plagiarism. The Student completed the plagiarism self-study unit on September 26, 2018.
+The Student Submits a Learning Unit
+13.
+
+For one of her Learning Units, the Student submitted the UCSF Chimera unit. The Student
+
+was required to choose one of three topics, load and study a particular structure, produce
+illustrative stereo-images, and write a short report to illustrate and interpret her findings. The
+7
+
+Student chose the topic “Helix dipole: Transcription factor” using the structure 4Y60 (the “4Y60
+Report”).
+14.
+
+On November 1, 2018, the Student submitted the 4Y60 Report. Portions of the 4Y60
+
+Report contained sentences, often re-ordered, which also appear in reports on the same topic
+submitted by two other students in December 2017 (the “December 2017 Reports”). In addition,
+most of the text in the first two paragraphs of the 4Y60 Report was copied verbatim from
+assignment text written by Professor Steipe. The 4Y60 Report reproduced spelling errors that
+appeared in Professor Steipe’s assignment text and the December 2017 Reports, as well as unusual
+expressions that appeared in the December 2017 Reports.
+15.
+
+No attribution was given to Professor Steipe or the December 2017 Reports.
+
+The Student’s Oral Test
+16.
+
+The Student chose to do her oral test on the Integrator Unit “Mutation Impact” on
+
+November 21, 2018 (the “Oral Test”). As a prerequisite for the Oral Test, the Student was required
+to submit computer code (the “Test Code”) and the results from running the Test Code (the
+“Results”). The Test Code contained significant errors, which meant that it was impossible to
+produce the Results.
+17.
+
+Professor Steipe discovered that the Student’s Test Code shared non-trivial similarities
+
+with the code submitted in November 2017 by student S.Y. (“S.Y.’s Code”).
+18.
+
+A comparison of the Student’s Test Code and S.Y.’s Code reveals that they are identical
+
+but for changed variable names and comments. In addition, the Student reproduced verbatim
+critical errors which also appeared in S.Y.’s Code.
+8
+
+19.
+
+The Student’s Results were also virtually identical for S.Y.’s results, but for the last digit
+
+for four and five digit numbers. The Test Code runs three sets of 100,000 random trials. A
+similarity of the results is not explained from a similarity of the codes. Professor Steipe determined
+that the probability of similarities between the Student’s Test Code and S.Y.’s Code being due to
+chance to be approximately 1 in 5.6 billion.
+20.
+
+Moreover, during her Oral Test, the Student was unable to answer simple questions about
+
+the details of her Test Code. The Student also claimed that her Test Code ran for 20 minutes, when
+in fact, when run, it terminated immediately due to its errors. Even when the errors were corrected,
+the Test Code ran for less than 10 seconds.
+21.
+
+Twelve hours after her Oral Test, the Student emailed Professor Steipe to attempt to explain
+
+the errors in the Test Code. She claimed that she had uploaded the incorrect file for use at the Oral
+Test. However, the Student only corrected one of the two critical errors in her Test Code.
+Admissions Relating to the 4Y60 Report
+22.
+
+The Student admits that she knowingly plagiarized the work of others in relation to the
+
+4Y60 Report, contrary to section B.I.1(d) of the Code. The Student also admits that she knowingly
+obtained unauthorized assistance in relation to the 4Y60 Report, contrary to section B.I.1(b) of the
+Code. She further admits she engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code in order to obtain academic credit
+for the 4Y60 Report, contrary to section B.I.3(b) of the Code.
+
+9
+
+Admissions Relating to the Oral Test
+23.
+
+The Student admits she plagiarized the work of others in order to obtain academic credit
+
+for the Oral Test, contrary to section B.I.3(d) of the Code. She further admits that she knowingly
+obtained unauthorized assistance in connection with the Oral Test, contrary to section B.I.1(b) of
+the Code. She admits she also engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code in order to obtain academic credit
+for the Oral Test, contrary to section B.I.3(b) of the Code.
+C.
+
+FINDING OF GUILT
+
+24.
+
+Based on the evidence submitted by way of the ASF, and hearing the submissions from
+
+counsel for both parties, the Tribunal is satisfied, based on clear and convincing evidence, that the
+Student:
+1)
+
+knowingly plagiarized the work of others in relation to the 4Y60 Report, contrary
+to section B.I.1(d) of the Code;
+
+2)
+
+knowingly obtained unauthorized assistance in relation to the 4Y60 Report,
+contrary to section B.I.1(b) of the Code;
+
+3)
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit for the 4Y60 Report, contrary to section B.I.3(b) of the Code;
+
+4)
+
+plagiarized the work of others in order to obtain academic credit for the Oral Test,
+contrary to section B.I.3(d) of the Code;
+
+10
+
+5)
+
+knowingly obtained unauthorized assistance in connection with the Oral Test,
+contrary to section B.I.1(b) of the Code; and
+
+6)
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit for the Oral Test, contrary to section B.I.3(b) of the Code.
+
+25.
+
+The Tribunal accepts the Student’s guilty plea to charges outlined in paragraph 1(1) and
+
+1(4) above. Counsel for the University, accordingly, withdrew the charges outlined in paragraph
+1(2), 1(3), 1(5) and 1(6) above.
+D.
+
+PENALTY
+
+26.
+
+The parties provided a Joint Submission on Penalty.
+
+27.
+
+A joint submission on penalty should only be rejected in circumstances where giving it
+
+effect would be contrary to the public interest or would bring the administration of justice into
+disrepute. The Tribunal must determine if the outcome falls within a reasonable range of outcomes,
+recognizing the institutional value, efficiency and importance of outcomes that are achieved
+through such joint submissions. The Tribunal’s role is not to determine if it would impose the same
+penalty as that proposed by the parties.1
+28.
+
+For the purposes of penalty, the Tribunal considered the following mitigating factors. The
+
+Student:
+1)
+
+1
+
+has apologized for the breaches of the Code;
+
+See, for example, the case of S.K. (Case No.: 1031, November 11, 2019).
+
+11
+
+29.
+
+2)
+
+takes responsibility for her actions;
+
+3)
+
+is 2.5 credits from graduation;
+
+4)
+
+expressed an interest in returning to the University to finish her degree; and
+
+5)
+
+will take the time in which she is suspended to reflect on her conduct.
+
+There is no doubt that plagiarism is a serious offence that must be treated with the
+
+appropriate penalty. The Tribunal also considered the following aggravating factors:
+1)
+
+The extent of the plagiarism is extensive.
+
+2)
+
+The Student attempted to hide her plagiarism in the 4Y60 Report by altering the
+last digit in the Results.
+
+3)
+
+The Student initially attempted to cover up her plagiarism by emailing Professor
+Steipe to provide a purported explanation of the error in the Test Code.
+
+30.
+
+The parties submitted the appropriate penalty ought to be that:
+1)
+
+the Student receive a grade of zero in BCH441H1 in the Fall 2018 term;
+
+2)
+
+the Student be suspended from the University for three and a half years from
+December 3, 2020 to June 2, 2024; and
+
+3)
+
+a notation be placed on the Student’s academic record and transcript from the day
+the Tribunal makes its order to the earlier date of:
+a)
+
+May 31, 2025; or
+
+12
+
+b)
+4)
+
+the date on which she graduates from the University; and
+
+this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction or sanctions imposed, with the name of the Student
+withheld.
+
+31.
+
+The Tribunal was provided with several cases from which the Tribunal concluded that the
+
+penalty falls within a reasonable range of outcomes. The penalty is not contrary to the public
+interest nor would it bring the administration of justice into disrepute. The Tribunal therefore
+orders the penalty proposed by the parties.
+E.
+
+ORDER
+
+32.
+
+The Tribunal orders that:
+1)
+
+the Student receive a grade of zero in BCH441H1 in the Fall 2018 term;
+
+2)
+
+the Student be suspended from the University for three and a half years from
+December 3, 2020 to June 2, 2024; and
+
+3)
+
+a notation be placed on the Student’s academic record and transcript from the day
+the Tribunal makes its order to the earlier date of:
+
+4)
+
+a)
+
+May 31, 2025; or
+
+b)
+
+the date on which she graduates from the University; and
+
+this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction or sanctions imposed, with the name of the Student
+withheld.
+13
+
+DATED at Toronto, March 24, 2021.
+___________________________________
+Alexi Wood, Chair
+
+14
+
+004
+Tab A
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on July 23, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- and Y
+
+T
+
+)
+
+AGREED STATEMENT OF FACTS ON SANCTION
+
+1.
+
+For the purposes of this hearing under the Code of Behaviour on Academic
+
+Matters (“Code”), the Provost of the University of Toronto (the “Provost”) and Y
+(“Ms.
+
+T
+
+”) have prepared this Agreed Statement of Facts on Sanction (“ASF on
+
+Sanction”). The Provost and Ms.
+(a)
+
+agree that:
+
+each document attached to this JBD may be admitted into evidence
+before the Tribunal for all purposes, including for the truth of the
+document’s contents, without further need to prove the document; and
+
+(b)
+
+if a document indicates that it was sent or received by someone, that is
+prima facie proof that the document was sent and received as indicated.
+
+1.
+
+Ms. T
+
+was enrolled in LIN200H1F in Fall 2017, taught by Professor Nathan
+
+Sanders (the “LIN Course”). Ms. T
+
+submitted a homework assignment worth 3% of
+
+the grade in the LIN Course (the “Homework Assignment”).
+
+005
+
+2.
+
+On November 28, 2017, Ms. T
+
+attended a dean’s meeting with Professor
+
+Elizabeth Cowper, Dean’s Designate. Ms. T
+
+admitted at this meeting that she
+
+committed an offence with respect to the Homework Assignment. In particular, the
+following was discussed at the dean’s meeting:
+(a)
+
+students in the LIN Course were permitted to work together but were
+required to write the Homework Assignment on their own;
+
+(b)
+
+if students worked with other students in the LIN Course, there was a
+space on the Homework Assignment titled “worked with” where students
+were required to write the names of the student(s) that they had worked
+with;
+
+(c)
+
+Ms. T
+
+did not write any names in the “worked with” section of her
+
+Homework Assignment;
+(d)
+
+Ms. T
+
+did in fact work together with another student in the Course;
+
+(e)
+
+Ms. T
+
+admitted that she had shown the other student in the Course her
+
+Homework Assignment and told him that he could copy it down; and
+(f)
+
+Ms. T
+
+admitted that she had worked too closely with this other student
+
+in the Course, contrary to the LIN Course instructions.
+3.
+
+Ms. T
+
+received a sanction of a zero on the Homework Assignment and a
+
+further 2% reduction in the final grade for the LIN Course. A copy of Professor Cowper’s
+letter to Ms. T
+
+, dated November 29, 2017, is attached as Tab A.
+
+006
+
+4.
+
+Ms. T
+
+acknowledges that she is signing this ASF freely and voluntarily,
+
+knowing of the potential consequences she faces, and does so with the advice of
+counsel.
+Signed on November 26, 2020
+
+Y
+
+T
+
+Signed on November 27, 2020
+Lily Harmer
+Assistant Discipline Counsel
+University of Toronto
+
+Doc 3553783 v1
+
+009
+Tab B
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on July 23, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- and Y
+
+T
+
+)
+
+JOINT SUBMISSION ON PENALTY
+
+1.
+
+This matter arises out of charges of academic misconduct filed on July 23, 2019
+
+(the “Charges”) by the Provost of the University of Toronto (the “Provost”) under the
+Code of Behaviour on Academic Matters (“Code”). The Provost and Y
+
+T
+
+have
+
+prepared this Joint Submission on Penalty (“JSP”).
+2.
+
+Ms. T
+
+understands that the University Tribunal may depart from the
+
+recommendations contained in this JSP and may impose sanctions against her as set
+out in the Code.
+3.
+
+The Provost and Ms. T
+
+submit that, in all the circumstances of this case, the
+
+University Tribunal should impose the following sanctions on Ms. T
+(a)
+
+a final grade of zero in BCH441H1 in the Fall 2018 term;
+
+:
+
+010
+
+(b)
+
+a suspension from the University of Toronto for a period of three and a
+half years, from December 3, 2020 to June 2, 2023; and
+
+(c)
+
+a notation of the sanction on her academic record and transcript until the
+earlier of:
+
+4.
+
+(i)
+
+a period of four and a half years has passed, until May 31, 2024; or
+
+(ii)
+
+her graduation from the University.
+
+The parties agree that this case shall be reported to the Provost for publication of
+
+a notice of the decision of the Tribunal and the sanction imposed in the University of
+Toronto newspapers, with the name of the student withheld.
+5.
+
+Ms. T
+
+acknowledges that she is signing this JSP freely and voluntarily,
+
+knowing of the potential consequences she faces, and does so with the advice of
+counsel. Ms. T
+
+is signing this JSP knowing that the Tribunal is not bound by this
+
+JSP and has the discretion to impose a different penalty, including one that is more
+severe than the JSP recommends.
+Signed on November 26th, 2020
+
+Y
+
+_
+T
+
+_______
+
+Signed on November 26, 2020
+Lily Harmer
+Assistant Discipline Counsel
+University of Toronto
+
+

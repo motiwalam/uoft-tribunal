@@ -1,0 +1,487 @@
+Case No. 1198
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on April 28, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and M
+
+M
+
+H
+
+REASONS FOR DECISION
+Date of Hearing: January 5, 2022, via Zoom
+Members of the Panel:
+Ms. Sabrina A. Bandali, Chair
+Professor Marc Laflamme, Faculty Panel Member
+Ms. Lauren Membreno-Lepore, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Adrianna Mills, Representative for the Student, Downtown Legal Services
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+In Attendance:
+Mr. M
+
+\
+
+M
+
+H
+
+2
+
+Introduction
+1.
+
+A hearing before the Trial Division of the University Tribunal (the “Tribunal”) was
+
+convened on January 5, 2022 to consider charges brought by the University against
+M
+
+M
+
+H
+
+(the “Student”) under the University of Toronto’s Code of
+
+Behaviour on Academic Matters, 1995 (the "Code").
+The Charges
+2.
+
+3.
+
+The charges against the Student (the “Charges”) are as follows:
+(a)
+
+On or about April 15, 2020, the Student knowingly used or possessed an
+unauthorized aid or obtained unauthorized assistance in connection with the final
+exam in CHM B42H3 (the "Course"), contrary to section B.I.1(b) of the Code
+(“Charge No. 1”).
+
+(b)
+
+In the alternative, on or about April 15, 2020, the Student knowingly represented
+as their own an idea or expression of an idea or work of another in the final exam
+in the Course, contrary to section B.I.1(d) of the Code (“Charge No. 2”).
+
+(c)
+
+In the further alternative, on or about April 15, 2020, the Student knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with the final exam
+in the Course, contrary to section B.I.3(b) of the Code (“Charge No. 3”).
+
+Particulars of the Charges are as follows:
+(a)
+
+At all material times the Student was a student enrolled at the University of Toronto
+Scarborough.
+
+(b)
+
+In Winter 2020, the Student enrolled in the CHMB42H3 (Organic Chemistry II),
+which was taught by Professor Effie Sauer.
+
+(c)
+
+As a result of the Covid19 pandemic, the final exam in the Course was
+administered online on April 15, 2020. The final exam was worth 48.5% of students'
+final grades. The final exam was open-book; however, students were not permitted
+to collaborate with one another or to consult with outside sources.
+
+(d)
+
+Chegg.com is a subscription based website that allows students to post problems
+to the site, which are then answered by "experts". Subscribers are also able to
+access the questions and answers posted by others on the site.
+
+(e)
+
+On April 15, 2020, during the final exam, the Student posted questions from the
+final exam on Chegg.com to solicit answers. The use of Chegg.com was not
+
+3
+
+authorized. In posting questions from the final exam on Chegg.com and reviewing
+the answers submitted, the Student sought to obtain and did obtain unauthorized
+assistance in the final exam.
+(f)
+
+(g)
+
+The Student submitted the final exam:
+(i)
+
+To obtain academic credit;
+
+(ii)
+
+knowing that it contained ideas, expressions of ideas or work which were
+not their own, but were the ideas, expressions of ideas or work of others,
+including the authors of answers that were posted on Chegg.com (the
+"Chegg Sources"); and
+
+(i)
+
+knowing that the Student did not properly reference the ideas,
+expressions of ideas or work that you drew from the Chegg Sources.
+
+The Student knowingly submitted the final exam with the intention that the
+University of Toronto Scarborough rely on it as containing their own ideas or work
+in considering the appropriate academic credit to be assigned to their work.
+
+Agreed Statement of Facts
+4.
+
+The hearing proceeded on the basis of an Agreed Statement of Facts (the “ASF”).
+
+The key portions are summarized here.
+The Student's Academic History
+5.
+
+The Student first registered as a student at the University of Toronto Scarborough
+
+in Fall 2018. As of November 10, 2021, the Student has earned 16.0 credits.
+The Course
+6.
+
+In Winter 2020, the Student enrolled in CHMB42H3 (Organic Chemistry II) (the
+
+“Course”), which was taught by Professor Effie Sauer.
+7.
+
+In early March 2020, due to the COVID-19 pandemic, the Course was moved
+
+online. Given the change to online learning, Professor Effie Sauer proposed a new
+grading scheme for the Course. Under the new scheme, students would be evaluated on
+
+4
+
+the basis of labs (worth 20%), tutorials (worth 8%), a term test (worth 15%), and a final
+exam worth (40%); the remaining 17% of the course was either allocated entirely to the
+final exam, or evenly between the term test and the final exam, whichever resulted in the
+highest grade for the student. The grading scheme changes were announced and voted
+on in lecture on March 13, 2020.
+8.
+
+The syllabus contained a section on Academic Integrity (on page 5), which stated,
+
+among other things, that students were required to know the rules in the Code.
+The Exam
+9.
+
+Due to the COVID-19 pandemic, the final exam in the Course was administered
+
+online as an open-book exam on April 15, 2020 from 2:00 p.m. to 5:00 p.m. (the “Exam”).
+10.
+
+Question 1 on the Exam required students to sign the following pledge of academic
+
+integrity:
+We at the University of Toronto want you to feel proud of what you accomplish as
+students. Please respect all of the hard work you’ve done this year as you
+complete the following assessment of your learning by making sure that the work
+you do here is your own. We don’t expect you to score perfectly on this
+assessment and there will be some things that you may not know. Asking
+someone else for the answer robs you of the chance later to feel proud of how
+well you did because you’ll know that it wasn’t really your work that got you there.
+Success in university isn’t about getting a certain mark, it’s about becoming the
+very best person you can by enriching yourself with knowledge, strengthening
+yourself with skills, and building a healthy self-esteem based on how much
+you’ve grown and achieved. No one assessment captures that but your
+conscience will stay with you forever. Make yourself and your loved ones proud
+of the student that you are by conducting yourself honestly on this assessment.
+I, [___________], University of Toronto student number [___________], pledge
+to honour myself and my community by assuring that the work I do on this
+assessment fully represents my own knowledge and ideas. I will feel proud of my
+work here when I am done because I know that it was my own and only mine.
+
+11.
+
+Students were assigned 28 Exam questions, the majority of which were assigned
+
+at random. The questions that students received were taken from question “pools” (with
+
+5
+
+two questions per pool). Students were randomly assigned one of the two questions from
+the question pool.
+12.
+
+On April 15, 2020, the Student wrote and submitted his Exam. The Student
+
+completed the academic integrity pledge.
+Chegg.com
+13.
+
+Chegg.com is a subscription based website that allows students to post problems
+
+to the site (“Askers”), which are then answered by so-called “experts”. Subscribers are
+also able to access the questions and answers posted by others on the site (“Viewers”).
+The webpage advertises that a “Chegg Study” subscription costs $14.95/month and will
+allow subscribers to “take a photo of your question and get an answer in as little as 30
+mins” from an “expert”.
+14.
+
+Professor Sauer searched the text of the Exam online to ensure no students in the
+
+Course had posted it online. During the search, she found that nine of the questions from
+the Exam had been posted on Chegg.com.
+15.
+
+Professor Sauer suspected that the Student had posted the questions because all
+
+of the nine questions on Chegg.com had been assigned to the Student. The nine
+questions came from question pools. Given the use of question pools, Professor Sauer
+determined that the odds of two students having the same nine questions on their exam
+were approximately 1 in 512. Professor Sauer also determined that there were substantial
+similarities between the Student’s answers to Questions 27(a) and 27(b) and the answers
+that had been posted on Chegg.com.
+16.
+
+Chegg.com has an “Honor Code”, in which it states that its services are not
+
+intended to be used for any sort of cheating or fraud. Chegg.com permits instructors to
+request an “honor code investigation” for alleged violations of its “code”.
+
+6
+
+17.
+
+The University requested that Chegg.com conduct an honor code investigation into
+
+the Exam questions that had been posted. Chegg.com provided the University with a
+copy of data that included the following information for the nine questions:
+
+18.
+
+(a)
+
+A Question ID number for each question posted by an Asker;
+
+(b)
+
+The date and time a question was posted by an Asker;
+
+(c)
+
+The date and time a question was answered;
+
+(d)
+
+The Asker User ID;
+
+(e)
+
+The Asker’s first and last name, email ID, IP address, and school name; and
+
+(f)
+
+The text of the questions posted, and the text of the answers provided.
+
+The Chegg.com data that the University received indicated that all of the questions
+
+were posted by a single user: controlthedopamine@gmail.com. The Chegg.com data
+shows that there is no first name, last name, IP address, or school name associated with
+the user controlthedopamine@gmail.com.
+19.
+
+The matter was subsequently forwarded to the Office of the Dean.
+
+Meeting with the Dean's Designate
+20.
+
+On October 8, 2020, the Student met with Professor Nick Cheng, Dean’s
+
+Designate for Academic Integrity. The Student admits that Professor Cheng read him the
+required warnings from the Code.
+21.
+
+During the meeting, the Student admitted that he had obtained unauthoriz ed
+
+assistance from Chegg.com. He admitted that he had posted nine questions from the
+Exam on Chegg.com, and that he had copied the answers to question 27. He explained
+that, at the time of the Exam, he was having a difficult time with the pandemic. He had
+lost his job and could not keep up with his studies, and he expressed regret for his actions.
+
+7
+
+22.
+
+The Student confirms that the statements he made to the Dean’s Designate were
+
+true and accurate.
+Admissions
+23.
+
+The Student admits that he:
+(a)
+
+knowingly accessed Chegg.com to obtain unauthorized assistance while
+working on the Exam, and in doing so:
+
+(b)
+
+(i)
+
+he used controlthedopamine@gmail.com to access Chegg.com
+while he was working on the Exam;
+
+(ii)
+
+he posted nine questions to Chegg.com and requested answers to
+those questions for use on the Exam;
+
+(iii)
+
+he viewed answers that had been posted to Chegg.com,
+specifically the answers that had been posted to questions 27(a)
+and 27(b);
+
+(iv)
+
+he used the answers that had been posted to Chegg.com in his
+Exam answers for questions 27(a) and 27(b); and
+
+He is guilty of obtaining unauthorized assistance on the Exam.
+
+Decision of the Panel on the Charges
+24.
+
+The onus is on the University to establish on the balance of probabilities, using
+
+clear and convincing evidence, that one or more of the academic offences charged has
+been committed by the Student.
+25.
+
+In this case, the Student admitted and pled guilty to Charge No. 1. The Panel was
+
+satisfied that the Student’s admissions were voluntary, informed and unequivocal.
+Further, the evidence contained in the ASF and supporting documentation provided a
+clear evidentiary basis for a finding of guilt.
+26.
+
+Following deliberations and based on the ASF and its supporting documentation,
+
+the Panel concluded that Charge No. 1 had been proven with clear and convincing
+
+8
+
+evidence on a balance of probabilities, and accepted the guilty plea of the Student in
+respect of that charge. The Panel was advised that if the Student is convicted on Charge
+No. 1, the University would withdraw the alternative Charge Nos. 2 and 3.
+Submissions on Penalty
+27.
+
+The University and the Student submitted an Agreed Statement of Facts and Joint
+
+Submission on Penalty (the “JSP”). In the JSP, the parties submitted that the Tribunal
+should impose the following sanctions on the Student:
+(a)
+
+a final grade of zero in CHMB42H3 in Winter 2020;
+
+(b)
+
+the Student will be suspended from the University of Toronto for a period of
+2 years and 4 months, commencing on May 1, 2022 and ending on Augus t
+31, 2024; and
+
+(c)
+
+this sanction will be recorded on the Student’s academic record and
+transcript from the date of the Tribunal’s order until graduation.
+
+28.
+
+The parties also submitted that this case shall be reported to the Provost of the
+
+University of Toronto (the "Provost") for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the name of the Student withheld.
+Decision of the Panel on Penalty
+29.
+
+The Tribunal is aware of the value in respecting and deferring to joint submissions
+
+on penalty. As the Discipline Appeals Board determined in The University of Toronto and
+M. A. (Case No. 837, December 22, 2016), the threshold to reject a joint submission on
+penalty “may be rejected by a panel only in circumstances where to give effect to it would
+be contrary to the public interest or would bring the administration of justice into disrepute”
+(para 24).
+30.
+
+In the Panel’s view, the joint submission in this case is reasonable. The Panel
+
+considered the factors and principles relevant to sanctions set out by this Tribunal in
+
+9
+
+University of Toronto and Mr. C (Case No. 1976/77-3, November 5, 1976), namely the
+character of the Student, the likelihood of repetition of the offence, the nature of the
+offence committed, any extenuating circumstances surrounding the commission of the
+offence, the detriment to the University occasioned by the offence, and the need to deter
+others from committing similar offences (page 12).
+31.
+
+In this case, the Panel considered in particular the serious nature of the offence,
+
+and the need for general deterrence, especially in the context of the shift to online
+learning. Balanced against these factors are the Student's cooperation in the process,
+early admission of the misconduct, and entry into the ASF and JSP, which demonstrate
+insight and that he is taking responsibility for his actions. He had no prior offences. The
+Panel also considered the extenuating circumstances of the COVID19 pandemic and
+resulting personal impacts on the Student.
+32.
+
+Having regard to the above, and based on its review of similar cases presented by
+
+counsel, the Panel agreed that the recommended sanctions are reasonable in the
+circumstances, and made the following order:
+(a)
+
+the Student is guilty of one count of knowingly using or possessing an
+unauthorized aid or obtaining unauthorized assistance, contrary to section
+B.I.1(b) of the Code.
+
+(b)
+
+(c)
+
+The following sanctions shall be imposed on the Student:
+(i)
+
+a final grade of zero in CHMB42H3 in Winter 2020;
+
+(ii)
+
+the Student will be suspended from the University of Toronto for a
+period of 2 years and 4 months, commencing on May 1, 2022 and
+ending on August 31, 2024; and
+
+(iii)
+
+this sanction will be recorded on the Student’s academic record and
+transcript from the date of the Tribunal’s order until graduation.
+
+This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+
+10
+
+Dated at Toronto, this 29th of March, 2022,
+
+Original signed by:
+__________________________________________
+Sabrina A. Bandali, Chair
+On behalf of the Panel
+
+

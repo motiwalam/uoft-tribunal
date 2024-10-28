@@ -1,0 +1,684 @@
+Case No.: 845
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on February 5, 2016
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+---
+
+B
+
+D
+
+REASONS FOR DECISION
+
+Hearing Date: June 12, 2017
+
+Members of the Panel:
+Ms. Johanna Braden, Barrister and Solicitor, Chair
+Professor Ernest Lam, Faculty Panel Member
+Mr. Sean McGowan, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland, Barristers
+Mr. Robert Sniderman, Student-at-law, Downtown Legal Services
+
+In Attendance:
+Ms. Lucy Gaspini, Manager, Academic Integrity and Affairs, Office of the Dean, U of T,
+Mississauga
+Ms. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Ms. Clara Ryu, Student-at-law, Downtown Legal Services (observer)
+
+---
+
+Not in Attendance
+Ms. B
+D
+
+, the Student
+
+2
+
+1.
+
+-
+
+The Trial Division of the University Tribunal was convened on June 12, 2017, to
+
+--
+
+consider charges brought by the University of Toronto (the “University”) against Ms. B
+D
+
+(the “Student”) under the University of Toronto Code of Behaviour on Academic
+
+Matters, 1995 (the “Code”).
+
+The Charges and Particulars
+2.
+
+The Charges and Particulars alleged against the Student are as follows.
+Charges
+1. On or about July 16, 2014, you knowingly forged or in any other way altered or
+falsified a document or evidence required by the University of Toronto, or uttered,
+circulated or made use of any such forged, altered or falsified document, namely Test
+#2, which you submitted in support of your request for remarking in MGT120H5
+(“Accounting Course”), contrary to Section B.I.1(a) of the Code.
+
+2. In the alternative to paragraph 1, by submitting Test #2 in the Accounting Course, you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit or other academic advantage.
+
+3. On or about March 18, 2015, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in a paper titled “EAB – House Arrest”
+(“Paper”) which you submitted for academic credit in SOC209H5 (“Law Course”),
+contrary to section B.I.1(d) of the Code.
+
+4. In the alternative to paragraph 3, by submitting the Paper in the Law Course you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit or other academic advantage.
+
+3
+
+Particulars
+The particulars of the offences charged are as follows:
+
+5. At all material times you were a student registered at the University of Toronto
+Mississauga.
+
+MGT120H5
+6. In Summer 2014, you enrolled in the Accounting Course, which was taught by
+Professor Seguin.
+
+7. On or about June 12, 2014, you wrote Test #2.
+
+8. You received a mark of 14/45 on Test #2.
+
+9. On or about July 16, 2014, you submitted a document to Professor Seguin for
+remarking which you claimed was your Test #2. You claimed that there was an addition
+error on the front page and that you were entitled to an additional six marks.
+
+10. You forged or altered Test #2 and resubmitted that forged or altered document as
+your resubmitted Test #2.
+
+11. You knew that the resubmitted Test #2 had been forged or altered and contained
+false information when you submitted it.
+
+12. You knowingly submitted the resubmitted Test #2:
+
+(a) understanding that the University of Toronto required evidence to be
+presented in order to obtain the additional marks you sought;
+
+(b) with the intention that the University of Toronto rely on it in considering
+whether or not to provide you with the additional marks you requested; and
+
+(c) in an attempt to obtain an academic advantage.
+
+4
+
+SOC209H5
+13. In Winter 2015 you enrolled in the Law Course.
+
+14. On or about March 18, 2015, you submitted the Paper in partial completion of the
+Course requirements.
+
+15. You submitted the Paper knowing that it contained ideas, the expressions of ideas,
+and verbatim or nearly verbatim text from articles (the “Sources”), including but not
+limited to:
+
+(a) “Studying the Characteristics of Arrest Frequency Among Paroled Youthful
+Offenders” downloaded at jrc.sagepub.com
+
+(b) “Race and Probability of Arrest” found at:
+http://sf.oxfordjournals.org/content/81/4/1381.short
+
+(c) “Neighborhood Drug Arrest Rates: Are They A Meaningful Indicator of Drug
+Activity? A Research Note” found at:
+http://jrc.sagepub.com/content/40/2/123.abstract
+
+(d) “Examining Diffusion and Arrest Avoidance Practices Among Johns”
+downloaded from cad.sagepub.com
+
+(e) “Psychiatric Hospital Capacity, Homelessness, and Crime and Arrest Rates”
+found at
+http://www.altmetric.com/details.php?domain=onlinelibrary.wiley.com&doi=10.11
+11/j.1745-1925.2006.00042.x
+
+16. You knowingly represented the work of another person, or persons, as your own,
+and you knowingly included ideas and expressions that were not your own, but were the
+ideas and expressions of other persons, which you did not acknowledge in the Paper.
+
+17. For the purposes of obtaining academic credit and/or other academic advantage,
+you knowingly committed plagiarism in the Paper.
+
+5
+
+The Student’s Plea
+3.
+
+The Student was not present, apparently because a family member had become
+
+seriously ill.
+
+She was represented by Downtown Legal Services.
+
+Through her
+
+representative, the Student admitted charges 1 and 3. These admissions were reflected in a
+written Agreed Statement of Facts, which had been signed by the Student. With the
+permission of the Tribunal, the University withdrew the alternative charges 2 and 4.
+The Evidence
+4.
+
+The evidence before the Tribunal was presented by an Agreed Statement of Facts.
+
+The key portions are reproduced here without the documents referred to therein.
+MGT120H5
+1.
+
+In the 2014 Summer term, the Student enrolled in MGT120H5 – Financial
+
+Accounting, which was taught by Professor Catherine Seguin (“Accounting Course”).
+Students in the Accounting Course were required to obtain a mark of 63% to meet the
+requirements for entry into the Commerce Program.
+2.
+
+A copy of the course outline for the Accounting Course (“Accounting Course
+
+Outline”) is included in the JBD at Tab 4. The Student admits that she received a copy
+of the Accounting Course Outline.
+3.
+
+The academic requirements for the Course included two term tests, each worth
+
+25% of the Accounting Course mark. The Accounting Course Outline advised students
+that:
+•
+
+Term tests will be returned and taken up in the tutorial following the test on June
+3rd for Test #1 and June 17th for Test #2.
+classroom will NOT be remarked.
+
+Papers taken out of the tutorial
+
+6
+
+•
+
+Solutions to both term tests will be posted on the web soon after it is written. …
+Students must bring a copy of the solutions with them to their tutorial the week
+following the test …
+
+4.
+
+The Student wrote Term Test #2 on June 12, 2014. Term Test #2 consisted of
+
+thirteen multiple choice questions – Part A, and three problems – Parts B, C and D. The
+front page of Term Test #2 again reminded students that the test would be handed back
+and the marking key taken up on June 17 (“Tutorial”), and that papers would not be
+accepted for remarking if taken out of the Tutorial classroom. A copy of the Student’s
+Test #2 is included in the JBD at Tab 5.
+5.
+
+Term Test #2 was marked by three Teaching Assistants, with Part A marked by
+
+M.S, Part B marked by A.N, and Parts C and D marked by R.T.H.N. A.N. also doublechecked the addition of the total marks on the front page of the tests.
+6.
+
+Term Test #2 and its solutions were posted to Blackboard on June 16, 2014.
+
+A screenshot of the Blackboard post is included in the JBD at Tab 6.
+7.
+
+The Student attended the Tutorial on June 17, 2014 where the solutions for Term
+
+Test #2 were reviewed and discussed. She spoke with the tutorial assistant A.N. at
+length at that Tutorial about finding additional marks in her test paper.
+8.
+
+On July 2, 2014, the Student sent an email to A.N. asking when the final marks
+
+for the Accounting Course final exam would be available. She told him that she had
+done very badly on Term Test #2, receiving a mark of 32, and that in order to get the
+required mark of 63 in the Accounting Course to permit her to meet the Commerce entry
+requirement she needed a 75% on the final exam in the Accounting Course. She asked
+A.N. if there was any way she could get 63% in the Accounting Course. A.N. responded
+that she would need to speak to Professor Seguin as she was the only person who could
+increase her grade. The Student then asked A. N. to put in a good word for her with
+Professor Seguin. A copy of that email correspondence between the Student and A.N.
+starting on July 2, 2014 is included in the JBD at Tab 7.
+9.
+
+The Student sent a similar email to Professor Seguin on July 3, 2014, explaining
+
+that she really needed to get 63% in the Accounting Course. The email exchange
+
+7
+
+between the Student and Professor Seguin on July 3 and 4, 2014 is included in the JBD
+at Tab 8.
+10.
+
+On July 12, 2104, the Student sent another email to Professor Seguin in which
+
+she indicated that her mark for Term Test #2 had been entered incorrectly “as it was not
+added up right on the front page”. She asked if it could be fixed. Professor Seguin
+asked the Student to drop off her Term Test #2 for a re-check. A copy of the Student’s
+email correspondence with Professor Seguin on July 12, 2014 and Professor Seguin’s
+response of July 14, 2014 is included in the JBD at Tab 9.
+11.
+
+The Student then advised Professor Seguin that she was leaving the country and
+
+asked if she could send a scanned copy of her Term Test #2. Professor Seguin told her
+she would need to see the original hard copy, and asked her why she hadn’t brought the
+mark issue up at the Tutorial. The Student responded that she was in a rush and hadn’t
+looked over the test properly while at the Tutorial.
+
+A copy of the email exchange
+
+between the Student and Professor Seguin on July 14 and 15, 2014 is included in the
+JBD at Tab 10.
+12.
+
+The Student submitted her Term Test #2 for re-marking on July 16, 2014,
+
+together with a handwritten note written by her (“Note”). The Note claimed that the
+Student’s mark for the multiple choice questions in Part A should have been 8 rather
+than 6, and that 4 marks had not been counted in Part C. A copy of the Note is included
+in the JBD at Tab 11.
+13.
+
+After learning from A.N. that he had spoken at length with the Student at the
+
+Tutorial about the possibility of additional marks, Professor Seguin told the Student that
+she would not accept her Term Test #2 for re-marking.
+14.
+
+The Student advised Professor Seguin that she believed A.N. was mistaken, and
+
+denied having spoken with him at the Tutorial. She further attempted to clarify that she
+wasn’t claiming that she had “earned more marks in a certain place, there is just an
+addition error that needs to be corrected”. A copy of this email from the Student on July
+17, 2014 is included in the JBD at Tab 12.
+
+8
+
+15.
+
+The Student also contacted A.N. on July 17, 2014, and suggested that their
+
+conversation about additional marks had taken place after Term Test #1, and not after
+Term Test #2.
+
+She told him that “after the second test we did not have any
+
+conversation”, and asked him to “please try to remember that and let the professor
+know”. A copy of the Student’s email of July 17, 2014 to A.N. in included in the JBD at
+Tab 13.
+16.
+
+Professor Seguin asked each of the 3 TAs who had marked Term Test #2 to
+
+review the Student’s term test #2 paper to confirm whether or not the handwriting on the
+Student’s paper was their handwriting.
+
+Each of them denied that it was theirs.
+
+Professor Seguin further compared the ink used by and the handwriting of the markers
+on seven other students’ Term Test #2 papers, and concluded that these were not the
+same as those on the Student’s re-submitted paper.
+17.
+
+A chart showing the Student’s marks in the Accounting Course is included in the
+
+JBD at Tab 14.
+18.
+
+The Student was invited to attend a meeting with the dean’s designate on
+
+November 10, 2014 to discuss an allegation that she had altered answers on her
+marked Term Test #2 and then submitted it for re-marking in an attempt to gain extra
+marks. That meeting was rescheduled to February 27, 2015 at the Student’s request. In
+January, 2015, the Student retained Downtown Legal Services, and the meeting was
+rescheduled again to March 6, 2015.
+19.
+
+The Student attended a meeting with the Dean’s Designate on March 6, 2015.
+
+At that time she admitted that she had obtained a blank copy of Term Test #2 from
+Blackboard and had forged her re-submitted Term Test #2 in order to get an additional 3
+marks in the Accounting Course, to raise her final mark from 60 to 63.
+
+.A written
+
+statement that the Student provided at that meeting is included in the JBD at Tab 15. A
+copy of an Admission of Guilt Form signed by the Student on March 6, 2015 at that
+meeting is included in the JBD at Tab 15A.
+20.
+
+The Student admits that she knowingly altered her answers to Term Test #2
+
+before resubmitting it for remarking by re-writing it, adding answers and marks that had
+not been on her term test on June 12, 2014 when the test was written, but which were
+
+9
+
+added after she received her answer paper back at the Tutorial and the solutions were
+made available to her. She admits that she did so for the purpose of obtaining an
+academic advantage in the Course.
+21.
+
+The Student admits that she forged, altered or falsified and circulated or made
+
+use of an altered or falsified Term Test contrary to section B.I.1(a) of the Code and that
+she is guilty of charge #1 of the Charges.
+SOC209H5
+22.
+
+In Winter 2015 the Student enrolled in SOC209H5 – Current Issues in Law and
+
+Criminology (“SOC Course”), which was taught by Professor Goodman.
+23.
+
+The SOC Course evaluations included a requirement that students submit an
+
+Expanded Annotated Bibliography which required students to write a critical summary
+and analysis of six articles chosen by them on a particular topic (“SOC Paper”). The
+SOC Paper was worth 25% of the final SOC mark. A copy of the course outline for the
+SOC Course is included in the JBD at Tab 16.
+24.
+
+Students were given information about expectations of academic integrity, and in
+
+particular about plagiarism and writing resources (see page 10 of the SOC Course
+Outline at Tab 16).
+25.
+
+On March 18, 2015, the Student submitted her SOC Paper entitled “EAB –
+
+House Arrest”. A Turnitin analysis revealed that her SOC Paper had a 40% similarity
+index. A copy of the Student’s SOC Paper with the Turnitin analysis is included in the
+JBD at Tab 17.
+26.
+
+Students in the SOC Course had access to their Turnitin report at the time they
+
+submitted their SOC Paper. Students therefore had the opportunity to fix errors with
+regards to plagiarism after seeing their Turnitin report providing they submitted their
+SOC Paper early enough to have time to fix any errors.
+27.
+
+Professor Goodman compared the Student’s SOC Paper against internet
+
+sources identified by Google which revealed that the Student’s SOC Paper had
+
+10
+
+approximately one third or more of the text copied almost verbatim from the articles she
+had selected to write about. A highlighted copy of the Student’s SOC Paper is included
+in the JBD at Tab 18. Correspondingly highlighted copies of six web articles from which
+the Student plagiarized portions of her SOC Paper are included in the JBD at Tabs 18A
+through 18F (“Sources”).
+28.
+
+The Student’s total mark in the SOC Course without the SOC Paper was 47.61.
+
+29.
+
+The Student attended a meeting with the Dean’s Designate to discuss the
+
+allegation that she had plagiarized portions of her SOC Paper on November 26, 2015.
+The Student admitted at that meeting that she had plagiarized her SOC Paper. A copy
+of an Admission of Guilt form signed at that meeting is included in the JBD at Tab 19.
+30.
+
+The Student admits that she:
+(a)
+
+included verbatim or nearly verbatim excerpts from the Sources in the
+SOC Paper;
+
+(b)
+
+failed to attribute those verbatim or nearly verbatim excerpts appropriately
+using citations, quotation marks or other appropriate means;
+
+(c)
+
+represented in the SOC Paper the ideas of another person, the
+expression of the ideas of another person, or the work of another person
+as her own; and
+
+(d)
+
+committed plagiarism, contrary to section B.I.1(d) of the Code.
+
+Decision of the Tribunal on the Charges
+5.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+
+and convincing evidence, that one or more of the academic offences charged has been
+committed by the Student.
+6.
+
+In this case, the Student admitted the Charges. The Tribunal was satisfied that the
+
+Student’s admissions were voluntary, informed and unequivocal.
+
+Further, the evidence
+
+11
+
+contained in the Agreed Statement of Facts and accompanying documents clearly proved
+that the Student committed two acts of academic dishonesty.
+(a)
+
+First, she falsified the marks on her test and then made use of the false test to
+
+try to get a better grade in her Accounting Course than she was entitled to. When first
+confronted she continued to lie and tried to undermine the reliability of a teaching
+assistant. She soon recanted, and admitted her misconduct. On March 10, 2015, she
+wrote a letter to be considered in the Dean’s Review, where she promised that she
+would never cheat again.
+(b)
+
+Despite her promise to never cheat again, on March 18, 2015 - while she
+
+awaited the results of the Dean’s Review of her falsified test - the Student submitted a
+paper for her Law Course that was plagiarized in significant respects from multiple
+sources.
+7.
+
+In light of the Tribunal’s finding, Charges 2, and 4 were withdrawn by the University.
+
+Submissions on Penalty
+8.
+
+There was a joint submission on penalty, in which both parties requested that the
+Tribunal make an order including the following sanctions:
+(a)
+
+(b)
+
+A final grade of zero in:
+(a)
+
+MGT120H5 in the 2014 Summer term; and
+
+(b)
+
+SOC209H5 in the 2015 Winter term;
+
+A suspension from the University for a period of three years, commencing on
+June 13, 2017 and ending on June 12, 2020;
+
+(c)
+
+A notation on the Student’s academic record and transcript to the effect that
+she was sanctioned for academic misconduct for a period of four years,
+commencing on June 13, 2017 and ending on June 12, 2021; and
+
+12
+
+9.
+
+The parties also submitted that it would be appropriate for the Tribunal to report this
+
+case to the Provost for publication of a notice of the decision of the Tribunal and the sanction
+or sanctions imposed in the University newspapers, with the name of the student withheld.
+
+Decision of the Tribunal on Penalty
+10.
+
+The Tribunal is aware of the value in respecting and deferring to joint submissions.
+
+While the Tribunal retains the discretion to reject joint submissions in appropriate cases, the
+fact that adversarial parties have been able to agree on the appropriate sanction is a good
+indication in and of itself that the appropriate balancing of interests has occurred.
+11.
+
+The Tribunal considered the factors and principles relevant to sanction set out by this
+
+Tribunal in University of Toronto and Mr. C (Case No. 1976/77-3, November 5, 1976). The
+most significant factors for the Tribunal were as follows.
+(a)
+
+The character of the Student: although the Student did not personally attend
+the hearing, she did have representation and made admissions through her
+representatives and in writing. The Tribunal recognizes that by admitting her
+guilt the Student has taken responsibility for her actions and demonstrated
+remorse. These are her first academic offences.
+
+(b)
+
+The likelihood of a repetition of the offence: the Tribunal was very concerned
+that the misconduct in this case involved two incidents of dishonesty. The
+second came on the heels of the first, just after the Student had written a
+seemingly heart-felt letter claiming to have learned her lesson and promising to
+never cheat again.
+
+A significant penalty is required to ensure specific
+
+deterrence for this Student.
+(c)
+
+The nature of the offence committed: all academic dishonesty is serious. The
+falsified test – which the Student tried to resubmit for grading a month after she
+
+13
+
+had received her mark - shows a degree of calculation and deliberation. She
+persisted with her lie for some time.
+
+The plagiarized paper also shows
+
+elements of planning and deliberation. She took from multiple sources that she
+failed to properly attribute, such that this cannot be explained as an accident,
+an oversight or even an error in judgment.
+(d)
+
+Any extenuating circumstances surrounding the commission of the offence:
+there was a letter from the Student entitled “Personal Statement”, setting out
+the stress she had been under at home and at school when she falsified her
+test paper and resubmitted it.
+
+The value of this Personal Statement is
+
+diminished by the Student’s own actions in committing a second act of
+academic dishonesty a week after she submitted the Personal Statement for
+the Dean’s consideration.
+
+The Panel accepts that the Student was under
+
+stress, and felt a degree of desperation. However, that is the case for many
+students who cheat.
+
+It does little to mitigate the deliberate and sustained
+
+nature of the Student’s dishonesty.
+(e)
+
+The detriment to the University occasioned by the offence: on this point, the
+Tribunal was especially troubled by the Student’s efforts to drag her teaching
+assistant into her dishonest scheme to submit a falsified test for remarking.
+
+(d)
+
+The need to deter others from committing similar offences: deliberate
+dishonesty must always be denounced and deterred in order to protect the
+academic integrity of the University.
+
+12.
+
+In addition to the factors from the C. case, the Tribunal considered other cases of this
+
+Tribunal in similar circumstances. The University submitted a Book of Authorities including
+five cases from this Tribunal of offences involving falsified tests submitted for re-grading and
+plagiarism. No two cases are identical, and the Tribunal is not bound by past decisions.
+However, the Tribunal strives to develop a consistent body of case law so that students are
+treated fairly and equitably.
+13.
+
+The joint submission in this case was squarely within the range of sanctions imposed
+
+in similar cases. It does not bring the administration of justice into disrepute and is not
+
+14
+
+otherwise contrary to the public interest. It strikes a fair balance between the mitigating and
+aggravating factors.
+14.
+
+In all of the circumstances, the Tribunal is satisfied that the following Order is
+
+appropriate:
+1.
+
+That the Student is guilty of one count of forgery and one count of plagiarism
+contrary to sections B.I.1(a) and (d) of the Code of Behaviour on Academic
+Matters;
+
+2.
+
+3.
+
+That the Student receive a final grade of zero in:
+(a)
+
+MGT120H5 in the 2014 Summer term; and
+
+(b)
+
+SOC209H5 in the 2015 Winter term;
+
+That the Student be suspended from the University for a period of three years,
+commencing on June 13, 2017 and ending on June 12, 2020;
+
+4.
+
+That the sanction be recorded on the Student’s academic record and transcript
+to the effect that she was sanctioned for academic misconduct for a period of
+four years, commencing on June 13, 2017 and ending on June 12, 2021; and
+
+5.
+
+That this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto this 26th day of
+
+July , 2017
+
+______________________________
+Ms. Johanna Braden, Panel Chair
+
+

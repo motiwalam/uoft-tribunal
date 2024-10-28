@@ -1,0 +1,320 @@
+Case No.: 992
+
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic misconduct filed on December 14, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c.
+88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+(The “University”)
+- and M
+
+A
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: September 19, 2019
+Panel Members:
+Ms. Michelle S. Henry, Lawyer, Chair
+Professor Richard B. Day, Faculty Panel Member
+Mr. David Allens, Student Panel Member
+Appearances:
+Ms. Lily I. Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Kristy Wong, Law Student, Downtown Legal Services, Representative for the Student
+Hearing Secretary
+Ms. Jennifer Dent, Associate Director, Appeals, Discipline and Faculty Grievances, University of
+Toronto
+In Attendance:
+The Student
+
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on September 19, 2019,
+to consider charges of academic misconduct brought by the University against the Student
+under the Code of Behaviour on Academic Matters, 1995 (the “Code”). The Student was
+informed of the charges by letter dated December 14, 2018, from Professor Heather Boon,
+Vice-Provost, Faculty & Academic Life.
+THE CHARGES
+2. At all material times, the Student was a registered student at the University of Toronto,
+Mississauga (“UTM”). The University alleges that the Student engaged in the following
+offences:
+1. On or about August 3, 2017, the Student knowingly represented as his own an idea
+or expression of an idea, and/or the work of another in a take home midterm exam
+("HIS221 Midterm") that he submitted in partial completion of the requirements
+for HIS221H5S ("HIS221") contrary to section B.I.1(d) of the Code.
+2. On or about November 7, 2017, he knowingly used or possessed an unauthorized
+aid or obtained unauthorized assistance in an essay titled "A Symbolic Interactionist
+Analysis of Weightlifting and Consumerism" ("SOC100 Essay") that he submitted
+in partial completion of the requirements for SOC100H5F ("SOC100") contrary to
+section B.I.1(b) of the Code.
+3. In the alternative to paragraph 2, on or about November 7, 2017, he knowingly
+represented as his own an idea or expression of an idea, and/or the work of another
+in his SOC100 Essay that he submitted in partial completion of the requirements
+for SOC100 contrary to section B.I.1(d) of the Code.
+4. On or about February 12, 2018, he knowingly represented as his own an idea or
+expression of an idea, and/or the work of another in an assignment titled "Batesian
+mimicry of Viceroy Butterflies and its effectiveness to predation compared to
+Monarch and Queen butterflies" (B10360 Report") that he submitted in partial
+completion of the requirements for BI0360H5S ("B10360") contrary to section
+B.I.1(d) of the Code.
+5. On or about February 28, 2018, he knowingly obtained assistance with an assignment
+titled "Lab 1 Assignment Part II" (BI0202 Assignment") that he submitted in partial
+completion of the requirements for BI0202H5S ("B10202") contrary to section
+B.I.1(b) of the Code.
+6. In the alternative to paragraph 5, on or about February 28, 2018, he knowingly
+represented as his own an idea or expression of an idea, and/or the work of another, in
+2
+
+his B10202 Assignment that he submitted in partial completion of the requirements for
+B10202 contrary to section B.I.1(d) of the Code.
+7. In the alternative to paragraphs 1 through 6 above, he knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in the Course, contrary to section B.I.3(b) of the Code in connection with:
+a)
+his HIS221 Midterm submitted in partial completion of the
+requirements for HIS221;
+b)
+his SOC100 Essay that he submitted in partial completion of the
+requirements for SOC100;
+c)
+his B10360 Report that he submitted in partial completion of the
+requirements for B10360; and/or
+d)
+his BI0202 Assignment that he submitted in partial completion of
+the requirements for BI0202.
+AGREED STATEMENT OF FACTS
+3. The Hearing proceeded on the basis of an Agreed Statement of Facts. The Panel also received
+a Joint Book of Documents that is referred to in the Agreed Statement of Facts. The following
+is an abridged version of the Agreed Statement of Facts.
+The Assignments
+HIS221H5
+4. In Summer 2017, the Student was enrolled in HIS221H5: Themes in Medieval History, taught
+by Professor Abdullah Farooqi (“HIS221”). Students in HIS221 were required to write a takehome midterm test worth 20% of the HIS221 mark. The Student submitted his HIS221
+midterm test on August 3, 2017 (“HIS221 Midterm”).
+5. While marking the Student’s HIS221 Midterm, Professor Farooqi noticed that the writing style
+was of a distinctly different and more sophisticated calibre than earlier written work that he
+had received from the Student. Using Google searches, Professor Farooqi identified a number
+of sources from which the Student’s HIS221 Midterm appeared to be copied. All but one
+paragraph contained identical text to parts of an essay found at
+http://www.customessaymeister.com/customessays/History:%20Ancient/17634.htm
+; and the
+remaining paragraph contained verbatim text from a Wikipedia page.
+
+3
+
+6. Professor Farooqi met with the Student to discuss his concerns about plagiarism in the
+Student’s HIS221 Midterm on August 25, 2017.
+SOC100H5
+7. In the 2017 Fall term, the Student enrolled in SOC100H5: Introduction to Sociology
+(“SOC100”), taught by Professor Jayne Baker. Students in SOC100 were required to submit
+an essay worth 20% of the SOC100 course mark. Students could choose to write about the
+topic of groupthink or virtual communities. The topic of consumerism was not one of the
+topics about which students were asked to write their essays.
+8. On November 7, 2017, the Student submitted his essay, titled “A Symbolic Interactionist
+Analysis of Weightlifting and Consumerism” (“SOC100 Essay”) to Turnitin. Turnitin flagged
+a 48% Similarity Index with another student paper previously submitted in an earlier SOC100
+class called “Weightlifting and Consumerism: A Symbolic Interactionist Analysis” (“SOC100
+Source Essay”).
+9. Professor Baker compared the SOC100 Essay to the SOC100 Source Essay and confirmed that
+many of the words and phrases in the SOC100 Essay were copied directly from the SOC100
+Source Essay.
+10. Professor Baker attempted to schedule a meeting with the Student in mid-November 2017 to
+discuss his SOC100 Essay. The Student attempted to withdraw from SOC100 without
+academic penalty. He was not permitted to do so in the face of Professor Baker’s concerns
+about his SOC100 Essay. The Student met with Professor Baker to discuss his SOC100 Essay
+on November 14, 2017. The Student did not write the final exam in SOC100 in December
+2017.
+11. The Student requested a meeting with the Office of Academic Integrity at UTM to discuss
+academic offences. He did not attend a meeting scheduled for November 22, 2017, but
+corresponded by email with Alex Di Blasio, Academic Integrity Assistant, about the potential
+consequences of having two plagiarism offences. In particular, the Student indicated that he
+wished to graduate in 2020, and asked for leniency in his penalty if he showed improvement
+in his courses. He was advised that grades did not have an impact on sanction for academic
+misconduct.
+BIO360H5S
+12. In the 2018 Winter term, the Student enrolled in BIO360H5S: Biometrics I (“BIO360”), taught
+by Professor Helene Wagner. Students in BIO360 were required to submit a written report
+worth 7% of the BIO360 course mark. The report required students to write about a particular
+case study called “Revising a Classic Butterfly Mimicry Scenario: Demonstration of Mullerian
+4
+
+Mimicry Between Florida Viceroys (Limenitis Archippus Floridensis) and Queens (Danaus
+Gilippus Berenice)” (“Required Case Study”).
+13. On February 12, 2018, the Student submitted a report called “Batesian mimicry of Viceroy
+Butterflies and its effectiveness to predation compared to Monarch and Queen butterflies”
+(“BIO360 Report”) to Turnitin. Turnitin indicated a 67% similarity index with three sources:
+43% with the Required Case Study; 16% with a student paper submitted to the University; and
+8% with an internet source scholarblogs.emory.edu (“Emory Internet Source”).
+14. A Google search for the Emory Internet Source identified by Turnitin revealed an article called
+“Survival of the Fittest: Monarch and Viceroy Butterflies”. Words, phrases, ideas and
+expressions of ideas from the first two paragraphs of the Emory Internet Source appeared in
+the first two paragraphs of the Introduction section of the Student’s BIO360 Report.
+15. Professor Wagner met with the Student to discuss her concerns about alleged plagiarism in his
+BIO360 Report on March 6, 2018.
+BIO202H5S
+16. In the 2018 Winter term, the Student was also enrolled in BIO202H5S: Introductory Animal
+Physiology (“BIO202”), taught by Professor Nagham Abdalahad. Students in BIO202 were
+required to submit a series of lab assignments, including Lab I Assignment Part II, worth 6.5%
+of the final mark in BIO202.
+17. The Student submitted his Lab 1 Assignment Part II to Turnitin on February 28, 2018 (“
+BIO202 Lab Report”). Turnitin indicated an 87% similarity index with a student paper
+submitted to the University. Turnitin identified two student papers as comparators to the
+BIO202 Lab Report.
+18. The Student admits that he copied his
+BIO202 Lab Report from an assignment which he
+found on a computer available for use by students in the UTM Student Centre. He changed
+the assignment file which he found on that computer by including his specific class data, but
+otherwise kept everything else the same.
+19. The Student met with Professor Abdalahad together with Diane Matias, the Undergraduate
+Advisor, Department of Biology at UTM, on March 20, 2018, and again at a joint meeting with
+A.V. and R.N. on March 23, 2018, to discuss the significant similarities amongst the
+BIO202 Lab Report, the A.V. BIO202 Lab Report and the R.N. BIO202 Lab Report.
+Meeting with Dean’s Designate
+20. The Student was invited to attend a meeting with the Dean’s Designate at UTM to address four
+separate reports regarding allegations of academic misconduct, in particular plagiarism in
+5
+
+connection with the HIS221 Midterm, the SOC100 Essay, the BIO360 Report, and the
+BIO202 Lab report.
+21. The Student attended a Dean’s meeting with Dean’s Designate Professor Michael Georges on
+June 28, 2018. During the Dean’s meeting, the Student admitted that he was guilty of
+committing an academic offence in respect of each of the four assignments in issue.
+Admissions and Acknowledgements
+22. The Student acknowledges that at all material times he was provided with information about
+academic integrity, and about plagiarism in particular, and that he had access to sufficient
+resources to understand how to avoid plagiarism. The Student admits that he knowingly:
+(a)
+
+included verbatim or nearly verbatim text and ideas in the HIS221 Midterm Paper
+that were taken from the Custom Service Essay and the Wikipedia Source without
+attribution to identify the copied text as someone else’s words and ideas;
+
+(b)
+
+included verbatim or nearly verbatim text and ideas in the SOC100 Essay that were
+taken from the SOC Source Essay without attribution to identify the copied text as
+someone else’s words and ideas ;
+
+(c)
+
+included verbatim or nearly verbatim text and ideas in the BIO360 Report that were
+taken from the Required Case Study and the Emory Internet Source without
+attribution to identify the copied text as someone else’s words and ideas;
+
+(d)
+
+included verbatim or nearly verbatim text and ideas in the
+BIO202 Lab Report
+that were taken from the A. V. BIO202 Lab Report and/or the R. N. BIO202 Lab
+Report without attribution to identify the copied text as someone else’s words and
+ideas;
+
+(e)
+
+represented in each of the HIS221 Midterm, the SOC100 Essay, the BIO360 Report
+and the
+BIO202 Lab Report the ideas of another person or persons, the
+expression of the ideas of another person or persons, or the work of another person
+or persons as his own; and
+
+(f)
+
+committed plagiarism in respect of each of the HIS221 Midterm, the SOC100
+Essay, the BIO360 Report and the
+BIO202 Lab Report, contrary to section
+B.I.1(d) of the Code.
+
+6
+
+FINDINGS ON CHARGES
+23. Following deliberations and based on the Agreed Statement of Facts and the Joint Book of
+Documents, the Panel concluded that charges 1, 3, 4 and 6 (as outlined in paragraph 2 above)
+had been proven with clear and convincing evidence on a balance of probabilities, and accepted
+the guilty pleas of the Student in respect of those charges.
+24. The Panel was advised that if the Tribunal convicts the Student on charges 1, 3, 4 and 6,
+outlined above in paragraph 2, the University would withdraw the alternative charges.
+Accordingly, the Panel makes no findings with respect to charges 2, 5 and 7.
+PENALTY
+25. The University and the Student submitted an Agreed Statement of Facts on Penalty and a Joint
+Submission on Penalty recommending the following penalty:
+a. a final grade of zero in the course HIS221H5 in Summer 2017;
+b. a final grade of zero in the course SOC100H5 in Fall 2017;
+c. a final grade of zero in the course BIO360H5S in Winter 2018;
+d. a final grade of zero in the course BIO202H5S in Winter 2018;
+e. a suspension from the University of Toronto from the day the Tribunal makes its order
+for a period of four years, to August 31, 2023; however, the four years would be
+nominally reduced by 19 days to permit the Student to register for courses in Fall 2023;
+and,
+f. a notation of the sanction on the Student’s academic record and transcript from the day
+the Tribunal makes its order for a period of five years, to September 18, 2024.
+26. The parties also agreed that this case shall be reported to the provost for publication of a notice
+of the decision of the Tribunal and the sanction imposed, with the name of the Student
+withheld.
+27. In addition to the above penalties, the Student also provided an undertaking to complete six (6)
+Elements of Academic Writing workshops offered by UTM at the Robert Gillespie Academic
+Skills Centre. The Student also agreed to complete the workshops within the first eight (8)
+months following the date he next registers for a course at the University. In the event that the
+workshops are not available at the time the Student attempts to complete them, the University
+will, acting reasonably, propose an alternate and equivalent program that the Student shall
+complete in fulfilling his undertaking.
+7
+
+28. The Student further agreed and accepted that he will not be eligible to graduate from the
+University until he fulfils the above undertaking and the University may rely on this
+undertaking to deny him the ability to graduate until it is fulfilled.
+29. Assistant Discipline Counsel provided submissions on the high threshold required for a
+Tribunal to deviate from the joint submission on penalty. As set out in the Appeal Board in
+S.F. and The University of Toronto (Case No. 690, October 20, 2014), only truly unreasonable
+or “unconscionable” joint submissions should be rejected (see paragraph 22). In the Panel’s
+view the joint submission in this case is reasonable.
+30. The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the factors
+set out in University of Toronto and Mr. C. (File 1976/77-3, November 5, 1976), namely: 1)
+the character of person charged; 2) the likelihood of repetition of the offence; 3) the nature of
+offence committed; 4) any extenuating circumstances surrounding the commission of the
+offence; 5) detriment to the University occasioned by the offence; and 6) the need to deter
+others from committing a similar offence.
+31. With respect to his character, as noted by Assistant Discipline Counsel, the Student admitted
+guilt to the offences, and that admission of guilt is a demonstration of his insight. The Student
+had also cooperated in the process and accepted responsibility, which demonstrated ownership,
+and responsibility for actions. These were mitigating factors.
+32. The Panel also took into consideration the serious and deliberate nature of the offences and the
+detriment to the University. There was no evidence of prior offences or misconduct; however,
+despite having been caught, the Student still engaged in further offences.
+33. Having regard to the above, and based on the review of similar cases provided by Counsel to
+the University, the Panel agrees that the recommended sanctions are appropriate.
+DECISION OF THE PANEL
+34. At the conclusion of the hearing, the Panel made the following order:
+a. THAT the Student is guilty of four counts of knowingly representing as his own an
+idea or expression of an idea or work of another in assignments that he submitted in
+HIS221H5 in Summer 2017, SOC100H5 in Fall 2017, BIO360H5S in Winter 2018 and
+BIO202H5S in Winter 2018, contrary to section B.I.1(d) of the Code.
+b. THAT the following sanctions shall be imposed on the Student:
+i. a final grade of zero in course HIS221H5 in Summer 2017;
+
+8
+
+ii. a final grade of zero in the course SOC100H5 in Fall 2017;
+iii. a final grade of zero in the course BIO360H5S in Winter 2018;
+iv. a final grade of zero in the course BIO202H5S in Winter 2018;
+v. a suspension from the University of Toronto from the day the Tribunal makes
+its order for a period of four years (less 19 days), to August 31, 2023; and
+vi. a notation of the sanction on his academic record and transcript from the day
+the Tribunal makes its order for a period of five years, to September 18, 2024.
+c. THAT this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+35. An Order was signed at the hearing by the Panel to this effect.
+DATED at Toronto, December 16, 2019.
+
+_______________________________________
+Michelle S. Henry, Co-Chair
+
+9
+
+

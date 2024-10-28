@@ -1,0 +1,462 @@
+Case No.: 1502
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed ON January 5, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- and H
+
+Z
+
+REASONS FOR DECISION
+
+Hearing Date: May 3, 2023, via Zoom
+Members of the Panel:
+Sana Halwani, Chair
+Dr. Lynda Mainwaring, Faculty Panel Member
+Syeda Hasan, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals Discipline and Faculty Grievances
+Not in Attendance:
+H Z
+
+I.
+
+Charges and Procedural History
+1. The Trial Division of the Tribunal held a hearing on May 3, 2023, to address the following
+charges brought by the University of Toronto (the “University”) against H
+
+Z
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”):
+a. On or about the following dates, you knowingly obtained and/or provided unauthorized
+assistance in connection with the following term tests in ECO2201Y1 (the “Course”),
+contrary to section B.I.1(b) of the Code:
+i. October 23, 2020 in connection with Term Test 1; and
+ii. December 4, 2020 in connection with Term Test 2.
+b. In the alternative, respectively, on or about the following dates, you knowingly represented
+as your own an idea or expression of an idea or work of another in connection with the
+following term tests in the Course, contrary to section B.I.1(d) of the Code:
+i. October 23, 2020 in connection with Term Test 1; and
+ii. December 4, 2020 in connection with Term Test 2.
+c.
+
+In the further alternative, respectively, on or about the following dates, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with the following term tests in the
+Course, contrary to section B.I.3(b) of the Code:
+i. October 23, 2020 in connection with Term Test 1; and
+ii. December 4, 2020 in connection with Term Test 2.
+
+2. The Panel was advised at the hearing that the University was not proceeding with the
+charges relating to Term Test 2, and therefore that only charges relating to Term Test 1
+were at issue.
+
+II.
+
+Notice
+3. The Student was not in attendance at the hearing and, as a result, Assistant Discipline
+Counsel addressed the issue of notice.
+
+2
+
+4. On review of the evidence, and on considering the Statutory Powers and Procedures Act,
+Rules 13, 14, 17 and 21 of the University Tribunal’s Rules of Practice and Procedure, and
+the University’s Policy on Official Correspondence with Students, the Panel was satisfied
+that notice had been adequately provided to the Student and decided to proceed with the
+hearing despite his absence.
+5. The evidence of notice included three affidavits as follows:
+a. Affidavit of Alexciya Blair, a legal assistant at Paliare Roland Rosenberg Rothstein
+LLP, providing evidence of all the efforts to contact the Student about the charges
+and the hearing, prior to the hearing date including by email to the Student’s
+utoronto account, by phone to the Student’s telephone number listed in the
+Repository of Student Information (“ROSI”), and by courier to the Student’s
+address listed in ROSI; and
+b. Affidavit of Elizabeth Cowper, Department of Linguistics at the University of
+Toronto and a Dean's Designate for Academic Integrity with the Student Academic
+Integrity office (“SAI”) in the Faculty of Arts and Science, describing the attempts
+made to schedule a Dean’s designate meeting in March to June 2022, and
+attaching the Student’s academic record;
+c. Affidavit of Andrew Wagg, Manager, Incident Response at Information Security,
+Information Technology Services at the University, providing evidence of the last
+time
+
+someone
+
+accessed
+
+the
+
+email
+
+account
+
+@mail.utoronto.ca, (the email address identified as the email
+address of the Student in their ROSI record). The last time someone logged into
+this email address was on July 13, 2022, which was after the SAI attempted to
+contact the Student.
+6. As set out in Rule 21 of the Rules of Practice and Procedure: “Where notice of a virtual
+hearing, an in-person hearing, a hybrid hearing, or a written hearing has been given to a
+party in accordance with this Part, and the party does not attend at or does not participate
+in the hearing, the panel may proceed in the absence of the party or without the party’s
+participation and the party is not entitled to any further notice in the proceeding.” This
+language was repeated in the Notice of Electronic Hearing emailed to the Student.
+
+3
+
+7. Rule 17 provides that “the Secretary shall provide the University with reasonable notice of
+a hearing and shall deliver such notice to the student’s last known ROSI email address.”
+8. As set out in Rule 13: “Charges, notices of hearing, disclosure material for use on motions
+or hearings, orders, and reasons for decision may be served on a student or sent to a
+student: […] by e-mailing a copy of the document to the student’s e-mail address contained
+in ROSI, or to the students’ representative, if such representative has confirmed its
+authority to accept service, and service shall be effective on the day the document is sent
+by e-mail.” Repeated attempts were made to contact the Student at his e-mail address
+contained in ROSI, including sending the Notice of Electronic Hearing.
+9. There was evidence provided to the Panel that the Student was likely aware of the
+allegations that led to the charges. Numerous emails were sent to the Student’s email
+address in March to June 2022 attempting to schedule a meeting with the Dean’s
+Designate to discuss the allegations. These emails were all sent prior to the last time
+someone logged into the Student email address, per Mr. Wagg’s evidence.
+10. The evidence also indicates that the Student had not provided his unit number for his
+address in ROSI, and no other addresses were provided by the Student in ROSI. Further,
+when the Assistant Discipline Counsel called the Student at the cellular number that was
+listed in ROSI, he received a message that the phone number was no longer in service.
+The Student appears to have taken deliberate steps to avoid communications from the
+University.
+11. Although the evidence provided did not go so far as to confirm that the Student had
+received the Notice of Hearing (because he never responded or acknowledged receipt), it
+is clear from the evidence that the Student was given reasonable notice under the Rules
+of Practice and Procedure. The University served the Student by email to his official ROSI
+email, and attempted to reach the Student by courier and phone. The University took many
+steps beyond what is strictly required by the University’s Policy on Official
+Correspondence with Students.
+12. On this basis, the Panel was of the view that reasonable notice had been provided under
+the Rules and was content to proceed with the hearing in the Student’s absence.
+
+4
+
+III.
+
+Summary of Evidence
+13. The Student was a student in the Course and in Fall 2020 and Winter 2021.
+14. In 2021, SAI received allegations that over 100 students in the Course obtained
+unauthorized assistance on several term tests. The Dean's Designate meetings took a
+significant amount of time and resources and the University prioritized cases where
+students responded or were set to graduate. As of today, nearly all of these cases have
+been resolved. The case before the Panel is one of the last such cases to be resolved.
+15. The Panel was provided with this evidence to explain the time lag between the offence
+and the hearing.
+16. The evidence of the University on the charges was presented by way of affidavit from
+Professor Jennifer Murdock in the Department of Economics, who has taught the Course
+since 2004.
+17. As the Student did not attend and was not represented at the hearing, Professor Murdock
+was not cross-examined but was made available to the Panel for any questions.
+A.
+
+The Course
+
+18. The Course was administered online due to the pandemic. There were five sections in
+the Course. Students registered for one of these five sections.
+19. Students in the course were required to write four term tests, each worth 12.5% of their
+final grade. Each test contained six open-ended questions, with a complete answer
+requiring some combination of writing, graphing, and/or quantitative analysis.
+20. The term tests were administered online. Students were required to write their answers
+on paper, scan or take a photo of each answer, and upload an image for each question to
+Crowdmark, the University’s online grading platform. Professor Murdock required students
+to upload a separate image for each question because Crowdmark has a feature that
+allows instructors to grade question-by-question. This feature on Crowdmark was used to
+increase the consistency in grading.
+21. The syllabus stated that students were prohibited from collaborating on the term tests:
+“[t]here is absolutely no collaboration allowed on Term Tests #1 to #4 or the short writing
+assignments. Your submissions must be entirely your own work.” In addition, Professor
+5
+
+Murdock posted academic integrity instructions to Quercus for each term test, which
+stated that academic integrity is a fundamental value of learning and scholarship at the
+University of Toronto and that students were prohibited from collaborating. Students were
+required to submit a signed academic integrity statement that stated they agreed to fully
+abide by the Code of Behaviour on Academic Matters for each term test. Each term test
+also stated that “[t]here is absolutely no collaboration and absolutely no communication
+until after we return your marked work to you.”
+B.
+
+Term Test 1
+
+22. Term Test 1 was administered online on October 23, 2020. Students had 105 minutes to
+write the test and 15 minutes to scan and upload their test. Students from the first three
+sections of the course could choose to write their term tests at any time during the early
+test window (7:00 a.m. to 1:00 p.m. ET). Students in the other two sections of the course
+could choose to write their term tests at any time during the late test window (11:00 a.m.
+to 5:00 p.m. ET).
+23. Professor Murdock prepared eight different versions of Term Test 1 to deter cheating.
+Students were assigned a particular version of the test at random.
+24. On October 23, 2020, the Student and a second student (“N.G.”) completed and submitted
+version 4 of Term Test 1.
+C.
+
+The Investigation
+
+25. In March 2021, a course teaching assistant notified Professor Murdock that several
+students wrote similar answers to questions on Term Test 3. Professor Murdock reviewed
+these similarities, had concerns that students were collaborating, and decided to
+investigate.
+26. From March to May 2021, Professor Murdock spent significant time investigating the issue
+and found evidence of widespread collaboration. She reviewed every term test that every
+student in the course submitted and found that a large number of students wrote similar
+answers to some or all of the questions on term tests 1, 2, and 3. Based on similarities
+between students’ answers, Professor Murdock concluded that some students appeared
+to collaborate in small groups, while others appeared to be part of a larger network or
+group of students.
+6
+
+27. Professor Murdock suspected that the Student and N.G. collaborated on Term Test 1
+because there were striking similarities between their answers to questions 1, 2, 3(a), and
+5 in the Test.
+28. Professor Murdock provided the Panel with a chart that compared these answers showing
+verbatim similarities, verbatim similarities with different syntax, and non-verbatim
+conceptual similarities.
+29. There were many ways that students could have and did express their answer to the
+questions in Term Test 1. Despite the many ways that students could have written their
+answers, the answers to the tests of the Student and N.G. were very similar in terms of
+word choice, syntax, structure and quantitative analysis. In addition, both students made
+the identical or very similar mistakes in answers to a number of questions. Professor
+Murdock provided evidence that the degree of similarity between the answers of the
+Student and N.G. was “striking and unusual.”
+30. On May 10, 2021, Professor Murdock met with N.G. to discuss her concerns that N.G.
+had obtained unauthorized assistance on term tests 1, 2, and 4. During that meeting, N.G.
+told Professor Murdock that she had a paid tutor, named “Jessica”, to help her on the term
+tests, and she knew that Jessica was helping other students in the course in real time
+during graded work.
+31. On May 10, 2021, Professor Murdock also met with the Student to discuss her concerns
+that he had obtained unauthorized assistance.
+
+IV.
+
+Finding on Charges
+32. The Student is charged with cheating on Term Test 1 in the Course. As is described
+below, the Panel found the Student guilty of this charge.
+33. The burden is on the University to prove charges on a balance of probabilities. This means
+that the University must prove that it is more likely than not that the student committed the
+offence.
+34. The Course syllabus in the Course was clear that collaboration during tests was a potential
+academic offence. There is no question that the Student knew or ought to have known
+
+7
+
+that such actions would be academic offences. The question for the Panel was therefore
+whether the Student did in fact cheat in Term Test 1.
+35. Following deliberation and based on the affidavit evidence and the documents in the
+University’s Book of Documents (re: Offence), the Panel concluded there was clear and
+convincing evidence, on a balance of probabilities, that the Student did commit the offence
+with which he was charged.
+36. Assistant Discipline Counsel made submissions that where the University leads evidence
+that a student’s answer is similar to another student’s answer to prove an academic
+offence, the Panel should consider the following factors to evaluate the quality of the
+evidence1:
+a. The nature of the question, including the number of ways that one could express
+an answer to the question, whether the question is new, etc. Here, the evidence
+of Professor Murdock is that there were numerous ways to express answers to
+many of the questions in Term Test 1.
+b. The nature of the similarities, including idiosyncrasies, unusual features, mistakes,
+concepts or notations not taught in the course, etc. Here, the students made the
+same or very similar errors.
+c. The degree of the similarities, ranging from modest to striking similarities. Here
+the answers were strikingly similar with respect to structure, word choice, etc.
+d. The student’s explanation, if any, for the similarities. Here, we have no explanation
+from the Student because the Student has not participated in the proceeding.
+e. Any other factors that are relevant in the circumstances, including whether other
+students who submitted similar answers have admitted to an offence in connection
+with the same piece of academic work. Here, N.G. admitted to obtaining help from
+
+1
+
+See for example: University of Toronto v. G.L. (Case No. 1262, February 22, 2022), at para. 20, aff’d 2022 DAB
+1262; University of Toronto v. M.R. (Case No. 1282, December 19, 2022) at paras. 29-31; University of Toronto v.
+L.S. (Case No. 841, March 13, 2017), aff’d 2017 DAB 841 at para. 62; University of Toronto v. T.Z. (Case No. 1106,
+April 5, 2022) at paras. 19-20; University of Toronto v. J.T.L. (Case No. 1199, January 26, 2022) at paras. 33-34;
+University of Toronto v. X.Y. (Case No. 1147, November 11, 2022) at paras. 21, 27; University of Toronto v. H.W.
+(Case No. 1179, March 7, 2022) at paras. 19-20; University of Toronto v. Y.C. (Case No. 1372, March 7, 2023) at
+paras. 51-52.
+
+8
+
+a paid tutor during Term Test 1. The Panel did not place a great deal of weight on
+this hearsay evidence.
+37. The Panel may conclude, based on the evidence before it, that the similarities between
+two answers were more likely the natural product of the fact that students were writing on
+the same topic and relying on the same source material.2 However, where there is no
+evidence to support an alternative explanation for the similarities between two students’
+answers, it is not for the Panel to imagine or speculate if some other possible explanation
+exists.3
+38. Further, in cases like these, it is not necessary to prove the exact mechanism by which
+the cheating occurred.4
+39. Assistant Discipline Counsel raised the issue of whether there was evidence that the
+Student had paid for assistance, which can have a bearing on sanction because cases
+involving the use of commercial cheating enterprises are treated more severely by the
+University. Assistant Discipline Counsel candidly conceded that there was likely not
+enough evidence to draw the inference that the Student was using the same paid tutor as
+N.G. First, the Student had different answers to questions 4 and 6 on Term Test 1 when
+identical questions would have been expected if the same tutor had been used. Second,
+N.G. did not provide any additional evidence about whether the Student or any other
+Student used the same tutor. Third, there was no other evidence that the Student had
+used a paid service.
+40. The Panel therefore determined that there is sufficient evidence to conclude that the
+Student obtained unauthorized assistance during Term Test 1 but not that the Student
+paid for such assistance.
+41. Having found the Student guilty of the first charge, the two alternative charges were
+withdrawn by the University.
+
+2
+
+University of Toronto v. L.S.at paras. 45-63, aff’d 2017 DAB 841 at para. 62.
+University of Toronto v. Z.X. (Case No. 1285, December 5, 2022) at para. 49.
+4
+University of Toronto v. G.L. at paras. 31-33, aff’d 1262 DAB 2022 at paras. 35-36.
+3
+
+9
+
+V.
+
+Finding on Penalty
+42. Once the Panel had made a determination on the charges, the University requested the
+following penalty for the offences relating Term Test 1:
+a. a final grade of zero in ECO220 in Fall 2020 and Winter 2021;
+b. a suspension from the University for a period of 2 years from the date of this order;
+and
+c. a notation of the sanction on the student’s academic record and transcript for a
+period of 3 years from the date of this order;
+43. The University also requested that this case be reported to the Provost for publication of
+a notice of the decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+44. To support this proposed penalty, Assistant Discipline Counsel made submissions on the
+following:
+a. Relevant factors in determining the appropriate sanctions;
+b. The typical penalty for similar cases; and
+c. The date on which the sanction should take effect.
+A.
+
+Relevant Factors under Mr. C.
+
+45. Finally, Assistant Discipline Counsel made submissions on the factors to be considered in
+penalty as set out in The University of Toronto v. Mr. C. (1976) (Case No.: 1976/77-3).
+46. The Student in this case had not participated at any stage of the process. The Student
+had therefore not shown any remorse, not presented any character evidence, and not
+raised any mitigating or extenuating factors to warrant a more lenient sanction. This failure
+to participate is therefore a neutral factor.
+47. With respect to the likelihood of repetition of the offence, the Student has no prior
+academic offence, and this is therefore a neutral factor.
+
+10
+
+48. With respect to the nature of the offence, the need to deter others, and the detriment to
+the University, we echo the words of the Panel in the University of Toronto v. G.Z. (Case
+No. 1004, February 26, 2020):
+The use of unauthorized aids is a threat to the integrity of the University’s
+processes for evaluating students, is profoundly unfair to other students,
+and jeopardizes the University’s reputation. These considerations urged
+against imposing a milder sanction than those typically applied in similar
+cases.
+B.
+
+Similar Cases
+
+49. The two-year suspension is also in line with similar cases presented by Assistant
+Discipline Counsel. While the Panel is not bound by any of these decisions, they are
+helpful in assisting the Tribunal in treating like cases alike.
+50. The cases provided to us involved a single count of unauthorized assistance or plagiarism.
+In all cases presented, the Student had no priors, and there was no Agreed Statement of
+Facts or a Joint Submission on Penalty. To summarize them briefly:
+a. All but one case involved a 2-year suspension and a 0 in the relevant course.
+b. The one case with a 3-year suspension involved aggravating circumstances,
+i.e.,the Student tried to mislead the Panel at the hearing.
+51. In addition, the Panel notes that the Provost’s Guidance states that the Provost will request
+that the Tribunal suspend a student for two years for any offence involving academic
+dishonesty, where there were not mitigating or aggravating circumstances.
+52. The two-year penalty proposed by the University was therefore in line with past similar
+cases and with the Provost’s Guidance.
+53. Finally, the Panel also considered whether the unusual circumstances of the Student
+being one of 100 students to be involved in cheating should have any bearing on the
+sanction (whether mitigating or aggravating). The Panel concluded that it should not.
+There was no evidence that the Student had been involved in organising the cheating
+scheme, and so no evidence of aggravating behavior. The was also no evidence of the
+fact that the widespread cheating was a mitigating circumstance. Simply, the Student
+cheated on a test and had no prior offences; the sanction proposed by the University was
+appropriate for that conduct.
+11
+
+C.
+
+Start Date of the Sanction
+
+54. The allegations arise from events in May 2020, three years prior to the hearing. As such,
+Assistant Discipline Counsel addressed the reasons for the delay in support of the
+University’s request that the sanction be imposed from the date of the Order and not be
+backdated.
+55. This delay arises from a very unusual circumstance – namely, allegations that over 100
+students in the Course obtained unauthorized assistance on several term tests – and is
+not the result of the University sitting on its hands. Both Professor Murdock and SAI have
+spent hundreds of hours over the last two years addressing and meeting with the over 100
+students that were alleged to have cheated on the tests. In addition, SAI prioritised –
+rightly, in the view of the Panel – students that engaged with the process and/or who were
+close to graduation.
+56. In this case, the Student did not engage with the process, and stopped attending courses
+at the University in the summer of 2021. In the Panel’s view, the Student therefore bears
+part of the responsibility for the delay in his case being heard by the Tribunal.
+57. In general, sanctions should commence from the date that the sanction is imposed, and
+backdating should only be done for a principled reason; to do otherwise would result in a
+wide disparity among sanctions.5
+58. In S.B., the Panel stated that “there must be a principled reason for such backdating, such
+as an early admission of guilt, or similar circumstances which dictate that the student
+would suffer unjustified harm as a result of the University's slowness in moving the matter
+to a hearing.”6 Here, there was no evidence that the delay had caused prejudice to the
+Student. The Panel therefore concluded that there was no basis to warrant backdating
+the sanction in this case.
+59. Taking all these submissions into consideration, the Panel imposed the requested penalty.
+
+VI.
+
+5
+6
+
+Decision of the Panel
+
+University of Toronto v. D.S. (Case No. 451, August 24, 2007) at paras. 53-54.
+University of Toronto v. S.B. (Case No. 488, November 14, 2007) at paras. 28-29.
+
+12
+
+60. At the conclusion of the hearing on penalty, the Panel conferred and made the following
+order:
+a. The hearing may proceed in the absence of the Student;
+b. The Student is guilty of one count of unauthorized assistance, contrary to B.I.1(b)
+of the Code of Behaviour on Academic Matters;
+i. The following sanctions shall be imposed on the Student:
+ii. a final grade of zero in ECO220 in Fall 2020 and Winter 2021;
+iii. a suspension from the University for a period of 2 years from the date of
+this order; and
+iv. a notation of the sanction on the student’s academic record and transcript
+for a period of 3 years from the date of this order;
+c. This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+DATED at Toronto, May 29, 2023
+Original signed by:
+_________________________________
+Sana Halwani, Chair
+On behalf of the Panel
+
+13
+
+

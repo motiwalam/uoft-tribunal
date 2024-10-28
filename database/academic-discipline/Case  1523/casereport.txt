@@ -1,0 +1,343 @@
+Case No.: 1523
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on June 15, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and H
+
+Z
+
+REASONS FOR DECISION
+Hearing Date: October 27, 2023, via Zoom
+Members of the Panel:
+Shaun Laubman, Chair
+Dr. Maria Rozakis-Adcock, Faculty Panel Member
+David Lio, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Abby Craswell, Representative for the Student, Downtown Legal Services
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+H
+Z
+
+1. The Trial Division of the University Tribunal heard this matter against H
+Z
+(the “Student”) on October 27, 2023, by videoconference.
+2. The Student was in attendance.
+3. The Student faced the following charges:
+a. On or about April 13, 2023, you knowingly had another person personate
+you at the final examination in ECO359H1S (the “Course”), contrary to
+section B.I.1(c) of the Code.
+b. In the alternative, on or about April 13, 2023, you knowingly obtained
+unauthorized assistance in connection with the final examination in the
+Course, contrary to section B.I.1(b) of the Code.
+c. In the further alternative, on or about April 13, 2023, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with
+the final examination in the Course, contrary to section B.I.3.(b) of the Code.
+4. An Agreed Statement of Facts (“ASF”) was presented to the Tribunal for
+consideration at the liability phase. The relevant portions of the ASF are:
+a. The Student acknowledges that he received a copy of the charges, waives
+the reading of the charges, and pleads guilty to all charges;
+b. The Provost agrees that if the Tribunal returns a conviction on charge #1,
+the Provost will withdraw charges #2 and #3;
+c. The Student accepts that he has been provided with reasonable notice of
+the hearing in this matter;
+
+d. The Student first registered as a student in the Faculty of Arts & Science at
+the University of Toronto in Fall 2019. The Student has earned 20.0 credits;
+e. In Winter 2023, the Student enrolled in the Course, which was taught by
+Anton Tsoy;
+f. The Course syllabus included the following with respect to academic
+integrity (at pages 3-4):
+Academic integrity Academic integrity is one of the cornerstones of
+the University of Toronto. It is critically important both to maintain our
+community which honours the values of honesty, trust, respect,
+fairness and responsibility and to protect you, the students within this
+community, and the value of the degree towards which you are all
+working so diligently. According to Section B of the University of
+Toronto’s
+
+Code
+
+of
+
+Behaviour
+
+on
+
+Academic
+
+Matters
+
+https://www.academicintegrity.utoronto.ca, which all students are
+expected to know and respect, it is an offence for students:
+• To obtain unauthorized assistance on any assignment.
+• To provide unauthorized assistance to another student. This
+includes showing another student completed work (e.g., an
+answer on a test).
+• To falsify or alter any documentation required by the
+University. This, includes, but is not limited to doctor’s notes.
+• To use or possess an unauthorized aid in any test or exam
+(e.g., a cell phone).
+• To continue writing when the time is up in any test or exam.
+To submit a medical note to get out of a test when the student
+is not actually sick. There are other offenses covered under
+the Code, but these are by far the most common. Please
+respect these rules and the values which they protect. For
+
+useful tips for avoiding academic misconduct, please visit the
+website of the Office of Student Academic Integrity at
+https://www.artsci.utoronto.ca/current/academicadvisingand-support/student-academic-integrity
+g. The final examination was worth 45% of students’ final grades in the
+Course. It was administered in person on April 13, 2023 from 2:00 pm to
+5:00 pm. Students had three hours to write the exam. Students were
+required to complete the exam on their own.
+h. Students were required to write their own examinations. They were required
+to provide proof of their identity, as verified through the photographs on their
+Student IDs, to the invigilators during the exam.
+i.
+
+During the exam, the instructor and exam invigilators noticed several
+peculiarities regarding the person who wrote the exam using the Student’s
+ID. These included:
+i. Prior to the commencement of the exam, during the Chief Presiding
+Officer (“CPO”) Gabriel Briex’s announcements warning students
+not to read or write anything until the start of the exam, the person
+who wrote the exam using the Student’s ID (the “Exam Writer”) was
+observed by Anthony Gagnon, another invigilator, actively reading
+the exam paper, which was placed on students’ desks before the
+start of the exam. The Exam Writer appeared to be holding the
+exam paper up at an unusual angle.
+ii. During the exam, the CPO noticed a metallic object in the Exam
+Writer’s right ear. The CPO questioned the Exam Writer about the
+object and was told that it was a hearing aid. The CPO asked to
+take a photograph of the “hearing aid” which the Exam Writer
+refused, stating that the “aid” could not be removed.
+
+iii. When the Exam Writer handed in his exam paper, the instructor,
+Anton Tsoy, noted that he did not resemble the photograph on the
+Student’s ID. When the instructor asked the Exam Writer to take a
+photograph of him holding the ID, the Exam Writer ran away. The
+instructor noted that the Exam Writer who wrote the exam was
+skinny and had long hair, whereas the person in the ID photograph
+had short hair and was less skinny. The instructor also noted that
+the Exam Writer had a button on his shirt, which resembled a button
+that he had observed in other cases where students or exam
+writers had used a hidden camera during an exam.
+j.
+
+In view of the above, the instructor and invigilators suspected that the
+Student had someone write the exam for him.
+
+k. The Student denies any knowledge of any objects that the Exam Writer may
+have had on him during the exam, including any possible “hearing aid” or
+camera.
+Meeting with the Dean’s Designate
+l.
+
+On May 9, 2023, the Student met with Professor Howard Yee, the Dean’s
+Designate for Student Academic Integrity for the Faculty of Arts & Science.
+The Student admits that Professor Yee read him the required warnings from
+the Code of Behaviour on Academic Matters.
+
+m. At the meeting, the Student admitted that he did not write the final
+examination but had someone else write the exam for him. He said that he
+was sorry and regretful, and explained that he was not doing well in the
+Course and that his grandmother, who he was close to, had passed away
+the previous year. She was in China at the time and he felt regret that he
+could not return home to be with her. He said that the person who wrote the
+exam for him (the Exam Writer) was a friend. His name was Kevin Wang
+
+and he was not a University of Toronto student. The Student denied paying
+his friend. He said that they had a good relationship, and he had let Kevin
+stay at his apartment previously.
+n. The Student confirms that the statements he made to the Dean’s Designate
+were true and accurate.
+Admissions and acknowledgements
+o. The Student admits that:
+i. he knew that he was required to write the final exam himself and
+he was not permitted to have anyone assist him during the final
+exam;
+ii. he knowingly had someone personate him and write the final exam
+for him;
+iii. he is guilty of having another person personate him at the final
+exam, contrary to section B.I.1(c) of the Code; and
+iv. he is guilty of obtaining unauthorized assistance in connection with
+the final exam, contrary to section B.I.1(b) of the Code.
+p. The Student acknowledges that the Provost has made no representations
+to him regarding what penalty she will seek in this proceeding.
+q. The Student acknowledges that he is signing this ASF freely and voluntarily,
+knowing of the potential consequences he faces, and does so with the
+advice of counsel.
+5. Neither the Provost nor the Student presented any further evidence during the
+Offence stage of the hearing.
+
+6. Based on the ASF and the Student’s admissions therein, the Tribunal found the
+Student guilty of charge 1 – knowingly having another person personate him at the
+final exam, contrary to section B.I.1(c) of the Code. In accordance with the ASF,
+the Provost withdrew charges 2 and 3.
+Penalty
+7. At the Penalty phase of the hearing, the Student and Provost submitted a Joint
+Submission on Penalty (“JSP”) for the Tribunal’s consideration. The JSP proposed
+the following penalty:
+a. a final grade of zero in the Course in Winter 2023;
+b. the Student will be suspended from the University of Toronto for a period of
+5 years from the date of the Tribunal’s order;
+c. this sanction will be recorded on the Student’s academic record and
+transcript for a period of 10 years from the date of the Tribunal’s order; and
+d. the parties agree that it is appropriate for this case to be reported to the
+Provost for publication of a notice of the decision of the Tribunal and the
+sanction imposed, with the name of the Student withheld.
+8. An additional feature of the JSP was the Student’s undertaking that, after the
+completion of his suspension, he will not register for any courses at the University
+of Toronto and/or apply for admission to any programs at the University of Toronto
+(the “Undertaking”).
+9. The parties submitted an Agreed Statement of Facts on Penalty (“ASFP”) for the
+Tribunal’s consideration, which is reproduced in substantial part below:
+Prior offence
+
+a. The Student has committed one prior academic offence that was resolved
+through minutes of settlement.
+b. In Fall 2019 and Winter 2020, the Student registered in MAT137Y1
+(“MAT137”).
+c. Students in MAT137 were evaluated on the basis of 10 problem sets, 4 term
+tests and a final exam. The 10 problem sets were all submitted online and
+were spread across both terms (Fall 2019 and Winter 2020). They were
+originally worth a total of 10% of students’ final grades. However, as a result
+of the covid19 pandemic and following a class vote, the grading scheme
+was changed so that the problem sets would be worth a total of 15% of
+students’ grades. Students were allowed to write problem sets with a
+partner. Students were required to work independently or with their partner
+when writing solutions.
+d. On February 27, 2020, the Student submitted Problem Set 8 in MAT137.
+The Student submitted the problem set individually.
+e. Chegg.com is a subscription based website that allows students to post
+problems to the site, which are then answered by so-called “experts”.
+Subscribers are also able to access the questions and answers posted by
+others on the site.
+f. In marking the Student’s answers to Questions 1(a), (b) and (c) of Problem
+Set 8, the teaching assistants and instructors determined that there were
+substantial similarities between the Student’s answer and the answers to
+those questions that had been posted on Chegg.com. They suspected that
+the Student had plagiarized or obtained unauthorized assistance from
+Chegg.com.
+
+g. On August 18, 2020, the Student met with Professor Francois Pitt, Dean’s
+Designate for Academic Integrity regarding the allegation of academic
+misconduct in Problem Set 8 in MAT137. During the meeting, the Dean’s
+Designate gave the Student the warning he is required to give under the
+Code. The Student denied looking at Chegg.com or collaborating with any
+other students. He maintained that the answers he had written were his.
+h. Given the Student’s denial, the matter was forwarded to the Vice-Provost
+for review.
+i.
+
+On December 10, 2020, charges were filed against the Student under the
+Code in connection with the allegation of academic misconduct in Problem
+Set 8 in MAT137.
+
+j.
+
+On January 31, 2021, the charges were resolved the Student. The Student
+admitted that he knowingly representing as his own an idea or expression
+of an idea or work of another in Problem Set 8 in MAT137, contrary to
+section B.I.1(d) of the Code and signed minutes of settlement.
+
+k. As set out in the minutes of settlement, in light of the Student’s admission,
+the matter was referred back to the Faculty of Arts and Science and the
+Faculty of Arts and Science imposed a sanction of:
+i. a grade of zero on all problem sets (worth 15%) in MAT137; and
+ii. a transcript annotation until December 31, 2021.
+The Student’s circumstances
+l.
+
+The Student has advised the University of the following:
+i. He is an international student. He was very close to his
+grandmother, who was living in China. In the fall of 2022, the
+
+Student’s grandmother passed way. The Student felt very guilty for
+not being with his grandmother during this time.
+ii. His education was very important to his grandmother and the
+Student felt pressure to complete his studies and to graduate. He
+was worried about failing the ECO359H1 course, which would have
+the effect of delaying his graduation.
+iii. He understands that what he did was wrong and is remorseful for
+his conduct.
+iv. Since June 2023, the Student has been under the care of a
+psychiatrist.
+v. Having completed 20.0 credits, he does not anticipate needing to
+complete any further courses in order to graduate.
+Acknowledgements
+m. The Student acknowledges that he is signing this ASFP freely and
+voluntarily, knowing of the potential consequences he faces, that he has
+been given the opportunity to seek the advice of counsel before doing so,
+and that he has obtained such advice.
+10. The Provost presented a chart summarizing past decisions with varying degrees
+of similar circumstances to provide the Tribunal with an indication of the range of
+sentences that have been meted out for the offence of personation, including
+cases where the student had prior convictions.
+11. The Provost’s submissions focussed on the deference to be shown to JSP in light
+of the University of Toronto and M.A. decision, (Case No. 837, December 22,
+2016). The Tribunal was satisfied that the agreed upon sanction was within the
+range of appropriate penalties given the nature of the offence and the Student’s
+
+past conviction. Therefore, there was no reason to depart from the JSP because
+of a concern that it would be contrary to the public interest or would bring the
+administration of justice into disrepute.
+12. Even without the JSP, the 5-year suspension would likely have been the
+appropriate penalty to impose given the nature of the offence and the aggravating
+and extenuating factors present in the case. The 10-year notation on the Student’s
+transcript was on the higher end of the range for the cases summarized in the chart
+prepared by the Provost, however, it was agreed upon by the parties and the
+Tribunal did not see cause to interfere with that agreement.
+13. As stated in the University of Toronto and Z.T. decision, (Case No. 758, December
+4, 2015 (Sanction)), at para. 6, personation is a very serious offence. It can be
+difficult to catch and strikes at the heart of academic integrity by undermining the
+evaluation process and fairness to other students.
+14. On the other hand, there were mitigating factors in this case, including the
+Student’s early admission of guilt and cooperation in the discipline process. The
+Student was dealing with the death of his grandmother at the time of the final exam
+in the Course. As well, there was evidence of mental health issues, although it was
+not established that those issues were present at the time that the offence was
+committed.
+15. The Student had completed the requisite credits to graduate but is now prevented
+from doing so until the completion of his suspension. That delay is a significant
+penalty and will hopefully provide the Student with time to consider the
+consequences of his decisions.
+16. One final note regarding the Undertaking. The Tribunal asked if it was being asked
+to rely on the Undertaking since it was referenced in the JSP but was not a term in
+the proposed form of Order. The Provost confirmed that it was not asking to have
+the Undertaking reflected in the Order or enforced by the Tribunal.
+
+17. In the Tribunal’s opinion this was the appropriate decision. The Undertaking did
+not form any part of the Tribunal’s decision. The Code does not provide for a
+penalty like the Undertaking and we do not believe we would have the jurisdiction
+to impose such a penalty. Whether the Undertaking is enforceable is not an issue
+we are asked to determine.
+18. In accordance with the JSP, the following penalty is imposed on the Student:
+a. a final grade of zero in the Course in Winter 2023;
+b. the Student will be suspended from the University of Toronto for a period of
+5 years from the date of the Tribunal’s order;
+c. this sanction will be recorded on the Student’s academic record and
+transcript for a period of 10 years from the date of the Tribunal’s order; and
+d. this case is to be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the name of the
+Student withheld.
+
+Dated at Toronto, this 7th day of February, 2024
+
+Original signed by:
+Shaun Laubman
+On behalf of the Panel
+
+

@@ -1,0 +1,1566 @@
+Case No.: 719
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on July 22, 2013,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.Q. 1978, C. 88
+
+BETWEEN:
+
+UNIVERSITY OF TORONTO
+- and -
+
+ti
+REASONS FOR DECISION
+
+Hearing Dates: February 16, 2016, April 13, 2016, August 25, 2016, August 30, 2016,
+October 6, 2016, November 2, 2016, January 16, 2017
+
+Members of the Panel:
+Ms. Sarah Kraicer, Barrister and Solicitor, Co-Chair
+Professor Ernest Lam, Faculty Panel Member
+Ms. Alice Zhu, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland, Barristers
+Ms. Lauren Pearce, Articling Student, Paliare Roland, Barristers (February 16, 2016,
+April 13, 2016)
+Ms. Emily Home, Articling Student, Paliare Roland, Barristers (August 25, 2016, August
+30, 2016, October 6, 2016, November 2, 2016, January 16, 2017)
+
+1
+
+In Attendance:
+Mr. W
+the Student
+Dr. Kristi Gourlay, Manager & Academic Integrity Officer, Office of Student Academic
+Integrity, Faculty of Arts & Science {February 16, 2016, April 13, 2016, August 25, 2016,
+August 30, 2016, November 2, 2016, January 16, 2017
+Professor John Britton, Dean's Designate, Faculty of Arts & Science {February 16,
+2016, April 13, 2016, August 25, 2016, October 6, 2016, January 16, 2017
+Dr. William Ford, Educational Psychologist (October 6, 2016)
+Mr. Paul Russell, Associate Registrar, Student Services, New College (October 6, 2016)
+Ms. Krista Osborne, Administrative Assistant, Office of Appeals, Discipline and Faculty
+Grievances (February 16, 2016)
+Ms. Tracey Gameiro, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances, (February 16, 2016, April 13, 2016, October 6, 2016, January 16, 2017)
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+(April 13, 2016, August 25, 2016, August 30, 2016, November 2, 2016)
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council (August 25,
+2016, August 30, 2016, October 6, 2016, November 2, 2016, January 16, 2017)
+Ms. Michelle Henry, Observer, newly-appointed Tribunal Co-Chair (August 25, 2016)
+
+A. The Charges, Agreed Statement of Facts, and Plea
+
+1. The Provost of the University filed 13 charges of academic dishonesty against the
+Student on July 22, 2013.
+
+These charges relate to eight separate incidents in four
+
+courses (two incidents per course) occurring between September 2012 and April,
+2013. The full Charges are attached as Appendix A to these Reasons.
+
+2. On August 15 and 16, 2016, the University and the Student entered into an Agreed
+Statement of Facts. {ASF). The ASF stated that the Student pleads guilty to eight of
+the charges: Charges 1, 2, 4, 5, 7, 8, 11 and 12, and that the Provost agrees to
+withdraw charges 3, 6, 9, 10 and 13. The Student and the University also signed a
+Plea Agreement dated August 12 and August 16, 2016 to the same effect. In the
+Plea Agreement, the Student agreed to plead guilty to two charges of making
+falsified personal statements in two documents seeking academic accommodation,
+and six charges of plagiarism in relation to six separate assignments. One of those
+charges of plagiarism relates to the purchase of an essay.
+
+2
+
+3. In signing the ASF, the Student acknowledged that he received legal advice with
+respect to the ASF, that he was signing the ASF freely and voluntarily, knowing of
+the potential consequences he faces, and that the Provost made no representations
+regarding what sanction or sanctions the Provost will seek at the hearing before the
+Tribunal.
+4. At the outset of the hearing before this Tribunal, the Student confirmed his plea of
+guilty to the eight charges in the Plea Agreement and his acceptance of the ASF.
+After reviewing the Plea Agreement, the ASF, and the Joint Book of Documents
+(JBD), the Tribunal accepted the Student's plea of guilty to Charges 1, 2, 4, 5, 7, 8,
+11 and 12.
+5. The Tribunal therefore finds that the Student is guilty of two counts of the academic
+offence of providing falsified evidence as set out in Charges 1 and 2, and particulars:
+
+Charge 1. On or about September 17, 2012, you knowingly
+falsified evidence required by the University of Toronto, namely, a
+Personal Statement, which you submitted to the Committee on
+Standing of the Faculty of Arts and Science ("Committee") in
+support of a request for academic accommodation, in course CHM
+139, contrary to Section B.1.1 (a) of the Code.
+Charge 2. On or about December 2, 2012, you knowingly falsified
+evidence required by the University of Toronto, namely, a Personal
+Statement, which you submitted in support of an appeal from the
+decision denying your request for academic accommodation in
+course CHM 139, contrary to Section B.1.1 (a) of the Code.
+
+The particulars for these charges are as follows:
+(a)
+
+At all material times you were a student at the University of
+Toronto.
+
+(b)
+
+In September 2012, you submitted a petition seeking late
+withdrawal from CHM 139. In support of this petition you
+3
+
+submitted a Personal Statement to the Committee on Standing.
+You knew that the Personal Statement that you submitted
+contained false statements.
+(c)
+
+This petition was denied and, on December 2, 2012, you
+appealed this decision. You provided a personal statement in
+support of your appeal. You knew that this statement contained
+false statements, including that one of your relatives had died
+before you wrote your exam on August 15, 2012.
+
+(d)
+
+You knowingly submitted all of the statements described above
+understanding that the University of Toronto required such
+statements to be presented in order to obtain the academic
+accommodation you sought.
+
+(e)
+
+You knowingly submitted all of the statements described above
+with the intention that the University of Toronto rely on them in
+considering whether or not to provide you with the academic
+accommodations you requested.
+
+(f)
+
+You knowingly submitted these falsified documents and other
+false information in an attempt to obtain an academic
+advantage.
+
+6. The Tribunal also finds that the Student is guilty of six counts of the academic
+offence of plagiarism, as set out in Charges 4, 5, 7, 8, 11 and 12:
+Charge 4. On or about December 4, 2012, you knowingly
+represented as your own an idea or expression of an idea, and/or
+the work of another in an essay, which you submitted for academic
+credit in NEW 241, contrary to section B.l.1(d) of the Code.
+Charge 5. On or about April 2, 2013, you knowingly represented as
+your own an idea or expression of an idea, and/or the work of
+another in an Event Reflection, which you submitted for academic
+credit in NEW 241, contrary to section B.1.1 (d) of the Code.
+
+Particulars of these charges are as follows:
+
+4
+
+(a)
+
+In Fall 2012, you registered in Introduction to Disability Studies
+(NEW 241), which was taught by Eliza Chandler and Anne
+McGuire.
+
+(b)
+
+On December 4, 2012, you submitted an essay titled "Claiming
+Disability as an Identity is Important to Disrupt Notions of
+Normalcy and Abnormalcy." Portions of this essay were taken
+verbatim or nearly verbatim from other sources. You did not
+properly attribute or reference these passages. You did not
+include the source of one of these passages in the bibliography
+for this essay.
+
+(c)
+
+You were also required to attend a disability community cultural
+event and to submit a short reflection on the event that drew on and
+engaged with one or more of the themes discussed in the class. On
+or about April 2, 2013, you submitted your event reflection, which
+was titled "Open Talk about Students" A significant part of your
+event reflection was taken verbatim or nearly verbatim from an
+editorial written by Eliza Chandler. You did not properly reference
+these passages. You did not include Ms. Chandler's article in the
+bibliography for your event recollection.
+
+(d)
+
+With respect to both submissions described above, you knowingly
+represented the work of another as your own work. You knowingly
+included in each submission ideas and expressions that were not
+your own, but were the ideas and expressions of others, which you
+did not acknowledge.
+
+(e)
+
+For the purposes of obtaining academic credit and/or other
+academic advantage, you knowingly committed plagiarism in the
+assignment.
+
+Charge 7. On or about February 20, 2013, you knowingly represented as
+your own an idea or expression of an idea, and/or the work of another in
+Assignment 1, which you submitted for academic credit in NFS 284 Basic
+Human Nutrition, contrary to section B.1.1 (d) of the Code.
+Charge 8. On or about March 13, 2013, you knowingly represented as
+your own an idea or expression of an idea, and/or the work of another in
+
+5
+
+Assignment 2, which you submitted for academic credit in NFS 284,
+contrary to section 8.1.1 (d) of the Code.
+Particulars of these charges are as follows
+
+(a)
+
+Students in NFS 284 were required to submit several
+assignments, including Assignment 1, of which was worth 19%
+of the final grade in the course, and Assignment 2, which was
+worth 18% of the final grade.
+
+(b}
+
+On or about February 20, 2013, you submitted Assignment 1.
+Portions of this essay were taken verbatim or nearly verbatim
+from other sources. You did not properly attribute or reference
+these passages. You did not include the source of some or all
+of these passages in the bibliography for Assignment 1.
+
+(c)
+
+On or about March 13, 2013, you submitted Assignment 2.
+You knowingly received unauthorized assistance from
+Muhamed Aamir Iqbal, or other persons unknown, when the
+assignment was written.
+
+(d)
+
+You purchased the document you submitted as Assignment 2
+from Mr. Iqbal, or persons unknown, and submitted it without
+doing any meaningful academic work on it.
+
+(e)
+
+With respect to both submissions described above, you
+knowingly represented the work of another as your own work.
+You knowingly included ideas and expressions that were not
+your own, but were the ideas and expressions of others, which
+you did not acknowledge. For the purposes of obtaining
+academic credit and/or other academic advantage, you
+knowingly committed plagiarism in each assignment
+
+Charge 11. On or about November 5, 2012, you knowingly represented as
+your own an idea or expression of an idea, and/or the work of another in
+"Assignment 2," which you submitted for academic credit in UNI 209
+Introduction to Health: Determinants of Health & Health Care, contrary to
+section 8.1.1 (d} of the Code.
+
+6
+
+Charge 12. On or about December 10, 2012, you knowingly represented
+as your own an idea or expression of an idea, and/or the work of another
+in "Assignment 3," which you submitted for academic credit in UNI 209,
+contrary to section B.1.1 (d) of the Code.
+
+Particulars of these charges are as follows:
+(a)
+
+Students in UNI 209 were required to submit several assignments
+including Assignment 2, which was worth 35% of the final grade in
+the course, and Assignment 3, which was worth 50% of the final
+grade.
+
+(b)
+
+On or about November 5, 2012, you submitted Assignment 2.
+Portions of your submission were taken verbatim or nearly verbatim
+from other sources. You did not properly attribute or reference
+these passages.
+
+(c)
+
+On or about December 10, 2012, you submitted Assignment 3.
+Portions of your submission were taken verbatim or nearly verbatim
+from other sources. You did not properly attribute or reference
+these passages at least one of, which you did not include in the
+bibliography for this essay.
+
+(d)
+
+With respect to both assignments, you knowingly represented the
+work of another as your own work. You knowingly included ideas
+and expressions that were not your own, but were the ideas and
+expressions of others, which you did not acknowledge. For the
+purposes of obtaining academic credit and/or other academic
+advantage, you knowingly committed plagiarism in each
+assignment.
+
+8. Sanction
+
+7. The University sought the following sanctions:
+
+(a) a final grade of zero in each of the affected courses,
+
+7
+
+(b) an order that the Student be immediately suspended from the University for
+up to 5 years,
+(c) an order that the Tribunal recommend to the President of the University that
+he ask the Governing Council to expel the Student from the University, and
+(d) an order that the case be reported to the Provost for publication with the
+Student's name withheld.
+
+8. A recommendation for expulsion is the most serious sanction this Tribunal can order.
+It means that the student shall be denied any further registration in the University in
+any program, and the expulsion is permanently recorded on the student's transcript.
+
+9. The Student opposed these sanctions and asked that the Tribunal take a number of
+mitigating factors into account, focusing primarily on the fact that he suffers from a
+number of mental health conditions and learning disabilities. We address these
+mitigating factors below. He did not specify what alternative sanction or sanctions he
+considered appropriate.
+
+10. The University filed documentary evidence, led evidence from Professor Britton
+regarding two prior offences of plagiarism, and called reply evidence from Mr.
+Russell regarding the Student's interactions with the Office of the Registrar
+regarding his course load and academic difficulties. The Student filed documentary
+evidence, testified himself, and called as a witness Dr. Ford, an educational
+psychologist who had conducted a psychoeducational assessment of the Student in
+2015. All witnesses were cross-examined. Both parties made argument on the
+applicable principles and cases. In addition to his oral submissions, the Student also
+filed a series of detailed written submissions, revised over the period of the hearing,
+which referred to the evidence and outlined his arguments.
+
+11. The sanction stage of this hearing was originally scheduled for one day, but in the
+end took over 5 hearing dates. On the final date of the hearing, which had been
+8
+
+scheduled for 2 hours, the Student arrived 45 minutes late, and then left the hearing
+early, after an evidentiary ruling that he disagreed with. The Tribunal then closed the
+hearing, and reserved its decision on sanction and its reasons.
+
+12. The relevant principles and criteria for this Tribunal to consider in relation to sanction
+are set out in the decision of University of Toronto and Mr. C (Case No. 1976/77-3;
+November 5, 1976). These are:
+
+a.
+b.
+c.
+d.
+
+The character of the person charged;
+The likelihood of a repetition of the offence
+The nature of the offence committed
+Any extenuating circumstances surrounding the commission of
+the offence
+e. The detriment to the University occasioned by the offence;
+f. The need to deter others from committing a similar offence
+
+13. In addition, while the individual circumstances of each case are the paramount focus
+when considering the appropriate sanction, the Tribunal's sanction should be
+generally consistent with the approach to sanctions that have been administered by
+other Tribunals for similar offences to ensure that the student is being treated fairly
+and equitably in relation to other students. We are not bound by other Tribunal
+decisions, nor are there any benchmarks or presumptions that we must follow - we
+must determine what is the appropriate sanction in the individual circumstances of
+the case before us.
+
+a) Evidence Regarding Prior Offences
+
+14. The Student was previously sanctioned for plagiarism in respect of two separate
+incidents arising in the preceding academic year 2011-2012. He submitted a
+plagiarized essay in FOR303H1 for which he received the sanctions of a zero for the
+assignment and a further reduction of his final grade of 25 marks, with a transcript
+9
+
+annotation for 3 years. He also submitted a plagiarized assignment in JMB170Y. He
+received the sanctions of a zero for the assignment in question, and a further
+reduction of his final grade of 12 marks, with a transcript annotation of 3 years.
+
+15. The Student met with the Dean's Designate, Professor John Britton, about these two
+prior offences on September 7, 2012. He received the sanction decisions from
+Professor Britton via email on September 12, 2012.
+
+Professor Britton testified
+
+regarding this meeting, his email, and these prior offences.
+
+16. With respect to FOR303H1, the Student was initially reluctant to take responsibility
+for his plagiarism, or to admit that he had committed an academic offence, but
+ultimately conceded that he had committed the academic offence of plagiarism.
+Professor Britten's decision letter provided advice to the Student as to how to avoid
+plagiarism in the future. It also advised the Student that it was his responsibility to
+manage his academic and personal commitments in a manner that does not
+compromise his academic integrity, and that if he needed advice on how to do so he
+should speak to his college registrar for direction as to appropriate campus
+resources. The letter concluded with a warning that "all future academic work must
+follow the rules and regulations of the University; you are expected to be familiar
+with them ... if you should come to my attention again for another allegation of
+academic misconduct, you will be facing a possible suspension from the University."
+
+17. With respect to JMB170Y, the Student initially tried to deny the allegations with
+respect to the assignment, but ultimately conceded that he had resubmitted the
+same work, that the assignment contained plagiarised material and that he had
+committed an academic offence. The decision letter also stated that there had been
+a "frustrating and ultimately unproductive" discussion with the Student regarding
+submission of a medical note to support a claim that he had missed a term test
+because of illness. While the Student was not found to have committed misconduct
+with respect to this medical note, it is clear that he and the Dean's Designate had
+had a discussion about the University's expectations for the requirements of medical
+10
+
+notes to support illness as a reason for missing a test. This decision letter also
+included the same advice as to how to avoid plagiarism, and the same warning
+about future allegations of misconduct. It added, "your behaviour troubles me
+greatly and suggests a pattern of ignoring advice or instructions if that advice or
+instructions are not agreeable to you. As I told you at out meeting, this is not the
+way to succeed at the University of Toronto where the rules apply to everyone, and
+failure to adhere to them can be construed as academic misconduct."
+
+18. The Student sought to downplay the advice and warnings he had been given for
+these previous offences in his evidence before us. He stated that during the
+meeting with Professor Britton he had difficulty understanding the Code of
+Behaviour, because he did not have any accommodations at that meeting for his
+then-undiagnosed learning disabilities. Professor Britton did not recall the Student
+struggling to understand the Code at the meeting, or the Student requesting any
+form of academic accommodation during the meeting. We note that the Student
+received the warnings in writing as well as orally during the meeting, and that he
+could have, but did not, seek clarification or explanation after receiving the letters.
+We do not accept his arguments that he did not understand the sanction or the
+advice given to him by Professor Britton for his two prior offences.
+
+b) The Nature of the Offences Committed
+19. The Student committed 6 acts of plagiarism, and two acts of filing a false petition, in
+the Fall and Winter of the 2012-2013 academic year.
+
+20. Turning first to the acts of plagiarism, the Student submitted a plagiarized
+assignment in UNI 209 on November 5, 2012, a plagiarized Term Paper in New 241
+on December 4, 2012, a plagiarized Final Paper, Assignment 3 in UNI 209 on
+December 10, 2012, a plagiarized Assignment 1-Abstract in NFS 284 on February
+20, 2013, a plagiarized purchased Assignment 2 in NFS 284 on March 13, 2013 and
+a plagiarized Event Reflection in NEW 241 on April 2, 2013.
+
+11
+
+21. The Student argued that the Tribunal should not take into account that he had
+purchased the essay that he had submitted as Assignment 2 in in NFS284, because
+the University "dropped" the purchased essay charge when it withdrew Charge 9
+(unauthorized assistance), and only continued with Charge 8 (plagiarism). While he
+acknowledges that the ASF admits the facts that he did purchase the essay that he
+submitted as his own work as Assignment 2 in NSF284, he submits that admitted
+facts surrounding the purchased essay cannot be considered by the Tribunal in
+determining sanction.
+
+22. The relevant Charges 8 and 9 and ASF paragraphs are the following:
+
+Charge 8: On or about March 13, 2013, you knowingly represented as
+your own an idea or expression of an idea, and/or the work of another in
+Assignment 2, which you submitted for academic credit in NFS 284,
+contrary to section B.1.1 (d) of the Code.
+Charge 9: On or about March 13, 2013, you knowingly obtained
+unauthorized assistance in connection with Assignment 2, which you
+submitted for academic credit in NFS 284, contrary to section B.1.1 (b) of
+the Code.
+Agreed Statement of Facts:
+
+55. [The Student] submitted his completed Assignment 2 on March 13, 2013.
+A copy of [the Student]'s submission, as graded by Ms. Vien, is included in
+the JBD at Tab 25.
+56. A printout of the document properties for [the Student]'s short essay for
+Assignment 2 is included in the JBD at Tab 16. The name Aamir Iqbal
+appears in the Author field of the document properties. The document
+properties indicate that the paper was last modified by "[Student's first
+name]".
+57. A copy of the Liveperson profile for Muhammad Aamir Iqbal is included in
+the JBD at Tab 27. Mr. Iqbal's profile states that he is a "PhD scholar and I
+offer my proficiencies to provide assistance in your studies at reasonable
+price." [sic] Mr. Iqbal's profile represents that he is a "qualified nutritionist" with
+"experience as a Nutritionist at a reputable hospital." He also states that he is
+12
+
+"available to assist students of numerous disciplines who pursue [his] service,
+and you will obtain admirable plagiarism free piece of work in reasonable
+price." [sic]
+58. [The Student] admits that he paid Mr. Iqbal to write the short essay that
+Mr. K■ submitted in his own name as part of Assignment 2. Mr. ~admits
+that he did no meaningful academic work on the short essay before
+submitting it.
+59. [The Student] admits that in the short essay component of Assignment 2
+for NFS284, he knowingly
+(a)
+
+represented in his essay the ideas of another person, the
+expression of the ideas of another person, or the work of
+another person as his own; and
+
+(b)
+
+committed plagiarism, contrary to section B.l.1(d) of the
+Code.
+
+23. In support of his argument, the Student provided the Tribunal with a copy of an
+email dated November 1, 2016 from the law student who formerly represented him.
+The law student's email states:
+[... ]
+
+Originally, the charges on this assignment were two fold:
+(1) a charge for a purchased essay
+(2) a charge for plagiarism
+Due to your guilty plea, the first charge, which is regarded as more serious, was
+dropped. I explained during our meeting that in the ASF, the facts would still
+state that you purchased your essay, but the charge would be solely for
+plagiarism.
+[... ]
+
+24. Counsel for the University objected to the introduction of this email, arguing that this
+was new hearsay evidence submitted after the evidence was supposed to be
+completed, and further that he had no opportunity to obtain the law student's file or
+question her about her advice. The Tribunal agreed to admit the email, but a number
+of factors, in addition to the concerns raised by the University, limit the weight we
+13
+
+give to it, and significantly qualify the extent to which it supports the Student's
+argument that we not consider the fact that the essay was purchased.
+
+25. The law student did not testify, so the email is unverified and untested. We were not
+provided with the Student's questions to the law student which prompted this email.
+We do not know what she reviewed, whether she understood the context in which
+the question was asked, or how the email would be relied on. The email incorrectly
+states that the withdrawn charge 9 was for a "purchased essay", whereas the
+withdrawn charge was actually for "unauthorized assistance", so her understanding
+of the original charges is not accurate. Further, the email confirms that the law
+student had explained to the Student that the ASF would still include the admitted
+facts that he had purchased the essay. The email is silent as to what these
+explanations were as to the implications of including in the ASF the admitted facts of
+purchasing an essay in determining penalty for the remaining charge of plagiarism.
+
+26. In the Tribunal's view, the withdrawal of Charge 9 by the Provost does not have the
+effect of preventing the Tribunal from taking into account the admitted facts in the
+ASF regarding the purchase of the essay. These facts support the Charge 8 of
+plagiarism to which the Student pleaded guilty. The ASF sets out 4 detailed
+paragraphs of admitted facts that establish that the Student purchased an essay that
+he submitted for credit as his own. The Student admitted that he paid Mr. Iqbal to
+write Assignment 2 in NFS 284, that the Student submitted the purchased essay in
+his own name, and that he did n,o meaningful academic work on it. The Student did
+not dispute or withdraw any of these factual admissions. The Student received an
+explanation from the law student that the facts admitting that he purchased the
+essay would remain in the ASF. Inclusion of these facts in the ASF in relation to the
+plagiarism charge for this assignment is not consistent with the Student's argument
+that the Tribunal cannot consider those facts in determining sanction. The argument
+that "plagiarism" is a different charge than "purchasing an essay" is also not
+consistent with Tribunal jurisprudence, which commonly considers purchased
+essays as a form of "plagiarism" under the Code. While we do not have specific
+14
+
+evidence before us from the University as to why it withdrew Charge 9, we note that
+both Charge 8 re plagiarism and Charge 9 re unauthorized assistance relate to
+same incident and arise from the same facts, and proceeding with both could
+possibly have raised concerns about duplicity of charges.
+
+27. While not raised as an issue by the Student, we have also considered whether his
+submissions bring into question the voluntariness and informed nature of his guilty
+plea with respect to Charge 8. We conclude that it does not. There is no question
+that the Student knew that that the ASF included 4 paragraphs of facts admitting that
+he had purchased the essay that he submitted in NFS 284. He knew that those
+facts were admitted in relation to plagiarism under Charge 8. He acknowledged in
+the ASF that the Provost had made no representations as to the sanction to be
+sought.
+
+He has not sought to resile from his guilty plea, or to deny the facts
+
+underlying the plea. His arguments relate solely to sanction, and in particular that
+the withdrawal of Charge 9 indicates that the nature of his misconduct should be
+considered to be "less serious". While we do not accept that argument, there is in
+our view no basis to find that the guilty plea to Charge 8 was not informed.
+
+28.AII plagiarism is serious misconduct, as it undermines the fundamental academic
+relationship of credibility, honesty and trust between a student and the University. It
+strikes at the core of academic integrity. Knowingly representing the work of another
+as one's own is a breach of that trust and evinces an intention to obtain academic
+credit on false pretences. The Preamble to the Code states:
+
+The concern of the Code of Behaviour on Academic Matters is with the
+responsibilities of all parties to the integrity of the teaching and learning
+relationship. Honesty and fairness must inform this relationship, whose basis
+remains one of mutual respect for the aims of education and for those ethical
+principles which must characterize the pursuit and transmission of knowledge
+in the University ...
+Such cooperation is threatened when teacher or student forsakes respect for
+the other - and for others involved in learning - in favour of self-interest,
+15
+
+when truth becomes a hostage of expediency. On behalf of teacher and
+student an in fulfillment of its own principles and ideals, the University has a
+responsibility to ensure that academic achievement is not obscured or
+undermined by cheating or misrepresentation, that the evaluative process
+meets the highest standards of fairness and honesty, and that malevolent or
+even mischievous disruption is not allowed to threaten the educational
+process.
+29. Plagiarism that relates to a purchased piece of academic work is among the most
+egregious of academic offences. As noted by the Discipline Appeal Board in the
+2011 C., H. and K. (Case No. 596, 597, 598, November 23, 2011) decision, it
+involves intention, planning and deliberate deception. It is often more difficult than
+other types of plagiarism to detect. It introduces a 3rd party commercial element into
+the academic relationship between professor and student which should be governed
+by individual effort, thought and hard work, and it strikes deeply at the core values of
+the institution of the University.
+
+30. The University argues that this Tribunal should consider the plagiarism charge with
+respect to the purchased essay in NFS 284 to be the most serious of the six
+plagiarism charges, and one that in and of itself would warrant the sanction of a
+recommended expulsion, particularly with two prior offences. We are also informed
+by the Provost's Guidelines which suggest that the recommended sanction for
+submitting purchased work is expulsion from the University.
+
+31. Here, all of these elements underlining the seriousness of the offence of plagiarism
+are present. With respect to the purchased essay in NFS 284, the Student sought
+out and hired a person who advertised online as an expert nutritionist who provided
+assistance to students and "you will obtain admirable plagiarism free piece of work in
+reasonable price" [sic]. The Student paid Mr. Iqbal to write the short essay
+component of Assignment 2 that he submitted in his own name. This deception was
+only uncovered through an examination of the metadata "Author" field of the
+document properties. His actions were planned and deliberate, and intended to
+
+16
+
+deceive the University.
+
+32. With respect to the other 5 charges, the Student plagiarized from lecture slides, from
+the "Ask Me Anything" on-line forum on Reddit, from assigned course readings, and
+from academic articles. The plagiarised material was a significant portion of the
+submitted essay or assignment in most of these instances.
+
+33. Turning next to the offences relating to the submission of false information in
+personal statements, the Student submitted a Petition to request late withdrawal
+from CHM 139 without financial penalty on approximately September 17, 2017. The
+ASF contains the following admitted facts about this Petition:
+
+15. [The Student] included a personal statement in his Petition. In the personal
+statement, [the Student] stated that his family knew personally the grandfather
+who collapsed and asserted a more personal connection to that grandfather.
+[The Student] also explained that his request for a late withdrawal from CHM 139
+was related to concerns about his cousin, who did not live in Canada, and who
+had been having mental health problems as a result of his parents' divorce. [The
+Student] admits that these statements were not true.
+34. After the Committee on Standing denied the petition for late withdrawal, the Student
+appealed. The Student again submitted a second personal statement. The ASF
+contains the following admitted facts about this appeal:
+
+18. [ ... ] In support of his Appeal, [the Student] submitted a personal statement.
+He stated that he was seeking a late withdrawal in CHM 139 because of the
+death of one of his relatives. He stated that after hearing about the death of his
+relative, "I was unable to concentrate on my studies and had a mental
+breakdown". [The Student] admits that these statements were not true.
+19. On December 4, 2012, Mr. Russell emailed [the Student] requesting that he
+provide original documentation confirming the death of his relative .... [The
+Student] never provided any such documentation because no relative of his died
+prior to the examination in CHM 139.
+
+17
+
+20. [The Student] admits that he knowingly submitted documents, including the
+personal statements in the Petition and the Appeal, that contained false
+information[ ... ]
+35. The Student admitted in the ASF that he submitted false statements about the
+collapse of a grandfather, concerns about mental health problems of his cousin, and
+the death of a relative, which caused him to be unable to study for the examination
+in CHM 139. He provided this false information in order to gain an academic
+advantage - late withdrawal without penalty from CHM 139 - that he otherwise
+would not be entitled to receive. He provided false information twice - both on the
+original petition, and then again when he appealed the decision to refuse the
+petition.
+
+36. Falsification of information in a petition is a very serious offence. The Student
+deceived the University in order to take advantage of the University's petition system
+which is intended to provide students who experience genuine personal difficulties or
+circumstances with a means to obtain extraordinary relief from academic
+requirements and deadlines. The petition system relies on students providing
+truthful statements about their personal circumstances, as it is not possible for the
+University to investigate all of these statements. By submitting false information in
+his personal statements, the Student breached his relationship of trust with the
+University and undermined the integrity of the petition system.
+
+37. The Tribunal heard a great deal from both the Student and the University regarding
+a subsequent statement he made to Dr. Ford in 2015 that "I found out sometime
+before August 15, 2012 that one of my cousins died due to family problems. I was
+unable to concentrate and study for the CHM 139 exam on August 15 and had a
+mental breakdown". The Student adamantly denied that his statement to Dr. Ford
+was false or that it was inconsistent with the statements in his ASF. On the final day
+of the hearing, the Student sought to admit in evidence an email from his previous
+law student representative dated November 3, 2017 containing her opinion as to
+whether the ASF stated that the Student lied as to whether his cousin had died. The
+18
+
+Tribunal did not admit this email into evidence. The Tribunal held it was improper
+opinion on an issue of marginal relevance, was filed too late, was unverified, and
+referred to only part of the ASF. The Student did not accept the Tribunal's ruling and
+left the Hearing without making any further submissions shortly thereafter.
+
+38. The Student's testimony on this issue was very difficult to follow, self-contradictory,
+and did not make logical sense. However, this entire line of evidence is also largely
+irrelevant to our decision on sanction. Whether or not the Student subsequently lied
+to Dr. Ford about the reasons he sought the petition, or whether there is an
+inconsistency between the ASF and the statement to Dr. Ford, is not the issue in this
+proceeding. What is at issue is that he lied to the University in his personal
+statements about the reasons for seeking the petition and appeal, and that is not in
+dispute. He has admitted to those false statements in the ASF.
+
+39. The Student also submitted to us that the offences were less serious because he did
+not commit them intentionally. He stated that the fact that he disputed the grades
+given on a number of the plagiarized essays before the plagiarism was discovered
+showed that he did not appreciate that the essays contained plagiarism. He also
+argued that the withdrawal of certain charges by the University which included
+allegations of "knowingly" committing offences meant that he had not committed the
+remaining charges intentionally.
+
+40. The Tribunal does not accept these arguments. "Knowing" under the Code of
+Behaviour in connection with an offence means either that the Student knew or that
+he ought reasonably to have known something. Here, the Student admitted in the
+ASF that he "knowingly" committed the offences to which he pied guilty, and the
+charges to which he pied guilty all indicate that they were "knowingly" committed.
+The withdrawal of other charges is irrelevant. The evidence before us also
+demonstrates that he knew or ought to have known that his conduct constituted an
+offence. He received general warnings about plagiarism in his courses. In addition,
+he received individual warnings and advice from Professor Britton after his prior
+19
+
+offences about avoiding plagiarism and the need to submit accurate information to
+obtain relief from academic requirements. It is evident that the Student either knew
+or ought reasonably to have known the facts underlying all of the offences to which
+he pleaded guilty. Finally, while it is true that the Student appealed the grades he
+had received in connection with certain of the plagiarized essays, thereby bringing
+additional scrutiny to those essays, this fact does not in our view contradict the
+admitted facts in the ASF or indicate that he did not "knowingly" plagiarise. The
+evidence and submissions before us indicated that the Student repeatedly and
+persistently disputed grades that he felt were too low or unfair, including raising this
+before the Tribunal, even after being advised that grade disputes were not relevant
+to this proceeding. We do not think that undiscovered plagiarism would have
+necessarily deterred the Student from appealing a grade where he was unhappy
+with the grade received.
+
+c) Detriment to the University Occasioned by the Offences
+
+41. Honesty and fairness are at the core of the teaching and learning relationship
+between student and University. Cheating, dishonesty and misrepresentation by a
+student in relation to academic work submitted for credit, or in relation to personal
+statements submitted to obtain relief from academic requirements, undermine the
+University's ability to ensure that academic achievement is based on respect for the
+aims of education, and are contrary to fundamental ethical principles that
+characterize the pursuit and transmission of knowledge in the University. This
+misconduct causes harm to the entire University community, including other
+students of the University whose academic achievements are premised on the
+fairness of evaluations and who may need to rely on a fair petition system.
+
+d) The Need to Deter Others
+
+20
+
+42. It is important to deter other students from committing offences like those committed
+by the Student. Plagiarism is a widespread concern for the University. The
+University community should know that plagiarism is subject to a strong sanction, in
+order to deter others from seeking to gain an academic advantage through
+presenting the work of others as their own. Where the plagiarism involves a
+purchased essay, the need to deter others is even more acute: there are many
+commercial services available to students of the University, like that provided by Mr.
+Iqbal, that sell individual, tailored essays and advertise that they can be passed off
+as the student's own work with little chance of detection.
+
+43. It is similarly important to deter students from submitting false information in
+personal statements accompanying petitions and appeals for relief from academic
+requirements. Petitions are widely relied on by many students with genuine needs.
+Petitions are largely based on the "honour system", and therefore a strong sanction
+is required where dishonesty has been found so that all students are aware that
+there will be serious consequences for undermining the integrity of this system.
+
+e) Likelihood of a Repetition of the Offence
+
+44. The large number of incidents of misconduct, the fact that these incidents were
+committed shortly after the Student had already been warned and disciplined for
+prior offences of plagiarism and that they were committed while the Student was
+under a transcript notation for the prior offences, are strong factors which indicate
+that there is a significant likelihood that the Student is likely to repeat the offences.
+
+45. Particularly relevant is the fact that the Student submitted a falsified personal
+statement in his petition (Charge 1) on September 17, 2012, which is only ten days
+after his meeting with Professor Britten to discuss these prior offences and only five
+days after receiving two disciplinary letters with strong warnings about this prior
+academic misconduct. So the Student not only ignored general information about
+plagiarism through course material and syllabuses and lectures, he also ignored
+21
+
+specific advice and warnings from Professor Britton, including advice about the
+supporting documentation necessary for medical illness notes. The fact that the
+Student submitted false personal information to the University such a short time after
+this prior disciplinary action, and committed new acts of plagiarism in the two
+academic terms that followed, indicates that the Student did not learn from his past
+mistakes, did not take advantage of any of the warnings or minor sanctions he had
+previously received and instead was prepared to continue to breach the University's
+Code of Behavior to obtain academic advantage.
+
+46.Also relevant is the fact that the Student committed two prior offences and eight
+additional offences in rapid succession over the course of 3 academic terms. This is
+a very large number of offences in a short period of time.
+
+47. On the other hand, the Student points out that he has not committed any further
+offences since April 2, 2013. He has completed a total of 8 credits since that date as
+of Winter 2016 and currently has a total of 10.5 credits. The Student states that now
+that he is receiving appropriate accommodations for his learning disabilities, he is no
+longer committing misconduct, and there is no likelihood that he will do so in the
+future.
+
+48. We do not accept that the Student's misconduct relates to the absence of
+accommodations by the University. As outlined in further detail below, the Student's
+educational psychologist Dr. Ford did not think there was any connection between
+the Student's learning disabilities and his acts of misconduct. The fact that the
+Student currently has certain accommodations does not therefore make it less likely
+that he will commit offences in the future. We further note that the Student has been
+subject to this Tribunal process since July 2013, and this may be an alternative
+reason for him not committing further offences since April 2013.
+
+49. On balance, the fact that the Student has completed eight credits over four years
+without further academic misconduct is a factor that points away from the likelihood
+22
+
+of repetition, although we do not consider it a strong countervailing factor compared
+to the other factors that point to a real risk that the Student will continue to disregard
+the University's rules in the future.
+
+f) Extenuating Factors Surrounding the Commission of the Offence - Mitigating
+Factors
+
+50. The Student advanced a number of mitigating factors that he urged this Tribunal to
+consider in determining the appropriate sanction for the offences he committed. The
+most significant mitigating factor that he relied on related to his mental health
+conditions and learning disabilities. The Student's overall argument can be
+summarized as follows: He suffered from mental health and learning disabilities
+during the 2012-2013 period when he committed these acts of misconduct. These
+disabilities were at that time undiagnosed and untreated. Because the University
+failed to provide him with accommodations for his learning disabilities during this
+period, his unaddressed learning disabilities caused him to be "at a disadvantage"
+academically during these first two years, and he did not therefore have a fair and
+equal opportunity for academic success. This explains why he committed the
+misconduct. He submits that sanctioning him for misconduct would "indirectly be
+punishing me for the symptoms of my disabilities".
+
+i) Medical and Psychiatric Evidence re Mental Health Disabilities
+51. The Student submitted a Consultation Note dated April 22, 2016 from Dr. Leah
+Smith, on behalf of Dr. Daniel Greben and an Emergency Multi-disciplinary
+Assessment Note dated April 13, 2016 by Dr. Kathleen Broad of CAMH. These
+doctors saw the Student in April, 2016. None of the physicians referred to in these
+documents testified at the hearing.
+
+52. The Student relied on these documents as a basis for the Tribunal to take into
+account as a mitigating factor that he has a number of mental health conditions,
+
+23
+
+including bipolar disorder, major depressive disorder and anxiety, and that these
+were untreated and operating at the time of the misconduct, and resulted in him
+being unable to manage anxiety and depression in an academic setting.
+
+53.As the Tribunal did not hear from any of the physicians referred to in these
+documents and there was no opportunity to question the authors, we approach this
+evidence with caution. We note that the April 22, 2016 Note reports that the Student
+was previously diagnosed with bipolar disorder (February 24, 2016) and a learning
+disability including symptoms of ADHD and anxiety (October 2015). The
+Consultation Note gives a provisional diagnosis of major depressive disorder ("long
+standing untreated depression with comorbid symptoms of anxiety") and disagrees
+with the earlier diagnosis of bipolar disorder.
+
+54. We accept that the Student received this provisional diagnosis in April 2016, and
+that depression can be a chronic condition, but the evidence before us is insufficient
+to conclude that the Student was therefore suffering from depression and anxiety at
+the time of the commission of the offences in 2012 and 2013. The Student testified
+that he was depressed and anxious during this period, and the 2016 Notes record
+that the Student reported to the CAMH physicians in 2016 that his symptoms of
+depression either began or worsened when he started University. There are no
+contemporaneous medical records to support the timing of the onset of these
+symptoms. However, the Student has provided his Student Medical Certificates for
+the period of 2012-2013 which do not indicate that the Student sought assistance
+during this period for symptoms of anxiety or depression. The Certificates are for
+illnesses such as colds and stomach flu. The Certificates we have reviewed record
+complaints of anxiety and /or depression starting in 2014, one year after the
+commission of the offences.
+
+55. We also have a concern about the reliability of the Student's statement to the CAMH
+physicians in 2016 regarding the timing of the onset of his symptoms. The 2016
+Consultation Note reports that the Student planned to use the physician's
+24
+
+assessment note as evidence before this Tribunal. The Student's April 2016 CAMH
+assessment resulted from the Student's behaviour after he called 911 from outside
+the hearing room when he was denied an adjournment by this Tribunal. The notes
+of the April 13, 2016 assessment state that the Student wanted "a copy of this
+assessment as he 'wants to be taken seriously' by staff at University of Toronto".
+While this does not mean that the Student misrepresented the timing of the onset of
+his symptoms when speaking to the doctors, it does mean that the Student was
+aware that he was creating evidence for this proceeding when he provided
+information to them, and we therefore give this evidence less weight.
+
+56. In the end, the evidence before us does not establish that the mental health issues
+the Student was diagnosed with in 2016 were also present in 2012-2013 when the
+offences were committed. In any event, even if the Student were suffering from
+anxiety and depression at the time, there is no evidence before us that would link the
+Student's mental health circumstances at that time with the commission of the
+offences. There is, for example, no evidence that would suggest that the Student's
+anxiety or depression is an explanation or excuse for purchasing an essay, for
+submitting other plagiarized course work or for making falsified personal statements.
+
+ii) Psychological Evidence Regarding Learning Disabilities
+
+57. The Student was diagnosed with Specific Learning Disorders (i.e. learning
+disabilities) in late 2015 by Dr. William Ford, an educational psychologist who
+testified at this hearing. The Student was originally referred to Dr. Ford by the Office
+of Accessibility Services. Dr. Ford conducted a Psychoeducational Assessment in
+August and September, 2015, and prepared a Diagnostic Report dated October 20,
+2015, for the purpose of determining the Student's eligibility for Accessibility
+Services at the University. The Diagnostic Report stated that the Student had
+"specific learning disorders" comprised of a "moderate impairment in reading speed
+for comprehension under timed conditions" and a "mild impairment in the clarity and
+
+25
+
+organization of written expression".
+
+58. Dr. Ford confirmed in his testimony that the Background section of the Report, which
+states that the Student had episodes of anxiety and depression since starting his
+university studies, was based solely on information from the Student. Again,
+because this is unverified information from the Student after these proceedings were
+underway, and because Dr. Ford was not assessing or treating the Student for
+anxiety or depression, we give it little weight.
+
+59. In addition to the Report, Dr. Ford wrote a letter dated September 24, 2015, at the
+Student's request, for use in evidence in this proceeding. The letter stated that "In
+my professional opinion, the cumulative impact of [the Student's] learning challenges
+appear to be the source of his ongoing struggle maintaining his course work and the
+academic challenges which have resulted [sic] the issues leading to the current
+appeal."
+
+60. In his testimony before us, Dr. Ford significantly qualified this statement, and
+clarified that in his opinion there is no causal link between the Student's learning
+difficulties and his admitted academic misconduct.
+
+61. What became clear during the cross-examination is that Dr. Ford had a very limited
+and in some respects erroneous understanding of the Student's circumstances. He
+relied on unverified statements made to him by the Student, and had no knowledge
+of many of the facts the Student has admitted to in these proceedings. He did not
+see the Student during the relevant period of time during which the offences
+occurred.
+
+62. Dr. Ford acknowledged that he did not have any information at the time he prepared
+the Psychological Assessment of the charges facing the Student or any of the
+evidence relied on by the University in support of those charges. The Student had
+advised Dr. Ford that he failed two courses in the Fall of 2011 but did not tell him
+26
+
+that his failing mark reflected the fact that he had received a zero in an assignment
+in each of those courses for plagiarism. The Student also did not explain to Dr. Ford
+that the three classes in 2012-2013 for which he had a "GWR" notation on his
+transcript were subject to allegations of academic misconduct. In fact, Dr. Ford
+confirmed that the Student did not give him any indication that there were allegations
+against him in the 2012-2013 year regarding plagiarism or purchase of an essay.
+
+63. When asked whether there was anything about the Student's learning difficulties that
+would relate to submitting a purchased essay, Dr. Ford stated it "would be a very
+difficult connection to make". He agreed that neither he nor any professional would
+recommend that the rules and standards regarding academic integrity not apply as
+an accommodation for the Student's learning difficulties. He further stated "I do not
+believe he did this because of any learning disability".
+
+64. In our view, Dr. Ford clearly wished to provide support to the Student who was his
+client. He nevertheless also sought to give accurate evidence to the Tribunal on the
+issues before it. He forthrightly contradicted propositions put to him by the Student
+where he disagreed with them. The Tribunal accords very significant weight to his
+testimony before us discounting any link between the Student's learning disabilities
+and the academic offences the Student committed.
+
+65. The Student also presented documentary evidence from the Office of Accessibility
+Services and from a Speech Language Pathologist describing the academic
+accommodations and strategies he currently receives to assist him to study
+effectively and efficiently at the University. It is clear that the Student does have
+learning disabilities and that he receives accommodations for them. This evidence
+does not, however, provide any link between the learning disabilities and the
+commission of the offences in 2012-2103.
+
+66. The Tribunal has very carefully considered the evidence and the Student's
+submissions regarding whether his disabilities should be considered a mitigating
+27
+
+factor in the sanction for the offences before us. The Tribunal accepts that the
+Student suffers from anxiety, depression and learning disabilities, and is sympathetic
+to the challenges he faces as a result of these conditions. He testified that he is now
+regularly seeing health professionals and is working on addressing his anxiety and
+learning disabilities. While we encourage the Student in continuing to pursue
+appropriate treatment and supports, we have concluded that we do not consider his
+disabilities to be a mitigating factor relating to the commission of the academic
+offences for the purposes of determining sanction. What is lacking in the evidence
+before us is, first, evidence of whether and to what extent the Student suffered from
+these conditions at the relevant time in 2012-2013, and second, evidence of any
+linkage between the disability and the misconduct that would give a reasonable
+explanation of why he did what he did, or make him somehow less culpable for his
+conduct.
+
+67. To the extent that the Student suggested that his misconduct was justified because
+the University did not provide him with accommodations for his learning disability in
+2012-2013, we reject that argument. A lack of accommodations is not a reasonable
+excuse for plagiarism, purchasing essays, or falsifying information submitted for
+academic advantage. As Dr. Ford said in his testimony, it is not an appropriate
+accommodation of a learning disability to recommend that a Student not be required
+to meet the standards in the Code.
+
+68. Other mitigating factors identified by the Student were that he signed the ASF (which
+is discussed below) and that he has participated in two student volunteer activities at
+the University. We do not consider either of these factors to be sufficiently mitigating
+to warrant a departure from the normal principles of sanction.
+
+g) Aggravating Factor - Conduct at the Hearing
+
+69. The Tribunal considers as an aggravating factor in this case the manner in which the
+Student has conducted himself in this hearing. In a number of instances, the
+28
+
+Student failed to treat the process, or this Tribunal, with appropriate respect and
+courtesy:
+
+•
+
+on four of the six hearing dates, the Student arrived at the hearing 30
+minutes to one hour late, blaming the weather conditions, the transit
+system or traffic, or offering no reason;
+
+•
+
+on two hearing dates, the Student arrived unprepared, without hard copies
+of his documentary evidence, blaming a broken printer, necessitating a
+lengthy break while the Office of Appeals staff photocopied and collated
+his evidence;
+
+•
+
+the Student filed a written submission containing inflammatory and
+unfounded allegations of "perjury" and "defamation" against discipline
+counsel for the University;
+
+•
+
+after persisting in disagreeing with an evidentiary ruling made by the
+Tribunal on the final day of the hearing, the Student stated that the
+Tribunal was "not honest" and was "rigged".
+
+70. We understand that the hearing process is stressful for the Student and that he may
+well have been unfamiliar and frustrated with aspects of the process. However, the
+lateness and lack of preparation persisted even after the Student was warned not to
+repeat the behaviour. The inflammatory accusations against counsel and the
+Tribunal are improper and unacceptable. In our view, these incidents are an
+aggravating factor as they demonstrate a lack of respect for the University and its
+discipline process and raise a serious concern about the Student's continued
+inability to govern himself in accordance with the University's standards, rules and
+responsibilities.
+
+29
+
+h) Character of the Person Charged
+
+71. Through the evidence in this proceeding, and through his interactions with the
+University and this Tribunal, the Student has been shown to be a person who does
+not accept responsibility for his conduct, who deflects blame on others when his
+behaviour is challenged, and who has not demonstrated any meaningful insight,
+remorse or regret for the offences that are the subject of this proceeding.
+
+72.As examples of his failure to take responsibility and instead blame others, the
+Student blamed the University for not referring him earlier to Accessibility Services,
+and stated that the lack of accommodation is what resulted in him committing these
+academic offences. The Student also blamed the University for not counselling him
+to reduce his course load in 2012-2013, and that it was therefore the University's
+fault that he was overwhelmed by academic requirements when he committed these
+offences. He submitted "the university failed to give me, as a student with
+disabilities, the opportunity to succeed. The grades that I received are not an
+accurate reflection of my academic abilities because I have always been at a
+disadvantage due to the lack of accommodations".
+
+73. The University countered with evidence that the Student had not disclosed any
+disability or requested accommodations in 2012-2013 and was in fact resistant to the
+Registrar's office's attempts at that time to counsel him to reduce his course load
+and drop upper year courses (he initially declined to drop any courses, then
+eventually did so but too late to assist him in reducing his workload). To the
+University Registrar, the Student's academic difficulties during this period were
+explicable by his inappropriate workload for most of the term, his course selection,
+and the effects of penalties for his prior offences. In the circumstances, we view the
+University's actions as reasonable.
+
+74. The Student also suggested that any inconsistencies between his testimony and the
+ASF were result of the fact that he was not provided with accommodations when he
+30
+
+signed the ASF in 2016 with his legal representative. However, he had
+acknowledged that the legal representative explained the ASF to him verbally, and
+that he has had access to accommodation software technology on his computer
+since 2015. Further, he did not raise this as an issue until confronted with alleged
+inconsistent statements made to Dr. Ford. There is no basis in the evidence before
+us to indicate that the Student did not have a reasonable opportunity to review the
+ASF due to a lack of accommodation.
+
+75.As one last example, the Student blamed the University for his anxiety because he
+was "not being assessed fairly" and was "mistreated" by the professor in NEW 241
+Y1 - one of the courses in which he committed misconduct. He told the Tribunal
+that another student received a higher participation mark than him although the
+Student had received a higher group presentation mark. The Student suggested
+that the charges in this course were a "reprisal" for challenging the TA's comments
+on the paper. At a meeting with Professor Britton on May 24, 2013, the Student also
+suggested that the professor in the course may have changed some of his Event
+Reflection. No other evidence was led to support the Student's allegations of
+reprisal and falsification by the University, and we consider those allegations to be
+unfounded.
+
+76. The Student pointed to signing the ASF as an expression of his insight and remorse,
+because he stated that it showed that he was attempting to repair his relationship
+with the University. We agree that generally entering into an ASF and plea
+agreement can be important signs of insight and responsibility, and of attempting to
+reduce the time and expense of a full hearing. However, the ASF and plea
+agreement in this case were signed three years after the charges were filed, and
+after more than 10 interim orders and five adjournments. Moreover, as set out in
+these reasons, during the sanction hearing, the Student sought to qualify and
+distance himself from some of the statements he had made in the ASF. His conduct
+both before and after the signing of the ASF therefore undermines his argument that
+by admitting the facts underlying the offences he appreciated the gravity of his
+31
+
+conduct or was seeking to repair his relationship with the University.
+
+77. The Student also pointed to the following statement in his written submission as an
+example of remorse: "I am not perfect. I will sometimes make mistakes by accident,
+but those mistakes will be more prevalent especially when I was not being
+accommodated for my disabilities ... ". This statement is not a genuine expression of
+remorse. To the contrary, it negates the intentional conduct that the Student
+admitted to by calling it an "accident". It also shifts blame for his conduct to the
+University's alleged failure to accommodate.
+
+78. The Student in his oral submissions stated "And I'm clearly, obviously very sorry for
+the fact that these offences happened. And of course we know that the charges for
+any intentionality or academic advantage were dropped ... " This is the only
+expression of apology the Student made in this hearing, and it was attached to a
+statement incorrectly asserting that the University withdrew allegations that he
+"intentionally" committed the offences.
+
+79. The Tribunal concludes that the Student has not demonstrated any genuine insight,
+regret or remorse about the offences that are the subject of this proceeding.
+
+i) Relevant Cases Regarding Sanction
+
+80. The University relied on the Discipline Appeals Board decision in C., H. and K.
+(Case No. 596, 597, 598, November 23, 2011) which dealt with the appropriate
+sanction for a purchased essay. In that case, all three students pleaded guilty to
+plagiarism. They all admitted that they submitted a purchased essay for academic
+credit. They also signed an ASF that admitted that they had previously committed
+two prior academic offences. One of the students also admitted to a third prior
+offence, which was that she had previously submitted a purchased essay. The
+Appeals Board overturned the Tribunal's sanction of a 5 year suspension and
+
+32
+
+instead recommended expulsion.
+
+81. In that case, the Appeals Board indicated that, as a starting point and working
+assumption, expulsion is the sanction that is best commensurate with the gravity of
+the offence of a purchased plagiarized essay. Two of the sentencing principles detriment the University occasioned by the offence of purchasing essays, and the
+need to deter others from committing a similar offence - should be paramount over
+all others. If expulsion is not the result in a particular case then it would be in the
+"rarest of alternatives that something less than a five year suspension would be
+imposed" . There is no rule, however, and a consideration of all the facts and the
+other criteria will determine whether expulsion is appropriate in the particular case:
+
+Under what circumstance was the essay purchased and submitted. What
+degree of intent and deliberation was involved. What recognition that the
+conduct was grave and wrong can be seen in the student. Was anyone else
+involved. Were there influences that can legitimately influence the penalty.
+What were the subsequent events - did the student admit guilt or attempt to
+continue the fraud. Is there anything particularly egregious or saving about
+the case or are there other facts that may ameliorate what is otherwise
+conduct to be condemned .... Has the student learned anything from the
+entire matter. Are there true expressions of remorse, regret and apology,
+although these even if accepted will rarely blunt the force of the offence itself,
+Are there extenuating circumstances and can these be seen to be relevant to
+the ultimate sanction .... Of course, there is the issue of previous academic
+offences. If there is none, and an otherwise positive record, perhaps
+expulsion will not be the result, as it was not in P[.] and H[.]. If there are one
+or more, then, whatever their nature, this is a powerful indication that
+expulsion may well be warranted.
+
+82. C., H., K. relied on the earlier cases of P. (Case No. 601, March 8, 2011) and H.
+(Case No. 602, May 6, 2011), in which the students pied guilty to submitting a
+purchased essay but had no prior offences. In both of these cases, the panel
+ordered a five year suspension. In both, the panels of the Tribunal indicated that had
+there been evidence of prior offences, the panel would have recommended
+
+33
+
+expulsion.
+
+83. The University also brought to our attention the S.K (Case No. 732, March 11, 2014)
+decision, in which a student's proven longstanding anxiety and depression, her
+seeking of treatment after the offence, her complete cooperation with the University
+and her genuine remorse were all found to relevant in determining that a lesser
+penalty was appropriate. However, the Tribunal also found that her medical
+condition neither excused nor justified her unacceptable conduct. In our view, the
+circumstances before us are quite different than in S.K. As set out above, we do
+not have evidence of a temporal or a causal link between the disability and the
+misconduct. The Student has only cooperated with the University to a limited extent.
+He has not shown genuine insight, responsibility or remorse. In addition, there are a
+number of aggravating factors in the case before us.
+C. Decision On Sanction
+84. We have carefully reviewed the evidence, weighed the factors, and considered the
+approach taken in other cases. We have come to the determination that the
+appropriate sanction in the all of the individual circumstances of this case includes a
+recommendation that the Student be expelled from the University.
+
+85. In coming to this determination, we consider of paramount importance the deliberate
+and extremely serious nature of the multiple acts of misconduct before us including a
+purchased essay, the harm to the University and the need to deter others. Our
+determination of the appropriate sanction does not turn, however only on the facts of
+the purchased essay. Even without considering the particularly egregious nature of
+a purchased essay, we consider expulsion to be appropriate for the eight serious
+offences before us.
+
+86. We find that there are insufficient mitigating factors in this case that would make a
+lesser sanction appropriate for the Student. While we acknowledge that the Student
+has been diagnosed with mental health conditions and learning disabilities, and that
+34
+
+in some circumstances this could be a mitigating factor on sanction, we conclude it
+is not so in this case for the reasons set out above. The evidence before us has
+failed to establish that these disabilities had any temporal or causal link to or were a
+justification, explanation or excuse for the commission by the Student of the
+offences.
+
+87. Given the serious impact on a student of the sanction of expulsion, we have
+considered whether a suspension of 5 years in lieu of expulsion would be an
+appropriate sanction, but have concluded that it would not. A suspension would not
+sufficiently address the seriousness of the offences, the need for deterrence and the
+harm occasioned to the University. It would continue the relationship between the
+Student and the University where the Student has repeatedly breached the trust
+inherent in that relationship, has persisted in his misconduct despite prior warnings,
+and has ignored the rules and processes of the University where he disagrees with
+them. We also consider to be important to the question of sanction that the Student
+has failed to demonstrate genuine insight or remorse, and continues to deflect
+responsibility and blame the University and others for his misconduct.
+
+D. Order
+
+88. We therefore Order:
+
+(a) That the Student is guilty of two counts of the academic offence of providing
+falsified evidence, contrary to Section B.1.1 (a) of the Code
+
+(b) That the Student is guilty of six counts of the academic offence of plagiarism,
+contrary to section B.I.1 (d) of the Code
+
+(c) That the following sanctions shall be imposed on the Student:
+
+35
+
+(i)
+
+final grade of zero in each of the courses CHM 139, NEW 241, NFS 284
+and UNI 209
+
+(ii)
+
+an order that the Student be immediately suspended from the University
+for up to 5 years from the date of this Decision,
+
+(iii)
+
+an order that the Tribunal recommend to the President of the University
+that he recommend to the Governing Council that the Student be expelled
+from the University, and
+
+(iv)
+
+an order that the case be reported to the Provost for publication with the
+Student's name withheld.
+
+Dated at Toronto, this
+
+/ / n,
+
+day of
+
+Q t(r'. ( , 2017
+I
+
+Sarah Kraii)e(, Co-Chair
+
+36
+
+APPENDIX A
+UNIVERSITY O~ ~
+RE: ~ · -
+
+CHARG ES
+
+Note: Wherever in the Code of Behaviour on Academic Matters, 1995 ("Code") an offence is
+described as depending on "knowing", the offence shall likewise be deemed to have been
+committed if the person ought reasonably to have known .
+
+A.
+
+CHM 139 - Charges and parlicu/ars
+
+1.
+
+On or about September 17, 2012, you knowingly falsified evidence required by the
+
+University of Toronto, namely, a Personal Statement, which you submitted to the Committee
+on Standing of the Faculty of Arts and Science ("Committee") in support of a request for
+academic accommodation, in course CHM 139, contrary to Section B.1.1 (a) of the Code.
+2.
+
+On or about December 2, 2012 , you knowingly falsified evidence required by the
+
+University of Toronto, namely, a Personal Statement, which you submitted in support of an
+appeal from the decision denying your request for academic accommodation in course CHM
+139, contrary to Section B.1.1 (a) of the Code .
+3.
+
+In addition to or in the alternative to each of the charges above, you knowingly engaged
+
+in a form of cheating , academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in order to obtain academic credit or other academic advantage of any
+kind by submitting false information to the University of Toronto in support of various forms of
+academic accommodation or relief, contrary to Section B.l.3(b) of the Code.
+The particulars for these charges are as follows :
+(a)
+
+At all material times you were a student at the University of Toronto.
+
+2
+
+(b)
+
+In September 2012, you submitted a petition seeking late withdrawal from CHM
+139. In support of this petition you submitted a Personal Statement of the
+Committee on Standing. You knew that the Personal Statement that you
+submitted contained false statements.
+
+(c)
+
+This petition was denied and, on December 2, 2012, you appealed this decision.
+You provided a personal statement in support of your appeal. You knew that this
+statement contained false statements, including that one of your relatives had
+died before you wrote your exam on August 15, 2012.
+
+(d)
+
+You knowingly submitted all of the statements described above understanding
+that the University of Toronto required such statements to be presented in order
+to obtain the academic accommodation you sought.
+
+(e)
+
+You knowingly submitted all of the statements described above with the intention
+that the University of Toronto rely on them in considering whether or not to
+provide you with the academic accommodations you requested.
+
+(f)
+
+You knowingly submitted these falsified documents and other false information in
+an attempt to obtain an academic advantage.
+
+B.
+
+NEW 241 - Charges and particulars
+
+4.
+
+On or about December 4, 2012, you knowingly represented as your own an idea or
+
+expression of an idea, and/or the work of another in an essay, which you submitted for
+academic credit in NEW 241, contrary to section B.1.1 (d) of the Code.
+
+3
+
+5.
+
+On or about April 2, 2013, you knowingly represented as your own an idea or
+
+expression of an idea, and/or the work of another in an Event Reflection, which you submitted
+for academic credit in NEW 241, contrary to section B.1.1 (d) of the Code.
+6.
+
+In the alternative, on or about December 4, 2012 and April 2, 2013, you knowingly
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the essay and the Event Reflection, which you
+submitted for academic credit in the Course, contrary to section B.l.3(b) of the Code.
+Particulars of these charges are as follows:
+(a)
+
+In Fall 2012, you registered in Introduction to Disability Studies (NEW 241 ),
+which was taught by Eliza Chandler and Anne McGuire.
+
+(b)
+
+On December 4, 2012, you submitted an essay titled "Claiming Disability as an
+Identity is Important to Disrupt Notions of Normalcy and Abnormalcy." Portions of
+this essay were taken verbatim or nearly verbatim from other sources. You did
+not properly attribute or reference these passages. You did not include the
+source of one of these passages in the bibliography for this essay.
+
+(c)
+
+You were also required to attend a disability community cultural event and to
+submit a short reflection on the event that drew on and engaged with one or
+more of the themes discussed in the class. On or about April 2, 2013 , you
+submitted your event reflection, which was titled "Open Talk about Students" A
+significant part of your event reflection was taken verbatim or nearly verbatim
+
+4
+
+from an editorial written by Eliza Chandler. You did not properly reference these
+passages. You did not include Ms. Chandler's article in the bibliography for your
+event recollection.
+(d)
+
+With respect to both submissions described above, you knowingly represented
+the work of another as your own work. You knowingly included in each
+submission ideas and expressions that were not your own, but were the ideas
+and expressions of others, which you did not acknowledge.
+
+(e)
+
+For the purposes of obtaining academic credit and/or other academic advantage,
+you knowingly committed plagiarism in the assignment.
+
+C.
+
+NFS 28~ Charges and particulars
+
+7.
+
+On or about February 20, 2013, you knowingly represented as your own an idea or
+
+expression of an idea, and/or the work of another in Assignment 1, which you submitted for
+academic credit in NFS 284 Basic Human Nutrition, contrary to section B.1.1 (d) of the Code.
+8.
+
+On or about March 13, 2013, you knowingly represented as your own an idea or
+
+expression of an idea, and/or the work of another in Assignment 2, which you submitted for
+academic credit in NFS 284, contrary to section B.1.1 (d) of the Code.
+9.
+
+On or about March 13, 2013, you knowingly obtained unauthorized assistance in
+
+connection with Assignment 2, which you submitted for academic credit in NFS 284, contrary
+to section B.1.1 (b) of the Code .
+10.
+
+In the alternative to each of charges 7 to 9, you knowingly eng aged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+
+5
+
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind in connection with the assignments you submitted for academic credit in NFS 284,
+contrary to section B.l.3(b) of the Code.
+Particulars of these charges are as follows
+(a)
+
+Students in NFS 284 were required to submit several assignments, including
+Assignment 1, of which was worth 19% of the final grade in the course, and
+Assignment 2, which was worth 18% of the final grade.
+
+(b)
+
+On or about February 20, 2013, you submitted Assignment 1. Portions of this
+essay were taken verbatim or nearly verbatim from other sources. You did not
+properly attribute or reference these passages. You did not include the source of
+some or all of these passages in the bibliography for Assignment 1.
+
+(c)
+
+On or about March 13, 2013, you submitted Assignment 2. You knowingly
+received unauthorized assistance from Muhamed Aamir Iqbal, or other persons
+unknown, when the assignment was written.
+
+(d)
+
+You purchased the document you submitted as Assignment 2 from Mr. Iqbal, or
+persons unknown, and submitted it without doing any meaningful academic work
+on it.
+
+(e)
+
+With respect to both submissions described above, you knowingly represented
+the work of another as your own work. You knowingly included ideas and
+expressions that were not your own, but were the ideas and expressions of
+others, which you did not acknowledge. For the purposes of obtaining academic
+
+6
+
+credit and/or other academic advantage, you knowing ly committed plagiarism in
+each assignment.
+
+D.
+
+UNI 209 - Charges and particulars
+
+11.
+
+On or about November 5, 2012, you knowingly represented as your own an idea or
+
+expression of an idea, and/or the work of another in "Assignment 2," which you submitted for
+academic credit in UNI 209 Introduction to Health: Determinants of Health & Health Care,
+contrary to section B.1.1 (d) of the Code.
+
+12.
+
+On or about December 10, 2012, you knowingly represented as your own an idea or
+
+expression of an idea, and/or the work of another in "Assignment 3," which you submitted for
+academic credit in UNI 209, contrary to section B.1.1 (d) of the Code.
+
+13.
+
+In the alternative to each of charges 11 and 12, you knowingly engaged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind in connection an essay you submitted for academic credit in UNI 209, contrary to section
+B.l.3(b) of the Code.
+
+Particulars of these charges are as follows :
+
+(a)
+
+Students in UNI 209 were required to submit several assignments including
+Assignment 2, which was worth 35% of the final grade in the course, and
+Assignment 3, which was worth 50% of the final grade.
+
+7
+
+(b)
+
+On or about November 5, 2012, you submitted Assignment 2. Portions of your
+submission were taken verbatim or nearly verbatim from other sources. You did
+not properly attribute or reference these passages.
+
+(c)
+
+On or about December 10, 2012, you submitted Assignment 3. Portions of your
+submission were taken verbatim or nearly verbatim from other sources. You did
+not properly attribute or reference these passages at least one of, which you did
+not include in the bibliography for this essay.
+
+(d)
+
+With respect to both assignments, you knowingly represented the work of
+another as your own work. You knowingly included ideas and expressions that
+were not your own, but were the ideas and expressions of others, which you did
+not acknowledge. For the purposes of obtaining academic credit and/or other
+academic advantage, you knowingly committed plagiarism in each assignment.
+
+

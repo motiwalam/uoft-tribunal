@@ -1,0 +1,508 @@
+Case No.: 1406
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on August 30,2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- and J
+
+Z
+
+REASONS FOR DECISION
+
+Hearing Date: April 4, 2023, via Zoom
+
+Members of the Panel:
+Sana Halwani, Chair
+Professor Joseph Clark, Faculty Panel Member
+Jennifer Chen, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ryan Shah, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Nusaiba Khan, Quasi-Judicial Administrative Assistant, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+J
+Z
+
+I.
+
+Charges and Procedural History
+1. The Trial Division of the Tribunal held a hearing on April 4, 2023, to address the following
+charges brought by the University of Toronto (the “University”) against J
+
+Z
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”):
+a. On or about March 22, 2021, you knowingly used or possessed an unauthorized
+aid or aids or obtained unauthorized assistance in Quiz 3 in FSL105H5: Functional
+French — Novice (the “French Course”), contrary to section B.I.1(b) of the Code.
+b. On or about April 8, 2021, you knowingly submitted academic work containing a
+purported statement of fact or reference to a source which has been concocted in
+a term paper titled “Social Media Use and Social Isolation, Mental Problems, and
+Self-esteem Among Young adults” (“Term Paper”) which you submitted in
+CCT110: Rhetoric and Media (“CCT Course”), contrary to section B.I.1.(f) of the
+Code.
+c. In addition, and in the alternative to charges 1 and 2, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind, contrary to section B.I.3(b) of the Code, in
+connection with:
+i. Quiz 3 in the French Course; and
+ii. The Term Paper in the CCT Course.
+
+II.
+
+Notice
+2. The Student was not in attendance at the hearing and, as a result, Assistant Discipline
+Counsel addressed the issue of notice.
+3. On review of the evidence, and on considering the Statutory Powers and Procedures Act,
+R.S.O. 1990, c. S.22, rules 9(b), 13, 14 and 17 of the University Tribunal’s Rules of
+Practice and Procedure, and the University’s Policy on Official Correspondence with
+Students, the Panel was satisfied that notice had been adequately provided to the Student
+and decided to proceed with the hearing despite her absence.
+
+2
+
+4. The evidence of notice included three affidavits as follows:
+a. Affidavit of Lisa Devereaux, Director, Academic Success & Integrity at the
+University of Toronto Mississauga (“UTM”), describing the attempts made to
+schedule a Dean’s designate meeting (between July 2021 and August 2021), and
+attaching the Student’s academic record, contact information, and Student Web
+Services Activity Log;
+b. Affidavit of Andrew Wagg, Manager, Incident Response at Information Security,
+Information Technology Services at the University, providing evidence of the last
+time someone accessed the email account
+
+@mail.utoronto.ca (the
+
+email address identified as the email address of the Student in their Repository of
+Student Information (“ROSI”) record). The last time someone logged into this email
+address was on March 2, 2022, after the emails sent by Ms. Devereaux; and
+c. Affidavit of Natalia Botelho, a legal assistant at Paliare Roland Rosenberg
+Rothstein LLP, providing evidence of all the efforts to contact the Student about
+the charges and the hearing, prior to the hearing date including by email to the
+Student’s utoronto account, by phone to the Student’s telephone number listed in
+ROSI, and by courier to the Student’s address listed in ROSI.
+5. As set out in rule 13 of the Rules of Practice and Procedure: “Charges, notices of hearing,
+disclosure material for use on motions or hearings, orders, and reasons for decision may
+be served on a student or sent to a student: […] by e-mailing a copy of the document to
+the student’s e-mail address contained in ROSI, or to the students’ representative, if such
+representative has confirmed its authority to accept service, and service shall be effective
+on the day the document is sent by e-mail.” Repeated attempts were made to contact the
+Student at her e-mail address contained in ROSI, including sending the Notice of
+Electronic Hearing.
+6. As set out in rule 21: “Where notice of a virtual hearing, an in-person hearing, a hybrid
+hearing, or a written hearing has been given to a party in accordance with this Part, and
+the party does not attend at or does not participate in the hearing, the panel may proceed
+in the absence of the party or without the party’s participation and the party is not entitled
+to any further notice in the proceeding.” This language was repeated in the Notice of
+Electronic Hearing emailed to the Student.
+
+3
+
+7. Although the evidence provided did not go so far as to confirm that the Student had
+received Notice of Hearing (because she never responded or acknowledged receipt), it is
+clear from the evidence that the Student was given reasonable notice under the Rules of
+Practice and Procedure. The University served the Student by email to her official ROSI
+email, and by courier, as well as seeking to reach the Student by phone. The University
+took many steps beyond what is strictly required by the University’s Policy on Official
+Correspondence with Students.
+8. The evidence indicates that the Student had not provided her actual mailing or permanent
+address, or her telephone number to the University (in ROSI). Both addresses were listed
+as
+
+, which is a commercial not a
+
+residential address. When businesses at that address were called, the one that was
+reachable did not have any records or information relating to the Student. In addition, the
+telephone number provided by the Student in ROSI was not in service.
+9. Further, there was evidence provided to the Panel that the Student was aware of the
+allegations that led to the charges as she had had met with instructors in the relevant
+courses to discuss their concerns in April 2021. This case is similar to that in The
+University of Toronto v. Y. L. (Case No. 1239, March 17, 2022) (“Y.L.”). Given the
+Student’s interactions with the instructors concerning the allegations of academic
+misconduct, the Tribunal was satisfied that it was more likely than not that the Student had
+made a deliberate choice to avoid any official communications from the University. As the
+Panel in Y.L. stated: “That choice has consequences.”
+10. On this basis, the Panel was of the view that reasonable notice had been provided under
+the Rules and was content to proceed with the hearing in the Student’s absence.
+
+III.
+
+Summary of Evidence
+11. The evidence of the University on the charges was presented by way of affidavit from:
+a. Catherine Phillips, a Sessional Lecturer in the Department of Language Studies at
+the University, who was the instructor for the French Course;
+b. Rosa Hong, Associate Professor, Teaching Stream, in the Department of
+
+Language Studies at UTM, who is also the Chair’s Designate for Academic
+Integrity, on behalf of the Chair of the Department. As Chair’s Designate, she
+4
+
+is responsible for meeting with students who are alleged to have committed
+academic offences in courses within the Department of Language Studies on
+behalf of the Chair of the Department; and
+c. Elizabeth Peden, Sessional Lecturer of the Institute of Communication, Culture,
+Information and Technology at UTM, who was one of the instructors for the CCT
+Course.
+12. The Student was a student in the French Course and the CCT Course in the Winter of
+2021.
+13. As the Student did not attend and was not represented at the hearing, the affiants were
+not cross-examined but were made available to the Panel for any questions. The Panel
+did have some questions for Professor Phillips, who was able to clarify her evidence
+relating to Quiz 3 in the French Course.
+A.
+
+The French Course Quiz
+
+14. The evidence regarding the French Course was provided by Professor Phillips.
+15. The French Course is a beginner French course. Students are expected to have little to
+no knowledge of the French language when they enroll in the course. Quiz 3 was
+conducted using the University of Toronto’s Quercus website. On Quiz 3, students were
+required to answer basic questions about French grammar and write basic compositions
+in French.
+16. The syllabus for the French Course contained a section titled “Academic Honesty and
+Plagiarism.” This section alerted students to the existence of the Code and advised
+students that it is an offence to submit “work that was done in conjunction with or by
+another student and passing it off as your own.”
+17. Another section of the syllabus, titled “Plagiarism will not be tolerated”, advised students
+that they were expected to adhere to the Code regardless of the course delivery method.
+This section advised students of potential academic offences in the online learning
+context, including:
+a. “Access unauthorized resources (search engines, chat rooms, Reddit, etc.) for
+assessments”;
+5
+
+b. “Using technological aids (e.g. software) beyond what is listed as permitted in an
+assessment”;
+c. “Post test, essay, or exam questions to message boards or social media”;
+d. “Creating, accessing, and sharing assessment questions and answers in virtual
+“course groups”; and
+e. “Working collaboratively, in person or online, with others on assessments that are
+expected to be completed individually”.
+18. As the French Course was an online course, students were also provided with a document
+called “Academic Integrity in an Online Learning Class.” This document listed several aids
+that were prohibited during tests, including “collaboration with anyone else in real-time or
+over a device.”
+19. Quiz 3, itself, included an academic integrity declaration, which asked students to confirm
+that they would not collaborate with others or use any translation tools during the quiz. In
+response to this academic integrity declaration, the Student answered “True.”
+20. While grading Quiz 3, Professor Phillips noticed several irregularities, summarized below.
+21. Part B Question 1 (verb conjugations): The Student’s answers to Questions 1.3.-1.7
+were near identical to the answers submitted by two other students in the course: Y.Z. and
+S.Z. (the “Alleged Collaborators”). The similarities between the Student’s answers and the
+Alleged Collaborators’ answers were suspicious because these answers were all incorrect
+in an identical or near identical manner, and many of the errors were very unusual. For
+example, all three students incorrectly used an advanced verb tense that had not been
+taught in the course. The three students also failed to complete questions 1.5-1.8, which
+asked students to complete sentences and not simply conjugate the verbs.
+22. Part B Question 4 (composition): The Student had to write a 50-word composition from
+the perspective of a travel agent and her composition also raised suspicions for a number
+of reasons. First, the level of the language in the composition was advanced. Yet, the
+French Course is a beginner French course. Further, the Student’s performance on other
+assessments in the French Course suggests that she has an extremely limited
+understanding of the French language. Excluding Quiz 3, the Student had obtained a
+grade of 31% on her other assessments. Second, although the Student’s composition was
+6
+
+written in advanced language and did not contain any mistakes, the composition did not
+fully address the requirements of Part B, Question 4.
+
+Third, the Student only used
+
+masculine adjectives in her composition to describe the speaker. This feature implies that
+the speaker in the Student’s composition identifies as a man, despite the Student
+identifying as a woman.
+23. When Professor Phillips met with the Alleged Collaborators to discuss her concerns, they
+denied the allegations and stated that they had completed Quiz 3 independently.
+Professor Phillips maintained her concerns and referred the matter up to the Department
+level.
+B.
+
+Investigation Involving Other Students
+
+24. Professor Hong provided evidence that she met with both S.Z. and Y.Z. (the Alleged
+Collaborators) as the Chair’s Designate for Academic Integrity. She met on April 23, 2021,
+with both S.Z. and Y.Z to discuss allegations that they obtained unauthorized assistance
+in connection with Quiz 3 of the French Course in Winter 2021.
+25. During the meeting, S.Z. made the following admissions:
+a. He created a group chat with two other students in the French Course for the
+purpose of obtaining assistance on Quiz 3 in the French Course;
+b. He collaborated with two other students in this group chat to answer questions on
+Quiz 3 in the French Course; and
+c. He committed an academic offence on Quiz 3 in the French Course.
+26. In her meeting, Y.Z. admitted the following:
+a. Immediately before the meeting, S.Z. advised her that he admitted to committing
+an academic offence on his Quiz 3 in the French Course in his meeting with
+Professor Hong;
+b. She was a member of a group chat containing two other students in the French
+Course that was created for the purpose of obtaining unauthorized assistance on
+Quiz 3 in the French Course;
+
+7
+
+c. She collaborated with two other students in this group chat to answer questions on
+Quiz 3 in the French Course; and
+d. She committed an academic offence on Quiz 3 in the French Course.
+27. Neither student specifically implicated the Student in this group chat, but the common
+mistakes indicates that the Student was the third student in the chat.
+C.
+
+The CCT Course Term Paper
+
+28. The evidence regarding the CCT Course was provided by Professor Peden, who was an
+instructor in the course.
+29. Students in the CCT Course were required to submit a 10-page academic paper, which
+was worth 25% of their final grade. This was the Term Paper at issue.
+30. The syllabus for the CCT Course contained a section titled “Academic Integrity”. This
+section alerted students to the existence of the Code of Behaviour on Academic Matters
+and advised students that it is an academic offence to make up sources or facts in one’s
+academic work.
+31. In the Term Paper, the Student argued that social media use is responsible for social
+isolation, mental health problems and self-esteem issues among young adults. To make
+this point, the Student cited a variety of research papers that identify the existence of such
+a relationship between social media use and wellness in young adults.
+32. Professor Peden’s teaching assistant reviewed the term papers submitted in CCT110 and
+advised her that they were concerned about the Student’s use of sources in the Term
+Paper.
+33. Professor Peden then reviewed the Term Paper and the sources cited in it. She found that
+the description of two sources in the Student’s term paper did not accurately reflect the
+contents actually contained in these sources: the Dang Source and the Yavich Source.
+34. Professor Peden found the Student’s reference to these two sources in the Paper to be
+misleading:
+a. The Student cited the Dang Source as establishing the relationship between social
+media use and anxiety and depression. However, the Dang Source does not
+8
+
+discuss social media at all. Instead, the Dang Source is concerned with the
+physiological effects of social isolation on mice.
+b. The Student cited the Yavich Source as discussing the phenomenon of “social
+comparison” and the effects of social media use on “social comparison.” However,
+the term “social comparison” is not used in the Yavich Source. The Yavich Source
+describes a research study that examines the relationship between reported
+Facebook usage patterns and loneliness by students at Ariel University in Israel.
+(The Student did appropriately cite the Yavich Source in two other passages of the
+Term Paper related to social media use by young adults).
+35. In April 2021, Professor Peden met with the Student to discuss her concerns with the Term
+Paper.
+
+IV.
+
+Finding on Charges
+36. The first charge facing the Student is a charge that the Student cheated on Quiz 3 in the
+French Course. As is described below, the Panel found the Student guilty of this first
+charge.
+37. The second charge facing the Student is a charge that the Student fabricated sources for
+the Term Paper in the CCT Course. As is described below, the Panel found the Student
+guilty of this second charge.
+38. The burden is on the University to prove charges on a balance of probabilities.
+39. The Course syllabi in both the CCT Course and the French Course were clear that
+fabrication of sources and collaboration during tests were potential academic offences.
+40. There is therefore no question that the Student knew or ought to have known that such
+actions would be academic offences. The primary question for the Panel therefore was
+whether the Student did in fact cheat in Quiz 3 and/or concoct sources in the Term Paper.
+41. Following deliberation and based on the affidavit evidence and the documents in the
+University’s Book of Documents (re: Finding of Offence), the Panel concluded there was
+clear and convincing evidence, on a balance of probabilities, that the Student did commit
+the offences with which she was charged.
+
+9
+
+A.
+
+Charge 1: Unauthorized Assistance
+
+42. The primary evidence with respect to the charge of unauthorized assistance is the
+evidence of Professor Phillips about the suspicious similarities between the answers of
+the Student and the Alleged Collaborators in Part B Question 1, including the same errors
+in the same places, the unusual use of an advanced verb tense, and the common failure
+to complete certain questions. The Panel agrees with Professor Phillips that it is highly
+unlikely that the Student and her Alleged Collaborators answered these questions
+independently.
+43. In addition, the Panel is persuaded by the admission of the Alleged Collaborators that a
+group chat was set up to enable unauthorized collaboration. Although the evidence
+provided by Professor Hong is hearsay, the Statutory Powers and Procedures Act deems
+hearsay to be admissible (s. 15). While admissible, the Panel must still be convinced of
+the reliability of the statements made by the Alleged Collaborators to Professor Hong.
+Since the Alleged Collaborators made admissions which resulted in them having worse
+academic outcomes, the Panel is persuaded that the evidence is reliable, and that the
+group chat described by S.Z. and Y.Z. did indeed exist and included a third student.
+44. Although the Student was not specifically identified by the Alleged Collaborators, it is
+highly unlikely that there would have been a different third student involved.
+45. With respect to Part B Question 4, the advanced level of the composition and other issues
+noted by Professor Phillips lead the Panel to conclude that the more likely explanation is
+that the Student did not write the composition in that part of Quiz 3.
+46. In cases like these, it is not necessary to prove the exact mechanism by which the cheating
+occurred. The burden is on the University to prove that it was more likely than not that the
+Student received unauthorized assistance. The Panel is of the view that there is sufficient
+evidence to conclude that the Student obtained unauthorized assistance during Quiz 3.
+B.
+
+Charge 2: Concocted Sources
+
+47. With respect to the second charge of concocted sources, the University must prove on a
+balance of probabilities that the Student knew or ought to have known that the source or
+sources were being misrepresented. Students who misrepresent sources are seeking to
+give their work a “patina of academic rigour” (see The University of Toronto v. M.A. (Case
+
+10
+
+No. 971, November 28, 2018)). The offence captures conduct that is intended to generate
+a layer of credibility or academic rigor that is not actually present in the work submitted.
+48. The Panel was of the view that the evidence provided on the Dang Source was very
+persuasive. The Dang Source describes a research study that examines the relationship
+between social isolation in mice and the presence of a protein called HINT1 in their bodies.
+In the Term Paper, the Student cited the Dang Source for the proposition that “there is
+clear evidence that addiction to social media and overuse of social media for extended
+periods of time can lead to anxiety and depression.” Further, the Student stated that in
+the study reported in the Dang Source “they discovered that social media exert influence
+on individual’s social anxiety indirectly, mediated by social comparison and self-esteem.”
+The Dang Source is clearly concocted.
+49. The Panel was less persuaded by the evidence relating to the Yavich Source. The Student
+appropriately cited the Yavich Source in two passages in the Term Paper, but then
+appeared to misrepresent it in a third passage. The Student was not present to explain
+their actions, but counsel for the University appropriately conceded that it was possible
+that the Student had made a mistake.
+50. In any case, to be made out, the charge of concoction does not require more than one
+source to be concocted. Without deciding whether the Yavich Source was concocted, the
+Panel concluded that the Student had knowingly submitted academic work containing a
+purported statement of fact or reference to a source which has been concocted.
+51. The first two charges were therefore proven, and the Student was found guilty.
+52. On finding the Student guilty of the first two charges, the third alternative charge was
+withdrawn.
+
+V.
+
+Finding on Penalty
+53. Once the Panel had made a determination on the charges, additional evidence was
+provided to the Panel with respect to sanction. The University introduced a second affidavit
+of Lisa Devereaux, which provided evidence that the Student has committed one prior
+academic offence in ENV100Y5Y (The Environment) (“ENV100’’) in Fall 2020.
+
+11
+
+54. The University requested the following penalty for the offences relating to Quiz 3 and the
+Term Paper:
+a. a final grade of zero in FSL105 in Winter 2021;
+b. a final grade of zero in CCT110 in Winter 2021;
+c. a suspension from the University of Toronto from the date of this order for a period
+of 3 years; and
+d. a notation of the sanction on their academic record and transcript from the date of
+this order for a period of 4 years.
+55. The University also requested that this case be reported to the Provost for publication of
+a notice of the decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+56. To support this proposed penalty, Assistant Discipline Counsel made submissions on the
+following:
+a. The Provost’s Guidance on Sanctions
+b. The typical penalty for similar cases; and
+c. Relevant factors in determining the appropriate sanction.
+A.
+
+Provost’s Guidance and Prior Offence
+
+57. The Provost’s Guidance states that the Provost will request that the Tribunal suspend a
+student for two years for any offence involving academic dishonesty, where a student has
+not committed a prior offence.
+58. Other Panels have commented on the appropriateness of that sanction, and on the impact
+of a prior offence on that sanction (see The University of Toronto v. M. H. H. (Case No.
+521, January 12, 2009)) (“M.H.H.”):
+We agree that a two year suspension appears to be the threshold for a first
+time offence but in this particular instance, we have concluded that a three
+year suspension is warranted having regard to the Student having been
+found guilty of a second count of plagiarism.
+
+12
+
+59. As in M. H. H., the Student here had a prior offence. On January 28, 2021, the Student
+admitted that she had committed plagiarism on a term test worth 25% of her final grade in
+ENV100. For this offence, the Student received a sanction of a grade of zero on her term
+test and a 12-month notation on her academic transcript (from January 28, 2021, to
+January 27, 2022).
+B.
+
+Similar Cases
+
+60. The three-year suspension is also in line with similar cases presented by Assistant
+Discipline Counsel. While the Panel is not bound by any of these decisions, they are
+helpful in assisting the Tribunal in treating like cases alike.
+61. The cases provided to us involved unauthorized aids, plagiarism, and concocted sources.
+The cases varied with respect to whether the students involved had prior offences,
+whether they participated in the proceeding, and whether there was an Agreed Statement
+of Facts and/or a Joint Submission on Penalty. To summarize them briefly:
+a. Penalties ranged from two to three years for students with and without priors.
+b. Where there were priors, the penalty tended to be on the higher three-year end of
+the range.
+62. The three-year penalty proposed by the University was therefore in line with past similar
+cases.
+C.
+
+Relevant Factors under Mr. C.
+
+63. Finally, Assistant Discipline Counsel made submissions on the factors to be considered in
+penalty as set out in The University of Toronto v. Mr. C. (Case No.: 1976/77-3, November
+15, 1976).
+64. The Student in this case had not participated at any stage of the process. The Student
+had therefore not shown any remorse, not presented any character evidence, and not
+raised any mitigating or extenuating factors to warrant a more lenient sanction. This failure
+to participate was therefore a neutral factor.
+
+13
+
+65. With respect to the likelihood of repetition of the offence, the Student has a prior academic
+offence, and there is therefore a need for specific deterrence. This prior offence is an
+aggravating factor that justifies a greater sanction.
+66. With respect to the nature of the offence, the need to deter others, and the detriment to
+the University, we echo the words of the Panel in the University of Toronto v. H.W. (Case
+No. 1179, March 7, 2022):
+The Mr. C case and those which follow it each note the importance of the
+University as an educational institution and a degree-granting body, and
+emphasize that members of the public must be able to rely on the academic
+integrity of the University’s evaluation processes. Using unauthorized aids
+is cheating and allowing cheating to go unsanctioned is unfair to the other
+students who abide by and follow the rules and regulations. If not
+sanctioned, cheating undermines the value of all of the University’s
+degrees.
+67. Taking all these submissions into consideration, the Panel imposed the requested penalty.
+
+VI.
+
+Decision of the Panel
+
+68. At the conclusion of the hearing on penalty, the Panel conferred and made the following
+order:
+a. The hearing may proceed in the absence of the Student;
+b. The Student is guilty of one count of obtaining unauthorized assistance, contrary
+to B.I.1(b) of the Code of Behaviour on Academic Matters, and one count of
+concocting references, contrary to B.I.1(f) of the Code of Behaviour on Academic
+Matters;
+c. The following sanctions shall be imposed on the Student:
+
+i. a final grade of zero in FSL105 in Winter 2021;
+ii. a final grade of zero in CCT110 in Winter 2021;
+iii. a suspension from the University for a period of 3 years from the date
+of the order; and
+14
+
+iv. a notation of the sanction on the student’s academic record and
+transcript for a period of 4 years from the date of the order;
+d. This case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the student withheld.
+
+DATED at Toronto, May 24, 2023
+
+Original signed by:
+Sana Halwani, Chair
+On behalf of the Panel
+
+15
+
+

@@ -1,0 +1,386 @@
+Case No. 1107
+THE DISCIPLINE APPEALS BOARD
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER of charges of academic dishonesty made on October 22, 2020
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995 (the "Code")
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+D
+
+B
+Appellant
+- and -
+
+UNIVERSITY OF TORONTO
+Respondent
+REASONS FOR DECISION
+Appeal Hearing Date: July 21, 2021, via Zoom
+Members of the Discipline Appeals Board Panel:
+Ms. Roslyn M. Tsao, Chair
+Professor Allan Kaplan, Faculty Panel Member
+Ms. Samantha Chang, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel for University, Paliare Roland Rosenberg
+Rothstein LLP
+The Student
+
+Hearing Secretary:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances, University of
+Toronto
+
+-2-
+
+Delivered by Ms. Roslyn M. Tsao
+
+PROCEDURAL BACKGROUND
+1.
+
+The Discipline Appeals Board of the Tribunal heard the Student's appeal in this matter on
+July 21, 2021.
+
+2.
+
+On October 22, 2020, the Student was charged with the following academic offence (in
+addition to an alternative charge under Section B.I.3(b) of the Code):
+(a) On or about March 18, 2019, the Student knowingly represented as his own, an
+idea or expression of an idea and/or work of another in an essay titled "Waste
+Management: Comparing Mexico City, Mexico to Beijing City, China" ("Essay")
+that was submitted for academic credit in POL346Y6Y 2018(9) (the "Course"),
+contrary to section B.I.1(d) of the Code.
+
+3.
+
+On January 11, 2021, the Student, who did not appear at the hearing, was convicted of the
+above offence (and the alternative charge was withdrawn) and the Panel imposed the
+following penalty:
+(a)
+
+a final grade of zero in the Course;
+
+(b)
+
+a suspension from the University for two years (from January 11, 2021);
+
+(c)
+
+a notation of the sanction on the Student's academic record for three years
+(from January 11, 2021); and
+
+(d)
+
+a report of the decision and sanctions to be provided to the Provost for
+publication, with the name of the Student withheld.
+
+4.
+
+The Panel's Order dated January 11, 2021 (the "Order"), with written reasons to follow,
+setting out the finding and penalty, was emailed to the Student on or after January 12, 2021.
+
+5.
+
+On January 27, 2021, the Student delivered his Notice of Appeal (the "NOA").
+
+-36.
+
+The Panel's Reasons for Decision dated March 19, 2021 ("Reasons") were released on or
+shortly after that date.
+
+7.
+
+The hearing date for the Student's Appeal was, thereafter, set for the hearing date of July
+21, 2021.
+
+THE STUDENT'S APPEAL
+8.
+
+The Student delivered an NOA dated January 27, 2021 (following receipt of the Order)
+within the requisite time. The Student delivered Written Submissions for Appeal dated
+April 23, 2021 ("Written Submissions") (following receipt of the Reasons).
+
+9.
+
+The Student's NOA and Written Submissions were brief1 yet consistent with regard to the
+following submissions on appeal:
+(a)
+
+That it was improper to proceed with the original hearing in the Student's
+absence;
+
+(b)
+
+That the University is required to establish that the Student received notice
+of the hearing "beyond a reasonable doubt";
+
+(c)
+
+That the sanction imposed on the Student, if the finding of guilt is upheld,
+is unreasonable; and
+
+(d)
+
+That the appropriate remedy on appeal is to set aside the Panel's Order and
+order a new hearing.
+
+10.
+
+For the reasons below, we dismiss the Student's appeal as to conviction and penalty and
+confirm that the Order for suspension commence on January 11, 2021 as the Student
+indicated that he withdrew from his courses in the Winter 2021 (January – April 2021)
+term and has not taken courses since that time.
+
+1
+
+The Student advised that he had spoken about his appeal with Downtown Legal Services.
+
+-4RELEVANT FACTS
+11.
+
+The Student was enrolled in the Course, a third-year course, in the 2018 – 2019 academic
+year. Professor Sara Hughes2 was an Assistant Professor at the time at the University and
+taught the Student in the Course.
+
+12.
+
+The Student, as were all students in the Course, referred to the syllabus and other resources
+relating to academic honesty and strategies to avoid plagiarism.
+
+13.
+
+The assignment in question was a research paper worth 25% of the final grade (the
+"Essay"). The Student submitted his Essay on March 21, 2019 through Turnitin.
+
+14.
+
+The Essay gave rise to Turnitin results which raised some concern. Professor Hughes
+conducted a review of the Essay and concluded that the Student had "included verbatim
+and nearly verbatim text in his [Essay] without appropriate attribution."3
+
+15.
+
+Professor Hughes met with the Student on April 1, 2019 about her concerns about the Essay
+and, following such meeting, "forwarded the case to the Chair of the Department of
+Political Science for further action."4
+
+16.
+
+The matter was referred to the Tribunal and Charges dated October 22, 2020 ("Charges")
+were issued by the University against the Student.
+
+17.
+
+The Charges were sent by email to the Student to his utoronto address ("ROSI email"), as
+set out in his University of Toronto Repository of Student Information ("ROSI").
+
+18.
+
+On November 19, 2020, the Office of Appeals, Discipline and Faculty Grievances
+("ADFG") emailed a Direction to Assistant Discipline Counsel and the Student advising
+that the Tribunal Chair proposed to hold the hearing electronically on January 11, 2021 at
+
+2
+
+Professor Hughes' Affidavit of December 23, 2020 ("Professor Hughes Affidavit") was evidence before the Panel.
+Paragraph 13 of Professor Hughes' Affidavit
+4
+Paragraph 14 of Professor Hughes' Affidavit
+3
+
+-51:45 p.m and giving the Student the opportunity to comment on or before November 26,
+2020. There was no response from the Student.
+19.
+
+Accordingly, on November 26, 2020, the Tribunal Chair confirmed that the hearing was
+proceeding on the afore-mentioned date and setting out a deadline of January 4, 2021 for
+delivery of the University's materials and this was emailed to Student.
+
+20.
+
+On December 7, 2020, the ADFG emailed the formal Notice of Electronic Hearing for
+January 11, 2021 at 1:45 pm to the Student.
+
+21.
+
+Service by email to the Student's ROSI email of the foregoing Directions and Notices were
+confirmed at the hearing by way of filed Affidavits of Service with attached emails
+showing the Student's ROSI email and his ROSI record setting out his ROSI email.
+
+22.
+
+In addition, the Affidavit of Andrew Wagg of December 4, 2020 was before the Tribunal.
+Andrew Wagg is an Incident Report Architect at Information Security, Information
+Technology Services at the University of Toronto. Mr. Wagg affirmed that the ROSI email
+account was accessed as recently as December 2, 2020.
+
+LEGAL ANALYSIS – GROUNDS OF APPEAL
+ISSUE:
+
+That it was improper to proceed with the original hearing in the Student's absence
+
+SUB-ISSUE: That the University is required to establish that the Student received notice of the
+hearing "beyond a reasonable doubt"
+23.
+
+The Student did not appear at the January 11th hearing and the Panel considered the
+following in determining that the Student had reasonable notice of the Charges and Hearing
+particulars:
+(a)
+
+Rule 9(c) of the Tribunal's Rules of Practice and Procedure permits service
+of any document by way of email addressed to the student's ROSI email;
+
+(b)
+
+The University's Policy on Official Correspondence with Students provides
+that students are responsible for maintaining a current email account on
+
+-6ROSI and that students are expected to monitor and retrieve their emails on
+a "frequent and consistent basis"5; and
+(c)
+
+The Affidavits of Service, coupled with Mr. Wagg's Affidavit, provided
+evidence of service by email to the Student's ROSI email.
+
+24.
+
+We do not find that the Panel made any error in concluding that the University had
+discharged its onus to demonstrate that the Student had reasonable notice of the Hearing
+and that the Panel could, therefore, proceed in the Student's absence.
+
+25.
+
+We would go further and note that the Student was enrolled in courses at the University in
+the Fall 2020 Term and into the Winter 2021 Term, when the various communications from
+the ADFG Office were being emailed to him.
+
+26.
+
+The Student does not indicate in his unsworn NOA or Written Submissions that he did not
+open the emails in question nor that he was not aware of the actual Hearing date. In his
+Written Submissions, the Student admits that he "should have checked my University of
+Toronto email more frequently…" and then claims, nevertheless, that the onus is on the
+University to prove beyond a reasonable doubt that "I accessed or read any of the emails
+that were sent to my UofT email account regarding the hearing".
+
+27.
+
+We reject the Student's argument on appeal that the University had an onus to demonstrate
+that the Student had actual notice of the emails sent to him. As the Panel correctly noted,
+the onus is on the University to demonstrate that the Student had reasonable notice on a
+civil standard of proof, being on a balance of probabilities.
+
+28.
+
+It is telling that the Student opened his January 11, 2021 email with the Tribunal's Order
+on guilt and penalty on or about January 11, 2021 and was able to file his Appeal well
+within the deadline on January 27, 2021.
+
+5
+
+University of Toronto Policy on Official Correspondence with Students, September 1, 2006
+
+-729.
+
+During the appeal hearing, the Student initially indicated that he did not see any of the
+University's appeal material (i.e., Appeal Book, Factum, Book of Authorities also sent by
+email to the Student) delivered in advance of the appeal hearing. Later during the hearing,
+it became evident that the Student must have reviewed the University's fresh evidence
+(being a more recent Affidavit of Mr. Wagg) which had also been emailed to him within
+the same period. In particular, the Student referred to seeing a list of dates in the material,
+which listing was only found in the more recent affidavit.
+
+30.
+
+These latter two observations cause us to question whether the Student is perhaps being
+less than forthright about his selective acknowledgment of emails from the University to
+date.
+
+31.
+
+In any event, the Student provided no evidence, by way of sworn Affidavit, or otherwise
+that refuted the evidence before us, on appeal, that related to the notice issue or otherwise.
+
+32.
+
+The University sought to introduce fresh evidence in the form of an Affidavit of Mr. Wagg
+detailing the logins into the Student's ROSI email account, though did not actively pursue
+this relief. We would not have allowed the fresh evidence largely because the Student
+introduced no new evidence which might have warranted such fresh evidence in response.
+In other words, we did not require fresh evidence to arrive at our conclusions about
+reasonable notice as the record below suffices.
+
+33.
+
+Once satisfied that reasonable notice has been given to the Student, the Panel had
+jurisdiction to proceed in the absence of the Student. We find no error with that finding.
+
+34.
+
+Although the Student refers to "unfairness" because he was not present at the hearing, this
+is not the test for procedural fairness. The fairness standard relates to having reasonable
+notice of the adjudication and, thereby, having the opportunity to attend and be heard.
+
+ISSUE:
+35.
+
+That the sanction imposed on the Student, if the finding of guilt is upheld, is
+unreasonable
+
+We have reviewed the Reasons regarding sanction and the authorities provided to the
+Panel. We find that the sanction ordered was appropriately consistent with penalties
+
+-8imposed in similar cases, even in the case of first offences. Consistency and predictability
+are valid goals in encouraging general deterrence.
+36.
+
+The Student was a third-year student at the time of the offence and can be presumed to
+have been well aware of the nature and components of plagiarism.
+
+37.
+
+Although we are not prohibited from permitting an appellant student from seeking to
+introduce fresh evidence with regard to sanction, we do not feel this to be a situation of
+"special circumstances" to grant such opportunity to adduce fresh evidence where the
+Student had reasonable notice of the hearing and failed to attend.6
+
+38.
+
+The Student advised that he had withdrawn from his courses in the Winter 2021 Term upon
+receiving the Order even though the filing of his appeal stayed the operation of the Order
+pending this decision.
+
+39.
+
+As the Student has been effectively acting as if suspended from the University since the
+January 11, 2021 Order, we feel it appropriate to affirm the Order, including the
+commencement date of the suspension from January 11, 2021. The University requested
+that the two-year suspension be reinstated from the date of our decision. We feel that this
+would unduly extend the Panel's penalty given that the Student withdrew from his courses
+upon notice of the Order.
+
+ISSUE:
+40.
+
+That the appropriate remedy on appeal is to set aside the Panel's Order and order a
+new hearing
+
+Given our findings above, we dismiss the Student's request for a new hearing.
+
+CONCLUSION
+41.
+
+For the foregoing reasons, the appeal is dismissed and the Order of January 11, 2021 is
+affirmed in its entirety.
+
+6
+
+University of Toronto v. M.M. (Case 543, April 14, 2011(Appeal)) at Paragraphs 61-64.
+
+-9Dated at Toronto, this 18th day of August, 2021.
+
+Roslyn M. Tsao
+On behalf of the Discipline Appeals Board Panel
+
+

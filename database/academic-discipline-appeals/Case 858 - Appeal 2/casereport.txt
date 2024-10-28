@@ -1,0 +1,1795 @@
+THE DISCIPLINE APPEALS BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on April 12, 2016
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Jvfatters, I 995
+
+AND IN THE MATTER OF the University o.fToronto Act, 1971, S.O. 1971, c. 56 as amended
+
+s.o. 1978, c. 88
+
+BETWEEN:
+
+Appellant
+-and-
+
+THE PROVOST OF THE UNIVERSITY OF TORONTO
+Respondent
+
+Members of the Discipline Appeal Panel:
+Ms. Patricia D.S. Jackson, Chair
+Dr. Ramona Alaggia, Faculty Panel. Member
+Ms. Alena Zelinka, Student Panel Member
+Professor Aarthi Ashok, Faculty Panel Member
+
+Appearances:
+Mr. Hatim Kheir, Downtown Legal Services, for the Appellant, also in attendance
+Mr. Robert A. Centa, for the Respondent
+
+Date of Hearing: February I, 2019
+Hearing Secretary:
+Tracey Gameiro, Office of Appeals, Discipline and Faculty Grievances
+
+REASONS FOR DECISION
+27094411.3
+
+-2-
+
+The Appeal
+1.
+
+The appellant (the "Student") appeals from the decision of the University Tribunal on
+
+January 15, 2018. In that decision, the Tribunal confirmed its reasons for finding the Student
+guilty of two academic offences, namely, that he knowingly:
+
+(a)
+
+submitted a research report that contained concocted references to two academic
+
+articles that did not exist, contrary to section B.i.l(f) of the Code of Behaviour on
+
+Academic Matters (the "Code"); and
+
+(b)
+
+submitted to the Provost an altered and falsified version of a disciplinary letter
+
+from his Vice-Dean, contrary to section B.i.l(a) of the Code.
+
+In the same decision the panel imposed a final grade of zero in the course at issue and
+suspended the Student for 5 years. It further recommended that the Student be expelled
+from the University.
+
+2.
+
+The Student submits that the Tribunal applied the wrong standard of proof, specifically
+
+that it found the Student guilty on a balance of probabilities. The Student submits that in so
+doing the Tribunal erred by applying a lower standard of proof than that required under the Code
+
+of Behaviour on Academic Matters, 1995 (the "Code"), namely that it be proved on a balance
+that is clear and convincing.
+
+3.
+
+On this basis, the Student asks that the appeal be allowed, and the matter remitted to a
+
+new panel of the Tribunal for a new hearing.
+
+4.
+
+For the reasons which follow, we dismiss the appeal.
+
+-3The Decision Below
+
+5.
+
+Procedural Background The charges against the Student date back to April 2016. At
+
+the time, the Student was suspended for an unrelated academic offence. The first hearing in this
+matter took place on July 12, 2016. The Student did not attend, and the Tribunal found him
+guilty of the charges, and imposed a penalty which included a recommendation to the President
+that he recommend to Governing Council that the Student be expelled.
+
+6.
+
+As set out more fully in the June 26, 2017 Reasons for Decision of the Discipline Appeal
+
+Board in this matter, the Student appealed the decision on the basis that he had not received
+notice of the hearing. As he was under suspension, he said he did not check his University of
+Toronto email during the period of his suspension. The Discipline Appeals Board concluded that
+he did not have appropriate notice of the proceedings and remitted the matter to a new hearing
+before the Tribunal.
+7.
+
+A second hearing before the Tribunal was held over two days. The Student was again
+
+convicted of the charges, and the Tribunal imposed a sanction that included a recommendation to
+the President that he recommend to Governing Council that the Student be expelled.
+8.
+
+The Student appealed this decision as well. On the originally scheduled date for the
+
+hearing of this appeal it was determined that it was appropriate to adjourn the proceedings in
+order to permit the Student to obtain legal assistance in the handling of the appeal and the
+proceedings were accordingly adjourned.
+9.
+
+At the time of the adjournment this Appeal Panel drew the parties' attention to the
+
+decision of the Co mi of Appeal for Ontario in Jacobs v. Ottawa Police Service, 2016 ONCA
+
+-4-
+
+345, and asked them to address on the resumption of the hearing whether that case affected the
+determination of the standard of proof under the Code.
+10.
+
+The hearing resumed on February 1, 2019, with the Student represented as noted above.
+
+11.
+
+The First Charge In the winter of2015, the Student enrolled in CCT208-Writing &
+
+Research Methods in Communication, an introductory course about quantitative and qualitative
+research methods taught by Professor Maharajh (the "Course"). The outline for the course
+contained a warning about academic integrity and provided a link to the Code.
+
+12.
+
+Students in the course were required to submit a research proposal, worth 25% of the
+
+final mark, containing a proposed original research project and a brief review of the literature
+and scholarship they had reviewed in preparation for the project. This required the use of 5 to 7
+relevant peer-reviewed academic sources.
+13.
+
+The Student submitted a research proposal describing in specific te1ms 2 studies that the
+
+Student purported to have reviewed in the context of his research. The sources were also listed
+in the bibliography for his research proposal.
+14.
+
+The Teaching Assistant who marked the research proposal provided detailed feedback on
+
+it. Although he noted that the Citation and Referencing was "Comprehensive, correct and
+consistent" he went on to make the following observations as they related to the sources
+proposed for the research proposal:
+
+•
+
+"As it is now, your bibliography is both incomplete and formatted incorrectly."
+
+•
+
+"Be sure to always include page reference - not publication date - where using direct
+citation."
+
+•
+
+With reference to the citation "CCIT, 2014" a question mark.
+
+-5-
+
+•
+
+With reference to a quotation that is attributed to a person without citation, a specification
+that a citation is required.
+
+•
+
+With reference to a description of the results of "each stuqy": "Support this with
+reference to the sources. This is too vague."
+
+•
+
+With reference to the entire bibliography: "This whole section is fom1atted incorrectly
+and/or missing information."
+
+•
+
+With respect to a citation to"~,..._ Young Male Drivers and Media" (2014).
+CCIT, University of Toronto - Mississauga, March, 2015: "What kind of sollrce is
+this?"
+
+•
+
+"I'm not sure if these sources are appropriate since you did not provide full citations
+(apparently)."
+
+15.
+
+The next requirement in the course was to submit a final research report referencing the
+
+academic sources they relied on in their research proposals and connecting their own findings to
+the literature they had previously reviewed.
+
+In April, 2015, the Student submitted his tesearch report, "PoorD1iving Habits and
+
+16.
+
+Young Males: A Strong Influence?" examining the relationship between watching action films
+depicting speeding and viewers' driving habits.
+The Teaching Assistant who graded the Student's research report had concerns about 2 of
+
+17.
+
+the academic articles cited in it, which he drew to the attention of Professor Maharajh:
+''Lake, David. "The Mindset of Media." University of Queens, 2008. Web. -Feb. 2015"
+and
+"Thompson, Joe. "Driving Habits of Young Males." (2011) Harvard University. Web.
+March 20 15"
+
+-6-
+
+18.
+
+Professor Maharajh testified that she reviewed the Student's research report and then
+
+attempted to verify the existence of the two articles in question. She tried to locate them through
+Google and university research databases, but was not able to locate any trace of either article.
+She then attempted to contact the Student in order to discuss her concerns. The Student either
+cancelled or failed to attend 3 meetings set for that purpose.
+19.
+
+The Student admits in his factum on this appeal that he did not address these allegations
+
+in his testimony. He offered no explanation for failing to produce copies of the purported
+articles at the hearing, or at any time subsequently.
+20.
+
+The Tribunal accepted Professor Maharajh's evidence and convicted the Student on the
+
+first charge. The Panel held:
+The evidence leads the Panel to conclude on a balance of probabilities that the
+Student knowingly submitted academic work that contained concocted references
+to one or more sources. In particular, the Panel inferred from Professor
+Maharajh' s uncontradicted testimony that she was unable to locate any trace of the
+Purported Sources, together with the absence of any evidence tendered by the
+Student that the Purported Sources had in fact existed, that they were indeed
+concocted.
+21.
+
+The Second Charge The second charge arises from circumstances surrounding a prior
+
+offence of plagiarism. Specifically, in April of2015, the Student attended a meeting with the
+Dean's Designate for Academic Integrity at UTM, and in the course of that meeting admitted
+plagiarism, which he confirmed with a written admission of guilt.
+22.
+
+Later that month, the Vice-Dean, Undergraduate at UTM sent the Student a letter
+
+imposing a sanction for the admitted plagiarism under the Code. The Disciplinary Letter
+contained the following description of the sanction:
+
+-7Therefore, under section C.I.(a)8 of the University's Code ofBehaviour on Academic
+Matters, I impose the following sanctions:
+
+23.
+
+•
+
+a mark of zero (0) for the assignment in question;
+
+•
+
+a further reduction of 25 marks from the final grade in the course; and
+
+•
+
+an annotation on transcript of "Mark reduced in CCT200H5F, 2014(9) due to
+academic misconduct", for 12 months, from April 6, 2015 to April 6, 2016
+
+Almost half a year later, on October 1, 2015, the Student wrote to the Vice-Provost,
+
+Faculty and Academic Life, requesting a reconsideration of the sanction. He enclosed what he
+said was a copy of the Disciplinary Letter. However, the version of the letter he enclosed
+differed from that which had been sent in material ways. It read, in relevant part:
+
+Therefore, under section C.I.( a)8 of the University's Code of Behaviour on Academic
+Matters, I impose the following sanctions:
+
+24.
+
+•
+
+a mark of zero (0) for the assignment in question;
+
+•
+
+a reduction of 25 marks from the final grade in the course; and
+
+•
+
+an annotation on transcript of"Mark reduced in CCT200H5F, 2014(9)
+
+In the course of the review of the Student's reconsideration request, the differences
+
+between the Disciplinary Letter sent to the Student and the letter he enclosed with his request
+came to light. Specifically, the letter enclosed by the Student did not include the word "further"
+in the second bullet, and the second line of the third bullet, indicating that the transcript notation
+was to be in place for 12 months, was omitted.
+
+25.
+
+In a letter to the Student, the Vice-Provost noted the difference between the original
+
+Disciplinary Letter, and the letter included in the Student's reconsideration request and said "we
+would appreciate your including a note on this in your response". The Student did not respond to
+this request and was in due course advised that the sanction would not be changed.
+
+- 826.
+
+In his examination-in-chief before the Tribunal, the Student denied changing the
+
+Disciplinary Letter before submitting it as part of his reconsideration request. However, he
+offered no explanation for the difference between the two letters. Indeed, in explaining what he
+said was an inaccuracy in the Disciplinary Letter, he responded as follows:
+
+Q. Okay. So when you finally received the sanction letter, right, you were
+dissatisfied with it. You thought it was inaccurate. Why?
+A. The sanction letter and the wording of the actual sanction letter was ... I
+wouldn't say it's unclear, but it's a bit hard to understand. The part where it
+says, "A further reduction of 25 marks, 25 marks from where? There's
+certain things in the sanction ... they were there, but it was just unclear to
+understand. It was not explained thoroughly in the meeting .... (Emphasis
+added.)
+
+27.
+
+As the Provost notes, this is effectively an admission that the Student received the
+
+Disciplinary Letter in its original form.
+
+28.
+
+In the circumstances, the Tribunal found the Student's denials to be not credible,
+
+particularly in light of the admission that he had received an unaltered letter, and concluded that
+he had falsified the letter he had submitted with his reconsideration request. It noted:
+
+The Student's assertion that he had not altered the April 9 Letter when he
+submitted the Purported April 9 Letter to the Provost, in the face of Ms. Gaspini' s
+evidence and the Student's own acceptance that the letter he submitted to the
+Provost (that is the Purported April 9 Letter) differed from the sanctioning letter
+that he had received from Ms. Gaspini, is simply not credible. The evidence
+supports a finding on the balance of probabilities that the Student either altered the
+April 9 Letter himself and submitted the Purported April 9 Letter to the Provost, or
+knowingly circulated or made use of such altered letter when he made his
+submission to the Provost.
+29.
+
+Sanction No further evidence was led by the Provost or the Student on the issue of
+
+sanctions.
+
+-9-
+
+30.
+
+The Provost sought a penalty consisting of a final grade of zero in the Course, suspension
+
+from the University for up to 5 years, and a recommendation to the President of the University
+that he recommend to the Governing Council that the Student be expelled. The Provost
+submitted that all of these penalties were consistent with those imposed in similar matters.
+
+31.
+
+The Student's representative made submissions concerning the Student's good character,
+
+general volunteerism, willingness to help others and involvement with the University girls'
+volleyball team. The Tribunal noted that these submissions were not supported by any evidence
+and observed that they were "not entirely disregarded by the Panel" although it was "very
+difficult for the Panel to weigh them against the significant factors militating in favour of this
+sanction requested by the University".
+32.
+
+The Tribunal accepted the Provost's submissions that the offences were serious, that they
+
+were second and third offences and that they involved calculated dishonesty on the part of the
+Student. It noted that the concoction of the purported sources was an offence committed within
+days of the meeting in respect of a separate, admitted academic offence, and that the doctored
+letter submitted by the Student was in the course of the University's discipline process itself.
+33.
+
+While noting that many of the cases relied upon by the Provost had the distinguishing
+
+foature that the falsified/fabricated documents in issue were submitted to a third party, the
+Tribunal concluded that the offences in which similar penalties had been imposed were indeed
+similar. It concluded that the sanction requested by the Provost was appropriate.
+
+The Issue on Appeal
+
+34.
+
+The Student's appeal is limited to one ground. He asserts that the Tribunal applied the
+
+wrong standard of proof. As noted above, the Tribunal found the Student guilty on a balance of
+
+- 10 -
+
+probabilities. The Student says that is inc01Tect and that the Code requires the offence must be
+proved on clear and convincing evidence, which he asserts is a higher standard than on a balance
+of probabilities.
+
+35.
+
+A consideration of this issue requires a review of the history of the evidentiary standard
+
+provided for in the Code and the applicable legal requirements.
+36.
+
+The first iteration of the Code came into existence in 1974. At the time, Tribunal
+
+decisions were rendered by a jury and the Code required that "the onus and standard of proof that
+an alleged offence has been committed by the accused shall be the same as in criminal cases".
+37.
+
+In 1995 the Code was comprehensively amended. Cases were no longer decided by
+
+Junes. And the standard of proof was amended to be as it remains today:
+
+C. II. (a.) 9. The onus of proof shall be on the prosecutor, who must show on clear
+and convincing evidence that the accused has committed the alleged offence.
+38.
+
+In its submissions, the Provost noted that since this amendment the Tribunal and the
+
+Discipline Appeals Board have exclusively applied a single civil standard of proof and provided
+a list of 44 such cases (which list is reproduced as Schedule A to these Reasons for Decision).
+The first of these decisions was in March 2009.
+39.
+
+Earlier, in 2008, the Supreme Court of Canada considered at length the proper standard of
+
+proof to be applied in civil cases in C. (R.) v. McDougall, 2008 S.C.C. 53. It concluded that in
+civil cases there is only one standard of proof:
+40. Like the House of Lords, I think it is time to say, once and for all in Canada,
+that there is only one civil standard of proof at common law and that is proof on a
+balance of probabilities. Of course, context is all important and a judge should not
+be unmindful, where appropriate, of inherent probabilities or improbabilities or the
+
+- 11 seriousness of the allegations or consequences. However, these considerations do
+not change the standard of proof....
+46. Similarly, evidence must always be sufficiently clear, convincing and cogent
+to satisfy the balance of probabilities test. But again, there is no objective standard
+to measure sufficiency.
+49. In the result, I would reaffirm, that in civil cases there is only one standard of
+proof and that is proof on the balance of probabilities. In all civil cases, the trial
+judge must scrutinize the relevant evidence with care to determine whether it is
+more likely than not that an alleged event occurred.
+40.
+
+The 44 cases cited by the Provost were all decided after McDougall in the Supreme Court
+
+of Canada. It is probably not surprising, therefore, that they have all concluded that the
+applicable standard of proof for proceedings under the Code is that which McDougall established
+for civil cases, namely proof on a balance of probabilities.
+
+41.
+
+A typical holding is found in Discipline Appeals Board decision #497 in March of 2009:
+
+17. We do not think there is any question that the applicable standard of proof for
+proceedings under the Code is according to a civil standard- on a balance of
+probabilities. Unlike in criminal cases, there is no presumption of innocence.
+However, the requirement to prove the case on the balance of probabilities does
+not detract from the requirement found in the Code and in the common law that the
+standard must be met by evidence that is clear, convincing and cogent.
+42.
+
+The issue raised on this appeal is whether this line of authority must be reconsidered and
+
+indeed overturned, on the basis of the decisions of the Supreme Court of Canada in Penner v.
+
+Niagara Regional Services, 2013 SCC 19 and the Ontario Court of Appeal in Jacobs v. Ottawa
+Police Service.
+
+43.
+
+The issue the Supreme Court of Canada had to decide in Penner was whether issue
+
+estoppel applied in circumstances where police officers had been acquitted under the Police
+
+Services Act and were subsequently faced with civil claims.
+
+- 12 44.
+
+The Court concluded (at paragraph 60):
+
+... because the PSA requires that misconduct by a police officer be "proved on
+clear and convincing evidence" ... it follows that such a conclusion might,
+depending upon the nature of the factual findings, properly preclude re-litigation of
+the issue of liability in a civil action where the balance of probabilities - a lower
+standard of proof - would apply. However, this cannot be said in the case of an
+acquittal. The prosecutor's failure to prove the charges by "clear and convincing
+evidence" does not necessarily mean that those same allegations could not be
+established on a balance of probabilities. Given the different standards of proof,
+there would have been no reason for a complainant to expect that issue estoppel
+would apply ifthe officers were acquitted. Indeed, in Porter, at para. 11, the Court
+refused to apply issue estoppel following an acquittal in a police disciplinary
+hearing because the hearing officer's decision "was determined by a higher
+standard of proof and might have been different if it had been decided based on the
+lower civil standard".
+45.
+
+The finding that the "clear and convincing" standard of proof in the Police Services Act
+
+was a higher standard of proof than the balance of probabilities is somewhat confusing in light of
+the McDougall case. This is all the more so, as the Supreme Court of Canada did not refer to the
+McDougall case in its decision in Penner.
+
+46.
+
+The apparent contradiction seems to have been reconciled by the decision of the Court of
+
+Appeal for Ontario in Jacobs v. Ottawa Police Service, referred to above. The Court of Appeal
+concluded that the McDougall decision was a determination of the civil standard of proof in a
+civil claim at common law. But, the Court held, it was well settled that it was within the
+authority of a legislature to create a standard of proof specific to a particular statute. The Court
+concluded that the Police Services Act was such a statute and it established a standard of proof in
+PSA hearings requiring clear and convincing proof, and not proof on a balance of probabilities.
+
+47.
+
+In cogent submissions for the Student, his counsel submitted that the Code, like the
+
+Police Services Act, has established an intermediate standard of proof, higher than a proof on a
+
+- 13 -
+
+balance of probabilities. He noted that the words in issue are accompanied by a heading "Onus
+and Standard of Proof', that the provision is expressed in language suggesting that it is dealing
+with a standard of proof rather than a method of demonstration, and that to interpret the language
+as effecting the civil standard of proof, namely a balance of probabilities, would render the
+words "on clear and convincing evidence", as mere surplusage. To do otherwise, he said, would
+mean that the Tribunal would otherwise accept evidence that was unclear and unconvincing in
+quality.
+
+48.
+
+The Provost, on the other hand, asserts that there is no statutory regime similar to the
+
+Police Services Act establishing a standard of proof in University of Toronto Tribunal hearings.
+
+The Provost's counsel asserts that the Tribunal is governed solely by the Code, which he
+characterizes as an internal University policy that must be interpreted and administered within
+the mainstream of civil and administrative law, including the McDougall standard of proof for
+civil cases.
+49.
+
+These submissions by the Provost have given this Appeal Panel considerable pause.
+
+However, we have concluded that we cannot agree that the Code of Behaviour on Academic
+Matters is simply a statement of policy. Nor do we think it is simply a set of rules of procedure
+
+such as those referred to in another case relied upon by the Provost, The Law Society of Upper
+Canada vs. Sriskanda. In that case the Law Society Tribunal Appeal Division held that Jacobs
+
+had no application to the standard of proof on the issues before it as there was no provision in the
+Law Society Act comparable to those in the Police Services Act. Apparently the rules of
+
+evidence that were employed before the Tribunal were contained in an internal policy document
+entitled Rules of Practice and Procedure.
+
+- 14 50.
+
+However, in this case we are dealing with the Code of Behaviour on Academic Matters
+
+which, though not itself a statute, is enacted pursuant to an express delegation of statutory power.
+51.
+
+As is helpfully summarized in University Tribunal Decision# 1997-98-04, as a result of
+
+the successive statutory provisions of the University of Toronto Act, 1947, and the University of
+Toronto Act, 1971, the conduct and discipline of the students of the University of Toronto,
+
+including the creation of disciplinary offences and penalties are delegated by those statutes to the
+Governing Council of the University of Toronto. The Governing Council has exercised that
+authority, in part, by enacting the Code. We cannot accept that the creation of offences, penalties
+for those offences, and the procedure to be adopted in determining whether those offences have
+been committed are valid exercises of the statutory authority delegated to Governing Council,
+but the creation of the relevant standard of proof is not.
+52.
+
+An illustration of this principle is that for many years, as noted above, the Code imposed,
+
+without challenge, a criminal standard of proof on disciplinary proceedings under the Code. If
+one accepts, as Penner and Jacobs indicate, that some intermediate standard of proof can be
+created by statute, we cannot accept that it is within the statutory authority of Governing Council
+to impose the basic civil standard of proof, a balance of probabilities, or a criminal standard of
+proof, beyond a reasonable doubt, but not anything in between.
+53.
+
+However, that by no means disposes of the issue before us.
+
+54.
+
+We are still left with the fundamental question of interpretation, namely what is meant,
+
+once the onus of proof is placed on the prosecutor in section C.II.(a)(9) by the requirement that
+the prosecutor "show on clear and convincing evidence that the accused has committed the
+alleged offence". Unlike in the Penner and Jacobs cases requiring an offence to be "proved on
+
+- 15 clear and convincing evidence", the provisions of the Code separate the description of the onus
+of proof and the description of the evidence used to meet that onus. Is that separation
+significant?
+55.
+
+In all of the circumstances, we have concluded that it is. The section can be read as
+
+describing where the onus of proof (according to the ordinary civil standard of balance of
+probabilities) rests, and then describing the kind of evidence that should be led to meet that onus.
+Without more, we do not think such a description of the onus and the nature of the evidence to be
+led to discharge that onus effects an elevation of the standard of proof.
+56.
+
+This is particularly so given that this is precisely the interpretation that has been given to
+
+this section of the Code in at least 44 decisions of the Tribunal and the Discipline Appeals Board
+in the last decade. These decisions are known to the Governing Council. Many of those
+decisions address issues (for example a recommendation for expulsion, or degree withdrawal)
+which must be finally determined by Governing Council. As well, Governing Council receives
+reports of the decisions of the Tribunal and Discipline Appeals Board.
+57.
+
+If the Governing Council had intended through the use of the language in section
+
+C.II(a)(a) of the Code to impose a different standard of proof than the one expressly described
+and used in those 44 cases, one might reasonably have expected, through a reenactment of the
+Code provisions or otherwise, that Governing Council would have made that clear.
+
+58.
+
+Moreover, the ordinary civil standard of proof, on a balance of probabilities, is, as has
+
+been noted in many articles and judgments, a concept that is much more clearly able to be
+described and understood than the rather more enigmatic and uncertain standard of proof "on
+clear and convincing evidence". Indeed, although the Penner and Jacobs cases both hold that
+
+- 16 "proof on clear and convincing evidence" is a higher standard than the ordinary civil standard,
+they offer no further assistance or explanation of what that standard is.
+
+59.
+
+The conceptual difficulties of a Tribunal forced to adopt an intermediate standard of
+
+proof are illustrated in the McDougall decision:
+
+43. An intermediate standard of proof presents practical problems. As expressed
+by L. Rothstein et al., at p. 466:
+As well, suggesting that the standard of proof is "higher" than the "mere
+balance of probabilities" leads one inevitably to inquire what percentage of
+probability must be met? This is unhelpful because while the concept of
+"51 % probability" or "more likely than not" can be understood by decision
+makers, the concept of 60% or 70% probability cannot.
+44. Put another way, it would seem incongruous for a judge to conclude that it
+was more likely than not that an event occurred, but not sufficiently likely to some
+unspecified standard and therefore that it did not occur. As Lord Hoffman
+explained In re B at para. 2:
+
+If a legal rule requires a fact to be proved (a "fact in issue"), a judge or jury
+must decide whether or not it happened. There is no room for a finding
+that it might have happened. The law operates a binary system in which
+the only values are zero and one. The fact either happened or it did not. If
+the Tribunal is left in doubt, the doubt is resolved by a rule that one party or
+the other catTies the burden of proof. If the party who bears the burden of
+proof fails to discharge it, a value of zero is returned and the fact is treated
+as not having happened. If he does discharge it, a value of one is returned
+and the fact is treated as having happened.
+In my view, the only practical way in which to reach a factual conclusion in a civil
+case is to decide whether it is more likely or not that the event occutTed.
+60.
+
+The continuation of the existing standard of proof- on a balance of probabilities -
+
+provides a standard that can be clearly expressed and understood. This is a factor not to be
+dismissed by any tribunal which has to wrestle with issues of standard of proof, but particularly
+by the Tribunal charged with enforcing the provisions of the Code, given that the majority of the
+members of the Tribunal are not lawyers.
+
+- 17 We do not consider that this determination of the standard of proof renders the need to
+
+61.
+
+meet that standard of proof by "clear and convincing evidence" as "mere surplusage" as the
+Student has suggested. Rather, we consider those words to be a salutary emphasis for the
+Tribunals and in particular for their non-lawyer members, as to the quality of evidence which
+should be led before a member of the University can be found to have committed the serious
+offence of violating the Code ofBehaviour on Academic Matters.
+
+In the result, we have concluded that the standard of proof set by the Code of Behaviour
+
+62.
+
+on Academic Matters is the ordinary civil standard of proof, on a balance of probabilities. Our
+conclusion is based on:
+
+•
+
+the potential ambiguity introduced by the differences in the wording employed in the
+
+Code and in the statute considered in the Penner and Jacobs cases;
+•
+
+more importantly, a consistent and substantial body of Tribunal and Appeal Board
+authority which has interpreted the standard of proof found in the Code in this manner
+over multiple cases and many years and which interpretation has been accepted by the
+Governing Council who is the author of that standard; and
+
+•
+
+the salutary effect of a standard of proof that can be clearly expressed to and understood
+by the members of the University whose conduct will be judged according to that
+standard and the members of the Tribunal charged with enforcing it.
+
+63.
+
+It follows that we consider that the standard was correctly explained in the reference of
+
+the Discipline Appeals Board decision number 497, quoted at paragraph 41 above. If we have
+misinterpreted the intentions of the Governing Council in its enactment of the Code, there are
+avenues available to change the Code.
+
+- 18 -
+
+64.
+
+However, even if we have misinterpreted the intentions of Governing Council, in the
+
+particular circumstances of this case, we have concluded that the result would not be different,
+even if the Student is correct and the standard of proof is higher.
+65.
+
+It would not be appropriate for us to make such a determination if the issues in this case
+
+turned on finely tuned assessments of credibility. In such a case the impact of a higher standard
+of proof should only be assessed at the Tribunal level where the resulting impact on the
+credibility assessments could properly be made.
+66.
+
+However, this is not a case where the determination of the Student's liability turns on any
+
+such credibility assessment.
+67.
+
+As noted above, the Student admits in his factum that he did not address the allegations
+
+raised by the first offence in his testimony, and he has offered no explanation for failing to
+produce copies of the purported articles at the original hearing or at any time subsequently.
+68.
+
+With respect to the second charge, as noted above, the Student in his evidence effectively
+
+admitted that he had received the disciplinary letter in its original form, and was confused by the
+language which was omitted in the incomplete copy of the letter which he subsequently
+submitted, the foundation of the first offence. In other words, the finding that the letter he
+resubmitted to the University differed from the version that he acknowledged he had received is
+based on the Student's evidence, not in conflict with it.
+69.
+
+Further, as noted in the Provost's factum on this appeal, the Student has not attempted to
+
+tender any fresh evidence that could either establish the existence of either of the articles that he
+
+- 19 cited in the research paper or explain how or why the disciplinary letter he admitted he received
+in its original fo rm became altered before he resubmitted it.
+
+70.
+
+In all of the circumstances, we conclude that even if we are wrong and the Tribunal
+
+should have applied the higher standard of prnof set out in Penner and Jacobs and submitted by
+the Student, there is no basis to conclude that the result in this case would be any different.
+
+71.
+
+For these reasons, we dismiss the appeal.
+
+April l 8, 20 19
+
+Schedule "A"
+
+Case
+
+General information
+
+Decision
+#497
+(March 25
+2009)
+
+Decision
+#607
+(January
+31, 2011)
+Decision
+#668
+(April 27,
+2012)
+
+"Burden of Proof" issue
+
+Appeal by the Provost from a
+Tribunal decision in which the
+Student was found not guilty of
+submitting an answer booklet
+during a term test that was written
+beforehand. Student was charged
+under s. B.i.3(b).
+
+Student was charged under s.
+B.i.1 (d), s. B.i.1 (b), ands. B.i.3(b)
+for plagiarism and use of an
+unauthorized aid during a final
+exam.
+
+Student charged under s. B.i.1 (b)
+for cheating on an exam.
+
+1
+27444194.1
+
+•
+
+"We do not think there is any question that
+the applicable standard of proof for
+proceedings under the Code is according to
+a civil standard - on a balance of
+probabilities. Unlike in criminal cases, there
+is no presumption of innocence. However,
+the requirement to prove the case on the
+balance of probabilities does not detract from
+the requirement found in the Code and in the
+common law that the standard must be met
+by evidence that is clear, convincing and
+cogent" (para 17)
+
+•
+
+"While not questioning the credibility of the
+Professor's evidence, the Tribunal concluded
+that the evidence did no establish the offense
+because the offense was not 'determined
+conclusively or by necessary inference,' was
+not accompanied by 'independent
+corroboration' and that the evidence had not
+eliminated the 'many possibilities that are
+inconsistent with an inference of guilt.' These
+requirements strongly suggest that the
+Tribunal was requiring the University to prove
+the case to a standard higher than a balance
+of probabilities" (para 22)
+
+•
+
+"The University must satisfy us, on a balance
+of probabilities, with clear and cogent
+evidence, that this is what occurred. See
+University of Toronto v X, a decision of the
+Discipline Appeal Board, March 25, 2009 and
+F.H. McDougall, 2008 SCC 53" (para 21).
+
+•
+
+"The Tribunal accepts that the Provost need
+only prove her case on a balance of
+probabilities, albeit on clear and convincing
+evidence. The burden is simply on a balance
+of probabilities. The requirement of clear and
+convincing evidence simply illuminates the
+
+civil standard" (para 23)
+
+Decision
+#738
+(January
+15, 2015)
+'Decision
+#805
+(August
+10,2015)
+Decision
+#802
+(Septembe
+r 28, 2015)
+Decision
+#758
+(June 22,
+2015 and
+December
+4, 2015)
+Decision
+#815
+(January
+19,2016)
+
+Decision
+#809
+(January
+29, 2016)
+
+Student charged under s. B.i.1(b)
+for the possession of an
+unauthorized aid.
+Student was allowed to write an
+exam on the professor's computer;
+used the Internet.
+Student charged under s. B.i.1 (b)
+and, in the alternative, s. B.i.3(b) for
+possession of an unauthorized aid
+during an exam.
+Student charged under s.
+B.i.1(d), s. B.i.1(f) and, in the
+alternative, s. B.i.3(b) for knowingly
+representing ideas from other
+sources as their own in an essay as
+well as concoctinQ references.
+The Student was charged under s.
+B.i.1.(c), s. B.i.3.(a) and, in the
+alternative, s. B.i.3(b) for hiring an
+individual to impersonate them
+during a final exam.
+Student charged under s.
+B.i.1 (d) ands. B.i.1 (b) and, in the
+alternative, s. B.i.3(b) of the Code
+for knowingly representing
+another's ideas in an essay, and
+that the Student knowingly obtained
+unauthorized assistance in
+connection with the Essay.
+
+"The University must satisfy us, on a balance
+of probabilities with clear and cogent
+evidence that the Student attempted to
+obtain unauthorized assistance in connection
+with the mid-term test by accessing the
+internet to attempt to answer certain of the
+questions" (para 16)
+
+•
+
+"The onus is on the University to establish on
+clear and convincing evidence on a standard
+of probabilities that the academic offence
+charged has been committed" (para 26)
+
+•
+
+"The onus is on the University to establish on
+clear and convincing evidence on a standard
+of probabilities that the academic offence
+charged has been committed" (para 24)
+
+•
+
+'The University must prove its case on a
+balance of probabilities based on clear and
+convincing evidence" (para 33)
+
+•
+
+"The University acknowledged that the
+burden was on it to establish the charges
+were made out and it had to do so on a
+balance of probabilities that the Student
+committed the offences and it had to do so
+on clear and convincing evidence." (para 19)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offences charged has been
+committed by the Student" (para 17)
+
+•
+
+" ... the burden in these proceedings is on the
+University to prove the charges on a balance
+of probabilities with clear and convincing
+
+Student charged under s. B.i.1 (d),
+s. B.i.1 (b) and, in the alternative, s.
+B.i.3(b) for plagiarism.
+
+Decision
+#808
+
+Student charged under s. B.i.1 (a)
+and, in the alternative, under s.
+B.i.3(b) for the falsification of two
+
+(February
+
+documents that supported their
+
+evidence" (para 62).
+
+2
+27444194.1
+
+•
+
+1, 201.6)
+Decision
+#822
+(March 22,
+2016)
+
+Decision
+#785/786
+(March 24,
+2016)
+
+Decision
+#807
+(April 7,
+2016)
+
+Decision
+#842
+(April 21,
+2016)
+
+Decision
+#833
+(April 27,
+
+grant application
+
+Student charged under s. B.i.3(a)
+and, in the alternative, s. B.i.3(b) for
+the falsification of an academic
+record
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offenses charged has been
+committed by the student" (para 7)
+
+•
+
+"To prove the charges against Land P the
+University must satisfy us on a balance of
+probabilities standard with clear and cogent
+evident that (1) L used an authorized aid to
+assist him in the Exam and then destroyed
+the unauthorized aid, and that (2) L provided
+the unauthorized aid to P" (para 70)
+
+•
+
+"The onus is on the University to
+demonstrate that there is clear and
+compelling evidence that the Student forged
+the medical notes and that the student
+attempt to mislead Mr. Tassone about (1)
+two quizzes he purportedly wrote and
+received back with a grade and (2) having
+submitted a second exam booklet in the final
+examination" (para 57)
+
+•
+
+"The Panel needs only to find the offenses
+on a balance of probabilities" (para 59)
+
+•
+
+"The onus is on the University to
+demonstrate that there is clear and
+compelling evidence that the student
+plagiarized part of all of her essay and/or that
+the student used unauthorized assistance to
+write her exam" (para 28)
+
+•
+
+"It is more likely than not that another person,
+other than the student, wrote the essay given
+the student's performance on the 1st
+assignment and on the balance of the course
+and writing module" (para 31)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that the academic
+offense charged has been committed by the
+
+Students charged under s. B.i.(b),
+s. B.i.1 (a) ands. B.i.3(b) for
+knowing possessing an
+unauthorized aid during an exam.
+
+Student was charged with three
+offenses under s. B.i.1 (a) and two
+offenses under s. B.i.3(b) for
+forging various medical
+documentation and attempting to
+gain an academic advantage by
+representing quizzes/exams as his
+own.
+
+Student charged under s. B.i.1 (d)
+ands. B.i.1 (b) for knowingly
+representing another's work as
+their own and obtaining
+unauthorized assistance. The
+student was charged, in the
+alternative, under s. B.i.3(b).
+
+Student charged under s. B.i.3(a)
+for the forgery, alteration, and/or
+falsification of a letter from the
+Registrar's office confirming
+
+3
+27444194.l
+
+•
+
+2016)
+
+enrolment
+
+Decision
+#816
+(July 27,
+2016)
+
+Decision
+#843
+(August
+16, 2016)
+
+Decision
+#862
+(August
+23, 2016)
+
+Decision
+#836
+(Sept. 11,
+2016)
+
+Student" (para 21)
+
+Student charged under s. B.i.1 (a)
+and, in the alternative, s. Bi.3(a)
+ands. B.i.3(b) of the Code. The
+charges related to allegations that
+the Student knowingly forged,
+altered, or falsified her Test before
+resubmitting it in an attempt to
+obtain additional marks
+Student charged with six offences
+under s. B.i.1 (a) and, in the
+alternative, two offences under s.
+B.i.3(b) of the Code. The charges
+related to allegations that the
+Student falsified petitions to write
+deferred final examinations in two
+courses
+
+Student charged with two offences
+under s. B.i.1 (d), two offences
+under s. B.i.1(b) and, in the
+alternative, two offences under s.
+B.i.3(b) of the Code. The charges
+related to allegations that the
+Student submitted two essays for
+the Course containing many
+elements of plagiarism and
+unauthorized aid.
+
+Student charged with nine offences
+under s. B.i.1 (a), and in the
+alternative, an offence under s.
+B.i.3(b) for forging various
+documents.
+
+4
+27444194.1
+
+•
+
+" ... the Tribunal found that the essential
+elements of the academic offenses charged
+were proven on a balance of probabilities"
+(para 27)
+
+•
+
+" ... the Panel concluded that it was more
+likely than not that the Student knew that she
+had made changes to the paper. The
+Committee finds, on the basis of clear,
+cogent and convincing evidence, that the
+Student made the marks on the paper
+believing them to be correct" (para 20)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offenses charged have been
+committed by the student" (para 5)
+
+•
+
+"Our decision is therefore that with respect to
+Essay Number 1, the evidence establishes
+clearly to us on a balance of probabilities that
+Essay Number 1 contained work,
+expressions, and ideas which were not those
+of the Student who submitted them and we
+find the Student guilty under Count 1" (para
+21)
+
+•
+
+"With respect to Essay Number 2, we find the
+evidence clear and cogent and are able to
+conclude again on a balance of probabilities
+that Essay Number 2 is not the work of the
+Student and therefore, the Count number 4
+in the Charges is also made out. Accordingly,
+we do not need to make findings on Counts 5
+and 6" (para 23)
+
+•
+
+"Following deliberation and based on the
+submission of counsel and the facts in the
+Agreed Statement of Facts and Joint Book of
+Documents, the Panel concluded that
+charqes 1 throuqh 9 have been proven with
+
+clear and convincing evidence on a balance
+of probabilities" (para 20)
+
+Decision
+#851
+(October
+15,2016)
+
+Decision
+#796
+(November
+10, 2016)
+
+Decision
+#873
+(December
+13,2016)
+
+Decision
+#781
+(January
+26, 2017)
+
+Decision
+#892
+(February
+15, 2017)
+
+Student charged with one count of
+unauthorized assistance under s.
+B.i.1 (b). The student was charged
+in the alternative under s. B.i.3(b).
+Student alleged to have copied
+multiple choice answers from
+another individual in their class
+during a final examination
+Student charged with two charges
+of plagiarism contrary to
+s. B.i.1 (d) of the Code and one
+charge of obtaining unauthorized
+assistance during a test contrary to
+s. B.i.1 (b) of the Code
+
+'The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offenses charged has been
+committed by the Student" (para 38).
+
+•
+
+"The Tribunal notes that the burden of proof
+is on the University, not the student, and
+there is no obligation for the Student to prove
+that she didn't copy from M.W" (para 45).
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offenses charged has been
+committed by the student" (para 6)
+
+•
+
+"Following deliberations and based on the
+Agreed Statement of Facts and the Joint
+Book of Documents, the Panel has
+concluded that charges 1 and 3 (as outlined
+in paragraph 2 above) have been proven
+with clear and convincing evidence on a
+balance of probabilities, and accepted the
+guilty plea of the student in respect of those
+charges" (para 14)
+
+•
+
+"Following deliberation and based on the
+submissions of counsel for the University, the
+facts set out in the Agreed Statement of
+Facts and Joint Book of Documents, and the
+Student's confirmation of his agreement with
+the University's review of the facts at the
+hearing, the Panel found that the first charge
+was proven with clear and convincing
+evidence on a balance of probabilities and
+accepted the Student's guilty plea" (para 9)
+
+•
+
+"The onus is on the University to establish
+based upon clear and convincing evidence
+on a balance of probabilities that the
+academic offense has been committed" (para
+17)
+
+Student charged with two counts of
+forging medical documents under s.
+B.i.1 (a) of the Code, or in the
+alternative, two charges of
+academic dishonesty
+under s.B.i.3(b) of the Code
+
+The Student was charged with one
+offence of concoction under s.
+B.i.1 (f) of the Code, and
+alternatively, academic dishonesty
+under s. B.i.3(b) of the Code. The
+student falsified research data.
+
+Student was charged with
+plagiarism under s. B.i.1 (d) of the
+Code, and in the alternative with
+academic dishonesty under s.
+B.i.3(b) of the Code.
+
+5
+27444194.1
+
+•
+
+Decision
+#865
+(February
+22, 2017)
+
+Decision
+#841
+(March 13,
+2017)
+
+Decision
+#845
+(April 26,
+2017)
+Decision
+#869
+(May 1,
+2017)
+Decision
+#896
+(May 17,
+2017)
+Decision
+#894
+(May 31,
+2017)
+
+Decision
+#907
+(June 20,
+2017)
+
+Student charged with possession of
+an unauthorized aid under
+s. B.i.1 (b), and in the alternative, an
+academic dishonesty under
+s. B.i.3(b) of the Code.
+Student was charged with one
+offence of plagiarism under s.
+B.i.1 (d) of the Code, and
+alternatively, use of an
+unauthorized aid under s. B.i.1 (b)
+of the Code, and alternatively,
+academic dishonesty under s.
+B.i.3(b) of the Code
+The Student was charged with
+forgery and plagiarism under ss.
+B.i.1(a) and B.i.1(d) of the Code,
+and alternatively, academic
+dishonesty under s. B.i.3(b) of the
+Code.
+Student charged under ss.
+B.i.(1)(a) and B.i.1 (b) for falsifying a
+document and using unauthorized
+assistance in a final exam. The
+student brought in their own exam
+sheet.
+Student was charged with
+knowingly representing another's
+idea or work as their own under s.
+B.i.1 (d) of the Code, and
+alternatively, academic dishonesty
+under s. B.i.3(b) of the Code.
+Student was charged with five
+counts of forging or falsifying
+information medical documentation
+contrary to s. B.i.1 (a) of the Code,
+or in the alternative, two charges of
+academic dishonesty under s.
+B.i.3(b) of the Code.
+Student was charged with one
+count of forging or falsifying
+information contained in her petition
+for academic accommodation
+contrary to s. B.i.1 (a) of the Code,
+or in the alternative, one charge of
+academic dishonesty under s.
+
+6
+27444194.1
+
+•
+
+"The onus was on the University to establish
+on the balance of probabilities, using clear,
+cogent and convincing evidence, that one or
+more of the academic offenses charged has
+been committed by the Student" (para 38)
+
+•
+
+"At the conclusion of the hearing, the
+Tribunal dismissed the Charges against the
+Student, finding that the University had failed
+to establish the Charges on a balance of
+probabilities based on clear and convincing
+evidence" (para 3)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offences charged has been
+committed by the Student" (para 5)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offenses charged has been
+committed by the student" (para 29)
+
+•
+
+"Consequently, the Tribunal finds that
+Charge 1 had been proven with clear and
+convincing evidence on a balance of
+probabilities" (para 16)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that one or more of the
+academic offenses charged has been
+committed by the student" (para 5)
+
+•
+
+"Following deliberations and based on the
+ASF and the JBD, the Panel concluded that
+the first charge (as outlined in para 2 above)
+had been proven with clear and convincing
+evidence on a balance of probabilities, and
+accepted the guilty plea of the Student in
+respect of that charae" (oara 9)
+
+B.i.3(b) of the Code.
+Decision
+#922
+(August 1,
+2017)
+Decision
+#904
+(October 5,
+2017)
+
+Decision
+#906
+(October
+27, 2017)
+
+Decision
+#931
+(October
+27, 2017)
+
+Decision
+#841
+(Tribunal)
+March 13,
+2017)
+Decision
+#841
+(DAB)
+(October
+31, 2017)
+
+The Student was charged with
+plagiarism under s. B.i.1 (d) of the
+Code, and alternatively, academic
+dishonesty under s. B.i.3(b) of the
+Code.
+The Student was charged with
+falsifying or forging a degree from
+the University contrary to s. B.i.3(a)
+of the Code.
+The Student was charged with
+possession of an unauthorized aid
+during a final exam contrary to s.
+B.i.1(b) of the Code, or in the
+alternative one charge of academic
+dishonesty not otherwise described
+contrary to s. B.i.3(b) of the Code
+
+"The onus is on the University to establish
+based upon clear and convincing evidence
+on a balance of probabilities that the
+academic offence charge has been
+committed" (para 6)
+
+•
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence ... " (para 21)
+
+•
+
+"Following deliberations and based on the
+ASF and the JBD, the Panel concluded that
+the first charge (as outlined in paragraph 2
+above) had been proven with clear and
+convincing evidence on a balance of
+probabilities, and accepted the guilty plea of
+the Student in respect of that charge" (para
+15)
+
+•
+
+"Following deliberations and based on the
+ASF and the JBD, the Panel concluded that
+the first charge (as outlined in paragraph 2
+above) had been proven with clear and
+convincing evidence on a balance of
+probabilities, and accepted the guilty plea of
+the Student in respect of that charge" (para
+20)
+
+•
+
+"At the conclusion of the hearing, the
+Tribunal dismissed the Charges against the
+Student, finding that the University had failed
+to establish the Charges on a balance of
+probabilities based on clear and convincing
+evidence." (para 3)
+
+•
+
+"When taken with the very clear references
+to the correct standard of proof in various
+paragraphs of the majority's decision, we are
+unable to conclude that this Panel did not do
+exactly what it said it did, namely, apply the
+correct standard of proof" (para 68)
+
+The Student was charged with
+plagiarism contrary to s. B.i.1 (d) of
+the Code, or in the alternative one
+charge of academic dishonesty not
+otherwise described contrary to s.
+B.i.3(b) of the Code.
+
+Student charged under with
+plagiarism under s. B.i.1 (b), s.
+B.i.1 (d), ands. B.i.3(b) of the Code.
+
+Appeal by the Provost from a
+Tribunal decision in which the
+majority acquitted the Student on
+charges of plagiarism contrary to s.
+B.i.1 (b), s. B.i.1 (d), ands. B.i.3(b)
+of the Code.
+
+7
+27444194.l
+
+•
+
+Decision
+#932
+(November
+10, 2017)
+
+Decision
+#941
+(February
+16, 2018)
+
+Decision
+#914
+(February
+19,2018)
+Decision
+#944
+(March 5,
+2018)
+Decision
+#916
+(March 12,
+2018)
+
+Decision
+#960
+(April 3,
+2018)
+
+The Student was charged with one
+charge of forging an transcript
+co~trary to s. B.i.3(a) of the Code,
+or in the alternative, one charge of
+academic misconduct not otherwise
+described contrary to s.B.i.3(b) of
+the Code.
+The Student was charged with two
+charges of plagiarism contrary to s.
+B.i.1 (d) of the Code, with
+alternative charges of unauthorized
+assistance contrary to s. B.i.1 (b) of
+the Code; or in the further
+alternative, charges of academic
+misconduct not otherwise
+described contrary to s.B.i.3(b) of
+the Code
+
+"The onus is on the University to establish
+based upon clear and convincing evidence
+on a balance of probabilities that the
+academic offense charge has been
+committed" (para 4)
+
+•
+
+"Following deliberations and based on the
+Agreed Statement of Facts and the Joint
+Book of Documents, the Panel concluded
+that charges 1, 4 and 7 (as outlined in
+paragraph 2 above) had been proven with
+clear and convincing evidence on a balance
+of probabilities, and accepted the guilty pleas
+of the Student in respect of those charges"
+(para 23)
+
+•
+
+"The onus is on the University to establish on
+a balance of probabilities, using clear and
+convincing evidence that the academic
+offence charged has been committed by the
+Student" (para 25)
+
+•
+
+"Following deliberations and based on the
+ASF and the JBD, the Panel concluded that
+the first charge (as outlined in para 3 above)
+ha~ been proven with clear and convincing
+evidence on a balance of probabilities, and
+accepted the guilty plea of the Student in
+respect of that charqe" (para 11)
+
+•
+
+"The University must establish on a balance
+of probabilities through clear and convincing
+evidence that an academic offence has been
+committed by the Student" (para 6)
+
+•
+
+"Following deliberation and based on the
+testimony of the witnesses and the
+documents in the University's Book of
+Documents, the Panel concluded there was
+clear and convincing evidence that, on a
+balance of probabilities, the Student had
+circulated or made use of a forged, altered or
+falsified record, namely a document that
+purported to be his Transcript and Academic
+History" (para 11)
+
+The Student was charged with two
+charges of plagiarism contrary to s.
+B.i.1(d) of the Code.
+
+The Student was charged with one
+charge plagiarism contrary to s.
+B.i.1 (d) of the Code, or in the
+alternative, one charge of
+unauthorized assistance contrary to
+s. B.i.1 (b) of the Code
+The Student was charged with one
+count plagiarism on their
+dissertation contrary to s. B.i.1 (d) of
+the Code, or in the alternative, one
+count of unauthorized assistance
+contrary to s. B.i.1(b) of the Code.
+The Student was charged with
+falsifying or forging an academic
+record contrary to s. B.i.3(a) of
+the Code, or in the alternative
+academic dishonesty not otherwise
+described contrary to s.B.i.3(b) of
+the Code
+
+8
+27444194.1
+
+•
+
+Decision
+#951
+(May 8,
+2018)
+
+The Student was charged with two
+counts of falsifying or forging an
+academic record contrary to s.
+B.i.3(a) of the Code, or in the
+alternative, two charges of
+academic dishonesty not otherwise
+described contrary to s.B.i.3(b) of
+the Code.
+
+•
+
+9
+27444194.1
+
+"The onus is on the University to establish on
+the balance of probabilities, using clear and
+convincing evidence, that the academic
+offense charged has been committed by the
+Student"
+
+

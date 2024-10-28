@@ -1,0 +1,1725 @@
+Case No: 1215
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on June 7, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995 (“Code”),
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND S
+
+E
+
+C
+
+REASONS FOR DECISION
+Hearing Date: November 12, 2021, via Zoom
+Panel Members:
+Mr. Christopher Wirth, Chair
+Professor Glen Jones, Faculty Panel Member
+Mr. Yazan Zamel, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeals, Discipline and Faulty Grievances
+In Attendance:
+S
+
+E
+
+C
+
+Charges and Particulars
+A Panel of the Trial Division of the University Tribunal convened on November 12,
+2021 by videoconference to consider charges brought by the University of Toronto
+(the “University”) against S
+
+E
+
+C
+
+(the “Student”) under the
+
+University’s Code of Behaviour on Academic Matters, 1995 (the “Code”). The
+charges alleged against the Student as filed by the Provost on June 7, 2021 are
+as follows:
+1.
+
+On or about November 3, 2020, you knowingly used or possessed an unauthorized
+aid or obtained unauthorized assistance in connection with Test 2 in CHM135H1
+(the "Course"), contrary to section B.l.1(b) of the Code.
+
+2.
+
+In the alternative, on or about November 3, 2020, you knowingly represented as
+your own an idea or expression of an idea or work of another in Test 2 in the
+Course, contrary to section B.l.1(d) of the Code.
+
+3.
+
+In the further alternative, on or about November 3, 2020, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with Test 2 in the
+Course, contrary to section B.l.3(b) of the Code.
+
+The particulars related to charges 1, 2 and 3 are as follows:
+1.
+
+At all material times you were a student enrolled at the University of Toronto
+Faculty of Arts & Science.
+
+2.
+
+In Fall 2020, you enrolled in the Course.
+
+3.
+
+Students in the Course were evaluated on the basis of, among other things, four
+tests. Students were required to work independently and were not permitted to
+collaborate with one another or other sources during the tests.
+
+4.
+
+Test 2 was administered online on November 3, 2020 from 7 to 8 pm.
+
+5.
+
+On November 3, 2020, you submitted your answers to Test 2.
+
+2
+
+6.
+
+During Test 2, you knowingly obtained unauthorized from Chegg.com, which is a
+website that allows subscribers to post questions on the site and to view questions
+and answers posted on the site. You knew that Chegg.com was not an authorized
+source.
+
+7.
+
+You submitted your answers to Test 2:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were
+not your own, but were the ideas, expressions of ideas or work of others,
+namely, the author of an answer that was posted on Chegg.com; and
+
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas
+or work that you drew from Chegg.com.
+
+8.
+
+You knowingly submitted Test 2 with the intention that the University of Toronto
+rely on it as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+
+The Student’s Position
+The Student was present and denied the charges. As a result, the hearing
+proceeded on the basis that the University bore the burden of proving the charges
+on the balance of probabilities.
+Overview
+The University tendered the evidence of four witnesses: Professor Kristine Quinlan
+(“Professor Quinlan”), the Assistant Professor whose course the Student was in,
+Professor Elizabeth Cowper (“Professor Cowper”), the Dean’s Designate for
+Academic Integrity with Student Academic Integrity, Faculty of Arts and Science at
+the University, Mr. Thomas Mackay (“Mr. Mckay”), an Academic Integrity Specialist
+with the University’s Faculty of Arts and Science and Mr. Avi Hyman (“Mr. Hyman”),
+the Director of Academic & Collaborative Technologies in Information Technology
+Services at the University. These four witnesses provided their evidence by
+
+3
+
+affidavit, which were accepted by the Panel pursuant to Rule 61 of the University
+Tribunal’s Rules of Practice and Procedure. Professor Quinlan and Mr. Hyman
+also provided additional evidence through testimony at the hearing. All four of the
+witnesses were then available for cross-examination by the Student and for any
+questions from the Panel. The Student testified on her own behalf.
+After careful deliberation, and having considered all the evidence, the Panel found
+that on the balance of probabilities the evidence is sufficiently clear, cogent and
+convincing to discharge the burden of proof on the University and found that the
+Student had committed academic misconduct.
+The Evidence
+The contents of the affidavits (without Exhibits) of the four witnesses are set out
+below along with any relevant evidence from their examinations in chief, crossexaminations and any questions from the Panel. A summary of the most relevant
+evidence of the Student is also set out below.
+a) Evidence of Professor Quinlan
+Professor Quinlan’s affidavit provides as follows:
+1.
+
+I am an Assistant Professor, Teaching Stream, in the Department of Chemistry at
+the University of Toronto (the “University”). As such, I have knowledge of the
+matters contained in this affidavit. Where I do not have direct knowledge of a
+matter, I state the source of my information and I believe it to be true.
+
+The Course
+2.
+
+In Fall 2020, I was the course coordinator for CHM135H (Chemistry: Physical
+Principles) (the “Course”). The other instructors for the Course were S. Browning,
+G. Walker, M. W. B. Wilson, J. De Backere, R. Jockusch, and G. Harewood. I have
+attached a copy of the course outline for the Course to my affidavit as Exhibit “A”.
+
+4
+
+3.
+
+The Course is a first-year course, designed to provide a foundation in physical
+chemistry for students who intend to follow a science program, primarily in the Life
+or Health Sciences.
+
+4.
+
+S
+
+E
+
+C
+
+(
+
+) was a student in the Course.
+
+5.
+
+Due to the covid19 pandemic, the Course was administered online.
+
+6.
+
+Students in the Course were evaluated on the basis of online homework (worth
+5%), a practical (worth 30%) and four tests (worth a combined 65%). The highest
+of the four test scores was weighted at 20%, with the remaining three tests
+weighted at 15% each.
+
+7.
+
+Early in the Course, students were warned about academic integrity. The course
+syllabus provides the following with respect to academic integrity:
+ACADEMIC INTEGRITY
+Academic integrity is essential to the pursuit of learning and scholarship in a
+university, and to ensuring that a degree from the University of Toronto is a
+strong signal of each student’s individual academic achievement. As a result,
+the University treats cases of cheating and plagiarism very seriously. The
+University of Toronto’s Code of Behaviour on Academic Matters
+(https://governingcouncil.utoronto.ca/secretariat/policies/code-behaviouracademic-mattersjuly-1-2019) outlines the behaviours that constitute
+academic dishonesty and the processes for addressing academic offences.
+Potential offences include, but are not limited to:
+In practical work:
+1. Using someone
+acknowledgement.
+
+else’s
+
+ideas
+
+or
+
+words
+
+without
+
+appropriate
+
+2. Submitting your own work in more than one course without the
+permission of the instructor.
+3. Making up sources or facts.
+4. Obtaining or providing unauthorized assistance on any assignment.
+On tests:
+1. Using or possessing unauthorized aids.
+2. Looking at someone else’s answers or collaborating or discussing
+answers during an exam or a test.
+
+5
+
+3. Misrepresenting your identity.
+In academic work:
+1. Falsifying institutional documents or grades.
+2. Falsifying or altering any documentation required by the University.
+3. Sharing solutions to the online homework
+[Emphasis added]
+
+Test 2
+8.
+
+The second test in the Course (“Test 2”) was administered online on November 3,
+2020 from 7:00 to 8:05 p.m. EST (the “Test Period”). The test instructions provided
+that Test 2 would take place from 7:00 to 8:00 p.m. To accommodate students who
+may have faced technical issues in initially accessing Test 2 (e.g. a lag), we
+accepted any tests that students submitted by 8:05 p.m. However, students only
+had a total of 60 minutes to complete Test 2 within the Test Period. The test was
+administered through Quercus, the University’s online teaching and learning
+platform. Test 2 consisted of 18 multiple-choice questions. Students were able to
+view all of the questions at the same time and work on them in any order. Students
+could change their answers until they clicked the “Submit Quiz” button. I have
+attached a blank copy of Test 2 to my affidavit as Exhibit “B”.
+
+9.
+
+Test 2 was open book, but the Course instructors and I made clear to the students
+that they were not permitted to collaborate with one another during the test. In
+advance of Test 2, the Course instructors provided students with two information
+sheets about Test 2 on Quercus. The first information sheet discussed what
+students were and were not permitted to consult during Test 2:
+You are allowed to have your textbook and notes available. However, we do
+not recommend relying on 'looking things up' during the test because this will
+take up valuable time. Your preparation for the test should be the same as if
+you were taking a closed book test. Since all of the tests are cumulative,
+ensuring you have a solid foundation now will make preparation for future tests
+easier/more manageable.
+
+I have attached a copy of the first information sheet, which was provided to students in
+the Course on October 19, 2020, to my affidavit as Exhibit “C”.
+
+6
+
+10.
+
+The second information sheet clearly stated that students must complete Test 2
+independently:
+At the beginning of the test, you will be asked to confirm that you are adhering
+to the University of Toronto Code of Behaviour on Academic Matters. This
+acknowledgement ensures that you will be on your way to completing CHM
+135H and your university degree in a fair manner, by completing the work
+independently. If you do not select “I confirm”, your test will not be graded.
+[Emphasis in original]
+
+I have attached a copy of the second information sheet, which was provided to students
+in the Course on October 30, 2020, to my affidavit as Exhibit “D”.
+11.
+
+Ms. C
+
+submitted her Test 2 on November 3, 2020. I have attached a copy of
+
+the answers that Ms. C
+12.
+
+submitted to my affidavit as Exhibit “E”.
+
+Test 2 required students to confirm the following academic integrity statement:
+In writing and submitting this test, I confirm that my conduct during it
+will adhere to the University of Toronto Code on Behaviour on
+Academic Matters. I confirm that I will NOT act in such a way that would
+constitute cheating, misrepresentation, or unfairness, including but not
+limited to: using unauthorized assistance, impersonating another
+individual, and committing plagiarism. [Emphasis added]
+
+13.
+
+Ms. C
+
+submitted the answer “I confirm” with respect to the academic integrity
+
+statement on her Test 2.
+14.
+
+Ms. C
+
+correctly answered 11/18 questions on Test 2, and received a grade
+
+of 71.1% on Test 2.
+Investigation into the Alleged Academic Misconduct
+15.
+
+The Course instructors and I found that several questions from Test 2 had been
+posted to Chegg.com during the Test Period.
+
+16.
+
+Chegg.com is a subscription based website that allows students to post problems
+to the site, which are then answered by so-called “experts”. Subscribers are also
+able to access the questions and answers posted by others on the site. A copy of
+the chegg.com/study webpage is attached to my affidavit as Exhibit “F”. The
+webpage advertises that a “Chegg Study” subscription costs $14.95/month and
+
+7
+
+will allow subscribers to “take a photo of your question and get an answer in as
+little as 30 mins” from an “expert”.
+17.
+
+Students received different versions of the test. Each version contained the same
+18 multiple choice questions; however, the order of the questions was randomly
+shuffled so the order of the questions was different for each student.
+
+18.
+
+The following question is one of the questions that had been posted to Chegg.com
+during the Test Period (the “Chegg Question”) (Question 13 on the blank copy of
+Test 2 at Exhibit "B” and Question 10 on Ms. C
+
+’s Test 2 at Exhibit “E”):
+
+The formation of SO3 is a step in the manufacture of sulfuric acid:
+2SO2(g) + O2(g) ⇌ 2SO3(g)
+In one experiment, 2.00 atm of S02 and 2.00 atm of O2 were put in an
+evacuated flask. At equilibrium, the total pressure of the system was 3.63 atm.
+What is equilibrium constant. Kp, for the reaction?
+
+19.
+
+As part of our investigation into the alleged academic misconduct, the Faculty of
+Arts and Science obtained data from Chegg.com that showed:
+(a)
+
+The Chegg Question (identified by Chegg.com as Question ID 60265410)
+was posted by a subscriber with the email address s15465512@gmail.com
+at 7:14 p.m. EST (4:14 p.m. PST);
+
+(b)
+
+The Chegg Question was answered at 7:58 p.m. EST (4:58 p.m. PST); and
+
+(c)
+
+a subscriber from the University of Toronto with an email address
+c
+
+s
+
+@gmail.com viewed the Chegg Question from the Internet
+
+Protocol address 172.97.186.97 eight times on November 3, 2020 from
+7:32 p.m. to 7:59 p.m. EST (4:32 p.m. to 4:59 p.m. PST):1
+
+1
+
+I understand from the Faculty of Arts and Science that Chegg.com provides times in the PST time zone.
+
+8
+
+I have attached a copy of the data that the Course instructors received from Chegg.com
+to my affidavit as Exhibit “G”, and a copy of the answer to the Chegg Question that had
+been posted to Chegg.com to my affidavit as Exhibit “H”.
+20.
+
+There was only one student in the Course with the name S
+E
+
+21.
+
+C
+
+(
+
+C
+
+—S
+
+).
+
+The answer that Ms. C
+
+submitted to the Chegg Question (0.212)
+
+corresponded to the Chegg.com answer, which was correct.
+Student Meeting
+22.
+
+On November 10, 2020, I emailed Ms. C
+
+requesting a meeting to discuss
+
+suspected academic misconduct on Test 2. I stated that I had received some
+information from Chegg and had concerns about the potential use of an
+unauthorized aid during Test 2. Later that day, Ms. C
+
+replied:
+
+Hello professor,
+I’m confused about the information? I do have a Chegg account that I use, but
+only for homework or if I am doing a tutoring session, or things along those
+lines (like trying to do practice problems). Am I not allowed to use it?
+[…]
+
+23.
+
+I replied to Ms. C
+
+that we would discuss this issue at the meeting. I have
+
+attached a copy of these emails to my affidavit as Exhibit “I”.
+24.
+
+On November 13, 2020, I met with Ms. C
+
+over Zoom to discuss the matter.
+
+The matter was subsequently forwarded to Student Academic Integrity at the
+University.
+25.
+
+I make this affidavit in connection with the charges that were filed against Ms.
+C
+
+by the University under its Code of Behaviour on Academic Matters and
+
+for no other purpose.
+
+In addition to her affidavit, Professor Quinlan further testified that:
+(a)
+
+She started with the University of Toronto in 2014. With respect to the
+Course, she was the co-ordinator for the Fall 2020 session. The Course had
+
+9
+
+a teaching team of six instructors and she was one of them along with being
+the Course co-ordinator who oversaw the Course and was the point of
+contact for students. She had taught the Course more than ten times before.
+In the Fall of 2020, the Course had approximately 1850 students. Before
+the issues in dispute in this matter, she did not personally know the Student.
+(b)
+
+In the Fall of 2020, the Course was an online course run on the University’s
+Quercus online teaching and learning platform.
+
+(c)
+
+Through Quercus, they set up the Course and it is published there for the
+students who are told when the test will be available. The students are
+permitted to go in approximately 60 minutes before the test begins. Once
+the test was available online, they were able to answer the questions in any
+order and to go back and correct them if they wished. However, once they
+had submitted it, it could not be changed. The test was not proctored.
+
+(d)
+
+Students were told that it was an open book test, but the first question they
+have to answer is the academic integrity question whereby they confirm that
+they are not using any unauthorized assistance for the test.
+
+(e)
+
+Chegg.com is a paid service whereby subscribers can upload questions to
+it and quickly receive answers to those questions.
+
+(f)
+
+She was notified by a student that there were a number of questions from
+the test on Chegg.com and so she googled it to see if this was the case. As
+she is not a subscriber, she was only able to see what the questions were
+there, but not the answers which had been provided. She also noted the
+email addresses of individuals who had accessed Chegg.com with respect
+to the questions and she forwarded those to the Vice-Dean.
+
+(g)
+
+A letter was subsequently sent to Chegg.com asking them to remove the
+questions and answers for the test from their platform and asking for
+information on the people who had posted the questions and who had
+
+10
+
+sought the answers. Chegg.com was not given the names or emails of the
+suspected students nor their IP addresses.
+(h)
+
+Subsequently, Chegg.com sent back a list of anyone who had asked
+questions with respect to the test or had viewed the answers. As a result,
+they obtained the email addresses and the IP addresses for those
+individuals.
+
+(i)
+
+They then looked for emails that appeared to be related to students who
+were in the Course. This was particularly evident for those who had used
+their University of Toronto email addresses. They also looked to see if the
+name of the email addresses closely matched the names of any of the
+students registered in the class and if so, they followed up with those
+students.
+
+Professor Quinlan was then cross-examined by the Student and testified that:
+(a)
+
+She asked to meet the Student with respect to Chegg.com and the Course.
+The point of the meeting with the Student was to ask her what happened.
+In response to the Student’s questions as to why her email was vague with
+respect to the offence, Professor Quinlan indicated that the email was sent
+just to set up the meeting and that it was at the meeting where the
+information would be exchanged with respect to Chegg.com and the Course
+and that this was the usual practice. She would not be prepared to engage
+with students about this online.
+
+(b)
+
+Since the test comprised 10% or more of the mark for the Course, the issue
+would have to be referred to Professor Cowper regardless of the outcome
+of their conversation at their meeting as that was the procedure and there
+was no choice but to forward the issue to Professor Cowper. The meeting
+with the Student is what the University’s procedures require. Professor
+Quinlan’s first email also referenced the date and the resources available
+to the Student. She was not trying to say that it was not an offence just that
+
+11
+
+it was not her role to decide that as she has no power to decide the matter
+one way or the other.
+Professor Quinlan was re-examined and testified that:
+(a)
+
+When asked what happens if the Student provides a satisfactory
+explanation at the meeting, Professor Quinlan indicated that in her
+experience this has never happened, and she was not aware of a case
+where it had not been referred on.
+
+The Panel did not have any questions for Professor Quinlan.
+b) Evidence of Professor Cowper
+Professor Cowper’s affidavit provides as follows:
+1.
+
+I am a Professor Emeritus in the Department of Linguistics at the University of
+Toronto (the “University”) and am a Dean’s Designate for Academic Integrity with
+Student Academic Integrity (“SAI”), Faculty of Arts and Science, at the University.
+As such, I have personal knowledge of the matters set out in this affidavit. Where
+I do not have personal knowledge of a matter, I state the source of my information
+and I believe it to be true.
+
+The Alleged Academic Misconduct
+2.
+
+SAI is the office at the Faculty of Arts and Science that is responsible for
+investigating allegations of academic misconduct and arranging for students who
+are facing such allegations to meet with the Dean or Dean’s Designate in
+accordance with the process set out in the Code of Behaviour on Academic
+Matters (the “Code”).
+
+3.
+
+In November 2020, SAI received allegations from Professor Kristine Quinlan that
+a number of students had committed academic misconduct on the second test
+(“Test 2”) in CHM135H (Chemistry: Physical Principles) (the “Course”), which was
+held online on November 3, 2020 from 7:00 p.m. to 8:00 p.m. ET (the “Test
+Period”). S
+
+E
+
+C
+
+was one of those students. In particular, Ms.
+
+12
+
+C
+
+was alleged to have committed plagiarism or to have obtained
+
+unauthorized assistance on Test 2 from Chegg.com.
+4.
+
+Chegg.com is a subscription-based website that allows students to post problems
+to the site, which are then answered by so-called “experts”. Subscribers are also
+able to access the questions and answers posted by others on the site. A copy of
+the chegg.com/study webpage is attached to my affidavit as Exhibit “A”. The
+webpage advertises that a “Chegg Study” subscription costs $14.95/month and
+will allow subscribers to “take a photo of your question and get an answer in as
+little as 30 mins” from an “expert”.
+
+Meeting with Dean’s Designate
+5.
+
+On April 5, 2021, SAI sent Ms. C
+
+an invitation to meet with me on Monday,
+
+April 12 at 11:30AM to discuss the alleged academic misconduct. A copy of the
+email is attached to my affidavit as Exhibit “B”.
+6.
+
+On May 10, 2021, I met with Ms. C
+
+via videoconference (Zoom) to discuss
+
+the allegation of academic misconduct on Test 2 in the Course. Laurie O’Handley,
+an Academic Integrity Specialist with SAI, also attended the meeting and took
+notes. At the outset of the meeting, I gave Ms. C
+
+the caution that I am
+
+required to provide to her under the Code.
+7.
+
+During the meeting, I explained to Ms. C
+
+that she was alleged to have
+
+committed an academic offence on Test 2 in the Course. I explained that a
+Chegg.com account associated with the email address c
+
+s
+
+@gmail.com
+
+had accessed a question from Test 2 that had been posted on Chegg.com during
+the Test Period. I also explained that the answer Ms. C
+
+had given on Test 2
+
+corresponded with the answer on Chegg.com.
+8.
+
+Ms. C
+
+denied that the email address c
+
+s
+
+@gmail.com belonged to
+
+her and she denied that she had committed an academic offence.
+9.
+
+I asked Ms. C
+
+whether, if we investigated her Internet Protocol (“IP”) address,
+
+it would match the IP address used to access Chegg.com. Ms. C
+the IP addresses would match.
+
+13
+
+denied that
+
+10.
+
+I asked Ms. C
+
+whether she had a Chegg.com account. Ms. C
+
+stated
+
+that she had a Chegg.com account, but that her account was not associated with
+the email address c
+
+s
+
+@gmail.com, and that she used her Chegg.com
+
+account mainly for homework.
+11.
+
+I have attached a copy of the Discipline Case Report for Ms. C
+
+, which
+
+contains the notes that Ms. O’Handley took during our meeting, to my affidavit as
+Exhibit “C”. To the best of my recollection, the notes that Ms. O’Handley took of
+our meeting accurately reflect what we discussed.
+12.
+
+On May 11, 2021, SAI sent an email to Ms. C
+
+on my behalf advising her that
+
+the matter would be forwarded to the Vice-Provost for review with the
+recommendation that charges be laid. I have attached a copy of this email to my
+affidavit as Exhibit “D”.
+13.
+
+The matter was subsequently forwarded to the Office of the Vice-Provost, Faculty
+and Academic Life.
+
+14.
+
+I make this affidavit in connection with the charges that were filed against Ms.
+C
+
+by the University under its Code of Behaviour on Academic Matters and
+
+for no other purpose.
+
+Professor Cowper was not cross-examined by the Student nor did the Panel have
+any questions for her.
+c) Evidence of Mr. Mackay
+Mr. Mackay’s affidavit provides as follows:
+1.
+
+I am the Manager, Student Success & Academic Advising in the Registrar &
+Academic Advising Office at Victoria College, University of Toronto (the
+“University”). Until March 12, 2021, I was the Director, Faculty Governance,
+Faculty of Arts and Science (the “Faculty”). As such, I have knowledge of the
+matters contained in this affidavit. Where I do not have direct knowledge of a
+matter, I state the source of my information and I believe it to be true.
+
+Student Academic Integrity
+
+14
+
+2.
+
+From February 22, 2016 to March 12, 2021, I served as the Director, Faculty
+Governance, at the Faculty. In that capacity, I oversaw the Student Academic
+Integrity (“SAI”) team in the Faculty.
+
+3.
+
+SAI is the office at the Faculty of Arts and Science that is responsible for
+investigating allegations of academic misconduct and arranging for students who
+are facing such allegations to meet with the Dean or Dean’s Designate in
+accordance with the process set out in the Code of Behaviour on Academic
+Matters (the “Code”).
+
+4.
+
+Chegg.com is a subscription-based website that allows students to post problems
+to the site, which are then answered by so-called “experts”. Subscribers are also
+able to access the questions and answers posted by others on the site. Chegg.com
+has an “Honor Code”, in which it states that its services are not intended to be
+used for any sort of cheating or fraud. Chegg.com permits instructors to request
+an “honor code investigation” for alleged violations of its “code”. I have attached a
+copy of the Chegg.com “Honor Code Policy” to my affidavit as Exhibit “A”.
+
+5.
+
+The second test (“Test 2”) in CHM135H (Chemistry: Physical Principles Fall 2020)
+(the “Course”) was administered online during the test window of 7:00 p.m. to 8:00
+p.m (ET on November 3, 2020 the “Test Period”). SAI received notice from
+Professor Kristine Quinlan that a number of questions from Test 2 had been posted
+on Chegg.com during the Test Period. As a result, on November 5, 2020, Randy
+Boyagoda, Vice-Dean, Undergraduate at the Faculty of Arts & Science, submitted
+a request to Chegg.com for an investigation by the Chegg.com Honor Code Team.
+I have attached a copy of Professor Boyagoda’s email and attached letter, on
+which I was copied, to my affidavit as Exhibit “B”. Professor Boyagoda’s letter
+included a list of URLs to the Chegg.com answers for Test 2.
+
+6.
+
+Professor Boyagoda’s email and letter at Exhibit “B” comprises the only information
+that the University provided to Chegg.com in connection with its investigation into
+the questions that were posted on Chegg.com from Test 2 in the Course. In
+particular, the University did not provide Chegg.com with the names of any of the
+students in the Course or any Internet Protocol (“IP”) addresses.
+
+15
+
+7.
+
+On November 6, 2020, the Chegg.com Honor Code Team sent Professor
+Boyagoda a response, attaching an Excel spreadsheet which provided details of
+the “askers” and “viewers” of the questions that had been identified. The
+Chegg.com Honor Code Team noted that all dates and times provided are in PST.
+The Chegg.com Honor Code Team also confirmed that they had since taken down
+the content from their website. I have attached a copy of the cover email from the
+Chegg.com Honor Code Team, on which I was copied, to my affidavit as Exhibit
+“C”.
+
+8.
+
+The Excel spreadsheet that the Chegg.com Honor Code Team provided identified
+a user with the email address s15465512@gmail.com as an “asker” of a question
+on Test 2 (Question ID 60265410). The Excel spreadsheet also indicated that a
+“viewer” from the University with an email address c
+
+s
+
+@gmail.com
+
+accessed the answer to that question on Test 2 from the IP address
+eight times on November 3, 2020 from 7:32 p.m. to 7:59 p.m. ET (4:32 p.m. to 4:59
+p.m. PST). I have attached a copy of the “asker” and “viewer” data that Chegg.com
+provided for the question in which c
+
+s
+
+@gmail.com was identified as a
+
+“viewer” to my affidavit as Exhibit “D”.
+9.
+
+I make this affidavit in connection with the charges that were filed against Ms.
+C
+
+by the University under its Code of Behaviour on Academic Matters and
+
+for no other purpose.
+
+Mr. Mackay was not cross-examined by the Student nor did the Panel have any
+questions for him.
+d) Evidence of Mr. Hyman
+Mr. Hyman’s affidavit provides as follows:
+1.
+
+I am the Director of Academic & Collaborative Technologies (“ACT”) in Information
+Technology Services (“ITS”) at the University of Toronto (the “University”). As
+such, I have knowledge of the matters contained in this affidavit. Where I do not
+have direct knowledge of a matter, I state the source of my information and I
+believe it to be true.
+
+16
+
+Quercus
+2.
+
+As Director of ACT, I oversee a team that is responsible for supporting the Quercus
+platform.
+
+3.
+
+Quercus is the University’s main online teaching and learning platform. Quercus is
+a web-based platform in which students can access course content, submit
+assessments, take tests, and interact with their instructor and other learners using
+a range of tools. For example, Quercus has a quiz tool that instructors can use to
+administer automated online tests.
+
+4.
+
+Quercus generates different logs of activity. Quercus only retains the logs for
+specific quiz tool questions (“Quiz Logs”) for 6 months. Quiz Logs show when a
+user_id answered a particular question on a quiz.
+
+5.
+
+Quercus retains other logs, such as Quercus Application Page View reports (“Page
+View Reports”), for longer than 6 months. Page View Reports show when a user_id
+accessed certain sections of a course, such as when a user_id accessed a quiz
+tool. However, Page View Reports do not show when a user answered a particular
+question on the quiz.
+
+The Student’s Page View Report
+6.
+
+On July 16, 2021, at the request of Assistant Discipline Counsel to the University
+(acting on behalf of the Office of the Vice-Provost, Faculty and Academic Life),
+ACT retrieved information related to the activities of Quercus user_id
+
+with
+
+respect to the second test (“Test 2”) in CHM135H (Chemistry: Physical Principles
+Fall 2020) (the “Course”).
+7.
+
+At the time of the request, Quiz Logs for Test 2 were no longer available because
+over 6 months had passed since Test 2 had been administered on November 3,
+2020. However, Page View Reports for the date on which Test 2 was administered
+were still available. ACT obtained a copy of a Page View Report that details the
+Quercus activity on November 3, 2020 for the Student’s User ID. A copy of the
+user_id
+
+Page View Report is attached to my affidavit as Exhibit “A”.
+
+17
+
+8.
+
+Page View Reports use alphanumeric codes to refer to certain types of information,
+such as users, courses, and quizzes. The user_id
+
+Page View Report at
+
+Exhibit “A” uses the following alphanumeric codes:
+(a)
+
+User_id
+address: s
+
+(b)
+
+is assigned to UTORid: c
+.c
+
+and UTMail
+
+@mail.utoronto.ca;
+
+Course 181249 refers to CHM135H1 F LEC5101 20209:Chemistry:
+Physical Principles Fall 2020 (i.e. the “Course”); and
+
+(c)
+
+Quiz 123353 refers to “Test #2 – Regular Sitting (Tuesday, Nov. 3)”
+in Course 181249 (i.e. “Test 2”).
+
+9.
+
+Page View Reports also show the Internet Protocol address (“IP address”) that is
+associated with a user’s Quercus activity.
+
+10.
+
+An IP address is a unique address that identifies a device on the internet or a local
+network. IP stands for “Internet Protocol”, which is the set of rules governing the
+format of data sent via the internet or local network. IP addresses are the identifier
+that allows information to be sent between devices on a network: they contain
+location information and make devices accessible for communication. The internet
+needs a way to differentiate between different computers, routers, and websites.
+IP addresses provide a way of doing so and form an essential part of how the
+internet works. Specifically, a device indirectly connects to the internet by
+connecting at first to a network connected to the internet, which then grants the
+device access to the internet. The IP address is assigned to a device by a Internet
+Service Provider. Absent very exceptional circumstances, no two devices would
+have some the same IP address at a given time.
+
+11.
+
+The Student’s Page View Report shows that user_id
+exclusively to UTORid c
+
+, which is assigned
+
+, accessed various sections of the Course,
+
+including the quiz tool for Test 2, at various time stamps between 18:52 and 20:00
+on November 3, 2020, from a Macintosh computer assigned the IP address
+
+18
+
+The time stamps are local Toronto time. These page views are
+highlighted yellow in the user_id
+12.
+
+Page View Report at Exhibit “A”.1
+
+I make this affidavit in connection with a University Code of Behaviour on
+Academic Matters hearing at the request of the Assistant Discipline Counsel to the
+University and for no other purpose.
+
+Mr. Hyman also testified that:
+(a)
+
+Mr. Hyman clarified paragraph 10 of his affidavit and indicated that there
+are two types of IP addresses, a public one and a private one. Normally a
+private IP address is assigned for a particular device, but that when you are
+using a device on a public router, for example a home internet system, it
+might show the same public IP address for more than one device at that
+location. In that regard, absent exceptional circumstances, every private IP
+address is unique, but two users on a common router could have the same
+public IP address as for example Bell or Rogers may, through their routers,
+assign an IP address to more than one device so it is possible for more than
+one device on a router to have the same public IP addresses.
+
+Mr. Hyman was then cross-examined by the Student and testified that:
+(a)
+
+The Student asked Mr. Hyman whether in a house where there were 15
+people using one router could one IP address be assigned to more than
+one device. Mr. Hyman testified that he had no way to assess the likelihood
+of that happening.
+
+Mr. Hyman was not re-examined, but was questioned by the Panel as to whether
+it was possible for there to be the same public IP address for each device or
+whether each would have its own unique address. Mr. Hyman indicated that it each
+
+1
+
+The Page View Report also indicates that user_id
+, which belongs to UTORid c
+on Quercus, including for different courses at earlier times on November 3, 2020 as well.
+
+19
+
+, accessed other pages
+
+device would have its own private IP address, but it is possible that several devices
+sharing a common router could have the same public IP address.
+This concluded the University’s evidence.
+e) Evidence of the Student
+The Student made a brief opening statement and indicated that the IP address
+shown in the documents was not hers as it says it was from a Macintosh and she
+did not own one at the time of the test. Further, she indicated that the gmail address
+being used to access the answers was not her email although she understands it
+used her name, but it was simply not her email address. At the time of the test she
+lived in shared housing in a large home which had a communal internet. She did
+not know how many other people lived there at the time. Further, at the time of her
+meeting and discussions with Professor Quinlan she was not told the offence that
+she was alleged to have committed nor the sanctions that she could face. She
+answered the one question that was being targeted correctly and stated that the
+University was assuming that she could not have come up with the answer on her
+own.
+The Student then testified on her own behalf as follows:
+(a)
+
+The Student testified that the IP address for her on Quercus when she wrote
+the test is shown as having been from a Macintosh computer, but she did
+not own one at the time. Further the email address shown as the one being
+used to access the answers was also not hers and that email addresses
+can be created by anyone.
+
+(b)
+
+She lived in a communal house with an unsecured network. It was a fivestory house. Given the evidence on how IP addresses work it could have
+been anyone in that house.
+
+(c)
+
+She was not informed of the nature of the alleged offence when she was
+sent an email from Professor Quinlan.
+
+20
+
+(d)
+
+The answer in issue from the test was answered correctly and everyone is
+assuming that she could not have answered it on her own given that it was
+an open book test. Finally, the email address used was not hers and she
+did not access the answer on Chegg.com.
+
+In cross-examination the Student testified that:
+(a)
+
+The Student confirmed that paragraph 8 of Mr. Hyman’s affidavit (Page 123
+of the Book of Documents), accurately set out her University of Toronto
+User ID and email address. The Student also confirmed that on November
+3, 2020 at 7:00 p.m. she wrote Test 2 for the Course while logged in through
+the Quercus software platform and that she signed into it using her
+University of Toronto ID and password and that no one else had access to
+that password.
+
+(b)
+
+The Student confirmed that between 7:00 p.m. and 8:00 p.m. that day she
+was in front of her computer writing the test and she was not aware of
+anyone else using her University of Toronto ID during the test.
+
+(c)
+
+She confirmed that Chegg.com is a subscription service and that she is a
+subscriber and pays a monthly fee, and that she gave an email address to
+Chegg.com to be on it. She did not use the c
+
+s
+
+@gmail.com
+
+address for Chegg.com, however, she confirmed that she has not advised
+of the email address that she does use for Chegg.com. The Student
+confirmed that the Quercus information at Page 127 of the Book of
+Documents shows that someone used her User ID to view the quiz page
+just before 7:00 p.m. and again at 8:00 p.m. viewed the quiz page as well.
+(d)
+
+The Student confirmed that she has no evidence that Quercus was in any
+way tampered with.
+
+(e)
+
+The Student indicated that she wrote the test from home, which was shared
+housing at
+
+Toronto and that she lived there for two
+
+years between August 2019 and September 2021. She now lives near
+
+21
+
+, but at the time of the hearing was visiting with family
+at home.
+(f)
+
+In the house she lived in at the time of the test there were 15 other people,
+but she could not recall any of their names. She only had access to the
+second and the third floor of the building. There were six bedrooms in that
+unit and each resident had their own bedroom, but they shared common
+spaces such as the bathroom and other common areas. She knew a few of
+the other residents by their first names.
+
+(g)
+
+The Student also indicated that she only knew the first name of a few of
+them and only the last name of one of them.
+
+(h)
+
+The residents had a group chat among the girls who were the residents on
+the second and third floor unit, but she no longer has access to that group
+chat.
+
+(i)
+
+The Student confirmed that they had to share their contact information with
+others in the house. The Student also indicated that if there was an issue
+with the router it was on the first floor and she did not have access to it.
+
+(j)
+
+There were six people in a group chat at any given time, but some would
+come and go depending on whether they moved in or out of the building.
+This included a 46 year-old person who was not a student. Half the
+residents were students.
+
+(k)
+
+It is possible that she may have known this person’s first and last name from
+the group chat. It was her understanding that about half of them were
+University of Toronto students, however, she did not know if any of them
+were also students in the same course.
+
+(l)
+
+The other residents would not know who she was and she did not talk to
+anyone about issues.
+
+22
+
+(m)
+
+She met with Professor Cowper by Zoom, but did not tell Professor Cowper
+about living in shared housing or there being 15 other people who might
+potentially have the same IP address.
+
+(n)
+
+She never saw the entirety of the house and was not sure who lived there
+and how many of them there were. The only way she could have known
+who the other residents were was from the postings by the landlord for the
+group chat. They had a group chat for the whole house and as well a
+separate chat for the second and third floor unit. She was removed from
+those group chats when she moved out in September 2021. She deleted
+the group chat from her phone.
+
+(o)
+
+The Student confirmed that she received the University’s charges and
+disclosure and that included the Quercus report and that she knew that
+there was a link being alleged between the IP address used for the test and
+the one used for access to Chegg.com.
+
+(p)
+
+The Student confirmed that she deleted the list of addresses from the group
+chat.
+
+(q)
+
+Anyone who was in the building at the time of the test has since moved out
+except for one person who moved to the first-floor unit from her unit. She
+did not save their names or their phone numbers once they were removed
+from the group chat. Any conversations with them had been deleted and
+that was done one month afterwards.
+
+(r)
+
+She has not contacted the landlord to get the contact information for the
+previous tenants.
+
+(s)
+
+She only became aware of the email address in issue in her April 2021
+meeting with Professor Cowper, but by then everyone had moved out
+except for the one who had moved to the first floor of the building. She is
+not aware if that person was in the same course as her nor was she aware
+
+23
+
+of anyone else in the building taking that course or that they were aware
+that she was taking it.
+(t)
+
+The Student denied owning a Macintosh.
+
+(u)
+
+The Student also indicated that she was not aware that she had to admit to
+the allegations in order to get a specific sanction. Her understanding was
+unless she admitted to the matter it had to go to a hearing, but did not ask
+what the sanction would be if she did admit to it. In that regard, she did not
+do anything to find that out.
+
+(v)
+
+However, she was provided with, and did understand, the guidelines which
+the University has if a student admits to an allegation.
+
+In re-examination, the Student testified that the shared house she lived in at the
+time was owned by “Henry” and he tried to have as many units in it as possible.
+The residents included small families, students and a 46 year-old woman. There
+was no consistency, and she did not know the leases or how it was shared. She
+only knew the residents through WhatsApp and it was unknown to her who was
+present. She only knew some first names and had no relationship with them
+beyond that.
+In response to questions from the Panel, the Student confirmed that she did not
+contact Chegg.com herself once she was aware of these issues and the laptop
+she used for the test was a PC which she no longer has.
+This concluded the evidence for the Student.
+The University did not call any reply evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that the Chegg.com data shows that a
+subscriber with the email address c
+
+24
+
+s
+
+@gmail.com accessed the test
+
+information eight times during the time the test was being written. In that regard,
+the Student was the only S
+
+C
+
+taking the test.
+
+Mr. Hyman’s evidence made it clear that the same IP address used to write the
+test was the same as the one used for the Chegg.com access.
+At 7:58 p.m. the question in issue from the test was answered on Chegg.com. The
+evidence demonstrates that between 7:32 p.m. and 7:59 p.m. that day the
+subscriber using the email address c
+
+s
+
+@gmail.com checked a number
+
+of times, but there was not an answer. Following an answer being posted at 7:58
+p.m., the subscriber accessed the answer on Chegg.com again at 7:59 p.m.
+The Student’s only possible explanation for this is that somehow given that there
+were 15 other people in her house it was possible for the external IP address to be
+the same as someone else’s who would have accessed Chegg.com eight times to
+look for the answer to that one question from the test during the test. In the
+submission of Assistant Discipline Counsel that was simply unbelievable as the
+Panel would have to accept that someone who lived in the same house as the
+Student, was in the same course, was also a subscriber of Chegg.com and looked
+up the question during the test eight times.
+To the contrary, and the much more likely explanation was that it was the Student
+who did this and she has not provided any evidence to support her position nor
+has she provided the names of anyone else living with her at the time and has
+instead deleted all of her contact information for them. She has not taken any steps
+to identify who might have done this despite having known of the concerns of
+serious misconduct for a significant period of time yet despite this she has not tried
+to contact anyone, nor has she provided the University with other potential names
+of people who might have done this.
+On the Student’s own evidence, she has no idea if anyone else in the house was
+also in that course and used her first and last name to access the answer on
+Chegg.com. On the balance of probabilities, Assistant Discipline Counsel
+
+25
+
+submitted that it was clear that the Student was the one who accessed Chegg.com
+to get the answer during the test.
+Assistant Discipline Counsel also indicated that based on the University’s Code, if
+an instructor forms the opinion that the student has satisfied him or her that the
+conduct was not committed, they can dismiss it.
+Assistant Discipline Counsel submitted that the Quercus system and data were
+reliable and that the Student’s use of Chegg.com was use of an unauthorized aid
+establishing that she committed the charges in question.
+The Student’s Submissions
+The Student submitted that there was uncertainty in the evidence and that the
+evidence showed that it was possible for there to be an identical IP address for
+more than one device on a public network.
+The Student also submitted that deciding the case on the balance of probabilities
+was unfair and that there was no physical evidence and that the evidence was
+impossible for her to provide.
+The Student also submitted that the length of time this has gone on has had an
+effect on her mental health and that the University of Toronto has a poor track
+record with respect to student well-being. The Student also submitted that there
+were attempts to bully her into admitting the allegations and that she did not have
+the money to pay for legal representation.
+University’s Reply
+Assistant Discipline Counsel reminded the Panel that the standard of proof is that
+a balance of probabilities which is more likely than not or 50% plus 1.
+Standard of Proof
+
+26
+
+The onus is on the University to establish, based upon clear and convincing
+evidence on a balance of probabilities, that the academic offences charged have
+been committed.
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University and the
+Student, the Student was found guilty of one count of knowingly using or
+possessing an unauthorized aid or obtaining unauthorized assistance in
+connection with Test 2 in CHM135H1 contrary to section B.I.1.(b) of the Code as
+alleged in Charge 1 filed by the Provost on June 7, 2021.
+Given this finding, the University withdrew allegations two and three.
+Reasons for Decision
+The core issue in this hearing was whether the University had discharged its onus
+of establishing on the balance of probabilities based upon clear and convincing
+evidence, that the Student accessed the answer to the question from the test on
+Chegg.com as if she did, she clearly knowingly used an unauthorized aid or
+obtained unauthorized assistance for the test. Having considered the evidence
+and the parties submissions, the Panel was satisfied that the University had
+discharged its onus.
+In this regard, the evidence in this case clearly established that between 7:32 p.m.
+and 7:59 p.m. on November 3, 2020, while the Student was taking the test on
+Quercus, a Chegg.com subscriber from the University of Toronto with an e-mail
+address c
+
+s
+
+@gmail.com viewed the question on Chegg.com eight times
+
+from the IP address
+
+.
+
+Although the Student denied accessing the answer to the question on Chegg.com
+and denied that the email address c
+
+s
+
+@gmail.com was hers or that she
+
+had a Macintosh computer, the Panel was satisfied that the Student’s evidence in
+this regard was not credible.
+
+27
+
+The Student was the only student in the course with the name S
+
+C
+
+and
+
+the answer which she submitted for the question, corresponded to the Chegg.com
+answer, which was correct. Further, the question was answered on Chegg.com at
+7:58 p.m., a subscriber with the email address c
+
+s
+
+@gmail.com
+
+accessed it at 7:59 p.m. and the Student completed the test at 8:00 p.m.
+The Student’s User ID assigned to her by University Toronto’s system was
+and her University Toronto email address is s
+
+.c
+
+@mail.utoronto.ca. The
+
+Student confirmed that she had not provided her password to anyone else. The
+Student’s Page View Report showed that the Student’s User ID of
+
+which
+
+was assigned exclusively to her accessed various sections of the Course including
+the test on November 3, 2020 up until 8:00 p.m. from a Macintosh computer also
+with assigned IP address
+
+, which is the same IP address as that
+
+which was used at the same time to access the answer to the test on Chegg.com.
+Although the Student denied that she had a Macintosh computer at the time of the
+test, when asked what computer she used for it she stated that she used a PC
+which she no longer kept, this despite knowing that she was under investigation
+with respect to the test.
+Despite denying that the email address c
+
+s
+
+@gmail.com was hers and
+
+that she used that address to access Chegg.com to view the answer to the
+question, at no time did the Student ever advise the University or provide this Panel
+with the email address which as a subscriber she used to access Chegg.com.
+Further, the Student indicated that there were 15 people in the house in which she
+lived at the time she took the test, but despite knowing that she was under
+investigation for an academic offence, took no steps to contact any of those
+individuals to see if they had been in the same course with her or had created a
+gmail address in her name which they used to access Chegg.com, nor did she
+attempt to obtain these individuals names and provide them to the University.
+
+28
+
+As a result, despite the Student’s protestations, the Panel considered it to be highly
+improbable that another University of Toronto student taking the same course as
+the Student and writing the same test, living with her in the same house and using
+the
+
+same
+
+internet,
+
+would
+
+have
+
+created
+
+the
+
+email
+
+address
+
+of
+
+c
+
+s
+
+@gmail.com in her name and use that email address to access the
+
+answer to the test on Chegg.com eight times between 7:32 p.m. and 7:59 p.m.
+when the Student was clearly writing the test, including viewing the answer at 7:59
+p.m. after it was posted at 7:58 p.m., and then for the Student to have then
+completed the test at 8:00 p.m. on November 3, 2020 and for the IP address which
+the Student wrote the test to be identical to the IP address to that which accessed
+Chegg.com to obtain the answer.
+Accordingly, on the balance of probabilities based upon the clear and convincing
+evidence, the Panel was satisfied that the University had established that the
+Student accessed the answer to the test on Chegg.com and then used it to
+complete the test and thereby committed the academic offence as alleged in
+Charge No. 1 as filed by the Provost on June 7, 2021, in that on or about November
+3, 2020, the Student knowingly used or possessed an unauthorized aide or
+obtained unauthorized assistance in connection with Test 2 in CHM135H1 contrary
+to section B.I.1(b) of the Code.
+Sanction
+The University’s Evidence
+The University called no further evidence with respect to sanction, but indicated
+that it might call reply evidence depending on whether the Student provided any
+evidence and what that evidence was.
+The Student’s Evidence
+The Student provided a letter from Dr. Houman Rashidian (“Dr. Rashidian”) dated
+January 20, 2021 which was entered into evidence. She was then crossexamined. In cross-examination, the Student testified that:
+
+29
+
+(a)
+
+She had never provided Dr. Rashidian’s letter to the University and stated
+that when she spoke to the Dean’s Designate she felt it was pointless to do
+so.
+
+(b)
+
+In her April 5, 2021 meeting with Professor Cowper she had this letter at the
+time, but chose not to provide it to her as she did not think it would make a
+difference. In addition, she did not tell Professor Cowper that the matter was
+impacting her mental health or that she was under the care of a doctor.
+
+(c)
+
+The point of her putting it into evidence now was to show how the University
+needed to improve matters and she was not using it for the purpose of
+obtaining a lesser sanction, but rather to demonstrate how these matters
+can have an impact on mental health. However, she also conceded that she
+had not raised this issue before today’s hearing.
+
+(d)
+
+With respect to not being able to access legal assistance, she stated that
+she could not afford it, but did indicate that she had been given information
+with respect to the Downtown Legal Services, the University of Toronto’s
+free Legal Aid Clinic, and had spoken to them, but was told she would only
+get a free 30 minute consult and then would be charged after that. This
+interaction happened about a year ago and she did not pursue it as she
+would be charged for it.
+
+(e)
+
+She conceded receiving the June 8, 2021 letter from Samanthe Huang
+around that date and confirmed that she did see the reference to the
+Downtown Legal Services, but is not sure if she contacted it before or after
+this letter.
+
+(f)
+
+She also confirmed receiving the pamphlet with respect to the Downtown
+Legal Services and confirmed that she was encouraged to retain legal
+counsel.
+
+The Student had no further evidence on sanction and the Panel had no questions
+for her.
+
+30
+
+The University had no reply evidence on sanction.
+The University’s Submissions
+Counsel for the University submitted that the proper sanction to be imposed on the
+Student should be:
+(a)
+
+a final grade of zero in the course CHM135H1 in Fall 2020;
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for
+a period of 3 years, ending on November 11, 2024; and
+
+(c)
+
+a notation of the sanction on her academic record and transcript from the
+date of this order for a period of 4 years, ending on November 11, 2025;
+and
+
+(d)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction
+imposed, with the Student’s name withheld.
+
+Assistant Discipline Counsel provided the Panel with a chart summarizing the
+sanctions which have been given to students by this Tribunal in prior similar cases.
+In that regard, although the usual suspension for a first offence is a two-year
+suspension, the University was instead seeking the three-year suspension for the
+Student.
+Although they are not binding on the Panel, based upon Section 8(e)(iv) of the
+Provost’s Guidelines on sanctions contained in Appendix “C” to the Code, because
+Chegg.com is a commercial website from which information is purchased, the
+University would normally ask that the Student be expelled. However, in this case
+it was submitted that while the use of Chegg.com was an aggravating factor, the
+University was not seeking an expulsion, but was rather seeking a three-year
+suspension instead of a two-year one.
+
+31
+
+At this juncture, the Student advised the Panel that she had decided to leave the
+hearing and proceeded to disconnect from the Zoom video conference. She did
+not rejoin it.
+Assistant Discipline Counsel then reviewed with the Tribunal the principles relative
+to sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/773, November 5, 1976) (“Mr. C.”) and submitted that:
+(a)
+
+The character of the Student:
+The Student had no insight or remorse. By leaving the hearing abruptly she
+demonstrated that she had no insight into her responsibility for her actions
+and has shown disrespect to the process.
+
+Her allegations that the
+
+University bullied her and that the instructors did something wrong or that
+Professor Cowper bullied her, also demonstrates her lack of character.
+Students are given legal resources and it is not credible that they would be
+charged for it. The Student blames everyone for her actions but herself.
+(b)
+
+The January 20, 2021 letter from the doctor does not address the Student’s
+mental state at the time commission of the offence nor did she previously
+provide it to the University or tell Professor Cowper about it. The University
+has not delayed this matter and has brought this hearing on quickly. There
+was no request from the Student to expedite the hearing.
+
+(c)
+
+The likelihood of a repetition of the offence:
+Although this was a first offence, the Student was so adamant in her denial
+and so brazen in her treatment of the process that this Panel should have
+no comfort that she has been deterred from re-offending.
+
+Assistant Discipline Counsel reviewed with the Panel, University of Toronto and
+T.J., (Case No. 1102, November 5, 2021) and University of Toronto and A.K.,
+(Case No. 1181, November 5, 2021) and submitted that both these cases involved
+accessing Chegg.com, but the students admitted their guilt and agreed to an
+
+32
+
+Agreed Statement of Facts and a Joint Submission on Sanction which is not
+present here.
+Assistant Discipline Counsel also reviewed with the Panel the case of University
+of Toronto and J.W., (Case No. 1082, August 23, 2019), and the Tribunal’s finding
+in that case that a review of the Tribunal’s cases demonstrates that there is a
+consensus that purchasing and submitting purchased work is among the most
+serious of offences. In this regard, Assistant Discipline Counsel pointed out that
+the Student had accessed Chegg.com eight times during the test demonstrating
+that the Student went back a number of times looking for the answer. Chegg.com
+is a commercial entity to which the Student was paying $14.95 a month for a
+subscription. Her accessing it and using it is an aggravating factor, but is not
+considered to be as aggravating as would be buying an essay and that is why the
+University was seeking a three-year suspension rather than expulsion.
+The chart which the University had provided summarizing similar decisions of this
+Tribunal and the sanctions which have been imposed in those cases were
+discussed by Assistant Discipline Counsel, who commented that where Students
+have admitted the allegations, they have received lower sanctions. Further, in
+cases such as University of Toronto and D.K., (Case No. 1119, July 21, 2021) and
+University of Toronto and K.Z., (Case No. 1126, September 13, 2021), there was
+no proof in those cases that the Students had a subscription to Chegg.com and so
+it could not be used as an aggravating factor.
+The Student’s Submissions
+As indicated above, the Student advised the Panel that she had decided to leave
+the hearing and not make any submissions on sanction. The Panel encouraged
+the Student to remain and to make submissions on sanction, but despite the
+Panel’s urging her to remain, the Student chose to leave the hearing and did not
+return. After receiving submissions from Assistant Discipline Counsel, the Panel
+chose to proceed in the Student’s absence.
+
+33
+
+Sanction Decision
+After deliberations, the Tribunal ordered that the following sanctions shall be
+imposed on the Student:
+(a)
+
+a final grade of zero in the course CHM135H1 in Fall 2020;
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for
+a period of 3 years, ending on November 11, 2024; and
+
+(c)
+
+a notation of the sanction on her academic record and transcript from the
+date of this order for a period of 4 years, ending on November 11, 2025;
+and
+
+(d)
+
+the Tribunal further orders that this case shall be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction or
+sanctions imposed, with the Student’s name withheld.
+
+An Order was signed at the hearing by the Panel to this effect.
+Reasons for Sanction
+The Tribunal considered the factors and principles relevant to sanction as set out
+by this Tribunal in Mr. C, supra, namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of the repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+
+(d)
+
+Any extenuating circumstances surrounding the committing of the offence;
+and
+
+(e)
+
+The need to deter others from committing similar offences.
+
+34
+
+In addition to these factors, the panel considered other decisions of this Tribunal
+involving similar misconduct as contained in the University’s Book of Authorities
+along with the chart in the appendix summarizing those cases and the sanctions
+imposed. However, the Panel remained cognizant of the fact that no two cases
+are identical and that it is not bound by past decisions of this Tribunal. However,
+the Tribunal does try to develop a consistent body of cases so that students are
+treated fairly and consistently in similar circumstances.
+In that regard, the Student’s adamant denial of the allegations and her refusal to
+accept responsibility for her conduct were troubling to the Panel in the context of
+assessing her character. Further, given her behaviour, the Panel was concerned
+that there was a real likelihood that the Student would potentially commit a
+repetition of the offence. By cheating on the test, the Student undermined the
+grades-based system of evaluation and broke the honour code that is essential to
+modern learning. In that regard, the pandemic and the resulting required online
+learning provides more opportunities for students to cheat, requiring the University
+to go to considerable lengths to detect and uncover students’ misconduct.
+Further, in today’s online world, it is easy for students to find new ways to access
+unauthorized assistance and so any sanction must denounce cheating on tests
+and deter others in order to protect the academic integrity of the University.
+Students must understand that this kind of misconduct will have serious
+repercussions, so that they will be dissuaded from the temptation to consider
+cheating.
+The Panel accepted the University’s submission that by using Chegg.com, a paid
+commercial subscription service, the Student committed a more serious form of
+academic misconduct, and that while normally the sanction for the first offence
+would be a two year suspension, the Panel was satisfied that the circumstances
+of this case combined with this aggravating factor while considering the range of
+sanctions provided by prior decisions of this Tribunal in similar circumstances, a
+three year suspension of the Student from the University was appropriate.
+
+35
+
+Dated at Toronto, this 13th day of January 2022
+
+Original signed by:
+______________________________________
+Mr. Christopher Wirth, Chair
+On behalf of the Panel
+
+36
+
+

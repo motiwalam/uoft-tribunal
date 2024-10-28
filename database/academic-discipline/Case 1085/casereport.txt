@@ -1,0 +1,455 @@
+Case No.: 1085
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on June 25, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+c. 88
+
+BETWEEN:
+
+UNIVERSITY OF TORONTO
+
+- and -
+
+W
+
+Z
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: November 27, 2020, via Zoom
+Members of Panel:
+Ms. Lisa Talbot, Chair
+Professor Georges Farhat, Faculty Panel Member
+Mr. David Allens, Student Panel Member
+Appearances
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk and Hearing Secretary, Office of Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+The Student
+
+-2THE CHARGES
+1.
+
+This matter arises out of charges of academic misconduct filed on June 25, 2020, by the Provost
+
+of the University of Toronto (the “Provost”) under the Code of Behaviour on Academic Matters, 1995
+(“Code”).
+
+2.
+
+The charges are as follows.
+
+Charges relating to MGM101
+1.
+
+On or about December 19, 2016, [the Student] knowingly forged or in any other way
+
+altered or falsified a document or evidence required by the University of Toronto, or uttered,
+circulated or made use of such forged, altered or falsified document, namely a Verification of
+Student Illness or Injury form dated December 15, 2016, which [the Student] submitted in support
+of [the Student’s] request for academic accommodation or relief in MGM101H5 (“MGM101”),
+contrary to Section B.I.1(a) of the Code.
+2.
+
+In the alternative, on or about December 19, 2016, [the Student] knowingly engaged in a
+
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in order to obtain academic credit or other academic advantage of any kind, by submitting
+a forged, altered or falsified document, namely a Verification of Student Illness or Injury form
+dated December 15, 2016, in support of [the Student’]s request for academic accommodation or
+relief in MGM101, contrary to Section B.I.3(b) of the Code.
+
+Charges relating to LIN204
+3.
+
+On or about November 7, 2018, [the Student] knowingly represented as [his] own an idea
+
+or expression of an idea or work of another in an assignment [the Student] submitted in LIN204H5
+(“LIN204”), contrary to section B.I.1(d) of the Code.
+4.
+
+In the alternative, on or about November 7, 2018, [the Student] knowingly obtained
+
+unauthorized assistance in connection with an assignment that [the Student] submitted in LIN204,
+contrary to section B.I.1(b) of the Code.
+5.
+
+In the further alternative, on or about November 7, 2018, [the Student] knowingly engaged
+
+in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any kind
+
+-3in connection with an assignment [the Student] submitted in LIN204, contrary to section B.I.3(b)
+of the Code.
+THE HEARING:
+3.
+
+The Tribunal heard this matter on November 27, 2020. The Student did not attend the hearing. On
+
+reading the affidavit of service of Nusaiba Khan, sworn November 24, 2020, the affidavit of Kimberly
+Blake, sworn November 24, 2020, the affidavit of Lisa Devereaux, sworn November 19, 2020, and the
+affidavit of Andrew Wang, sworn November 24, 2020, and in consideration of the Policy on Official
+Correspondence with Students approved on May 1, 2006, Rules 9 and 17 of the Rules of Practice and
+Procedure of the University Tribunal, the Tribunal was satisfied that the Student was served with the
+Charges and Notice of Hearing dated November 11, 2020 and ordered that the hearing proceed in his
+absence.
+THE FACTS:
+4.
+
+At all material times the Student was registered at the University of Toronto Mississauga.
+
+MGM101
+5.
+
+In Fall 2016, the Student enrolled in MGM101 (Introduction to Management Functions).
+
+6.
+
+Students in MGM101 were required to write a final exam, which was worth 40% of their final
+
+grades in the course.
+7.
+
+If a student is too ill to write a final examination on the day they are scheduled to do so, they may
+
+submit a petition to write a deferred examination. The petition must be supported by a Verification of
+Student Illness or Injury form, which the student must submit to the Office of the Registrar within 72 hours
+of the missed exam. The Verification of Student Illness or Injury form must be completed by the student’s
+physician.
+8.
+
+The course syllabus for MGM101 stated (at page 6) with respect to the final examination:
+Final Exams:
+Final Examinations are scheduled, administered and governed by the policies set by the
+Office of the Registrar. Any student that is granted a deferral by the Office of the
+
+-4Registrar will be required to write a deferred examination at the next exam-writing
+session scheduled by the Office of the Registrar. Students should note that the deferred
+exam may not follow the same format as the exam given in the regular writing session.
+Students who cannot write a final examination due to illness or other serious causes must
+file an online petition within 72 hours of the missed examination. Original supporting
+documentation must also be submitted to the Office of the Registrar within 72 hours of
+the missed exam. Late petitions will NOT be considered. If illness is cited as the reason
+for a deferred exam request, a U of T Verification of Student Illness or Injury Form must
+show that you were examined and diagnosed at the time of illness and on the date of
+the exam, or by the day after at the latest. Students must also record their absence on
+ACORN on the day of the missed exam or by the day after at the latest. Upon approval of
+a deferred exam request, a non-refundable fee of $70 is required for each examination
+approved. [Emphasis in original]
+9.
+
+On December 15, 2016, the Student submitted a petition to defer his final exam in the course to the
+
+Office of the Registrar. The Student provided the following reason for the deferral request: “Acute
+gastroenteritis and fever happened on 14th December night cause [sic] I can not [sic] take the exam today”
+10.
+
+On December 19, 2016, in support of his petition, the Student submitted a photocopy of a
+
+Verification of Student Illness or Injury form, purportedly completed and signed by Dr. S.P. Kwong on
+December 15, 2016 (the “Medical Note”). The Student submitted the Medical Note to defer his final exam
+and to obtain academic accommodation or relief in MGM101.
+11.
+
+During the December 2016 exam period, the Office of the Registrar received over 750 deferral
+
+requests. It did not verify the authenticity of each form received at this time.
+12.
+
+The Student’s petition was granted and the Student was permitted to defer his final exam in the
+
+course. He wrote the deferred exam on February 23, 2017.
+13.
+
+The Office of the Registrar periodically reviews all retained documentation (physical and scanned
+
+copies). In June 2018, while reviewing documentation submitted for the Fall 2016 academic term, a staff
+member in the Office of the Associate Registrar, Academic Standards, noted that the Medical Note
+resembled a Verification of Illness or Injury form that had been submitted by another student and that had
+been confirmed as inauthentic.
+14.
+
+The Medical Note indicated that it was completed and signed by Dr. S.P. Kwong, CPSO #56801.
+
+It also provided contact information for Dr. Kwong.
+
+-515.
+
+The Associate Registrar, Michelle Kraus, contacted Dr. Kwong, who confirmed that the Student
+
+was not a patient in his office and that Dr. Kwong did not fill out the Medical Note for the Student in
+December 2016.
+16.
+
+The Tribunal accepts that the Student knowingly submitted a forged, altered or falsified Medical
+
+Note:
+a. understanding that the University of Toronto Mississauga required legitimate medical
+documentation and evidence to be presented in order to obtain the academic
+accommodation or relief he sought;
+b. with the intention that the University of Toronto Mississauga rely on the Medical Note
+in considering whether or not to provide him with the academic accommodation or
+relief he requested; and
+c. in an attempt to obtain academic credit and/or other academic advantage.
+LIN204
+17.
+
+In Fall 2018, the Student enrolled in LIN204 (English Grammar), which was taught by Dr. Michelle
+
+Troberg, Associate Professor, Teaching Stream in the Department of Language Studies at the University of
+Toronto Mississauga. There were approximately 650 students enrolled in LIN204 in Fall 2018.
+18.
+
+LIN2014 teaches students fundamental grammatical concepts. One of the focuses of the course is
+
+terminology, including the appropriate terms to be used when discussing grammatical concepts.
+19.
+
+Students in LIN204 were made aware of the University’s expectations respecting academic
+
+integrity. The course syllabus stated (at pages 6-7):
+Academic Conduct
+We have the expectation that students will treat each other and all faculty, staff, and TAs
+with respect and honesty. Students can expect the same from us. UTM students are
+subject to policies regarding academic honesty as set out by the Code of Behaviour on
+Academic Matters. Please read, and become familiar with, policies regarding academic
+honesty set out in this code:
+http://www.governingcouncil.utoronto.ca/policies/behaveac.htm.
+
+-6Academic Offense
+Academic integrity is essential to the pursuit of learning and scholarship in a university,
+and to ensuring that a degree from the University of Toronto is a strong signal of each
+student’s individual academic achievement. As a result, the University treats cases of
+cheating and plagiarism very seriously. Potential offences include, but are not limited to:
+In papers and assignments:
+-using someone else’s ideas or words without appropriate acknowledgement.
+-submitting your own work in more than one course without the permission of the
+instructor.
+-making up sources or facts.
+-obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+-using or possessing unauthorized aids.
+-looking at someone else’s answers during an exam or test.
+-misrepresenting your identity.
+In academic work:
+-falsifying institutional documents or grades.
+-falsifying or altering any documentation required by the University, including (but not
+limited to) doctor’s notes.
+All suspected cases of academic dishonesty will be investigated following procedures
+outlined in the Code of Behaviour on Academic Matters. If you have questions or
+concerns about what constitutes appropriate academic behaviour or appropriate research
+and citation methods, you are expected to seek out additional information on academic
+integrity from your instructor or from other institutional resources:
+http://www.artsci.utoronto.ca/osai/students/students
+20.
+
+Students in LIN204 were required to complete a total of six assignments, which they were to submit
+
+online. The assignments were required to be completed independently. Students were not permitted to
+collaborate with one another on their assignments.
+21.
+
+On or about November 7, 2018, the Student submitted Assignment #4 in LIN204, which was worth
+
+8% of his final grade (the “Assignment”).
+
+-722.
+
+During the grading of the Assignment, one of the teaching assistants noticed that a significant
+
+number of students had given the same or similar answers to several questions, including Questions 25 and
+31. The Student was among this group of students.
+23.
+
+The Tribunal has reviewed a copy of the Student’s answers to Questions 25 and 31 of the
+
+Assignment, the answer key for Question 31, and answers submitted by other students who had given
+similar answers. The answers share a number of similarities:
+a. In answer to Question 25, the students gave the answer “ordinal number of
+determiner”. The Tribunal accepts Dr. Troberg’s evidence that this is not a term that
+was used in the course. The phrase “ordinal number” was used, but never “ordinal
+number of determiner”.
+b. In answer to Question 31(a), the students gave “Sophie and I” as the answer, when the
+correct answer was “I”. The fact that all the students made the same mistake was
+noteworthy to Dr. Troberg.
+c. In answer to Questions 31(b) and/or (d), the students used the term “joined phrase”,
+which was not a term that had been used in the course and did not have any meaning in
+connection with the concepts taught in the course.
+d. In answer to Question 31(d), many of the students used the phrase “matches its object
+of preposition place”, which is not a phrase that had been used in the course and was
+not a phrase that made sense in connection with the concepts taught in the course.
+24.
+
+The Tribunal accepts the evidence of Dr. Troberg that it is unlikely that a group of students
+
+(including the Student) would independently come up with the same unusual terms given the way that the
+course was taught, and in particular, the emphasis on using correct terminology.
+25.
+
+The 10 students whose answers were reviewed along with the Student’s admitted to obtaining
+
+unauthorized assistance in connection with Assignment 4. They each received sanctions either at the
+departmental or decanal levels.
+
+-826.
+
+There was a total of 76 allegations of academic misconduct in connection with the Assignment in
+
+LIN204 in Fall 2018. Of the 76 allegations, 16 of the allegations were dismissed by the department, meaning
+that the Chair, the instructor or their designate was satisfied that no academic offence was committed after
+meeting with 16 of the students. Of the remaining 60 cases, 56 were resolved, 24 at the departmental level
+and 32 at the decanal level; and 3 were retired (held in abeyance pending a student’s return to the
+University).
+27.
+
+The only remaining case is the Student’s.
+
+28.
+
+The Tribunal finds that the Student submitted the Assignment:
+a. to obtain academic credit;
+b. knowing that the Assignment contained ideas, expressions of ideas or work which
+were not his own, but were the ideas, expressions of ideas or work of others, including
+other students in LIN204 and/or external sources (the “Sources”); and
+c. knowing that he did not properly reference the ideas, expressions of ideas or work that
+he drew from the Sources.
+
+29.
+
+The Tribunal also finds on the evidence that the Student knowingly obtained unauthorized
+
+assistance from the Sources, and knowingly submitted the Assignment with the intention that the University
+of Toronto Mississauga rely on it as containing his own ideas or work in considering the appropriate
+academic credit to be assigned to his work.
+
+DISPOSITION ON CHARGES
+30.
+
+On the basis of the facts set out above, as well as the documents provided in the Book of Documents
+
+re: Finding of the Offence, the Tribunal entered the finding that the Student was guilty of: one count of
+knowingly engaging in any form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code, in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.3(b) of the Code; and one count of knowingly representing
+an idea or expression of an idea or work of another as his own, contrary to section B.I.1(d) of the Code.
+
+-931.
+
+On the basis of the Tribunal’s conviction of the Student on charges 2 and 3, the Provost withdrew
+
+charges 1, 4 and 5.
+
+DECISION ON PENALTY
+32.
+
+The University submitted that the following penalty should be imposed:
+a.
+
+a final grade of zero in the course MGM101H5 in Fall 2016;
+
+b.
+
+a final grade of zero in the course LIN204H5 in Fall 2018;
+
+c.
+
+a suspension from the University of Toronto for a period of three years;
+
+d.
+
+a notation of the sanction on his academic record and transcript for a period of four
+years; and
+
+e.
+
+that this case be reported to the Provost for publication of -a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+36.
+
+We are required to consider the Mr. C. factors (Case No. 1976/77-3 November 5, 1976) to support
+
+our decision on penalty: character of student, likelihood of repetition of the offence, nature of the offence
+committed, existence of extenuating circumstances, detriment to the University and general need for
+deterrence.
+Character, Extenuating Circumstances and Likelihood of Repetition
+37.
+
+With respect to the Student’s character, the Tribunal notes that the Student has not participated in
+
+the academic discipline process or in this proceeding at all. He did not meet with the Dean’s designate. He
+did not respond to the University or its counsel. Consequently, the Tribunal has no evidence before it of
+any remorse or insight gained by the Student. It also has no evidence that the Student has learned or taken
+responsibility for his conduct.
+38.
+
+The Student has no prior offences, however, the Tribunal notes that it is dealing with two offences
+
+in this case, which occurred two years apart.
+39.
+
+Because the Student has not participated in this proceeding, there is no evidence before the Tribunal
+
+as to extenuating circumstances.
+
+- 10 40.
+
+The Tribunal finds that the Student exhibited dishonesty and unethical character. There are no
+
+known extenuating circumstances. In light of the factors outlined above, the Tribunal considers that there
+is a likelihood of repetition of the offence.
+Nature of the Offences Committed, Detriment to the University, and Deterrence
+41.
+
+The offences committed by the Student are serious. The Student knowingly submitted a forged,
+
+altered or falsified Medical Note with the intention that the University rely on it to provide academic
+accommodation. He also knowingly obtained unauthorized assistance and knowingly submitted the
+Assignment with the intention that the University of Toronto Mississauga rely on it as containing his own
+ideas or work in considering the appropriate academic credit to be assigned to his work.
+
+42.
+
+The University has an important interest in protecting the integrity of the institution. Such
+
+integrity is fundamental to the academic relationship. It is important that students are deterred from
+committing offences of academic dishonesty. Students must know that knowingly breaching the Code
+will not be tolerated.
+
+43.
+
+After considering all of the above factors, and the cases provided by the University, the Tribunal
+
+is satisfied that the Provost’s suggested penalty is appropriate.
+
+44.
+
+An Order was signed at the hearing by the Panel on the following terms:
+1. The Student shall receive a final grade of zero in the course MGM101H5 in Fall 2016.
+2. The Student shall receive a final grade of zero in the course LIN204H5 in Fall 2018.
+3. The Student shall be suspended from the University of Toronto from the date of the Tribunal’s
+order for a period of three years.
+4. A notation of the sanction shall be made on the Student’s academic record and transcript from
+the date of the Tribunal’s order for a period of four years.
+5. This case shall be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the Student’s name withheld.
+
+- 11 -
+
+All of which is hereby ordered this
+
+20th
+
+day of April, 2021.
+
+____________________________
+Lisa Talbot, Chair
+On behalf of the Panel
+
+

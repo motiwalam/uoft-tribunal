@@ -1,0 +1,410 @@
+UNIVERSITY OF TORONTO
+GOVERNING COUNCIL
+Report # 412 of the Academic Appeals Committee
+January 8, 2021
+
+To the Academic Board
+University of Toronto.
+Your Committee reports that it held an electronic hearing, conducted by Zoom on Friday,
+November 13, 2020, at which the following members were present:
+Academic Appeal Committee Members:
+Professor Hamish Stewart, Senior Chair
+Professor Sonu Gaind, Faculty Governor
+Mr. Amin Kamaleddin, Student Governor
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+I.A. (the “Student”)
+For the School of Graduate Studies:
+Mr. Robert A. Centa, Counsel Paliare Roland Rosenberg Rothstein LLP
+Ms. Jodi Martin, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+
+Overview
+The Student was enrolled in the Ph.D. program in the Division of Social and Behavioural Sciences (Division)
+of the Dalla Lana School of Public Health (School). She successfully completed her course work. She was
+then required to pass a Qualifying Examination (QE) to achieve Ph.D. candidacy. On her initial attempt in
+January 2018, the Student failed the QE. She retook the QE in September 2018 and failed again. The Student
+appealed that failure to the Division’s Graduate Department Academic Appeals Committee (GDAAC). On
+the 2nd of February 2019, the GDAAC dismissed her appeal. She then appealed to the Graduate Academic
+Appeals Board (GAAB). On the 16th of December 2019, the GAAB dismissed her appeal.
+The Student now appeals to your Committee. She argues that there were a number of procedural flaws in
+the administration of the second QE and she seeks various remedies. The School of Graduate Studies (SGS)
+argues that the appeal should be dismissed.
+Your Committee finds that there is no merit in the Student’s grounds of appeal and therefore dismisses the
+appeal.
+
+1
+
+Chronology
+The Student registered in the School’s Ph.D. program in the Fall 2014 term and over the next few terms
+successfully completed her course work. In order to proceed in her program and achieve Ph.D. candidacy,
+she was required to pass a Qualifying Examination.
+
+The Qualifying Examination
+The SGS describes the QE, as it was constituted at the time, as follows (SGS Submissions, para. 21):
+“The qualifying examination … normally consists of an 8,000 word paper and an oral presentation
+of that paper. A student should demonstrate a capacity for independent scholarly work and
+creativity, the ability to theorize a topic using a variety of approaches, the ability to assess
+critically related empirical literature and from these propose a theoretically and methodologically
+sophisticated and consistent research question that would advance the topic area. Through the
+qualifying examination a student will demonstrate the capacity to understand, apply, and compare
+theoretical perspectives that are taught in the program’s core theory courses.”
+The guidelines for the QE that were applicable to the Student had most recently been revised in 2017 and
+we therefore refer to them as the 2017 Guidelines (SGS Book of Documents, pp. 012-013). The 2017
+Guidelines provided, among other things, that:
+•
+
+“The qualifying exam … should demonstrate the student’s capacity for independent scholarly work
+and creativity, ability to theorize a topic using a variety of approaches, ability to critically assess
+related empirical literature, and from these propose theoretically and methodologically consistent
+research questions that would advance the topic area and may be used for the dissertation. Through
+this process, the student will demonstrate capacity to identify, synthesize, and critique the literature
+within their chosen topic area.”
+
+•
+
+“The student is expected to meet with their supervisor once every quarter before the start of the QE
+process and at least 2-3 times … during the preparation of the outline of the QE to discuss the scope,
+direction and content. The thesis committee members should meet at least twice with the student
+during this period. … Once the outline is approved, the student is expected to write the paper
+independent of the supervisor and thesis committee. …”
+
+Under these guidelines, not sooner than two weeks following the submission of the QE paper, the Student
+was orally examined on the paper. At the oral examination, the Student presented the paper and was then
+questioned by the examining committee. Following the oral examination, the examining committee
+deliberated and determined whether the Student passed by a majority vote. The examining committee had
+three elements:
+(1) the student’s Ph.D. supervisory committee;
+(2) the Program Director or their designate; and
+(3) an Examiner.
+Each element of the committee had one vote. The first element of the committee would typically consist of
+three persons (the student’s supervisor and two other faculty members), like other Ph.D. supervisory
+committees in the University.
+
+2
+
+The Division’s guidelines for the QE were revised in 2018 and currently provide, among other things
+(emphasis in the original):
+•
+
+“The purpose of the qualifying exam (QE) is to assess the student’s capacity to understand, apply,
+and compare theoretical perspectives that are taught in the [Division’s core theory courses].
+Specifically, the QE process will assess the student’s ability to theorize a topic using two different
+theoretical approaches and to propose theoretically sophisticated research questions that would
+advance the student’s topic area of interest and may be used for the dissertation. The process of
+writing the QE and producing a final product should ideally contribute to the theory section of the
+student’s thesis proposal.”
+
+•
+
+“The paper will identify and describe two theoretical perspectives from which the topic can be
+considered. …”
+
+•
+
+“The QE paper will explain why these theories are relevant to the topic area, situate them in relation
+to other systems of thought or traditions, briefly describe the evolution or lineage of the theories,
+describe the key tenets/constructs of each theory, apply then to the chosen substantive or empirical
+area of interest, and discuss how the two theories compare to/contrast with/complement one another
+in relation to the substantive area.”
+
+•
+
+“The paper will then propose theoretically-informed research questions … which might be
+undertaken in future study, and that arise from the application of the selected theoretical
+approaches.”
+
+•
+
+“The student’s supervisor and committee … can provide advice and support to the student in
+identifying the substantive area of focus for the paper and in selecting appropriate theoretical
+perspectives. … The supervisor, committee and other faculty members will not provide feedback
+to the student through the process of writing the QE paper … and are not permitted to review drafts
+of the paper prior to its submission.”
+
+The 2018 Guidelines do not contemplate an oral examination.
+
+The Student’s Qualifying Examination
+The Student first attempted the QE on the 15th of January 2018, and was unsuccessful. The examining
+committee provided her with extensive comments, with specific suggestions for improvement, on the QE
+paper (SGS Book of Documents, pp. 018-021). The Student did not appeal from the examining committee’s
+decision. In accordance with the QE guidelines then in force, the Student was given the opportunity to
+retake the QE.
+The 2017 Guidelines contemplate that, when a student retakes the QE, “[t]he composition of the examining
+committee should remain the same if at all possible.” In the Student’s case, this was not possible. In the
+spring of 2018, her supervisor went on medical leave. Dr. Blake Poland agreed to serve as the Student’s
+supervisor during the process of repeating the QE. The Student requested that certain members of the
+examining committee be replaced by others, and the Division agreed to this request. Consequently, the
+examining committee that evaluated her second QE was quite different from the original committee.
+
+3
+
+Between mid-April and mid-May, the Student discussed the revisions to her QE paper with Dr. Poland. On
+the 25th of May, the Student met with her supervisory committee, which provided her with substantive
+feedback on the revisions to her QE paper. Following that meeting, in accordance with the guidelines, she
+worked independently and did not discuss the paper with her supervisory committee.
+As an accommodation for the Student’s mental health challenges, the Division proposed that as a substitute
+for the oral component of the QE, the examining committee would draft questions for the Student to answer
+in writing. At the hearing before your Committee, the Student appeared to suggest that she had not agreed
+to this accommodation (see also her Notice of Appeal, p. 17), but it is clear from the record that she did
+(SGS Book of Documents, pp. 022 and 027-036). For various reasons that do not need to be spelled out in
+detail, the timeline for the Student’s retaking of the QE was extended by several weeks.
+The Student submitted her revised QE paper on the 17th of August 2018. Her examining committee was
+constituted as follows:
+(1) the student’s Ph.D. supervisory committee: Dr. Blake Poland, supervisor; Dr. Branka Agic; Dr.
+Lisa Andermann; Ms. Wendy Chow; and Dr. Samuel Law (the final three members were referred
+to at the hearing as “the Mount Sinai Team”);
+(2) the Program Director: Dr. Carol Strike; and
+(3) the Examiner: Dr. Ross Upshur.
+All members of the examining committee read the Student’s QE paper. The examining committee met by
+teleconference on the 5th of September 2018, to discuss the paper and to draft four written questions that
+were to be posed to the Student. Dr. Agic was on vacation and did not participate in this meeting; however,
+Dr. Agic had provided a written assessment of the QE paper, and the other members of the committee
+considered that assessment. On the 6th of September, as a substitute for the oral component of the
+examination, the Student received the questions and provided her answers. That afternoon, the examining
+committee, except for Dr. Agic, met again by teleconference, discussed the Student’s answers, and
+unanimously concluded that she had failed the QE. The examination committee’s written assessment of the
+QE includes the following comments, among others:
+•
+
+“The QE paper falls well short of expected skill level of a doctoral student to identify, synthesize,
+and apply literature to a substantive topic.”
+
+•
+
+“Little to no evidence of capacity to critically appraise the literature.”
+
+•
+
+“Key terms … are not defined.”
+
+•
+
+“The account of the various philosophical and epistemological perspectives is very simplistic.”
+
+•
+
+“The literature review is descriptive and does not seem to lead to the research question.”
+
+The Student’s answers to two of the written questions were deemed to be “minimally sufficient” and the
+answers to the other two “insufficient”. The same day, at a prearranged time, the Student was informed of
+her failure.
+
+4
+
+The Student was suddenly hospitalized on the 7th of September. The precise reasons for this hospitalization
+and the length of the Student’s stay in hospital are not clear from the material before your Committee, but
+for the purposes of this appeal further information about this unfortunate incident was not needed.
+The Division scheduled a meeting with the Student for the 6th of November. The meeting was attended by
+the Student, her mother, Dr. Strike, Dr. Nancy Baxter, who was then serving as the School’s Associate
+Dean, Academic Affairs, and Ms. Candice Stoliker, Coordinator, Student Progress and Support. The
+Student was provided with the examining committee’s feedback. Dr. Baxter provided the Student with three
+options: (1) a retroactive leave of absence predating her retaking of the QE; (2) an appeal of the failure; and
+(3) withdrawal or termination from her program. The Student had a number of concerns about the
+retroactive leave of absence and ultimately chose to appeal the failure.
+
+The GDAAC Decision
+The Student appealed to the GDAAC. The GDAAC considered a number of remedies sought by the Student
+but concluded that most of them were outside its jurisdiction. It therefore focussed on her request to have
+the QE grade changed from Fail to Pass. The GDAAC rejected the Student’s claim that the examining
+committee was confused about which set of guidelines (2017 or 2018) to apply. The GDAAC found that
+the accommodations provided to the Student throughout the process were appropriate and designed to meet
+her “specific needs.” The GDAAC noted that the Student had “listed a delay in receiving the written
+feedback” as a ground of appeal, but found that the delay had been caused by the Student’s sudden
+hospitalization and that the arrangements for the November 6th meeting had been agreed to by all the parties
+to it. Finally, the GDAAC found no bias or unfairness in the assessment of the QE.
+
+The GAAB Decision
+The Student appealed to the GAAB. The GAAB commented that while it was difficult to identify the
+Student’s grounds of appeal it could identify “three issues which might be causes for valid concern.” First,
+Professor Agic did not participate in the teleconferences on the 5th and 6th September. The GAAB
+commented that Professor Agic “was one member of a large (seven person) committee and all seven were
+firmly of the view that the [QE paper] was a failure” and concluded that “[t]here is nothing in the record to
+indicate that Professor Agic’s participation in the later stages would have made the slightest difference to
+the final result.” Second, the Student had questioned “whether the assessment given to her was indeed the
+consensus view of the examining committee,” and alleged that the Division had lied to her about the
+committee’s unanimity. The basis for this allegation appeared to be that she had not received separate
+written assessments from each of the seven committee members. The GAAB noted that there was no
+requirement that individual members of the committee provide separate assessments, found that the
+examining committee had indeed been unanimous, and found “no evidence whatsoever” for the allegation
+that the Student had been lied to. Third, the Student had made a comparison between her QE paper and the
+model QE paper that she had used in her preparation, arguing that the model paper had misled her as to
+what was required. The GAAB found this comparison to be of little assistance and, with respect to the
+Student’s claim about the guidelines, noted that “Guidelines are guidelines, not strict ‘formulas’ to be
+rigidly adhered to.” Thus, the GAAB found no merit in the appeal and dismissed it.
+
+5
+
+Decision
+The Grounds of Appeal
+As was the case before the GAAB, before your Committee the Student “submitted voluminous material to
+support her appeal” and accordingly “it was not easy to distill what the specific grounds of appeal were.”
+At the hearing before your Committee, counsel for SGS and the Student herself were able to assist the panel
+in identifying grounds of appeal that were relevant to the matter before us, namely, whether the QE was
+administered fairly. Your Committee understood the Student to have raised essentially three grounds of
+appeal on this matter: first, that she was inadequately supervised in the period leading up to the retaken QE
+because she had only one meeting with her committee; second, that the examining committee had
+mistakenly applied the 2018 rather than the 2017 Guidelines to the Student’s QE, although the Division had
+rejected her request to be evaluated under the 2018 Guidelines; and third, that the result might have been
+different had Professor Agic fully participated in the meetings of the 5th and 6th of September. Your
+Committee finds no merit in any of these arguments.
+
+The first ground of appeal: Alleged inadequate supervision
+On the 15th of January 2018, the Student failed her QE. She received detailed feedback from the examining
+committee (SGS Book of Documents, pp. 017-021). At her request, the membership of her supervisory
+committee was changed significantly. In particular, Dr. Poland agreed to serve as her supervisor. The
+Student was permitted to discuss her revisions with Dr. Poland, until her topic was approved (SGS Book of
+Documents, pp. 040-041). On the 25th of May 2018, the Student met with her supervisory committee and
+her topic was approved (SGS Book of Documents, pp. 043-045). She did not meet with her committee again
+until the QE itself. However, in July she did get some feedback from members of her committee on an
+unrelated piece of work (Notice of Appeal, pp. 72-77).
+The Student submitted that she was inadequately supervised between January and May 2018 because she
+met only once with her supervisory committee, rather than at least twice as recommended by the 2017
+Guidelines. Your Committee rejects this submission. The usual practice in SGS is for a doctoral student to
+arrange meetings of their supervisory committee. There is nothing in the record to indicate that the Student
+attempted to arrange any meetings with her supervisory committee as a whole during this period; instead,
+she was content to discuss her work with Dr. Poland. There is nothing in the record to indicate that there
+was any inadequacy in Dr. Poland’s supervision.
+Following the approval of an outline, students are meant to work independently on the QE paper, and to
+that end the 2017 Guidelines provided that supervisory committees were not to provide students with
+feedback or review drafts during this period. Thus, once the committee had approved her new outline on
+the 25th of May, it would have been inappropriate for the Student to continue to meet with Dr. Poland or
+with her supervisory committee to discuss her QE paper.
+
+The second ground of appeal: Alleged confusion as to the applicable guidelines
+There is no direct evidence in the record that the examining committee confusedly applied the 2018
+Guidelines rather than the 2017 Guidelines. The Student asks your Committee to infer this confusion from
+the examining committee’s use of language in its evaluation. The examining committee stated that the
+Student did not show the ability “to identify, synthesize and apply literature to a substantive topic”—
+
+6
+
+language which, the Student says, reflects the 2018 Guidelines’ phrase “to understand, apply and compare
+theoretical perspectives” rather than the 2017 Guidelines’ phrase “to identify, synthesize, and critique the
+literature.” The Student argues that the 2018 Guidelines are concerned with “application” while the 2017
+Guidelines are concerned with “criticism”; that she had written the QE paper with attention to “criticism”
+rather than “application”; that the examining committee must have had “application” rather than “criticism”
+in mind while assessing her; and that its evaluation of the QE was therefore unfair.
+The fundamental task of a student under both sets of guidelines is to engage critically with the relevant
+literature in order to identify a specific research question. Therefore, your Committee declines to draw the
+inference that the examining committee was confused about which set of guidelines to apply. Moreover,
+your Committee is not persuaded even if the examining committee had mistakenly applied the 2018 rather
+than 2017 Guidelines, the outcome would have been any different. Your Committee agrees with Ms.
+Martin’s submission that there is no material difference between the type and quality of analysis that is
+expected of students under the 2017 and 2018 guidelines. There are of course differences between the two
+sets of guidelines; in particular, the 2018 Guidelines provide more specific direction as to the format of the
+QE paper and they change the manner in which the QE is administered (an 8,000-word paper followed by
+an oral examination in the 2017 Guidelines; a 6,000-word paper without an oral examination in the 2018
+Guidelines). But it appears to your Committee that these differences do not change the academic abilities
+that the QE is supposed to test. The examining committee concluded that the Student had demonstrated
+“[l]ittle to no capacity to critically appraise the literature”, had “fail[ed] to note how … critiques [of the
+literature] relate to the proposed topic area”, had provided a “simplistic” account of “the various
+philosophical and epistemological perspectives”, and had provided a literature review that was “descriptive
+and [did] not seem to lead to the research question” (SGS Book of Documents, p. 115). These would be
+serious flaws in the QE paper under either set of guidelines.
+In support of the second ground of appeal, the Student also argued that she was misled by the Division in
+that in preparing her QE paper, she had followed the example of a model paper which, she says, was not
+consistent with the 2017 Guidelines. Your Committee was not persuaded by this submission. The Student
+was unable to identify any significant inconsistencies between the model paper and the Guidelines.
+Moreover, as the GAAB put it, “[t]he actual exam questions and answers for particular students will always
+depending on the focus of their own qualifying exam.”
+The third ground of appeal: Professor Agic’s non-participation in the meetings of the 5th and 6th of
+September 2018
+As noted above, Professor Agic was a member of the Student’s supervisory committee. In late August 2018,
+she read the Student’s QE paper and provided a written assessment to the rest of the examining committee.
+However, she did not participate in the meeting of the 5th of September or in the assessment of the Student’s
+written responses to the examining committee’s written questions on 6 September. Professor Agic was on
+vacation at the relevant time. The Student submits that Professor Agic’s full participation in the meetings
+of the 5th and 6th September might have changed the outcome of the examination, in that of all the members
+of the examining committee, Professor Agic’s research interests were closest to the topic of the QE paper.
+The 6th of September meeting was a substitute for the oral examination. In the normal course, the entire
+supervisory committee would participate in an oral examination (2017 Guidelines, p. 4), which suggests
+that the QE should have been scheduled at a time when Professor Agic could participate fully. On the other
+hand, your Committee heard from Professor Gesink, who now serves as the School’s Associate Dean,
+Academic Affairs, that quorum for a supervisory committee is two persons; assuming this quorum rule
+
+7
+
+applies to the supervisory committee’s participation in examining committee meetings, it was met, so that
+Professor Agic was not required to participate.
+It would have been better if Professor Agic had participated in the meetings of the 5th and 6th of September.
+Some members of your Committee are inclined to characterize Professor Agic’s non-participation as a
+procedural flaw in the administration of the Student’s QE; other members of your Committee are not certain
+whether that is the appropriate characterization. But, if it was a procedural flaw, your Committee considers
+it a minor one in the context of a large supervisory committee (five members rather than the usual three)
+and a large examining committee meeting (seven members rather than the usual five), which would have
+created significant challenges in scheduling the examining committee’s deliberations and the substitute for
+the oral examination in accordance with the 2017 Guidelines. More fundamentally, your Committee is not
+persuaded that Professor Agic’s absence from these meetings made any difference. Professor Agic’s
+participation in the meeting of the 6th of September would have changed the result only if she had been so
+impressed by the Student’s written answers that she would not only have revised her initial assessment of
+the QE paper but also persuaded a majority of the supervisory committee and at least one other member of
+the examination committee to change their assessments as well. As the GAAB put it, Professor Agic “was
+one member of a large (seven person) [examining] committee, and all seven were firmly of the view that
+the principal examination [the QE paper] was a failure. There is nothing in the record to indicate that
+Professor Agic’s participation in the later stages would have made the slightest difference to the final result.”
+
+Other Issues
+The Student raised many issues in addition to those discussed above. Although it is not necessary to resolve
+those issues in order to decide the appeal, your Committee would like to comment briefly on some of them.
+Remedies
+Since the appeal is dismissed, it is not necessary to decide on the remedy. At various stages of this appeal,
+the Student has asked the GDAAC, the GAAB, and the AAC for a great variety of remedies, including
+ordering someone to conduct an investigation of the Division, changing the QE mark from fail to pass,
+exempting the Student from the QE requirement, requiring an external assessment of the QE paper, and
+proving the Student another opportunity to take the QE.
+Neither your Committee, the GAAB, nor the GDAAC has jurisdiction to order an investigation.
+It is doubtful whether your Committee has jurisdiction to exempt a student from an academic requirement;
+if it does, such a remedy would only be appropriate in a truly exceptional case. Your Committee does not
+assess the academic merit of students’ work and therefore would not normally change a mark from fail to
+pass. It might be possible for your Committee to order an external assessment, but there was nothing in the
+record here to justify such an order. If the Student had succeeded in demonstrating any unfairness in the
+way the QE was administered, the only remedy your Committee would seriously have considered would
+have been an opportunity to retake the QE.
+
+The First QE
+In her appeal materials, the Student complains about some aspects of her first attempt to take the QE in
+January 2018 (Notice of Appeal, pp. 24-28). As GDAAC and GAAB pointed out, the Student did not appeal
+
+8
+
+her failure on that occasion, and so those issues were not properly before them. They were not properly
+before your Committee either.
+
+The Meeting of the 6th of November 2018 and Related Issues
+In her written submissions, and to a lesser extent in her oral submissions, the Student complained about the
+timing and the manner in which the feedback on the QE was communicated to her on the 6th of November
+2018. As the GAAB pointed out, these complaints “are irrelevant to the question at issue.” Moreover, your
+Committee had some difficulty understanding the basis for these complaints. The meeting was delayed
+because of the Student’s health issues and because the Division received a request from the Student’s
+mother not to communicate with the Student until her health had improved (SGS Book of Documents, pp.
+117-121). Your Committee agrees with the SGS’s submission that “[t]he meeting was carefully scripted to
+ensure that it was sensitive to the Student’s health issues, clear, and provided detailed, but respectful
+feedback on her performance on the second qualifying examination” (SGS Submissions, p. 021). It is
+unfortunate that the Student’s experience of this meeting did not reflect the Division’s intention, but it is
+not clear to your Committee how the Division could have done better.
+As noted above, at this meeting, the Division offered the Student three options: (1) a retroactive leave of
+absence, to begin at some time before she retook the QE; (2) an appeal of the failure; and (3) withdrawal or
+termination from her program. The Student had a number of questions about the first possibility, not all of
+which the Division was able to answer immediately, and she ultimately chose the second. In her written
+materials and at the hearing, the Student stated that if she had chosen the retroactive leave of absence, she
+would had been required to give up her right of appeal. It is true that, had the Student taken a retroactive
+leave of absence, her retaking of the QE would have been deemed never to have occurred, and there would
+be nothing to appeal. In your Committee’s view, the Division’s suggestion of a retroactive leave of absence
+was generous in the circumstances.
+
+Other allegations
+Throughout these proceedings, at all levels of appeal, the Student has made allegations to the effect that
+various University decision-makers were biased against her, had lied to her, had improperly concealed
+information from her, and had misused her confidential medical information. In particular, the Student
+made serious allegations about the GAAB Chair’s conduct of her appeal hearing. Some of these allegations
+are connected with points mentioned above. For example, the Student appears to interpret the GAAB’s
+failure to order an investigation as some evidence that the GAAB Chair was biased against her (Notice of
+Appeal, p. 37); but, as noted above, the GAAB simply lacked jurisdiction to make such an order and so its
+failure to do so is not evidence of any bias. These allegations were not supported by anything beyond the
+Student’s statements in her Notice of Appeal and did not play a major role in the Student’s oral submissions
+before your Committee. Your Committee wholly rejects them.
+
+9
+
+

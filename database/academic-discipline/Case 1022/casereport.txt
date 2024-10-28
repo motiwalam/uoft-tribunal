@@ -1,0 +1,357 @@
+Case No.: 1022
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty filed on May 14, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c.56 as amended
+S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+– AND –
+J
+
+G
+
+(the “Student”)
+
+Hearing Date: September 20, 2019
+Members of the Panel:
+Mr. Dean Embry, Barrister and Solicitor, Chair
+Dr. Gabriele D'Eleuterio, Faculty Panel Member
+Ms. Madison Bruno, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Jennifer Dent, Associate Director, Office of Appeals, Discipline and Faculty Grievances,
+University of Toronto
+Not in Attendance:
+The Student
+
+I.
+
+CHARGES
+
+1.
+
+The Trial Division of the Tribunal held a hearing on September 20, 2019 to address the
+following charges brought by the University of Toronto (the “University”) against the Student
+under the Code of Behaviour on Academic Matters (the “Code”):
+1. On or about December 16, 2016, you knowingly forged or in any
+other way altered or falsified a document or evidence required by the
+University, or uttered, circulated or made use of any such forged,
+altered or falsified document, namely, a petition including a University
+Verification of Student Illness or Injury Form dated December 16, 2016
+(“LIN VOSI”), which you submitted to the University in support of your
+request for academic accommodation in LIN204H5, contrary to Section
+B.I.1(a) of the Code.
+2. On or about December 18, 2016, you knowingly forged or in any
+other way altered or falsified a document or evidence required by the
+University, or uttered, circulated or made use of any such forged,
+altered or falsified document, namely, a petition including a University
+Verification of Student Illness or Injury Form dated December 18, 2016
+(“MAT VOSI”), which you submitted to the University in support of your
+request for academic accommodation in MAT236H5, contrary to
+Section B.I.1(a) of the Code.
+3. In the alternative to charges 1 and 2 above, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not herein otherwise described, in order to obtain
+academic credit or other academic advantage of any kind, in
+connection with the submission of each of the LIN VOSI and the MAT
+VOSI, contrary to Section B.I.3(b) of the Code.
+
+II.
+
+PRELIMINARY ISSUE: Proceeding in the Absence of the Student
+
+2.
+
+The Student was neither present nor represented. The University filed evidence that the
+Student was served with the charges by email at the email address provided by the
+Student to the University of Toronto in ROSI on May 14, 2019.
+
+3.
+
+Further, the University filed evidence that on August 26, 2019 the Student was served with
+the Notice of Hearing, again via the email address provided in ROSI. On August 27, 2019
+the Student was served a hard copy of the Notice of Hearing via courier to the address
+provided to the University in ROSI.
+1
+
+4.
+
+In addition to the above, the University filed evidence demonstrating that extraordinary
+efforts were made to ensure the Student was aware of the hearing and in a position to
+attend. In addition to the service of documents outlined above correspondence via email
+was sent to the Student on July 26, August 7, September 6, September 16 and September
+18, 2019. These emails, which included invitations for discussion, efforts to arrange
+scheduling, disclosure of material and reminders of the hearing all went unanswered.
+
+5.
+
+On September 4, 2019 a law clerk from Assistant Discipline Counsel’s firm called the
+Student’s phone number as listed on ROSI and spoke to a male who identified himself as
+“Ken”. This individual provided an allegedly current telephone number for the Student but
+when that number was called a recorded message indicated that the subscriber was
+unavailable. Contact information for Assistant Discipline Counsel was provided to Ken but
+no response from the Student was ever received.
+
+6.
+
+Given the above the Panel found that the Student was provided with reasonable notice
+and proper service as contemplated by sections 14 and 9 of the Tribunal’s Rules of
+Practice and Procedure (the “Rules”). As such the hearing proceeded in the Student’s
+absence.
+
+III.
+
+SUMMARY OF FACTS/PARTICULARS
+
+7.
+
+The University relied on the affidavit of Michelle Kraus to establish the facts underlying the
+charges.
+
+8.
+
+In the Fall 2016 term the Student was enrolled in LIN204H5F – English Grammar I ("LIN
+Course") and MAT236HF – Vector Calculus ("MAT Course").
+
+9.
+
+The final exam for the LIN Course was held on December 14, 2016 ("LIN Exam"). It was
+worth 38% of the final mark in the LIN Course. The final exam for the MAT Course was
+held on December 17, 2016 (“MAT Exam"). It was worth 35% of the MAT Course mark.
+The Student did not write either of these exams.
+
+10.
+
+On December 16, 2016, The Student submitted a petition requesting permission to write
+the LIN Exam on a deferred date, which was assigned a tracking number 51538 ("LIN
+Petition").
+
+2
+
+11.
+
+On December 18, 2016, The Student submitted a petition requesting permission to write
+the MAT Exam on a deferred date (“MAT Petition"). The MAT Petition was assigned a
+tracking number 51744.
+
+12.
+
+On January 3, 2017, The Student submitted a Verification of Student Illness form to the
+Office of the Registrar in support of his LIN Petition which indicated that he had seen Dr.
+S.P. Kwong at the Finch-Midland Medical Centre on December 14, 2016 ("December 14,
+2016 VSI") and that he was severely incapacitated and completely unable to function from
+December 14 to 15, 2016.
+
+13.
+
+On January 6, 2017, The Student submitted a Verification of Student Illness form to the
+Office of the Registrar in support of his MAT Petition which indicated that he had seen Dr.
+S.P. Kwong at the Finch-Midland Medical Centre on December 17, 2016 "December 17,
+2016 VSI") and that he was severely incapacitated and completely unable to function from
+December 17 to 18, 2016.
+
+14.
+
+Both of the Student’s petitions were granted and he was permitted to write deferred final
+exams in both courses in February 2017.
+
+15.
+
+The Student did not attend to write either deferred final exam.
+
+16.
+
+In June 2018 during a periodic review of retained documentation the VSIs submitted by
+the Student raised suspicion insofar as they resembled similar documents that had been
+submitted in other matters that had proved to be inauthentic.
+
+17.
+
+Both the December 14, 2016 and the December 17, 2016 VSI bore a signature and stamp
+for Dr. S.P. Kwong. On June 28, 2018 Michelle Kraus sent two faxes to Dr. Kwong
+requesting that he confirm the Student was seen on December 14 and 17, 2016 and that
+Dr. Kwong filled out the VISs. Dr. Kwong responded by fax the same day and indicated
+he did “not have [the Student] as a patient in [his] office” and that he “did not fill out the
+‘Verification of Student Illness’ form [the Student] for the dates as shown (December 14,
+2016 and December 17, 2016)”.
+
+IV.
+
+ARGUMENT OF THE UNIVERSITY
+
+18.
+
+Assistant Discipline Counsel submitted that the Affidavit of Michelle Kraus and
+accompanying exhibits clearly demonstrated the Student’s guilt. The Student submitted two
+3
+
+VSIs in support of his petitions to defer two exams. When efforts were made to authenticate
+the VSI the doctor who allegedly saw the Student unequivocally indicated that he did not
+see the Student or sign the VSIs.
+19.
+
+The Panel expressed concern that the central piece of evidence – the confirmation from Dr.
+Kwong that he had not seen the Student – was available only via hearsay. Assistant
+Discipline Counsel referred the Panel to the section 15(1) of the Statutory Powers
+Procedure Act which allows the reception of evidence whether or not it is given or proven
+under oath or affirmation. The University relied on the fact that the address for Dr. Kwong
+noted on the stamp on the VSIs matched the address on Dr. Kwong’s faxed response and
+that the CPSO number from the VSIs matched that provided on the response as
+circumstantial evidence of the reliability of the evidence. The Panel was satisfied with this
+explanation.
+
+V.
+
+CONCLUSION ON CHARGES
+
+20.
+
+Following deliberation and based on the filed affidavit evidence, the Panel concluded that
+charges 1, 2 and 3 had been proven.
+
+21.
+
+VI.
+
+Given the findings of guilt, the University withdrew charge 3.
+
+SANCTION
+A. Evidence and Submissions on Sanction
+
+22. The University provided affidavit evidence establishing that the Student had previously been
+found guilty of an academic offence on November 10, 2015.
+
+Specifically, the Student
+
+admitted plagiarizing an assignment which he had submitted for credit. The Student received
+a sanction of zero for the assignment in question and an annotation on his transcript for 12
+months.
+23. In light of the facts of the present matter and the prior academic offence the University
+submitted that an appropriate sanction in this matter would be:
+a. A grade of zero in both involved courses.
+b. A suspension for up to five years.
+
+4
+
+c. A recommendation of expulsion and;
+d. A permanent notation on the Student’s transcript.
+24. In support of this position the University pointed to a number of factors:
+a. That although the forgery in this case was not particularly serious it
+can be assumed that the forged doctor’s notes were purchased.
+b. The forgeries in this matter undermined the University’s system
+regarding accommodations. The prevalence of forgeries of this kind
+necessitated more stringent requirements and therefore make it more
+difficult for students who require genuine accommodations.
+c. The existence of a prior finding of an academic offence approximately
+one year prior to these offences.
+d. The Student’s complete disregard for the process as evidenced by the
+Student’s failure to respond to any of the correspondence regarding
+this matter.
+25. With regard to this final factor the University highlighted the fact that there was evidence that
+the Student had accessed his email account at such times as would suggest that he received
+most of the correspondence and the fact that he led the University on a “merry chase” as
+evidenced by the phones calls with “Ken”. The University also highlighted the extraordinary
+efforts that had been undertaken to provide notice to the Student and secure his attendance
+at the Hearing or participation in the process.
+26. The University provided a collection of cases that featured similar offences as well as similar
+aggravating features. The University also helpfully provided a summary matrix containing the
+salient facts present in the various cases along with the ultimate sanction ordered by the
+Tribunal.
+27. The factors reflected in this matrix included the type of documents forged or falsified, whether
+there had been a prior offence, whether the student attended the hearing, whether there was
+an agreed statement of facts or a joint position on sentence and any other extenuating or
+aggravating factors.
+
+5
+
+28. The sanctions reflected in the matrix ranged from a zero in the course with a three year
+suspension and 4 year notation on the low end and recommendations for expulsion on the
+high end.
+B. Conclusion of the Panel on Sanction
+
+29.
+
+In this case, the Student has been found guilty of two forgery offences. The Panel declines
+to assume or infer that the forged doctor’s notes were purchased. While the Panel heard
+submissions and some evidence that the documents in this matter were similar to those in
+other cases there was no evidence that the documents in this case were purchased.
+
+30.
+
+The Panel agrees that the fact that the forgeries were used in an accommodation seeking
+context and the fact that the Student has a previous finding of guilt in an academic offence
+are significant aggravating factors.
+
+31. The Panel does not agree that the Student’s failure to engage with the process is an
+aggravating factor. While the Student’s cooperation may have occasioned some degree of
+mitigation his lack of participation is not aggravating.
+32.
+
+More specifically in relation to this case, there is no evidence that the Student led the
+University on a “merry chase”. It is not clear who the individual who identified himself as
+“Ken” is or what his relationship to the Student is. More importantly there is no evidence that
+the Student was aware of Ken’s interactions with Assistant Discipline Counsel’s firm or
+directed Ken to give or not give any information to Assistant Discipline Counsel.
+
+33.
+
+Finally, while there is no doubt that Assistant Discipline Counsel undertook extraordinary
+efforts to provide the Student with notice and information and to secure his participation in
+the process these efforts are not strictly necessary under the Rules. It is understood and
+appreciated that these efforts were undertaken in a laudable spirit of fairness. It would be
+unfair, however, to allow these efforts to effectively enhance the sanction by considering a
+lack of response to extraordinary efforts aggravating.
+
+34.
+
+No two cases are ever going to be identical. Of all the cases provided, however, the one
+that bore the most similarly to the present case was that of University of Toronto v. Y.D.
+[Case No. 903, April 26, 2017]. That case dealt with a student who submitted multiple
+fraudulent medical forms and included close proximity to an admission of guilt and sanction
+6
+
+for a prior offence. The student in that case also did not participate in the disciplinary
+process.
+35.
+
+As in that case and taking all of the circumstances into account, we find that a 5 year
+suspension is appropriate and that it should commence on September 20, 2019.
+
+VII.
+
+ORDER OF THE PANEL
+
+36. At the conclusion of the hearing, the Panel conferred and made the following order:
+37. THAT the hearing may proceed in the absence of the Student;
+38. THAT the Student is guilty of two counts of forgery, contrary to sections B.I.1(a) of the Code
+of Behaviour on Academic Matters;
+39. THAT the following sanctions shall be imposed on the Student:
+a. a final grade of zero in each of the following courses:
+i. LIN204H5 in Fall 2016; and
+ii. MAT236H5 in Fall 2016;
+b. a suspension from the University for a period of five years, from the
+date of this order to September 20, 2024;
+c. a notation of this sanction shall be placed on the Student’s academic
+record and transcript for a period of 6 years, from September 20, 2019
+to September 20, 2025.
+
+7
+
+d. that this case shall be reported to the Provost for publication of a notice
+of the decision of the Tribunal and the sanction or sanctions imposed,
+with the name of the Student withheld.
+
+DATED at Toronto, December 17, 2019
+
+Dean Embry, Chair
+
+8
+
+

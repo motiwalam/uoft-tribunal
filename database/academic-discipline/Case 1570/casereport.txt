@@ -1,0 +1,599 @@
+Case No. 1570
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on November 1, 2023, amended
+February 20, 2024
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and H
+
+L
+
+REASONS FOR DECISION
+Hearing Date: February 20, 2024, via Zoom
+Members of the Panel:
+R. Seumas M. Woods, Chair
+Professor Marvin Zuker, Faculty Panel Member
+Konrad Samsel, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, for the University
+Sonia Patel, Co-Counsel, for the University
+H
+L
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+
+-2THE CHARGES
+1.
+
+On November 1, 2023, the University of Toronto (the “University”) laid the following
+
+charges (the “Charges”) against H
+
+L
+
+(the “Student”) under the Code of Behaviour on
+
+Academic Matters, 2019 (the “Code”):
+1.
+
+On or about May 10, 2023, you knowingly had another person personate you at the final
+exam in MAT137Y1 (the “Course”), contrary to section B.I.1(c) of the Code.
+
+2.
+
+In the alternative, on or about May 10, 2023, you knowingly obtained unauthorized
+assistance in connection with the final exam in the Course, contrary to section B.I.1(b) of
+the Code.
+
+3.
+
+In the further alternative, on or about May 10, 2023, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with the final exam in the Course, contrary to section B.1.3(b) of
+the Code.
+
+2.
+
+Included in the Charges were particulars setting out details of the alleged offences. The
+
+particulars indicated that the offence had occurred on April 19, 2023 rather than May 10, 2023.
+Prior to the hearing, the Tribunal raised this inconsistency with counsel for the University. About
+six hours before the hearing was scheduled to take place, the Tribunal received amended
+charges (the “Amended Charges”). The Amended Charges were identical to the Charges apart
+from the date of the offences changing from May 10, 2023 to April 19, 2023.
+
+-3The Hearing
+3.
+
+The Tribunal heard the Amended Charges on February 20, 2024 over Zoom. In advance
+
+of the hearing, counsel for the University provided the Tribunal with a joint book of documents
+(the “Joint Book of Documents”) containing a copy of an agreed statement of facts (the "ASF")
+executed by the Student and the University. The Joint Book of Documents, including the ASF,
+was made an exhibit at the hearing.
+4.
+
+The Student attended the hearing. The Student was not represented by counsel. The
+
+University was represented by Assistant Discipline Counsel.
+The Amended Charges
+5.
+
+At the outset of the hearing, the Tribunal noted that the Charges had been amended earlier
+
+that same day. The Student confirmed that they were aware of the amendments and were prepared
+to proceed. Given the Student’s confirmation that they were prepared to proceed, and having
+regard to the nature of the amendments, the full particulars which had been included in the original
+Charges which identified the correct date on which the offences were alleged to have taken place,
+as well as the Agreed Statement of Facts, the Tribunal concluded that it could proceed with the
+hearing on the basis of the Amended Charges.
+Merits of the Amended Charges
+6.
+
+Based on the ASF, the Student and the University agree on the following facts:
+(a)
+
+the Student first registered as a student at the University’s Faculty of Arts and Science in
+the Fall of 2021. As of November 3, 2023, the Student had earned 11.0 credits with a
+
+-4cumulative Grade Point Average of 2.23. The ASF included a copy of the Student’s
+academic record at the University;
+
+(b)
+
+in the Fall of 2022, the Student enrolled in the Course: Calculus with Proofs, which was a
+full-year course;
+
+(c)
+
+the Course syllabus contained a section on academic integrity. It stated that students were
+expected to be familiar with the Code, and that the University treated cases of academic
+misconduct very seriously.
+
+The syllabus provided examples of potential offences,
+
+including using or possessing unauthorized aids during an exam, misrepresenting one’s
+identity, and using someone else’s ideas or words without appropriate acknowledgment;
+
+(d)
+
+students in the Course were required to write a final exam (the “Exam”) worth 30% of the
+final grade in the Course. The Exam took place in person on April 19, 2023 from 7:00 p.m.
+to 10:00 p.m.;
+
+(e)
+
+after the Exam started, invigilators in the Exam room began walking around the room to
+verify the identify of each student writing the Exam. Students were asked to show the
+invigilators their “TCards”, the University’s photo identification cards, to confirm that they
+were who they said they were;
+
+(f)
+
+Xincheng Zhang, a Teaching Assistant for the Course, was one of the Exam Invigilators.
+Due to the large number of students in the Course, Mr. Zhang did not know the Student
+personally. While the Exam was in progress, Mr. Zhang approached the individual who
+was writing the Student’s Exam and asked to see their TCard. Comparing the photograph
+on the Student’s TCard and the individual writing the Exam, Mr. Zhang became concerned
+that the individual did not resemble the photograph on the TCard.
+
+(g)
+
+Mr. Zhang reported his suspicions that someone was impersonating the Student to Dani
+Fischer a Chief Presiding Officer (“CPO”) in the Exam room. Ms. Fischer looked at the
+Student’s TCard. She concluded that the individual writing the Exam did not look like the
+person in the photograph on the TCard. She called the Office of the Registrar at the
+University for instructions on how to proceed;
+
+(h)
+
+in response to Ms. Fischer’s call, Shelby Patrick was called to the Exam room to assist.
+Ms. Patrick had been working as a back-up CPO for exams taking place on April 19, 2023.
+
+-5Ms. Patrick looked at the Student’s TCard and compared it to the person who was writing
+the Exam. She concluded that they appeared to be different people.
+
+(i)
+
+Ms. Patrick asked the person writing the Student’s Exam to step into the hallway to answer
+some questions. Once in the hallway, she explained that she was having difficulties
+verifying that the person writing the Exam was the same person pictured on the TCard.
+She asked the Exam writer to allow her to take a photograph of them. The individual
+agreed and cooperated with having their photograph taken. The individual explained that
+they were “more tan” than in the photograph on the TCard. Once Ms. Patrick had taken
+the photographs, she allowed the individual to return to the Exam room and complete the
+Exam;
+
+(j)
+
+the Exam writer submitted the Student’s Exam with the following personal information on
+the front page of the Exam booklet [All bold in the original]:
+Last (Family) Name: L
+First (Given) Name:
+
+H
+
+Student Number:
+Utoronto email:
+
+l h
+
+@mail.utoronto.ca
+
+The Student’s Utoronto email address is h
+l h
+
+(k)
+
+.l @mail.utoronto.ca and not
+
+@mail.utoronto.ca;
+
+Ms. Patrick pulled the Student’s Exam paper and filed it along with two reports of her
+suspicions that someone was impersonating the Student during the Exam. Ms. Fischer also
+included her observations in one of those reports;
+
+(l)
+
+on May 31, 2023, the Student met with Professor Susannah Varmuza, Dean’s Designate
+for Academic Integrity at the Faculty of Arts and Science, via Zoom, to discuss the
+allegation that the Student had had another person write the Exam on the Student’s behalf.
+The Student acknowledges that Professor Varmuza provided them with the Dean’s warning
+contained in the Code and that they were aware that they did not have to say anything in
+the meeting;
+
+-6(m)
+
+Professor Varmuza explained that the person who presented the Student’s TCard did not
+look like the Student and that in looking at the Student on Zoom, it was clear that the person
+who wrote the Exam was not the Student.
+
+(n)
+
+the Student read a statement that they had prepared prior to the meeting. In it, the Student
+admitted to the allegation of personation. The Student explained that because they were
+not doing well in the Course, their father had arranged for someone else to write the Exam
+for them. While the Student had initially tried to argue with their father that they could
+write the Exam themselves, the Student eventually gave this unknown person their TCard
+so that they could complete the Exam in the Student’s place. The Student explained that
+their father was abusive and that they were experiencing physical and mental health
+challenges, as well as financial challenges; and
+
+(o)
+
+at the Dean’s meeting, the Student admitted that they had not written the Exam in the
+Course. The Student admitted that he had committed and academic offence by providing
+their TCard to someone else with the intention that they would write the Exam for the
+Student.
+
+7.
+
+In the ASF, the Student admitted and acknowledged that:
+(a)
+
+they did not write the Exam themselves. Instead, they provided their TCard and the details
+about the Exam to another individual so that this person, paid by the Student’s father, could
+attend the Exam using the Student’s identification to write the Exam as if they were the
+Student;
+
+(b)
+
+they knowingly had someone personate them in order to write the Exam and obtain a better
+mark than the Student expected to obtain for themselves, contrary to sections B.I.1(c) and
+B.II.2 of the Code; and,
+
+(c)
+
+they knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with the Exam, contrary to section
+B.I.3(b) of the Code.
+
+-78.
+
+The Student further acknowledged in the ASF that they had received a copy of the Charges,
+
+waived reading of the Charges, and pleaded guilty to all of the Charges.
+9.
+
+Counsel for the University submitted that based on the foregoing, it had established the
+
+factual basis for the Tribunal to accept the plea of guilty to charge 1 of the Amended Charges.
+Counsel advised the Tribunal that if the Tribunal returned a conviction on that charge, the
+University would withdraw the other two charges in the Amended Charges.
+10.
+
+When invited to respond to counsel for the University’s submissions on the merits of the
+
+charges, the Student read a statement consistent with the facts in the ASF.
+11.
+
+Based on the facts set out in the ASF as set out above, the Tribunal finds that the Student
+
+did commit the offence set out in the first charge in the Amended Charges. The Student has
+admitted that they provided another person with the Student’s TCard so that that person could
+write the Exam in the Student’s place. That other person then did just that. Those actions
+constitute the offence of knowingly having another person personate the Student at the Exam in
+the Course contrary to section B.I.1(c) of the Code. The Tribunal therefore accepts the Student’s
+plea of guilty and finds the Student guilty of the first charge in the Amended Charges. With the
+Tribunal having reached that decision, the University withdrew the other two charges in the
+Amended Charges.
+Sanction
+Evidence
+12.
+
+After the Tribunal accepted the Student’s guilty plea to charge 1 of the Amended Charges,
+
+the hearing moved into the sanction phase. At the outset of this phase, counsel for the University
+
+-8provided the Tribunal with an agreed statement of facts on penalty (the “ASF on Penalty”).
+Appended to the ASF on Penalty were copies of:
+(a)
+
+text messages between the Student and their father dated April 1 and April 19, 2023;
+
+(b)
+
+text messages between the Student and their mother dated April 9, 2023;
+
+(c)
+
+a doctor’s letter from the Guangzhou Psychological Clinic dated April 8, 2023; and
+
+(d)
+
+an English translation of the above documents, which were all written in Chinese,
+prepared by the University.
+
+13.
+
+Based on the English translation of the text messages prepared by the University, the text
+
+messages indicated that on April 1, 2023, the Student’s father had suggested that the Student was
+useless, slow-witted and a blockhead, and that the father wanted to hire a ghost writer to take the
+Exam instead of the Student. The Student’s father complained about how much it was costing to
+send the Student to school and said the Student needed to come back if the Student argued any
+more.
+14.
+
+The text messages then show that on April 9, 2023, the Student told their mother that they
+
+had been diagnosed with depression and that after the talk (presumably with the Student’s father)
+the Student had no appetite and no interest in anything, all the Student wanted to do was sleep.
+The Student’s mother told the Student that his father had his own stresses, that they had spent a lot
+of money to support the Student while he was studying abroad, and that the family’s financial
+status was not as stable as before.
+15.
+
+The texts between the Student and their father indicate that on the day of the Exam, April
+
+19, 2023, the Student’s father texted the Student, telling the Student that someone would come to
+knock on his door, and reminding the Student to pass their TCard to that person.
+
+-916.
+
+The translation of the doctor’s note indicated that the Student had seen Weijun Wang, a
+
+doctor with the Guangzhou Baiyun Psychological Clinic, on April 8, 2023. Dr. Wang concluded
+that the Student was intending to escape from reality and had moderate anxiety. Dr. Wang
+recommended that the Student keep an open, optimistic mind, seek help from their friends, and
+take practical actions to improve their self-confidence.
+17.
+
+Counsel for the University took the position that although the text messages and doctor’s
+
+letter were included as part of the ASF on Penalty, the University had not agreed to their
+authenticity or the truth of their contents, and as such, the Tribunal could attach no weight to them.
+Counsel for the University stated that for the Tribunal to give the text messages and doctor’s letter
+any weight, the Student had to testify about them and be cross examined on that evidence. Without
+accepting the validity of that position, the Tribunal invited the Student to give evidence about the
+documents, while noting that in doing so the Student would be open to cross examination by the
+University’s counsel. The Tribunal then adjourned the hearing to allow the Student an opportunity
+to consider how they wanted to proceed. When the hearing resumed, the Student advised the
+Tribunal that they were prepared to give evidence about the documents and be cross examined on
+that evidence.
+18.
+
+After being affirmed, the Student testified that the texts were the texts they had exchanged
+
+with their father and mother before the Exam. The substance of the Student’s evidence was that
+their father was unhappy with their marks in the Course. While the Student wanted to write the
+Exam themselves, their father did not believe they could achieve a good mark so decided to find
+someone else to write the Exam. The Student went along with that plan because they could not
+stand up to their father.
+
+- 10 19.
+
+In cross examination, the Student repeated that their father was unhappy with them about
+
+their math grades. They confirmed that they were living in Toronto and their father was in China.
+They agreed that they lived about five minutes from the place where the Exam was being written.
+The person sent by their father showed up at their home about twenty minutes before the Exam.
+The Student gave their TCard to that person. The Student stated that they did not know if that
+person would know where the Exam was being written unless the Student told them. The Student
+stated that they did not have the courage to stand up to their father.
+20.
+
+We accept the Student’s evidence that the texts are genuine. Based on the texts and the
+
+Student’s evidence at the hearing, we accept that the idea of having someone impersonate the
+Student originated with the Student’s father. We accept the Student’s evidence that their father
+pressured them into having someone write the Exam instead of them, and that they were
+experiencing mental health issues in this time period. At the same time, we also find that the
+Student provided their TCard to the person who impersonated them knowing that that person
+planned to write the Exam for them.
+Submissions
+21.
+
+Counsel for the University submitted that impersonation was a very serious offence
+
+deserving of very serious sanctions. Pointing to such cases as the University of Toronto and H.Z.
+(Case No. 1474, July 17, 2023), the University of Toronto and F.Z (Case No. 1243, December 20,
+2022) and the University of Toronto and P.L. (Case No. 1211, September 23, 2021), counsel
+argued that impersonation convictions typically resulted in a penalty of a mark of zero in the course
+and a five-year suspension. Recommending a student’s expulsion was not without precedent as
+
+- 11 could be seen by cases such as the University of Toronto and Z.T. (Case No. 758 December 4,
+2015) and the University of Toronto and M.J.S. (Case No. 735, October 2, 2014).
+22.
+
+Counsel for the University stated that ordinarily the University would be seeking expulsion,
+
+but based on the unique facts of this case, the University was seeking a lesser penalty having regard
+to the Student’s admissions, cooperation, difficult family circumstances, and the fact that this was
+the Student’s first offence. As a result of those circumstances, the University asked the Tribunal
+to impose a grade of zero in the Course and four years, eight-month suspension starting on May 1,
+2024 and ending on December 31, 2028, and a notation of the sanction on the Student’s academic
+record and transcript for five years and eight months from the date of the order.
+23.
+
+Counsel for the University noted that delaying the starting date of the suspension to May
+
+1, 2024, would provide the Student with the opportunity to complete the courses they were
+currently taking. The period of suspension was lower than the typical penalty in impersonation
+cases, but appropriate in this case considering that the Student had no prior record of any academic
+offences, had admitted their guilt, and had cooperated throughout the discipline process. At the
+same time the sanction was in line with the penalty imposed in previous impersonation cases, and
+reflected the fact that the Student committed the offence with full knowledge at all material times
+that they were doing so. Additionally, the Student had failed to reach out to anyone for help in the
+18 days between the date on which the Student’s father had first suggested hiring someone else to
+take the Exam and the date on which the Exam took place.
+24.
+
+In response, the Student asked the Tribunal to impose a much lower penalty noting the
+
+financial consequences any suspension would have on them and their family, and the effect the
+
+- 12 suspension would have on their future. When asked if they planned to return to the University
+after any suspension, the Student indicated that they did not know.
+Decision
+25.
+
+The factors this Tribunal must consider in deciding what sanction to impose are well
+
+established. The leading case is University of Toronto v Mr. C. (Case No. 1976/1977-3, November
+5, 1976) in which, sitting as a member of the Appellate Division of this Tribunal, former Supreme
+Court of Canada Justice Sopinka described them this way:
+What then are the principles that this Tribunal should follow in dealing with an appeal from
+sentence? First, in my opinion, punishment is not intended to be retribution to get even, as
+it were, with the student for what he has done. It must serve a useful function. The classical
+components of enlightened punishment are reformation, deterrence, and protection of the
+public. In applying these criteria, a tribunal should consider all of the following:
+
+26.
+
+(a)
+
+the character of the person charged;
+
+(b)
+
+the likelihood of a repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the
+offence;
+
+(e)
+
+the detriment to the University occasioned by the offence;
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+Considering each of the above factors, the sanction the University seeks is appropriate.
+(a)
+
+Character: Based on the oral and documentary evidence, and the fact that the
+Student cooperated with the disciplinary process and attended the hearing itself,
+and without excusing the Student’s conduct in any way, we are prepared to accept
+that the Student succumbed to the pressure placed upon them by their father to
+allow someone to impersonate them rather than a general disregard of the values
+
+- 13 embodied by the Code. As such, beyond the obvious issues posed by the offence
+itself, we do no believe that the Student’s character is a negative factor in this case.
+The fact that the Student had no prior record of any academic offences reinforces
+this belief.
+(b)
+
+Likelihood of Repetition: Based on the evidence before us, we do not believe that
+the Student is likely to re-offend in the future. The Student had no prior record of
+academic offences while the circumstances of this particular offence are unlikely
+to be repeated.
+
+(c)
+
+Nature of the Offence: This is likely the most important factor in this case. As the
+precedent cases cited by counsel for the University make clear, impersonation is a
+very serious offence meriting a serious sanction. There are many reasons for its
+status. Having someone else write one’s examination is not something done lightly
+or without advance planning. As such, it is rarely something done on the spur of
+the moment. Sometimes it involves monetary payments to the impersonator. It is
+much worse than simple plagiarism given that it involves an attempt to submit the
+work of a completely different person rather than one’s own.
+For all those reasons, penalties for impersonation convictions typically range from
+a suspension of five years to a recommendation for expulsion. Students who have
+cooperated with the University, admitted guilt, and shown extenuating
+circumstances have typically received a five-year suspension. Students who have
+a record of previous academic misconduct, have not cooperated, have not pleaded
+guilty or have failed to show any extenuating circumstances have typically received
+
+- 14 a recommendation that they be expelled. Counsel for the University was not aware
+of any case (nor is the Tribunal) in which a student found guilty of impersonation
+has received a suspension of less than five years.
+(d)
+
+Extenuating Circumstances: As noted earlier, the Tribunal accepts the Student’s
+evidence that the idea of having someone take the Exam for them was not their idea
+but rather originated with their father, as well as the evidence that the Student was
+under a high degree of stress and possibly suffering from depression at the time of
+the offence. There is no excuse for the Student’s conduct, but these circumstances
+help to explain it, and as such tend to support a sanction that is at or possibly below
+the norm for such an offence.
+
+(e)
+
+Detriment to the University: Honesty and integrity form part of the University’s
+core values. Few actions are more dishonest and display a lack of integrity than
+having someone take an examination for oneself. It cannot be tolerated. As such,
+this factor weighs in favour of a serious sanction.
+
+(f)
+
+Deterrence: A serious sanction tells students that impersonation is not tolerated at
+the University. As such, as a matter of general deterrence, the Tribunal ought to
+impose a serious sanction, consistent with those imposed by past Tribunals.
+
+27.
+
+Taking all of the above into consideration, we have concluded that the penalty requested
+
+by counsel for the University is the appropriate sanction in this case. We are not prepared to
+recommend expulsion in this case. The Student has no prior record of academic offences,
+cooperated with the discipline process and pleaded guilty. Unlike some of the students in the cases
+where the Tribunal recommended expulsion, the Student attended and gave evidence at the
+
+- 15 hearing, accepting that his conduct was wrong and attempting to explain it. Those factors tend to
+point to a penalty on the lower end of the typical range.
+28.
+
+The Tribunal notes that the period of suspension requested by counsel for the University
+
+was not just at the lower end of the range, it was four months lower than the lowest period of
+suspension previously imposed, namely a five-year suspension. We conclude that this small
+deviation from the typical low end of the range is appropriate based on the specific facts of this
+case, in particular the fact that the Student did not originate the idea of having someone
+impersonate them, the pressure the Student’s father placed on the Student, the Student’s mental
+condition, the Student’s early admission of guilt and cooperation with the discipline process, guilty
+plea, and attendance at the hearing. Had any of those circumstances not been present we would
+have imposed a longer period of suspension, and possibly recommended expulsion given the
+seriousness of the offence of impersonation.
+Order
+29.
+
+For the reasons set out above, the Tribunal orders that:
+(a)
+
+the Student be found guilty of one count of personation in connection with the final
+exam in the Course on April 19, 2023 contrary to section B.I.1(c) of the Code;
+
+(b)
+
+the Student be given a final grade of zero in the Course;
+
+(c)
+
+the Student be suspended from the University for a period of four years and eight
+months from May 1, 2024 to December 31, 2028;
+
+- 16 (d)
+
+the sanction be noted on the Student’s academic record and transcript for a period
+of five years and eight months starting as of February 21, 2024; and,
+
+(e)
+
+the case be reported to the Provost for publication of a notice of the Tribunal’s
+decision and the sanctions imposed, with the Student’s name withheld.
+
+Dated at Toronto at this 22nd day of May 2024.
+Original signed by:
+_______________________
+Seumas Woods, Chair
+On behalf of the Panel
+
+1411-0808-9100.2
+
+

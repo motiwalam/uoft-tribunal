@@ -1,0 +1,334 @@
+Case No.: 1423
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty filed on September 29, 2022
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+
+and
+
+S
+
+J
+
+REASONS FOR DECISION
+Hearing Date: November 11, 2022, via Zoom
+Members of the Panel:
+Mr. Andrew Bernstein, Chair
+Professor Vivienne Luk, Faculty Panel Member
+Ms. Giselle Dalili, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Dmitriy Pak, Downtown Legal Services, for the Student
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Office of Appeals Discipline and Faculty Grievances
+
+2
+A.
+
+Charges and Overview
+
+1.
+
+On November 11, 2022, this Panel of the University Tribunal held a hearing to consider
+
+the charges brought by the University of Toronto (the “University”) against
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+(a)
+
+On or about December 17, 2021, you knowingly had someone personate you at
+the final exam in CSC207H5 (the "Course") and/or having an intent to commit the
+offence of personation under the Code, did or omitted to do something for the
+purpose of carrying out that intention (other than mere preparation to commit the
+offence), contrary to sections B.I.1(c) and B.II.2 of the Code.
+
+(b)
+
+In the alternative, on or about December 17, 2021, you knowingly obtained
+unauthorized assistance in connection with the final exam in the Course and/or
+having an intent to commit the offence of unauthorized assistance under the Code,
+did or omitted to do something for the purpose of carrying out that intention
+(other than mere preparation to commit the offence), contrary to sections B.I.1(b)
+and B.II.2 of the Code.
+
+(c)
+
+In the further alternative, on or about December 17, 2021, you knowingly
+represented as your own an idea or expression of an idea or work of another in the
+final exam in the Course and/or having an intent to commit the offence of
+plagiarism under the Code, did or omitted to do something for the purpose of
+carrying out that intention (other than mere preparation to commit the offence),
+contrary to section B.I.1(d) of the Code.
+
+(d)
+
+In the further alternative, on or about December 17, 2021, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with the final exam
+you submitted in the Course, contrary to section B.I.3(b) of the Code.
+
+3
+2.
+
+Until December 2021, the Student was an undergraduate at the University of Toronto
+
+Mississauga Campus, in the Faculty of Arts and Science. She had completed 19.5 of the 20
+credits required to graduate, and the Course (as defined in the charges) was the last half credit
+she required. Unfortunately, she made the decision to engage in serious academic misconduct
+with respect to this last half credit, and will now suffer a long suspension until she can complete
+her degree.
+3.
+
+The Panel in this case has given effect to the joint submission as to penalty made by the
+
+Provost and the Student, but we are, frankly, not very happy about it. We do so not because we
+think it is merited, but rather because the case law that has been brought to our attention makes it
+clear that if we were to give her a lesser punishment, it would all but inevitably lead to a
+successful appeal by the Provost. This would likely do her no favours, as it will enmesh her in
+further proceedings. We discuss this – and some things that are troubling us about the
+sanctioning process – below.
+B.
+
+Liability
+
+4.
+
+The Student accepted liability for the violation of the Code, and agreed to a statement of
+
+facts. The below summarizes those facts.
+(a)
+5.
+
+Facts
+
+The Student was enrolled in the Course, which was being offered online, in the fall of
+
+2021. It was taught by Ilir Dema and Sonya Allin. The final exam was worth 40% of the
+student’s final grade in the Course, and was to be administered online.
+6.
+
+In December 2021, she was taking care of a friend who had contracted COVID-19. She
+
+began to feel pressure about the Course, which was her last required credit. She therefore posted
+
+4
+an advertisement on Freelancer.com asking for help in the course. Someone replied and they
+started talking. She did not know his name at the time, but as we will see later, he identified
+himself as
+7.
+
+(
+
+The Student sent
+
+”).
+$200 for assistance. She also sent him some screenshots of the
+
+exam question and sought his help. This is, of course, serious academic wrongdoing. Students
+are not supposed to get extraneous help on an exam, even if it is online.
+8.
+
+never provided the help the student had sought. He demanded more money (and
+
+possibly other things – we saw a redacted version of an e-mail, which did not tell the entire
+story). When the student said she could not pay him any more, he threatened to tell her
+professors. The student told him she had no more money, and, as threatened, he e-mailed both
+course instructors to advise them she had tried to cheat.
+9.
+
+When confronted about this by the Dean’s designate, the Student admitted to all of this
+
+behaviour. She told the Dean that she had been taking care of a friend who had COVID-19, and
+was under a significant amount of financial stress, as she was an international student and her
+parents could not afford to pay for another semester at the University. She admitted she had
+sought assistance, although maintained that she never received any assistance and that the work
+she ultimately submitted was her own.
+(b) Code Violation
+10.
+
+The Student accepted liability on all charges. However, the Provost has indicated that if
+
+there is a finding of liability on Charge #2, it will withdraw the balance of the charges.
+
+5
+11.
+
+The Panel finds the Student liable on Charge #2. It is an offence for a student to
+
+knowingly “obtain unauthorized assistance in any academic examination” (s. B.i.1(b)). Although
+the Student did not actually obtain the assistance, the Code specifies that if a member forms the
+intent to commit an offence, and does anything for the purpose of carrying out that intention, the
+member is guilty of an attempt to commit the offence and liable to the same sanction (s. B.ii.2).
+This is clearly what happened here: the Student formed the intent to obtain unauthorized
+assistance, and took numerous steps to carry out that intention, up to and including sending
+money to
+12.
+
+. This makes the Student guilty of an attempt to obtain unauthorized assistance.
+
+The panel recognizes that trying to buy help on an exam is serious conduct. We do not
+
+condone it. We strongly condemn it. We recognize the problems that the internet has caused for
+academic life in general, and the threat it poses to the integrity of an academic environment. But,
+as we explain below, we seriously wonder whether the harsh penalty in this case is
+accomplishing any legitimate objective of a system of academic discipline. We also wonder
+whether, in the circumstances, the harshness of the likely punishments creates incentives to agree
+to things that do not necessarily appear fair to the student.
+C.
+
+Sanction
+
+13.
+
+The parties entered into a joint submission on penalty. They agreed to the following:
+(a)
+
+a final grade of zero in the course CSC207H5 in Fall 2021;
+
+(b)
+
+the Student will be suspended from the University of Toronto for a period of five
+years, from May 1, 2022 to April 30, 2027; and
+
+(c)
+
+this sanction will be recorded on the Student’s academic record and transcript
+until graduation.
+
+6
+14.
+
+The Panel notes that a five-year suspension is the harshest penalty that this Tribunal can
+
+give out. The only harsher penalty available is expulsion, which this Tribunal can recommend
+but has to be approved by the Governing Council.
+15.
+
+It is trite before this tribunal that the appropriate sanction is decided by reference to
+
+factors set out in the case University of Toronto and Mr. C. (Case No. 1976/77-3, November 5,
+1976). However, there are special considerations when there has been a joint submission as to
+penalty. In those cases, the Discipline Appeals Board has made it clear that “a joint submission
+may be rejected only in circumstances where to give effect to it would be contrary to the public
+interest or bring the administration of justice into disrepute.” (University of Toronto v. Fernando,
+October 30, 2012, para. 18). In other words, only a truly unreasonable or unconscionable joint
+submission should be rejected (Fernando, para. 22).
+16.
+
+We have some concerns about the penalty that is the subject of the joint submission. In
+
+the absence of case law setting out similar penalties for similar offences, we might well have
+concluded that our concerns rise to the level of making the penalty “unreasonable or
+unconscionable.” We do not necessarily agree with this case law but recognize that consistency
+is a hallmark of an effective tribunal process. It was on that basis that we agreed to give effect to
+the joint submission on penalty. But we would be remiss if we did not discuss our misgivings,
+for what they are worth.
+17.
+
+Punishments have many purposes: to discourage the offender from committing another
+
+offence (specific deterrence), to discourage others from committing offences (general
+deterrence), to take away the offender’s ability to commit another offence (incapacitation), to
+make a statement that the conduct is unacceptable (denunciation), to help the offender change so
+
+7
+that they are not inclined to offend again (rehabilitation) and to extract a “price” that the offender
+must “pay” for their offences (retribution). The seminal case for this Tribunal is Mr. C. and even
+almost fifty years ago, it recognized that some of these purposes are more relevant than others.
+As Mr. Sopinka QC (as he then was) stated (at p. 13)
+Punishment is not intended to be retribution to get even, as it were, with the
+student for what he has done. It must serve a useful function. The classical
+components of enlightened punishment are reformation, deterrence and
+protection of the public.
+18.
+
+Although that was no doubt current as of 1976, it is questionable to what extent it
+
+remains so. In the criminal context, the value of general deterrence as a sentencing principle has
+been called seriously into question by significant academic research – some of it done by
+prominent researchers at our own University – that “accepts the null hypothesis” that sentence
+severity has no relationship to rate of offending – see Anthony N Doob & Cheryl Marie Webster,
+“Sentence Severity and Crime: Accepting the Null Hypothesis” (2003) 30 Crime & Justice 143
+at 144–46. Other research confirms that – see Raymond Paternoster, “How Much Do We Really
+Know about Criminal Deterrence?” (2010) 100:3 J Crim L & Criminology 765 at 789–800.
+19.
+
+The theory behind general deterrence is that potential offenders weigh the “expected
+
+value” of the punishment against the benefit (B) that they obtain from committing the offence.
+The expected value of punishment considers the probability of being caught (P) and the likely
+sanction (S), and multiplies them (“PS”). So if PS is greater than B, they will not offend. If PS is
+lower than B, they will. We know that in the university setting, and notwithstanding the
+university’s efforts, it is difficult to catch cheating, so P is low. This means to keep PS greater
+than B, we need to make S high.
+
+8
+20.
+
+The problem that the Doob article points out is that the social science evidence questions
+
+this construct. It seems that few potential offenders go through this mental process of weighing B
+against PS. In fact, it seems they rarely consider the consequence at all. And while the Doob
+article relates to criminal justice rather than studies in the context of academic discipline, it is at
+least worth asking the question as to why we expect there to be differences. There may well be
+reasons as this is a closed system perhaps more akin to professional discipline than criminal law.
+But we do not really know, and simply collectively deciding “this is different” is antithetical to
+how we answer difficult questions in an academic environment.
+21.
+
+So the panel is left with at least some doubt about the value of general deterrence as it
+
+relates to long suspensions. In our view, it is given too much weight in selecting a sanction.
+Certainly, the sanction is difficult to justify for any other purpose. It is hard to believe that a fiveyear suspension (as opposed to a substantial, but significantly shorter suspension) serves any
+rehabilitative purpose in this case. It is hard to believe that the Student is such a danger to the
+academic integrity of the school that we need to remove her from the environment for 5 years. It
+is hard to believe that 5 years is needed for specific deterrence or even denunciation.
+22.
+
+Our misgivings are compounded by some of the risks associated with presumptively
+
+harsh sanctions: they give the Provost implied leverage to obtain joint submissions on penalty
+which largely takes sanctions out of the hands of the Tribunal. In this case, we fear that the
+Student and her counsel agreed to this penalty out of fear of expulsion. While we are certain that
+the extremely professional Assistant Discipline Counsel (who did an excellent job, as always)
+would not do this intentionally, the spectre of even harsher punishment invariably lurks over any
+negotiations. It goes without saying that this harms the process in numerous ways.
+
+9
+23.
+
+Finally, we wonder if the Student will really learn anything from this experience. We
+
+wonder whether she will think that she has been treated fairly. Her conduct was unacceptable.
+But for that conduct, she ended up being extorted by
+
+, denied her last half-credit, and now
+
+her academic career is on hold for five years. No doubt that she put herself in this situation. But
+that does not mean that she deserves anything and everything that might happen to her after.
+24.
+
+This is an unhappy end to an unhappy situation. Notwithstanding our significant
+
+misgivings, we order the penalty agreed to by the parties, and order that these reasons be
+provided to the Provost and published with the Student’s name withheld. But we hope that the
+Provost will have occasion to consider the concerns we are expressing, either as a general matter,
+or specifically in future cases.
+
+Dated at Toronto, this 3rd day of January 2023
+
+__________________________________________________
+
+Mr. Andrew Bernstein, Chair
+On behalf of the Panel
+
+

@@ -1,0 +1,816 @@
+Case No. 1201
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 3, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+The UNIVERSITY OF TORONTO
+– and –
+S
+
+O
+
+REASONS FOR DECISION
+Hearing Date: July 8, 2021, via Zoom
+Members of the Panel:
+Mr. R.S.M. Woods, Chair
+Professor Gabriele D’Eleuterio, Faculty Panel Member
+Mr. Alex Erikson, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Kimberly Dias, Representative for the Student, Downtown Legal Services
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+S
+
+O
+
+-2The Charges
+On May 3, 2021, the University of Toronto (the “University”) laid the following charges
+
+1.
+
+(the “Charges”) against S
+
+O
+
+(the “Student”) under the Code of Behaviour on Academic
+
+Matters, 1995 (the “Code”):
+1
+
+On or about December 11, 2020, you knowingly used or possessed an unauthorized aid or aids or
+obtained unauthorized assistance in a final exam in MGT2205H: Advanced Financial Accounting
+(the “Course”), contrary to section B.I.1(b) of the Code.
+
+2
+
+On or about December 11, 2020, you knowingly represented as your own an idea or expression of
+an idea or work of another in question 1 of Test 2 that you wrote in the Course, contrary to section
+B.I.1(d) of the Code.
+
+3 In addition, and in the alternative, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code in order
+to obtain academic credit or other academic advantage of any kind, contrary to section B.I.3(b) of
+the Code, in connection with Test 2 in the Course.
+
+The Hearing
+2.
+
+The Tribunal heard the Charges on July 8, 2021 by video conference over Zoom due to the
+
+COVID-19 pandemic. The University was represented by counsel at the hearing as was the
+Student. The Student also attended the hearing.
+Merits of the Charges
+Evidence and Submissions
+3.
+
+At the outset of the hearing, counsel for the University advised the Tribunal that the parties
+
+had come to an agreement on an agreed statement of facts (the “Agreed Statement of Facts”), a
+copy of which is attached as Schedule A to these reasons.
+4.
+
+Based on the evidence contained in the Agreed Statement of Facts, counsel for the
+
+University submitted that the Tribunal should find the Student guilty of the first and second
+offences outlined in the Charges. Counsel indicated that if the Tribunal found the Student guilty
+
+-3of those two offences, the University would withdraw the third charge. Counsel for the Student
+agreed with the submissions of counsel for the University, submitting that the Tribunal should find
+her client guilty of the first two charges.
+Decision on the Merits
+5.
+
+As set out in the Agreed Statement of Facts, the Student is an international student from
+
+Nigeria. She has been enrolled in the School of Graduate Studies at the University since the fall
+of 2019. To date, she has completed 15.25 credits towards a Master of Management and
+Professional Accounting degree and continues to take courses at the University.
+6.
+
+According to a note from a doctor at UTM Health & Counselling Centre appended to the
+
+Agreed Statement of Facts, as of the fall of 2020, the Student had been diagnosed with a number
+of medical conditions, including obstructive sleep apnea, prediabetes and adjustment disorder. The
+Student was undergoing investigations for leg swelling and was experiencing marked daytime
+sleepiness, suspected to be secondary to her obstructive sleep apnea.
+7.
+
+In the 2020 Fall academic term the Student enrolled in MGT2205H Advanced Financial
+
+Accounting (the “Course”); a course taught by Professor Eckhard Schumann. Students in the
+Course were required to write two tests, which were each worth 20% of the mark for the Course.
+The tests were to be written remotely. The Course syllabus specified that the tests were “open
+book and individual and no collaboration will be allowed.”
+8.
+
+The test in issue in this proceeding was the second of the two tests (“Test 2”). Professor
+
+Schumann had created six versions of Test 2. The questions, and therefore the answers to those
+questions, were different in the different versions.
+9.
+
+Professor Schumann made Test 2 available to students between 9:00 a.m. and 12:15 p.m.
+
+on December 11, 2020. Students were expected to upload their answers to the five questions in
+Test 2 onto Quercus by 12:15 p.m. on December 11, 2020, in the form of an Excel file for certain
+questions and a Word file for other questions.
+10.
+
+The front cover of Test 2 specifically reminded students that the test was an individual test
+
+and that students were not allowed to disclose or discuss the content or nature of the test with
+
+-4anyone else. Students were required to sign a statement on the first page of the test confirming
+that they were not using any unauthorized aids and that it was an academic offence to do so that
+could result in academic discipline.
+11.
+
+The Student has admitted in the Agreed Statement of Facts that when she came to the end
+
+of Test 2, she panicked because she did not have time to finish her answer to the first question
+(“Question 1”) on the test. At the time, the Student was under stress. She was isolated from her
+family in Nigeria where there had been security issues which frightened the Student. She was also
+worried about the financial consequences of failing the Course.
+12.
+
+The Student admits that in those circumstances she used the login information and
+
+password for Quercus of another student (“S.C..”) to access that student’s answers to Test 2. S.C,
+had provided the Student with S.C.’s login information and password in April 2020 to allow the
+Student to access certain materials in a different course.
+13.
+
+The Student admits that she copied S.C.’s answer to Question 1, and then, after making
+
+some minor changes, added it to the answers she had prepared for Test 2, which she then submitted
+to Quercus. She admits that she did this despite knowing that this was contrary to the prohibition
+against collaboration and the use of unauthorized assistance and unauthorized aids for any part of
+Test 2, and that she did not turn her mind to the consequences this might have for S.C.
+14.
+
+S.C. was not aware that the Student had used S.C.’s login information and password to
+
+access S.C.’s answers to Test 2, or that the Student had submitted S.C.’s answer to Question 1 as
+if it were her own answer.
+15.
+
+When grading the answers his students had submitted for Test 2, Professor Schumann
+
+noticed that the Student’s answer for Question 1 of Test 2 was nearly identical to that of S.C. The
+two answers used the same formatting and the same abbreviations. Moreover, the Student’s
+answers to Question 1 were the same as S.C.’s answers. That should not have been the case
+because the Student and S.C. had received different versions of Test 2. The Student had written
+version 4 of Test 2 while S.C. had written version 1 of the test.
+16.
+
+The Student admits that in using S.C.’s login information and password to access S.C.’s
+
+answers to Test 2 and to specifically copy S.C.’s answers to Question 1 of Test 2 the Student:
+
+-5(a)
+
+used or possessed aid or aids or obtained unauthorized assistances in Test 2, contrary to
+section B.I.1(b) of the Code;
+
+(b)
+
+represented the ideas of another person, the expression of the ideas of another person, and
+the work of another person as her own in Question 1 of Test 2, committing plagiarism
+contrary to section B.I.1(d) of the Code; and
+
+(c)
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind, contrary to section B.I.3(b) of the Code.
+
+17.
+
+Based on the facts and admissions set out in the Agreed Statement of Facts, we find the
+
+Student guilty of the first two offences in the Charges. The University has therefore withdrawn
+the third charge.
+Sanction
+Evidence and Submissions on Sanction
+18.
+
+Neither the University nor the Student adduced any further evidence during the sanction
+
+phase of the hearing, relying on the facts set out in the Agreed Statement of Facts.
+19.
+
+The University and the Student made a joint submission on penalty, asking us to make an
+
+order that the Student receive a final grade of zero in the Course, be suspended from the University
+for a period of two years from September 1, 2021 to August 31, 2023, that a notation of the sanction
+be placed on the Student’s academic record and transcript from the date of our order to July 8,
+2024, and that the Tribunal report the case to the Provost for publication of a notice of the
+Tribunal’s decision and the sanction imposed in the University newspapers, with the name of the
+Student withheld.
+20.
+
+Counsel for the University submitted that the proposed sanction was appropriate in all of
+
+the circumstances. In terms of mitigating factors, counsel noted that the Student admitted the
+offence from the outset and had immediately made it clear that S.C. had not been involved in the
+matter. This was the Student’s first offence and she had cooperated throughout the investigation.
+There was evidence that the Student was under great stress and that the offences were not
+
+-6premeditated and deliberate, but were something less formal, more like looking at someone else’s
+answers over their shoulder. On the other hand, the offences were serious and had the potential to
+adversely affect an innocent third party.
+21.
+
+Counsel for the University pointed us to a number of previous decisions which, she
+
+submitted, indicated that the type of penalty typically imposed for the offences for which the
+Student had been found guilty included a mark of zero in the course and a suspension ranging from
+a low of about two years and a high of three and one-half years, and a notation on the Student’s
+record for about one year longer than the suspension. She also noted that in previous cases the
+Tribunal had ruled that it would only reject a joint submission on penalty in circumstances in which
+giving it effect would be contrary to the public interest or would bring the administration of justice
+into disrepute. The Tribunal panel must determine if the outcome falls within a reasonable range
+of outcomes, recognizing the institutional value, efficiency and importance of outcomes achieved
+through joint submissions. The panel’s role was not to determine if it would impose the same
+penalty as that proposed by the parties. See University of Toronto v. D.L. (Case No. 1090, March
+4, 2021,).
+22.
+
+In her helpful submissions, counsel for the Student began by noting that her client had from
+
+the outset admitted guilt and cooperated with the University. Counsel emphasized that the Student
+was taking responsibility for her actions. Counsel noted the reference in the Agreed Statement of
+Facts to the stress the Student was under at the time of the offences. She submitted that the Student
+was emotionally distressed as a result of the ongoing COVID-19 pandemic and the resulting lack
+of contact she had had with her family in Nigeria. The unprecedented security situation in Nigeria
+only added to the stress the Student was under at the time she committed the offences. Counsel
+also noted that the Student had been diagnosed as suffering from sleep apnea at the time of the
+offences which may have contributed to her poor decisions at the time.
+23.
+
+Counsel for the Student pointed out that this was the Student’s first offence and that the
+
+consequences for the Student of the proposed sanction would be very significant. As a result of
+the suspension, the Student would not receive her degree for another two years, making it more
+difficult for her to gain employment. In addition, as an international student in Canada on a student
+visa, once the Student’s current classes ended, she might have to leave Canada.
+
+-724.
+
+Counsel for the Student also explained the rationale for having the suspension start on
+
+September 1, 2021 rather than immediately. Counsel told the Tribunal that the Student was
+currently attending courses at the University. By having the suspension start as of September 1,
+2021, the Student would be able to register for a replacement course and complete the course work
+required for her to earn the degree she was pursuing.
+25.
+
+Counsel for the Student closed her submissions by reiterating counsel for the University’s
+
+comments on the Tribunal’s limited role in cases involving a joint submission on penalty. In
+counsel’s submission, joint submissions on penalty were entitled to a high degree of deference and
+should only be disregarded in very rare cases.
+Decision on Sanction
+26.
+
+We agree that in cases where the University and the student have reached an agreement on
+
+penalty our role is not to decide on the penalty we might impose in our discretion based on the
+evidence before us, but rather to determine whether the proposed penalty falls within a reasonable
+range of outcomes. In our opinion, the proposed sanction falls squarely within the range of
+reasonable outcomes based on the evidence before us.
+27.
+
+Based on the cases counsel brought to our attention, the Tribunal has imposed a sanction
+
+of a course mark of zero and a suspension ranging from a low of two years to a high of three and
+one-half years for the type of offences for which the Student has been found guilty. Some of the
+cases at the low end of that range involved spur of the moment actions. For example, in University
+of Toronto v. Y.Y. (Case No. 851, March 1, 2017, (Sanction)) the student was suspended for two
+years for looking at the test paper of the student sitting next to her. Similarly, in University of
+Toronto v. R.A. (Case No. 738, January 15, 2015,) the Tribunal suspended the student for 22
+months. The evidence in that case was that the student had injured her hand before the mid-term
+examination. To help the student to write the examination the professor lent the student the
+professor’s laptop computer. The student then used the computer to obtain answers to questions
+on the examination from the internet. Other cases have involved planned conduct, but by a student
+with no record of prior academic offences. For example, in University of Toronto v. G.Z. (Case
+No. 1004, February 26, 2020,), the student had written mathematical formulae on the palm of his
+left hand. He had no record of any prior academic offence. He received a two-year suspension.
+
+-828.
+
+In contrast, the cases at the high end of the range have tended to involve students,
+
+sometimes with a record of prior academic offences, taking premeditated actions to give
+themselves an advantage. For example, in University of Toronto v M.S.D. (Case No. 1047, July
+21, 2020 (Sanction)), the student brought an unauthorized aid sheet into an examination. He had
+previously been found guilty of two prior academic offences, one involving plagiarism and one
+involving possessing a cell phone while writing his final examination. Although the Tribunal
+imposed a slightly lesser period of suspension in the context of unique circumstances and a joint
+submission on penalty, it concluded that a three-year suspension was the usual penalty in similar
+cases. Similarly, in University of Toronto v. Q.Y. (Case No. 860, November 30, 2016,) the student
+was found in possession of a cell phone during the mid-term examination. She admitted using it
+during the examination. She had a record of three prior academic offences. The Tribunal accepted
+a joint submission on penalty under which she was suspended for a period of three and one-half
+years.
+29.
+
+This case involves an unplanned act of panic rather than a planned and premeditated effort
+
+to give oneself an advantage and as such the proposed two-year suspension is consistent with the
+sanction imposed in similar cases as therefore is within the range of reasonable outcomes. While
+the fact that the Student is a graduate student rather than an undergraduate makes her offences that
+much more serious than those committed by the undergraduates in the cases brought to our
+attention, we do not believe that her graduate student status renders those cases inapplicable. In
+any case, the Student’s prompt acknowledgment of her transgressions and cooperation with the
+investigation and discipline process mitigate any concerns we might have otherwise had.
+30.
+
+The fact that the Student’s suspension will not start until some months after the issuance
+
+of our order does not take the proposed penalty outside of the reasonable range of outcomes. Such
+orders, although rare, are not unknown. In our view, postponing the suspension to allow the
+Student to complete the other courses she needs to complete her degree is reasonable in this case
+where the Student has no record of any prior academic offences, has admitted her offences, and
+has cooperated with the University.
+Order
+31.
+
+For the reasons set out above, the Tribunal therefore orders that:
+
+-9(a)
+
+the Student be found guilty of:
+(i)
+
+one count of the academic offence of using or possessing an unauthorized aid,
+contrary to section B.I.1(b) of the Code, and
+
+(i)
+
+one count of plagiarism, contrary to section B.I.1(d) of the Code.
+
+(b)
+
+the Student be given a final grade of zero in the Course;
+
+(c)
+
+the Student be suspended from the University for a period of two years from September 1,
+2021 to August 31, 2023;
+
+(d)
+
+the sanction be noted on the Student’s academic record and transcript for a period of three
+years from the date of the Tribunal’s order to July 8, 2024;
+
+(e)
+
+the case be reported to the Provost for publication of a notice of the Tribunal’s decision
+and the sanctions imposed, with the Student’s name withheld.
+
+Dated: September 21, 2021
+
+Original signed by:
+_____________________________
+Mr. Seumas Woods, Chair
+On behalf of the Panel
+
+- 10 -
+
+SCHEDULE A
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 3, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and S
+
+O
+
+(
+
+)
+
+AGREED STATEMENT OF FACTS
+
+1.
+
+This matter arises out of charges of academic misconduct filed on May 3, 2021
+
+(“Charges”) by the Provost of the University of Toronto (the “Provost” and the
+“University”) under
+
+the Code of
+
+Behaviour
+
+on
+
+Academic
+
+Matters (the “Code”). The Provost and S
+
+O
+
+(the “Student”) have prepared this
+
+Agreed
+
+and
+
+a Joint
+
+Statement
+
+of
+
+Facts
+
+(“ASF”)
+
+Book
+
+of
+
+Documents
+
+(“JBD”). The Provost and the Student agree that:
+a.
+
+each document contained in the JBD may be admitted into evidence for all
+
+purposes, including for the truth of the document’s contents (unless otherwise
+indicated in this ASF), without further need to prove the document; and
+
+- 11 b.
+
+if a document indicates that it was sent or received by someone, that
+
+is prima facie proof that the document was sent and received as indicated (unless
+otherwise indicated in this ASF).
+2.
+
+The Student admits that she received a copy of the Charges, which are included
+
+in the JBD at Tab 1.
+3.
+
+The Student admits that she received a copy of the Notice of Electronic Hearing in
+
+this matter and that she has received reasonable notice of this hearing. A copy of the
+Notice of Electronic Hearing is included in the JBD at Tab 2.
+A.
+
+The Student’s Academic History
+
+4.
+
+The Student’s academic record is included in the JBD at Tab 3.
+
+5.
+
+The Student has been enrolled in the School of Graduate Studies at the University
+
+since the Fall of 2019. She has completed 15.25 credits towards a Master of Management
+and Professional Accounting degree.
+6.
+
+In the 2020 Fall academic term, the Student was enrolled in MGT2205H:
+
+Advanced Financial Accounting, which was taught by Professor Eckhard Schumann. A
+copy of the syllabus for the Course is included in the JBD at Tab 4.
+7.
+
+Students in the Course were required to write two tests, Test 1 on October 19,
+
+2020, and Test 2 on December 11, 2020. Each test was worth 20% of the Course mark.
+Both were written remotely. The Course syllabus (at page 5) advised students that they
+would be required to upload their written tests to Quercus at an appointed time, and that
+they were “open book and individual and no collaboration will be allowed”.
+8.
+
+The Course syllabus addressed academic integrity in some detail (at page 6):
+
+Academic integrity represents a set of morals relating to honesty, trust, fairness, respect,
+responsibility, and courage in our learning environment.
+
+- 12 Students should note that cheating, plagiarizing, and usage of unauthorized electronic
+devices are considered academic offences and will not be tolerated.
+
+Moving to remote learning and online courses, students are expected to adhere to
+the Code of Behaviour on Academic Matters regardless of the course delivery method.
+Students should maintain the same academic honesty and integrity that they would in a
+classroom setting. Potential academic offences in a digital context include, but are not
+limited to:
+
+•
+
+Accessing unauthorized resources (search engines, chat rooms, Reddit,
+
+etc.) for assessments.
+•
+
+Using technological aids (e.g. software) beyond what is listed as
+
+permitted in an assessment.
+•
+
+Posting test, essay, or exam questions to message boards or
+
+social media.
+•
+
+Creating, accessing, and sharing assessment questions and answers in
+
+virtual “course groups.”
+•
+
+Working collaboratively, in-person or online, with others on assessments
+
+that are expected to be completed individually.
+
+All suspected cases of academic dishonesty will be investigated following
+procedures outlined in the Code of Behaviour on Academic Matters. If you have
+questions or concerns about what constitutes appropriate academic behaviour or
+appropriate research and citation methods, you are expected to seek out additional
+
+- 13 information
+
+on
+
+academic
+
+integrity
+
+from
+
+your
+
+instructor
+
+or
+
+from
+
+other institutional resources.
+9.
+
+Test 2 was available between 9:00 a.m. and 12:15 p.m. on December 11, 2020.
+
+The front cover of Test 2 contained the following reminder, in bold capital letters:
+THIS IS AN INDIVIDUAL EXAMINATION. YOU ARE NOT ALLOWED TO
+COLLABORATE WITH ANYONE ELSE OR USE ANY AIDS OTHER THAN THE CPA
+HANDBOOK, THE DENSMORE COMPETENCY MAP NOTES, AND CLASS NOTES.
+YOU ARE NOT ALLOWED TO DISCLOSE OR DISCUSS THE CONTENT OR NATURE
+OF THIS EXAM WITH ANYONE ELSE.
+10.
+
+Students were required to sign a statement on the first page of Test 2 called “Non-
+
+Disclosure & Acknowledgement”, confirming that no unauthorized aids were used, and
+that to do so is an academic offence that could result in academic discipline. A copy of the
+Non-Disclosure & Acknowledgement statement signed by the Student is included in the
+JBD at Tab 5.
+11.
+
+Students were expected to upload their Test 2 answers to Quercus by
+
+12:15 p.m. on December 11, 2020, in the form of an Excel file for certain questions and
+a Word file for other questions depending on the format required.
+12.
+
+Professor Schumann created six versions of Test 2. The Student was given
+
+version 4 of Test 2. A copy of Version 4 of Test 2 is included in the JBD at Tab 6.
+13.
+
+Question 1 of Test 2 required students to calculate certain financial
+
+information based on a factual scenario. There were a number of ways that students could
+format their answers. Professor Schumann did not provide a standard format or layout.
+14.
+
+At 12:14 p.m., the Student uploaded her Excel and Word files. A copy of the front
+
+page of the Student’s submission, with the 12:14 p.m. time stamp, and the files uploaded
+by the Student for Test 2, are included in the JBD at Tabs 7 and 8.
+
+- 14 15.
+
+While grading the submissions for Test 2, Professor Schumann noticed that
+
+the Student’s answer for Question 1 of Test 2 was nearly identical to the answer of S.C.,
+another student in the Course. A copy of the files uploaded by S.C. for Test 2 is included
+in the JBD at Tab 9.
+16.
+
+S.C. had written Version 1 of Test 2. S.C.’s answers for Version 1 of Test 2 were
+
+uploaded on December 11, 2020, at 12:09 p.m. A screenshot of S.C.’s front page with the
+12:09 p.m. time stamp is included in the JBD at Tab 10.
+17.
+
+Question 1 of Version 1 contained different financial and other data from the
+
+data used in Question 1 of Version 4, so that the correct answers were different for
+each. The Student’s answer to Question 1 using the Version 4 data should therefore not
+have been nearly identical to the answer give by S.C. to her Question 1 using the Version
+1 data. A copy of Version 1 of Test 2 is included in the JBD at Tab 11.
+18.
+
+The Student’s answer to Question 1 appeared to respond to Question 1 as it
+
+appeared in Version 1, and not to Question 1 in Version 4 of Test 2. Professor Schumann
+noted that the only differences between the Student’s answer and the answer given by
+S.C. were minor cosmetic changes. In all other respects, the answers were identical,
+including the formatting used. A copy of a spreadsheet prepared by Professor Schumann
+comparing the Student’s answer to Question 1 is included in the JBD at Tab 12.
+19.
+
+Professor Schumann’s comparison of the Student’s answer to Question 1 with
+
+S.C.’s answer to her Question 1 also revealed some abnormal abbreviations and
+formatting which are the same in each. These include:
+a.
+
+Both students abbreviated “Shareholders” as “SHs” throughout the
+
+answers, which Professor Schumann found very unusual.
+b.
+
+Both
+
+students sometimes abbreviated the
+
+“subsid” and alternatively as “S” in the same places.
+
+word “subsidiary”
+
+as
+
+- 15 c.
+
+Both students sometimes abbreviated the word “preferred” as “PFD” in the
+
+same places.
+d.
+
+Cell E67 from the Student’s answer and the corresponding cell M12 from
+
+S.C.’s answer contain the value “0”. There is no reason for that number to be there.
+The same applies to cells F68, C72 and D72 (the Student) and cells N13, K17 and
+L17 (S.C.).
+e.
+
+All the numbers in both answers are formatted as “Custom”, except cell
+
+C25 which is formatted as “General”.
+20.
+
+For illustrative purposes, a copy of Test 2, Question 1, submitted by another
+
+student (J.A.) which uses different formatting is included in the JBD at Tab 13.
+21.
+
+Quercus indicates that the Student viewed her submission of her answers for Test
+
+2 at 12:34 p.m. At 12:37 p.m., she added the following comment: “please disregard
+excel titled question 1. Answer is on the word document”, as reflected at Tab 7.
+22.
+
+At 12:40 p.m., the Student sent an email to Professor Schumann informing him
+
+that she had uploaded the wrong Excel sheet but made a note on Quercus to disregard
+one of the Excel tabs. The Student met with Professor Schumann twice via Zoom on
+December 16, 2020 to discuss Test 2. A copy of email correspondence between the
+Student and Professor Schumann about her Test 2 is included in the JBD at Tab 14.
+23.
+
+The Student attended a meeting with the Dean’s Designate on February 18,
+
+2021. She acknowledges that the Dean’s Designate provided her with the Dean’s warning
+contained in the Code. At that time, the Student explained that:
+a.
+
+S.C. had previously provided her login and password for Quercus to the
+
+Student in April 2020 to give the Student access to certain materials in a different
+course.
+b.
+
+The Student panicked at the end of Test 2, as she did not have time to
+
+finish Question 1, so she logged into Quercus using S.C.’s login and password and
+
+- 16 accessed S.C.’s answer for Question 1. The Student copied S.C.’s answer for
+question 1, made some very minor changes, and added it to her own Excel file
+which she submitted at 12:14 p.m. on December 11, 2020.
+c.
+
+S.C. was not aware that the Student used S.C.’s login and password to
+
+access S.C.’s Test 2 answers during Test 2, or that she had copied and submitted
+S.C.’s answer to Question 1 as if it was the Student’s own answer.
+d.
+
+The Student was under stress during the semester, experiencing isolation
+
+from her family in Nigeria where frightening security issues were happening, and
+worried about the cost associated with failing the Course. A copy of an email from
+the Student which she sent following the meeting that further explained these
+issues is included in the JBD at Tab 15.
+24.
+
+The Student subsequently provided a medical note dated March 2, 2021 from the
+
+UTM Health & Counselling Centre listing diagnoses for obstructive sleep apnea leading to
+“marked daytime sleepiness”, as well as prediabetes, polycystic ovary syndrome, and
+adjustment disorder, for which she was being assessed and receiving treatment. A copy
+of the medical note is included in the JBD at Tab 16.
+B.
+
+Admissions
+
+25.
+
+The Student admits that during Test 2 on December 11, 2020 she knowingly:
+a.
+
+improperly used S.C.’s private login and password information to access
+
+S.C.’s answers for Test 2, without the knowledge of or authorization from S.C.;
+b.
+
+copied and used S.C.’s answer to Question 1 in her own answer to
+
+Question 1, despite knowing that this was contrary to the prohibition against
+collaboration and the use of unauthorized assistance and unauthorized aids for
+any part of Test 2, and did not turn her mind to the consequences this might have
+for S.C;
+
+- 17 c.
+
+submitted her answers to Test 2 which contained the answer to Question
+
+1 that she had copied from S.C. as if it was her own answer, without any indication
+that it was not; and
+d.
+
+did all of the above in an effort to avoid failing MGT2205H: Advanced
+
+Financial Accounting.
+26.
+
+The Student admits that in using S.C.’s private login and password to access her
+
+answers to Test 2 and to specifically copy S.C.’s answer to Question 1, she knowingly:
+a.
+
+used or possessed an unauthorized aid or aids or obtained unauthorized
+
+assistance in Test 2, contrary to section B.I.1(b) of the Code;
+b.
+
+represented the ideas of another person, the expression of the ideas of
+
+another person, and the work of another person as her own in Question 1 of Test
+2, committing plagiarism contrary to section B.I.1(d) of the Code; and
+c.
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud
+
+or misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind, contrary to section
+B.I.3(b) of the Code.
+27.
+
+The Student acknowledges that she is signing this ASF freely and voluntarily,
+
+knowing of the potential consequences she faces, and does so with the advice of
+counsel.
+
+Date: ____________________________
+
+S
+
+O
+
+Date: ___________________________
+
+Lily Harmer, Assistant Discipline Counsel,
+University of Toronto
+
+

@@ -1,0 +1,588 @@
+Case No.: 1051
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty filed on October 29, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and A
+
+J
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: May 27, 2020 (in writing)
+Members of the Panel:
+Ms. Shantona Chaudhury, Chair
+Professor Julian Lowman, Faculty Panel Member
+Mr. Andrey Lapin, Student Panel Member
+Appearances via written submissions:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Jacob Millns, Downtown Legal Services, Representative for the Student
+
+2
+
+I - THE CHARGES AND THE HEARING
+1.
+
+On May 27, 2020, this Panel of the University Tribunal convened in writing to consider
+
+the charges brought by the University of Toronto (the “University”) against the Student under the
+Code of Behaviour on Academic Matters, 1995 (the “Code”).
+2.
+
+The matter proceeded as a written hearing under Rule 47 of the Rules of Practice and
+
+Procedure to the parties’ joint request, which was granted by the Chair on April 27, 2020.
+3.
+
+The Student was represented in this matter by Jacob Millns of Downtown Legal Services.
+
+4.
+
+The charges against the Student are as follows:
+1.
+
+On or about February 6, 2019, you knowingly represented as your own an idea or
+expression of an idea or work of another in a paper you submitted in WSTD16H3
+(the “Course”), contrary to section B.I.1(d) of the Code.
+
+2.
+
+In the alternative, on or about February 6, 2019, you knowingly obtained
+unauthorized assistance in connection with a paper that you submitted in the
+Course, contrary to section B.I.1(b) of the Code.
+
+3.
+
+In the further alternative, on or about February 6, 2019, you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with a paper you submitted in the
+Course, contrary to section B.I.3(b) of the Code.
+
+4.
+
+On or about March 1, 2019, you knowingly represented as your own an idea or
+expression of an idea or work of another in a paper you submitted in the Course,
+contrary to section B.I.1(d) of the Code.
+
+3
+
+5.
+
+In the alternative, on or about March 1, 2019, you knowingly obtained unauthorized
+assistance in connection with a paper that you submitted in the Course, contrary to
+section B.I.1(b) of the Code.
+
+6.
+
+In the further alternative, on or about March 1, 2019, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with a paper you submitted in the
+Course, contrary to section B.I.3(b) of the Code.
+
+2.
+
+In brief, the Student is alleged to have submitted two essays in which she included verbatim
+
+or near-verbatim passages from sources that were either not referenced or improperly referenced.
+3.
+
+The parties provided the Panel with an Agreed Statement of Facts (“ASF”), a Joint Book
+
+of Documents (“JBD”), an Agreed Statement of Facts on Penalty (“ASFP”), and a Joint
+Submission on Penalty (“JSP”). The University also filed written submissions and a Book of
+Authorities.
+4.
+
+In the ASF, the Student admitted that she received a copy of the Charges, that she received
+
+a copy of the Notice of Hearing, and that she received reasonable notice of the hearing. She waived
+the reading of the Charges.
+5.
+
+The Student pleaded guilty to Charges 1 and 4. She acknowledged that she did so freely
+
+and voluntarily, knowing of the potential consequences she faced, and having obtained the advice
+of legal counsel.
+6.
+
+In its written submissions, the University advised that if the Tribunal returned a finding of
+
+guilt on Charges 1 and 4, the Provost would withdraw Charges 2, 3, 5, and 6.
+
+4
+
+II – MISCONDUCT
+(i) The Agreed Facts
+5.
+
+The Student agreed to the following relevant facts.
+
+6.
+
+In Winter 2019, the Student enrolled in WSTD16H3F (Socialist Feminism in Global
+
+Context) (the “Course”), which was taught by Dr. Anup Grewal.
+7.
+
+The Course syllabus advised the students, inter alia, that it is an academic offence for
+
+students “to use someone else’s ideas or words in their own work without acknowledging that
+those ideas/words are not their own with a citation and quotation marks, i.e. to commit
+plagiarism”, and “to include false, misleading or concocted citations in their work”.
+8.
+
+The Course syllabus also advised students that if they had any questions or concerns about
+
+what constitutes appropriate academic behaviour or appropriate research and citation methods,
+they were expected to seek out additional information on academic integrity from their instructor
+or from other institutional resources. The syllabus provided a link to the University’s webpage on
+academic integrity ‘Resources for Students’, as well as a link to a University document entitled
+“How Not to Plagiarize”.
+9.
+
+Students in the Course were required to submit two short analysis papers, each worth
+
+15% of their final grades.
+The Student’s First Paper
+
+5
+
+10.
+
+The first short analysis paper was due on February 10, 2019. For this assignment,
+
+students were required to analyze the class readings on “Utopian Socialists” and respond to a
+question posed by the instructor.
+11.
+
+On or about February 6, 2019, the Student submitted her first short analysis paper in the
+
+Course, entitled “Utopian Socialist Thought” (the “First Paper”).
+12.
+
+On reviewing the First Paper, Dr. Grewal determined that there were numerous passages
+
+in it that had been taken verbatim, or nearly verbatim, from three online sources (collectively, the
+“First Paper Sources”):
+•
+
+“Utopian
+socialism”,
+from
+the
+(https://en.wikipedia.org/wiki/Utopian_socialism)
+
+•
+
+“History of Economic Thought Lecture Notes, Part III - The Critics of Capitalism”, from
+the University of Texas at Austin website
+
+Wikipedia
+
+website
+
+(http://la.utexas.edu/users/hcleaver/368/368lecturenotesIII.html)
+•
+
+13.
+
+“Sexual Equality & Socialism” by Anne Phillips, in Dissent Magazine (available online at
+https://www.dissentmagazine.org/article/sexual-equality-socialism)
+
+The Wikipedia article on “Utopian Socialism” was not cited in the First Paper. The
+
+URL for the “History of Economic Thought Lecture Notes” was included in the references for
+the First Paper, but was inaccurately described in both the list of references and the in-text
+citations. The article from Dissent Magazine was cited in the list of references and in one part
+of the text of the First Paper, but the verbatim text was not placed in quotation marks.
+14.
+
+Copies of the First Paper and the First Paper Sources were included in the JBD.
+
+6
+
+15.
+
+On March 6, 2019, Dr. Grewal met with the Student to discuss the allegation of
+
+plagiarism in the First Paper.
+The Student’s Second Paper
+16.
+
+The second short analysis paper was due on March 1, 2019. For this assignment, students
+
+were required to analyze the class readings on “From Utopian Socialism to Marxism: Class,
+Family, and the ‘Woman Question’” and respond to a question posed by the instructor.
+17.
+
+On or about March 1, 2019, the Student submitted her second short analysis paper,
+
+entitled “Analysis Paper #2” (the “Second Paper”).
+18.
+
+Thus the Student submitted the Second Paper before Dr. Grewal had discovered the
+
+suspected plagiarism in the First Paper.
+19.
+
+After Dr. Grewal discovered the suspected plagiarism in the First Paper, she gave the
+
+Student the opportunity to take back the Second Paper and to re-write it before it was graded. The
+Student declined to do so.
+20.
+
+Upon reviewing the Second Paper, Dr. Grewal determined that there were numerous
+
+passages in the Second Paper that had been taken verbatim or nearly verbatim from an online
+source: “The Marxist Perspective on the Family” from the Revise Sociology website
+https://revisesociology.com/2014/02/10/marxist-perspective-
+
+family/
+
+(the
+
+“Second
+
+Source”).
+21.
+
+The Second Paper Source was not cited in the Second Paper.
+
+22.
+
+Copies of the Second Paper and the Second Paper Source were included in the JBD.
+
+Paper
+
+7
+
+Meeting with the Dean’s Designate
+On June 20, 2019, the Student met with Professor Nick Cheng, Dean’s Designate, to
+
+23.
+
+discuss the allegations of academic misconduct in the Course. Professor Cheng gave the Student
+the required warning under the Code. During the meeting, the Student explained that it had not
+been her intention to commit plagiarism, but admitted that her conduct with respect to both
+papers constituted an academic offence.
+24.
+
+A copy of the meeting notes taken by the UTS note-taker was included in the JBD, and
+
+the parties agreed that these notes accurately reflected the discussion that took place at the
+meeting.
+Admissions and Acknowledgments
+25.
+
+With respect to the First Paper, the Student admitted that she knowingly:
+a) included verbatim or nearly verbatim passages from the First Paper Sources;
+b) failed to attribute those verbatim or nearly verbatim passages appropriately in the First
+Paper, including through the use of citations, quotation marks or other appropriate means;
+c) represented the ideas, expression of ideas or work of another as her own in the First
+Paper; and
+d) committed plagiarism in the First Paper, contrary to section B.I.1(d) of the Code.
+
+26.
+
+With respect to the Second Paper, the Student admitted that she knowingly:
+e) included verbatim or nearly verbatim passages from the Second Paper Source;
+f)
+
+failed to attribute those verbatim or nearly verbatim passages appropriately in the Second
+Paper, including through the use of citations, quotation marks or other appropriate
+means;
+
+g) represented the ideas, expression of ideas or work of another as her own in the Second
+
+Paper; and
+h) committed plagiarism in the Second Paper, contrary to section B.I.1(d) of the Code.
+
+8
+
+27.
+
+On the basis of the agreed facts in the ASF and the documents in the JBD, the University
+
+asked the Tribunal to accept the Student’s guilty plea with respect to Charges 1 and 4.
+(ii) Decision of the Panel
+28.
+
+The onus is on the University to establish on a balance of probabilities, using clear and
+
+convincing evidence, that the academic offence charged has been committed by the Student.1
+29.
+
+The Panel reviewed the documents in the JBD to be satisfied that they supported the facts
+
+in the ASF. The Panel noted that the First Paper is largely composed of near-verbatim extracts
+from the First Paper Sources that are either uncited or improperly cited. The Panel noted that the
+Second Paper contains a number of near-verbatim extracts from the Second Paper Source, which
+was not cited at all.
+30.
+
+Upon considering the ASF, the JBD, and the written submissions of the University, and
+
+after deliberations, the Panel was satisfied on a balance of probabilities that the University had
+proven the elements of Charges 1 and 4. The Panel therefore accepted the Student’s guilty plea
+with respect to these Charges.
+III – PENALTY
+The Joint Submission and Agreed Facts
+31.
+
+The parties filed a JSP. The Student acknowledged in the JSP that the University advised
+
+her of her right to obtain legal counsel, and that she did so. The Student further acknowledged that
+
+1
+
+A.S. [Case No. 858; DAB – Appeal 2; April 18, 2019] at para 55.
+
+9
+
+she signed the JSP freely and voluntarily, knowing of the potential consequences she faced; and
+knowing that the Tribunal would not be bound by the JSP and had the discretion to impose a
+different penalty, including one that is more severe than the JSP recommends.
+32.
+
+In the JSP, the parties submitted that in the circumstances of this case, it was appropriate
+
+that the Tribunal impose the following sanctions on the Student:
+a) a final grade of zero in the course WSTD16H3F in Winter 2019;
+b) a suspension from the University of Toronto to the earlier of (1) three years from the date
+of the Tribunal’s order, or (2) May 31, 2023; and
+c) a notation of the sanction on her academic record and transcript from the date of the
+Tribunal’s order until the Student’s graduation.
+33.
+
+The parties further agreed that this case be reported to the Provost for publication of a
+
+notice of the decision of the Tribunal and the sanction imposed in the University of Toronto
+newspapers, with the name of the Student withheld.
+34.
+
+The Panel reviewed the JSP, as well as the ASFP, the Book of Authorities filed by the
+
+University in support of the JSP, and the University’s written submissions.
+Prior Offence
+35.
+
+In the ASFP, the Student acknowledged that she had one prior offence.
+
+36.
+
+On November 19, 2018, the Student submitted an assignment in PSYC36 (Psychotherapy)
+
+for which she obtained unauthorized assistance, contrary to section B.I.1(b) of the Code. She
+purchased this assignment from an online service.
+
+10
+
+37.
+
+When the instructor for PSYC36 reviewed the Student’s assignment, he determined that it
+
+contained large portions taken from a paper found on the internet, without citation. In addition,
+many facts and details from the source were modified in the Student’s assignment.
+38.
+
+On January 31, 2019, the Student met with the Dean’s Designate, Professor Cheng, to
+
+discuss the allegation of academic misconduct in PSYC36.
+39.
+
+During this meeting, the Student explained that she was going through a stressful time with
+
+work coming due in multiple courses. She decided to take a shortcut by using an online service
+called “EduBirdie”. EduBirdie wrote the assignment for her. The Student admitted that she had
+obtained unauthorized assistance under section B.I.1(b) of the Code.
+40.
+
+On February 13, 2019, Professor Cheng sent the Student a letter regarding their meeting
+
+and the sanction imposed. She received a zero on the assignment (which was worth 20% of her
+final grade, a further reduction of 20% from her final grade, and a notation on her academic record
+and transcript for one year, ending February 1, 2020.
+41.
+
+Professor Cheng advised the Student that a copy of his letter would be placed in her student
+
+file, and that in the event of any further offence under the Code, it would be consulted.
+42.
+
+Professor Cheng further advised the Student that he trusted it was clear that the University
+
+regards with great seriousness all acts of academic dishonesty. He told the Student that he hoped
+she had learned from this unfortunate experience and that nothing similar would happen again.
+The Student’s Personal Circumstances
+
+11
+
+43.
+
+In the ASFP, the Student asked that certain personal circumstances be taken into
+
+consideration in determining the appropriate sanction in this case.
+44.
+
+First, the Student’s grandfather passed away in November 2018. She was dealing with this
+
+loss at the time of the offences.
+45.
+
+Second, at the time of the offences in late 2018 and early 2019, the Student was working
+
+part-time (approximately 15-20 hours per week) at Shoppers Drug Mart.
+46.
+
+Third, the Student was experiencing significant stresses at home at the time.
+
+47.
+
+The University advised in its written submissions that it had taken these personal
+
+circumstances into account in reaching the JSP.
+48.
+
+On the basis of these facts and submissions, the University asked the Panel to impose the
+
+sanctions proposed in the JSP.
+(ii) Decision of the Panel
+49.
+
+Although panels are not obliged to accept a joint submission on penalty, the Tribunal’s
+
+jurisprudence confirms that they are expected to do so unless exceptional circumstances apply. A
+joint submission on penalty may be rejected only where to give effect to it would be contrary to
+the public interest or would bring the administration of justice into disrepute.2 As the Discipline
+Appeals Board explained in the S.F. decision (Case No. 690, October 20, 2014, at para. 22), “joint
+submissions promote early resolution of disputes, the saving of time and expense and they provide
+
+2
+
+M.O. [Case No. 652; November 12, 2012] at para 14.
+
+12
+
+a level of certainty for the parties which, in turn may lead them to make accommodations that
+would otherwise not be made.”3
+50.
+
+In the Panel’s view, there was no basis to reject the JSP in this case. The proposed sanctions
+
+are not contrary to the public interest and would not bring the administration of justice into
+disrepute.
+51.
+
+In coming to this conclusion, the Panel considered the nature of the offences; the detriment
+
+to the University occasioned by them; the need to deter others from committing a similar offence;
+the likelihood of repetition; the character of the person charged, and the extenuating circumstances
+surrounding the commission of the offence.4
+52.
+
+Plagiarism is a serious offence. It diminishes the relationship of trust between the
+
+University and its students, and it undermines the evaluative process fundamental to the academic
+setting.5
+53.
+
+In the present case, it is troubling that the Student had a prior plagiarism offence and
+
+proceeded to commit two further plagiarism offences. This militates in favour of a significant
+sanction.
+54.
+
+However, as the University acknowledged in it submissions, all three offences were
+
+committed within a relatively short span of time: the prior offence was committed in November
+2018, and the offences in the present case were committed in February and March 2019. The
+
+3
+
+S.F.. [Case No. 690; October 20, 2014] at para. 22.
+M.O, November 12, 2012 at para 15, citing University of Toronto and Mr. C [Case No. 1976/77-3, November 5,
+1976] at p 12.
+5
+M.O., at para 21.
+4
+
+13
+
+Student was in her fourth year at the time of the November 2018 offence; prior to this, she had
+completed three years at the University without committing any academic offences.
+55.
+
+Moreover, the Student was experiencing difficult personal circumstances at home during
+
+this period of time, which the Panel accepted as a mitigating factor in the circumstances of this
+case.
+56.
+
+The commission of all three offences within four months of each other, after three years at
+
+the University untarnished by academic misconduct, suggests that the Student is not an inveterate
+serial offender. Rather, the Student made a series of mistakes during a difficult time in her life.
+57.
+
+The Student’s early admission of guilt and co-operation with the discipline process
+
+reinforce this view. She admitted to the offences both at her meeting with the Dean’s Designate in
+June 2019 and before this Tribunal. She participated in and cooperated in the discipline process,
+including by entering into agreed statements of facts for both the misconduct and penalty phases
+of the hearing. In the Panel’s view, these were mitigating factors that should be taken into account
+in this case.
+58.
+
+In light of the above, the Panel was satisfied that it is appropriate to impose the sanctions
+
+proposed in the JSP.
+59.
+
+The Student has had enough credits to graduate since Summer 2019. Her 3-year suspension
+
+will run from the date of the Tribunal’s order (May 27, 2020), and she will be able to graduate at
+the June 2023 Convocation.
+
+14
+
+IV - ORDER OF THE TRIBUNAL
+60.
+
+Accordingly, the Panel made the following Order on May 27, 2020:
+1)
+
+THAT the Student is guilty of two counts of knowingly representing as her own
+an idea or expression of an idea or work of another in any academic examination
+or term test or in connection with any other form of academic work, contrary to
+section B.I.1(d) of the Code.
+
+2)
+
+THAT the following sanctions shall be imposed on the Student:
+a) a final grade of zero in the course WSTD16H3F in Winter 2019;
+b) a suspension from the University of Toronto from the day the
+Tribunal makes its order to the earlier of (1) three years from the
+date of the Tribunal’s order, or (2) May 31, 2023; and
+c) a notation of the sanction on her academic record and transcript from
+the day the Tribunal makes its order until graduation.
+
+3)
+
+THAT this case be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+
+Dated at Toronto this 24th day of August, 2020
+
+___________________________
+Shantona Chaudhury, Co-Chair
+
+

@@ -1,0 +1,767 @@
+Case No.: 914
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 16, 2017
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+- and -
+
+-
+
+Q
+
+LI
+
+REASONS FOR DECISION
+Hearing Dates: November 24, 2017
+Members of the Panel:
+Ms. Sandra Nishikawa, Barrister and Solicitor, Chair
+Professor Pascal Riendeau, Faculty Panel Member
+Ms. Sherice Robertson, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland, Barristers
+Ms. Nisha Panchal, Student Conduct and Academic Integrity Officer, Office of the Dean &
+Vice-Principal Academic, UTSC
+Ms. Margaret Roberts, Facilitated Study Group Coordinator, The Centre for Teaching and
+Learning, UTSC
+In Attendance:
+Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary, Office of Appeals,
+Discipline and Faculty Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Not in Attendance:
+Mr. Q
+LI , the Student
+
+•
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on November 24, 2017 to consider
+
+•
+
+the charges brought by the University of Toronto (the “University”) against Mr. Q
+
+LI (the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 9:45 a.m. on November 24, 2017. At that time,
+
+Discipline Counsel, Ms. Tina Lie (“Counsel”) advised that neither the Student nor a
+representative of the Student had responded to the Notice of Hearing.
+3.
+
+Counsel made submissions on proceeding with the hearing in the absence of the
+
+Student. She advised the Panel that the following attempts had been made to provide notice
+of the charges and hearing to the Student:
+(a)
+
+The Office of the Dean & Vice-Principal Academic at the University of Toronto
+Scarborough attempted to contact the Student from February to October 2016
+regarding the allegation of academic misconduct, however, the Student did not
+respond to any of those attempts. The contact information provided by the
+Student in the University of Toronto Repository of Student Information (“ROSI”)
+was used.
+
+(b)
+
+On January 16, 2017, the Office of the Vice-Provost, Faculty and Academic
+Life served the charges in this matter on the student by email to the email
+address that the Student had provided in ROSI.
+
+(c)
+
+On January 23, 2017, Counsel sent an email to the Student at the same email
+address advising that important correspondence would be sent to his email
+account.
+
+(d)
+
+On May 19, 2017, Counsel’s assistant, Ms. Janice Patterson (“Ms. Patterson”)
+sent a letter enclosing the disclosure brief, another copy of the charges and a
+copy of the University’s Policy on Official Correspondence with Students (the
+“Policy”) by email to the same email address and by courier to the mailing
+
+3
+
+address that the Student had provided in ROSI. Neither a response nor a
+“bounce back” message indicating that the email could not be delivered were
+received. The disclosure package was not returned.
+(e)
+
+Counsel sent further emails to the Student on August 21 and September 18,
+2017 regarding the scheduling of the hearing. No “bounce back” messages
+were received.
+
+(f)
+
+On September 14 and 15, 2017, Ms. Patterson, tried to call the Student at the
+phone number provided in ROSI. The automated voicemail greeting did not
+indicate to whom the voicemail belonged.
+
+She left two messages at the
+
+number.
+(g)
+
+On November 14, 2017, a process server attempted to serve the Student with
+the Notice of Hearing at the address provided in ROSI but was unable to
+because the address was the address for a private high school.
+
+(h)
+
+On November 16, 2017, Ms. Patterson called the Student’s phone number.
+The Student answered the phone and Ms. Patterson told him that a hearing
+was scheduled for November 24, 2017 at 9:45 a.m. regarding charges filed
+against him by the University. Ms. Patterson asked if the Student had checked
+his University email account. The Student stated that he had changed his email
+address and was not attending the University anymore. Ms. Patterson told the
+Student that Counsel wished to speak with him, and that he should check his
+emails and the documents that had been sent to him first.
+
+(i)
+
+The Student provided Ms. Patterson with a new email address, as well as a
+new home address. He confirmed that he had received the prior voicemail
+messages. Ms. Patterson arranged to have Counsel call the Student later that
+evening.
+
+(j)
+
+Counsel spoke with the Student later that evening and explained the
+outstanding charges against him, and the date and time of the hearing. The
+Student stated that he was no longer enrolled at the University and was not
+
+4
+
+aware of the hearing. Counsel further advised the Student that the charges
+would have to be resolved, and provided information about his options,
+including seeking assistance from Downtown Legal Services and requesting
+an adjournment.
+(k)
+
+Later that evening, Counsel sent the Student an email at the new email address
+he had provided, attaching a number of emails and documents that had
+previously been sent to him. She set out his options and asked him to respond
+by November 18, 2017. The email message, however, bounced back.
+
+(l)
+
+Ms. Patterson called the Student the following day, and he provided a different
+email address. Ms. Patterson forwarded the email from Counsel to that email
+address, and it did not bounce back.
+
+(m)
+
+The Student did not respond to the email message, and Counsel sent further
+email messages and voicemail messages on November 20, 21 and 22. No
+response was received from the Student.
+
+(n)
+
+On September 18 and November 21, 2017, Counsel contacted Mike Wiseman,
+Acting Director, Information Security, Information Technology Services at the
+University asking Mr. Wiseman to advise her of the last date on which someone
+accessed the Student’s email account. Mr. Wiseman advised that the account
+was last accessed on July 17, 2017.
+
+(o)
+
+On November 22, 2017, a process server served the Student personally with
+a letter, the Notice of Hearing and the charges at the new address that he
+provided to Ms. Patterson.
+
+4.
+
+As of the date of the November 24th hearing date, the Student had not responded to
+
+any of the above-noted correspondence.
+5.
+
+The University requested that the Panel proceed with this hearing in the absence of
+
+the Student. The onus of proof is on the University to demonstrate that it provided a student
+with reasonable notice of the hearing.
+
+5
+
+6.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”) and
+
+Rule 17 of the University of Toronto Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act and
+the party does not attend the hearing, the Tribunal may proceed in the absence of the party
+and the party is not entitled to any further notice in the proceeding.
+7.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+
+including by sending a copy of the document by courier to the student’s mailing address in
+ROSI or by emailing a copy of the document to the student’s email address in ROSI.
+8.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account
+on ROSI. Students are expected to monitor and retrieve all mail, including emails, on a
+frequent and consistent basis.
+9.
+
+Based on totality of the attempts made to provide notice to the Student and described
+
+above, including Counsel’s telephone conversation with the Student, during which she
+specifically advised him of the November 24th hearing date, the Panel concluded that the
+Student was given reasonable notice of the hearing in compliance with the notice
+requirements of the Act and the Rules. Moreover, the Student’s University email account had
+been accessed in July 2017, after the emails attaching the charges and the disclosure brief
+had been sent to that address.
+10.
+
+The Panel therefore determined it would proceed to hear the case on its merits in the
+
+absence of the Student, and the hearing proceeded on the basis that the Student was
+deemed to deny the Charge made against him.
+B.
+
+The Charge and Particulars
+
+11.
+
+The Charges and Particulars were detailed in a letter dated January 16, 2017 and are
+
+set out below:
+
+6
+
+(a)
+
+On or about November 13, 2015, you knowingly represented as your own an
+idea or expression of an idea or work of another in a paper that you submitted
+in CTLA01H3, contrary to section B.I.1(d) of the Code.
+
+(b)
+
+In the alternative, on or about November 13, 2015, you knowingly obtained
+unauthorized assistance in connection with a paper that you submitted in
+CTLA01H3, contrary to section B.I.1(b) of the Code.
+
+(c)
+
+In the further alternative, on or about November 13, 2015, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with a
+paper that you submitted in CTLA01H3, contrary to section B.I.3(b) of the
+Code.
+
+(d)
+
+On or about December 16, 2015, you knowingly represented as your own an
+idea or expression of an idea or work of another in the final examination in
+CTLA01H3, contrary to section B.I.1(d) of the Code.
+
+(e)
+
+In the alternative, on or about December 16, 2015, you knowingly obtained
+unauthorized assistance in connection with the final examination in CTLA01H3,
+contrary to section B.I.1(b) of the Code.
+
+(f)
+
+In the further alternative, on or about December 16, 2015, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with
+the final examination in CTLA01H3, contrary to section B.I.3(b) of the Code.
+
+Particulars
+(g)
+
+At all material times you were a student at the University of Toronto
+Scarborough.
+
+7
+
+(h)
+
+In Fall 2015, you enrolled in CTLA01H3 (Foundations in Effective Academic
+Communication) (the “Course”), which was taught by Maggie Roberts.
+
+(1)
+
+Research Paper
+
+(i)
+
+On or about November 13, 2015, you submitted a research paper in the Course
+entitled “What Can Educators Learn from MOOCs” (the “Paper”), which was
+worth 7.5% of your final grade.
+
+(j)
+
+You submitted the Paper to obtain academic credit.
+
+(k)
+
+You knowingly represented the work of another person, or persons, as your
+own, and you knowingly included in the Paper ideas and expressions that were
+not your own, but were the ideas and expressions of another person, or
+persons, which you did not acknowledge in the Paper.
+
+(l)
+
+You knowingly obtained unauthorized assistance in connection with the Paper.
+
+(m)
+
+You knowingly submitted the Paper with the intention that the University of
+Toronto Scarborough rely on it as containing your own ideas, expressions of
+ideas or work in considering the appropriate academic credit to be assigned to
+your work.
+
+(2)
+
+Final Exam
+
+(n)
+
+On or about December 16, 2015, you wrote the final examination in the Course
+(the “Exam”), which was worth 33% of your final grade.
+
+(o)
+
+You submitted the Exam:
+(i)
+
+to obtain academic credit;
+
+(ii)
+
+knowing that it contained verbatim or nearly verbatim text from sources,
+including:
+a)
+
+the examination instructions; and
+
+8
+
+b)
+
+Liu, L. (2011). An international graduate student’s ESL
+learning experience beyond the classroom, TESL
+Canada Journal 29(1)
+
+(collectively, the “Exam Sources”);
+(iii)
+
+knowing that it contained ideas, expressions of ideas or work which
+were not your own, but were the ideas, expressions of ideas or work of
+others, including the Exam Sources; and
+
+(iv)
+
+knowing that you did not properly reference the ideas, expression of
+ideas or work, including the verbatim or nearly verbatim text that you
+drew from the Exam Sources.
+
+(p)
+
+You knowingly obtained unauthorized assistance in connection with the Exam,
+including from the Exam Sources.
+
+(q)
+
+You knowingly submitted the Exam with the intention that the University of
+Toronto Scarborough rely on it as containing your own ideas or work in
+considering the appropriate academic credit to be assigned to your work.
+
+C.
+
+The Evidence
+
+12.
+
+The University called the evidence of Ms. Margaret Roberts, Coordinator, Facilitated
+
+Study Groups at the Centre for Teaching and Learning, University of Toronto Scarborough.
+Ms. Roberts’ responsibilities include teaching the Course, which she designed and has been
+teaching since 2011. According to Ms. Roberts, the Course is intended to enable students
+who are not strong in English to become proficient in one semester and includes reading and
+writing activities to enable students to develop their skills.
+13.
+
+Ms. Roberts testified that during the first class of the Course, she went through the
+
+syllabus closely with the students and discussed issues of academic integrity. The syllabus
+contains an “Academic Integrity Statement” which states that cases of cheating and
+plagiarism would be treated very seriously. The Statement provides a hyperlink to the Code
+
+9
+
+and gives examples of academic offences. The Statement further states that students will
+normally be required to submit their course essays to turnitin.com for a review of textual
+similarity.
+
+Ms. Roberts advised the students that they could submit their essays to
+
+turnitin.com before the due date and revise as necessary.
+14.
+
+During the first week of the Course, students are required to take a diagnostic test to
+
+assess their English language needs. A student with a score below 63% is deemed to be “at
+risk.” The Student answered 33 out of 70 questions, with an accuracy rate of 7%. He scored
+19% on another portion of the test.
+15.
+
+Ms. Roberts testified that she observed in class that the Student had a very limited
+
+ability to speak English and was reluctant to try. He sat with an older student, upon whom he
+relied to translate for him. The Student did not participate in class, and when asked to do
+something, would ask the older student what to do. The Student’s attendance in class was
+also irregular. He attended eight out of twelve classes and two out of ten practicums.
+The Assignments
+16.
+
+The Course evaluation included five journals, which were each worth 2% of the final
+
+grade, and a “synthesis assignment” worth 7% of the final grade. There was also a research
+assignment worth 10% of the final grade. The journals were to assist the students with the
+synthesis assignment. The Student did not complete the first two journals, but did submit the
+third journal (“Journal 3”) on October 2, 2015. The students had been given three articles,
+which they would have to summarize and use to answer questions. The Student’s journal
+largely excerpted one of the articles. The remainder of the journal was written in very poor
+English.
+17.
+
+The Student submitted the synthesis assignment on October 11, 2015. When the
+
+assignment was submitted to turnitin.com, it resulted in a 54% similarity. Three out of five
+paragraphs are substantially the same as another source. The remaining two paragraphs
+were very poorly written, and the English was not at the same level of the other two
+paragraphs.
+
+10
+
+18.
+
+On October 19, 2015, Ms. Roberts sent the Student an email and asked him to see
+
+her for assistance with the use of sources and to rewrite the paper. The Student did not
+respond to the email, but Ms. Roberts spoke to him the following day. The Student did not
+initially appear to understand what was going on, but at the end of the meeting, he
+acknowledged that he had done something wrong. Ms. Roberts gave him two weeks to
+rewrite the assignment, but he did not resubmit it. Ms. Roberts followed up by email on
+November 8, 2015, expressing her concern about whether the Student would pass the
+Course and offering to work with him, but received no response.
+19.
+
+On November 6, 2015, the Student submitted the fourth journal. The Student did not
+
+follow the instructions, which were to use two sources that the student would be using for the
+research assignment, and simply stated his opinion.
+20.
+
+The Student submitted the final research assignment on November 13, 2015. The
+
+turnitin.com report reflected 0% similarity. However, the assignment raised some flags with
+the teaching assistant, Colette Grainger, who suspected that the Student had not written the
+paper.
+21.
+
+At the hearing, Ms. Roberts provided a detailed analysis of the Student’s research
+
+assignment and why she did not believe that it had been written by the Student. The level of
+vocabulary and language was much more sophisticated than any of the other written work
+submitted by the student. The use of sources was also sophisticated, citing multiple sources
+for a single point, when the Student had previously struggled to use sources properly. There
+were also complex grammar structures and language patterns that were beyond the language
+ability that the Student had demonstrated to date.
+
+Based on the Student’s previous
+
+assignments and his lack of attendance, Ms. Roberts concluded that the Student’s language
+proficiency could not have improved to this extent. Moreover, Ms. Roberts testified that none
+of the students in the Course could have written an essay at this level.
+The Final Examination
+
+11
+
+22.
+
+The final examination for the Course took place on December 16, 2015. On the first
+
+page of the exam booklet, students are required to sign that they have read and understood
+that the Code prohibits all forms of academic dishonesty, and that students who violate the
+Code may be subject to penalties including suspension or expulsion from the University. The
+Student signed this page.
+23.
+
+The Student scored one out of 13 on the vocabulary portion of the exam. On the
+
+essay portion of the examination, the Student copied large portions from the text that had
+been provided for students to use to write the essay portion. The Student also copied portions
+of the examination instructions. The Student underlined these portions of the exam question
+and the article.
+24.
+
+After the examination, Ms. Roberts emailed the Student twice requesting that he meet
+
+with her about the examination, but the Student did not respond.
+D.
+
+Decision of the Tribunal
+
+25.
+
+The onus is on the University to establish on a balance of probabilities, using clear
+
+and convincing evidence that the academic offence charged has been committed by the
+Student.
+26.
+
+The Student was charged with a number of offences under the Code. Counsel advised
+
+that if the Student was found guilty of the first charge, charges two and three would be
+withdrawn, and the University would not proceed on the remaining charges. The first charge
+relates to plagiarism of the research assignment under Section B.I.1(d) of the Code, which
+reads:
+It shall be an offence for a student knowingly: to represent as one’s own any idea
+or expression of an idea or work of another in any academic examination or term
+test or in connection with any other form of academic work, i.e. to commit
+plagiarism[.]
+
+12
+
+27.
+
+At the hearing, the Panel found that in relation to the research assignment, the Student
+
+knowingly represented the work of another as his own, contrary to section B.I.1(d) of the
+Code. These reasons thus address our finding that the Student is guilty of the charge of
+plagiarism.
+28.
+
+Based on Ms. Roberts’ evidence as detailed above and the Panel’s review of the
+
+Student’s assignments, none of the Student’s previous assignments reflected an English
+ability remotely proficient enough to author the research assignment just a few short weeks
+later.
+
+Moreover, the Student’s attendance in class was irregular and he did not seek
+
+additional assistance to further his learning.
+
+The Student did not take up the offer of
+
+assistance to overcome his lack of understanding regarding the proper use of sources. Given
+these facts, it is not possible that the Student’s English ability improved to the extent that he
+was able to write the research assignment himself.
+29.
+
+The Student’s submission of a research assignment that was not his work was not
+
+through inadvertence or error. He did not simply fail to cite a couple of sources. Because
+the quality of the work that he submitted was so superior to any assignment that he had
+previously submitted, and given his limitations in English, he knew or ought to have
+reasonably known that the work he submitted was not his own.
+30.
+
+If the Student’s English ability had improved to the extent that he could have authored
+
+the research assignment, this proficiency would have been reflected on the final examination.
+On the final exam, however, he answered only one vocabulary question correctly and
+substantially copied the essay portion. The Panel finds that the Student could not have written
+the research assignment and that it is more likely than not that he submitted the work of
+another as his own.
+31.
+
+As Counsel advised, this is not a “typical” plagiarism case, since the turnitin.com report
+
+assessed the research assignment at 0% similarity and the work that may have been
+plagiarized is not in evidence. In University of Toronto v W.J (Case No. 815, January 19,
+2016), the Tribunal was faced with a similar situation and found that an original text to
+compare with the submitted work is not required. What is necessary to constitute plagiarism
+
+13
+
+is that a student represent someone else’s work as their own. In this case as well, the Student
+represented work that he did not write, the research assignment, as his own. The University
+has demonstrated on a balance of probabilities that the student breached Section B.I.1(d) of
+the Code.
+E.
+
+Sanction
+
+32.
+
+The matter continued with a hearing on the appropriate sanction. The University
+
+requested that the Panel make an order that: (i) the Student receive a zero grade in the
+Course, (ii) the Student be suspended for three years, (iii) a notation of the suspension be
+placed on the Student’s record for four years, and (iv) the case be reported to the Provost,
+with the Student’s name withheld, for publication of a notice of the decision of the Panel and
+the sanctions imposed.
+33.
+
+The appropriate sanction must be based on the individual circumstances of each case,
+
+and there is no “formula” that determines a particular result. (University of Toronto v B..S.,
+Case No. 697 – Sanction, January 17, 2014 at para 8). The Tribunal has nonetheless
+identified the following factors as relevant in determining the appropriate sanction: the
+character of the person charged, the likelihood of repetition, the nature of the offence, the
+need to deter others from engaging in similar behaviour, the detriment to the University,
+protection of the public, as well as any extenuating circumstances. (University of Toronto v
+Mr. C., Case No. 1976/77-3; November 5, 1976 at p. 12.)
+34.
+
+Plagiarism is a serious offence that “strikes at the core of academic integrity.”
+
+(University of Toronto v D.S., Case No. 554, October 7, 2009at para 39). Plagiarism harms
+not only the student and fellow students, but also the University’s credibility and objectives.
+Because of the broad availability of material on the internet, and the ease with which it can
+be copied, academic institutions bear the burden of constantly reinforcing the importance of
+academic integrity. As was evident in this case, students are reminded of this through the
+Code, their course syllabus and exam materials. A significant sanction is necessary to reflect
+the seriousness of the misconduct and its corrosive impact on academic integrity.
+
+14
+
+35.
+
+In this case, the Student was given multiple warnings and chances but did not learn
+
+from his early mistakes. He did not avail himself of the assistance offered by his instructor,
+but instead continued to submit work that was largely copied from other sources. While this
+may have been due to his limited English ability, he did not seek to understand the proper
+use of sources. Moreover, the offence was not limited to missing citations or errors that could
+be characterized as a lack of care. As Counsel noted, if the course were not a small course
+where the instructor knew the student well, the plagiarism may not have been detected. A
+significant sanction is necessary to deter others from engaging in this type of behaviour.
+36.
+
+This was a first offence for the Student, during his first term at the University. Because
+
+the Student did not participate in the hearing, the likelihood of repetition can only be measured
+on the evidence of the University, which suggests that the Student gained no understanding,
+even during the final examination, that copying was against the Code.
+37.
+
+Due to the Student’s non-participation, we were unable to assess his degree of
+
+remorse or insight.
+
+Similarly, there was no evidence of any mitigating or extenuating
+
+circumstances.
+38.
+
+Given our assessment of the relevant factors, a significant penalty was warranted.
+
+The sanction sought by the University is consistent with the sanction ordered by the Tribunal
+in similar cases. (See, e.g.: B.S., supra; University of Toronto v D.S., Case No. 451, August
+24, 2007; University of Toronto v M.H.H., Case No. 521, January 12, 2009). The Panel
+concluded that, under the circumstances, it was appropriate to order the sanction requested
+by the University.
+F.
+
+Conclusion
+
+39.
+
+The Panel orders that the Student is guilty of knowingly representing as his own an
+
+idea or expression of an idea or work of another in a paper that he submitted in CTLA01H3,
+contrary to section B.I.1(d) of the Code;
+40.
+
+The Panel ordered that the following sanctions be imposed on the Student:
+
+15
+
+(a)
+
+A zero in the course CTLA01H3;
+
+(b)
+
+A suspension from the University of Toronto for a period of 3 years from the
+day the Panel makes its order for three years from November 24, 2017 to
+November 23, 2020;
+
+(c)
+
+a notation of the sanction on his academic record and transcript from the day
+the Panel makes its order for four years from November 24, 2017 to November
+23, 2021; and
+
+41.
+
+The Panel also ordered that the case be reported to the Provost, with the Student’s
+
+name withheld, for publication of a notice of the decision of the Panel and the sanctions
+imposed.
+
+Prior to these Reasons being finalized, Justice Sandra Nishikawa was appointed a judge of
+the Superior Court of Justice of Ontario. Therefore these reasons were issued by the
+remaining two Panel members.
+Dated at Toronto this 9th
+
+day of February, 2018
+
+__________________________________________
+Professor Pascal Riendeau, Faculty Panel Member
+
+__________________________________________
+Ms. Sherice Robertson, Student Panel Member
+
+15
+
+(a)
+
+A zero in the course CTLA01H3;
+
+(b)
+
+A suspension from the University of Toronto for a period of 3 years from the
+day the Panel makes its order for three years from November 24, 2017 to
+November 23, 2020;
+
+(c)
+
+a notation of the sanction on his academic record and transcript from the day
+the Panel makes its order for four years from November 24, 2017 to November
+23, 2021; and
+
+41.
+
+The Panel also ordered that the case be reported to the Provost, with the Student’s
+
+name withheld, for publication of a notice of the decision of the Panel and the sanctions
+imposed.
+
+Prior to these Reasons being finalized, Justice Sandra Nishikawa was appointed a judge of
+the Superior Court of Justice of Ontario. Therefore these reasons were issued by the
+remaining two Panel members.
+Dated at Toronto this 18 day of February, 2018
+
+__________________________________________
+Professor Pascal Riendeau, Faculty Panel Member
+
+__________________________________________
+Ms. Sherice Robertson, Student Panel Member
+
+

@@ -1,0 +1,794 @@
+Case No.: 1054
+THE DISCIPLINE APPEALS BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on August 24, 2018
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O.
+1978, c. 88
+B E T W E E N:
+A
+
+M
+Appellant
+(Respondent by Cross-Appeal)
+- and –
+
+THE PROVOST OF THE UNIVERSITY OF TORONTO
+Respondent
+(Appellant by Cross-Appeal)
+REASONS FOR DECISION
+Hearing Date: August 18, 2020 (via Zoom)
+Members of the Discipline Appeals Board Panel:
+Ms. Patricia D.S. Jackson, Chair
+Professor Aarthi Ashok, Faculty Panel Member
+Mr. Said Sidani, Student Panel Member
+Appearances:
+Ms. Tina Lie, for the Respondent, Appellant by Cross-Appeal, Paliare Roland Rosenberg Rothstein LLP
+Mr. Sean Grouhi for the Appellant, Respondent by Cross-Appeal, Downtown Legal Services
+Parties in Attendance:
+A
+
+M
+
+(the “Student”)
+
+Hearing Secretaries:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances, University of Toronto
+Krista Kennedy, Administrative Clerk and Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances, University of Toronto
+
+-2The Appeal
+1.
+
+The Student was found guilty of the offence of cheating, academic dishonesty or misconduct,
+
+fraud or misrepresentation in order to obtain academic credit or other academic advantage in connection
+with a Midterm examination, contrary to section B.1.3(b) of the Code of Behaviour on Academic Matters,
+1995 (the “Code”). This was the Third Charge of three charges that were the subject of the hearing.
+2.
+
+The Tribunal imposed sanctions consisting of: a grade of zero in the course in which the Midterm
+
+occurred; a suspension from the University until July 13, 2022; a notation to this effect on his academic
+record and transcript until the date of his graduation or June 1, 2023, whichever is later; and the
+publication of the decision and sanctions, with the Student’s name withheld.
+3.
+
+The Student appeals the finding of the Tribunal on the basis that the Tribunal erred in law by
+
+permitting the University to call reply evidence.
+4.
+
+The University cross-appeals from the decision below on the basis that the Tribunal erred in
+
+acquitting the student of a charge under section B.I.1(a) of the Code. That section makes it an offence to
+forge, alter or falsify a document required by the University and to make use of such forgery. In this case,
+the University alleged that the Student had falsified and made use of a Scantron sheet submitted at the
+conclusion of the Midterm examination in which the student identified the version of the multiple-choice
+Midterm examination he had received and responded to. This was the First Charge of the three charges
+that were the subject of the hearing.
+5.
+
+It was not the University’s position that the Student should be subject to conviction under two
+
+charges. Rather, it submitted that the appropriate conviction was under the First Charge, and that if this
+Board were to return a conviction under that charge the alternative charges would and should be
+withdrawn. The University further submitted that any such change in the offence subject to conviction
+should not to affect the sanction imposed, which the Student had not appealed.
+
+-36.
+
+As a result of the constraints imposed by the pandemic, the hearing took place virtually, on
+
+Zoom.
+The Charges
+7.
+
+The Student was charged with three offences under the Code:
+The First Charge: On or about March 15, 2018, you knowingly forged or in any other
+way altered or falsified a document or evidence required by the University, or uttered,
+circulated or made use of such forged, altered or falsified document, namely a Scantron
+sheet that you submitted in a Midterm examination in LMP301H1, contrary to section
+B.I.1(a) of the Code.
+The Second Charge: On or about March 15, 2018, you knowingly obtained unauthorized
+assistance in connection with a Midterm examination that you wrote in LMP301H1,
+contrary to section B.I.1(b) of the Code.
+The Third Charge: In the alternative, on or about March 15, 2018, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit or other academic advantage of any
+kind in connection with a Midterm examination that you wrote in LMP301H1, contrary
+to section B.I.3(b) of the Code.
+
+8.
+
+At the hearing, the University confirmed that the Second Charge and the Third Charge were in
+
+the alternative, and that the Second and Third Charges would be withdrawn if the Tribunal convicted the
+Student under the First Charge.
+The Hearing Below
+9.
+
+The event giving rise to the charges was a Midterm examination in one of the Student's courses.
+
+The examination was multiple-choice. There were two versions of the exam, both containing the same
+questions, but arranged in a different order. The two versions were called Version A and Version B.
+When the Student had completed the exam, he handed in a question paper for Version B of the exam and
+a Scantron sheet indicating that he had answered Version A.
+
+-410.
+
+Much of the evidence at the hearing was contained in an Agreed Statement of Fact. In relevant
+
+part, it recounted the following:
+11. The Midterm was comprised of 25 multiple-choice questions. Students were given
+either Version A or Version B of the Midterm. Students were asked to submit their
+answers on a Scantron sheet and to indicate on the Scantron sheet which version of
+the Midterm (Version A or Version B) they had been given.
+12. Students were required to work individually on their Midterms and were not
+permitted to obtain assistance from any other students during the Midterm.
+13. [The Student] was given a Version B examination paper. He did not provide his name
+or student number on the examination paper.… [The Student] admits that all markings
+on the [Student’s] Scantron were created by him.
+14. The Scantron sheets that were submitted by students who had written the Midterm
+were marked using software to compare the answers given by students with the
+answer key.
+…..
+18. The [Student’s] Scantron was graded as a Version A examination and received a
+score of 18 out of 25. If the answers given on the [Student’s] Scantron have been
+graded as a Version B examination, the [Student] would have received a score of 4
+out of 25.
+11.
+
+The University also called two witnesses. The first, Dr. Lei Fu, was the course instructor who
+
+invigilated the Midterm with the help of three teaching assistants.
+12.
+
+She testified that the examination took place in a large room with individual tables and chairs
+
+lined up in columns. The teaching assistants distributed one copy of the examination, either Version A or
+B, and one Scantron to each table by column, alternating by column between the two versions. The
+placement and the use of two versions of the exam were so that students could not copy the answers of
+students sitting to their sides.
+
+-513.
+
+Students were told that there were two versions of the examination and were instructed to indicate
+
+the version received on their Scantron. After the examinations were distributed, no one kept track of
+which version any particular student had received. It was each student’s responsibility to honestly and
+accurately indicate on their Scantron the version of the examination that he or she had received.
+14.
+
+At the end of the examination, students were required to remain in their seats while the
+
+examinations and Scantrons were collected.
+15.
+
+After all the examination materials were collected and the students had left the examination room,
+
+Dr. Fu and the teaching assistants sorted the examinations and the Scantrons. At that time, Dr. Fu noticed
+that there was one mismatch between the exam version and the Scantron version. After the teaching
+assistants had counted the Midterm materials three times, it was concluded that they had collected 62
+Version A and 62 Version B exam papers, but 63 Version A and 61 Version B Scantrons.
+16.
+
+The University’s second witness was Dr. Elizabeth Cowper, who conducted the Dean’s Designate
+
+Meeting with the Student.
+17.
+
+She testified that in that meeting the Student insisted he had received a Version A exam and
+
+denied receiving a Version B exam. He was asked about apparent erased markings on the Version B exam
+that had been turned in, and denied that the markings were his. He denied any knowledge as to why there
+was a discrepancy between the Scantron form and the version of the exam he handed in with it.
+18.
+
+By the time of the hearing the Student acknowledged in the Agreed Statement of Fact that the
+
+markings on the Version B exam were his.
+19.
+
+The University had obtained affidavit evidence and an expert report from Dianne Kruger, a
+
+forensic document examiner, who determined that the erased markings on the Version B exam were the
+Student’s. Ms. Kruger’s opinion evidence went in on consent and was not contested.
+
+-620.
+
+The Student testified in his own defence.
+
+21.
+
+He said that when he entered the exam room, the examinations and Scantron forms had been
+
+distributed to the individual tables. He said that he had a Version A exam and so entered the code for
+Version A on his Scantron form. At some point after he began answering the questions he realized he had
+two versions of the exam — Version A and Version B.
+22.
+
+He acknowledged that he could then have raised his hand to ask what he should do about having
+
+received two versions of the exam, but he said he was worried that he would get into trouble. So he kept
+both, and focused on the Version A exam that he had indicated in his Scantron. Although he intended to
+hand in Version A at the end of the exam, he inadvertently handed in version B, and subsequently
+disposed of Version A.
+23.
+
+He maintained that the answers on his Scantron form were his, based on his copy of the Version
+
+A exam, and that he had not copied from anyone.
+24.
+
+His explanation for his erased markings on the Version B exam that he submitted was that he had
+
+used it as a worksheet when he ran out of space on the no-longer-available Version A of the exam. His
+explanation for why he had denied making the markings at the Dean’s Designate meeting was that he
+thought Professor Cowper had already made up her mind. He said that he did not think she would listen to
+him so he simply denied the Version B exam was his.
+25.
+
+Upon hearing the Student’s evidence, the University moved for an adjournment to have an
+
+opportunity to call reply evidence. The student opposed both.
+26.
+
+The basis for the University’s request was that the Student’s explanation about having received
+
+both Version A and Version B of the exam was an explanation they had neither heard nor anticipated
+before he gave that evidence. They wanted to consider and potentially call the evidence of the teaching
+assistants who were responsible for the distribution and collection of the examination papers.
+
+-727.
+
+The Student objected. In the first place, he said the University was impermissibly splitting its
+
+case. Secondly, he said he would be prejudiced by the further delay in a case that had now been
+outstanding for more than a year and a half, and that prejudice was augmented because another day of
+hearing would require him to travel back from England where he then lived.
+28.
+
+The Tribunal decided to grant the adjournment request and permit reply evidence on terms.
+
+29.
+
+In the Tribunal’s opinion it was reasonable to argue that the University could have called the
+
+teaching assistants as witnesses during their case in chief because of their involvement in the events in
+question. But, as was his right, the Student chose to provide the explanation that he did for the first time
+during his testimony. Fairness dictated that University should be given an opportunity to call reply
+evidence.
+30.
+
+In order to negate any potential prejudice, the Tribunal directed that:
+a. the University was not to discuss the evidence that had occurred at the hearing with the
+potential reply witnesses;
+b. any reply evidence was to be strictly limited to responding to evidence that was raised for
+the first time in the Student’s testimony;
+c. the delay was to be brief, and at the time the adjournment was granted the parties and
+counsel had been able to find a date within one week to resume the preceding (although
+in fact it was delayed beyond that); and
+d. the Student was able to participate in the resumed hearing via videoconference, which,
+since he had already testified, was thought to have no impact on the quality of the
+evidence as a result.
+
+-831.
+
+Following the adjournment and prior to the reply evidence being called, the Tribunal made a
+
+further direction that the University review counsel’s notes and provide a summary of any additional facts
+not reflected in “Will Say” summaries that had already been produced, whether or not the University
+intended to call such evidence.
+32.
+
+When the hearing resumed, the University called two teaching assistants, Scott Ryall, who was
+
+the individual primarily responsible for preparing and distributing copies of the exams, and Kristiana
+Xhima.
+33.
+
+Mr. Ryall testified that he made separate copies of Version A and B of the Midterm. He kept
+
+careful track of the number of Midterms: that he printed and brought into the examination room; that were
+actually distributed at the beginning of the Midterm; that were collected from empty desks after the
+Midterm was underway; and that were collected at the end.
+34.
+
+He testified that one of the reasons for being so careful was to ensure that students did not remove
+
+any Midterm examinations from the room. He said the Midterm was “restricted”, meaning that the
+professors reserved the right to reuse Midterm questions in subsequent years.
+35.
+
+He said that he distributed Version A of the examination to alternating columns of desks in the
+
+examination room. When Ms. Xhima arrived she distributed Version B to the remaining alternate
+columns.
+36.
+
+He further testified that Dr. Fu noticed the mismatch between the Midterm exam and the Scantron
+
+form during the course of the collection of the Midterm materials and described the counting process that
+led to the results noted in paragraph 15 above.
+37.
+
+While she generally confirmed aspects of Mr. Ryall’s evidence, Ms. Xhima did not add any
+
+material details as she lacked specific recollection with respect to many of the details of the
+administration of the Midterm exam.
+
+-938.
+
+The Student did not seek to call evidence in sur-reply to these witnesses, and there was no
+
+argument that the evidence violated the Tribunal’s directions limiting the evidence to new issues raised by
+the defence.
+The Tribunal’s Decision
+39.
+
+The central issue in dispute before the Tribunal was whether the Student had received a Version
+
+A exam. Although at the time of his meeting with the Dean’s Designate the Student denied having
+received Version B, by the time of the hearing there was no dispute that he had received Version B, that
+he had made markings on that version and then erased them, and that he had denied both these facts at the
+Dean’s Designate meeting.
+40.
+
+The Tribunal did not accept the Student’s explanation at the hearing that he had been given both
+
+Versions A and B of the exam. Among the reasons for which they gave this finding were:
+•
+
+It was inconsistent (and directly contrary in some respects) to the explanation he
+gave at the Dean’s Designate meeting.
+
+•
+
+The Student’s evidence as to why he did not tell Prof. Cowper that he had
+received two exams was not credible since by that time he knew he was facing an
+allegation of serious misconduct and it did not make sense for him to lie if he had
+received two versions of the exam.
+
+•
+
+It was more likely that his denial of receiving a Version B of the exam was what
+he believed was his best opportunity of avoiding liability. But when the
+University’s expert handwriting evidence tied him to the Version B exam, he had
+to change his explanation to the Tribunal.
+
+•
+
+They did not accept that the Student would not have raised his hand and asked
+for assistance if he had actually discovered that he received two versions of the
+exam.
+
+•
+
+Nor did they accept the Student’s evidence that he inadvertently handed in the
+Version B exam and left with the Version A exam he had intended to submit.
+
+- 10 •
+
+The Student had no explanation for why he erased the answers that he wrote in
+the Version B booklet and it was more likely than not that he erased the answers
+in an effort to conceal them when he handed in the exam booklet.
+
+41.
+
+The Tribunal then directed their attention to the reply evidence, and observed:
+56....[Mr. Ryall’s] evidence established that it was very unlikely that the Student
+inadvertently received two different versions of the exam.
+57. Finally, while the Tribunal was satisfied by the evidence that the Student had
+committed an academic offence, we were not convinced that the Student cheated in the
+manner alleged by the University. There was no direct evidence showing that he copied
+off another student at the exam. All of the University’s witnesses testified that they did
+not notice any unusual activity while the exam was being written.
+58. In light of the fact that the professors use the same exam for several years (a practice
+they may wish to reconsider going forward), it is just as likely that the Student had access
+to the answers for a version A exam before the exam was administered. He could have
+then copied the answers to his exam paper from memory and then erased those markings
+in an effort to conceal that the version B exam was his.
+
+42.
+
+The Tribunal then turned to the question of whether any of the three charges was made out,
+
+saying:
+59. The panel accepted the University’s submission that it did not have to prove exactly
+how the Student cheated in order to establish that an academic offence was committed. It
+relied on the “Ms. B” ….and the “Ms. K” …Tribunal decisions that stand for this
+proposition. The University did establish on a balance of probabilities, with clear and
+convincing evidence, that the student had violated the Code.
+60. Based on the evidence before it, and the fact that the precise method of cheating on
+the exam was not established but various forms of misrepresentation were proven, the
+Tribunal determined that there had been a violation of the third charge, pursuant to
+section B.I.3(b) of the Code.
+
+- 11 43.
+
+The section of the Code which the Tribunal determined had been violated (the Third Charge
+
+noted above) provides as follows:
+B.I.3. It shall be an offence for a… student …knowingly ....
+(b) to engage in any form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not herein otherwise described, in order to obtain academic credit or
+other academic advantage of any kind. (Emphasis added.)
+44.
+
+In order to find the Student guilty of an offence under this section of the Code, the Tribunal was
+
+in effect determining that the conduct that was the subject of the charges was “not …otherwise described”
+in the Code. Since the First Charge concerned an offence under a different section of the Code, section
+B.I.1(a), the Tribunal’s decision thereby determined that the conduct was not an offence under that
+section of the Code.
+45.
+
+It is that decision that gives rise to the University’s cross-appeal.
+
+The Appeal
+46.
+
+The Student appeals the decision below on the basis that the standard of review is correctness and
+
+that the Tribunal erred in law in permitting the University to call reply evidence from the two teaching
+assistants.
+47.
+
+The Student relies on the following principle in the Supreme Court of Canada’s decision in R. v.
+
+Krause, [1986] 2 SCR 466:
+16. The plaintiff or the Crown may be allowed to call evidence in rebuttal after
+completion of the defence case, where the defence has raised some new matter or defence
+which the Crown or the plaintiff has had no opportunity to deal with and which the
+Crown or the plaintiff could not reasonably have anticipated. But rebuttal will not be
+permitted regarding matters which merely confirm or reinforce earlier evidence adduced
+in the Crown’s case which could have been brought before the defence was made. It will
+
+- 12 be permitted only when it is necessary to ensure that at the end of the day each party will
+have had an equal opportunity to hear and respond to the full submissions of the other.
+48.
+
+The Student acknowledged that the Tribunal “lacked clear guidance from Tribunal authorities on
+
+this point”. And the case of R. v. Krause was not referred to before them.
+49.
+
+The Student asserts that there has been a long trend of Tribunal decisions allowing reply evidence
+
+without legal analysis or justification, but argues that these are contrary to the law as set forth in R. v.
+Krause. In this case, he says that the University cannot say that it could not reasonably have anticipated
+his defence.
+50.
+
+The Student particularly focuses on the portion of the Tribunal’s decision where it noted that “it
+
+was reasonable to argue that the University could have called the TAs as witnesses during their case in
+chief” as an indication that this is the kind of case that the Supreme Court of Canada has said does not
+justify allowing reply evidence.
+51.
+
+He argues that the University should have anticipated his evidence that he received both Version
+
+A and Version B of the exam, and dealt with it in chief. He says this is because in the face of his
+agreement that he received the Version B Midterm, filled out his Scantron sheet as responsive to Version
+A and denied cheating, this was the only realistic possible defence to his case.
+52.
+
+He also argues that the cross-examination of Dr. Fu clearly signaled the contours of that defence
+
+because Dr. Fu was questioned on the following points:
+•
+
+the number of exams printed;
+
+•
+
+the number of exams of each version;
+
+•
+
+the number of students enrolled in the class;
+
+•
+
+the number of students who wrote the Midterm;
+
+•
+
+whether there were extra copies of the Midterm in the room;
+
+- 13 -
+
+53.
+
+•
+
+whether the exams were placed on the desks before the students came in;
+and
+
+•
+
+who was involved in distributing the exams.
+
+The Student asks this Board to substitute an acquittal for the decision, or alternatively, to send the
+
+case back to the Tribunal panel who initially heard the case, with a direction to decide the case without
+regard to the reply evidence.
+54.
+
+For its part, the University submitted the decision whether to allow a party to call reply evidence
+
+is discretionary, and that, absent an error in principle, this Board should defer to the Tribunal’s findings.
+The University acknowledged that there is a general rule in civil cases that a plaintiff is not permitted to
+split her case, but argued that the strict requirements of R. v. Krause do not apply to proceedings before
+the Tribunal, which is not bound by the strict rules of evidence that would obtain in court.
+55.
+
+The University further argued that the Student’s expression of the test for the admission of reply
+
+evidence, even in a criminal case, was too restrictive. It noted that the Court of Appeal had described the
+circumstances in which of the Crown may call reply evidence as follows:
+“when the defence has raised some new matter or defence which the Crown could not
+have reasonably anticipated and with which it had no opportunity to deal”; or
+“when an aspect of the Crown’s case has taken on added significance as a result of the
+defence case”. (R. v. R.D., 2014 ONCA 302 at para 16-17).
+56.
+
+Finally, the University argues that even if the strict requirements of the test for permitting reply
+
+evidence in criminal cases is applied to the circumstances of this case, the test noted above was met under
+both branches.
+57.
+
+In the first place, the University said that the Student’s defence could not have been reasonably
+
+anticipated. It notes the following:
+
+- 14 •
+
+The Student did not give the explanation he gave in evidence before the Tribunal at the
+Dean’s Designate meeting, and in fact gave a different explanation.
+
+•
+
+He did not disclose his anticipated evidence prior to the start of the hearing.
+
+•
+
+He elected not to give an opening statement.
+
+•
+
+He did not put the theory of having both versions of the exam to Dr. Fu in crossexamination.
+
+•
+
+It did not follow from the admissions in the Agreed Statement of Fact that the only
+realistic possible defence was the one he in fact advanced. The Student could have
+advanced a number of defences or positions, or simply put the University to its burden of
+proving the charges.
+
+•
+
+The questions put to Dr. Fu on the cross-examination did not reveal the anticipated
+defence. Indeed, as noted by the Court of Appeal in R. v. Sanderson, a cross examination
+may give notice of potential issues to the opposing party, but that does not mean that
+every suggestion put to a witness necessitates the Crown calling evidence on that issue in
+chief. To suggest otherwise would lead to speculation, a wasteful use of hearing time, and
+the creation of confusion in the evidence. (R. v. Sanderson, 2017 ONCA 470 at para. 3839)
+
+58.
+
+On the second basis on which reply evidence may be admitted, the University noted that the
+
+Tribunal had said that it would have been reasonable to call the teaching assistants in chief given their
+involvement in the exam. But it did not follow that the University was compelled to do so given the
+significance of their evidence at the time. The manner of distribution of exam papers and the steps taken
+to account for all exam papers were not, in and of themselves, probative of the Student’s guilt. It was only
+when the Student testified that he had received both versions of the exam that this evidence gained added
+significance.
+Decision on Appeal
+
+- 15 59.
+
+We agree that it is an important element of a fair hearing that the University should not split its
+
+case, leading in reply evidence that it could and should have made part of its initial case against a student.
+At the end of the University’s case, a student should know fully the case to be met. Thus, in general
+terms, the principles enunciated in the cases such as R. v. Krause, and R. v. Sanderson apply. But they do
+not do so in a hard and fast fashion. As the University noted, the Tribunal is not bound by the strict rules
+of evidence and, as there have been in the past, there may in the future be circumstances where fairness -to a student, the University, or the process -- justify the calling of reply evidence which might not be
+permitted in a criminal case. The Tribunal is nonetheless required to hold a fair hearing and the principle
+that the University should not split its case is generally an element of such fairness.
+60.
+
+We do not think it is necessary to elaborate further on the circumstances in which a departure
+
+from the principles set forth in R. v. Krause and R. v. R.D. might be warranted, since in our review, this is
+a case where there was no such departure. We conclude that this is a case where it cannot be said that the
+University ought to have reasonably anticipated the Student’s defence.
+61.
+
+We arrive at that conclusion for all of the reasons cited by the University (and summarized a
+
+paragraph 56 above). Importantly, though, we think all of those reasons are also consistent with the
+Agreed Statement of Fact.
+62.
+
+In that statement, the Student agreed with the following:
+“11. .… Students were given either Version A or Version B of the Midterm.…
+13. [The Student] was given a Version B examination paper.…” (Emphasis added.)
+
+63.
+
+We think an ordinary reading of this statement is that the Student agreed that each student in the
+
+exam got one or the other version of the exam but not both, and that the version he got was B.
+
+- 16 64.
+
+We do not think that the University can be faulted for reading it that way, and structuring its case
+
+accordingly. So while some of what Dr. Fu testified to was confirmatory of the Agreed Statement, there
+was no obligation on the University to prove the contents of the Agreed Statement, and still less to call
+further confirmatory evidence from the teaching assistants. Indeed, we think it unwise and a waste of
+hearing resources to have multiple witnesses confirm facts that the parties have agreed to. We do not
+think that in suggesting that the University might have called the teaching assistants in chief that the
+Tribunal was departing from this view, but if they were we disagree.
+65.
+
+We adopt the point that emerges from the Court of Appeal’s decision in R. v. Sanderson. The
+
+principles that govern the calling of reply evidence should not be interpreted so rigidly that the University
+should call as part of its case evidence that addresses any possible issue that a student may raise, and still
+less to address a position that is at odds with the facts to which the student appears to have agreed. The
+obligation is to lead evidence on the issues that are relevant to material issues in dispute or to a defence
+that they can or ought reasonably to anticipate.
+66.
+
+It is certainly open to the Student not to disclose his defence to the University, including by
+
+declining to deliver an opening. But in this case the decision not to do so meant that the University had no
+reason to suspect that the Student intended to depart from the facts to which he appeared to have agreed.
+67.
+
+As to the cross-examination of Dr. Fu, we agree with the University that it did not reveal the
+
+nature of the defence.
+68.
+
+Indeed, an argument can be made that there was an obligation to put to Dr. Fu that the Student
+
+intended to give evidence that contradicted Dr. Fu’s assertion that the distribution process was such that
+each student received only one examination – either Version A or Version B. In civil cases there is such a
+principle, known as the rule in Browne v Dunn. It is that one cannot lead evidence that directly contradicts
+what a witness has said without giving the witness an opportunity to respond to the contrary evidence in
+
+- 17 cross-examination. Whether or not there was such a requirement in this case, the failure to do so
+contributed to the surprise that resulted from the Student’s evidence.
+69.
+
+In summary, we conclude that it cannot be said that the University ought reasonably to have
+
+anticipated the defence that the Student put forward in his evidence. In the result, we conclude that the
+Tribunal's decision was both reasonable and correct.
+70.
+
+We note as well that we cannot conclude that the reply evidence was in any material respect
+
+prejudicial to the Student’s case, or that it would have made a difference to the result.
+71.
+
+As noted above at paragraph 40, the Tribunal's conclusion that it did not accept the Student's
+
+defence that he received two versions of the exam had virtually no regard to the reply evidence. Indeed,
+were we to have to decide this case, we would have come to the same result as the tribunal without regard
+to the reply evidence at all.
+72.
+
+Nor did the Student lead any argument or evidence of such prejudice. He did complain that the
+
+Tribunal's observation that he might have memorized the results of an earlier examination arose from
+evidence given in reply. However, that was not material to the Tribunal's conclusion on the Student's
+guilt, since they noted it was not incumbent upon the University to establish the precise method by which
+the Student committed the offense. Moreover, as more fully described below, we conclude this point is
+immaterial to the offence committed by the Student, which we conclude is more properly the offence
+expressed in the First Charge.
+Decision on Cross-Appeal
+73.
+
+The issue raised by the cross-appeal lies in the definition of the offence which the Tribunal found
+
+had been committed. As noted above at paragraphs 43 - 44, that offence can only be found in
+
+- 18 circumstances where the conduct in question is not an offence under any other section of the Code.
+Therefore, conviction under the Third Charge implies that the First Charge could not be established.
+74.
+
+It is not at all apparent that the Tribunal was alive to this issue, and that impression is reinforced
+
+because their reasons for decision contain no analysis of whether or why the First Charge was not made
+out.
+75.
+
+The First Charge alleges that the Student’ s conduct was contrary to section B.I.1(a) of the Code.
+That section reads as follows:
+B.I.1 It shall be in offence for a student knowingly:
+(a)
+
+to forge or in any other way alter or falsify any document or evidence required by
+
+the University, or the utter, circulate or make use of any such forged, altered or falsified
+document, whether the record be in print or electronica form…
+76.
+
+As noted above, the Tribunal found that the Student received a Version B exam, that he did not
+
+receive a Version A exam, and that he submitted a Scantron form indicating that he had received a
+Version A exam.
+77.
+
+Based on these facts, the Student falsified the Scantron form, which is clearly a “document
+
+…required by the University”. Indeed, the Tribunal has previously convicted students who have altered or
+falsified exam papers or Scantron forms under this section of the Code in the cases of University of
+Toronto v. Noohi (Case No. 710, October 1, 2014) and University of Toronto v. Rashid (Case No. 861,
+April 3, 2017).
+78.
+
+As the trier of fact, the Tribunal has made findings of fact which make out the offence set forth in
+
+the First Charge. It would appear to be an error of law not to find an offence where the factual findings
+
+- 19 make out the offence. And indeed Justice Sopinka said as much in R. v. Theroux, [1993] 2 SCR 5 at 1011.
+79.
+
+The Student suggests that we should defer to the Tribunal’s acquittal, because it is a finding of
+
+mixed fact and law to which deference is owed. However, we do not disturb the Tribunal’s findings of
+fact, but rather rely upon them. And, likely through inadvertence, the Tribunal below made no analysis or
+legal finding of whether those facts constituted the offence contained in the First Charge.
+80.
+
+The Student appears to suggest that there might be ambiguity as to whether the Scantron was
+
+requiring the Student to indicate the exam which he had received or the exam which he had answered, and
+also appears to suggest that the Student did not intend to provide a false answer. Not only did the Student
+not testify to any such ambiguity or lack of intention, his evidence was to the effect that his answer was
+correct because he had in fact received and answered Version A of the exam. That evidence is
+inconsistent with ambiguity or lack of intention. The difficulty for the Student is that it was not believed.
+81.
+
+In the circumstances we consider that the facts found by the Tribunal make out the offence
+
+contained in the First Charge. We agree with the University that the Student should not also be convicted
+for the same conduct under the Third Charge. Moreover, as soon as it is found that the conduct is an
+offence under the section of the Code referenced in the First Charge, the offence referenced in the Third
+Charge ceases to apply. We accordingly substitute a conviction under the First Charge for the conviction
+found by the Tribunal.
+82.
+
+No appeal has been taken from the sanctions imposed, and we agree with the position advanced at
+
+the hearing that the substitution of a conviction under the First Charge ought not to alter the sanctions
+imposed.
+83.
+
+We are indebted to both counsel for their thorough and lucid analysis of the facts of the case, and
+
+the legal principles engaged.
+
+- 20 Disposition
+84.
+
+We accordingly dismiss the appeal, allow the cross-appeal and substitute a conviction on the First
+
+Charge and vacate the conviction on the Third Charge.
+
+November 17, 2020
+________________________________
+Patricia D.S. Jackson, Chair
+on behalf of the Discipline Appeals Board Panel
+
+

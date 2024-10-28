@@ -1,0 +1,237 @@
+Case No.: 858
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on April 12, 2016;
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995;
+AND IN THE MATTER OF the University of Toronto Act, 1971 , S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+- and-
+
+Hearing Date: May 18, 2017
+Members of the Panel:
+Ms Lisa Brownstone, Barrister and Solicitor, Chair
+Professor Elizabeth Peter, Faculty Panel Member
+Professor Allan Kaplan, Faculty Panel Member
+Ms Beth Martin, Student Panel Member
+
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Barristers
+Emily Howe & Glynnis Howe, Students-at-Law, Paliare Roland Barristers
+Ms Lucy Gaspini, Manager Academics Integrity, University of Toronto,
+Mississauga
+Alexandra DiBlasio, Academic Integrity Assistant, University of Toronto,
+Mississauga
+Mr. , _ ~ , the Student
+M r . ~ ~ ' Student's Father and Representative
+
+In Attendance:
+Ms. Tracey Gameiro, Associate Director, Office of Appeals Discipline and Faculty
+Grievances, ("ADFG")
+
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances,
+University of Toronto
+Mr. Sean Lourim, IT Support, Office of the Governing Council
+
+- 1-
+
+[l]
+
+The Discipline Appeals Tribunal convened on May 18, 2017 to consider the Student's
+appeal.
+
+Preliminary Issue
+
+[2]
+
+[3]
+
+At the outset, the Panel considered a preliminary issue raised by counsel for the Provost.
+He sought an order excluding a paragraph of the Student's reply materials from any
+materials considered by the Tribunal on the bases that:
+(i)
+
+the paragraph contains details of without prejudice discussions between him and
+the Student's father, who was acting as the Student's representative; and
+
+(ii)
+
+the paragraph is irrelevant to the appeal.
+
+The paragraph purports to recount discussion between the Student's father and Provost's
+counsel. Having heard submissions from both parties, the Panel concluded that it was
+unclear whether the discussion was a without prejudice conversation, but in any event the
+contents were irrelevant to the appeal. Therefore, the Panel agreed with counsel for the
+Provost that the paragraph should be struck and not considered for purposes of the
+appeal.
+
+Notice Issue
+
+[4]
+
+With respect to the appeal itself, the Panel indicated that it would first deal with the issue
+of whether there had been reasonable notice of the hearing to the student.
+
+[5]
+
+The matter has a rather unusual history. The Student's ROSI record indicates that he had
+been placed on academic probation in the winter of 2014. Subsequently, the Student was
+suspended for one year from about April, 2015 to April, 2016. The Student was then
+alleged to have engaged in academic misconduct in April, 2015 with respect to course
+CCT208 and in October, 2015 with respect to correspondence relating to his appeal of the
+CCT200 misconduct. These allegations led to the hearing which underlies this appeal.
+
+[6]
+
+The charges of academic dishonesty were filed on April 12, 2016, which appears to have
+been during, or perhaps days after, the course of the Student's academic suspension. On
+May, 25, 2016, the Provost served the Student with the Notice of Hearing. A revised
+Notice of Hearing was served on June 28, 2016. The Charges, the Notice of Hearing and
+the revised Notice of Hearing were all sent by email to the address the Student had
+provided to the University. In addition, the ADFG attempted to serve the Student with the
+Notice of Hearing by courier. However, when an attempt was made to ueliver the mail,
+no one was there to receive the documents, and they were therefore returned to the
+ADFG. All parties agreed that no service was effected by courier.
+
+[7]
+
+The hearing occurred on July 12, 2016. The Student did not appear. The Provost, in
+support of its position that reasonable notice of the hearing had been provided to the
+Student, filed an email from the Acting Director of Information Security in the
+Information Technology Services Branch, University of Toronto, to counsel for the
+-2-
+
+Provost. That email indicated that the Student's email account to which notice had been
+sent was last accessed on June 29, 2016 at 1:25 a.m.
+[8]
+
+On the basis of the emails to the Student and the email from the Acting Director of
+Information Security, the July 12, 2016 Panel concluded that .service had been proven and
+that it had jurisdiction to proceed. The Provost called its evidence, the Tribunal made
+findings against the Student, ordered that the Student be suspended for a period of up to
+five years, and recommended to the President that he recommend to Governing Council
+that the Student be expelled.
+
+[9]
+
+The above information was contained in the record that had been filed before the hearing
+Tribunal, and in the Tribunal's decision. Before the Appeals Tribunal, the Student was
+advised that if he wished us to consider further information in deciding the notice issue,
+he would have to provide evidence to the Panel. After some discussion, it was agreed that
+the Student would testify. In support of his contention that reasonable notice had not been
+provided, the Student gave oral evidence to the following effect:
+(i)
+
+He did not receive actual notice of the hearing;
+
+(ii)
+
+He did not correspond with the University of Toronto about academic matters
+during the period of his academic suspension;
+
+(iii)
+
+He did not access his University of Toronto email account on June 29, 2016; and
+
+(iv)
+
+He was not permitted to enrol in summer school for the 2016 summer session and
+considered himself to be suspended until the end of the summer of 2016.
+
+[10]
+
+The Student purported to give evidence about whether his University of Toronto email
+account would show as being accessed in various circumstances. The Provost rightly
+objected to this evidence, and the Student conceded he had no expertise about the
+University's IT systems. The Panel advised the parties it would disregard that evidence in
+its entirety and has done so.
+
+[11]
+
+The Student claimed he learned of the proceeding when he attended at the University in
+late July, 2016 to register for the fall term.
+
+[12]
+
+The Provost challenged the Student's assertion that he did not correspond with the
+University during his academic suspension (2015-2016) and to this effect, relied upon the
+following :
+(i)
+
+an email of May 25, 2015 (within about the first month of the Student's
+suspension) showing that the Student had forwarded an email he received at his
+University of Toronto email account to his father;
+
+(ii)
+
+correspondence from the Student to the University in October, 2015 regarding
+academic dishonesty allegations (there was no evidence of the method used for
+this communication; just that communication to the University had been made by
+the Student at this time); and
+
+-3-
+
+(iii)
+
+the email from the Acting Director of Information Security to Mr. Centa, referred
+to above, which advised that the Student's email account had been accessed on
+June 29, 2016. By this date the Charges, the Notice of Hearing and the Revised
+Notice of Hearing had all been sent to the Student's University of Toronto email
+account.
+
+[13]
+
+The Provost pointed to the Information Security email as proof that the Student had
+received actual notice of the Hearing. However, the email indicated only that the
+Student' s account had been accessed; it provided no information as to who accessed it
+and more importantly, no information about whether any specific emails had been
+accessed.
+
+[14]
+
+The Panel could not conclude that the Student received actual notice.
+
+[15]
+
+With respect to whether reasonable notice was provided, the Panel does not disagree that
+the University took the steps it was required to take under the Rules. However, in this
+case, the Panel was of the view that exceptional circumstances existed in which
+reasonable notice was not found to have been provided this way. In this unusual case, the
+Student was under suspension until at least April, 2016 and gave evidence that he was
+advised that he could not enrol in classes for the summer of 2016, meaning he was (in his
+mind) effectively suspended until the fall session of 2016. His evidence was that he was
+not checking his University of Toronto emails during this period of suspension. The only
+evidence of him personally checking the account for any particular emails in the account
+was from May, 2015, a few weeks into his suspension and more than ten months before
+the charges were sent to that email address.
+
+[ 16]
+
+In response to a question from the Panel, Mr. Centa led the Panel to the provision in the
+Governing Council' s Association, Admission and Registration Policy indicating that a
+suspended Student is considered to have an "inactive association" with the University.
+However, there was no evidence that anyone advised the Student that its usual polices
+and guidelines would continue to apply to him while he was under suspension and unable
+to participate in any academic life of the University, or that he was expected to be active
+on his University email account during his suspension.
+
+[17]
+
+Given that this was an exceptional case insofar as the Student was under suspension,
+seemingly not checking his emails and not knowing that he was still expected to do so
+despite his suspension, and given that the Student took steps to appeal the decision very
+soon after he learned of it, the Panel exercised its discretion under s. 7(b) of the Code of
+Behaviour on Academic Matters to remit the matter for a new hearing at which the
+Student will be able to participate.
+
+Dated this l ~
+
+ay of June, 2017.
+
+-4-
+
+

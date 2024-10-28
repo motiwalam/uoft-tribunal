@@ -1,0 +1,649 @@
+Case No.: 957
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on December 18, 2017 and
+amended on January 24, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971 , c. 56 as
+amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+REASONS FOR DECISION
+
+Hearing Date: June 6, 2018
+Members of the Panel:
+Mr. Douglas Harrison, Barrister and Solicitor, Chair
+Professor Louis Florence, Faculty Panel Member
+Mr. Daniel Lazzam , Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP,
+Barristers
+Ms. Nisha Panchal, Student Conduct and Academic Integrity Officer, Office of the VicePrincipal and Dean, University of Toronto Scarborough
+Ms. Sana Kawar, Manager, Transcript Centre, University of Toronto
+In Attendance:
+Ms. Tracey Gameiro, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Not in Attendance:
+Ms. -II ■
+the Student
+
+1,
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on June 6, 2018 to consider the
+
+charges brought by the University of Toronto (the "University") against Ms. -I ■ ,ti (the
+"Student'') under the Code of Behaviour on Academic Matters, 1995 (the "Code").
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 1:45 p.m. on June 6, 2018. At that time,
+
+Discipline Counsel advised that neither the Student nor a representative of the Student had
+responded to the Notice of Hearing.
+3.
+
+Discipline Counsel made submissions on proceeding with the hearing in the absence
+
+of the Student. She filed Affidavits sworn by Janice Patterson, a legal assistant employed by
+the law firm of Paliare Roland Rosenberg Rothstein LLP, and Krista Osbourne, Administrative
+Clerk and Hearing Secretary, Appeals, Discipline and Faculty Grievances, Office of the
+Governing Council, as well as Affidavits of Attempted Service sworn by Crystal Simpson and
+Ray Patykewich, a Law Clerk and an agent, respectively, for Donaldson Law Clerk Services
+Inc. These affidavits set out that the following attempts had been made to provide notice of
+the charges (as amended) and the hearing to the Student:
+1.
+
+On February 6, 2017, the Office of the Dean and Vice-Principal
+(Academic) sent a letter to the Student (via the email address assigned
+to the Student by the University (a utoronto.ca account)) advising of an
+allegation of possible academic offences on transcripts the Student had
+submitted to outside parties. This letter requested that the Student
+arrange an appointment at her earliest convenience to discuss the
+matter with the Dean's Designate. Further follow-up emails were sent
+by the University to the Student in September and October 2017, and
+unsuccessful attempts were made to contact the Student by phone at
+the number listed for her in the University of Toronto Repository of
+Student Information ("ROSI"). The Student did not respond to any of
+
+3
+
+these attempts to contact her. Accordingly, no meeting was held with
+the Dean's Designate.
+2.
+
+On December 18, 2017, at 11:12 a.m., the Office of the Vice-Provost,
+Faculty and Academic Life, served the charges in this matter on the
+Student by email to the Student's utoronto email address and to a
+Hotmail email address that the Student had provided in ROSI.
+
+3.
+
+Later that same day, at 3:26 p.m., the Office of Appeals, Discipline and
+Faculty Grievances, University of Toronto, served the Student with a
+letter regarding the charges filed against her, together with copies of the
+Code of Behaviour on Academic Matters, 1995, the Ru/es of Practice
+and Procedure of this Tribunal and a pamphlet for Downtown Legal
+
+Services, by email to her utoronto and Hotmail email accounts. The
+Office did not receive a "bounce back" message from either of the
+Student's two email addresses. The Office also sent these documents
+by courier to the Student at the mailing address in the Student's ROSI
+account.
+
+The courier package was successfully delivered to that
+
+address on December 19, 2017 and signed for by "Pam Saini".
+4.
+
+Also on December 18, 2017, at 4:38 p.m., Discipline Counsel sent an
+email to the Student at her utoronto and Hotmail email accounts, to
+introduce herself and to advise that important correspondence would be
+sent to the Student's two email accounts.
+
+No "bounce back" was
+
+received from either email address.
+5.
+
+On January 24, 2018, at 12:44 p.m., the Office of the Vice-Provost,
+Faculty and Academic Life, served the amended charges in this matter
+on the Student by email to the Student's utoronto and Hotmail email
+accounts.
+
+6.
+
+Later in the afternoon on January 24, 2018, the Office of Appeals,
+Discipline and Faculty Grievances, University of Toronto, served the
+Student, by email to her utoronto and Hotmail email accounts, with (i) a
+
+4
+
+letter regarding the amended charges filed against her (along with a
+copy of the December 18, 2017, letter from the Office of Appeals and
+its enclosures), and (ii) a copy of the January 24, 2018 letter from the
+Office of Vice-Provost regarding the amended charges. The Office did
+not receive a "bounce back" message from either of the Student's two
+email addresses. These documents were also sent by courier to the
+mailing address in the Student's ROSI account.
+
+However, after two
+
+attempts, the courier was unable to deliver the package.
+7.
+
+On January 25, 2018, Discipline Counsel sent the Student a letter and
+disclosure brief relating to this matter, as well as another copy of the
+amended charges and a copy of the University's Policy on Official
+Correspondence with Students, to the Student's two email accounts and
+
+by courier to the mailing address in the Student's ROSI account.
+Discipline Counsel did not receive a "bounce back" from either of the
+Student's two email addresses. The courier package was successfully
+delivered and accepted by "A. Shane" on January 26, 2018. However,
+on March 26, 2018, the courier package was "returned to sender" to
+Discipline Counsel's office via Canada Post.
+8.
+
+Discipline Counsel sent additional emails to the Student's utoronto and
+Hotmail email addresses on January 30, 2018, February 7, 2018, March
+29, 2018 and April 11 , 2018, regarding the scheduling of the hearing.
+Discipline Counsel did not receive any "bounce back" messages from
+either of the Student's two email addresses.
+
+9.
+
+On March 29, 2018, Discipline Counsel contacted Mike Wiseman,
+Acting Director, Information Security, Information Technology Services
+at the University, requesting information about the last time when
+someone accessed the Student's utoronto account and if the account
+was being forwarded to another email address. That same day, Mr.
+Wiseman responded to Discipline Counsel to advise that the Student's
+utoronto account was last accessed on July 16, 2017 and that the
+
+5
+
+account was currently set to be forwarded to the Student's Hotmail
+account.
+10.
+
+On April 11, 2018, the Office of Appeals, Discipline and Faculty
+Grievances, University of Toronto served the Student with the Notice of
+Hearing, together with a copy of the aforementioned letters of
+December 18, 2017 and January 24, 2018, and enclosures (which
+included the charges), by email to the Student's utoronto and Hotmail
+accounts. No "bounce back" message was received from either of the
+Student's two email accounts. The Student was advised in this email
+that since previous attempts to courier materials to her address listed in
+ROSI had been unsuccessful, the Student would be receiving only
+electronic copies of documents. However, if the Student wanted hard
+copies of the materials, she was free to request same.
+
+11.
+
+On May 24, 2018, Ms. Patterson , on behalf of Discipline Counsel,
+attempted to contact the Student by calling the telephone number in the
+Student's ROSI account.
+
+Ms. Patterson called the number twice and
+
+both calls went to voicemail and the greeting only identified the phone
+number. Ms. Patterson left a message identifying herself as Discipline
+Counsel's assistant and left her phone number. She said she was trying
+to reach the Student with respect to a University of Toronto matter on
+June 6, and asked that the Student call her back. She also asked that
+the Student check her University of Toronto and Hotmail email
+accounts. Ms. Patterson did not receive a response to her voicema il
+messages.
+12.
+
+Also on May 24, 2018 , Discipline Counsel sent an email to the Student's
+utoronto and Hotmail accounts, to remind the Student of the upcoming
+hearing on June 6. On May 25, 2018, Discipline Counsel sent another
+email to the Student at her utoronto and Hotmail accounts, serving the
+Student with an affidavit on which the University intended to rely at the
+hearing. Discipline Counsel did not receive a "bounce back" message
+
+6
+
+from either of the Student's two email accounts, and the Student did not
+respond to her emails.
+13.
+
+On May 30, 2018 , the Office of Appeals , Discipline and Faculty
+Grievances, University of Toronto sent an email to the Student to her
+utoronto and Hotmail email accounts to remind her of her upcoming
+hearing and to request that she advise if there were any attendees from
+her side. No bounce back message was received from either of the two
+addresses.
+
+4.
+
+As of June 4, 2018 , in the case of the Office of Appeals, Discipline and Faculty
+
+Grievances, and June 6, 2018, in the case of Discipline Counsel, the Student had not
+responded to any of the above-noted correspondence.
+5.
+
+Pursuant to sections 6 and 7 of the Ontario Statutory Powers Procedure Act (the "Act")
+
+and Rule 17 of the Tribunal's Rules of Practice and Procedure (the "Rules"), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act and
+the party does not attend the hearing, the Tribunal may proceed in the absence of the party
+and the party is not entitled to any further notice in the proceeding .
+6.
+
+The University requested that the Tribunal proceed with this hearing in the absence of
+
+the Student.
+7.
+
+Pursuant to Rule 9 of the Rules, a Notice of Hearing may be served on a student by
+
+various means, including by sending a copy of the document by courier to the student's
+mailing address in ROSI or by emailing a copy of the document to the student's email address
+in ROSI.
+8.
+
+The University's Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account
+on ROSI. Students are expected to monitor and retrieve all mail, including emails, on a
+frequent and consistent basis.
+
+7
+
+9.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+
+reasonable notice of the hearing.
+10.
+
+Based on the totality of the attempts made to provide notice to the Student, including
+
+at the address provided by the Student and via the Student's two email addresses, and given
+the package sent on December 18, 2017, was accepted and not returned , and there were no
+"bounce backs" from the email addresses, the Tribunal concluded that the Student was given
+reasonable notice of the hearing in compliance with the notice requirements of the Act and
+the Rules.
+The Tribunal therefore determined it would proceed to hear the case on its merits in
+
+11 .
+
+the absence of the Student, and the hearing proceeded on the basis that the Student was
+deemed to deny the charges (as amended) made against her.
+
+B.
+
+The Charge and Particulars
+
+12.
+
+The Amended Charges and Particulars were detailed in a letter to the Student dated
+
+January 24, 2018 (which superseded the letter of December 18, 2017) and are set out below:
+1.
+
+On or about May 17, 2015, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such
+forged, altered or falsified record , namely, a document that purported to be your
+Transcript of Consolidated Academic Record, which you submitted to York
+University (the "Purported Transcript"), contrary to section B.l.3(a) of the Code.
+
+2.
+
+In the alternative, by submitting the Purported Transcript to York University on or
+about May 17, 2015, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+order to obtain academic credit or other academic advantage of any kind , contrary to
+section B.l.3(b) of the Code.
+
+8
+
+Particulars
+1.
+
+You were a registered student at the University of Toronto Scarborough from Fall
+2012 to Winter 2014.
+
+1.1
+2.
+
+In approximately February 2015, you applied for admission to York University.
+On or about May 17, 2015, you submitted the Purported Transcript, together with
+a copy of the descriptions for the courses that you had purportedly taken at the
+University of Toronto, to York University as part of your application, for the
+purposes of obtaining transfer credits at York University.
+
+3.
+
+The Purported Transcript was an academic record .
+
+It was forged , altered or
+
+falsified . It falsely represented your academic record at the University of Toronto,
+including:
+(a) Your sessional grade point averages;
+(b) Your annual grade point averages;
+(c) Your cumulative grade point averages;
+(d) The courses in which you had enrolled;
+(e) The grades that you had obtained;
+(f) The credits that you had obtained; and
+(g) The terms in which you had been enrolled.
+4.
+
+By submitting the Purported Transcript to York University, you uttered, circulated
+or made use of a forged , altered or falsified academic record.
+
+5.
+
+You submitted the Purported Transcript to York University in support of your
+application for admission and to obtain an academic advantage. You did so
+knowing that it contained false information, and that it had been forged, altered or
+falsified .
+
+9
+
+C.
+
+The Evidence
+
+13.
+
+The University called the evidence of Ms. Sana Kawar, Manager of the University of
+
+Toronto Transcript Centre in the Faculty of Arts and Science, and submitted the Affidavit of
+Michelle Cousins, an International Admissions Assessor at York University ("York").
+14.
+
+On February 5, 2015, York received an application for admission from the Student.
+
+15.
+
+On May 18, 2015, the Student submitted to York's MyFile portal (an online portal
+
+through which prospective students can upload documents in support of their applications,
+among other functions), a document that purported to be a copy of her official transcript from
+the University of Toronto (as defined above, the "Purported Transcript") along with a
+document containing descriptions of the courses listed in the Purported Transcript. These
+documents were submitted in an attempt to obtain transfer credits from York for courses the
+Student purportedly completed at the University of Toronto.
+
+16.
+
+The Student was accepted for admission to York commencing in September 2015,
+
+conditional upon York receiving an original transcript from the University of Toronto.
+17.
+
+One of Ms. Cousins' duties as International Admissions Assessor at York is to ensure
+
+that international students who apply for admission to York comply with the necessary
+admissions requirements. In late 2016, Ms. Cousins was reviewing the Student's file and
+determined that the Student had not provided the original transcript from the University of
+Toronto.
+18.
+
+On December 12, 2016, Ms. Cousins sent an email to Ms. Kawar to verify the
+
+authenticity of several transcripts that York had received from students or prospective
+students, including the Student. Ms. Cousins had been in contact with Ms. Kawar previously
+for transcript verification requests.
+19.
+
+Upon receipt of Ms. Cousins' email, Ms. Kawar, who has been the Manager of the
+
+Transcript Centre since 1997, checked the date of issuance shown on the Purported
+Transcript against the records in ROSI and found that no transcript had been issued for the
+
+10
+
+Student on May 17, 2015, the date shown on the Purported Transcript. Upon further review
+of the Purported Transcript, Ms. Kawar saw that it contained the signature of Karel Swift as
+University Registrar. Ms. Kawar knew that Mr. Swift has not been the Registrar since 2012.
+Additionally, Ms. Kawar noted that a watermark that would be generally visible on a copy of
+a University of Toronto student transcript was not visible on the Purported Transcript.
+20.
+
+Accordingly, on December 13, 2016, Ms. Kawar emailed Ms. Cousins to advise Ms.
+
+Cousins that the Purported Transcript had not been issued by the University of Toronto,
+suggesting that the document York had on file for the Student was not valid nor a true
+representation of the Student's University of Toronto transcript. Ms. Kawar also noted in her
+email that the Registrar's signature was of the previous registrar who had earlier retired from
+the University.
+21.
+
+The Purported Transcript represented that the Student had completed 11 credits with
+
+a cumulative GPA of 2.18 from Fall 2012 through Winter 2015. At the hearing, the University
+presented a copy of the Student's actual transcript and Academic History, which indicated
+that she had received only 2.5 credits with a cumulative GPA of 1.67 during her time at the
+University from Fall 2012 through Winter 2014.
+D.
+
+Decision of the Tribunal
+
+22.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+
+and convincing evidence, that the academic offence charged has been committed by the
+Student.
+23.
+
+The Student was charged with an offence under Section B.l.3(a) of the Code, which
+
+states:
+It shall be an offence for a .. . student ... knowingly:
+
+(a) to forge or in any other way alter or falsify any academic record, or to utter,
+circulate or make use of any such forged, altered or falsified record, whether the
+record be in print or electronic form;
+
+11
+
+24.
+
+The Student was charged in the alternative with an offence under section B.1.3(b) of
+
+the Code, which states:
+It shall be an offence for a ... student ,,, knowingly:
+
+(b) to engage in any form of cheating , academic dishonesty or misconduct, fraud or
+misrepresentation not herein otherwise described , in order to obtain academic credit
+or other academic advantage of any kind .
+
+25.
+
+It is accepted that a transcript is an academic record , as defined in section 2(c) of
+
+Appendix "A" of the Code.
+26.
+
+The Tribunal determined that the evidence clearly established that the Purported
+
+Transcript provided by the Student to York was false .
+27.
+
+Having concluded that the Purported Transcript was a forgery, and given that it was
+
+circulated and/or made use of by the Student, as evidenced by the fact that the Student
+provided it to York in an attempt to gain admission and to obtain transfer credits, the Tribunal
+found on a balance of probabilities that the Student circulated and made use of the forged
+record.
+28 .
+
+The Tribunal found that the Student is guilty of forging or in any other way altering or
+
+falsifying an academic record , and/or uttering, circulating or making use of such forged,
+altered or falsified record , contrary to section B.l.3(a) of the Code.
+29.
+
+The Tribunal having made such a finding of guilt, the University withdrew the
+
+alternative charge against the Student.
+
+E.
+
+Penalty
+
+30.
+
+The matter continued with a hearing on the appropriate sanction. The University
+
+requested that the Tribunal (a) recommend to the President of the University that he
+recommend to the Governing Council that the Student be expelled from the University, (b)
+make an order immediately suspending the Student for up to five years (or to the date of any
+
+12
+
+decision by the Governing Council to expel her), (c) make an order that a corresponding
+notation be made on the Student's transcript; and (d) direct that the Tribunal's decision be
+reported to the Provost in order that it may be reported in the campus press with the Student's
+name withheld.
+
+31 .
+
+Discipline Counsel submitted that the Tribunal, in determining the appropriate sanction
+
+in a given case, should consider the matters laid out in Mr. C. v. University of Toronto (Case
+# 1976/77-3, November 5, 1976), namely (a) the character of the person charged; (b) the
+likelihood of a repetition of the offence; (c) the nature of the offence committed; (d) any
+extenuating circumstances surrounding the commission of the offence; (e) the detriment to
+the University occasioned by the offence; and (f) the need to deter others from committing a
+similar offence.
+32.
+
+Discipline Counsel noted that the only evidence before the Tribunal showed that the
+
+Student was prepared to make use of a forged document, which was deliberately dishonest.
+It was noted that the Student had not participated in the disciplinary process in any manner,
+including not meeting with the Dean 's Designate and not responding to the University's
+numerous attempts to communicate with her. There was no evidence of either remorse or of
+any mitigating circumstance available to the Tribunal that it could take into account.
+
+33.
+
+Discipline Counsel submitted that there was nothing to suggest the Student would not
+
+re-offend or that she has learned from her mistake. While there were no prior offences on
+the Student's record, she had not shown remorse and she had not accepted any responsibility
+for her actions.
+34.
+
+While the offence committed by the Student is essentially forgery, in this instance it
+
+also amounts to an attempt to defraud another academic institution. Forgery of an academic
+record is one of the most serious offences a Student can commit. The public, as well as other
+academic institutions, rely on the University's records, assuming they are accurate. Making
+use of a forged transcript undermines the credibility of the University and its students and
+alumni. See The University of Toronto v. R. W (Case# 502, April 18, 2008) at para. 16.
+
+13
+
+35.
+
+Discipline Counsel submitted that attempting to create general deterrence is important
+
+for offences that are difficult to detect. In situations involving forged records, the University
+must rely, at least in part, on third parties detecting an issue and bringing it to the University's
+attention.
+
+Accordingly, Discipline Counsel submitted that when forgery is detected, it
+
+becomes more important that the Tribunal send a strong message that these acts will not be
+tolerated.
+36.
+
+As noted by the Tribunal in The University of Toronto v. N.R. (Case# 714, October
+
+11 , 2013, at paras. 22-23:
+
+The offence of forging an academic transcript is viewed by the University as at the most
+serious end of the range of sanctions.... Forging or falsifying an academic history is
+among the most serious offences a student can commit. The University's reputation
+and credibility depends on the reliability of its official records. This type of offence is
+detrimental to the University and it is important that others are deterred from engaging
+in similar conduct. ...
+The falsification of records of transcripts strikes at the heart of the honesty and integrity
+which is at the core of the academic experience and evaluation.
+
+37.
+
+Discipline Counsel provided the Tribunal with a chart setting out the range of penalties
+
+imposed for forgery of academic records in prior cases along with copies of those decisions.
+It is clear that a recommendation for explusion is a common penalty for such an offence,
+particularly when the student has not admitted guilt or acknowledged wrongdoing, as it the
+case here.
+
+38.
+
+The Tribunal deliberated and concluded that, under the circumstances, it was
+
+appropriate to make a recommendation for expulsion and to make the other orders sought by
+the University.
+
+F.
+
+Conclusion
+
+39.
+
+The Tribunal finds that the Student is guilty of the academic offence of altering or
+
+falsifying an academic record , and/or uttering, circulating or making use of such forged ,
+altered or falsified record , contrary to section B.l.3(a) of the Code;
+
+14
+
+40.
+
+Accordingly, the Tribunal orders that the following sanctions be imposed on the
+
+Student:
+
+1.
+
+The Student be immediately suspended from the University of Toronto for a
+period of up to 5 years from the date of the Tribunal's order or until Governing
+Council makes its decision on expulsion, whichever comes first, and that a
+corresponding notation be placed on her academic record and transcript; and
+
+2.
+
+the Tribunal recommends to the President of the University that he recommend
+to the Governing Council that the Student be expelled from the University.
+
+41 .
+
+The Tribunal also orders that the case be reported to the Provost for publication of a
+
+notice of this decision and the sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto this
+
+Mr.Do~
+
+y;ft..- day of ~
+
+hair
+
+2018
+
+

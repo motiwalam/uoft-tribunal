@@ -1,0 +1,1268 @@
+Case No. 1486
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF the charges of academic dishonesty filed on March 23, 2023, as revised
+on September 7, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+
+- and -
+
+H
+
+W
+
+Hearing Date: April 26, 2024, via Zoom
+Members of the Panel:
+Simon Clements, Chair
+Professor Kevin Wang, Faculty Panel Member
+Harvi Karatha, Student Panel Member
+Appearances:
+Lily Harmer Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ryan Shah, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+H
+W
+
+2
+1.
+
+This Panel of the University Tribunal held a hearing on April 26, 2024, to consider the
+
+charges brought by the University of Toronto (the “University”) against H
+
+W
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”). It is alleged
+that the Student knowingly obtained unauthorized assistance or plagiarized the work of another in
+nine assessments across five courses contrary to section B.I.1(b) and (d) of the Code.
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 9:45 a.m. on April 26, 2024. At that time, Counsel
+
+for the University advised that neither the Student nor a representative of the Student had
+responded to the Notice of Virtual Hearing.
+3.
+
+When the Student had not joined the hearing via Zoom at 10:00 a.m. Counsel for the
+
+University made submissions on proceeding with the hearing in the absence of the Student. He
+advised on March 23, 2023, the charges were served on the Student by email to the email address
+of the Student, which was the email address the Student had provided in the University of Toronto
+Repository of Student Information (“ROSI”). These charges were subsequently amended, and the
+amended charges were served on the student by email to the same address on September 7, 2023.
+4.
+
+On March 24, 2023, the Office of Appeals, Discipline and Faculty Grievances (the
+
+“ADFG”) sent the Student an email to the ROSI email containing a letter about the charges, a
+pamphlet for Downtown Legal Services (“DLS”), as well as a copy of the Code of Behaviour on
+Academic Matters and the University Tribunal’s Rules of Practice and Procedure.
+5.
+
+On August 16, 2023, the Student emailed Ms. Harmer to request an update regarding the
+
+progress of this matter. The fact that the Student emailed Assistant Discipline Counsel back
+regarding the charges and progress of the matter confirms that the email address for the Student
+was correct and, at least in 2023, was being monitored by the Student.
+6.
+
+On August 23, 2023, the Student followed up on his August 16, 2023 email to Ms. Harmer
+
+and advised that he is on the waiting list to receive assistance from DLS.
+
+3
+7.
+
+On November 27, 2023, Ms. Harmer emailed the Student to inquire if the Student had
+
+retained legal counsel or, if the Student had not, to set up a phone call to discuss next steps in this
+matter.
+8.
+
+The Student did not reply to Ms. Harmer’s November 27, 2023 email, nor did the Student
+
+reply to subsequent emails regarding the scheduling of the hearing.
+9.
+
+On February 12, 2024, the ADFG issued a Notice of Virtual Hearing to take place via
+
+Zoom on April 26, 2024, at 9:45 a.m. (EST). The Student was copied on this email.
+10.
+
+Attempts were also made to contact the Student by phone at the two numbers listed on the
+
+Student’s ROSI on April 9, 2024 and April 17, 2024. None of these attempts were successful in
+reaching the Student.
+11.
+
+The University submitted the Affidavit of Natalia Botelho, a legal assistant at the law firm
+
+Paliare Roland Rosenberg Rothstein LLP (“Paliare Roland”) who works with Ms. Harmer. Ms.
+Botelho stated that, to the best of her knowledge, the Student had not contacted their office since
+his email to Ms. Harmer of August 23, 2023, nor had Paliare Roland received any bounce-back
+auto-response indicating that the email correspondence was not received by the Student. Ms.
+Harmer and Mr. Shah have also advised Ms. Botelho that they did not receive any bounce-back
+auto-response indicating that their email correspondence was not received by the Student.
+12.
+
+Ms. Botelho indicated that her office has not received any correspondence from the Student
+
+to indicate that he was not able to attend the hearing scheduled for April 26, 2024 at 9:45 AM.
+13.
+
+The University submitted the affidavit of Mr. Andrew Wagg affirmed on April 11, 2024.
+
+Mr. Wagg is the Manager, Incident Response at Information Security, Information Technology
+Services at the University of Toronto. Information Technology Services provides many services
+to the University of Toronto, including management of the email accounts used by students. To
+access an email account one needs to input both the user’s login id and the password for that
+account. The Microsoft 365 Exchange portal automatically records the last time someone accessed
+a particular university-issued email account. This is denoted with the code “LastUserActionTime.”
+The LastUserActionTime log only updates when someone logs in to a university-issued email
+account.
+
+4
+14.
+
+On April 10, 2024, Mr. Wagg checked the portal records and determined the last time
+
+someone accessed the email account for the Student was on April 5, 2024 at 10:08 AM, local
+Toronto time.
+15.
+
+The Rules of Practice and Procedure (the “Rules”), rule 13 states a notice of hearing may
+
+be served on a student by various means, including by sending a copy of the document by courier
+to the student’s mailing address in ROSI or by emailing a copy of the document to the student’s
+email address in ROSI.
+16.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account on
+ROSI. Students are expected to monitor and retrieve all mail, including emails, on a frequent and
+consistent basis.
+17.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+
+reasonable notice of the hearing. Rule 17 of the Rules states that “[t]he Secretary shall provide the
+University with reasonable notice of a hearing and shall deliver such notice to the student’s last
+known ROSI email address. Discipline Counsel shall establish that reasonable notice of the hearing
+has been provided to the student”. Rule 21 goes on to state that “[w]here notice of a virtual hearing,
+an in-person hearing, a hybrid hearing, or a written hearing has been given to a party in accordance
+with this Part, and the party does not attend at or does not participate in the hearing, the panel may
+proceed in the absence of the party or without the party’s participation and the party is not entitled
+to any further notice in the proceeding”. This wording tracks the statutory provision in the Statutory
+Powers Procedure Act (the “Act”) section 7(3).
+18.
+
+In this case, the University provided reasonable notice to the Student. The evidence shows
+
+that the Student initially responded in August 2023 to an email sent to his email address in ROSI.
+The Student then appears to have chosen not to engage further with the University. The Student
+did not respond to further emails sent to the same email address which he had responded from
+before. The University then attempted to contact the Student by phone at two different phone
+numbers, neither of which appear to have been in service in April 2024. The evidence also shows
+that the Student last accessed the email address in ROSI on April 5, 2024, by which time the
+charges and the Notice of Virtual Hearing had already been sent to that address.
+
+5
+19.
+
+For these reasons, the Tribunal determined that it would proceed with the hearing in the
+
+absence of the Student.
+B.
+
+The Charges and Particulars
+
+20.
+
+The Charges and particulars of those charges in this matter are extensive, spanning multiple
+
+courses, multiple assignments and different forms of cheating. The revised Charges and Particulars
+as sent to the Student are as follows.
+1.
+
+On or about March 26 and/or March 27, 2021, you knowingly used or possessed an
+
+unauthorized aid or aids or obtained and/or provided unauthorized assistance in connection with
+Term Test 2 in MAT224H1S, contrary to section B.I.1(b) of the Code.
+2.
+
+On or about March 26 and/or March 27, 2021, you knowingly represented as your own an
+
+idea or expression of an idea or work of another in Term Test 2 in MAT224H1S, contrary to section
+B.I.1(d) of the Code.
+3.
+
+On or about April 21, 2021 and/or April 22, 2021, you knowingly used or possessed an
+
+unauthorized aid or aids or obtained and/or provided unauthorized assistance in connection with
+Term Test 3, the Final Assessment in MAT224H1S, contrary to section B.I.1(b) of the Code.
+4.
+
+On or about April 21, 2021 and/or April 22, 2021, you knowingly represented as your own
+
+an idea or expression of an idea or work of another in Term Test 3, the Final Assessment in
+MAT224H1S, contrary to section B.I.1(d) of the Code.
+5.
+
+On or about May 21, 2021, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with Homework 1 in
+MAT334Y1Y, contrary to section B.I.1(b) of the Code.
+6.
+
+On or about May 21, 2021, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in Homework 1 in MAT334Y1Y, contrary to section B.I.1(d) of the
+Code.
+7.
+
+On or about August 18, 2021, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with the Final Assessment in
+MAT334Y1Y, contrary to section B.I.1(b) of the Code.
+
+6
+8.
+
+On or about August 18, 2021, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in the Final Assessment in MAT334Y1Y, contrary to section B.I.1(d)
+of the Code.
+9.
+
+On or about March 14, 2022, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with Lab 1 in PHY408H1S,
+contrary to section B.I.1(b) of the Code.
+10.
+
+On or about March 14, 2022, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in Lab 1 in PHY408H1S, contrary to section B.I.1(d) of the Code.
+11.
+
+On or about March 14, 2022, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with Lab 2 in PHY408H1S,
+contrary to section B.I.1(b) of the Code.
+12.
+
+On or about March 14, 2022, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in Lab 2 in PHY408H1S, contrary to section B.I.1(d) of the Code.
+13.
+
+On or about March 22, 2022, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with Test 9 in MAT334H1S,
+contrary to section B.1.1(b) of the Code.
+14.
+
+On or about March 22, 2022, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in with Test 9 in MAT334H1S, contrary to section B.I.1(d) of the
+Code.
+15.
+
+On or about March 24, 2022, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with Lab 3 in PHY408H1S,
+contrary to section B.I.1(b) of the Code.
+16.
+
+On or about March 24, 2022, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in Lab 3 in PHY408H1S, contrary to section B.I.1(d) of the Code.
+17.
+
+On or about August 2, 2022, you knowingly used or possessed an unauthorized aid or aids
+
+or obtained and/or provided unauthorized assistance in connection with Homework Assignment 5
+in MAT301H1Y, contrary to section B.I.1(b) of the Code.
+
+7
+18.
+
+On or about August 2, 2022, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in Homework Assignment 5 in MAT301H1Y, contrary to section
+B.I.1(d) of the Code.
+19.
+
+In the alternative to all of the above charges, you knowingly engaged in a form of cheating,
+
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind, contrary to section
+B.1.3(b) of the Code in connection with:
+(a)
+
+Term Test 2 in MAT224H1S on or about March 26 and/or March 27, 2021;
+
+(b)
+
+Term Test 3 Final Assessment in MAT224H1S on or about April 21, 2021 and/or
+
+April 22, 2021;
+(c)
+
+Homework 1 in MAT334Y1Y on or about May 21, 2021;
+
+(d)
+
+Final Assessment in MAT334Y1Y on or about August 18, 2021;
+
+(e)
+
+Lab 1 in PHY408H1S on or about March 14, 2022;
+
+(f)
+
+Lab 2 in PHY408H1S on or about March 14, 2022;
+
+(g)
+
+Test 9 in MAT334H1S on or about March 22, 2022;
+
+(h)
+
+Lab 3 in PHY408H1S on or about March 24, 2022; and
+
+(i)
+
+Homework Assignment 5 in MAT301H1Y on or about August 2, 2022.
+
+Particulars of the offences charged are as follows:
+1.
+
+You were a student enrolled at the University of Toronto Faculty of Arts & Science at all
+
+material times.
+MAT224H1S (20211)
+2.
+
+In Winter 2021, you enrolled in MAT224H1S (“MAT224”).
+
+3.
+
+Students in the course were required to write two term tests and a final assessment in
+
+MAT224. Students were not permitted to collaborate in any way with others.
+
+8
+4.
+
+On or about March 26 and/or March 27, 2021, you submitted Term Test 2. It was worth
+
+15% of your final mark in the course.
+5.
+
+On or about April 21, 2021 and/or April 22, 2021, you submitted Final Assessment. It was
+
+worth 25% of your final mark in the course.
+6.
+
+You knowingly obtained unauthorized assistance from Chegg.com, which is a website that
+
+allows subscribers to post questions and view questions and answers posted on the site (“Chegg”),
+or from other students or others, and/or you knowingly provided unauthorized assistance to other
+students or others in connection with Term Test 2 and Final Assessment.
+7.
+
+You knew that Chegg was not an authorized aid to which you were allowed to refer in
+
+completing Term Test 2 and Final Assessment.
+8.
+
+You submitted Term Test 2 and Final Assessment in MAT224 in Winter 2021:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work that were not your
+
+own, but were the ideas, expressions of ideas or work of others, including the author(s) of
+answers that were posted on Chegg; and
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or work
+
+that you drew from Chegg and from others.
+9.
+
+You knowingly submitted Term Test 2 and Final Assessment with the intention that the
+
+University rely on them as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+MAT334Y1Y (20215)
+10.
+
+In Summer 2021, you enrolled in MAT334Y1Y (“MAT334-2021”).
+
+11.
+
+Students in the course were required to, among other things, submit homework assignments
+
+and write a final assessment in MAT334-2021. Students were not permitted to collaborate in any
+way with others.
+
+9
+12.
+
+On or about May 21, 2021, you submitted Homework 1. It was worth 5% of your final
+
+mark in the course.
+13.
+
+On or about August 18, 2021, you submitted your Final Assessment. It was worth 30% of
+
+your final mark in the course.
+14.
+
+You knowingly obtained unauthorized assistance from Chegg, other students or others,
+
+and/or you knowingly provided unauthorized assistance to other students or others in connection
+with Homework 1 and the Final Assessment.
+15.
+
+You knew that Chegg was not an authorized aid to which you were allowed to refer in
+
+completing Homework 1 and the Final Assessment.
+16.
+
+You submitted Homework 1 and the Final Assessment in MAT334 in Summer 2021:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work that were not your
+
+own, but were the ideas, expressions of ideas or work of others, including the author(s) of
+answers that were posted on Chegg; and
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or work
+
+that you drew from Chegg and from others.
+17.
+
+You knowingly submitted Homework 1 and the Final Assessment with the intention that
+
+the University rely on them as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+MAT334H1S (20221)
+18.
+
+In Winter 2022, you enrolled again in MAT334H1S (“MAT334-2022”).
+
+19.
+
+Students in the course were required to write weekly term tests in MAT334-2022. Students
+
+were not permitted to collaborate in any way with others.
+20.
+
+On or about March 22, 2022, you submitted Test 9. It was worth 10% of your final mark
+
+in the course.
+
+10
+21.
+
+You knowingly obtained unauthorized assistance from a website or from others, and/or
+
+you knowingly provided unauthorized assistance to other students or others in connection with Test
+9.
+22.
+
+You knew that you were not permitted to collaborate or obtain assistance from others, but
+
+that you were required to write Test 9 independently.
+23.
+
+You submitted Test 9 in MAT334 in Winter 2022:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work that were not your
+
+own, but were the ideas, expressions of ideas or work of others; and
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or work
+
+that you drew from others.
+24.
+
+You knowingly submitted Test 9 with the intention that the University rely on it as
+
+containing your own ideas or work in considering the appropriate academic credit to be assigned
+to your work.
+PHY408H1S (20221)
+25.
+
+In Winter 2022, you enrolled in PHY408H1S (“PHY408”).
+
+26.
+
+Students in the course were required to submit lab assignments. Students were required to
+
+write up their lab code independently.
+27.
+
+On or about March 14, 2021, you submitted Lab 1, worth 15% of the course mark, and Lab
+
+2, worth 20% of the course mark.
+28.
+
+On or about March 24, 2022, you submitted Lab 3. It was worth 15% of your final mark in
+
+the course.
+29.
+
+You knowingly obtained unauthorized assistance from other students or others, and/or you
+
+knowingly provided unauthorized assistance to other students or others in connection with Lab 1,
+Lab 2, and Lab 3.
+
+11
+30.
+
+You knew that you were required to write up your code independently for each of Lab 1,
+
+Lab 2, and Lab 3.
+31.
+
+You submitted Lab 1, Lab 2, and Lab 3 in PHY408 in Winter 2022:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that they contained ideas, expressions of ideas or work that were not your
+
+own, but were the ideas, expressions of ideas or work of others, including your classmate
+L.H.; and
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or work
+
+that you drew from others.
+32.
+
+You knowingly submitted each of Lab 1, Lab 2, and Lab 3 with the intention that the
+
+University rely on them as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+MAT301Y1Y (20225)
+33.
+
+In Summer 2022, you enrolled in MAT301Y1Y (“MAT301”).
+
+34.
+
+Students in the course were required to submit homework assignments. Students were
+
+required to write up their homework assignments in pairs, independently from other pairs of
+students in the course. Each member of a pair was responsible for all of the work done by that pair
+on the homework assignments.
+35.
+
+On or about August 2, 2022, you submitted Homework Assignment 5 together with your
+
+partner X.L. Homework Assignment 5 was worth 6% of the final course mark.
+36.
+
+You knowingly obtained unauthorized assistance from other students or others or from
+
+Chegg, and/or you knowingly provided unauthorized assistance to other students or others in
+connection with Homework Assignment 5.
+37.
+
+You knew that you were required to write up your code independently for Homework
+
+Assignment 5, and that the only other person with whom you could collaborate was your partner,
+X.L.
+
+12
+38.
+
+You submitted Homework Assignment 5 in MAT301 in Summer 2022:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work that were not your
+
+own, but were the ideas, expressions of ideas or work of others; and
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or work
+
+that you drew from others.
+39.
+
+You knowingly submitted Homework Assignment 5 with the intention that the University
+
+rely on it as containing your own ideas or work in considering the appropriate academic credit to
+be assigned to your work.
+
+C.
+
+The Evidence
+
+21.
+
+The University submitted the affidavit of Ms. Laurie O’Handley an academic integrity
+
+specialist in the Student Academic Integrity Office (“SAI”) of the Faculty of Arts and Science at
+the University of Toronto. SAI is responsible for investigating allegations of academic misconduct
+and arranging meetings between students and the Dean or Dean’s Designate in accordance with
+the process set out in the Code.
+22.
+
+In her role as academic integrity specialist, Ms. O’Handley attended two Dean’s meetings
+
+with the Student to discuss allegations that he committed academic offences:
+(a)
+
+On July 18, 2022, to discuss allegations of unauthorized assistance in MAT224:
+Linear Algebra II in Winter 2021, MAT334: Complex Variables in Summer 2021,
+MAT334: Complex Variables in Winter 2022 and PHY408: Time Series Analysis
+in Winter 2022; and
+
+(b)
+
+On December 4, 2022, to discuss allegations of unauthorized assistance in
+MAT301: Groups and Symmetries in Summer 2022.
+
+13
+First Dean’s Meeting
+23.
+
+On July 18, 2022, Ms. O’Handley attended a meeting between the Student and Dean’s
+
+Designate Elizabeth Cowper to discuss the allegation that the Student committed academic
+offences in MAT224, MAT334 I, MAT334 II and PHY408.
+24.
+
+At the start of the meeting, Professor Cowper read the required warning under the Code.
+
+Professor Cowper told the Student that he was entitled to seek advice, or to be accompanied by
+counsel at the meeting, before making any statement or admission, and that he was not obliged to
+make any statement or admission, but if he made any statement or admission in the meeting, it
+may be used or receivable in evidence against him in the hearing of any charge with respect to the
+alleged offence in question. Professor Cowper advised the Student, without further comment or
+discussion, of the sanctions that may be imposed, and that she was not obliged to impose a sanction
+but may instead request that the Provost lay a charge against him (the “Dean’s Warning”).
+25.
+
+During the meeting, the Student admitted to committing academic offences on each of
+
+Term Test 2 and the final assessment in MAT224 in Winter 2021.
+26.
+
+During the meeting, the Student admitted that he had copied answers from Chegg, a
+
+website where users can post homework questions and receive answers from so-called “experts,”
+and thus committed academic offences on Homework 1 and the final assessment in MAT334 I in
+Summer 2021.
+27.
+
+During the meeting, the Student denied committing an offence in MAT334 II in Winter
+
+2022. He stated the following about these allegations:
+
+14
+(a)
+
+He did not copy his answer to question 1 on Test 9 from the website Stack
+Exchange, as alleged. Instead, he learned about the advanced formula he used in
+question 1 from a classmate; and
+
+(b)
+
+He was part of a “community group” on the social media app WeChat. Certain
+students in MAT334 II took Test 9 before him and one of them sent a message to
+this community group advising about question 1 and how to properly answer it. A
+student suggested using the advanced formula to answer question 1. The Student
+learned about the advanced formula inadvertently by reading this message in the
+group chat.
+
+28.
+
+During the meeting, the Student admitted that he had committed academic offences on Lab
+
+1, Lab 2 and Lab 3 in PHY408 in Summer 2022. He stated the following about the PHY408
+allegations:
+(a)
+
+He enrolled in PHY408 late and had to collaborate with another student in the
+course to complete Lab 1 and Lab 2;
+
+(b)
+
+He explained that his three labs were identical to those submitted by another student
+because he collaborated with that student; and
+
+(c)
+29.
+
+He did not read the syllabus and did not realize that this conduct was prohibited.
+
+At the end of the meeting, Professor Cowper advised the Student that the allegations against
+
+him would be referred to the Vice-Provost’s office.
+
+15
+Second Dean’s Meeting
+30.
+
+On December 4, 2022, Ms. O’Handley attended a meeting between the Student and Dean’s
+
+Designate Colleen Dockstader to discuss the allegation that the Student committed academic
+offences in MAT301 in Summer 2022.
+31.
+
+At the start of the meeting, Professor Dockstader read the Dean’s Warning, as required
+
+under the Code.
+32.
+
+During the meeting, the Student admitted to committing an offence on Assignment 5 in
+
+MAT301 in Summer 2022. He said the following about the MAT301 allegations:
+(a)
+
+He completed Assignment 5 in MAT301 with a partner. The Student was
+responsible for writing questions 1 and 2 whereas his partner was responsible for
+writing questions 3 and 4;
+
+(b)
+
+The Student and his partner wrote their respective Assignment 5 questions
+independently of one another; and
+
+(c)
+
+The Student was not aware of whether or not his partner collaborated with others
+in writing Assignment 5.
+
+33.
+
+At the end of the meeting, Professor Cowper advised the Student that the allegations against
+
+him would be referred to the Vice-Provost’s office.
+34.
+
+The Student has admitted that he is guilty of seven of the nine charges against him. He
+
+denied committing an offence in MAT334 II in Winter 2022. The charge relating to the final
+assessment in MAT334Y1Y was not addressed at either of the Dean’s meetings. The Tribunal
+indicated that it was satisfied with the admission of guilt relating to the seven charges at the two
+
+16
+Dean’s meetings. The Student was given the proper warning before making those admissions, and
+he knew that those admissions could be held against him. As a result, the Tribunal determined that
+it did not need to hear further evidence from the University relating to those charges. At this
+hearing, the University adduced evidence relating to the remaining two charges where there had
+not been an admission of guilt.
+Evidence Regarding Test 9 in MAT 334 II
+35.
+
+The University submitted an affidavit, and also called the evidence of Stefan Dawydiak a
+
+Postdoctoral Fellow at the Mathematical Institute of the University of Bonn in Germany. Professor
+Dawydiak was the course instructor for MAT334H1S: Complex Variables in Winter 2022
+(“MAT334 II”). MAT334 II was an upper-year undergraduate course on complex variables at the
+University. In mathematics, complex variables are numbers that include the roots of a negative
+number.
+36.
+
+The course syllabus for MAT334 II had a section titled “plagiarism” that read as follows:
+You may not collaborate with other students on any of the tests. Your submissions
+must be your own work, written independently, in your own words. Otherwise, it will be
+considered an offence under the University of Toronto’s Code of Behaviour on Academic
+Matters […] and serios sanctions will be applied [emphasis in original].
+
+A.
+
+Test 9
+
+37.
+
+Students in MAT334 II were required to write 11 weekly tests. A student’s lowest scoring
+
+test would not be counted towards their final mark, and the other 10 were each worth 10% of the
+final mark.
+38.
+
+On March 22, 2022, the Student wrote Test 9, when it was administered in person in class.
+
+17
+B.
+
+The Investigation
+
+39.
+
+While marking the Student’s Test 9, Professor Dawydiak stated that he noticed that the
+
+Student’s answer to question 1 included concepts that were beyond the scope of MAT334 II.
+40.
+
+Question 1 required students to calculate the first four terms of what is called a “Laurent
+
+series” where the series exhibits the quality of being “centred” where z=0 in the function: 𝑓(𝑧) =
+𝑐𝑜𝑡(𝜋𝑧).
+41.
+
+The Student correctly answered this question using an advanced method that was not taught
+
+in the class. In particular, the Student answered this question by using an infinite product operation
+(represented by a large 𝜋 with a ∞ above it). This operation calculates the value of an infinite
+series of numbers when they are all multiplied together.
+42.
+
+The use of the product operation in the context of this question surprised Professor
+
+Dawydiak because:
+(a)
+
+This technique was not taught in MAT334 II, and he would not expect a student
+who had not taken an advanced, graduate-level math course to understand how to
+properly use it; and
+
+(b)
+
+The Student’s answer went beyond the question actually asked. Students were
+asked to compute the first four terms of a series. In addition to providing the first
+four terms of the Laurent series, the Student’s answer also provided a general
+method to calculate any term in the Laurent Series.
+
+18
+43.
+
+As a result of these anomalies, Professor Dawydiak became suspicious that the Student did
+
+not independently write his answer to question 1. Professor Dawydiak searched question 1 on
+Google to determine if an answer to the question was posted online.
+44.
+
+The first search result was from a website called math.stackexchange.com (the “MSE
+
+Page”). The MSE Page contained answers to a question that is similar, but not identical to question
+1. Instead of asking for the first four terms in the Laurent series described in question 1, the MSE
+Page contains answers to the question: “Find the Laurent Series for 𝑓(𝑧) = 𝑐𝑜𝑡(𝜋𝑧) at 𝑧 = 0.”
+45.
+
+The first answer listed on the MSE Page (the “MSE Answer”) is highly similar to the
+
+Student’s answer to question 1 in structure, notation and method. In particular, the MSE Answer
+uses the same advanced method used by the Student to answer question 1 on Test 9.
+46.
+
+Professor Dawydiak stated in his affidavit that in his opinion, it is highly unlikely that these
+
+similarities are the product of coincidence. Professor Dawydiak also testified at the hearing that
+no other student in either section of the course answered the question in this format. In Professor
+Dawydiak’s opinion, there was no innocent explanation for the similarities between the Student’s
+answer and that found on the MSE page online. The fact that no other student in the course
+answered the question in this way also shows that the explanation given by the Student at the
+Dean’s meeting was untrue. He could not have been told by a student in another section of the
+course how to answer the question. If that was true, the other student would also have answered
+the question in this way.
+Evidence Regarding MAT334 I Final Assessment
+47.
+
+The University submitted the affidavit of Ashley Armogan, the Undergraduate
+
+Administrator (Large Courses) in the Department of Mathematics in the Faculty of Arts and
+
+19
+Science. As Undergraduate Administrator (Large Courses), Ms. Amorgan is responsible for
+overseeing allegations of academic dishonesty in large courses in the Department.
+48.
+
+Students in MAT334 I were required to write a final assessment worth 30% of the final
+
+mark. The final assessment was held on August 18, 2021.
+49.
+
+The final assessment required students to sign an academic integrity statement to receive
+
+credit on the assignment. This academic integrity statement read as follows:
+I confirm that:
+•
+
+I have read and followed the policies described in the Final Assessment Polices.
+
+•
+
+I understand that I am not allowed to discuss this assessment and have not discussed this
+
+assessment with anyone other than the instruction team until after 12 pm on August 19th. This
+includes communicating about the contents of the midterm in any form: talking or messaging with
+peers, posting questions on sites like Chegg, viewing posts or messages about the questions made
+by anyone or any platform other than Piazza.
+•
+
+I understand the consequences of violating the University’s academic integrity policies as
+
+outlined in the Code of Behaviour on Academic Matters. I have not violated them while writing
+this assessment, including any violations not mentioned on this page.
+By signing this document, I agree that the statements above are true.
+
+50.
+
+The academic integrity statement refers to a set of “Final Assessment Policies,” which were
+
+accessible via the MAT334 I Quercus page.
+51.
+
+The Final Assessment Policies contained a section called “Aids,” which read, in part, as
+
+follows:
+This test is open book. You may use your notes, the course notes, Fisher, and any other materials
+from the course site on Quercus. You may use Wolfram Alpha and Desmos.
+
+52.
+
+The Final Assessment Policies also contained a section called “Academic Integrity,” which
+
+read, in part, as follows:
+
+20
+You may NOT discuss the midterm with anyone other than course staff until after 2pm on Saturday,
+July 31st. You may not use any resources other than those mentioned in the "Aids" section above
+this [emphasis in original].
+
+53.
+
+Ms. Armogan noted that the above passage refers to “the midterm” instead of the final
+
+assessment. She believed that this was a typo by the MAT334 I instructor.
+54.
+
+The Student signed the academic integrity statement on the first page of the final
+
+assessment.
+55.
+
+The MAT334 I instructors identified that the Student’s answer to question 5(a) on the final
+
+assessment is highly and unusually similar to an answer to question 5(a) posted on Chegg. Use of
+Chegg was not authorized for the completion of this final assessment.
+56.
+
+The University submitted the affidavit of Panagiotis Angelinos, an instructional support
+
+assistant in the Department of Mathematics in the Faculty of Arts and Science to opine on the
+similarity between the Student’s answer to question 5(a) and the Chegg answer.
+
+57.
+
+Dr. Angelinos obtained a PhD in mathematics from the University of Toronto in 2023 and,
+
+while a PhD student at the University, served as a teaching assistant in several advanced
+undergraduate courses involving complex variables and group theory.
+58.
+
+In the opinion of Dr. Angelinos, the Student’s answer to question 5(a) on the final
+
+assessment is highly and unusually similar to an answer to question 5(a) posted on Chegg in terms
+of structure, notation and method. In addition to being near verbatim to one another, both answers
+contain the same unusual error (highlighted in blue in the attached comparison chart): both answers
+mischaracterize and misidentify the “squeeze theorem.”
+
+1
+𝑥
+
+sin
+1
+𝑥
+
+= 0 is not a relationship that is
+
+applicable to or derived from squeeze theorem, which is used to calculate the value of certain
+functions’ limits. Both answers thereby arrive at the same, incorrect answer.
+
+21
+59.
+
+In the opinion of Dr. Angelinos, based on these similarities, it is highly unlikely that the
+
+Student completed his final assessment independently.
+Submissions on Merits
+60.
+
+The onus is on the University to prove on clear and convincing evidence on a balance of
+
+probabilities that the Student committed the offences with which he has been charged. As already
+stated, the Student has admitted guilt with respect to all charges other than MAT334 II Test 9 and
+MAT334 I Final Assessment. With respect to these final two charges, the University has
+discharged its onus.
+61.
+
+It is clear that the Student obtained unauthorized assistance to complete both the Test and
+
+the Final Assessment. The Test answer contains an answer very similar to an answer easily found
+online. The Student’s answer and the online answer both contained concepts not taught in the class.
+The Student’s answer was unique. No other student in the class answered the question using the
+same format. On a balance of probabilities, the Student copied this answer from the answer he
+found online. Regarding the Final Assessment, one of the Student’s answers is very similar to an
+answer posted on Chegg. The opinion of Dr. Angelinos is that these answers were “highly and
+unusually similar” and both answers contained the same error. On a balance of probabilities, the
+Student copied his answer from Chegg.
+E.
+
+Penalty
+
+62.
+
+The matter continued with a hearing on the appropriate sanction. Additional evidence was
+
+submitted by the University that the Student had one prior academic offence. According to SAI’s
+records, the Student has committed one prior academic offence, in MAT224 (Linear Algebra II)
+(“MAT224 2020”) in Fall 2020.
+63.
+
+On May 19, 2021, the Student admitted that he used unauthorized aids in connection with
+
+his Term Test 2 and Term Test 3 in MAT224 2020 in a meeting with Dean’s Designate Colleen
+Dockstader.
+
+22
+64.
+
+The Code provides that upon conviction, the Tribunal may order that a student be
+
+suspended for a period of up to five years, and may recommend that the student be expelled. In
+this case the University is asking the Tribunal to recommend that the Student be expelled.
+65.
+
+The Tribunal was asked to consider the University of Toronto and Mr. C. factors (Case No.
+
+1976/77-3, November 5, 1976) long recognized as the leading decision on sentencing principles.
+These factors are:
+(a) the character of the person charged;
+(b) the likelihood of repetition of the offence;
+(c) the nature of the offence committed;
+(d) any extenuating circumstances surrounding the commission of the offence;
+(e) the detriment to the University by the offence; and
+(f) the need to deter others from committing a similar offence.
+66.
+
+The Student did not participate in any aspect of the discipline proceeding, nor did the
+
+Student attend the hearing. Ignoring the discipline process is suggestive of a disregard for the
+seriousness of the conduct the Student engaged in, which was an act of deliberate dishonesty. Even
+though the Student admitted committing many of the offences, that is not a mitigating factor. The
+Student appears to have been of the view, based on his conduct, that if he admitted committing the
+offence, the slate was wiped clean leaving him free to offend again. That conduct cannot be
+permitted. As the Student disregarded the discipline process, there is no evidence of extenuating
+circumstances, and nothing to suggest that any leniency should be shown to the Student.
+67.
+
+There is a serious risk that the Student would offend again, given the opportunity to do so.
+
+The Student committed his first offences in 2020. The Student admitted that he received
+unauthorized assistance in relation to two term tests. The Student proceeded to use unauthorized
+assistance by googling answers, using Chegg and copying from other students over five courses in
+2021 and 2022. The risk that the Student will offend again, given this pattern of serial cheating is
+palpable.
+
+23
+68.
+
+Regarding the nature of the offence, detriment to the University and general deterrence,
+
+the Tribunal considered University of Toronto v T.J. (Case No. 1102, November 5, 2021) (“T.J.”),
+and University of Toronto v P.F. (Case No. 1223, October 18, 2022) (“P.F.”) where the Tribunal
+stated in P.F., “online learning provides more opportunities for students to cheat... By cheating on
+his exam, the Student undermined the grades-based system of evaluation and broke the honour
+code that is essential to modern learning… When he cheated on his exam, the Student sacrificed
+his integrity and his future”. The Tribunal in T.J. also noted the need for deterrence, stating,
+“cheating on exams must always be denounced and deterred in order to protect the academic
+integrity of the University. In today's online world, it is all too easy for students to find new outlets
+for unauthorized assistance. Students must understand that this kind of misconduct will have
+serious repercussions, so that they will be dissuaded from the temptation to cheat when under
+pressure”. As described in the University of Toronto v S.E.C. (Case No.1215, January 13, 2022),
+“in today’s online world, it is easy for students to find new ways to access unauthorized assistance
+and so any sanction must denounce cheating on tests and deter others in order to protect the
+academic integrity of the University. Students must understand that this kind of misconduct will
+have serious repercussions, so that they will be dissuaded from the temptation to consider
+cheating”.
+69.
+
+The University also submits that there is value in consistency in the imposition of sanctions.
+
+For cases of multiple offences involving plagiarism and unauthorized assistance, the range of
+sanction is from a four year suspension to the recommendation of expulsion.
+70.
+
+Here, the Student has committed 11 offences over three academic years, has attended three
+
+Dean’s meetings and has been given repeated warnings at those meetings about the seriousness of
+academic misconduct. In University of Toronto v L.Y. (Case No. 479, June 22, 2009), a case
+involving multiple instances of plagiarism and unauthorized assistance, the Tribunal
+recommended expulsion, stating:
+[45] In this case, the Panel was very concerned about the following:
+(i)
+
+the elements of pre-meditation and deceit in both offences;
+
+(ii)
+
+the timing of the offences (each offence occurred after a previous offence had been
+
+brought to the attention of the student); and
+
+24
+(iii)
+
+the complete failure of the student to engage in the process or even respond to the
+
+University with respect to either sets of charges.
+[46]
+
+Further, given the student's failure to participate in the process, the Panel had no evidence
+
+of any mitigating factors. There was no acknowledgement, no explanation, no remorse, no
+extenuating circumstances, and no evidence of any prospect of rehabilitation brought to the
+attention of the Panel. Given all of the above, the Panel is of the view that the University should
+not be forced to continue in the relationship with the student, and that the student should not have
+the benefit of the University's resources.
+
+71.
+
+Similarly, in University of Toronto v T.K. (Case No. 614, January 26, 2011), a case
+
+involving 4 charges of plagiarism, the Tribunal recommended expulsion and said:
+27. There are no extenuating circumstances. In light of the student's disciplinary history indicating
+repeated plagiarisms, there is every likelihood that the student will repeat the offence. This type of
+conduct is highly detrimental to the reputation of the University. It must be made clear to the public
+that the University will take all reasonable steps to protect its reputation and the integrity of its
+academic process. The students of the University must be discouraged from attempting such
+conduct and be made aware that the University will impose severe sanctions.
+
+72.
+
+Serial cheating of the type that the Student has engaged in causes irreparable harm to the
+
+academic relationship between the University and its students. The sanctity of this relationship is
+recognized in the preamble to the Code, which states:
+This Code is concerned, then, with the responsibilities of faculty members and students, not as
+they belong to administrative or professional or social groups, but as they co-operate in all
+phases of the teaching and learning relationship.
+Such co-operation is threatened when teacher or student forsakes respect for the other--and for
+others involved in learning--in favour of self-interest, when truth becomes a hostage of
+expediency. On behalf of teacher and student and in fulfillment of its own principles and ideals,
+the University has a responsibility to ensure that academic achievement is not obscured or
+undermined by cheating or misrepresentation, that the evaluative process meets the highest
+standards of fairness and honesty, and that malevolent or even mischievous disruption is not
+allowed to threaten the educational process (emphasis added).
+
+25
+73.
+
+It is not possible for the University to fulfil its responsibility to the University community
+
+if a student is allowed to remain at the University having demonstrated that he does not adhere to
+the standards of fairness and honesty to which all students at the University are held. The Student
+cannot be trusted to follow the rules. The academic relationship between the Student and the
+University has been irreparably broken. For these reasons, the Tribunal recommends that the
+Student be expelled.
+Conclusion
+74.
+
+At the conclusion of the hearing, the University Tribunal made the following order:
+1.
+
+ORDERS THAT the “Student” is guilty of:
+(a)
+
+six counts of obtaining unauthorized assistance, contrary to section B.I.1(b)
+
+of the Code of Behaviour on Academic Matters; and
+(b)
+
+three counts of plagiarism, contrary to section B.I.1(d) of the Code of
+
+Behaviour on Academic Matters.
+2.
+
+3.
+
+ORDERS THAT the Student shall receive a final grade of zero in:
+(a)
+
+MAT224 in Winter 2021;
+
+(b)
+
+MAT334 in Summer 2021;
+
+(c)
+
+PHY408 in Winter 2022;
+
+(d)
+
+MAT334 in Winter 2022; and
+
+(e)
+
+MAT301 in Summer 2022.
+
+RECOMMENDS to the President of the University that the President recommend
+
+to Governing Council that the Student be expelled from the University.
+4.
+
+ORDERS THAT the Student be immediately suspended from the University for a
+
+period of up to five years from the date of the order or until Governing Council makes its
+decision on expulsion, whichever comes first, and that a corresponding permanent notation
+be placed on the Student’s academic record and transcript.
+
+26
+5.
+
+ORDERS THAT this case be reported to the Provost for publication of a notice of
+
+the decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+Dated at Toronto on this 8th day of August 2024
+Original signed by:
+Simon Clements, Chair
+On behalf of the Panel
+
+

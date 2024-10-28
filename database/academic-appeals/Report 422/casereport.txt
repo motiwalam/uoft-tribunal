@@ -1,0 +1,430 @@
+UNIVERSITY OF TORONTO
+GOVERNING COUNCIL
+Report #422 of the Academic Appeals Committee
+September 19, 2022
+To the Academic Board
+University of Toronto
+Your Committee reports that it held an electronic hearing, conducted by Zoom on Thursday, June
+9, 2022, at which the following members were present:
+Academic Appeals Committee Members:
+Professor Hamish Stewart, Senior Chair
+Professor Nhung Tran, Faculty Governor
+Mr. Evan Kanter, Student Governor
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+Mr. M.N. (the “Student”)
+For the School of Graduate Studies:
+Ms. Jodi Martin, Paliare Roland Rosenberg Rothstein LLP
+
+Overview
+The Student was a Ph.D. candidate in the Institute of Biomaterials and Biomedical Engineering
+(the Institute) in the Department of Mechanical & Industrial Engineering at the University of
+Toronto. His doctoral supervisor was Professor Aaron Wheeler. In the Fall 2019 term, while the
+Student was on medical leave, the Institute removed Professor Wheeler as the Student’s
+supervisor and offered the Student two options for completing his doctoral dissertation. The
+Student rejected those options and appealed the Institute’s decision to remove Professor Wheeler
+as his supervisor to the Department’s Graduate Department Academic Appeals Committee
+(GDAAC). That appeal was dismissed. The Student appealed further to the Graduate Academic
+Appeals Board (GAAB). The GAAB dismissed his appeal.
+The Student now appeals to your Committee. He asks your Committee to require the Institute to
+assign Professor Wheeler as his supervisor or, in the alternative, to order a new hearing at the
+GDAAC.
+The appeal is dismissed.
+
+2
+
+Chronology
+The Student enrolled in the Ph.D. program at the Institute in September 2012, under the
+supervision of Professor Wheeler, and began work in Professor Wheeler’s lab. In February 2015,
+the Student passed his qualifying examination. The next step in his program was to complete a
+doctoral dissertation, based on his work in the lab.
+The Student suffers from a major medical condition and has received a number of medical leaves
+as accommodations for this condition. It is apparent from the material filed with your Committee
+and from the Student’s oral submissions at the hearing that, between 2015 and 2018, the medical
+condition adversely affected his work in Professor Wheeler’s lab and his progress towards
+completion of his doctorate.
+From the Winter 2018 term onwards, the Student was on a medical leave of absence. He
+anticipated returning to his research sometime in 2019.
+At some point during the Student’s medical leave, Professor Wheeler determined that he could
+no longer serve as the Student’s supervisor. The material before your Committee indicates that
+he had made this decision as early as the Fall 2018 term, and in any event, well before September
+2019. Other material before your Committee is consistent with that statement. In his written
+submissions, the Student recognizes that the decision was made at some point between October
+2018 and February 2019.1
+On September 11, 2019, Professor John Davies, the Institute’s Associate Director of Graduate
+Programs, advised the Student by email that when he returned from his medical leave, Professor
+Wheeler would no longer be his supervisor. The stated reason was not Professor Wheeler’s
+unwillingness to supervise but his lab having “moved on to other research foci” (Appeal
+Statement, p. 79). This statement was untrue. As SGS concedes at para. 76 of its submissions,
+“the primary reason … was [that] Professor Wheeler was no longer prepared, under any
+circumstance, to continue to supervise [the Student].” The Institute should have told the Student
+that. As SGS puts it, “the department … ought to have communicated more candidly with [the
+Student] regarding the primary reason he could not return to Professor Wheeler’s laboratory.”
+Your Committee agrees. The Institute should, as soon as possible once the decision was made,
+have informed the Student that Professor Wheeler would no longer supervise his doctoral work.
+After the Student returned to Toronto, the Institute offered him two options for completing his
+doctoral dissertation. These options were presented to the Student at two meetings, the first on
+October 29, 2019, with Professor Davies, and the second on November 28 with Professor Davies
+and Ms. Candice Stoliker (Coordinator of Student Progress and Support). Following the second
+meeting, Professor Davies summarized these options in a letter to the Student dated November
+28, 2019. Under either option, Professor Davies would serve as the Student’s supervisor (School
+of Graduate Studies Book of Documents [BoD], Tab 23). The Student rejected both options and
+
+“There was a premeditated plan made and executed by the department to enable prof Wheeler to back out of
+supervisorship that happened during my medical leave in Oct 2018 and Feb 2019.” (Appeal Statement, p. 19.)
+1
+
+3
+indicated that he wished to continue his doctoral research under Professor Wheeler’s supervision
+(BoD, Tab 22).
+The Student appealed to the GDAAC, which recommended that the Chair of the Department
+dismiss the Student’s appeal, and the Chair did so (BoD, Tabs 26 and 27). The Student appealed
+to the Graduate Academic Appeals Board (GAAB). On February 22, 2021, the GAAB dismissed
+his appeal (BoD, Tab 30).
+The Student appeals to your Committee. As noted above, the primary remedy he seeks is an
+order allowing him to complete his Ph.D. under Professor Wheeler’s supervision in Professor
+Wheeler’s lab. In the alternative, he seeks an order requiring a new hearing at the GDAAC.
+
+Procedural aspects of the appeal
+The appeal was originally scheduled to be heard in February 2022. Shortly before the scheduled
+hearing of the appeal, the Student sought to add to the record before your Committee a document
+of 151 pages, consisting of 22 pages of summary and commentary followed by 129 pages of
+emails obtained by the Student pursuant to a freedom of information request. The Senior Chair
+refused to allow the record to be supplemented so close to the date of the hearing. The hearing
+was later rescheduled to June 2022. The Senior Chair then permitted the Student to add these
+materials to the record. The SGS did not file any material in response.
+At the hearing, an issue arose concerning what happened at a meeting of October 29, 2019,
+between the Student and Professor Davies. In his appeal materials, the Student states that
+Professor Davies appeared “surprised” by something that was said at this meeting and urged your
+Committee to draw certain inferences from that surprise. Professor Davies was present at the
+hearing of the appeal and made a statement to your Committee in which he said that he was
+indeed surprised but offered a different explanation for his surprise than the one the Student
+urged your Committee to infer. The Student then sought leave to cross-examine Professor
+Davies. The Chair refused to permit this cross-examination on the ground that Professor Davies
+was not a witness; that is, Professor Davies was not under oath and had not been examined in
+chief; therefore, there was no testimony on which he could be cross-examined. In retrospect, the
+Chair’s view is that he should not have allowed Professor Davies to make his statement. In any
+event, the reasons why Professor Davies appeared surprised during this meeting are irrelevant to
+the determination of this appeal.
+The relevant policy
+There is no doubt that the relationship between a supervisor and a doctoral student is an
+extremely important one for both parties. For the student, a good supervisory relationship is
+essential to the completion of the doctoral degree and often continues to be significant in the
+student’s professional life after the degree is earned. From the faculty member’s perspective,
+supervising doctoral students is intellectually rewarding in its own right and, particularly in
+science, medicine, and engineering, can be indispensable to the supervisor’s own research
+
+4
+program. The student-supervisor relationship requires trust and confidence, clear
+communication, intellectual compatibility, and sometimes forbearance, from both the student and
+the faculty member.
+Accordingly, the University’s Graduate Supervision Guidelines contemplate that the supervisory
+relationship will be a continuing one (BoD, p. 005):
+The student-supervisor relationship is critical to a student's success in graduate school and should
+be established early in a student's program and, barring graduate unit policies or unanticipated
+circumstances, remain intact until the student has successfully submitted and defended their
+thesis.
+
+Divisional decisions to assign, remove, and/or replace a doctoral student’s supervisor are
+“application[s] of academic regulations and requirements” (AAC Terms of Reference, section 2.1). If
+a division were to make an unreasonable decision about these matters, your Committee could provide
+a student with a remedy, provided that remedy lay within its jurisdiction.
+The Student’s grounds of appeal
+The Primary Remedy Sought
+The Student’s written and oral submissions were directed primarily at persuading your Committee
+that it should order the Institute to require Professor Wheeler to resume (or to continue)2 supervising
+his doctoral research. The Student’s submissions might be framed as arguing that it was
+unreasonable for the Institute to conclude that continued supervision by Professor Wheeler was
+no longer possible.
+
+The Chair of your Committee is of the view that your Committee has no jurisdiction to make an
+order that would effectively require a particular faculty member to serve as a particular student’s
+doctoral supervisor or that would require a particular faculty member to accept a particular
+student into their lab. In their capacities as teachers, scholars, or researchers, individual faculty
+members are not parties to proceedings before your Committee. The orders of your Committee
+are directed to divisions of the University, where they are acted upon by faculty and staff acting
+in administrative roles (e.g., program director, associate dean, assistant dean, department chair,
+graduate co-ordinator, etc.). Your Committee cannot tell an individual faculty member how to
+conduct their research program.
+Your Committee would not order the remedy sought by the Student in this case even if it had
+jurisdiction to do so. It is obvious that Professor Wheeler is unwilling to supervise the Student.
+On the other hand, the Student is, apparently, willing to be supervised by Professor Wheeler. In
+his appeal statement, the Student says “my supervisor is a wonderful person and I have had an
+amicable relationship with him” (p. 12). Your Committee found this surprising. During the
+2
+
+At the hearing of the appeal, the Student sought to persuade your Committee that the remedy he sought was a
+“continuation” of Professor Wheler’s supervision, rather than a “resumption” of his supervision. His argument was
+that if the Institute’s decision was set aside, it would be as if Professor Wheeler had never ceased being his
+supervisor. There is a certain remedial logic to this argument. However, for the purposes of this appeal, nothing
+turns on whether the remedy sought should be characterized as a continuation or a resumption of supervision.
+
+5
+hearing of the appeal, the Student described Professor Wheeler in very harsh terms. He submitted
+that during 2018 and 2019, Professor Wheeler and others had abused their power and had acted
+“like a pack of thieves in the night”; he also submitted that Professor Wheeler’s March 2020
+statement was full of “frivolous and false accusations,” “malicious slanders,” and “vile
+statements.” Your Committee rejects this characterization of the March 2020 statement, which
+your Committee reads as an anguished, honest, and reflective account of Professor Wheeler’s
+personal and professional experience as the Student’s supervisor. There is no possibility that that
+there could be an effective supervisory relationship between Professor Wheeler and the Student.
+The Student makes five principal submissions in support of his position that the Institute’s
+decision was an unreasonable application of SGS’s policy concerning doctoral supervision. He
+submits that (1) an email of August 4, 2016, constituted a contract between him and Professor
+Wheeler, requiring Professor Wheeler to continue as his supervisor; (2) as of November 2017, he
+was only three months away from completing his dissertation; (3) Professor Wheeler would have
+been obliged to continue supervising him if he had returned to Toronto as of May 2019; (4) the
+options offered by the Institute are not feasible; and (5) continued supervision by Professor
+Wheeler is required by the University’s duty to accommodate the Student’s disability.
+
+1. What was the effect of the email of August 4, 2016?
+The Student submits that Professor Wheeler told him that “I could stay for the maximum allowed
+time of 10 years for the PhD, as long as I didn’t need funding from him … after year 5”
+(Student’s Appeal Statement, p. 9). This submission is based on an email that Professor Wheeler
+sent to the Student on August 4, 2016, summarizing his concerns about the Student’s progress.
+The material portions of this email read as follows:
+(1) PhD students who graduate from my lab typically write a dissertation that includes four
+chapters describing new contributions. At this point, you have written one (the “chemostat”).
+(2) As I have note many times before, I am worried about your progress. You are far, far
+behind where my other PhD students have been at this stage.
+(3) As I understand it, at U of T, PhDs can last for up to 10 years. As far as I am concerned, you
+can take that whole duration if you want.
+(4) But if you opt for #3, I cannot afford to pay you during that time. As I understand it, the last
+month that I am obligated to pay you is December, 2017. After that point, your pay will be cut
+substantially (perhaps to zero) depending on what I have.
+
+The Student submits that this email is a binding commitment from Professor Wheeler, indeed
+that it constitutes a contract between himself and Professor Wheeler to the effect that Professor
+Wheeler would continue as his supervisor. Again, the implication is that it was unreasonable for
+the Institute to remove Professor Wheeler in the face of this commitment.
+SGS submits that only the Ontario Superior Court of Justice can answer the question whether the
+email is a contract, and that in any event it is not a contract (SGS Submissions, paras. 52 and 19).
+The GAAB concluded that it had no jurisdiction to determine whether the email was a contract
+and no jurisdiction to give any contractual remedies.
+
+6
+
+According to section 3.1.4 of its Terms of Reference, the Chair of your Committee has the power
+to “determine all questions of law.” Whether a contract exists and how it should be interpreted are
+questions of law. It is therefore arguable that if the existence and meaning of a contract was for some
+reason relevant to the determination of an issue that was properly before your Committee, your Chair
+would have the jurisdiction to decide those issues. However, even if that were to happen, the Chair
+agrees with the Institute that, like the GAAB, your Committee has no jurisdiction to give any
+remedies for breach of contract. Its remedial jurisdiction is limited to providing remedies for
+unreasonable applications of academic regulations and requirements (AAC Terms of Reference,
+section 2.1).
+In any event, the Chair of your Committee finds that the email is not a binding commitment by
+Professor Wheeler to continue serving as the Student’s supervisor, much less a contract between
+Professor Wheeler and the Student. It is simply a statement to the effect that, as of 2016, Professor
+Wheeler had no objection to the Student’s taking whatever time was necessary, within the 10-year
+period, to complete his Ph.D. Whether the Student could indeed take so much time would of course
+not be for Professor Wheeler alone to decide, as it would also depend on the input of the other
+members of the supervisory committee and the graduate coordinator.
+The statements in Professor Wheeler’s email of August 4, 2016, do not render the Institute’s
+decision to remove him as the Student’s supervisor unreasonable.
+
+2. Was the Student three months away from completing his doctorate?
+The Student says that he had been told in November 2017 that “my progress was sufficient to letting
+me graduate after 3 more months of work” (Appeal Statement, p. 9), the implication being that the
+Institute’s decision to remove Professor Wheeler as supervisor was unreasonable because it
+prevented him from doing those three months of work in Professor Wheeler’s lab.
+This submission is based on a report of a meeting of the Student’s supervisory committee, held on
+November 27, 2017. After evaluating the Student’s progress in some specific areas, the report states
+that the “earliest reasonable program completion date” is August 2018. It then goes on to say (BoD,
+p. 035):
+While some progress has been made the student still lags behind where he should be after 5 years
+of research. The committee remains concerned about the lack of progress and are worried about
+completion.
+We recommend:
+1) supervisor and student to define a 3 month plan with milestones
+2) monthly progress reports sent to all committee members
+3) progress meeting in 1st week of March.
+The committee thinks it is unlikely that the student will complete unless the above milestones are
+met.
+
+The Student’s submission misconstrues this report. The report does not say that the Student can
+complete his Ph.D. within three months; to the contrary, it states that the earliest reasonable time
+
+7
+for completion of the Ph.D. is 10 months. The three-month plan was not a timeline for
+completion; it was a prerequisite to the Student’s progress towards completion. (See also email
+from Professor Wheeler to Rhonda Marley, December 17, 2017, Latest FIPPAs, Tab 16.)
+There is nothing in the supervisory report of November 2017 that casts any doubt on the
+reasonableness of the Institute’s decision in November 2019.
+3. Would Professor Wheeler have continued to supervise the Student had he returned earlier to
+Toronto?
+
+In his written and oral submissions, the Student repeatedly asserted that if he had returned to
+Toronto by May 2019, Professor Wheeler would have been obliged to continue supervising him.
+This submission overlaps with the first and second. The implication is that it was unreasonable
+for the Institute to find, when the Student did return only a few months later, that Professor
+Wheeler’s continued supervision was no longer possible.
+This submission is supported principally by an email, dated October 1, 2018, from Professor
+Wheeler to Professor Elie Sone, who at that time was serving as the Institute’s Associate
+Director of Graduate Programs. The critical portion of the email reads as follows (Latest FIPPAs,
+p. 33):
+…remember [the Student]? A quick recap – he took his second medical leave earlier this year – it
+was to last between ~March-August [2018]. You and I discussed the matter, and we agreed that if
+(A) [the Student] managed to return to Toronto before the end of the leave, I would be obligated
+again to try again to get him through the program with a PhD at that time. But we also discussed
+the possibility of (B) [the Student] returning to Toronto at some point after the agreed-upon terms
+of the medical leave, in which case I would tell SGS that I have moved on and am not able to
+support his second try at obtaining a PhD.
+Does the above match your memory? At any rate, I have been assuming that we were firmly in
+regime (B), given that August [2018] came and went without me hearing from [the Student]. But
+last week, he sent me an email … . He suggests that he wants to “extend” his leave and that he
+would like to return to Toronto to continue his work in 2019.
+
+The email continues with some questions for Professor Sone, concluding with the following: “…
+even if SGS decides to grant the leave, can I stick with position (B)?” Professor Sone’s reply to
+this question was “My advice would be to have [the Student] … apply for an extension to his
+leave (with documentation) and consider informing him of option (B) if he seeks another
+extension in May [2019], but I will leave it to you and [Professor Davies] to decide.”
+Contrary to the Student’s submission, this email does not show that, on October 1, 2018,
+Professor Wheeler felt obliged (much less that he was obliged) to continue supervising him. To
+the contrary, it shows that Professor Wheeler was seeking advice that would support “option
+(B)”, that is, not supervising the Student.
+In an email of February 24, 2019, Professor Wheeler told Professor Davies: “My plans remain
+the same (i.e., to not accept [the Student] as a student again)” (Appeal Statement, p. 350). In an
+email of May 15, 2019, to Professor Davies and another person, Professor Wheeler again made it
+
+8
+clear that he would not be willing to supervise the Student on his return from medical leave but
+would be willing “to assist him in finding a different supervisor and project-plan.” Thus, it clear
+from the material before your Committee, including the material submitted by the Student, that
+Professor Wheeler had decided well before May 2019 not to continue supervising the Student.
+Moreover, there is no basis for the Student’s submission that Professor Wheeler would have been
+obliged to accept him back in the lab if he had returned in May 2019. Your Committee therefore
+rejects this submission.
+In any event, the question of what would have happened if the Student had returned to Toronto in
+May 2019 is of marginal relevance. The issue before your Committee is not what would have
+happened if the Student had returned to Toronto sooner. It is whether, given what had happened
+up to that point, the Institute’s decision of November 2019 was reasonable. The possibility, if it
+is one, that the Student’s relationship with Professor Wheeler might have unfolded differently if
+the Student had returned in May 2019 does not make the decision of November 2019
+unreasonable.
+4. Are the options offered by the Institute feasible?
+In his written and oral submissions, the Student repeatedly emphasized the impossibility of
+completing his work without access to Professor Wheeler’s lab. The Student may well be correct in
+saying that it would be difficult or impossible to complete the specific projects he was engaged in
+while working in Professor Wheeler’s lab. But that is not the issue before your Committee. The issue
+is, rather, whether the options proposed for completion of the degree were reasonable, given that the
+Student no longer had access to Professor Wheeler’s lab. To be reasonable, those options must be
+feasible. The GDAAC found that they were (BoD, p. 065). That finding involved, among other
+things, expertise in biomechanical engineering, which the GDAAC had but your Committee lacks.
+Your Committee defers to the GDAAC’s assessment that the proposed options are feasible. Your
+Committee also notes the Institute’s commitment to facilitate the loan and transfer of materials
+relevant to the Student’s project from Professor Wheeler’s lab to the Student for use at another lab in
+the Institute (SGS Submissions, paras. 72 and 74).
+
+5. Is Continued Supervision by Professor Wheeler a Required Accommodation?
+There is no dispute between the parties that the Student has suffered from a serious medical
+condition that has impeded his academic progress and that the University has a duty under the
+Human Rights Code, R.S.O. 1990, c.H.9 (the Code) to accommodate that disability to the point
+of undue hardship.
+In his written submissions, the Student submits that his rights under the Code were violated when
+he was removed from Professor Wheeler’s lab. Specifically, he says: “My mental health was in
+fact a reason for my removal from the lab, that amounts to an infringement on my Mental health
+rights/discrimination based on Mental health and will hence amount to a violation of the Ontario
+Human Rights Code …” (Statement of Appeal, p. 21). At the hearing, the main point of the
+Student’s submissions on this point was that the only possible accommodation for his disability
+is renewed supervision by Professor Wheeler.
+
+9
+The Human Rights Tribunal and the Superior Court of Justice have an expansive remedial
+jurisdiction under the Code (see ss. 45.2, 45.3, 46.1). In contrast, your Committee’s remedial
+jurisdiction under the Code is limited by its general remedial jurisdiction, that is, to providing
+remedies for unreasonable applications of academic regulations and requirements. Your
+Committee can determine whether a particular application of academic regulations and
+requirements complied with s. 17 of the Code and, if it did not, make an order within its jurisdiction
+that would reasonably accommodate a student’s disability (see, for example, Report 409). Since your
+Chair has concluded that requiring Professor Wheeler to continue supervising the Student is not a
+remedy that can be granted by your Committee, it cannot be a remedy for any violation of the Code,
+if there was one.
+As to whether there was any violation of the Student’s rights under the Code, your Committee is
+divided.
+
+One member of your Committee is concerned that the Student’s removal from Professor
+Wheeler’s lab may indeed have been an act of discrimination on the ground of disability, as
+defined in s. 10(a) of the Code, contrary to ss. 1 and 9 of the Code, for the following reason. In
+this member’s view, it was not fair to judge the Student’s performance in the lab during a period
+of time when his medical condition was extremely disabling; in this member’s view, that
+judgment should only have been made at a time when the Student’s condition was wellcontrolled with medication and other therapy. In this member’s view, the decision to remove the
+Student from Professor Wheeler’s lab, which was communicated to the Student at the conclusion
+of the Student’s medical treatment and leave, may have been discriminatory since it was based
+on the Student’s pre-treatment performance.
+The other two members of your Committee are not persuaded that the Student’s removal from
+Professor Wheeler’s lab was an instance of discrimination contrary to the Code. These two
+members are inclined to see the Student’s removal from the lab as a situation where s. 17(1) of
+the Code applies. That section, read together with ss. 17(2) and (3), provides that where a person
+has been reasonably accommodated but nevertheless “is incapable of performing or fulfilling the
+essential duties or requirements attending the exercise of the right because of disability,” there is
+no infringement of the person’s right under the Code. During the period leading up to the
+Student’s departure from Toronto in late 2018, the Student was provided with extensive
+accommodations. In particular, the Student’s medical leaves and Professor Wheeler’s
+extraordinary efforts, documented both in his statement of March 2020 and in the material
+submitted by the Student (see particularly Latest FIPPAs, Tab 15), to ensure that the Student’s
+work in his lab was conducted safely and to keep the Student on the path to completion of his
+Ph.D., were significant accommodations. Despise those accommodations, the Student was
+unable to function effectively in Professor Wheeler’s lab.
+In any event, all three members of your Committee agree that, given the impossibility of
+continued supervision by Professor Wheeler, the offer of alternative paths to the completion of
+the Student’s Ph.D. that the Institute offered to the Student in Professor Davies’s letter of
+November 28, 2019, was a reasonable accommodation for the Student’s disability.
+
+10
+The Alternative Remedy
+In the alternative, the Student submits that the GDAAC process was flawed and that your
+Committee should order a new hearing at the GDAAC. This submission was not the main focus
+of the Student’s oral arguments to your Committee, but it was fully argued in his written
+submissions and was fully canvassed at the hearing before the GAAB. Your Committee adopts
+the reasons of the GAAB for rejecting this submission (BoD, p. 078):
+Regarding the GDAAC’s decision, [the Student] submits that there were three procedural flaws.
+First, there was a delay, as the decision took 5 months instead of the 2 months prescribed by the
+SGS General Regulations, Section 10. Second, [the Student] also points to the absence of a
+student representative in the GDAAC’s meeting. Third, [the Student] submits that he was not
+immediately provided with a copy of the GDAAC report, as required by SGS GDAAC
+Guidelines, section 23. The GAAB agrees that the manner in which the GDAAC decision was
+handled was not in full compliance with the procedural requirements of SGS Regulations and
+Guidelines. However, the GAAB has also considered that procedural guarantees must be
+proportional to the nature of the decision being made and the impact on the appellant. Therefore,
+these guarantees are heightened when the decision is non-discretionary and also has a significant
+impact on the student’s ability to continue their studies (e.g. expulsion). This is not the case here.
+Moreover, none of these procedural flaws are so significant as to provide grounds to invalidate
+the decision. The delay in the GDAAC meeting, as [the Student] himself acknowledges, may
+have been associated with the fact that the University was dealing with an unprecedented global
+pandemic in early 2020, and was shifting from in-person to virtual operations. As to the lack of a
+student representative at the GDAAC meeting, [the Student] correctly points to the fact that the
+committee does require one graduate student member (SGS GDAAC Guidelines, section 11(a)).
+However, the same section of the Guidelines also indicates that the quorum for a meeting is three
+members, including the Chair. Therefore, the absence of the student representative at the meeting
+does not render the GDAAC meeting or its recommendations invalid. Finally, [the Student]
+should have received the GDAAC report with recommendations immediately after the meeting.
+The delay in providing him with the report, however, was compensated with an extension of the
+deadline for him to submit his appeal to the GAAB, granted by Prof. Charmaine Williams SGS
+Vice-Dean, Students. Therefore, any potential negative impact of such delay was mitigated by
+this extension.
+
+Your Committee adds the following. The absence of the student member from the GDAAC
+meeting was not a procedural flaw. The GDAAC guidelines require every GDAAC to have a
+student member, but the guidelines do not require a student member to participate in every
+GDAAC decision. The quorum for a GDAAC meeting is three, but there is no requirement that
+the student member be one of the three.
+Conclusion
+The University’s Graduate Supervision Guidelines contemplate that the relationship between a
+doctoral student and their supervisor “should … barring graduate unit policies or unanticipated
+circumstances, remain intact until the student has successfully submitted and defended their
+thesis.” Professor Wheeler’s decision to cease supervising the Student was an unanticipated
+circumstance. Your Committee has no jurisdiction to order the primary remedy sought by the
+Student, that is, to order the Institute to require Professor Wheeler to continue as the Student’s
+
+11
+doctoral supervisor. The issue before your Committee is best characterized as whether, given
+Professor Wheeler’s unwillingness to supervise, the alternatives that the Institute offered to the
+Student in Professor Davies’s letter of November 28, 2019, were reasonable paths to the
+completion of the Student’s Ph.D. Your Committee finds that they were. Your Committee rejects
+the Student’s submission that any procedural flaws in the GDAAC process require a new hearing
+before the GDAAC. The appeal is dismissed.
+
+

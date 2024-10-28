@@ -1,0 +1,360 @@
+THE UNIVERSITY OF TORONTO
+THE GOVERNING COUNCIL
+Report # 388 of the Academic Appeals Committee
+May 8, 2017
+To the Academic Board
+University of Toronto
+Your Committee reports that it held a hearing on Tuesday, March 28, 2017 at 8:45 a.m., at which the
+following members were present:
+Ms. Sara Faherty, Chair
+Professor Hugh Gunz, Faculty Panel Member
+Mr. Mohammad Amin, Student Panel Member
+Hearing Secretary: Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary, Appeals,
+Discipline and Faculty Grievances
+Appearances:
+For the Student Appellant:
+Mr. F.Z. (the Student)
+Mr. Cormac Donovan, Student Lawyer, Downtown Legal Services
+Ms. Jennifer Fehr, Staff Lawyer, Downtown Legal Services
+For the Division, Faculty of Arts and Science/Woodsworth College:
+Professor Anne-Marie Brousseau, Associate Dean, Undergraduate Programs
+Mr. Rob Centa, Paliare Roland
+Ms. Emily Home, Paliare Roland, Articling Student
+I. The Appeal
+This is an appeal from a decision of Professor Adrienne Hood, then Acting Associate Dean,
+Undergraduate Faculty of Arts and Science, dated January 30, 2015 reviewing the decision of Jamie
+Stafford, Chair of the Department of Statistical Science, denying the Student Appellant’s request to
+change his grade in STA 302, Methods of Data Analysis, from 70 to 80 by reallocating the weight of
+the Student Appellant’s missed October 23, 2012 term test to the deferred final exam he wrote on
+June 24, 2013.
+II. The Facts
+The Student Appellant graduated from Woodsworth College, majoring in mathematics and statistics,
+in November 2013. During the fall term of 2012 the Student Appellant enrolled in two courses that
+both met on Tuesday and Thursday mornings. STA 62, Stochastic Processes, met on the University
+
+1
+
+of Toronto’s Scarborough Campus. The timing for STA 62 was different on the two days: it met on
+Tuesdays from 8:00 am to 9:00 am and on Thursdays it met for longer, from 8:00 am to 10:00 am;
+STA 302, Methods of Data Analysis met on Tuesdays from 10:00 am to 12:00 noon and on
+Thursdays it ended earlier, beginning at 10:00 am but running only until 11:00 am on the
+University’s St. George campus in downtown Toronto. The two campuses are about thirty
+kilometers apart. In neutral traffic conditions it should take between 30 and 40 minutes to drive
+between the two campuses. Public transportation options entail a combination of bus rides, train
+rides, and walking that should take about an hour and fifteen minutes provided there are no
+disruptions. The Student Appellant reports that he relied on public transportation.
+Note that on Tuesday mornings this meant the Student Appellant had one hour to get from his
+Scarborough class ending at 9:00 am to his St. George campus class that began at 10:00 am. He
+reports, classes start at ten minutes after the hour, or in this case, 10:10 am. Given the length of the
+trip, this was an ambitious transportation plan under the best of circumstances. At best, he could
+hope to arrive to his St. George campus class five minutes after it started.
+On Thursdays, the plan was entirely unfeasible: the Scarborough campus Stochastic Processes class
+ended at 10:00 am. It was absolutely impossible for the student to be on the St. George campus in
+time for the 10:10 start time of the Methods of Data Analysis class. Since the St. George campus
+class went only until 11:00 am on Thursday mornings, attendance at the Thursday meeting of both of
+these classes was physically impossible. The second class would be ending about fifteen minutes
+before the student arrived from the Scarborough campus. The student was aware of the obstacles
+posed by this schedule.
+On October 23, 2012, a Tuesday, the student was faced with a conflict. The earlier morning class,
+Stochastic Processes, which met at Scarborough from 8:00 to 9:00 am, had a homework assignment
+due. The student appellant reports that the teacher would not accept homework assignments via
+email, or later in the day. The student also said that he did not know anyone in the class whom he
+could ask to hand in the assignment on his behalf, and points out that the assignments were only
+accepted at the end of class, not at the beginning of class. This was, in part, because the instructor
+would discuss the assignment during the class, and students were expected to alter their written work
+according to the instructions and tips given during class. For these reasons, the Student Appellant
+believed his only option to hand in that day’s assignment, which was worth 5% of his final mark, was
+to attend class and hand it in personally at the end of class.
+This posed a problem, because there was a midterm that was worth 25% of the final mark scheduled
+in the second class, Methods of Data Analysis, at 10:00 am on the St. George campus.
+After his class Stochastic Processes class ended at 9:00 am, the Student Appellant set out on the TTC
+trip from Scarborough to the St. George campus, optimistic that he would arrive in time to write and
+perform well on the Methods of Data Analysis midterm. Unfortunately, he did not arrive in time.
+Even though the predicted average travel time was one hour and fifteen minutes, the Student
+Appellant did not arrive at his midterm until beyond 10:40 am. The Student Appellant does not
+recall why the trip took twenty-five minute longer than usual. He did not attempt to write the
+midterm that day.
+The STA302 Methods of Data Analysis syllabus set forth the following policy regarding missing the
+midterm:
+
+2
+
+“There is no makeup test. If the test is missed for a valid reason, you must provide appropriate
+documentation such as the University of Toronto Medical Certificate, University of Toronto Health
+Services Form, or College Registrar’s Letter. You must submit this documentation to the course
+instructor (Hadas Moshonov) or the Departmental Office (SW6018) within one week of the test.
+Print on it your name, student number, course number and date. If documentation is not received in
+time, your test mark will be zero. If the test is missed for a valid reason, its weight will be shifted to
+the final exam.”
+[Syllabus, Methods of Data Analysis, Fall 2012; Student Appeal, Exhibit C].
+The Student Appellant met with Hadas Moshonov, the course instructor, on October 30. He
+presented her with a copy of his ROSI Timetable and some TTC transfers, which documented the
+reason for his lateness to the 10:00 am midterm. At this meeting, Professor Moshonov told the
+student appellant that she would decide the question later and let him know of her decision by email.
+The Student Appellant reports that he had an informal conversation with Professor Moshonov in
+passing on December 4, 2012. He asked about her decision on the missed midterm. He recalls that
+she told him she was waiting to see his final exam mark before deciding. At that time, the instructor
+and the Student Appellant believed he would be writing the final exam, which was scheduled for
+December 13th, nine days later.
+As it happens, however, the Student Appellant did not write his exam that week. He missed that
+exam, and ended up writing a deferred exam on June 24, 2013. He was informed of the mark for that
+exam shortly thereafter. On July 4, 2013 he inquired about the raw score and was answered on July
+5, 2013. When the course grade was made available, it became clear that the weight of the midterm
+had not been shifted to the final exam.
+It was not until eight months later, in March of 2014, however, that the Student Appellant followed
+up. On March 6 of 2014 the student contacted Professor Moshonov, asking to discuss his exam in
+the course he had attended in the Fall of 2012.
+Professor Moshonov informed the Student Appellant that she was no longer in Toronto in an email
+dated March 12. They commenced their discussion via the email exchange presented as Exhibit I in
+the Student Appellant’s materials. When the Student Appellant inquired about the breakdown of his
+final grade, on March 19, 2014, he seemed to assume the instructor had found his reason for missing
+class the day of the midterm was valid, writing “As your fall course only had one assignment instead
+of two in which I got a 63% plus I had submitted documentation within one week of missing term
+test, should my course mark be [calculation]?” In support, the Student Appellant cited a policy from
+the University of Toronto campus at Mississauga. She replied on March 24th, five days later, “Your
+reason for missing the midterm test was not valid and hence your mark in the test was 0.” [Student
+Appeal, Exhibit I, email dated March 24, 2014.] In a later email she told the Student Appellant that
+she had consulted with higher officials and learned that a TTC transfer is not proof for a valid reason
+to miss a test. [Student Appeal, Exhibit I, email dated March 30, 2014.]
+The higher officials with whom Professor Moshonov consulted seem to have relied on the Faculty of
+Arts and Science policy. Its 2013-2014 calendar instructs students to avoid course conflicts:
+“ROSI does not check for course time conflicts, so plan your schedule carefully.
+
+3
+
+“Once you have decided which courses you are eligible to take, make sure that none
+of your choices are offered at conflicting times. You can find a weekly schedule
+worksheet here to help you create a conflict-free schedule. If you enrol in courses
+which conflict with one another, you do so at your own risk and you cannot expect
+special consideration from instructors as a result of the conflict.”
+The Student Appellant responded to Professor Moshovov, suggesting that the U of T Registrar had
+confirmed that 1 hour between two campuses is a legitimate conflict warranting special consideration
+[Student Appeal, Exhibit I, email dated April 23, 2014.] The Student Appellant did not identify
+which registrar made that confirmation in his email, which may have confused Professor Moshonov.
+However his Exhibit N includes language from the UTM website. The heading reads “I have an
+exam at UTM in the morning and an exam at St. George/UTSC in the afternoon. What do I do?” Of
+course, in this case the student did not have exams on two different campuses. This policy appears to
+refer to final examinations, not midterms, In any event, since it is the University of Toronto at
+Mississauga policy, it is not relevant.
+To this the instructor replied “Please contact your college directly regarding this issue.” [Student
+Appeal, Exhibit I, email dated April 27, 2014.]
+The Student Appellant complied with this request, bringing the matter to Alison Gibbs, Associate
+Chair for Undergraduate Studies in Statistics and Cheryl Shook, the Registrar of Woodsworth
+College. Cheryl Shook, informed the Student Appellant that she would be managing the matter. On
+June 6, 2014 she communicated the response to the student: “It is my understanding that [the
+Student Appellant] does not have a record of an agreement between him and the instructor to reweight his course grade to discount the missed test. In the absence of such a record, it is the position
+of the Department of Statistical Sciences that the course grade, as it was submitted, stands.” [Student
+Appeal, Exhibit I, email dated June 6, 2014.] After this the Student Appellant attempted to contact
+Jamie Stafford, Chair of the Department of Statistical Sciences, who declined to meet with him, and
+referred him back to the Registrar. [Student Appeal, Exhibit I, email dated September 8, 2014.]
+The exchange was elevated to a petition to Adrienne Hood, who declined to alter the decision of the
+department in the absence of written documentation of an agreement with the instructor to re-weight
+his exam. [Student Appeal, Exhibit A, email dated January 30, 2015.]
+The Student Appellant responded to Associate Dean Hood’s decision by asserting that he did have
+the instructor’s consent to re-weight the final exam, and that the consent was in the text of the course
+syllabus quoted above, in which the instructor explained.
+“There is no makeup test. If the test is missed for a valid reason, you must provide appropriate
+documentation such as the University of Toronto Medical Certificate, University of Toronto Health
+Services Form, or College Registrar’s Letter. You must submit this documentation to the course
+instructor (Hadas Moshonov) or the Departmental Office (SW6018) within one week of the test.
+Print on it your name, student number, course number and date. If documentation is not received in
+time, your test mark will be zero. If the test is missed for a valid reason, its weight will be shifted to
+the final exam.”
+III. Decision
+Jurisdiction of the Student Appeal Committee
+
+4
+
+In its submission dated June 12, 2015, the Faculty of Arts and Science raised a jurisdictional issue,
+citing section 11.1 of the Faculty of Arts and Science Academic Handbook, which states that
+academic appeals involving marking conclude “with the Dean’s Office being the final level of
+appeal.” This assertion contradicts the mandate of the Academic Appeal Committee, which is to hear
+appeals from any student “as to the applicability to his or her case of any academic regulation of the
+University.” [Policy on Academic Appeals Within Divisions.] Indeed, the University of Toronto
+Governing Council’s policy expressly instructs Divisions to advise any student whose appeal has
+been denied of his or her further right of appeal. [Policy on Academic Appeals Within Divisions.]
+A Division may have more than one set of processes for inter-divisional appeals, and it can prevent
+some appeals from proceeding to its internal appeal board. However, Divisions may not circumvent
+the University level appeal process by preventing appeals from coming to the Academic Appeal
+Committee of Governing Council.
+It is possible that the Academic Handbook language cited is meant to refer exclusively to
+assessments of the academic merit of a student’s work. In that case, the policy is correct. This
+Committee is not empowered to consider the academic merit of the work submitted, as this
+Committee has no expertise in the field of statistics. However since the student is raising issues
+around the rules for determining whether the reasons for an absence were valid the Committee has
+jurisdiction to decide this appeal. Its role will be to determine whether the Division’s policies were
+applied fairly, and the standard for their application is reasonableness.
+Who Determines Whether the Reason For an Absence Is Valid?
+The facts cited above, about which there is little disagreement start and end with a rule set forth in
+Professor Moshonov’s syllabus for Methods of Data Analysis. That rule establishes that students
+who miss the midterm will not have a second opportunity to sit for the test. Instead, a student with a
+valid reason for missing the test can have the weight of the midterm shifted to the final exam. The
+syllabus is silent on the issue of what might constitute a valid reason for missing the test, although it
+gives a University of Toronto Medical Certificate as an example of appropriate documentation, and
+suggests students could proffer a College Registrar’s Letter. The reference to medical certificates
+suggests that a valid reason might entail illness. The reference to a College Registrar’s letter
+suggests that there may be some circumstances under which a College’s policies would be
+considered as relevant to the validity of an absence.
+The syllabus does not directly answer the question of who determines whether an absence is valid.
+However it instructs students to submit their documentation to the course instructor or the
+departmental office. The Student Appellant apparently assumed that the instructor would determine
+whether his absence was valid, as he brought her his documentation, he asked her what she had
+decided when he saw her in December of 2013, and he followed up with her in March of 2014. This
+assumption seems reasonable.
+The Student Appellant attempted to influence the instructor’s decision by referring her to UTM’s
+policy on final exams. He also suggested that the University Registrar had a policy saying one hour
+travel time between two campuses constituted a legitimate reason to miss an exam. It is not clear that
+either of those points was controlling, but in any event, the instructor did make an effort to determine
+whether there was a relevant policy she should follow. The instructor told the Student Appellant that
+she had “consulted with higher officials” and determined that the TTC transfer was not valid.
+
+5
+
+Nothing in the syllabus language suggests what specific process the instructor would follow to
+determine whether an absence was valid. Under these circumstances, the process that she followed
+(consulting with officials) seems reasonable.
+Did the Instructor Agree to Reallocate the Weight of the Midterm to the Final Exam?
+At one point (in December of 2013) the instructor is said to have told the Student Appellant she was
+waiting to see how well he performed on the final exam before she decided whether his absence on
+the day of the midterm was valid. [Exhibit G, Affidavit of Student Appellant]. This is incongruous
+with the policy written in the syllabus, which does not contemplate taking performance on other
+assignments into consideration. It is hard to conceive how the score on the final exam would
+logically weigh on the decision about the validity of the absence. The instructor may not have
+wanted the student to end up failing the course as a result of the missed midterm. However taken at
+face-value this comment is difficult for the Committee to reconcile with the system set forth in the
+course syllabus. The assertion that she made this point, however, does not constitute an agreement to
+reallocate the weight of the midterm to the final exam.
+In her decision dated January 30, 2015, Associate Dean Hood wrote, “While I understand that you
+might have had a verbal agreement with Professor Hadas to [use your June 2013 deferred final exam
+grade as the sole basis of the final grade], it is also the case that the professor has left the university
+and that there is no existing documentation to support your claim.” In fact, the Student Appellant has
+never asserted that the instructor orally agreed to move the weight of the midterm to the final exam
+mark. Rather, she told the student, in December, that she was waiting to see the results of his final
+before she decided. (Exhibit G, Affidavit of Student Appellant.) The December comment was not
+an oral agreement to calculate the Student Appellant’s mark exclusive of the missed midterm, and the
+only definitive answer the instructor ever gave on the question was contained in her March, 2014
+emails, in which she explained that the reason for the absence was not a valid one. The
+undocumented December, 2013 conversation is confusing because it invoked a new factor in the
+decision (performance on the final), but the ultimate decision was based on the language set forth in
+the syllabus, was the result of consultation with other U of T personnel, and was consistent with the
+Faculty of Arts and Science policy.
+The Student Appellant’s response to Associate Dean Hood’s assertion that there was no written
+agreement to re-allocate the midterm grade weight was to assert that the syllabus itself constituted a
+written agreement. He wrote, “I am unsure if you got the consent written by instructor which I put
+into Registrar’s mailbox in December….Namely the 3-page course syllabus PDF clearly states on
+last page that “there is no makeup test” and “if the test is missed for a valid reason, its weight will be
+shifted to the final exam.” He concludes with his interpretation of these sentences, “As course
+outline is instructor consent that test weight will be automatically shifted to exam for all students
+who missed test legitimately, there is no need for “any special arrangement.”
+The Student Appellant’s use of the word “automatically” is not supported by the language in the
+course syllabus. On the contrary, the course syllabus requires students asserting a valid absence to
+submit appropriate documentation within one week of the missed test. The last sentence begins with
+the word “if,” indicating that sometimes that documentation will be found to be valid, and other
+times it will not be. The Student Appellant’s oral and written follow up with Professor Moshonov
+indicate that he was aware the instructor would be making a decision regarding the validity of his
+reason for missing the midterm, and that there was nothing “automatic” about it.
+
+6
+
+Further, this argument suggests that it is not the instructor’s decision that determines whether an
+absence is legitimate, but someone else’s. The Student Appellant expressly asks Adrienne Hood to
+make that decision. [Exhibit I, email dated February 5, 2015.] As discussed above, this is not the
+arrangement set forth in the course syllabus, and it is not the arrangement relied upon by the Student
+Appellant from July of 2013 until February of 2015.
+What Constitutes a Course Conflict?
+The language in the Faculty of Arts and Science Course Timetable for the 2013-2014 academic year
+had specific language instructing students how to plan their schedules. It had an express policy on
+conflicting courses, which read:
+“ROSI does not check for course time conflicts, so plan your schedule carefully. Once you have
+decided which courses you are eligible to take, make sure that none of your choices are offered at
+conflicting times. You can find a weekly schedule worksheet here to help you create a conflict-free
+schedule. If you enrol in courses which conflict with one another, you do so at your own risk and
+you cannot expect special consideration from instructors as a result of the conflict.”
+The Student Appellant asks this Committee to read the language very narrowly, arguing that since
+the two courses in which he enrolled did not directly overlap, this policy should not apply. This
+Committee was not persuaded by that argument. Enrolling in a course that meets shortly after (on
+Tuesdays) and immediately after (on Thursdays) another course might work if the two courses are in
+the same building, or at least on the same campus. But to do that in two courses that are separated by
+thirty kilometers, and take 75 minutes to travel between creates as much a conflict as if they met at
+the same time. The student knew that he would be unable to attend both courses regularly. He
+acknowledged that it was necessary for him to choose which course to attend in his email to
+Professor Moshonov, “Please note I mostly went to your lecture at 10 am and thus did not often go to
+STAC62H3 at 8-9 am at U of T Scarborough.” With this comment, the student tacitly acknowledged
+the impossibility of attending both classes regularly.
+This Committee recognizes that there is a technical difference between classes that directly overlap
+and classes that do not overlap but that are located so far away from each other that the properties of
+time, space, and TTC travel make it either unlikely or impossible for a student to attend both.
+However we note that if the Faculty of Arts and Science does not accommodate one of those, it
+would not be reasonable to expect it to accommodate the other. The Student Appellant
+acknowledged, during the hearing, that the policy on Course Conflicts did not purport to set forth an
+inclusive list of all competing obligations that would not be given special consideration by
+instructors. The Committee concludes that a reasonable interpretation of the Course Conflict policy
+would include courses like the ones the Student Appellant chose. Even if it were not included in that
+policy, a regular travelling obligation that made it impossible for a student to attend a course on a
+consistent basis would not be one that we would expect instructors to accommodate.
+Narcissistic Personality Disorder
+The Student Appellant submitted extensive documentation on the disability of Narcissistic
+Personality Disorder. [Exhibits P (a definition of the term Narcissistic Personality Disorder from the
+Mood Disorders Association of Manitoba), Q (A letter from Accessibility Services dated January 18,
+2010 and a consultation form completed on 29 May, 2009, R (a psychiatric note dated July 6, 2009)
+
+7
+
+, and S (a set of Patient Encounter Notes dated May 27, 2011]. None of these documents relates to
+the period of time in question (The Fall term of 2012), and none of them includes recommendations
+about appropriate academic accommodations. This Committee cannot rely on the general or
+outdated documentation provided by the Student Appellant to account for or accommodate the
+student’s specific request. There is no documentation guiding this Committee on how that disability
+relates to the matter at hand. It may be the case that the Student Appellant has a disorder, but the
+medical documentation provided was neither definitive nor up-to-date.
+The student has offered no evidence, nor has he asserted, that he asked for any academic
+accommodations related to a disability before or during this course. Had the student been registered
+with the University’s Accessibility Services, and had some qualified conclusions been drawn
+regarding what academic accommodations might allow this student to thrive, this Committee would
+have been able to judge whether the Faculty of Arts and Science had adequately followed those
+instructions, and whether the application of its policies had been fair. But here the Student Appellant
+is asking the non-expert members of this Committee to fashion an academic accommodation to suit
+his needs. That is not our province.
+The accommodation of an increased grade three years after a course has closed would not be a valid
+remedy for the circumstances described by the Student Appellant. A disorder may have contributed
+to the Student Appellant’s unrealistic expectations about how he would travel between the courses on
+Tuesdays. But the Faculty of Arts and Science gave him extensive counseling on course selection.
+Certainly the language in the Academic Handbook, warning students not to select conflicting courses
+and bluntly stating that they should not expect special consideration if they did so was unequivocal.
+The Student Appellant did not accept that guidance. A post hoc grade increase would not be a
+legitimate accommodation under these circumstances. While the Committee is sympathetic to the
+Student Appellant’s situation, and can take no position on his condition, we are hopeful that with
+time he will learn to better manage his circumstances.
+The Student Appellant’s references to the fact that he is applying to graduate programs cannot be the
+basis for a change in his mark. The very request is problematic. For a faculty member to base a
+grade on any factor other than academic performance would constitute a violation of the
+University’s Code of Behaviour on Academic Matters [(B)(i)(2)(c)], which forbids faculty
+members, “(c) to evaluate academic work by a student by reference to any criterion that does not
+relate to its merit, to the time within which it is to be submitted or to the manner in which it is to
+be performed.” This Committee, which includes a faculty member, will not consider the fact that
+the student is applying to graduate programs as a factor in determining the appropriate mark for
+his course.
+Conclusion
+In his March 29, 2014 email to Professor Moshonov the Student Appellant acknowledged the
+difficulty of attending both classes due to the distance between the campuses. If he was naïve in
+disregarding the Faculty of Arts and Science’s advice on course conflicts when he made his course
+selections, he quickly learned that he would often need to choose which course to attend. His
+decision to prioritize attending a class to hand in a homework assignment that was weighted at 5% of
+his final mark, rather than a class in which a 25% midterm was being administered was a poor
+choice. The course syllabus and the Faculty of Arts and Science policy on course conflicts, when
+
+8
+
+read together, bring this Committee to the conclusion that his absence was reasonably found to be
+invalid, and there was no basis for moving the weight of his midterm exam to the final exam. These
+policies were applied fairly to the student. This Committee sympathises with the Student Appellant’s
+arguments about his personality disorder, but they were not adequately tied to the decisions he made,
+and were never translated into a viable academic accommodation. There is no evidence or
+suggestion that the Student Appellant asked for such an accommodation when this course was in
+process. His arguments about his pending applications to graduate school have no persuasive force.
+There is no basis for changing his final mark in STA 302, Methods of Data Analysis, from 70 to 80.
+The appeal is dismissed.
+
+9
+
+

@@ -1,0 +1,389 @@
+Case No. 1186
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on April 5, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+B E T W E E N:
+The UNIVERSITY OF TORONTO
+- and –
+N
+
+A
+
+REASONS FOR DECISION
+Hearing Date: June 21, 2021, via Zoom
+Members of the Panel:
+Mr. R.S.M. Woods, Chair
+Dr. Ian Crandall, Faculty Panel Member
+Ms. Madison Kerr, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+N A
+
+-2The Charge
+1.
+
+On April 5, 2021, the University of Toronto (the “University”) laid the following charges
+
+(the “Charges”) against N
+
+A
+
+(the “Student”) under the Code of Behaviour on Academic
+
+Matters, 1995 (the “Code”):
+1.
+
+On or about March 1, 2020, you knowingly represented as your own an idea
+
+or expression of an idea, and/or the work of another in a mid-term essay that you
+submitted for academic credit in PHS100H1S (20201) (“Course”), contrary to
+section B.I.1(d) of the Code.
+2.
+
+In the alternative to the above charge, you knowingly engaged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the mid-term essay that you
+submitted in the Course, contrary to section B.I.3(b) of the Code.
+The Hearing
+2.
+
+The Tribunal heard the Charges on June 21, 2021 by videoconference over Zoom due to
+
+the COVID-19 pandemic. The University was in attendance at the video hearing, but even after
+waiting 15 minutes the Student failed to appear.
+Ability to Proceed in the Student’s Absence
+3.
+
+As a result of the Student’s failure to attend the hearing, the Tribunal started the hearing
+
+by considering whether or not it could proceed in the Student’s absence.
+4.
+
+Mr. Centa, on behalf of the University, submitted that the University Tribunal Rules of
+
+Practice and Procedure (the “Rules”) entitled the Tribunal to proceed, since the Student had been
+provided with adequate notice of the hearing. In support of that position, Mr. Centa provided the
+Tribunal with an affidavit of Samanthe Huang affirmed on May 31, 2021, an affidavit of Andrew
+Wagg affirmed June 4, 2021, an affidavit of Kasha Visutskie affirmed June 11, 2021, and an
+affidavit of Sharon Hawley affirmed June 8, 2021.
+
+-35.
+
+Ms. Hawley is Mr. Centa’s assistant. Her affidavit included a letter dated April 5, 2021
+
+which Ms. Huang emailed to the Student at the Student’s email address in the Repository of
+Student Information (“ROSI”) providing the Student with a copy of the Charges and copied to Ms.
+Hawley. Ms. Hawley also affirmed that she had sent an email to the Student on behalf of Mr.
+Centa on April 21, 2021, providing the Student with an electronic link which the Student could
+access to obtain a copy of the University’s Disclosure Brief. The email was sent to the same email
+address as Ms. Huang’s letter.
+6.
+
+Ms. Huang is an Administrative Assistant in the Appeals, Discipline and Faculty
+
+Grievances group of the University’s Office of the Governing Council. She confirmed that on
+May 31, 2021, she had emailed a Notice of Electronic Hearing (the “Notice”) to the Student’s
+email address in ROSI. The Notice specified that the Charges would be heard on Monday, June
+21, 2021 at 5:15 p.m. EST, via Zoom and requested that the Student contact Ms. Huang to confirm
+their attendance at the hearing and their email contact information.
+7.
+
+Mr. Wagg is an Incident Report Architect at Information Security, Information Technology
+
+Services at the University. His evidence was that on June 3, 2021, at Mr. Centa’s request, he
+checked to determine the last time anyone had accessed the email account for the Student in ROSI.
+Mr. Wagg determined that the someone had accessed that account on November 17, 2020.
+8.
+
+Ms. Visutskie is an Academic Integrity Specialist with the Student Academic Integrity
+
+team at the Faculty of Arts and Science of the University. She stated that on September 16, 2020
+she had emailed the Student to inform them that the Department of Public Health Sciences had
+filed a report alleging that the Student had committed an academic offence under the Code and
+invited the Student to meet by video conference with the Dean’s Designate for an Academic
+Integrity meeting on September 24, 2020. Ms. Visutskie indicated that the Student did not
+responded to that email, nor to further emails of September 19, 2020, October 21, 2020, November
+19, 2020, December 2, 2020, and March 17, 2021.
+9.
+
+Under Rule 9(c) of the Rules, service of charges, notices of hearing and disclosure, amongst
+
+other things, may be served on a student by emailing a copy of the document to the student’s email
+address contained in ROSI. Based on the evidence before us, we were satisfied that the Student
+
+-4had received proper and adequate notice of the Charges and this hearing and therefore we could
+proceed with the hearing in the Student’s absence.
+10.
+
+While evidence that the Student had personally accessed the email account identified as
+
+the Student’s email account in ROSI after Ms. Huang sent out the Charges and the Notice would
+have established that the Student had had actual notice of the Charges and this hearing, the Rules
+do not require the University to establish actual notice. To the contrary, the Rules allow the
+University to provide students with documents by emailing them to the student at their email
+address in ROSI. Students are responsible for monitoring their account in ROSI. They fail to do
+so at their own risk.
+11.
+
+In this case, the Student was notified of the Charges on April 5, 2021 and of this hearing
+
+on May 31, 2021 by emails sent to her email account in ROSI. As such, under the Rules she had
+reasonable notice of both the Charges and this hearing. In all the circumstances of this case, three
+weeks is reasonable notice of the hearing under Rule 13 of the Rules. We were therefore entitled
+to proceed to hear and consider the University’s evidence in the Student’s absence under Rule 17
+of the Rules.
+Merits of the Charges
+Evidence and Submissions
+12.
+
+In support of its allegations against the Student, the University tendered an affidavit from
+
+Andrea Cortinois, an Assistant Professor in the University’s Dalla Lana School of Public Health.
+Professor Cortinois was also in attendance at the hearing. Professor Cortinois’ evidence was that
+in the Winter 2020 academic term he was the instructor for PHS100H1S – Grand Opportunities in
+Global Health (the “Course”).
+13.
+
+The syllabus for the Course included a section warning students that their written work
+
+would be scanned for plagiarism using Turnitin.com and included links to academic integrity
+resources that contained information on how to avoid plagiarism and how to cite sources in written
+work properly.
+
+-514.
+
+One of the assignments was a mid-term essay worth 20% of the final grade for the Course.
+
+The essay required students to write 1,500 words exploring a topic of their choice from those
+discussed during the first half of the Course.
+15.
+
+On March 1, 2020, the Student submitted their mid-term essay (the “Essay”) which was
+
+entitled “Effects of urbanization process on mental health”. When Turnitin.com reviewed the
+Essay, it discovered that it contained numerous verbatim and nearly verbatim passages from a
+variety of sources, none of which were cited. In particular, much of the Essay appeared to have
+been copied verbatim from an article entitled “Impacts of urbanization process on mental health”
+(the “Turan/Besirli Article”) by Dr. M. Tayfun Turan and Dr. Ash Besirli published in the
+Anatolian Journal of Psychiatry in 2008.
+16.
+
+Professor Cortinois met with the Student on March 13, 2020. Following that meeting,
+
+Professor Cortinois referred the case to the Student’s division for suspected plagiarism and told
+the Student, that pending resolution of the case the Student was not allowed to drop the Course.
+Notwithstanding that advice, the Student did drop the Course.
+17.
+
+Counsel for the University submitted that in submitting the Essay the Student had
+
+knowingly represented as their own an idea or expression of an idea, and/or the work of another
+and therefore was guilty of the first charge. . Were we not to find the Student guilty of the first
+charge, then we should find them guilty of the second charge of knowingly engaging in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise described
+in the Code in order to obtain academic credit. Counsel for the University further advised that if
+the Tribunal returned a finding of guilt on the first charge, the University would withdraw the
+alternative second charge, and therefore we would not need to consider that charge.
+Decision on the Merits
+18.
+
+The University has the burden of establishing on the balance of probabilities using clear
+
+and convincing evidence that the Student committed the academic offence with which he or she
+has been charged. In this case, and only dealing with the first of the two charges, that requires the
+University to establish that the Student knowingly represented as their own an idea or expression
+of an idea, and/or the work of another.
+
+-619.
+
+Based on the evidence before us, we are satisfied that the University has discharged its
+
+burden. Comparing the Essay to the Turan/Besirli Article, four of the eight paragraphs in the Essay
+are taken verbatim or near verbatim from the Turan/Besirli Article. Of those four paragraphs, the
+introduction is little more than the Turan/Besirli Article’s abstract, while the third to fifth
+paragraphs in the Essay are taken almost word for word from the Turan/Besirli Article. The Essay
+contains no reference to the Turan Besirli Article.
+20.
+
+Such a large-scale incorporation of another’s work cannot be accidental. We find that the
+
+Student knowingly represented as their own the ideas and expressions of ideas in the Turan/Besirli
+Article and is therefore guilty of the first charge. Having made that finding, we need not consider
+the second of the Charges.
+Sanction
+Evidence and Submissions
+21.
+
+Dealing with sanction, the University submitted a further affidavit from Ms. Visutskie, also
+
+affirmed June 11, 2021. In this second affidavit, Ms. Visutskie stated that based on the Discipline
+Case Reports of students who have committed offences under the Code, on November 15, 2019,
+the Student had committed an act of plagiarism in connection with an assignment submitted in
+BIO120H1F. The case report indicates that the Student had submitted an assignment that was
+largely based on a published paper not properly cited, and that many sentences were not properly
+paraphrased. The report indicated that the Department of Biology had resolved the case on
+November 29, 2019, by giving the Student a grade of zero for the assignment.
+22.
+
+Counsel for the University asked us to impose a final grade of zero in the Course, a three-
+
+year suspension from the University from the date of the order, and a notation of the sanction on
+the Student’s academic record and transcript for a period of four years from the date of the order.
+Counsel submitted that such a sanction was within the typical range of sanction granted for a
+second plagiarism offence in circumstances such as the ones before the Tribunal.
+Decision
+
+-723.
+
+Sitting as a member of the Appellate Division of this Tribunal some 46 years ago, in
+
+University of Toronto v Mr. C. (Case No. 1976/1977-3, November 5, 1976) at para 12 former
+Supreme Court of Canada Justice Sopinka set out the principles and factors to be considered when
+imposing sanctions on students guilty of academic offences:
+What then are the principles that this Tribunal should follow in dealing with an appeal from
+sentence? First, in my opinion, punishment is not intended to be retribution to get even, as
+it were, with the student for what he has done. It must serve a useful function. The classical
+components of enlightened punishment are reformation, deterrence, and protection of the
+public. In applying these criteria, a tribunal should consider all of the following:
+
+24.
+
+(a)
+
+the character of the person charged;
+
+(b)
+
+the likelihood of a repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the
+offence;
+
+(e)
+
+the detriment to the University occasioned by the offence;
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+Considering each of the above factors, the sanction the University seeks is appropriate. In
+
+particular:
+(a)
+
+Character: because the Student chose not to attend the hearing, we have no evidence before
+of us of the Student’s character, although we note that the Student committed a similar
+offence just a few months before the one before us;
+
+(b)
+
+Likelihood of Repetition: given the evidence about the Student’s prior offence, there is a
+real risk of the same offence being repeated absent a significant sanction;
+
+(c)
+
+Nature of Offence: plagiarism is a very serious offence.
+
+It strikes at heart of the
+
+University’s core values of honesty and integrity. It has the potential to affect other
+students adversely by allowing cheaters to obtain grades higher than they actually merit by
+presenting the work of others as their own. It harms the reputation of the University as a
+whole. The Code itself makes all this very clear. As such, those who plagiarise the works
+of others merit serious sanctions;
+
+-8(d)
+
+Extenuating Circumstances: there is no evidence of any extenuating circumstances in this
+case;
+
+(e)
+
+Detriment to the University: as noted above, plagiarism strikes at the heart of the
+University’s core values of honesty and integrity. It cannot be tolerated;
+
+(f)
+
+Deterrence: to discourage others from committing similar offences, plagiarism merits
+serious sanctions.
+
+25.
+
+The range of sanctions proposed by the University is within the typical range of sanctions
+
+given to students found guilty of a second plagiarism offence. In such cases, the Tribunal usually
+makes an order that the student receive a final grade of zero in the course in which the student
+handed in the plagiarised material, a three-year suspension and a four-year notation on the
+student’s academic record. Such an order prevents the student from benefiting from their actions
+and removes them from the institution for a significant period of time, while at the same time
+allowing them the possibility of eventually returning to the University rather than preventing them
+from ever doing so. As such, it limits the possibility of repetition and deters both the individual
+offender and others from similar conduct, while at the same time allowing offenders the chance to
+do things differently in the future.
+26.
+
+Among cases in which the Tribunal has imposed a similar sanction are University of
+
+Toronto v Y.Y. (January 13, 2021, Case No. 1055) where, like here, the plagiarising student did not
+participate in the hearing and had a prior record of academic offences, the second of which he had
+received only months committing the offence before the Tribunal. Others include University of
+Toronto v W.L.J. (January 19, 2016, Case No. 815) and University of Toronto v. R.W. (May 17,
+2017, Case No. 896); University of Toronto v B.S. (January 17, 2014, Case No. 697 (Sanctions))
+
+-9Order
+27.
+
+For the reasons set out above, the Tribunal therefore orders that:
+(a)
+
+the hearing may proceed in the Student’s absence;
+
+(b)
+
+the Student be found guilty of one count of the academic offence of plagiarism
+contrary to section B.I.1(d) of the Code;
+
+(c)
+
+the Student be given a final grade of zero in the Course;
+
+(d)
+
+the Student be suspended from the University for a period of three years from the
+date of the Tribunal’s order;
+
+(e)
+
+the sanction be noted on the Student’s academic record and transcript for a period
+of four years from the date of this order;
+
+(f)
+
+the case be reported to the Provost for publication of a notice of the Tribunal’s
+decision and the sanctions imposed, with the Student’s name withheld.
+
+Dated: September 21, 2021
+
+Original signed by:
+_____________________________
+Mr. Seumas Woods, Chair
+On behalf of the Panel
+
+

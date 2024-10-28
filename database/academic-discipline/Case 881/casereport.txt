@@ -1,0 +1,638 @@
+Case No.: 881
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty filed on July 28, 2016,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1 971,
+
+S.O. 1971 , c. 56 as
+
+amended S.O. 1978, c. 88
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+
+-
+
+AND
+
+-
+
+�K
+
+REASONS FOR DECISION
+
+He�ring Date:
+
+March 21, 2017
+
+Members of the Panel:
+
+Mr. Michael Hines, Barrister and Solicitor, Chair
+Dr. Joel Kirsh, Faculty Panel Member, Faculty of Medicine
+Ms. Yusra Qazi, Student Panel Member
+Appearances:
+
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Barristers
+Ms. Tina Saban, Law Student for the Student, Downtown Legal Services
+In Attendance:
+
+Mr. A
+K
+, Student
+Ms. Lucy Gaspini, Manager Academic Integrity, Office of the Dean, University of
+Toronto - Mississauga
+Mr. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+Mr. Sean Lourim, IT Assistant, Office of the Governing Council
+
+-
+
+2
+
+-
+
+The Facts
+
+1.
+
+This hearing arose out of charges of academic misconduct dated July 28, 2016
+
+("Charges") filed by the Provost of the University of Toronto (the "Provost") under the
+Code of Behaviour on Academic Matters ("Code"). For the purposes of this hearing the
+
+Provost, and A
+
+K
+
+("Mr. K
+
+") prepared an Agreed Statement of Facts ("ASF")
+
+and a joint book of documents ("JBD").
+2.
+
+Mr. K
+
+confirmed that he signed the ASF freely and voluntarily, knowing of the
+
+potential consequences he faced.
+3.
+
+Mr. K
+
+also acknowledged that he had received reasonable notice of this
+
+hearing. The Notice of Hearing for March 21, 2017 set out the Charges. They read as
+follows:
+1.
+On or about March 31, 2015, you . knowingly submitted, without the
+knowledge and approval of the instructor to whom it was submitted, an
+assignment in CSC108H5 for which credit had previously been obtained,
+contrary to section B.1.1(e) of the Code.
+2.
+In the alternative, on or about March 31, 2015, you knowingly obtained
+unauthorized assistance in connection with an assignment that you submitted in
+CSC108H5, contrary to section B.1.1(b) of the Code.
+3.
+In the further alternative, on or about March 31 , 2015, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain an
+academic advantage in connection with an assignment that you submitted in
+CSC108H5, contrary to section B.l.3(b) of the Code.
+4.
+On or about December 12, 2015, you knowingly used or possessed an
+unauthorized aid, or obtained unauthorized assistance, in the final examination in
+CSC108H5, contrary to section B.1.1(b) of the Code.
+5.
+In the alternative, on or about December 12, 2015, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain an
+
+-
+
+3
+
+-
+
+academic advantage in connection with the final examination in CSC108H5,
+contrary to section B. l.3(b) of the Code.
+4.
+
+As stated above, the parties provided the Panel with an Agreed Statement of
+
+Facts ("ASF") concerning the charges. Significantly, the ASF included a plea of guilty.
+The ASF reads as follows:
+
+Guilty plea
+
+1.
+
+Mr. K
+admits that he received a copy of the charges filed by the
+Provost. A copy of the charges is included in the JBD at Tab 1.
+
+2.
+
+Mr. K
+admits that he received a copy of the notice of hearing in this
+matter and that he has received reasonable notice of this hearing. A copy
+of the notice of hearing is included in the JBD at Tab 2.
+
+3.
+
+Mr. K
+waives the reading of the charges filed against him, and pleads
+guilty to charges #2 and #4.
+
+4.
+
+The Provost agrees that if the Tribunal convicts Mr. K
+of charges #2
+and #4, the Provost will withdraw charges #1 , #3 and #5.
+
+5.
+
+At all material times, Mr. K
+was a registered student at the University of
+Toronto Mississauga. A copy of Mr. K
+'s academic record, as of March
+14, 2017, is included in the JBD at Tab 3.
+
+CSC108H5 in Fall 2014: Assignment 3 (Previously Resolved)
+
+6.
+
+In Fall 2014, Mr. K
+enrolled in CSC1 08H5 (Introduction to Computer
+Programming), which was taught by Professor Daniel Zingaro, Andrew
+Petersen and Tiffany Tong. A copy of the course syllabus for the course in
+Fall 201 4 is included in the JBD at Tab 4.
+
+7.
+
+Students in the course were required to submit Assignment ·3, which was
+worth 9% of their final grade, by November 25, 201 4. A copy of the
+instructions for Assignment 3 in Fall 201 4 is included in the JBD at Tab 5.
+
+8.
+
+Mr. K
+submitted four files in the course in Fall 2014 as part of
+Assignment 3: poetry_functions, poetry_reader, test_check_syllables, and
+test_count_lines. A copy of the code that he submitted for Assignment 3 in
+Fall 201 4 is included in the JBD at Tab 6.
+
+9.
+
+Mr. K
+subsequently admitted that he had committed the offence of
+unauthorized assistance in connection with his Assignment 3 in Fall 201 4,
+and was sanctioned in respect of the offence.
+
+-
+
+4
+
+-
+
+CSC108H5 in Winter 2015: Assignment 3
+
+1 0.
+
+In Winter 201 5, Mr. K
+enrolled in CSC1 08H5 (Introduction to Computer
+Programming) again. The course was taught by Professor Zingaro in
+Winter 201 5. A copy of the course syllabus for the course in Winter 201 5
+is included in the JBD at Tab 7.
+
+11.
+
+Students in the course were required to submit Assignment 3, which was
+worth 9% of their final grade, by March 31 , 201 5. A copy of the
+instructions for Assignment 3 in Winter 201 5 is included in the JBD at Tab
+8. The instructions for Assignment 3 in Winter 201 5 were similar in certain
+respects to Assignment 3 in Fall 201 4.
+
+1 2.
+
+On or about March 31 , 201 5, Mr. K
+submitted four files in the course in
+Winter 201 5 as part of Assignment 3: poetry_functions, poetry_reader,
+test_check_vowel_phoneme_counts, and test_count_vowel_phonemes. A
+copy of the code that he submitted for Assignment 3 in Winter 201 5 is
+included in the JBD at Tab 9.
+
+1 3.
+
+On review, Professor Zingaro determined that the code that Mr. K
+had
+submitted for Assignment 3 in Winter 201 5 (at Tab 9) contained code that
+was the same or substantially similar to code that Mr. K
+had previously
+submitted for Assignment 3 in Fall 201 4 (at Tab 6). Copies of the code
+that Mr. K
+submitted in Fall 201 4 and Winter 201 5, which have been
+highlighted to show the similarities between the two, are included in the
+JBD at Tabs 10 and 11, respectively.
+
+1 4.
+
+Professor Zingaro observed that the differences between the code that Mr.
+K
+submitted in Fall 201 4 and Winter 201 5 were minor in nature (e.g.,
+changes in the variables used) or arose from the differences in the
+assignments. Professor Zingaro had previously advised students in the
+Winter 201 5 course that if they wished to use code that they had written in
+the past, they were required to include citations to their previous code in
+their assignment. Mr. K
+'s Assignment 3 in Winter 201 5 did not contain
+any citations.
+
+1 5.
+
+On April 30, 201 6, Mr. K
+met with Professor Zingaro to discuss the
+allegation of academic misconduct.
+
+CSC108H5 in Fall 2015: Final Examination
+
+1 6.
+
+In. Fall 201 5, Mr. K
+enrolled in CSC1 08H5 (Introduction to Computer
+Programming) again. The course was taught by Tiffany Tong. A copy of
+the course syllabus for the course in Fall 201 5 is included in the JBD at
+Tab 12.
+
+-5-
+
+17.
+
+On December 12, 2015, starting at 1 :00 pm, Mr. K
+wrote the final
+examination in the Course. The final examination was worth 45% of Mr.
+K
+'s final grade in the Course.
+
+18.
+
+Students were not permitted to have any aids in the final examination.
+Students were specifically advised by the exam invigilators that their cell
+phones should be kept either in their backpacks or in clear plastic bags
+that were provided to them.
+
+19.
+
+A copy of Mr. K
+'s examination paper is included in the JBD at Tab 13.
+The front of the examination paper included the following warning to
+students:
+The University of Toronto Mississauga and you, as a student,
+share a commitment to academic integrity. You are reminded
+that you may be charged with an academic offence for
+possessing any unauthorized aids during the writing of an exam.
+Clear, sealable, plastic bags have been provided for all electronic
+devices with storage, including but not limited to: cell phones,
+SMART devices, tablets, laptops, calculators, and MP3 players.
+Please turn off all devices, seal them in the bag provided and
+place the bag under your desk for the duration of the
+examination. You will not be able to touch the bag or its contents
+until the exam is over.
+If, during an exam, any of these items are found on your person
+or in the area of your desk other than in the clear, sealable,
+plastic bag, you may be charged with an academic offence. A
+typical penalty for an academic offence may cause you to fail the
+course.
+
+20.
+
+21.
+
+22.
+
+During the examination, Mr. K
+signed out to use the washroom at 1 :54
+pm. He signed back into the examination room at 2:01 pm. A copy of the
+form that Mr. K
+signed, which recorded his washroom break, is
+included in the JBD at Tab14.
+.
+
+When Mr. K
+signed out to use the washroom, he was accompanied by
+one of the Chief Presiding Officers of the examination, Edward Ho. While
+Mr. K
+was in the washroom, Mr. Ho noticed that Mr. K
+was taking a
+longer than usual amount of time, and asked if he was alright. Mr. K
+responded that he was.
+When Mr. K
+returned to the examination room, Mr. Ho asked Mr. K
+to empty his pockets. Mr. K
+produced a wallet from his left jean pocket
+but did not immediately produce his cell phone, which was in his right jean
+pocket. Mr. Ho saw the cell phone and asked Mr. K
+to produce it,
+which he did. The cell phone was off at the time.
+
+-
+
+6
+
+-
+
+23.
+
+Mr. Ho completed an examination anomaly report setting out what had
+happened. Mr. Ho asked Mr. K
+to review the report and let him know if
+Mr. K
+disagreed with what was stated in the report. Mr. K
+did not
+disagree with the contents and signed the report. A copy of the
+examination anomaly report completed by Mr. Ho and signed by Mr. K
+is included in the JBD at Tab 15.
+
+24.
+
+Following the examination, Mr. K
+signed a Possession of an
+Unauthorized Aid During a Final Exam form before the cell phone was
+returned to him. A copy of the signed form is included in the JBD at Tab
+16.
+
+Dean's Designate Meeting
+
+25.
+
+On March 29, 2016, Mr. K
+met with Professor Michael Georges,
+Dean's Designate for Academic Offences. Mr. K
+acknowledges that
+Professor Georges gave him the warning that was required to be given
+under the Code.
+
+26.
+
+Mr. K
+was represented by a law student from Downtown Legal
+Services at the meeting. During the meeting:
+
+(a)
+
+Mr. K
+denied that he had committed an academic offence in
+connection with Assignment 3 in the course in Winter 2015.
+
+(b)
+
+Mr. K
+'s representative advised Professor Georges that Mr. K
+was
+not prepared to accept responsibility for the offence of using or possessing
+an unauthorized aid under section B.1.1 (b) of the Code and that Mr. K
+was not prepared to enter any plea in respect of the alleged offence.
+
+27.
+
+A copy of the Admission of Guilt forms signed by Mr. K
+, indicating that
+he was pleading "not guilty" to the alleged offence in Assignment 3 in the
+course in Winter 2015 and that he was making "no plea" in respect of the
+final examination in the course in Fall 2015 is included in the JBD at Tab
+17.
+
+Admissions and Acknowledgements
+
+28.
+
+Mr. K
+admits that, by incorporating portions of his code (for which he
+had obtained unauthorized assistance) in Fall 2014 in the code that he
+submitted for Assignment 3 in the course in Winter 2015, he knowingly
+obtained unauthorized assistance in connection with Assignment 3 in the
+course in Winter 2015, contrary to section 8.1.1 (b) of the Code.
+
+29.
+
+Mr. K
+admits that he knowingly possessed his cell phone during the
+final examination in the Course and that his cell phone was an
+unauthorized aid under the Code. Accordingly, Mr. K
+admits that he
+
+-
+
+7
+
+-
+
+knowingly used or possessed an unauthorized aid in connection with the
+final examination in the Course, contrary to section B.l.1 (b) of the Code.
+30.
+
+Mr. K
+
+(a)
+
+the Provost has advised Mr. K
+he has done so; and
+
+(b)
+
+he is signing this ASF freely and voluntarily, knowing of the potential
+consequences he faces.
+
+acknowledges that:
+of his right to obtain legal counsel, and
+
+Finding of Guilt
+
+5.
+
+As noted in the ASF, Mr. K
+
+waived the reading of the Charges and pied guilty
+
+to Charges 2 and 4. The Tribunal accepted this plea and registered a finding of guilt on
+Charges 2 and 4. On that basis, the Provost withdrew Charges 1 , 3 and 5.
+Penalty
+
+6. The parties also provided the Tribunal with an Agreed Statement of Fact on Penalty.
+Through this, the Tribunal learned that Mr. K
+
+had, in December, 201 4, been
+
+disciplined on a prior occasion, again for the offence of obtaining unauthorized
+assistance.
+
+On that occasion, Mr. K
+
+had admitted his guilt and had been assessed
+
+a mark of zero in the course in question. In concluding her December 3, 2014 letter of
+discipline, Professor Karshon, Chair of the Department of Mathematical and
+Computational Sciences stated:
+Finally, you should be aware that any subsequent
+allegations of academic misconduct are usually referred to
+the Office of the Dean or the Tribunal for investigation.
+7.
+
+The parties then made a joint submission on penalty. Specifically, the Provost and
+
+Mr. K
+
+submitted that the appropriate penalty in all the circumstances of the case was
+
+that the University Tribunal impose the following sanctions on Mr. K
+(a)
+
+:
+
+a final grade of zero in the course CSC1 08H5 in Winter 201 5;
+
+-
+
+8
+
+-
+
+(b)
+
+a final grade of zero in the course CSC108H5 in Fall 2015;
+
+(c)
+
+a suspension from the University of Toronto for three years to commence
+May 1, 2017, and to end April 30, 2020;
+
+(d)
+
+a notation of the sanction on his academic record and transcript from the
+date of the Order until April 30, 2021.
+
+8. The Parties further submitted that it would be appropriate for the Tribunal to report
+this case to the Provost for publication of a notice of the decision of the Tribunal and the
+sanctions imposed in the University of Toronto newspapers, with the name of the
+student withheld.
+9. As stated in, for example, the case of S. M_. (Case No 819, June 8, 2016), a joint
+submission on penalty should only be rejected in circumstances where to give it effect
+would be contrary to the public interest or would bring the administration of justice into
+disrepute.
+
+In considering a joint submission on penalty, it is not the function of the
+
+Panel to determine whether or not it agrees with the proposed sanction in the sense of
+accepting that it would, itself, have imposed that sanction had the matter been left to it
+to decide on its own. Rather, its task is to determine whether the outcome falls within a
+range of reasonable outcomes, recognizing the institutional value, efficiency and
+importance of outcomes that are achieved through such joint submissions.
+10. In this case, the Panel accepted without difficulty the reasonableness of the
+sanctions set out in paragraphs 5(a), 5(b), 5(c) and 6, above. It struggled, however,
+with the proposal set out in paragraph 5(d) - the imposition of a notation of the sanction
+on Mr. K
+
+'s academic record and transcript from the date of the Order only until April
+
+30, 2021.
+
+The Panel debated the sufficiency of this sanction as compared to the
+
+imposition of a notation until his graduation from the University.
+11. This concern was raised in our minds particularly in connection with the guidance
+provided in the Tribunal's cases regarding the need to consider the likelihood of
+recurrence in determining the appropriate (or, in our case, a reasonable) sanction.
+
+-
+
+Given Mr. K
+
+9
+
+-
+
+'s disregard of the warning he received from the Provost in the letter of
+
+December 3, 201 4, we were concerned that the disappearance from his transcript of the
+penalties for which we are responsible would constitute something of an invitation to
+engage in further academic misconduct, particularly given the length of time it will take
+Mr. K
+
+to complete his degree should he decide to re-enrol at the University after his
+
+suspension comes to an end.
+12. Ultimately, however, we have concluded that this concern is not sufficient to
+overcome our obligation to respect the institutional value in accepting joint submissions.
+In this regard, we bear in mind that if Mr. K
+
+chooses not to return to the University or
+
+does not graduate, a notation until graduation would effectively become a permanent
+academic scar.
+
+While such permanent records of misconduct are certainly not
+
+unprecedented, they are typically reserved for situations more egregious than the one
+that presently confronts us.
+13. Accordingly, based upon the foregoing, and after hearing submissions by the
+parties, the Tribunal concluded that the sanction proposed by the parties fell within a
+reasonable range of sanctions for the offences committed. Accordingly, the Tribunal
+hereby orders:
+1. THAT Mr. K
+(a)
+
+is guilty of the academic offences of:
+
+Knowingly obtaining unauthorized assistance in connection with an
+assignment contrary-to section 8.1(1 )(b} of the Code of Behaviour
+on Academic Matters;
+
+(b)
+
+and
+
+Knowingly using or possessing an unauthorized aid in an
+examination cqntrary to section 8.1.1(b) of the Code of Behaviour
+on Academic Matters.
+
+2.
+
+THAT the following sanctions shall be imposed on Mr. K
+
+:
+
+- 10 -
+
+(a)
+
+a final grade of zero in the course CSC108H5 in Winter 2015;
+
+(b)
+
+a final grade of zero in the course CSC108H5 in Fall 2015;
+
+(c)
+
+a suspension from the University of Toronto for three years to
+commence May 1, 2017, and to end April 30, 2020;
+
+(d)
+
+a notation of the sanction on his academic record and transcript
+from the date of the Decision until April 30, 2021.
+
+3. THAT this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanction or sanctions imposed in the
+University newspapers, with the name of the student withheld.
+
+�
+
+Dated at Toronto, this JD
+
+Michael Hines, Chair
+
+ay of May, 2017.
+
+

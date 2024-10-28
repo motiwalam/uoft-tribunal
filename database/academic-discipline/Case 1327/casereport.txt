@@ -1,0 +1,1850 @@
+Case No: 1327
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on January 19, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND S
+
+K
+
+REASONS FOR DECISION
+
+Hearing Date: October 26, 2022, via Zoom
+Panel Members:
+Mr. Christopher Wirth, Chair
+Professor Michael Saini, Faculty Panel Member
+Mr. Ben Kitching, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer & Hearing Secretary, Office of Appeals, Discipline
+and Faulty Grievances
+Not in Attendance:
+
+A Panel of the Trial Division of the University Tribunal was convened on October 26,
+2022, by videoconference to consider charges brought by the University of Toronto (the
+“University”) against S
+
+K
+
+(the “Student”) under the University’s Code of
+
+Behaviour on Academic Matters, 2019 (the “Code”).
+Preliminary Issue: Proceeding in the Absence of the Student
+The hearing was scheduled to begin at 9:45 a.m. At that time, neither the Student, nor
+anyone on the Student’s behalf, were logged onto the Zoom link. The Panel adjourned the
+hearing until 10:02 a.m. to allow time for the Student to attend it. At that time, the Student
+was still not present and the University then requested that the Panel proceed with the
+hearing in the Student’s absence.
+Pursuant to Rule 16 of the University Tribunal’s Rules of Practice and Procedure
+(“Rules”), a notice of an electronic hearing must include the date, time, place and purpose
+of the hearing; a reference to the statutory authority under which the hearing will be held;
+information about the manner in which the hearing will be held; and a statement that if a
+person does not attend the hearing, the Panel may proceed in the person’s absence. Rule
+17 provides that where notice of an electronic hearing has been given to a person and that
+person does not attend the hearing, the Panel may proceed with the hearing in the party’s
+absence. The Rules conform to sections 6 and 7 of the Statutory Powers Procedure Act
+(the “SPPA”), which set out the notice requirements.
+Pursuant to Rule 9, a notice of hearing may be served on a student by various means,
+including by emailing a copy of the document to the student’s email address contained in
+the University’s Repository of Student Information (“ROSI”).
+The University’s Policy on Official Correspondence with Students dated September 1,
+2006, expressly states that students are responsible for maintaining on ROSI a current and
+valid mailing address and University-issued email account, and that “[f]ailure to do so may
+result in a student missing important information and will not be considered an acceptable
+rationale for failing to receive official correspondence from the University.” Students are
+expected to monitor and retrieve their email on a frequent and consistent basis. Students
+
+2
+
+have the right to forward their University issued email account to another email account,
+but remain responsible for ensuring that all University email communications are received
+and read.
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+In this case, the University provided evidence relevant to service by way of the evidence
+of two witnesses: Andrew Wagg (“Mr. Wagg”), a Manager, Incident Response at
+Information Security, Information Technology Services at the University and Kimberly
+Blake (“Ms. Blake”), a Legal Assistant at the law firm of Paliare Roland Rosenberg
+Rothstein LLP. These two witnesses provided their evidence by affidavit, which were
+accepted by the Panel pursuant to rule 61 of the Rules.
+The contents of the affidavits (without Exhibits) of these two witnesses are set out below:
+a) Evidence of Mr. Wagg
+Mr. Wagg’s affidavit provides as follows:
+1.
+
+I am a Manager, Incident Response at Information Security, Information
+Technology Services at the University of Toronto. As such, I have knowledge of
+the matters contained in this affidavit. Where I do not have direct knowledge of a
+matter contained in this affidavit, I state the source of my knowledge and I believe
+it to be true.
+
+2.
+
+Information Technology Services provides many services to the University of
+Toronto, including management of the email accounts used by students. To access
+an email account one needs to input both the user’s login id and the password for
+that account. The Microsoft 365 Exchange portal automatically records the last time
+someone accessed a particular university-issued email account.
+
+3.
+
+On October 12, 2022, at the request of Tina Lie, the Assistant Discipline Counsel
+for the University of Toronto, I checked the portal records to determine the last time
+someone accessed the email account
+
+3
+
+@mail.utoronto.ca. I determined
+
+that the last time someone accessed this e-mail account was on October 6, 2022 at
+2:10 am, local Toronto time.
+b) Evidence of Ms. Blake
+Ms. Blake’s affidavit provides as follows:
+1.
+
+I am a legal assistant at the law firm Paliare Roland Rosenberg Rothstein LLP. I
+work with Tina Lie, a partner at Paliare Roland, who acts as Assistant Discipline
+Counsel to the University of Toronto. As such, I have knowledge of the matters
+contained in this affidavit. Where I do not have direct knowledge of a matter
+contained in this affidavit, I state the source of my knowledge and I believe it to be
+true.
+
+A.
+
+Contact Information
+
+2.
+
+On October 13, 2022, the Academic Integrity Unit (“AIU”), Office of the Dean at
+the University of Toronto Mississauga (“UTM”) provided my office with a copy of
+the current contact information for S
+
+K
+
+(the “Student”) in the University’s
+
+Repository of Student Information (“ROSI”). The Student’s contact information in
+ROSI record is as follows:
+
+3.
+
+(a)
+
+Email address:
+
+@mail.utoronto.ca
+
+(b)
+
+Mailing address:
+
+(c)
+
+Permanent address:
+
+(d)
+
+Phone number:
+
+(e)
+
+International phone number:
+
+I have attached a copy of the Student’s contact information to my affidavit as
+Exhibit A.
+
+4
+
+4.
+
+I have attached a copy of the Student’s academic record, as of October 12, 2022 to
+my affidavit as Exhibit B.
+
+B.
+
+University of Toronto’s correspondence with the student
+
+5.
+
+The file that my office received from UTM indicates that the AIU contacted the
+Student by email at
+
+@mail.utoronto.ca in February 2021 regarding the
+
+allegations of academic misconduct in issue in this case and that the Student met
+with the Dean’s Designate for Academic Integrity on March 17, 2021. I have
+attached a copy of the emails that were exchanged with the Student in February and
+March 2021 to my affidavit as Exhibit C.
+6.
+
+The file also indicates that after the March 17, 2021 meeting, the AIU contacted the
+Student by email to arrange another meeting with the Dean’s Designate which
+occurred on March 24, 2021. I have attached a copy of the emails that were
+exchanged with the Student in March 2021 to my affidavit as Exhibit D.
+
+7.
+
+The file further indicates that the AIU again contacted the Student by email on June
+10, 2021 asking if she wished to change her plea.
+
+responded by email
+
+stating that she wished to maintain her plea of not guilty and asking about retaining
+legal counsel. A copy of this email thread is attached to my affidavit as Exhibit E.
+C.
+
+Charges and disclosure
+
+1.
+
+On January 19, 2022, the Office of the Vice-Provost, Faculty and Academic Life
+served
+
+the
+
+charges
+
+in
+
+this
+
+matter
+
+on
+
+the
+
+Student
+
+by
+
+email
+
+to
+
+@mail.utoronto.ca. I have attached a copy of the email and charges
+(on which I was copied) to my affidavit as Exhibit F.
+2.
+
+Also on January 19, 2022, the Office of Appeals, Discipline and Faculty Grievances
+(the “ADFG Office”) sent a letter to the Student at
+
+@mail.utoronto.ca,
+
+in respect of the Charges. The letter explained the Tribunal process and encouraged
+to speak to a legal representative and provided contact information for
+Downtown Legal Services (“DLS”). Attached with this letter was a copy of the
+
+5
+
+Charges, the Code of Behaviour on Academic Matters, the University Tribunal
+Rules of Practice and Procedure, and a pamphlet for DLS. A copy of the email and
+letter from the ADFG Office is attached to my affidavit as Exhibit G.
+3.
+
+On February 7, 2022, Ms. Lie sent the Student an email to introduce herself. Ms.
+Lie advised that important documents and correspondence would be sent to the
+Student’s mail.utoronto.ca email address. I have attached a copy of Ms. Lie’s email
+(on which I was copied) to my affidavit as Exhibit H.
+
+4.
+
+Ms. Lie has advised me that on March 2, 2022, she had a call with the Student. As
+a result, she emailed the Student that same day with the name of a few lawyers with
+experience representing students in academic discipline matters. I have attached a
+copy of Ms. Lie’s email (on which I was copied) to my affidavit as Exhibit I.
+
+5.
+
+On April 4, 2022, Ms. Lie emailed the Student a disclosure letter, a disclosure brief,
+and a copy of the University’s Policy on Official Correspondence with Students. I
+have attached a copy of the email (on which I was copied) and the disclosure letter
+to my affidavit as Exhibit J.
+
+D.
+
+Hearing
+
+6.
+
+On August 3, 2022, Ms. Lie emailed the Student about scheduling a hearing date.
+Ms. Lie advised that if she did not hear back by August 10, 2022 she would request
+that a hearing date be scheduled. I have attached a copy of this email (on which I
+was copied) to my affidavit as Exhibit K.
+
+7.
+
+did not respond. On August 16, 2022, Ms. Lie emailed the Student
+advising that she would request a hearing be scheduled for October 26, 2022 at 9:45
+am. A copy of this email is included in the email thread at Exhibit K.
+
+8.
+
+On August 16, 2022, Ms. Lie emailed the ADFG Office to request that a hearing
+be scheduled for October 26, 2022 at 9:45 am. The Student was copied on this
+email. I have attached a copy of this email (on which I was copied) to my affidavit
+as Exhibit L.
+
+6
+
+9.
+
+On August 17, 2022, the ADFG Office issued a Notice of Electronic Hearing to
+take place via zoom on October 26, 2022. The ADFG Office sent the notice to the
+Student at
+
+@mail.utoronto.ca. A copy of this email is included in the
+
+email thread at Exhibit L.
+10.
+
+On September 27, 2022, the ADFG Office issued a Revised Notice of Electronic
+Hearing and sent a copy to the Student at
+
+@mail.utoronto.ca. A copy
+
+of this email is included in the email thread at Exhibit L. A copy of the Revised
+Notice of Electronic Hearing is also included at Exhibit L.
+11.
+
+On October 15, 2022, Ms. Lie sent the Student several emails attaching additional
+disclosure. I have attached a copy of these emails (on which I was copied) to my
+affidavit as Exhibit M.
+
+12.
+
+On October 18, 2022, Ms. Lie emailed the Student copies of the affidavits of the
+Provost’s witnesses. Ms. Lie stated that the Provost would rely on the affidavits at
+the hearing, and asked the Student to let our office know whether she intended to
+cross-examine any of the affiants. Ms. Lie also informed
+
+that the Provost
+
+had decided to withdraw charges #4, #5 and #6 of the charges filed on January 19,
+2022. I have attached a copy of this email (on which I was copied) to my affidavit
+as Exhibit N.
+E.
+
+Further attempts to contact the Student
+
+13.
+
+On October 13, 2022, I called the Student at
+
+(this is a
+
+) which is the number that the Student had
+provided in ROSI as her phone number. After the first ring, an auto-recording came
+on saying that “the customer you are trying to call is not available and to try again
+at a later time”.
+14.
+
+On October 14, 2022, I called the Student at
+
+(using a
+
+country and area code), which is the number that the Student had provided in
+ROSI as her International Telephone Number. The phone rang several times before
+going to voicemail. The voicemail message was not in English and I was therefore
+
+7
+
+unable to identify if the recording identified the Student’s voicemail. I left a
+message advising her of the upcoming hearing, to check her University of Toronto
+email address and to contact Ms. Lie to discuss. I provided Ms. Lie’s office phone
+number as 416-646-4332.
+15.
+
+On October 14, 2022, I again called the Student at
+
+and received
+
+the same auto-recorded message as before.
+16.
+
+To the best of my knowledge, the Student has not contacted our office since her
+call with Ms. Lie of March 2, 2022. Our office has not received any correspondence
+from the Student to indicate that she is not able to attend the hearing scheduled for
+October 26, 2022 at 9:45 am.
+
+The evidence is that the Student, after being sent the Charges, had a conversation with
+Assistant Discipline Counsel on March 2, 2022, but is uncertain as to whether the Student
+reviewed the Charges, the disclosure or the Notice of Electronic Hearing. However, the
+Rules do not require actual notice. The University can serve the Student, but cannot make
+the Student actually read what is served.
+The University did everything it could reasonably have done to contact the Student and did
+take the steps it was required to under the Rules. The Student had a telephone conversation
+with Assistant Discipline Counsel on March 2, 2022, after being sent the Charges and the
+Student’s University of Toronto email account was accessed as late as October 6, 2022,
+well after service of the Notice of Electronic Hearing and the revised Notice of Electronic
+Hearing. Accordingly, the Panel was satisfied it was more likely than not that the Student
+had made a deliberate choice some time ago to avoid and turn her back on any official
+communications from the University. That choice has consequences.
+Therefore, in light of the evidence and the submissions of Assistant Discipline Counsel,
+the Panel was satisfied that the Student had been given reasonable notice of the hearing in
+compliance with the notice requirements of the SPPA and the Rules. The Panel decided to
+hear the case on its merits in the absence of the Student.
+
+8
+
+Charges and Particulars
+The charges alleged against the Student as filed by the Provost on January 19, 2022, are as
+follows:
+1.
+
+On or about October 16, 2020, you knowingly represented as your own an idea or
+expression of an idea or work of another in topic proposal you submitted in
+VCC306H5 (“VCC306”), contrary to section B.I.1(d) of the Code.
+
+2.
+
+In the alternative, on or about October 16, 2020, you knowingly obtained
+unauthorized assistance in connection with a topic proposal you submitted in
+VCC306, contrary to section B.I.1(b) of the Code.
+
+3.
+
+In the further alternative, on or about October 16, 2020, you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with a topic proposal you submitted
+in VCC306, contrary to section B.I.3(b) of the Code.
+
+4.
+
+On or about November 7, 2020, you knowingly represented as your own an idea or
+expression of an idea or work of another in an assignment (Assignment 2) you
+submitted in VCC290H5 (“VCC290”), contrary to section B.I.1(d) of the Code.
+
+5.
+
+In the alternative, on or about November 7, 2020, you knowingly obtained
+unauthorized assistance in connection with an assignment (Assignment 2) you
+submitted in VCC290, contrary to section B.I.1(b) of the Code.
+
+6.
+
+In the further alternative, on or about November 7, 2020, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with an assignment
+(Assignment 2) you submitted in VCC290, contrary to section B.I.3(b) of the Code.
+
+The particulars related to charges 1, 2, 3, 4, 5 and 6 are as follows:
+
+9
+
+1.
+
+At all material times you were a student enrolled at the University of Toronto
+Mississauga.
+VCC306
+
+2.
+
+In Fall 2020, you enrolled in VCC306H5 (Visual Culture and Colonialism).
+
+3.
+
+Students in VCC306 were required to submit a final project. They were required to
+come up with a topic on their own and to consult with the instructor by October 16,
+2020, before going on to the next stage of submitting a topic proposal and annotated
+bibliography (worth 10% and due November 6, 2020) and ultimately the final essay
+(worth 20% and due December 11, 2020).
+
+4.
+
+You did not consult with the instructor about your topic.
+
+5.
+
+On or about October 16, 2020, you submitted your topic proposal and annotated
+bibliography (the “Topic Proposal”).
+
+6.
+
+You submitted the Topic Proposal:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were
+not your own, but were the ideas, expressions of ideas or work of others;
+and
+
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas
+or work that you drew from the author of the Topic Proposal.
+
+7.
+
+You did not write all or part of the Topic Proposal. You knowingly obtained
+unauthorized assistance from another individual (or individuals) in the Topic
+Proposal.
+
+8.
+
+You knowingly submitted the Topic Proposal with the intention that the University
+of Toronto Mississauga rely on it as containing your own ideas or work in
+considering the appropriate academic credit to be assigned to your work.
+
+10
+
+VCC290
+9.
+
+In Fall 2020, you enrolled in VCC290H5 (Topics in Visual Culture and
+Communication).
+
+10.
+
+Students in VCC290 were required to submit, among other things, two assignments,
+worth 10% each.
+
+11.
+
+On November 7, 2020, you submitted Assignment 2 in VCC290 (the
+“Assignment”).
+
+12.
+
+You submitted the Assignment:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were
+not your own, but were the ideas, expressions of ideas or work of others;
+and
+
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas
+or work that you drew from the author of the Assignment.
+
+13.
+
+You did not write all or part of the Assignment. You knowingly obtained
+unauthorized assistance from another individual (or individuals) in the Assignment.
+
+14.
+
+You knowingly submitted the Assignment with the intention that the University of
+Toronto Mississauga rely on it as containing your own ideas or work in considering
+the appropriate academic credit to be assigned to your work.
+
+Assistant Discipline Counsel advised the Panel that the Provost was withdrawing Charges
+4-6 and was only proceeding with Charges 1-3. In addition, Assistant Discipline Counsel
+advised the Panel that if a finding was made for Charge 1, the Provost would then withdraw
+Charges 2 and 3.
+The Student’s Position
+
+11
+
+Given that the Student was not present nor represented, she was deemed to have denied the
+remaining charges. As a result, the hearing proceeded on the basis that the University bore
+the burden of proving the charges on the balance of probabilities.
+Overview
+In addition to the previously identified affidavits, the University tendered the evidence of
+two witnesses, Professor Kajri Jain (“Professor Jain”), a Professor in the Department of
+Art History at the University and Professor Charles Elkabas (“Professor Elkabas”), a
+Professor of French Studies, Language Teaching and Learning in the Department of
+Language Studies and he was the Dean’s Designate for Academic Integrity with the Office
+of the Dean until July 1, 2021 at the University who provided their evidence by affidavit,
+which was accepted by the Panel pursuant to Rule 61 of the Rules.
+After careful deliberation, and having considered all the evidence, the Panel found that on
+the balance of probabilities the evidence was sufficiently clear, cogent and convincing to
+discharge the burden of proof on the University and found that the Student had committed
+academic misconduct.
+The Evidence
+The contents of the affidavits (without Exhibits) of these two witnesses are set out below:
+a) Evidence of Professor Jain
+Professor Jain’s affidavit provides as follows:
+1.
+
+I am a Professor in the Department of Art History at the University of Toronto
+Mississauga (“UTM”). As such, I have personal knowledge of the matters set out
+in this affidavit. Where I do not have personal knowledge of a matter, I state the
+source of my information and I believe it to be true.
+
+A.
+
+The VCC306 Course
+
+12
+
+2.
+
+I have been an instructor at UTM for 15 years. During this time, I have taught 38
+undergraduate courses, and have had experience with grading hundreds of
+undergraduate student papers and assignments.
+
+3.
+
+In Fall 2020, I was the instructor for VCC306H5 (Visual Culture and Colonialism)
+(“VCC306”). VCC306 examines visual forms, such as photography, colour
+printing and films, from the second half of the 19th century and the early 20th
+century through the lens of colonialism. The overall goal of the course is to
+understand the ways in which many of our image practices today perpetuate the
+imperialist uses of visual culture and their attendant injustices.
+
+4.
+
+I have attached a copy of the course outline to my affidavit as Exhibit “A”.
+
+5.
+
+There were 27 students in VCC306 in Fall 2020. The course was administered
+remotely, via Zoom.
+
+6.
+7.
+
+was a student in VCC306.
+Students in VCC306 were told about the University’s expectations for academic
+integrity. The course outline, under the heading “University Statement on
+Academic Integrity for In-Person and Online Learning” (on pages 22-23), provided
+as follows:
+University Statement on Academic Integrity for In-Person and Online
+Learning
+Academic integrity is essential to the pursuit of learning and scholarship
+in a university, and to ensuring that a degree from the University of
+Toronto Mississauga is a strong signal of each student’s individual
+academic achievement. As a result, UTM treats cases of cheating and
+plagiarism very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters
+outlines behaviours that constitute academic dishonesty and the process for
+addressing academic offences.
+Potential offences include, but are not limited to:
+In papers and assignments:
+
+13
+
+1. Using someone else’s ideas or words without appropriate
+acknowledgement, including notes or answer guides provided by tutoring
+companies or shadow courses.
+2. Submitting your own work in more than one course without the
+permission of the instructor.
+3. Cutting and pasting text from lecture voice-overs, course readings, or
+video transcripts.
+4. Collaborating with others in the course, unless this is part of the
+assignment.
+5. Making up sources or facts.
+6. Obtaining or providing unauthorized assistance on any assignment.
+…
+All suspected cases of academic dishonesty will be investigated
+following procedures outlined in the Code of Behaviour on Academic
+Matters. If you have questions or concerns about what constitutes
+appropriate academic behaviour or appropriate research and citation
+methods, you are expected to seek out additional information on academic
+integrity from your instructor or from other institutional resources.
+B.
+
+’s Topic Proposal and Annotated Bibliography
+
+8.
+
+Students in VCC306 were graded on the basis of the following:
+Participation (this included active engagement in class
+discussions)
+
+20%
+
+Class discussion (students were required to choose a
+particular week when they would have primary
+responsibility for contributing to class discussions)
+
+5%
+
+Weekly image based responses (students were required to
+submit a very short response to the readings each week)
+
+35%
+
+Group project (Orientalism Today)
+
+10%
+
+Final project (described in more detail below)
+
+30%
+
+14
+
+Total
+
+9.
+
+100%
+
+Students in VCC306 were required to submit a final project worth a combined 30%.
+The final project was comprised of three stages. Each stage was required to be
+completed independently.
+(a)
+
+Topic approval: First, students were required to independently come up
+with a topic and to consult with me to get their topic approved. I
+made clear to students that their topic needed to be approved by me,
+prior to moving on to the second stage of writing the proposal. After
+consultation with me, students were required to submit a couple lines on
+Quercus (the online learning platform that was used to administer the
+course) describing the approved topic by October 16, 2020 at 5 pm.
+The course outline provided as follows (on pages 18-19) with respect to
+the topic that students were required to submit for approval:
+The topic
+Usually your final project will be an 8-10 page paper that examines
+an image (advertisement, photograph, film, artwork, music video,
+etc.) or display (exhibition, museum, theme park etc.) in relation to
+the visual culture of colonialism, using at least two of the relevant
+concepts/keywords covered in class. The image could be from the
+colonial period or an instance from later visual culture that you are
+able to relate to the history of colonialism or decolonizing struggles.
+Try and choose a topic that speaks to you and that you are invested
+in. You are expected to go beyond the readings assigned in class;
+your image analysis will also require substantial independent
+research, so for both you should budget adequate time.
+While final submissions normally take the form of an essay, there is
+also scope, only with Prof. Jain’s approval, for a video submission
+or an artistic or media-based project, but this must be accompanied
+by a rigorous written explanation of how it relates to topics or
+concepts from the course. All projects must go through a written
+proposal process with an annotated bibliography of the sources you
+will use. [More below…]
+
+15
+
+Your project topic must be formulated in consultation with Prof.
+Jain. You are required to submit a couple of lines describing your
+approved topic to Quercus (see Assignments) by 5pm Friday
+October 16 at the very latest otherwise you will have insufficient
+time to put together a proposal. Be warned: it almost always takes
+several tries before a topic is approved, so please start the process
+early! You may not proceed with your project proposal until
+your topic has been approved.
+Please note that developing a project topic is an important part of
+the learning process, providing an irreplaceable opportunity for oneon-one mentoring. As part of this process, therefore, it is essential
+to attend individual student hours, at least once but ideally 2-3 times
+over the course of the term: at least once to discuss your essay topic,
+once to discuss the feedback on your proposal, and if required once
+to discuss your progress on the essay. [Emphasis in original]
+(b)
+
+Proposal: The second stage was the proposal, which was a 1-page
+description of the topic. The purpose was to set out what the student
+proposes to do in their final project. It was required to include, among
+other things, an annotated bibliography. The proposal was worth 10% and
+due November 6, 2020 at 5 pm. The course outline provided as follows
+(on page 19) with respect to the proposal:
+The proposal
+The proposal is a 1-page description of your topic, with the image
+or link attached (not included in the page length). You do NOT
+need a fully developed argument or “thesis” – this will evolve
+from your image analysis. A proposal is exactly what it suggests: a
+description of what you propose to do.
+The proposal should include:
+-
+
+a description of the image (including its medium and genre,
+where/when it was produced, how it circulated, anything you
+know about how it was received, whether there is already
+scholarship or critical writing on it, etc.);
+
+-
+
+your motivation in choosing it;
+
+-
+
+how it fits with the course themes and aims;
+
+16
+
+-
+
+which concepts/keywords from the course you will use to
+analyze it and why they are relevant (though this could change
+as we go, in consultation with Prof. Jain);
+
+-
+
+if there is existing scholarship or critical writing on this topic,
+how you will not be simply repeating or summarizing it but
+building on, adding to, and/or challenging it; and
+
+-
+
+a list of at least 3-4 annotated academic sources beyond the
+weekly course readings that speak to your image or topic (these
+could provide background information on the context of the
+image, and/or elaborate further on the concepts you are using).
+Please use scholarly references primarily from relevant
+humanities disciplines (i.e., not psychology, economics,
+marketing, etc.). Of course you may also include other types
+of sources in addition to these academic works.
+
+-
+
+Remember to annotate your bibliographic entries: a few lines
+for each source describing what it is about, what approach it
+takes to your topic, and why it is useful for your project.
+
+The proposal is due at 5pm on Fri. Nov. 6, via Quercus. Online
+submission via Quercus is required as a .doc file, NOT .pdf.
+You will be unable to write a successful paper without getting
+feedback on your proposal. Your paper grade will reflect your
+ability to address this feedback. [Emphasis in original]
+(c)
+
+Final paper: Finally, the student was to write a final paper, which was to
+be 8-10 pages in length. It was worth 20% and due December 11, 2020.
+Details for the final paper are contained in the course outline (on pages 1920).
+
+10.
+
+I also discussed academic integrity during the lectures, including in the context of
+the final project. I have attached a copy of my PowerPoint slides from my week 5
+lecture, held on October 19, 2020, which includes references to the importance of
+academic integrity, to my affidavit as Exhibit “B” (see slides 1-3, 7 and 37). I recall
+that I raised the importance of academic integrity in lectures before week 5 as well.
+
+11.
+
+did not complete the first stage of the final project. She did not consult
+with me or get her topic approved. However, on October 15, 2020, the day before
+the deadline to submit the topic approval, she submitted what appeared to be
+
+17
+
+her entire proposal and annotated bibliography (i.e., the second stage of the
+project) on Quercus (the “Proposal”). I have attached a copy of
+
+’s Proposal
+
+to my affidavit as Exhibit “C”. The Proposal was not submitted as a Word
+document, but instead was submitted through the text box on Quercus (for the topic
+approval, I was only expecting students to submit a couple lines, so did not request
+1
+
+that the students submit a Word document). A screenshot of the Proposal, as it
+appears on Quercus, is attached to my affidavit as Exhibit “D”.
+12.
+
+The Proposal approached the topic in a way that I had warned students against. The
+topic was The New World, which is a film written and directed by Terrence Malick,
+inspired by the historical figures Captain John Smith and Pocahontas. In class, I
+had made clear to students that they should not select an image that merely
+illustrates or depicts colonialism. Instead, students were required to consider their
+selected topic from the perspective of how it represents an ideological vehicle for
+colonial power.
+
+’s Proposal focussed on the former, an approach I had
+
+warned students against. While other students had made a similar mistake in their
+initial approach to the topic, they had consulted with me (as was required for the
+topic approval) and through our discussions and with my feedback, were able to
+formulate a topic more in line with what the assignment was asking for. However,
+did not talk to me about her topic, so I did not have the opportunity to
+provide her with feedback on her proposed topic before she submitted the Proposal.
+13.
+
+Upon review, I was suspicious that the Proposal may not have been written by
+for several reasons:
+(a)
+
+I considered the writing style to be technical and professional-sounding.
+The language seemed to be consistent with a more advanced researcher in
+some other type of academic environment. For example, I found the use of
+
+1
+
+Because the Proposal was submitted in this manner, it also was not submitted to Turnitin.com, which is
+the software used in the course to detect potential plagiarism (see course outline at pp. 23-24).
+
+18
+
+the following language and concepts to be unusual coming from a thirdyear undergraduate student in the context of this course:
+(i)
+
+The concept of image as “a self-sufficient unit of information” (p.
+1);
+
+(ii)
+
+The term “triumvirate” to refer to mother, lover and son (p. 2);
+
+(iii)
+
+The term “line of human becoming”, in relation to Malick’s
+references to Martin Heidegger and Immanuel Kant (p. 2); and
+
+(iv)
+
+The following phrases seemed to use strangely formal and technical
+language:
+1)
+
+“The world is not given to people directly but is mediated by
+a cognitive act. Cognition and its results are always
+structured by a system of concepts and relations
+characteristic of a particular culture in which the cognizing
+subject is located” (p. 1)
+
+2)
+
+“Considering the above ideas, it is valid to state that the
+impressive visual elements of The New World movie
+perfectly reflect the genuine cultural-emotional perspectives
+and worldviews of the heroes framed into historical specifics
+of the colonial period” (p. 2)
+
+3)
+
+“Malick reaches the highest point of mastery in The New
+World (2005), creating a real symphony of the human body
+and nature with flash frames and second flashbacks” (p. 2).
+
+(b)
+
+The Proposal included very sophisticated references that were too advanced
+for what I would expect from a third-year undergraduate student: for
+example, the references to the philosophical works of Heidegger and Kant,
+and the works of film-makers Claire Denis, Jean-Luc Godard and Alain
+
+19
+
+Resnais (none of whom, except Heidegger, were referred to in the course at
+all).
+(c)
+
+The Proposal ended with the sentence, “The work is planned to be
+completed within the framework of deadlines given by the scientific
+supervisor”. There is no “scientific supervisor” in the course and never any
+discussion about a “scientific supervisor”. I found the use of this language
+to be very odd and suspicious.
+
+14.
+
+The annotated bibliography in the Proposal includes three sources (in addition to
+the film, The New World):
+(a)
+
+Bell, B.L. (1994). Pocahontas: “Little mischief” and the “Dirty men”.
+Studies in American Indian Literatures, 63-70, a copy of which is attached
+to my affidavit as Exhibit “E”;
+
+(b)
+
+Griffin, M. (2001). Camera as witness, image as sign: The study of visual
+communication in communication research. Annals of the International
+Communication Association, 24(1), 433-463, a copy of which is attached to
+my affidavit as Exhibit “F”; and
+
+(c)
+
+Kelly, C. (2012). Neocolonialism and the global prison in National
+Geographic’s locked up abroad. Critical Studies in Media Communication,
+29(4), 331-347, a copy of which is attached to my affidavit as Exhibit “G”.
+
+15.
+
+None of these sources refer to the works of Heidegger, Kant, Denis, Godard or
+Resnais.
+
+16.
+
+I also had doubts that
+
+even attended my class. She joined the virtual class
+
+without video and often late. She also never participated in class discussions.
+Sometimes, there were in-class assignments that were to be submitted to Quercus.
+For those, she received a zero, which suggests that she was not participating even
+though she was logged into the Zoom lecture. In addition, a couple of times she
+remained logged into the lecture after class ended. My virtual office hours were
+
+20
+
+held immediately following the class. On the occasions that
+
+remained
+
+logged on I assumed she wanted to speak with me during my virtual office hour.
+However, when I messaged her in the chat to ask if she wanted to speak, I received
+no response. This suggested to me that she was not actually in front of her computer,
+despite having logged into the Zoom lecture.
+C.
+
+Contact with the Student
+
+17.
+
+In light of my suspicions, on October 23, 2020, I met with
+
+to discuss the
+
+Proposal.
+18.
+
+The matter was subsequently forwarded to the Academic Integrity Unit at UTM.
+
+D.
+
+Weekly Responses
+
+19.
+
+Students were required to submit 10 weekly responses. As noted above, the weekly
+responses were worth a total of 35% of students’ final grades (a student’s best seven
+weekly responses were worth 5% each). For the weekly responses, students were
+usually required to answer 1-2 questions, find an image that illustrates certain key
+ideas in the reading or viewing for the week, and explain how it does so. Students
+were not required to do any outside research and were instead supposed to focus
+their responses on ideas contained in that week’s readings.
+
+20.
+
+My records indicate that
+
+submitted 8 weekly responses in total:
+
+(a)
+
+Week 2, submitted on September 17, 2020;
+
+(b)
+
+Week 3, submitted on September 24, 2020;
+
+(c)
+
+Week 4 submitted on October 1, 2020;
+
+(d)
+
+Week 5, submitted on October 8, 2020;
+
+(e)
+
+Week 7, submitted on October 30, 2020;
+
+(f)
+
+Week 8, submitted on November 6, 2020;
+
+21
+
+21.
+
+(g)
+
+Week 9, submitted on November 12, 2020; and
+
+(h)
+
+Week 11, submitted on November 26, 2020,
+
+I reviewed and marked some of
+
+’s responses. The remaining responses
+
+were graded by my teaching assistant Ms. Sanniah Jabeen. I have attached copies
+of the weekly responses, together with my comments or my teaching assistant’s
+comments, to my affidavit as Exhibit “H”
+22.
+
+Overall,
+
+’s weekly responses indicated that while she could formulate a
+
+response, they were often not responsive to the questions asked.
+sometimes failed to answer part of the question (weeks 3, 9 and 11), misunderstood
+the arguments in the readings (weeks 3 and 5), did not reference the readings (week
+4 and 8) or failed to provide citations (weeks 5, 7 and 8). With respect to her week
+7 response
+
+was advised that she was both supposed to find her own image
+
+to analyze, and could not use an existing one from the readings, and that she was
+not expected or encouraged to use any other sources to analyse the image.
+Nevertheless, her Week 9 and 11 responses continued to include a “bibliography”,
+which included references to sources from outside the course materials.
+23.
+
+Some of the weekly responses that
+
+submitted contained some of the
+
+features (in terms of unusual references and technical-sounding language) that I
+noted in the Proposal, as well as references in the “bibliography” to unusual
+sources. However, I did not raise any issue with the weekly responses with
+(in terms of academic integrity) because my concerns with the weekly responses
+did not rise to the level that I had with the Proposal.
+E.
+
+Revised Proposal
+
+24.
+
+On October 27, 2020, after I had met with
+World,
+
+about the Proposal on The New
+
+submitted another proposal for her final project. I have attached to
+
+my affidavit a copy of this proposal (the “First Revised Proposal”) as Exhibit “I”.
+’s new proposal topic was an advertisement campaign for Land Rover, and
+her proposal included an image of the advertisement.
+
+22
+
+25.
+
+On October 28, 2020, I sent
+
+an email asking for clarification on the new
+
+proposal, in particular “how the image… [she] ha[d] sent of elephants and a car
+constitute[d] a ‘problematic portrayal of sexism and irresponsible racial
+stereotyping’?”.
+
+responded stating that she was referencing a video
+
+advertisement. I asked for a link to the video and she responded on November 2,
+2020 by saying that the video had been taken down so she made “small changes”
+to her proposal.
+
+also attached a whole new proposal to this email, this time
+
+about the film, A Passage to India. A copy of this email thread is attached to my
+affidavit as Exhibit “J”. A copy of
+
+’s November 2, 2020 proposal (the
+
+“Second Revised Proposal”) with my comments is attached to my affidavit as
+Exhibit “K”.
+26.
+
+I made a number of comments to her Second Revised Proposal (see Exhibit “G”).
+On December 11, 2020,
+
+submitted her final project.
+
+have incorporated my feedback into her final paper. A copy of
+
+.
+
+appears to
+’s graded
+
+final paper (the “Final Project”) with my comments is attached to my affidavit as
+Exhibit “L”.
+27.
+
+I found that the style and language used in the First Revised Proposal, the Second
+Revised Proposal and the Final Project to be consistent with what I would expect
+from a third-year undergraduate student. The assignments did not contain the use
+of professional and technical language that was contained in the Proposal. The First
+Revised Proposal and the Second Revised Proposal also did not contain the
+sophisticated ideas that I had found were present in the Proposal, such as references
+to Heidegger and Kant. The Final Project contained some surprisingly advanced
+concepts, but these were accompanied by citations in footnotes.
+
+28.
+
+Ultimately, the ideas and language used in the Proposal seemed to be different from
+’s work on the First Revised Proposal, the Second Revised Proposal and
+the Final Project, and were unusual for a third-year undergraduate student, in my
+experience. It also failed to cite to any sources that linked together the sophisticated
+ideas (as described above, the sources listed in the annotated bibliography of the
+
+23
+
+Proposal did not refer to those ideas). As a result, I remain suspicious that either
+the Proposal was not written entirely by
+
+or
+
+had failed to reference
+
+the sources that she used to complete the Proposal.
+29.
+
+A copy of the grades that
+
+received for the assignments she submitted in
+
+the course are attached to my affidavit as Exhibit “M”.
+30.
+
+I make this affidavit in connection with the charges that were filed against
+by the University of Toronto under its Code of Behaviour on Academic Matters and
+for no other purpose.
+
+In addition to Professor Jain’s affidavit, the Panel questioned her as to whether in addition
+to attempting to speak to the Student while still logged in on Zoom following the class, did
+she speak to or attempt to speak with the Student during the classes. Professor Jain could
+not recall any participation by the Student during the classes or her attempting to speak
+with the Student. Professor Jain also confirmed that the Student’s first submission was not
+submitted to Turnitin.com and also advised that the concern was not so much that the
+Student was copying and pasting, rather, that she was taking ideas from another source and
+not citing it. Lastly, Professor Jain confirmed that there was no grade for the Student’s first
+submission.
+b) Evidence of Professor Elkabas
+Professor Elkabas’ affidavit provides as follows:
+1.
+
+I am a Professor of French Studies, Language Teaching and Learning in the
+Department of Language Studies at the University of Toronto Mississauga
+(“UTM”). Until July 1, 2021, I also served as a Dean’s Designate for Academic
+Integrity with the Office of the Dean at UTM. As such, I have personal knowledge
+of the matters set out in this affidavit. Where I do not have personal knowledge of
+a matter, I state the source of my information and I believe it to be true.
+
+2.
+
+The Academic Integrity Unit (“AIU”) in the Office of the Dean is the office at UTM
+that is responsible for investigating allegations of academic misconduct and
+
+24
+
+arranging for students who are facing such allegations to meet with the Dean or
+Dean’s Designate in accordance with the process set out in the Code of Behaviour
+on Academic Matters (the “Code”).
+A.
+
+Allegation against
+
+3.
+
+The AIU received an allegation from Professor Kajri Jain regarding an assignment
+that
+
+had submitted in VCC306H5 (Visual Culture and Colonialism)
+
+(“VCC306”) in Fall 2020.1 In particular,
+
+was alleged to have obtained
+
+unauthorized assistance in a topic proposal and annotated bibliography (the
+“Proposal”) in VCC306, worth 10%, which she submitted on October 15, 2020. A
+copy of the Proposal is attached to my affidavit as Exhibit “A”.
+4.
+
+On February 24, 2021, the AIU sent
+
+an invitation to meet with me on
+
+March 10, 2021 regarding the allegation of academic misconduct. On February 24,
+2021,
+
+responded, stating that she would attend the meeting, but asking to
+
+meet at a different time. The AIU sent her the meeting details that day, for a meeting
+on March 17, 2021. A copy of this email thread is attached to my affidavit as
+Exhibit “B”.
+B.
+
+Meeting on March 17, 2021
+
+5.
+
+On March 17, 2021, I met with
+
+via videoconference (Zoom). Jade Hazell,
+
+Academic Integrity Assistant, also attended the meeting and took notes. A copy of
+the notes that Ms. Hazell took during the meeting is attached to my affidavit as
+Exhibit “C”.
+6.
+
+The meeting was recorded on Zoom. However, I understand from Ms. Hazell and
+believe that the recording has since been deleted. Pursuant to AIU policy, Zoom
+meeting recordings are typically deleted after they are reviewed by a member of the
+AIU to ensure the overall accuracy of the meeting notes. The University policy is
+
+1
+
+The AIU also received an allegation that
+had committed an academic offence in an assignment
+submitted in VCC290H5 (“VCC290”) in Fall 2020. However, I understand that the Provost is not proceeding
+with this allegation. As a result, I have not referred to the VCC290 allegations in this affidavit.
+
+25
+
+also to delete Zoom recordings after 365 days. I understand from Ms. Hazell and
+believe that the notes that she took were not meant to be a verbatim transcript of
+the meeting and it is possible that some parts were missed.
+7.
+
+I recall meeting with
+
+over Zoom, but do not have a specific recollection
+
+of everything we discussed in the meeting. I made my own notes in preparation for
+the meeting, which included questions I wanted to discuss with
+
+. A copy
+
+of these notes is attached to my affidavit as Exhibit “D”.
+8.
+
+On April 1, 2021, I summarized my meeting with
+
+on March 17, 2021 (as
+
+well as a subsequent meeting on March 24, 2021, described below) in a letter to
+Michael Lettieri, Vice-Dean of Academic Experience at UTM. A copy of my letter
+is attached to my affidavit as Exhibit “E”.
+9.
+
+I have relied on the documents at Exhibits “C”, “D” and “E” to refresh my memory
+about my meeting with
+
+on March 17, 2021. My recollection of the meeting
+
+is provided below.
+10.
+
+At the outset of the meeting, I gave
+
+the caution that I am required to
+
+provide under the Code.
+11.
+
+During this meeting, I explained to
+
+that she was alleged to have obtained
+
+unauthorized assistance in the Proposal she submitted in in VCC306.
+denied the allegation.
+12.
+
+In our discussion about the Proposal in VCC306, I told her that the instructor had
+noted that
+
+had not submitted a topic proposal, as requested in class, before
+
+submitting her assignment. When I asked
+
+why she did not do this,
+
+expressed surprise by this news. I explained that the instructions for the
+assignment were to submit a topic proposal and wait for approval from the
+instructor before commencing the project, but the instructor had only received what
+appeared to be the completed project with the annotated bibliography.
+expressed confusion about what the problem was, saying that she had handed in her
+final project, regardless of the one-page proposal. I explained that the project that
+
+26
+
+had submitted did not deal with the topic assigned, but that her failure to
+submit a topic proposal was not the issue at hand.2
+13.
+
+I told
+
+that the allegation was that she had obtained unauthorized assistance
+
+in completing the Proposal. When I asked who wrote the paper,
+
+said that
+
+she had written it.
+14.
+
+The Proposal was about the film The New World written and directed by Terrence
+Malick. I have some experience and knowledge of the topics raised in the Proposal.
+In particular, I obtained my Ph.D. from the University of Illinois, with a specialist
+in French literature and a minor in cinema and comparative literature. During my
+graduate studies at the University of Illinois, I was also the assistant to the Director
+of the Unit for Cinema Studies. I have published and read several papers on French
+films at international conferences. I also served as a refereeing member for the
+Journal of African Cinemas. I had not seen The New World, but had one other film
+by Terrence Malick (Badlands), as well as most films by Jean-Luc Godard and
+Alain Resnais (who are referred to in the Proposal). I also have some knowledge of
+the works of the philosophers, Immanuel Kant and Martin Heidegger (who are also
+referred to in the Proposal). I am not a philosopher but I used their concepts of
+morality (Kant) and existentialism and perception (Heidegger) when I taught
+French novels by Marcel Camus and Jean-Paul Sartre.
+
+15.
+
+Before the meeting I had highlighted the Proposal to mark the parts I intended to
+question
+
+about. A copy of this highlighted version is attached to my
+
+affidavit as Exhibit “F”. During the meeting, I screenshared the highlighted
+version and asked her about some of the words, phrases and concepts that I had
+identified.
+
+2
+
+My understanding at the time was that
+was required to submit a proposal and final project, and
+that
+had not, in fact, submitted her proposal, but rather had submitted her final project instead. I
+now understand that
+was required to first submit a few sentences describing the topic after
+consultation with the instructor, but
+had not done this, and had instead submitted her proposal and
+annotated bibliography instead (rather than her final project).
+
+27
+
+16.
+
+I found that
+
+was unable to provide satisfactory responses when I asked her
+
+to explain a number of concepts discussed in the Proposal. Her responses did not
+reflect the sophisticated nature of the Proposal, and did not seem consistent with an
+author who demonstrated a thorough understanding of the film The New World.
+17.
+
+was unable to answer basic questions about the film, philosophers and
+film directors referenced in the Proposal. In particular:
+(a)
+
+was unable to identify the main female character of the movie,
+Pochantas, despite her name appearing five times in the Proposal and four
+times in the bibliography;
+
+(b)
+
+said she did not know who the following individuals referenced in
+her paper were:
+(i)
+
+John Rolfe (p. 2)
+
+(ii)
+
+Emmanuel Lubezki (p. 2)
+
+(iii)
+
+Jean-Luc Godard (p. 2) and Alain Resnais (p. 2)
+
+(c)
+
+could not explain how the philosophers, Immanuel Kant and
+Martin Heidegger, which were referenced in the Proposal (p. 2), related to
+the topic or what their philosophies were. When asked who they were,
+stated she must have discovered Kant and Heidegger while researching
+the director, Terrence Malick.
+
+stated she must have found the
+
+information online but probably did not put the source in her references.
+later said she discovered Kant through a reading she did in the
+course;
+(d)
+
+When asked,
+
+stated that she had not seen the other two movies by
+
+Terrence Malick mentioned in the Proposal: “Days of Heaven” and “The
+Thin Red Line” (p. 2).
+
+stated she got this information from the
+
+internet but could not provide the source.
+
+28
+
+18.
+
+later stated that she learned about most of the people referenced in the
+Proposal in high school so she did not remember them.
+
+19.
+
+to explain a number of words and phrases in her paper:3
+
+I asked
+(a)
+
+“visual image plays a critical role, being a self-sufficient unit of
+information, which in its functioning is opposite to the work of the text and
+the sign as the unit of information that the image has replaced” (p. 1).
+said that this was exploring the role that visual images play in the
+context.
+
+(b)
+
+“pre-modern culture” (p. 1).
+
+said that it meant before modern
+
+times.
+(c)
+
+“Considering the above ideas, it is valid to state that the impressive visual
+elements of The New World movie perfectly reflect the genuine culturalemotional perspectives and world views of the heroes framed into historical
+specifics of the colonial period” (p. 2).
+
+said that the film’s visuals,
+
+including the shot angle, camera movement, context, and background, gave
+her information about colonization and culture. So, that was how she
+explained how she felt watching it for the first time.
+20.
+
+also seemed confused when I asked if the Proposal was the final project
+because it contemplated further work under “Research Question, Methodology, and
+Plan of Work”.4 When asked to explain why she referenced a “scientific supervisor”
+in the sentence: “The work is planned to be completed within the framework of
+deadlines given by the scientific supervisor” (pp. 2-3),
+
+stated it was her
+
+habit to write in this format and that she wrote it without realizing. She stated it was
+
+My letter to Vice-Dean Lettieri on April 1, 2021 (at Exhibit “F”) also indicated that
+was unable to
+explain the meaning of the following terms: “the sign as the unit of information” (p. 1); “is mediated by a
+cognitive act” (p. 1); “visually translate the cultural driver” (p. 2); and “the key is that Jamestown” (p. 3). I do
+not have a specific recollection of asking
+about these terms and there is nothing in Ms. Hazell’s
+notes regarding these terms. However, I believe my letter to Vice-Dean Lettieri accurately reflects what I
+asked
+during the meeting and what we discussed.
+4
+As noted above, I may have misunderstood whether the Proposal was intended to be the final project.
+3
+
+29
+
+how she wrote for work and the scientific supervisor reference was probably
+because of a part-time job she had. (
+
+had stated earlier that she writes a lot
+
+(10 papers a day) for a job that she has for W Hotel Mary International’s marketing
+team.)
+21.
+
+When I indicated that I was concerned that
+
+could not provide information
+
+on or had failed to provide proper citations for key people and specific terms in her
+paper, she reiterated that this was information she had learned from high school, so
+could not remember.
+22.
+
+During this meeting,
+
+raised that she suffers from anxiety, depression,
+
+PTSD and many other mental issues.
+23.
+
+later became upset and I adjourned the meeting. I advised I would set a
+follow-up meeting with
+
+, at a later date.
+
+C.
+
+Meeting on March 24, 2021
+
+24.
+
+On March 24, 2021, I again met with
+
+over Zoom. In preparation for the
+
+meeting, I made notes of further questions I wanted to ask
+
+, a copy of which
+
+is attached to my affidavit as Exhibit “G”.
+25.
+
+Ms. Hazell also attended the meeting on March 24, 2021 and took notes. A copy of
+the notes from the meeting is attached to my affidavit as Exhibit “H”.
+
+26.
+
+My April 1, 2021 letter to Vice-Dean Lettieri (at Exhibit “E”) also includes a
+summary of the meeting (together with my earlier meeting).
+
+27.
+
+I relied on the documents at Exhibits “E”, “G” and “H” to refresh my memory about
+my meeting with
+
+28.
+
+on March 24, 2021.
+
+During this meeting, I asked
+However, this time,
+
+a number of questions about the Proposal.
+refused to answer any of my questions, replying with
+
+a simple “no comment” throughout. When I asked
+
+30
+
+if anyone helped her to
+
+write the Proposal or if she consulted with anyone, she said no. She pleaded not
+guilty to the allegation of unauthorized assistance for the Proposal.
+29.
+
+I advised
+
+that I would be forwarding the matter to the Tribunal and
+
+adjourned the meeting.
+30.
+
+On March 24, 2021, following the meeting, Ms. Hazell sent
+
+an email to
+
+provide her with some resources. A copy of Ms. Hazell’s email is attached to my
+affidavit as Exhibit “I”.
+D.
+
+Referral to Provost
+
+31.
+
+As set out above, on April 1, 2021, I wrote to Vice-Dean Lettieri, summarizing the
+allegations against
+
+and my meetings with her. A copy of my letter is
+
+attached as Exhibit “E”. My letter reflects my recollection of and impressions from
+the meeting. As set out in the letter, following my two meetings with
+
+,I
+
+had concerns about whether she was the author of the Proposal. Her responses to
+my questions did not lead me to believe that she had a solid grasp on the topics and
+language used in the paper.
+32.
+
+On June 10, 2021, Ms. Hazell wrote to
+
+, providing notice that the case was
+
+moving forward to the Trial Division of the University’s Tribunal and asking
+whether
+
+wished to change her plea.
+
+of not guilty. A copy of Ms. Hazell’s email and
+
+replied maintaining her plea
+’s response is attached to
+
+my affidavit as Exhibit “J”.
+33.
+
+The matter was subsequently forwarded to the Vice-Provost’s Office.
+
+34.
+
+I make this affidavit in connection with the charges that were filed against
+by the University of Toronto under its Code of Behaviour on Academic Matters and
+for no other purpose.
+
+The Panel questioned Professor Elkabas as to whether he had any concerns that mental
+health issues may have affected the Student’s answers. He advised the Panel that given the
+Student’s answers, she demonstrated having a good long-term memory and given that she
+
+31
+
+told him that she was writing 10 papers a day for her employer, he did not have any such
+concerns.
+This concluded the University’s evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that the evidence of Professor Jain and Professor
+Elkabas, supports a finding on the balance of probabilities that the Student committed the
+academic offences as alleged.
+In that regard, it was submitted that the evidence in its totality demonstrated either that the
+Student did not write the proposal or relied upon sources for it which were not identified
+or cited.
+Standard of Proof
+The onus is on the University to establish, based upon clear and convincing evidence on
+a balance of probabilities, that the academic offences charged have been committed.
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University, the Student was
+found guilty of one count of knowingly representing as her own an idea or expression of
+an idea or work of another, contrary to section B.I.1(d) of the Code as alleged in Charge 1
+filed by the Provost on January 19, 2022.
+Given these findings, the University also withdrew Charges 2 and 3 in addition to already
+having withdrawn Charges 4, 5 and 6.
+Reasons for Decision
+The evidence of Professor Jain clearly demonstrated that the Student was made aware by
+the course outline and by Professor Jain during lectures that when writing the topic
+proposal for VCC306H5, she was not permitted to use someone else’s ideas or words
+without appropriate acknowledgement, to commit to academic integrity and to be familiar
+with the Code of Behaviour on Academic Matters.
+
+32
+
+Despite this, the evidence established that the Student knowingly represented as her own
+an idea or expression of an idea or work of another in her topic proposal.
+In this regard, the language used by the Student for her proposal was unusually
+sophisticated for an undergraduate student and concluded with a reference to “the scientific
+supervisor” which was odd and clearly suspicious that it came from another source. She
+also referenced several movies she later admitted to not having seen. In her meeting with
+Professor Elkabas, she was unable to explain the concepts and was unfamiliar with some
+of her proposal’s content. However, most significantly to the Panel, she admitted to him
+that her proposal contained information that she had found online for which she did not
+provide the source in her references.
+As such, the Panel was satisfied on the balance of probabilities that the Student did not
+write at least part of the topic proposal and relied upon the ideas and expression of ideas
+by others which she did not reference or cite and as such, the Student committed the
+academic offence of knowingly representing as her own an idea or expression of an idea
+or work of another in the topic proposal she submitted in VCC306H5, contrary to section
+B.I.1(d) of the Code as alleged in Charge 1 filed by the Provost on January 19, 2022.
+Sanction
+The University’s Evidence
+The University provided the Panel with a Book of Authorities containing a number of prior
+decisions of this Tribunal and a chart summarizing them.
+The University’s Submissions
+Counsel for the University submitted that the proper sanctions to be imposed on the Student
+should be:
+(a)
+
+a final grade of zero in the course VCC306H5 in Fall 2020;
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for a period
+of 2 years;
+
+33
+
+(c)
+
+a notation of the sanction on their academic record and transcript from the date of
+this order for a period of 3 years; and
+
+(d)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction imposed,
+with the Student’s name withheld.
+
+Assistant Discipline Counsel reviewed with the Panel the chart summarizing the sanctions
+which have been given to students by this Tribunal in prior similar cases.
+Assistant Discipline Counsel then reviewed with the Tribunal the principles relative to
+sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/77-3,
+November 5, 1976) (“Mr. C.”), namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of a repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+
+(d)
+
+Any extenuating circumstances;
+
+(e)
+
+The detriment to the University caused by the misconduct; and
+
+(f)
+
+The need for general deterrence.
+
+In this regard, Assistant Discipline Counsel submitted that as the Student did not attend the
+hearing and as such there is no evidence of remorse or insight or whether the Student has
+taken responsibility and learned from her mistakes consequently, there is no evidence as to
+her character or any extenuating circumstances and so that is a neutral factor.
+The Student did not have any prior academic misconduct. Further, the fact that this conduct
+occurred during the early days of the pandemic which was a difficult time for students
+could be a mitigating factor, however, plagiarism is a serious matter and requires a strong
+message to be sent for general deterrence.
+
+34
+
+Assistant Discipline Counsel also provided the Panel with a chart of prior decisions and
+reviewed two prior decisions of the Tribunal to demonstrate that the proposed penalty was
+consistent with decisions of this Tribunal in similar cases.
+Sanction Decision
+After deliberations, the Panel ordered that the following sanctions shall be imposed on the
+Student:
+(a)
+
+a final grade of zero in the course VCC306H5 in Fall 2020;
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for a period
+of 2 years;
+
+(c)
+
+a notation of the sanction on their academic record and transcript from the date of
+this order for a period of 3 years; and
+
+(d)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction imposed,
+with the Student’s name withheld.
+
+An Order was signed at the hearing by the Panel to this effect.
+Reasons for Sanction
+The Panel considered the submissions of Assistant Discipline Counsel and the factors and
+principles relevant to sanction in Mr. C, supra, as set out above.
+In addition to these factors, the Panel considered the other decisions of this Tribunal
+involving similar misconduct as contained in the University’s Book of Authorities and the
+sanctions imposed. However, the Panel remained cognizant of the fact that no two cases
+are identical and that it is not bound by past decisions of this Tribunal. However, the
+Tribunal does try to develop a consistent body of cases so that students are treated fairly
+and consistently in similar circumstances.
+
+35
+
+By knowingly representing as her own an idea or expression of an idea or work of another
+in her topic proposal for VCC306H5, the Student undermined the grades-based system of
+evaluation and broke the honour code that is essential to modern learning.
+Students must understand that this kind of misconduct will have serious repercussions so
+that they will be dissuaded from the temptation to consider cheating.
+The Panel accepted the University’s submission that by knowingly representing as her own
+an idea or expression of an idea or work of another in her topic proposal, the Student
+committed a serious form of academic misconduct, while considering the range of
+sanctions provided by prior decisions of this Tribunal in similar circumstances, a period of
+2 years suspension of the Student from the University was appropriate.
+Dated at Toronto, this 25th day of January 2023
+
+______________________________________
+Mr. Christopher Wirth, Chair
+On behalf of the Panel
+
+36
+
+

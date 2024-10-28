@@ -1,0 +1,301 @@
+Case No.: 1004
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on February 25, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and G
+
+Z
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: December 3, 2019
+Members of the Panel:
+Ms. Ira Parghi, Lawyer, Chair
+Professor Michael Evans, Faculty Panel Member
+Mr. Bradley Au, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg, Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances,
+University of Toronto
+Not in Attendance:
+The Student
+
+I.
+
+Introduction
+
+1. The Trial Division of the University Tribunal was convened on December 3, 2019 to
+consider charges brought against G
+Z
+(“the Student”) by the University of
+Toronto (“the University”) pursuant to the University of Toronto Code of Behavior on
+Academic Matters, 1995 (“the Code”). The charges involved the alleged use or possession
+of unauthorized aids during an exam on or about April 12, 2017, during a final exam in a
+calculus course called MAT136H1S.
+2. The charges were as follows:
+i.
+
+On or about April 12, 2017, you knowingly used or possessed an unauthorized
+aid in the final exam in MAT136H1S (“Course”) that you wrote in partial
+completion of the requirements for the Course contrary to section B.I.1(b) of
+the Code.
+
+ii.
+
+In the alternative to paragraph 1, on or about April 12, 2017, you engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in connection with the final exam in
+MAT136H1S in order to obtain academic credit or other academic advantage of
+any kind in the Course, contrary to section B.I.3(b) of the Code.
+
+3. The particulars of the offenses charged were as follows:
+i. At all material times, you were a registered student at the University of Toronto.
+ii. In Winter 2017, you registered in the Course.
+iii. Students in the Course were required to write a final exam worth 65% of the final
+grade in the Course (“Final Exam”).
+iv. No aids were allowed in the Final Exam.
+v. On or about April 12, 2017 you wrote the Final Exam for credit in the Course.
+vi. During the Final Exam you were found in possession of notes and formulae relevant
+to the subject matter of the Final Exam.
+vii. You knowingly wrote notes and/or formulae on your hand and brought those notes
+and formulae into the exam with you.
+viii. For the purposes of obtaining academic credit and/or other academic advantage, you
+knowingly possessed an unauthorized aid in the Final Exam in the Course.
+2
+
+II.
+
+Conduct of hearing in absence of Student
+
+4. The Student did not appear at the time scheduled for the commencement of the hearing.
+Nor did any representative of the Student. The Tribunal waited 15 minutes after the hearing
+was scheduled to commence to allow for the Student to appear. The Student still did not
+appear.
+5. Counsel for the University then sought an order that the hearing be permitted to proceed in
+the Student’ absence. To proceed in the absence of the Student, the University was required
+to demonstrate that the Student had been given “reasonable notice” of the hearing.
+6. The University’s Policy on Official Correspondence with Students provides that students
+enrolled at the University must maintain current contact information in their record in the
+University’s record of academic history and student information (“ROSI”), and must
+update that information it changes. Pursuant to Rule 9 of the Tribunal’s Rules of Practice
+and Procedures (“the Rules”), one of the ways in which a Notice of Hearing may be served
+on a student is via email to the student’s email address in ROSI.
+7. Under Rule 17 of the Rules and sections 6 and 7 of the Statutory Powers Procedure Act
+(“SPPA”), the Tribunal may proceed with an oral hearing in the absence of a student when
+reasonable notice of the hearing has been given to the student in accordance with the Rules
+or SPPA (as the case may be) and the student does not attend.
+8. The University’s evidence in respect of service and attempts to communicate with the
+Student was as follows:
+a) On February 25, 2019, the Student was served, at his ROSI email address, with a
+letter from the University’s Vice-Provost, Faculty & Academic Life, and a copy of
+the charges against him. The letter indicated that the Student would be contacted
+regarding the University Tribunal’s proceedings.
+b) On April 22, 2019, the Student was served, at his ROSI email address, with a letter
+from University counsel and the University’s Disclosure Brief, and was provided a
+copy of the Policy on Official Correspondence with Students. He was invited to
+contact a representative of the University or its legal counsel to discuss the
+allegations in this matter.
+c) On May 23, 2019, the Student was contacted via private messaging on Facebook,
+with a request that he contact the office of University counsel or respond via
+his ROSI email account.
+d) That same day, he was also contacted via telephone, using the telephone number he
+had provided on ROSI. A message was left for him asking that he contact the office
+of University counsel or respond via his University email account.
+3
+
+e) On October 7, 2019, the Student was served, at his ROSI email address, with the
+Notice of Hearing. By serving the Student at this email address, the University
+complied with Rule 9 of the Rules.
+f) Later on October 7, 2019, the University emailed the Student at his ROSI email
+address, asking that the Student provide his current mailing address if he wished to
+receive the Notice of Hearing in hard copy.
+g) As of October 17, 2019, the Student had last accessed his ROSI email address on
+June 27, 2019, which was over four months after the University had first
+communicated with him in respect of this hearing through his ROSI email address.
+h) On November 1, 2019, the Student was served, at his ROSI email address, with
+three affidavits that the University intended to use during the hearing and was asked
+to notify University counsel if he intended to cross-examine any of the affiants.
+This correspondence reiterated the date of the hearing and indicated, “Our office
+has not heard from you despite our many requests and efforts to communicate with
+you.”
+i) On November 18, 2019, the Student was served, at his ROSI email address, with a
+revised Notice of Hearing. By serving the Student at this email address, the
+University complied with Rule 9 of the Rules.
+j) On November 28, 2019, the Student was served, at his ROSI email address, with
+two additional affidavits. He was again asked to notify University counsel if he
+intended to cross-examine either of the affiants. This correspondence also reiterated
+the date of the hearing.
+9. In light of the totality of the evidence regarding the efforts made to provide notice to and
+otherwise communicate with the Student, the Tribunal concluded that reasonable notice of
+the hearing had been provided to the Student in compliance with the Rules and the SPPA.
+An order permitting the hearing to proceed in the Student’s absence was therefore granted.
+
+III.
+
+Use of affidavit evidence
+
+10.During the hearing, counsel for the University sought to tender evidence by way of
+affidavit, relying on Rule 61 of the Rules. The various affiants (Jacqueline Cummins,
+Elizabeth Cowper, Jillian Bieser, Spyros Alexakis) were not in attendance at the hearing.
+Rule 62 of the Rules requires that an affiant must attend a hearing if an adverse party wishes
+to cross-examine on their affidavit.
+11.The Tribunal accepted the evidence, outlined above, that on November 1 and November
+28, 2019, the Student was provided with the five affidavits of the four named affiants that
+4
+
+the University intended to use at the hearing. The Student was also informed that the
+University intended to rely on the affidavits and was instructed to advise University counsel
+if he wished to cross-examine on the affidavits. The Student did not indicate any wish to
+cross-examine any of the affiants, either by way of response to the November 2019
+correspondence or in person at the hearing, which he did not attend.
+12.In these circumstances, the Tribunal consented to University counsel’s request to introduce
+the affidavits as evidence in the hearing.
+IV.
+
+Charges
+
+13.Because the Student was not present, the hearing proceeding on the basis that he denied
+the charges against him. This placed the onus on the University to establish on the balance
+of probabilities that the Student had committed the offense charged.
+14.The Tribunal received evidence from Jillian Bieser, a Teaching Assistant at the University
+who was the Chief Presiding Officer for the Student’s final exam in MAT138HIS Calculus
+I(B) on April 12, 2017, during which the alleged academic dishonesty took place. Ms.
+Bieser’s evidence was that the Student arrived at the exam seven minutes after its start
+time. She walked over to him to explain the exam instructions to him and noticed writing
+on his left palm. She asked him to show her his hand; he did, and she saw a large amount
+of Chinese writing and formula on his palm. He consented to her taking a photo of her palm
+and signed her handwritten report about what she had seen.
+15.The Tribunal also received the evidence of Spyros Alexakis, a Professor at the University
+and one of the instructors for MAT136H1S. He provided evidence as to the course syllabus
+for MAT136H1S, which states, “NOTE: You are not allowed to use any books, notes,
+calculators or scrap paper while writing the Quizzes, the Term-test or the Final Exam.”
+16.Professor Alexakis also gave evidence that he attended the Student’s final exam, during
+which Ms. Beiser informed him about the handwriting that she had seen on the Student’s
+palm. When Professor Alexakis looked at the writing on the Student’s palm, he recognized
+the writing as containing formulae that students were required to know for the exam. He
+described the information on the Student’s hand as “very helpful information” for the
+purposes of the exam and the kind of information that students “were not permitted” to
+bring into the exam with them. The Student told Professor Alexakis that he had forgotten
+to erase the writing before the exam. Professor Alexakis took the Student to the washroom,
+where he erased the writing. Professor Alexakis provided a report of his observations in
+the Alleged Academic Misconduct Report Form dated April 12, 2017.
+17.Elizabeth Cowper, a Professor Emeritus of linguistics at the University who was, at the
+time, the Dean’s Designate at the University Faculty of Arts & Science Office of Student
+
+5
+
+Academic Integrity (“OSAI”), provided evidence that OSAI received Ms. Bieser’s report
+about the Student’s alleged academic misconduct on April 13, 2017. OSAI prepared a
+Discipline Case Report regarding the matter on June 8, 2017. That same day, Professor
+Cowper emailed the Student at his ROSI email address asking that he attend a Dean’s
+Meeting on June 15, 2017 to discuss the alleged misconduct. The Student did not attend
+the Dean’s Meeting, although he did subsequently email OSAI on July 4, 2017, asking to
+meet in order to discuss the alleged academic offense.
+18.Thereafter there was a protracted series of communications between OSAI and the Student,
+in which OSAI proposed various dates for the Dean’s Meeting, working around the
+Student’s stated availability, but the Student either did not respond, or agreed to a proposed
+date but then did not appear for the agreed-upon meeting. These communications took
+place from July 10, 2017 to late November 2018. On November 28, 2018, OSAI emailed
+the Student, at his ROSI email address, and stated that, due to his unresponsiveness, the
+matter would now be forwarded to the Vice-Provost for review.
+19.No evidence was tendered on behalf of the Student, either by way of affidavit or in person
+at the hearing, which the Student did not attend.
+20.The Tribunal considered all of the evidence in the hearing, and concluded that, on the
+balance of probabilities, the Student was in possession of an unauthorized aid during the
+April 12, 2017 final exam — namely, course content handwritten on the palm of his hand
+— and thus was in contravention of s. B.I.1(b) of the Code.
+21.The Tribunal acknowledged that there was no evidence that the Student actually used the
+notes to help him during the exam; in fact, according to Professor Alexakis’ evidence, the
+notes were discovered before the Student began actually writing the exam. Nonetheless,
+the offense under s. B.I.1(b) is the possession of an unauthorized aid, whether or not the
+aid is used. No aids were permitted in the test. The notes on the Student’s hand were
+capable of being used as an aid. As such the offense was made out on the facts.
+22.In light of the Tribunal’s finding on this charge, the second charge, relating to “cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not others described in the
+Code” under s. B.I.3(b) of the Code, was withdrawn.
+
+V.
+
+Penalty
+
+23.On the issue of sanction, counsel for the University sought the following: a course mark
+of “zero” for the Student in the course at issue; a two-year suspension of the Student from
+the University, from December 3, 2019 to December 2, 2021; a notation on the Student’s
+transcript for three years, until December 2, 2022; and the publication of the Tribunal’s
+decision in this matter with the Student’s name withheld.
+6
+
+24.The Tribunal considered previous decisions rendered by the Tribunal in cases involving
+unauthorized aids. In most such cases in which the student had no prior offenses, as was
+the case here, the sanction was squarely in line with what University counsel sought here
+(H.L., Case No. 886, March 16, 2017; Y.Y., Case No. 851, March 1, 2017; S.S.M., Case
+No. 865, February 22, 2017; R.F.A., Case No. 738, January 15, 2015; Y.W., Case No. 746,
+January 14, 2015). Indeed, in some of these cases this sanction was handed down
+notwithstanding that the student participated in the Tribunal’s processes, unlike the Student
+in this matter. The Tribunal agrees that, based on the cases, cheating generally results in a
+suspension of at least two years, and the accompanying transcript notation generally lasts
+longer than the suspension, so that if a student returns to the University following the
+suspension, administrators and others may be aware of the student’s history.
+25.The Tribunal therefore concluded that the sanction sought by the University was consistent
+with the case law and would further some sense of uniformity or proportionality so that
+similar penalties are imposed on offenses committed in similar circumstances.
+26.The Tribunal also considered the principles and factors relevant to sanction as articulated
+in University of Toronto and Mr. C (November 5, 1976, Case No. 1976/77-3). The Tribunal
+determined that these factors supported the University’s position on sanction as well.
+27.The Tribunal observed that there were several factors in respect of which the Tribunal
+could draw no conclusion, because the Student did not participate in the process, either
+before the hearing, as evidenced in Professor Cowper’s affidavit, or in connection with the
+hearing itself, as discussed above. As a consequence of this non-participation, the Tribunal
+had no evidence before it as to any extenuating circumstances that might have weighed in
+the Student’s favour by mitigating or explaining his conduct.
+28.The Tribunal further noted that certain factors outlined in the Mr. C case weighed against
+the Student, to the extent that they could be evaluated. For instance, having regard to the
+character of the Student, the Tribunal noted that the Student did not participate in the
+hearing or pre-hearing University procedures. Had he done so, this might have signalled a
+willingness to respect the University’s processes.
+29.The Tribunal also observed that the offense was serious in nature, the detriment caused to
+the University by the offense was significant, and the need to deter others from committing
+a similar offense was considerable. The use of unauthorized aids is a threat to the integrity
+of the University’s processes for evaluating students, is profoundly unfair to other students,
+and jeopardizes the University’s reputation. These considerations urged against imposing
+a milder sanction than those typically applied in similar cases.
+30.In all of the circumstances, the Tribunal was satisfied that the appropriate sanction was the
+one sought by the University.
+
+7
+
+VI.
+
+Order
+
+31.It was accordingly ordered that:
+a) The hearing could proceed in the absence of Mr. Z
+
+;
+
+b) The Student was guilty of one count of possessing an unauthorized aid, contrary to
+s. B.I.1(b) of the Code;
+c) The Student shall receive a final grade of zero in MAT136H1S in Winter 2017;
+d) The Student shall be suspended from the University for a period of two years,
+commencing on December 3, 2019 and ending on December 2, 2021;
+e) The sanction shall be recorded on the Student’s transcript and academic record,
+commencing on December 3, 2019 and ending on December 2, 2022; and
+f) This case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the Student’s name withheld.
+
+Dated at Toronto, this 26th day of February 2020.
+
+_______________________________
+Ira Parghi, Co-Chair
+
+8
+
+

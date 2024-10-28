@@ -1,0 +1,540 @@
+Case No.: 1259
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on September 16, 2021 and
+amended on January 12, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+Y
+
+Y
+
+REASONS FOR DECISION
+
+Hearing Date: April 21, 2022, via Zoom
+
+Members of the Panel:
+Mr. Simon Clements, Chair
+Professor Georges Farhat, Faculty Panel Member
+Ms. Megan Campbell, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk & Hearings Secretary, Office of Appeals, Discipline
+and Faculty Grievances
+Not in Attendance:
+Mr. Y
+Y
+
+2
+
+1.
+
+This Panel of the University Tribunal held a hearing on April 21, 2022 to consider the
+charges brought by the University of Toronto (the “University”) against Mr. Y
+
+Y
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”). It
+is alleged that the Student knowingly forged or in any other way altered or falsified letters
+from the University and his academic transcript and/or did utter, circulate or make use of
+such forged, altered or falsified letters and academic transcript contrary to section B.I.3(a)
+of the Code.
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 1:45 p.m. on April 21, 2022. At that time, Assistant
+Discipline Counsel advised that neither the Student nor a representative of the Student had
+responded to the Notice of Electronic Hearing.
+
+3.
+
+When the Student had not joined the hearing via Zoom at 1:45 p.m. Assistant Discipline
+Counsel made submissions on proceeding with the hearing in the absence of the Student.
+She advised on September 16, 2021, the charges were served on the Student by email to
+the email address of the Student, which was the email address the Student had provided in
+the University of Toronto Repository of Student Information (“ROSI”). These charges
+were subsequently amended, and the amended charges were served on the student by email
+to the same address on January 12, 2022.
+
+4.
+
+Subsequently, on March 1, 2022, Samanthe Huang of the ADFG Office served the Student
+with the Notice of Electronic Hearing for a hearing on April 21, 2022 at 1:45 p.m. over the
+Zoom video conferencing platform (“Zoom”). Ms. Huang provided the Student with the
+log in coordinates to access Zoom.
+
+5.
+
+All of the emails to the Student were sent to the email address that the Student had provided
+in ROSI. In her Affidavit of Service, Ms. Huang has indicated that she did not receive a
+bounce back message indicating that her emails had not been received. As of April 13,
+2022, the date of Affidavit of Service was affirmed, Ms. Huang had not received response
+from the Student to any of her correspondence.
+
+3
+
+6.
+
+The University filed the Affidavit of Kimberly Blake affirmed on April 19, 2022. In her
+affidavit Ms. Blake indicates that on September 29, 2021, January 12, 2022, February 7,
+2022 and March 1, 2022 Assistant Discipline Counsel Ms. Tina Lie sent emails serving
+hearing materials and confirming the date for the hearing to the Student at the address
+provided in ROSI. The Student did not respond to any of these emails.
+
+7.
+
+On April 7, 2022, Ms. Lie forwarded the Notice of Electronic Hearing to the Student at an
+alternative email that the Student had used in correspondence with the University on
+August 6, 2019.
+
+8.
+
+On April 8 and 13, 2022, Ms. Lie sent emails to the Student at both of the same email
+addresses, attaching the affidavits on which the University intended to rely at the hearing
+and some additional documents.
+
+9.
+
+On April 8, 2022 at approximately 9:25 a.m., Ms. Blake indicates that she called the
+Student at the phone number that the University had on file for the Student. The phone rang
+a few times and an automated voicemail message came on.
+
+10.
+
+On April 19, 2022 at approximately 11:00 a.m., Ms. Blake called the Student at the same
+number. A Spanish speaking person who was not the Student answered the phone and said
+it was the wrong number.
+
+11.
+
+As of April 19, 2022, Ms. Lie’s office had not received any communication from the
+Student
+
+12.
+
+The University submitted the Affidavit of Mr. Andrew Wagg affirmed on April 5, 2022.
+Mr. Wagg is an Incident Report Architect in Information Security Information Technology
+Services at the University of Toronto. Information Technology Services manages the email
+accounts used by students. On April 5, 2022, Mr. Wagg was able to determine that the last
+time someone accessed the email account of the Student was on March 30, 2022.
+
+13.
+
+The Statutory Powers and Procedures Act, (the “Act”) section 6 states that the parties to a
+proceeding shall be given reasonable notice of the hearing by the tribunal. Section 7(3)
+
+4
+
+states that where reasonable notice of the hearing has been given to a party to a proceeding
+in accordance with the Act and the party does not participate in accordance with the notice,
+the tribunal may proceed without the party’s participation and the party is not entitled to
+any further notice in the proceeding.
+14.
+
+The Rules of Practice and Procedure (the “Rules”), Rule 9 states that charges, notices of
+hearing, and disclosure maybe served on a student by email or by courier. Rule 17 mirrors
+the provision in section 7(3) of the Act. Where notice of an electronic hearing has been
+given to the student in accordance with the Rules and the student does not attend hearing,
+the panel may proceed in the absence of student.
+
+15.
+
+The University requested that the Tribunal proceed with this hearing in the absence of the
+Student.
+
+16.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including by sending a copy of the document by courier to the student’s mailing address in
+ROSI or by emailing a copy of the document to the student’s email address in ROSI.
+
+17.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+students are responsible for maintaining a current and valid postal address and email
+account on ROSI. Students are expected to monitor and retrieve all mail, including emails,
+on a frequent and consistent basis.
+
+18.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+reasonable notice of the hearing.
+
+19.
+
+In this case, the University provided reasonable notice to the Student. The evidence shows
+that multiple attempts were made to contact the student at two different email addresses
+and by phone. The Student did not respond to any of these attempts to contact him. The
+evidence also shows that the Student last accessed the email address in ROSI on March 30,
+2022, by which time the charges and the Notice of Electronic Hearing had already been
+sent to that address.
+
+5
+
+20.
+
+For these reasons the Tribunal determined that it would proceed with the hearing in the
+absence of the Student.
+
+B.
+
+The Charges and Particulars
+
+21.
+
+At the material time in 2019, the Student was registered at University of Toronto
+Scarborough. In this case it is alleged that the Student forged or used a forged academic
+transcript, and sent this forged transcript to Immigration, Refugees and Citizenship Canada
+with a forged letter that purported to come from an official at the University. The amended
+charges emanating from this conduct were as follows:
+1.
+
+On or about June 19, 2019, you did knowingly forge or in any other way alter or falsify an
+academic record, or did utter, circulate or make use of such forged, altered or falsified
+record, namely a letter purportedly from Christine Roussel, Registration and Financial Aid
+Assistant at University of Toronto Scarborough, dated May 20, 2019, which you provided
+to Immigration, Refugees and Citizenship Canada, contrary to section B.I.3(a) of the Code.
+
+2.
+
+On or about September 11, 2019, you did knowingly forge or in any other way alter or
+falsify an academic record, and/or did utter, circulate or make use of such forged, altered
+or falsified record, namely, a document that purported to be an official transcript from the
+University of Toronto dated June 12, 2019 that was provided to Immigration, Refugees and
+Citizenship Canada, contrary to section B.I.3(a) of the Code.
+
+3.
+
+On or about September 11, 2019, you did knowingly forge or in any other way alter or
+falsify an academic record, or did utter, circulate or make use of such forged, altered or
+falsified record, namely a letter purportedly from Christine Roussel, Registration and
+Financial Aid Assistant at University of Toronto Scarborough, dated May 20, 2019, which
+you provided to Immigration, Refugees and Citizenship Canada, contrary to section
+B.I.3(a) of the Code.
+
+C.
+
+The Evidence
+
+22.
+
+The University called the evidence of Mr. Albert Tang who is an Intelligence Officer with
+Canada Border Services Agency (“CBSA”). Mr. Tang affirmed the following:
+
+6
+
+1.
+
+For foreign national study permit holders currently studying at a Canadian post-secondary
+Designated Learning Institution (“DLI”), there is an automated process that checks the study
+permit holder’s status at the DLI (except in Quebec) and reports the status to Immigration,
+Refugees and Citizenship Canada (“IRCC”). The CBSA has access to the DLI reports for
+the purposes of administering and enforcing the Immigration and Refugee Protection Act
+(the “Act”). This process occurs approximately twice a year. The University of Toronto is
+a DLI.
+
+2.
+
+In 2019, the Student held a study permit, which allowed him to study at the University of
+Toronto.
+
+3.
+
+On April 29, 2019, the DLI verification process indicated that the status for the Student at
+the University of Toronto was “Academic Suspension”.
+
+4.
+
+On or about June 19, 2019, the Student submitted an online application to IRCC which
+included a letter purportedly from Christine Roussel, Registration and Financial Aid
+Assistant, on University of Toronto Scarborough, Office of the Registrar, letterhead, dated
+May 20, 2019 (the “Purported UTSC Letter”). The Purported UTSC Letter stated:
+“This is to certify that the above named undergraduate student is registered full
+time for the next academic sessions at the University of Toronto Scarborough. The
+2019 Fall and 2020 Winter Sessions run from September 5, 2019 to April 30, 2020.
+This student is pursuing an Honours Bachelor of Mathematics Degree. These
+degrees are generally completed in April 30, 2020. This can vary depending on the
+number of credits completed in each academic session. Based on the number of
+credits completed, this student will be considered to enroll the fourth year of
+study.”
+
+5.
+
+On or about September 11, 2019, the Student submitted another online application to
+IRCC, which included the Purported UTSC Letter and a document purporting to be a
+University of Toronto Transcript of Consolidated Academic Record, dated June 12, 2019
+(the “Purported Transcript”).
+
+7
+
+6.
+
+The CBSA was given access to the applications submitted to IRCC by the Student,
+including the Purported UTSC Letter and the Purported Transcript, for the purposes of
+administering and enforcing the Act.
+
+7.
+
+On November 28, 2019, Mr. Tang sent an email to Richard Levin, University Registrar at
+the University, seeking to verify the authenticity of the Purported UTSC Letter and the
+Purported Transcript.
+
+23.
+
+Mr. Levin contacted Ms. Shelby Verboven, Registrar and Director of Enrolment
+Management at the Office of the Registrar, University of Toronto Scarborough. Ms.
+Verboven’s office is responsible for overseeing all aspects of student enrolment, including
+admissions, student recruitment, transfer credit, student records, convocation, scheduling,
+examinations, accommodated tests and examinations, T-Card, financial aid and student
+services related to registration and student enrolment. Mr. Levin asked Ms. Verboven to
+verify the accuracy of the Purported UTSC Letter and the Purported Transcript.
+
+24.
+
+Ms. Verboven was called as a witness and stated that Christine Roussel the author of the
+Purported UTSC Letter held the position of Registration and Financial Aid Assistant in
+the Office of the Registrar until April 31, 2021. She has since retired from the University.
+Ms. Verboven’s office keeps a record of all confirmation of enrolment letters that are
+issued. There is not a copy of the Purported UTSC Letter in the Student’s file, indicating
+to Ms. Verboven that it was not issued by her office. The information contained in the
+Purported UTSC Letter is not verifiable and does not match what is contained in the
+Student’s record at the University, it contains numerous inaccuracies regarding the
+Student’s course of study at the University and there are several discrepancies between
+the Purported UTSC Letter and the letters that are typically issued by her office. Ms.
+Verboven’s evidence was that the Purported UTSC Letter was a forgery.
+
+25.
+
+Ms. Verboven also reviewed the Purported Transcript and stated that the Purported
+Transcript does not reflect the Student’s academic record at the University. There are
+significant discrepancies between the Purported Transcript and the Student’s academic
+record (as reflected in the Official Transcript), including in the courses taken, the marks
+received, the credits obtained and the sessional, annual and cumulative GPAs.
+
+8
+
+26.
+
+Ms. Verboven advised the Tribunal that the Student has not been enrolled in any courses
+since Fall 2019. She also indicated that the Student’s study permit allowing the Student to
+remain in Canada expired on July 31, 2020.
+
+D.
+
+Decision of the Tribunal.
+
+27.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+convincing evidence, that the academic offence charged has been committed by the
+Student.
+
+28.
+
+The Student was charged with an offence under Section B.I.3(a) of the Code, which reads:
+It shall be an offence for a […] student […] knowingly: to forge or in any other way alter
+or falsify any academic record, or to utter, circulate or make use of any such forged, altered
+or falsified record, whether the record be in print or electronic form.
+
+29.
+
+The Purported UTSC Letter and Purported Transcript are clearly and skillfully forged, and
+an unsuspecting recipient would not know either document was a forgery at first glance.
+The University does not have to prove that the Student created the forgeries. In fact, there
+is no evidence that he did. The University must prove on a balance of probabilities that the
+Student used the forged documents. The University relies on the evidence of Mr. Tang that
+the documents were submitted through an online portal to the IRCC that only the Student
+would have had access to. The Student is the only person who would have had an interest
+in submitting such documents. There is no evidence that any other individual submitted
+these forged documents. The Student had an incentive to submit these documents to the
+IRCC in the summer and fall of 2019 to extend his study permit which would otherwise
+expire in July 2020. The only reasonable explanation is that the Student used the forged
+documents to obtain an advantage with respect to his immigration status.
+
+30.
+
+Consequently, the Tribunal finds that the Student is guilty of making use of forged, altered
+or falsified records, contrary to section B.I.3(a) of the Code.
+
+9
+
+E.
+
+Penalty
+
+31.
+
+The matter continued with a hearing on the appropriate sanction. Additional evidence was
+submitted by the University that the Student had one prior academic offence dating from
+2018 when the Student admitted that he had obtained unauthorized assistance on an
+assignment contrary to section B.I.1(b) of the Code.
+
+32.
+
+The Code provides that upon conviction, the Tribunal may order that a student be
+suspended for a period of up to five years, and may recommend that the student be expelled:
+Code section C.ii.(b)1 (h) and (i). Appendix “C” to the Code sets out the Provost’s
+Guidance on Sanctions, and states: To provide guidance to students facing a hearing at the
+Tribunal, absent exceptional circumstances, the Provost will request that the Tribunal:
+(e) recommend that a student be expelled where that student has:
+(i) forged or falsified an academic record, including but not limited to a transcript or
+unofficial report of grades; …
+(iii) submitted multiple forged or falsified documents to the University, unless that
+student has demonstrated through her or his cooperation, or otherwise, that a lesser
+penalty is appropriate; or
+
+33.
+
+Here the Tribunal has not made a finding that the Student forged the Purported UTSC
+Letter or the Purported Transcript. This requires us to consider whether the appropriate
+sanction is recommendation of expulsion, since the wording of Appendix “C” s. 8 (e)(i)
+expressly refers to forging or falsifying documents or transcripts, rather than use of forged
+of falsified documents which is the wording of the offence. Moreover, s. 8 (e) is silent on
+the appropriate sanction where the forged or falsified document is submitted, not to the
+University, but to a third party, as in this case.
+
+34.
+
+A student who makes use of a forged document is just as culpable as a student who forges
+the document himself. The culpability lies in the plan to obtain and use the forged
+document. Whether the student has the technical ability to produce the forgery himself is
+irrelevant to culpability.
+
+10
+
+35.
+
+On the issue of the forged document being provided to a third party, rather than being
+submitted to the University, Assistant Discipline Counsel provided the Tribunal with a
+chart of 20 forgery cases in which the recommended sanction in 19 of those case was
+expulsion. In the 20th case there was a joint submission on penalty. In 12 of the 20 cases,
+the forged document was submitted to a third party. No distinction should be drawn based
+on whether the forged document is used internally or externally to the University.
+
+36.
+
+The Tribunal was asked to consider the University of Toronto and Mr. C. factors (Case No.
+1976/77-3, November 5, 1976) long recognized as the leading decision on sentencing
+principles. These factors are:
+(a) the character of the person charged;
+(b) the likelihood of repetition of the offence;
+(c) the nature of the offence committed;
+(d) any extenuating circumstances surrounding the commission of the offence;
+(e) the detriment to the University by the offence; and
+(f) the need to deter others from committing a similar offence.
+
+37.
+
+The Student did not participate in any aspect of the discipline proceeding, nor did the
+Student attend the hearing. Ignoring the discipline process is suggestive of a disregard for
+the seriousness of the conduct the Student engaged in, which was an act of deliberate
+dishonesty. As the Student disregarded the discipline process, there is no evidence of
+extenuating circumstances, and nothing to suggest that any leniency be shown to the
+Student.
+
+38.
+
+There is a serious risk that the Student would offend again, given the opportunity to do so.
+The Student committed his first offence in the fall term of 2018. The Student admitted that
+
+11
+
+he received unauthorized assistance on the assignment. On April 15, 2019, the Student
+attended a meeting with the Dean’s Designate regarding the academic offence and sanction.
+At that time the Dean’s Designate impressed upon the Student the seriousness of his action
+and that this conduct must not be repeated again. This meeting was followed up with a
+confirmatory letter dated June 4, 2019 which closed, “I trust it is clear that the University
+regards with great seriousness all acts of academic dishonesty and why they cannot be
+tolerated. I hope you have learned from this unfortunate experience and nothing similar
+will happen again”.
+39.
+
+Having been warned of the consequences of academic dishonesty, just two weeks later on
+June 19, 2019 the Student submitted the Purported UTSC Letter to the IRCC. Then on
+September 11, 2019 the Student once again submitted the Purported UTSC Letter, this time
+together with the Purported Transcript. The Student clearly disregarded the warning that
+had been given to him at the meeting with the Dean’s Designate. The Student’s conduct
+following the meeting with the Dean’s Designate demonstrates an escalation of the
+dishonesty that the Student was prepared to engage in.
+
+40.
+
+Regarding the nature of the offence, the forgery or falsification of an academic record is
+an offence of the utmost seriousness because such falsification of records both undermines
+the credibility of the University and of other students who have legitimately earned their
+degrees.
+
+41.
+
+Two Tribunal decisions from 2020, the University of Toronto and S.W. (Case No. 948,
+April 16, 2020) (“S.W.”), and the University of Toronto and S.G. (Case No. 1052, October
+20, 2020) (“S.G.”) make it clear that forgery is recognized as a most serious academic
+offence. As stated in S.G., “The reasons why forgery is deserving of the most serious of
+sanctions are succinctly outlined in S.W. … forgery or falsification of academic records is
+among the most serious academic offences….Such misconduct undermines the integrity of
+the University's academic mission. It misrepresents a student's accomplishments. If
+undetected, it may result in the student obtaining a benefit which he or she does not deserve,
+deprive another more deserving student of that benefit, and tarnish the reputation of the
+University, and by extension, that of other students, alumni and faculty… Second, forgery
+
+12
+
+may be difficult to detect… Third, by its nature, forgery is only rarely an offence that can
+occur through a student's inadvertence or even mere negligence. It is usually the product
+of planning and knowing participation, not a moment of weakness or poor judgment.”
+42.
+
+Both the Purported UTSC Letter and the Purported Transcript were excellent forgeries.
+They looked like legitimate University documents. The ability of an individual to create
+forgeries of this quality and then for the Student to use them, highlights the need for the
+University to send a strong message to the university community that this conduct will not
+be tolerated and that there be deterrence of this conduct.
+
+F.
+
+Conclusion
+
+43.
+
+The Tribunal finds that the Student is guilty of the academic offence of altering or falsifying
+an academic record, and/or uttering, circulating or making use of such forged, altered or
+falsified record, contrary to section B.I.3(a) of the Code;
+
+44.
+
+For these reasons the Tribunal makes the following Orders and Recommendation:
+1. ORDERS THAT the Student is guilty of three counts of knowingly forging or in any
+other way altering or falsifying an academic record, or uttering, circulating or making
+use of such forged, altered or falsified record, contrary to section B.I.3(a) of the Code.
+2. ORDERS THAT the Student shall be immediately suspended from the University for
+a period of up to five years from the date of this order or until Governing Council makes
+its decision on expulsion, whichever comes first, and that a corresponding notation be
+placed on his academic record and transcript.
+3. RECOMMENDS to the President of the University that he recommend to the
+Governing Council that thew Student be expelled from the University.
+4. ORDERS THAT this case shall be reported to the Provost for publication of a notice
+of the decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+13
+
+Dated at Toronto this 14th day of July 2022
+Original
+signed by:
+_______________________________________________
+Mr. Simon Clements, Chair
+On behalf of the Panel
+
+

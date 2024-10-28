@@ -1,0 +1,369 @@
+THE UNIVERSITY OF TORONTO
+THE GOVERNING COUNCIL
+Report #428 of the Academic Appeals Committee
+November 10, 2023
+To the Academic Board
+University of Toronto
+Senior Chair:
+Professor Hamish Stewart
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+For the Student Appellant:
+J.J. (the “Student”)
+For the Toronto School of Theology:
+Catherine Fan, Paliare Roland Rosenberg Rothstein LLP
+Overview
+The Student was enrolled in the Master of Theological Studies program at Knox College, a
+member of the Toronto School of Theology (TST). He appealed a course grade, asking to receive
+either a notation of LWD (late withdrawal without penalty) or AEG (aegrotat standing) for the
+course. In Report #427, dated August 8, 2023, a panel of your Committee allowed the Student’s
+appeal and gave him an election as to the remedy, namely a choice between (i) resubmitting an
+essay and receiving a grade for the course and (ii) receiving a notation of INC in the course. The
+Student has yet to make his election. TST applies for directions concerning the implementation
+of the remedy. The Senior Chair of your Committee holds that the panel intended the Student to
+make his election within a reasonable time and intended INC to be the default remedy. The
+Student has stated that he needs certain information from TST before making his election and has
+agreed to make his election promptly on receiving it. The Senior Chair finds that the Student has
+received the information he requested. The Student is therefore now in a position to make his
+election. If the Student does not elect within a reasonable time, the Senior Chair authorizes TST
+to assign the Student a notation of INC.
+Background
+As noted, the Student was enrolled in the Master of Theological Studies program at Knox
+College, a member of TST. In the Fall 2021 term, the Student was enrolled in WYB3743HF,
+“Paul’s Letter to the Galatians” (Galatians). The course instructor was Professor Stephen
+Chester. The Student was also enrolled in WYB3641HF, “Matthew’s Story of Jesus” (Matthew).
+
+1
+
+Both courses were taught at Wycliffe College, a member of TST. The Student received a grade of
+FZ (failure) in each of these two courses. He appealed those grades. His appeal in Matthew was
+successful within TST and he was granted the choice between an extension to complete the
+course work or a notation of INC. Ultimately, the Student received a grade of INC in Matthew.
+The Student’s appeal of the grade in Galatians was unsuccessful within TST. The appeal process
+began with a re-reading of the paper by Professor Chester, who confirmed the failure.1 The next
+step was to have the paper read by a second reader. TST’s appeal policy stated that the second
+reader should “read the assignment free of evaluative comments of others”. On February 24,
+2022, Professor Peter Robinson, who served as Academic Dean of Wycliffe College, sent an
+email to Professor Catherine Hamilton, asking her to be the second reader. This email is critical
+to the appeal and so will be referred to as “the critical email.”2 In the body of the critical email,
+Professor Robinson stated that “[Professor Chester] gave the student a failing grade. I have
+attached the paper as well as the guidelines provided for the paper. I have also attached the
+course syllabus which also details elements of the final assignment. …”3 He also commented on
+the Student’s approach to scriptural interpretation and stated that while he was “entitled to
+[those] views, the basic question is whether or not [he] followed the guidelines for the
+assignment.” On the same day, Professor Hamilton answered Professor Robinson, stating that
+she “agreed entirely” with Professor Chester’s mark, that the paper was “incoherent” and “does
+not do – at all – what the assignment asked.” On February 28, 2022, Professor Robinson emailed
+the Student,4 informing him that the second reader “has confirmed a failing grade for the
+assignment”, summarizing the second reader’s comments, and stating that “The reviewer was
+given the essay with no grade, none of Professor Chester’s comments, and your name removed
+from the paper. In addition they were given the course syllabus and the guidelines for the paper.”
+He did not tell the Student that in the body of the critical email he had informed Professor
+Hamilton of the grade originally assigned by Professor Chester and had commented on the
+Student’s methodology.5
+The Student appealed to the TST’s Academic Appeal Committee (TST-AAC). Wycliffe College
+did not include the critical email in its materials before the TST-AAC. Among other arguments,
+the Student alleged that Wycliffe had not followed TST’s appeal procedures. He expressed
+1
+
+Professor Chester’s comments on his re-reading of the paper appear at p. 98 of TST’s appeal materials.
+
+2
+
+The critical email is reproduced as an Appendix to this Report.
+
+The Student’s paper appears twice in TST’s appeal materials: with Professor Chester’s comments at pp. 10-15, and
+with Professor Hamilton’s comments at pp. 186-197. The Senior Chair received a copy of the paper, without
+comments, from TST via ADFG on October 6, 2023. The assignment guidelines and the syllabus for Galatians
+appear respectively at pp. 81-82 and pp. 70-78 of TST’s appeal materials.
+3
+
+At p. 004 of his appeal materials, the Student states that Professor Robinson “deliberately deleted the Second
+Reader’s comment when forwarding me the Second Reader’s response, omitting a significant portion of the text.”
+This statement is not entirely correct. Professor Robinson did not forward Professor Hamilton’s email; rather, he
+paraphrased her assessment of the Student’s paper. He did omit one aspect of Professor Hamilton’s email, namely,
+that she had expressed doubts about the Student’s “ability to do a degree.” This omission is understandable, as
+expressing these doubts went beyond Professor Hamilton’s role as second reader.
+4
+
+This email is at p. 025 of the Student’s appeal materials. At p. 004 of his appeal materials, the Student states that in
+the email of February 28, “Dr. Robinson stated that the Second Reader assigned me a zero mark.” This statement is
+incorrect.
+5
+
+2
+
+“doubt whether a second reader existed at all” and argued that “[i]f there was a second reader …,
+then that person must have been allowed to see the instructor’s original comments” (TST appeal
+materials, pp. 107-108). Professor Robinson made an oral statement to the TST-AAC concerning
+the procedure followed. The TST-AAC rejected the Student’s allegations, finding that there was
+indeed a second reader and that the appeal policy had been followed. With respect to Professor
+Robinson’s oral statement, it said (TST appeal materials, p. 108):
+During oral questioning at the hearing, Wycliffe’s representative, Prof. Robinson, stated
+that he himself was the one who had put the Student Appellant’s final research paper into
+the hands of the anonymous second reader and that he had ensured that the second reader
+received nothing except the paper (without marks or comments), the assignment
+instructions, and the syllabus. … Your Committee found no reason to doubt Prof.
+Robinson’s straightforward account of what had happened, and it was unpersuaded by the
+Student Appellant’s arguments that Wycliffe was incorrect, unfair, or dishonest in its
+implementation of the BD Handbook’s procedures for having a second reader assess
+coursework.
+The Student appealed to your Committee. The critical email was included in the TST’s appeal
+materials (p. 103), with Professor Hamilton’s name redacted. The Chair of the panel that heard
+his appeal was Professor Lisa Austin of the Faculty of Law. In Report #427, the panel allowed
+the appeal. Your Committee found that Wycliffe College had not followed TST’s appeal
+procedure. Your Committee interpreted the relevant policy as follows (p. 4):
+On a plain reading of section 11.8.1 of the BD Handbook [i.e., the TST Basic Conjoint
+Degree Policy Handbook], the second reader review process was not properly followed in
+this case. The BD Handbook clearly states that the second reader should “read the assignment
+free of evaluative comments of others”. Here, the second reader was told the grade and
+provided information that suggested that the Student had not followed the assignment
+guidelines due to his views of scriptural interpretation. The second reader was even offered
+further evaluative comments of the course instructor (although these were not in fact passed
+along).
+
+Your Committee found that this policy had been violated because the critical email included
+“evaluative comments,” namely, “the grade and … information that suggested that the Student
+had not followed the assignment guidelines …” (p. 4). Your Committee did not specifically
+comment on the oral statement that Professor Robinson had made to the TST-AAC; your
+Committee did, however, explicitly reject TST’s arguments that “‘evaluative comments’ do not
+include providing the instructor’s grade” and that it was necessary to provide Professor Hamilton
+with commentary on the assignment guidelines (p. 4).
+Your Committee also found that despite some differences between the Student’s situation in
+Matthew and in Galatians, there was no principled basis for distinguishing his appeals in the two
+courses, and accordingly the Student should be put in the same position in relation to Galatians
+as he had been in relation to Matthew. As noted, in the event that his appeal was allowed, the
+Student had requested that either LWD or AEG be noted on his transcript. Your Committee
+instead granted the following remedy: that the Student be permitted to choose between receiving
+a notation of INC or resubmitting the final paper for the course. This choice of remedies put him
+3
+
+in the same position in Galatians that he had been in Matthew. Your Committee also noted that
+there is no functional difference between the notations of INC and LWD, in that both indicate
+that a student was enrolled in but neither passed nor failed the course in question. (In contrast,
+AEG is a notation indicating that a student, though not receiving a grade, has received credit for
+the course in question.) Your Committee stated the remedy granted as follows:
+… your Committee … grant a remedy of either incomplete (“INC”) or, should the
+Student elect, an extension for re-submission of his final research paper. (p. 1)
+Your Committee stated the remedy in slightly different terms on p. 8 of its report.
+On August 27, 2023, the Student asked TST to change the FZ notation on his transcript, pending
+his election between the remedies. On August 30, Professor Darren Dias, who serves as
+Executive Director of TST, wrote to the Student, indicating that TST would substitute a notation
+of SDF (“standing deferred”). SDF is not a permanent notation. Professor Dias also asked the
+Student to make his election “as soon as possible.” On September 3, the Student wrote to
+Professor Dias, stating that before he could make his election, he needed to receive the critical
+email, which he described as “the specific email that [Professor Robinson] sent to the Second
+Reader [Professor Catherine Hamilton], describing the attachments involved.” He stated that this
+email was “an indispensable part of my decision-making process between opting for
+resubmission or an ‘Incomplete’ grade.”
+On September 20, counsel for TST wrote to the Office of Appeals, Discipline and Faculty
+Grievances (ADFG), noting that the Student had not yet made his election and requesting
+directions concerning the implementation of the remedy ordered in Report #427. The critical
+email, including Professor Hamilton’s name, was included in TST’s motion materials (p. 7). TST
+asked your Senior Chair to “confirm that [the Student] be deemed to have elected to receive an
+INC in [Galatians] if he does not make an election within a reasonable time frame.”
+The Student replied promptly to TST’s request for directions. The Student characterized the
+TST’s request for directions as a request for reconsideration of Report #427 and in particular as a
+request that your Committee impose a “deadline” on his election. He noted that your Committee
+may reconsider its own decisions only in extremely limited circumstances (Report #418). He
+restated the need for “a specific document from TST to inform my decision between
+resubmitting the assignment or opting for an incomplete grade”, that is, the critical email,
+including all attachments.
+Having read the parties’ materials, the Senior Chair did not fully understand what remained at
+issue between the parties. He therefore asked the parties to meet with him (on Zoom) so that they
+could briefly state their positions. On September 27, in advance of the meeting, the Student
+wrote to ADFG asking them to “inform the Senior Chair that I am specifically, and only, seeking
+the email from Peter Robinson to the Second Reader, which contains the attachments. Once I
+receive that email, I will promptly make a decision.” The meeting occurred on October 3.
+Counsel for TST and the Student attended. The main issue discussed at the meeting was whether
+or not the Student had in fact received the critical email. At the end of the meeting, the Senior
+Chair advised the parties that he would rule on TST’s request for directions.
+
+4
+
+On October 6, counsel for TST wrote to the Student, providing another copy of the critical email,
+and stating:
+Please advise Mr. Dias of your election by October 13th at the latest. If the TST does not
+hear from you by then, I have instructions to write to the Academic Appeal Committee to
+advise that the TST has provided the original email that you had insisted on being
+produced and that you have continued to refuse to make your election.
+The Student interpreted this message as an attempt to impose on him a deadline of October 13 to
+make his election. Counsel for TST, in correspondence with ADFG, characterized it as a request
+“that the Student make his election upon being provided with a copy of the email he requested in
+its original format”. Regardless of the proper characterization of this message, the Senior Chair
+observes that the position of both parties had been made clear from the meeting on October 3:
+TST’s position was that it had already provided the critical email and the Student’s position was
+that he had not received it.
+On October 10, the Student wrote to ADFG stating: “I respectfully suggest that we pause on this
+issue until the conclusion of my appeal with Knox College”, referring to another procedure that
+is not currently before your Committee. The Senior Chair did not ask TST for its position on this
+request, as he had all the information he needed to determine TST’s motion and saw no reason to
+prolong the proceedings.
+
+Procedural and Jurisdictional Issues
+In the normal course, the appropriate person to deal with TST’s request for directions would be
+the chair of the panel that heard the Student’s appeal. However, Professor Austin is on leave for
+the academic year 2023/24. The appropriate person to respond is therefore the Senior Chair of
+your Committee.
+TST characterizes the proceedings before the Senior Chair as a motion for directions concerning
+the implementation of the remedy granted in Report #427. The Student characterizes the
+proceedings as a request for reconsideration of Report #427. He notes that your Committee has
+previously held that, except in narrow circumstances which are not relevant here, it has no
+jurisdiction to reconsider its own decisions (Report #418).
+Your Senior Chair agrees with the TST’s characterization of the proceedings. It is a motion for
+directions concerning the implementation of the remedy granted in Report #427. TST has not
+asked the Chair to reconsider the outcome of the appeal or the remedy or to vary the reasoning in
+Report #427.
+Neither party explicitly addressed the question whether your Committee, or a Chair of your
+Committee, has jurisdiction to make directions concerning the implementation of a remedy. This
+question was previously raised in Report #421, where a student argued that TST had not properly
+
+5
+
+implemented the remedy that your Committee had granted in Report #413 and requested that
+your Committee require it to do so. But in that case, your Senior Chair found that it was not
+necessary to determine the jurisdictional question because TST had already implemented the
+remedy ordered.
+Your Senior Chair holds that a Chair of your committee has jurisdiction to make directions
+concerning the implementation of a remedy. This jurisdiction arises from your committee’s
+power to make final decisions concerning “appeals made by students against decisions of faculty,
+college or school councils (or committees thereof) in the application of academic regulations”
+(Terms of Reference, s. 2.1). If there is disagreement about the implementation of a remedy, the
+decision is not final. Moreover, if a Chair of your Committee did not have this jurisdiction, in
+case of a dispute about a division’s implementation of a remedy, a student would have to begin
+the appeal process again at the department or divisional level and, if unsuccessful within their
+division, would be required to launch a fresh appeal to AAC on the narrow issue of whether a
+remedy already granted had been properly implemented. Such a procedure would be
+cumbersome, time-consuming, and disadvantageous to students.
+Normally, the Chair hearing such a motion for directions would be the Chair of the panel that
+granted the remedy, but where that Chair is not available, the Senior Chair or another Chair
+designated by the Senior Chair may hear it. A Chair hearing such a motion has no jurisdiction to
+depart from the factual findings or interpretations of university policies made by the panel that
+decided the appeal or to modify or vary the remedy granted by the panel, as such a departure
+would amount to reconsideration of the decision rather than implementation of the remedy. Any
+directions concerning the implementation of a remedy must be consistent with the findings and
+the reasoning in the Report that granted the remedy.
+Decision
+TST asks your Senior Chair to find that it is implicit in Report #427 that the choice provided to
+the Student was to be made within a reasonable time. The Student points out that Report #427
+did not impose a “deadline” on his choice and argues that your Senior Chair has no jurisdiction
+to impose such a deadline as that would in effect be a reconsideration of Report #427 (Student’s
+Reply, pp. 5-7). The Student also submits that it would be unreasonable to require him to make
+his election in the absence of the information necessary to make an informed choice between the
+two remedies and states that he has not received that information. TST notes that Report #427
+did not make the Student’s election contingent on the production of any additional information
+and submits that it has in any event provided him with the information he has requested. As
+noted, in an email of September 27 and again at the meeting on October 3, the Student clarified
+that the only information he still requires to make his election is the critical email and stated that
+on receipt of the critical email he would be able to make his election “promptly.”
+Your Senior Chair agrees with TST that it was implicit in Report #427 that the Student’s choice
+was to be made within a reasonable time. Your Committee cannot have intended that the Student
+delay his choice indefinitely. The practical consequence of indefinite delay would be that the
+temporary notation of SDF would remain on the Student’s transcript indefinitely. Your
+
+6
+
+Committee did not grant that remedy and could not have contemplated it. Your Senior Chair also
+agrees with the Student that your Committee did not, and did not intend to, impose a specific
+deadline on his election. Since your Committee neither imposed a specific deadline for the
+election nor contemplated the election being delayed indefinitely, your Committee must have
+intended the Student to make his election within a reasonable time. The Senior Chair infers that
+your Committee intended to make a notation of INC the default. As your Committee noted in
+Report #427, a notation of INC is functionally very similar to the notation of LWD originally
+sought by the Student.
+There is considerable merit in TST’s submission that Report #427 does not entitle the Student to
+additional information before making his election; yet there is also some merit in the Student’s
+argument that he should have a proper basis for making his election. But if the Student has
+indeed received the critical email, it is not necessary to decide these points because the Student
+has stated that he will make his election promptly on receiving the critical email. It is therefore
+helpful to determine whether the Student has received the critical email, unaltered and with all
+attachments. To repeat, the critical email is a message dated February 24, 2022, from Professor
+Robinson, the course instructor, to Professor Hamilton, the second reader. This email, as most
+recently received by the Student and ADFG on October 6, 2023, had three attachments: (i) a
+copy of Student’s essay for Galatians; (ii) the guidelines for the paper that Professor Robinson
+had provided to student in Galatians; and (iii) the syllabus for Galatians. In the body of the
+email, Professor Robinson described these attachments as follows: “I have attached the paper as
+well as the guidelines provided for the paper. I have also attached the course syllabus which also
+details elements of the final assignment.” TST has forwarded this email, with its attachments, to
+the Student on several different occasions, most recently on October 6.
+In his appeal materials, the Student suggested that with the critical email Professor Robinson
+might have sent Professor Hamilton the version of his paper with comments by Professor Chester
+rather than an unannotated version (Student’s appeal materials, pp. 003-004). If so, that would
+also be a violation of TST’s policy. But, in Report #427, your Committee did not explicitly make
+this finding. In any event, if Professor Robinson had sent the version with comments (and your
+Senior Chair does not find that he did), the Student also has that version of the paper (TST
+appeal materials, pp. 86-97) and has already received a remedy for TST’s violation of its own
+appeal policy. Finally, your Senior Chair notes that in Report #427, your Committee explicitly
+found that Professor Robinson did not provide Professor Hamilton with the “further evaluative
+comments of the course instructor,” i.e., Professor Chester’s comments on re-reading the paper
+(TST appeal materials, p. 98). This finding is binding on the Senior Chair in this motion ruling.
+At the meeting on October 3, the Student alleged that there might have been another attachment
+to the critical email. This allegation does not appear in the Student’s submissions to your
+Committee concerning the critical email (pp. 003-004), but is implicit in an email he sent to
+Professor Dias on September 3 (Student’s reply to TST’s motion, p. 14). At the meeting on
+October 3, the Student stated that if TST would provide him with “the actual email,” he would
+able to determine whether there was such an additional attachment. If there had been such an
+additional attachment, the body of the email would likely have been altered as well, as it refers
+only to three attachments. The Student stated that there was “a good possibility” that the email
+
+7
+
+had been altered. He did not, however, explain what procedure, apart from forwarding, could be
+used to provide him with the email.
+It is possible to edit an email before forwarding it. But the allegation that Professor Robinson
+altered the critical email before providing it to counsel for TST, thence to your Committee, and
+the Student, and now to the Senior Chair, is a very serious one, and the Senior Chair would
+expect it to be supported by evidence. There is none. The suggestion that the critical email has
+been altered is entirely speculative. The Student alluded to emails from a former executive
+director of TST which, he said, “raised alarming concerns about the accuracy and reliability of
+information provided by TST” (Student’s reply to TST’s motion, p. 7). However, he did not place
+these emails before the Senior Chair, and even if he had, they would not be a proper basis for
+finding that the critical email had been altered. Any inference about Professor Robinson’s
+conduct based on the Student’s concerns about a different person’s conduct would be entirely
+speculative. The Student suggested at pp. 004-005 of his appeal materials that Professor
+Robinson was motivated to conceal from your Committee the fact that he had provided
+evaluative comments to the second reader. If Professor Robinson did intend to conceal this fact
+(and your Senior Chair does not find that he did), he manifestly failed to do so, as evaluative
+comments were included in the body of the email as reproduced in TST’s appeal materials.
+Moreover, there is nothing in Professor Hamilton’s report to suggest that she had access to or
+relied upon anything other than the three attachments that Professor Robinson (properly)
+provided and the evaluative comments that Professor Robinson (improperly) included in the
+body of the email. (The Student has not alleged that Professor Hamilton’s email was altered in
+any way.) The Senior Chair notes, once again, that the Student has already received a remedy for
+the inclusion of evaluative comments in the critical email. Your Senior Chair finds as a fact that
+the Student has received the critical email that Professor Robinson sent to Professor Hamilton,
+unaltered and with all three of its attachments.
+The Student is therefore in a position to elect promptly between the two options provided to him
+in Report #427. The Senior Chair trusts that he will do so.
+Concluding Observation
+The Senior Chair was puzzled by Wycliffe’s failure to include the critical email in the materials it
+filed before the TST-AAC. He notes that if the TST-AAC had had this information, it would have
+been in a much better position to assess the merits of the Student’s appeal, and the Student’s
+further appeal to your Committee might have been unnecessary.
+
+8
+
+Appendix – The Critical Email
+Dear Catherine,
+I am wondering if you would be willing to help out with reviewing a paper as part of a student’s
+appeal process. A student who took Galatians with Stephen Chester last term has appealed his
+grade. As part of that appeal we need to have another faculty member review the paper to see
+whether or not the initial grade was justified. Stephen gave the student a failing grade. I have
+attached the student’s paper as well as the guidelines provided for the paper. I have also attached
+the course syllabus which also details elements of the final assignment.
+As part of this process Stephen himself has reviewed the paper and offered a further response. I
+can let you see that as well if that would be helpful.
+I should note as well that the student has expressed the following “This entire point of the paper
+and the reason why I took the course was to debunk what was to defend Paul from the
+misrepresentation of him found in the ecumenical council and scholarly work since the 19th
+century.” It seems as though the student is working with an understanding of the Noahide Laws
+and how that should inform our interpretation of scripture. While the student is entitled to their
+views the basic question is whether or not the student followed the guidelines for the assignment.
+Would you be able to do this? In this process we cannot give you the student’s name nor will the
+student be given your name. Please let me know.
+Peter
+
+9
+
+

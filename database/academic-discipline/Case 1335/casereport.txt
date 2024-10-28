@@ -1,0 +1,1978 @@
+Case No: 1335
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on January 26, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND I
+
+M
+
+REASONS FOR DECISION
+Hearing Date: December 9, 2022 and February 10, 2023, via Zoom
+Panel Members:
+Christopher Wirth, Chair
+Professor Vivienne Luk, Faculty Panel Member
+Giselle Sami Dalili, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faulty Grievances
+Not in Attendance:
+I
+
+M
+
+A Panel of the Trial Division of the University Tribunal was convened on December 9,
+2022, by videoconference to consider charges brought by the University of Toronto (the
+“University”) against I
+
+M
+
+(the “Student”) under the University’s Code of
+
+Behaviour on Academic Matters, 2019 (the “Code”).
+Preliminary Issue: Proceeding in the Absence of the Student
+The hearing was scheduled to begin at 9:45 a.m. At that time, neither the Student, nor
+anyone on the Student’s behalf, were logged onto the Zoom link. The Panel adjourned the
+hearing until 10:00 a.m. to allow time for the Student to attend it. At that time, the Student
+was still not present and the University then requested that the Panel proceed with the
+hearing in the Student’s absence.
+Pursuant to Rule 16 of the University Tribunal’s Rules of Practice and Procedure
+(“Rules”), a notice of an electronic hearing must include the date, time, place and purpose
+of the hearing; a reference to the statutory authority under which the hearing will be held;
+information about the manner in which the hearing will be held; and a statement that if a
+person does not attend the hearing, the Panel may proceed in the person’s absence. Rule
+17 provides that where notice of an electronic hearing has been given to a person and that
+person does not attend the hearing, the Panel may proceed with the hearing in the party’s
+absence. The Rules conform to sections 6 and 7 of the Statutory Powers Procedure Act
+(the “SPPA”), which set out the notice requirements.
+Pursuant to Rule 9, a notice of hearing may be served on a student by various means,
+including by emailing a copy of the document to the student’s email address contained in
+the University’s Repository of Student Information (“ROSI”).
+The University’s Policy on Official Correspondence with Students dated September 1,
+2006 expressly states that students are responsible for maintaining on ROSI a current and
+valid mailing address and University-issued email account, and that “[f]ailure to do so may
+result in a student missing important information and will not be considered an acceptable
+rationale for failing to receive official correspondence from the University.” Students are
+expected to monitor and retrieve their email on a frequent and consistent basis. Students
+
+2
+
+have the right to forward their University issued email account to another email account,
+but remain responsible for ensuring that all University email communications are received
+and read.
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+In this case, the University provided evidence relevant to service by way of the evidence
+of two witnesses: Alexciya Blair (“Ms. Blair”), a Legal Assistant at the law firm of Paliare
+Roland Rosenberg Rothstein LLP and Andrew Wagg (“Mr. Wagg”), a Manager, Incident
+Response at Information Security, Information Technology Services at the University.
+These two witnesses provided their evidence by affidavit, which were accepted by the
+Panel pursuant to Rule 61 of the Rules.
+The contents of the affidavits (without Exhibits) of these two witnesses are set out below:
+a) Evidence of Ms. Blair
+Ms. Blair’s affidavit provides as follows:
+1.
+
+I am a legal assistant at the law firm Paliare Roland Rosenberg Rothstein LLP. I
+work with William Webb, an associate at Paliare Roland, who acts as Assistant
+Discipline Counsel to the University of Toronto. As such, I have knowledge of the
+matters contained in this affidavit. Where I do not have direct knowledge of a matter
+contained in this affidavit, I state the source of my knowledge and I believe it to be
+true.
+
+A.
+
+Correspondence with UTSC
+
+2.
+
+Our office received a file from the Office of the Dean & Vice-Principal Academic
+at the University of Toronto Scarborough that contained a copy of an email and
+letter from their office to I
+
+M
+
+(the “Student”). The letter states that the
+
+Student attended a dean’s designate meeting on October 26, 2021 to discuss the
+allegations that she forged documents in support of an award and plagiarized in an
+essay. Our office also received a copy of the meeting notes from the dean’s
+3
+
+designate meeting that took place on October 26, 2021. I have attached a copy of
+this email and letter, and the meeting notes to my affidavit as Exhibit A.
+3.
+
+The Office of the Dean & Vice-Principal Academic also provided our office with a
+copy of the contact information for the student in the University’s Repository of
+Student Information (“ROSI”) and a copy of her academic record. I have attached
+a copy of the Student’s contact information and academic record to my affidavit as
+Exhibit B.
+
+4.
+
+The Student’s academic record shows that she has not enrolled in courses at the
+University since the Winter 2022 semester.
+
+B.
+
+Charges and Disclosure
+
+5.
+
+On January 26, 2022, the Office of the Vice-Provost, Faculty and Academic Life
+served the charges in this matter on the Student by email to her official University
+email address. I have attached a copy of this email and the charges to my affidavit
+as Exhibit C.
+
+6.
+
+On January 26, 2022, Robert Centa (as he then was), sent the Student an email to
+introduce himself as the prosecutor who was assigned to present the case against
+the Student at the University Tribunal. I have attached a copy of this email to my
+affidavit as Exhibit D.
+
+7.
+
+On January 26, 2022, the Office of Appeals, Discipline and Faculty Grievances (the
+“ADFG Office”) sent the Student a letter about the charges and a pamphlet for
+Downtown Legal Services. I have attached a copy of this email, letter, and pamphlet
+to my affidavit as Exhibit E.
+
+8.
+
+On January 27, 2022, the Student responded to Mr. Centa (as he then was) and
+agreed to meet the next day to discuss the matter. A copy of this email is included
+in the thread at Exhibit D.
+
+9.
+
+Mr. Webb has advised me that, on January 28, 2022, he, Mr. Centa (as he then was),
+and the Student had a call to discuss the charges.
+4
+
+10.
+
+On March 7, 2022, Mr. Webb emailed the Student links to a disclosure letter, a
+disclosure brief, and a drop box that contained further disclosure materials. On
+March 10, 2022, the Student responded to Mr. Webb’s email. I have attached a copy
+of the email thread and the disclosure letter to my affidavit as Exhibit F.
+
+C.
+
+Hearing
+
+11.
+
+From March to July 2022, Mr. Webb and the Student exchanged several emails
+about scheduling a hearing.
+
+12.
+
+On July 25, 2022, Mr. Webb emailed the Student with several additional dates for
+a hearing. On July 26, 2022, the Student responded “Fri. Dec 9 (9:45 a.m.”. Copies
+of these emails are attached to my affidavit at Exhibit F.
+
+13.
+
+On July 26, 2022, Mr. Webb emailed the ADFG Office to request that a hearing be
+scheduled for December 9, 2022 at 9:45 am. On July 28, 2022, the ADFG Office
+issued a Notice of Electronic Hearing to take place via zoom on December 9, 2022
+at 9:45 am. The ADFG Office served the notice on the Student by email to her
+official University email address. A copy of this email and the Notice of Electronic
+Hearing is attached to my affidavit as Exhibit G.
+
+14.
+
+On November 17, 2022, Mr. Webb emailed the Student that he had uploaded
+additional disclosure to the disclosure drop box. Mr. Webb again provided the
+Student with the link and the password to the drop box. A copy of this email is
+attached to my affidavit at Exhibit F.
+
+15.
+
+On November 29, 2022, Mr. Webb emailed the Student secured links to the
+affidavits of the University’s witnesses. Mr. Webb stated that the University would
+rely on the affidavits at the hearing, and he asked the Student to let our office know
+whether she intended to cross-examine any of the affiants. I have attached a copy
+of this email to my affidavit as Exhibit H.
+
+5
+
+D.
+
+Further Attempts to Contact the Student
+
+16.
+
+On November 30, 2022, at 3:42 PM, local Toronto time, Tina Lie, Assistant
+Discipline Counsel to the University of Toronto and a Partner at Paliare Roland,
+emailed the Student that she and Mr. Webb would like to discuss the case with her.
+Ms. Lie also attached a copy of the Notice of Electronic Hearing and cover email
+from the ADFG Office, and she reminded the Student that the hearing was
+scheduled for December 9, 2022 at 9:45 am. A copy of this email is included in the
+email thread at Exhibit H.
+
+17.
+
+On December 2, 2022, the ADFG Office informed the parties that their office had
+a hard stop at around 5:00 or 5:30 pm on the date of the hearing. I have attached a
+copy of these emails to my affidavit as Exhibit I.
+
+18.
+
+Mr. Webb has advised me that, on December 6, 2022:
+(a)
+
+He called the Student at the alternate number listed in ROSI, but she did not
+pick up. He left a message asking the Student to contact him as soon as
+possible, and reminding the Student that her hearing was scheduled for this
+Friday December 9 at 9:45 am via Zoom.
+
+(b)
+
+He tried to call the Student at the business number listed in ROSI, but he
+received a message stating that the number was no longer in service.
+
+19.
+
+There are no other phone numbers for the Student listed in ROSI.
+
+E.
+
+Student Web Services Activity Log
+
+20.
+
+Acorn is a web-based tool that stores University of Toronto students’ academic,
+personal, and financial records. Students can update their contact information in
+Acorn. To access their Acorn account, students need to input their UTORid and the
+password for that account. I have attached a copy of the “about Acorn” webpage to
+my affidavit as Exhibit J.
+
+6
+
+21.
+
+On December 7, 2022, the Office of the Dean & Vice-Principal Academic sent our
+office a copy of the Student Web Services Activity Log (“SWS Activity Log”) for
+the Student. The SWS Activity Log shows that the last time that someone accessed
+the Student’s Acorn account was on November 30, 2022, at 3:04 PM, Toronto time.
+I have attached a copy of the Student’s SWS Activity Log to my affidavit as Exhibit
+K.
+
+F.
+
+LinkedIn Activity
+
+22.
+
+The email that the Student sent our office on July 26, 2022 contains a link to her
+profile on the professional networking website LinkedIn. The profile contains
+educational information that matches the Student’s academic history in ROSI. As
+of December 8, 2022, the Student’s LinkedIn profile had made several posts
+between December 4 and 8, 2022. I have attached a copy of the Student’s LinkedIn
+profile and its recent activity to my affidavit as Exhibit L.
+
+23.
+
+To date, our office has not received any communications from the Student since the
+email that she sent our office on July 26, 2022, in which she confirmed that she was
+available for a hearing.
+
+b) Evidence of Mr. Wagg
+Mr. Wagg’s affidavit provides as follows:
+1.
+
+I am Manager, Incident Response at Information Security, Information Technology
+Services at the University of Toronto (the “University”). As such, I have knowledge
+of the matters contained in this affidavit. Where I do not have direct knowledge of
+a matter contained in this affidavit, I state the source of my knowledge and I believe
+it to be true.
+
+2.
+
+Information Technology Services provides many services to the University,
+including management of the email accounts used by students. To access an email
+account one needs to input both the user’s login id and the password for that
+account. The Microsoft 365 Exchange portal automatically records the last time
+
+7
+
+someone accessed a particular university-issued email account. This is denoted
+with the code “LastUserActionTime.” The LastUserActionTime log only updates
+when someone logs in to a university-issued email account.
+3.
+
+On December 1, 2022, I checked the portal records to determine the last time
+someone accessed the email account i
+
+.m
+
+@mail.utoronto.ca. In order to
+
+view the LastUserActionTime log, I ran a PowerShell script.
+4.
+
+I determined that the last time someone accessed this e-mail account was on
+November 30, 2022, at 5:09 PM, local Toronto time.
+
+The evidence establishes that the Student was aware that December 9, 2022 had been
+chosen as the date for the hearing. The University then did everything it could reasonably
+have done to contact the Student and did take the steps it was required to under the Rules.
+Accordingly, the Panel was satisfied it was more likely than not that the Student had made
+a deliberate choice to avoid and turn her back on any official communications from the
+University and not to attend the hearing. That choice has consequences.
+Therefore, in light of the evidence and the submissions of Assistant Discipline Counsel,
+the Panel was satisfied that the Student had been given reasonable notice of the time, date
+and place of the hearing and of the fact that it may proceed in her absence if she did not
+attend it, in compliance with the notice requirements of the SPPA and the Rules.
+Accordingly, the Panel decided to hear the case on its merits in the absence of the Student.
+Charges and Particulars
+The charges alleged against the Student as filed by the Provost on January 26, 2022 are as
+follows:
+A.
+
+CHMB62H3
+
+1.
+
+On March 8, 2021, you knowingly represented as your own an idea or the
+expression of an idea, and/or the work of another in a literature searching
+assignment titled “The Benefits of Vitamin B6: Harnessing Brain Health and
+Physical Health Through Increased Vitamin B6 Intake to Prevent Colorectal
+8
+
+Cancer, Heart Disease and Parkinson's disease (PD)“ (the “Assignment”) that you
+submitted in partial completion of the requirements in CHMB62H3, 2021(1)
+Introduction to Biochemistry (the “Course”) contrary to section B.I.1(d) of the
+Code.
+2.
+
+In the alternative to the charge above, on or about March 8, 2021, in the
+Assignment, you knowingly engaged in a form of cheating, academic dishonesty
+or misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind in the
+Course, contrary to section B.I.3(b) of the Code.
+
+B.
+
+King Faisal Prize
+
+3.
+
+On or about March 30, 2021, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such forged,
+altered or falsified record, namely, a document that purported to be a letter signed
+by Hira Ali with the re: line “Nominations for the King Faisal Prize for Medicine
+for Dr. I
+
+M
+
+” (the “Prize in Medicine Nomination Letter”), contrary to
+
+section B.I.3(a) of the Code.
+4.
+
+On or about March 30, 2021, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such forged,
+altered or falsified record, namely, a document that purported to be a letter signed
+by Hira Ali with the re: line “Nominations for the King Faisal Prize for Science for
+Dr. I
+
+M
+
+” (the “Prize in Science Nomination Letter”), contrary to
+
+section B.I.3(a) of the Code.
+5.
+
+On or about October 18, 2021, you knowingly forged or in any other way altered
+or falsified a document or evidence required by the University of Toronto, or
+uttered, circulated or made use of such forged, altered or falsified document,
+namely, an email from the email address ummatyfoundationcanada@gmail.com,
+which was sent by you or on your behalf to the Academic Integrity Office at the
+University of Toronto Scarborough, contrary to section B.I.1(a) of the Code.
+
+9
+
+6.
+
+In the alternative to each of the charges numbered 3 to 5 above, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind, contrary to section B.I.3(b) of the
+Code.
+
+The particulars related to charges 1 and 2 are as follows:
+(a)
+
+At all material times, you were a registered student in the University of
+Toronto Scarborough.
+
+(b)
+
+In Winter 2021, you registered in the Course, which was taught by Natashya
+Falcone.
+
+(c)
+
+On or about March 8, 2021, you submitted the Assignment, which was
+worth 10% of the final grade in the Course.
+
+(d)
+
+In the Assignment, you knowingly represented the work of other persons as
+your own, and you knowingly included ideas and expressions that were not
+your own, but were the ideas and expressions of other persons, which you
+did not acknowledge.
+
+(e)
+
+You submitted the Assignment knowing that it contained ideas, the
+expression of ideas, and verbatim or nearly verbatim text from articles,
+textbooks, or other academic work that you did not cite appropriately,
+including but not limited to:
+(i)
+
+Harvard T.H Chan School of Public Health. Vitamin B6.
+https://www.hsph.harvard.edu/nutritionsource/vitamin-b6/
+
+(f)
+
+For the purposes of obtaining academic credit and/or other academic
+advantage, you knowingly committed plagiarism in the Assignment.
+
+The particulars related to charges 3, 4, 5 and 6 are as follows:
+
+10
+
+(a)
+
+At all material times, you were a registered student in the University of
+Toronto Scarborough.
+
+King Faisal Prize
+(b)
+
+In 2021, the King Faisal Prize advertised that it would accept nominations
+for various prizes from universities, scientific institutions and research
+centers, but not from individuals or political parties. The King Faisal Prize
+advertised that its laureates would receive a certificate, a commemorative
+24-carat, 200-gram gold medallion, and a sum of SR 750,000 (US$
+200,000).
+
+(c)
+
+On or about March 29, 2021, you emailed University of Toronto officials,
+faculty, and/or staff, including Hira Ali, a staff member at the University of
+Toronto, to request a nomination for the King Faisal Prize due to the work
+that you had purported to complete on “Gene Editing Technologies and
+Mathematics.”
+
+(d)
+
+On or about April 1, 2021, you submitted or had an application submitted
+on your behalf to the King Faisal Prize in medicine, which included a copy
+of the Prize in Medicine Nomination Letter. Your application contained
+other documents that state your application had the approval of the
+University of Toronto.
+
+(e)
+
+On or about April 1, 2021, you submitted or had an application submitted
+on your behalf to the King Faisal Prize in science, which included a copy of
+the Prize in Science Nomination Letter.
+
+(f)
+
+The Prize in Medicine Nomination Letter and the Prize in Science
+Nomination Letter were forged, altered or falsified. They were not prepared
+or signed by Hira Ali.
+
+(g)
+
+Your applications to the King Faisal Prize in medicine and the King Faisal
+Prize in science did not have the approval of the University of Toronto.
+
+11
+
+(h)
+
+You submitted the Prize in Medicine Nomination Letter and the Prize in
+Science Nomination Letter or had the letters submitted on your behalf to the
+King Faisal Prize knowing that they had been forged, altered or falsified.
+You did so as part of applications to the King Faisal Prize and for the
+purposes of obtaining an academic advantage.
+
+(i)
+
+You knew that your applications to the King Faisal Prize in medicine and
+the King Faisal Prize in science contained false and/or misleading
+information. You submitted the applications or had them submitted to the
+King Faisal Prize for the purposes of obtaining an academic advantage.
+
+The Ummaty Foundation Canada
+(j)
+
+On or about July 5, 2021, the Academic Integrity Office at the University
+of Toronto Scarborough requested that you meet with them to discuss
+allegations of academic misconduct.
+
+(k)
+
+On or about October 12, 2021, you sent an email to the Academic Integrity
+Office stating that “UMMATY Foundations” submitted a reference letter
+on your behalf to the King Faisal Prize.
+
+(l)
+
+On or about October 18, 2021, the Academic Integrity Office received an
+email from the email address ummatyfoundationcanada@gmail.com, which
+stated that UMMATY Foundations had sent a letter to the King Faisal Prize
+to support your application and that there was not any forgery of documents
+on your part.
+
+(m)
+
+The email from ummatyfoundationcanada@gmail.com to the Academic
+Integrity Office was forged, altered or falsified. It was not from the Ummaty
+Foundation Canada.
+
+(n)
+
+You sent the email from ummatyfoundationcanada@gmail.com to the
+Academic Integrity Office or had it sent on your behalf knowing that the
+Academic Integrity Office would rely on it.
+
+12
+
+(o)
+
+You sent the email from ummatyfoundationcanada@gmail.com to the
+Academic Integrity Office or had it sent on your behalf knowing that it was
+forged, altered or falsified. You sent the email or had the email sent on your
+behalf to obtain an academic advantage.
+
+(p)
+
+You sent the email from ummatyfoundationcanada@gmail.com to the
+Academic Integrity Office or had it sent on your behalf knowing that doing
+so is a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation. You sent the email or had the email sent on your behalf
+to obtain an academic advantage.
+
+Assistant Discipline Counsel advised the Panel that if a finding was made for Charges 1,
+3, 4 and 5, the Provost would then withdraw Charges 2 and 6.
+The Student’s Position
+Given that the Student was not present nor represented, she was deemed to have denied the
+charges. As a result, the hearing proceeded on the basis that the University bore the burden
+of proving the charges on the balance of probabilities.
+Overview
+In addition to the previously identified affidavits, the University tendered the evidence of
+three witnesses, Tsuimy Shao (“Ms. Shao”), a PhD student in the Department of Chemistry
+at the University, Professor James Donaldson (“Professor Donaldson”), a Professor of
+Chemistry in the Department of Physical and Environmental Sciences and was the Vice
+Dean, Recruitment, Enrolment and Student Success from 2020 to 2022 at the University
+and Hira Ali (“Ms. Ali”), an Internship Program Assistant in the Department of Physical
+and Environmental Sciences and was a Student Services Assistant in the Office of the
+Registrar, who provided their evidence by affidavit, which was accepted by the Panel
+pursuant to Rule 61 of the Rules.
+After careful deliberation, and having considered all the evidence, the Panel found that on
+the balance of probabilities the evidence was sufficiently clear, cogent and convincing to
+
+13
+
+discharge the burden of proof on the University and found that the Student had committed
+academic misconduct.
+The Evidence
+The contents of the affidavits (without Exhibits) of these three witnesses are set out below:
+a) Evidence of Ms. Shao
+Ms. Shao’s affidavit provides as follows:
+1.
+
+I am a PhD student in the Department of Chemistry at the University of Toronto. I
+have worked as a teaching assistant at the University of Toronto since September
+2019. As such, I have personal knowledge of the matters set out in this affidavit.
+Where I do not have personal knowledge of a matter, I state the source of my
+information and I believe it to be true.
+
+A.
+
+The course
+
+2.
+
+In Winter 2021, I was a teaching assistant for the course CHMB62H3: Introduction
+to Biochemistry (the “course”). The course was taught by Natashya Falcone, who
+was a doctoral researcher and course instructor at the University of Toronto in
+Winter 2021. The course is a second-year undergraduate course that provides
+students with an introduction to the molecular structures of living systems.
+M
+
+(the “student”) was a student in the course.
+
+3.
+
+I
+
+4.
+
+The syllabus contained a section on academic integrity, which provided a link to
+the Code of Behaviour on Academic Matters and stated that potential academic
+offences included “[u]sing someone else’s ideas or words without appropriate
+acknowledgement.” I have attached a copy of the syllabus to my affidavit as
+Exhibit A.
+
+14
+
+B.
+
+The literature searching assignment
+
+5.
+
+Students were required to complete a literature searching assignment, worth 10% of
+their final grade in the course. The syllabus stated that students would be required
+to submit their assignments through a Turnitin program imbedded into the Quercus
+course page, and that Turnitin would be used to detect plagiarism.
+
+6.
+
+The assignment instructions stated that students were required to provide citations
+for all ideas/statements that are not common knowledge to a second-year
+undergraduate student studying biochemistry, to cite in-text using superscript
+numbers, to paraphrase rather than use direct quotes, to follow the American
+Chemical Society (“ACS”) Style Guide, and to use reliable and appropriate
+academic sources. I have attached a copy of the assignment instructions to my
+affidavit as Exhibit B.
+
+7.
+
+The assignment instructions stated that students could access a copy of the ACS
+style guide on Blackboard, the University’s learning management system. I have
+attached an excerpt of the ACS style guide that was available to students on
+Blackboard to my affidavit as Exhibit C.
+
+8.
+
+The assignment instructions stated that students would peer review each other’s
+assignments and provide feedback.
+
+9.
+
+Students were also given an assignment rubric that stated they would be evaluated
+based on their references, including their paraphrasing and their compliance with the
+ACS Style Guide. I have attached a copy of the rubric to my affidavit as Exhibit
+D.
+
+10.
+
+On February 14, 2021, the student messaged Instructor Falcone and I on Canvas to
+ask whether her proposed title was acceptable, who would mark her assignment
+after she received peer feedback, and whether the page limit included appendices,
+figures, and tables. Instructor Falcone told the student that her title was a good start
+and that her teaching assistant would mark the assignment. I have attached a copy
+of Instructor Falcone’s message to my affidavit as Exhibit E.
+15
+
+11.
+
+On February 16, 2021, I responded to the student, noting that Instructor Falcone
+had already responded to her, and that she could find out information about the
+literature assignment in the instructions. I have attached a copy of all messages
+between me and the student on Canvas to my affidavit as Exhibit F.
+
+12.
+
+On February 21, 2021, the student sent me a draft of her assignment and asked me:
+“Can you please give me feedback on the attached assignment before I hand it in?”
+The next day, I replied to the student: “Today’s deadline for the literature
+assignment is only for the draft. You will feedback from 2-3 of your fellow
+classmates during the upcoming week.” I have attached a copy of the student’s draft
+assignment to my affidavit as Exhibit G.
+
+13.
+
+On March 1, 2021, one the students’ classmates sent the student feedback about the
+assignment. I have attached a copy of the feedback to my affidavit as Exhibit H.
+
+14.
+
+On March 8, 2021, the student submitted an assignment titled, “The Benefits of
+Vitamin B6: Harnessing Brain Health and Physical Health Through Increased
+Vitamin B6 Intake to Prevent Colorectal Cancer, Heart Disease and Parkinson's
+disease (PD)” (the “Assignment”). I have attached a copy of the student’s
+Assignment to my affidavit as Exhibit I.
+
+15.
+
+The Turnitin similarity report for the Assignment came back with a similarity score
+of 77%. I have attached a screen shot of the Turnitin score to my affidavit as
+Exhibit J.
+
+16.
+
+On its webpage about how to similarity scores, Turnitin states that it “actually does
+not check for plagiarism in your work. What we actually do is check your
+submissions against our database, and if there are instances where your writing is
+similar to, or matches against, one of our sources, we will flag this for your instructor
+to review.” I have attached a copy of this webpage to my affidavit as Exhibit K.
+
+17.
+
+The Turnitin report showed that the student’s Assignment was similar to an article
+from Harvard T.H Chan, School of Public Health, titled “Vitamin B6” (the “Harvard
+
+16
+
+Article”). I have attached a copy of the Harvard Article to my affidavit as Exhibit
+L.
+18.
+
+On March 11, 2021, the student messaged me about her Assignment. The student
+stated in part:
+It has come to my attention that you accused me of plagiarizing and reported
+without informing me. I do not appreciate that. Maybe I think 77% like an
+expert.
+This assignment was peer-reviewed and the reviewer did not accuse me and
+this is what she reported:
+[…] Overall, well done! I enjoyed how you talked about various research
+studies in the literature that examined the benefits/ harms of vitamin B6 on
+human health. All your information was very up-to-date with the literature
+and provided great support to your topic. One thing I would finally suggest
+is to add in-text citations to the paragraphs, as I found the information to not
+be common knowledge. But. Other than that all the grammar and sentence
+fragments were well written. Good luck with the final paper and great work!
+[Emphasis Added]
+
+19.
+
+I had not previously mentioned the issue of plagiarism in the Assignment with the
+student, but I understand that students can view the Turnitin similarity score after
+they submit an assignment.
+
+20.
+
+The following day, on March 12, 2021, I responded to the student as follows: “Your
+assignment was flagged on tumitin and as per protocol, it was brought to the
+instructor’s attention for further investigation. There are no accusations that have
+been made nor any conclusions as tumitin is not a perfect system. Your assignment
+mark will just not be uploaded until the investigation is complete.”
+
+C.
+
+Plagiarism in the Assignment
+
+21.
+
+Because Turnitin is not a perfect system, I compared the student’s Assignment to
+the Harvard Article. The student’s Assignment cites the Harvard Article in its
+
+17
+
+references section and occasionally provides in-text citations to the Harvard Article.
+That was not my concern.
+22.
+
+I was concerned that the student’s Assignment copies several paragraphs of text
+verbatim and near verbatim from the Harvard Article without appropriate in-text
+citations or quotation marks. The student’s failure to appropriately cite ideas and
+put quotation marks around verbatim and near verbatim text is concerning because
+the syllabus, the assignment instructions, the rubric, and the ACS style guide
+provided guidance about these issues. The student also received feedback from a
+peer that warned her she should add in-text citations. I have attached a chart
+comparing the student’s Assignment to the Harvard Article to my affidavit as
+Exhibit M.
+
+23.
+
+On March 22, 2021, Instructor Falcone and I met with the student to discuss our
+concerns about plagiarism in the Assignment.
+
+b) Evidence of Professor Donaldson
+Professor Donaldson’s affidavit provides as follows:
+1.
+
+I am a Professor of Chemistry in the Department of Physical and Environmental
+Sciences at the University of Toronto Scarborough (“UTSC”). I served as Vice
+Dean, Recruitment, Enrolment and Student Success at UTSC from 2020 to 2022.
+The Registrar’s Office reported through me to the Dean at that time. As such, I have
+personal knowledge of the matters set out in this affidavit. Where I do not have
+personal knowledge of a matter, I state the source of my information and I believe
+it to be true.
+
+2.
+
+I
+
+M
+
+(the “Student”) first enrolled in UTSC in Fall 2020. I have attached
+
+a copy of the Student’s academic record to my affidavit as Exhibit A.
+3.
+
+l
+
+.m
+
+@mail.utoronto.ca is the Student’s official University email account.
+
+I have attached a copy of the Student’s contact information in the Repository of
+Student Information (“ROSI”) to my affidavit as Exhibit B.
+
+18
+
+A.
+
+The King Faisal Prize
+
+4.
+
+On February 18, 2021, the Office of the Vice-Principal Academic & Dean at UTSC
+sent a call for nominations for members to serve on an advisory committee to
+appoint a new Vice-Dean Faculty Affairs, Equity & Success. The email contained
+a memorandum about the call for nominations that was addressed to faculty, staff,
+and students, but the email itself was only sent to faculty and admin staff.
+
+5.
+
+The Student replied to the Office of the Vice-Principal Academic & Dean’s email
+on March 29, 2021. I do not know how the Student obtained a copy of this email.
+
+6.
+
+In her reply email, the Student requested a nomination to the King Faisal Prize due to
+the work that she had purported to complete on “Gene Editing Technologies and
+Mathematics.” The Student sent her email to the Office of the Vice-Principal
+Academic & Dean at UTSC, the general UTSC faculty email, the general UTSC
+administrative staff email, UTSC Awards, Hira Ali (a Student Services Assistant in
+the Office of the Registrar), Maryam Ali (a Manager of Operations & Project
+Management in the Office of the Vice- Principal Academic & Dean) and Saleha
+Khan (a Petition’s Assistant in the Office of the Registrar). I have attached a copy
+of the Student’s email to my affidavit as Exhibit C.
+
+7.
+
+On March 29, 2021, Danielle Moed, Coordinator, Student Development Arts &
+Science Co-op, informed the Student that she would not be able to complete a
+nomination because she was not familiar with the Student’s work. I have attached a
+copy of this email to my affidavit as Exhibit D. To the best of my knowledge, no
+one else responded to the Student’s email.
+
+8.
+
+The King Faisal Foundation advertises that the King Faisal Prize recognizes the
+outstanding works of individuals and institutions in five major categories: Service to
+Islam, Islamic Studies, Arabic Language and Literature, Medicine, and Science. Its
+aim is to benefit Muslims in their present and future, inspire them to participate in
+all aspects of civilization, as well as enrich human knowledge and develop mankind.
+
+19
+
+I have attached a copy of King Faisal Foundation’s webpage about the King Faisal
+Prize to my affidavit as Exhibit E.
+9.
+
+On April 1, 2021, Soliman AlMezied (“AlMezied”), Scientific Consultant at the
+King Faisal Prize, emailed Rhonda Martin, Executive Assistant to the Vice-Principal
+Academic & Dean, to inquire whether certain nominations that the King Faisal
+Prize had received were legitimate. Zahra Bhanji, Assistant Dean, Office of the
+Vice-Principal Academic & Dean, was copied on this email. AlMezied stated that
+the King Faisal Prize had received documents from a person claiming to be
+affiliated with the University, including:
+(a)
+
+A document that purported to be a letter signed by Hira Ali with the re: line
+“Nominations for the King Faisal Prize for Medicine for Dr. I
+M
+
+”, dated March 30, 2021 (the “Prize in Medicine Nomination
+
+Letter”); and
+(b)
+
+A document that purported to be a letter signed by Hira Ali with the re: line
+“Nominations for the King Faisal Prize for Science for Dr. I
+M
+
+”, dated March 30, 2021 (the “Prize in Science Nomination Letter”)
+
+(collectively, the “Nomination Letters”).
+10.
+
+AlMezied attached copies of the Nomination Letters to the email that he sent to the
+University. I have attached copies of the email from AlMezied and the Nomination
+Letters to my affidavit as Exhibit F.
+
+11.
+
+Dr. Bhanji sent AlMezied’s email to Curtis Cole, the former Registrar and Assistant
+Dean (Enrolment Management) at UTSC, and I to investigate. We reached out to
+Fiorella Sabadin, Associate Registrar and Director of Student Services at UTSC, to
+see whether Ms. Ali wrote the Nomination Letters. Ms. Sabadin informed us that
+Ms. Ali did not write the Nomination Letters.
+
+20
+
+12.
+
+On April 28, 2021, I emailed Al Mezied to confirm that UTSC neither wrote, nor
+sent the Nomination Letters to the King Faisal Prize. I also asked AlMezied about
+the origin of the letters in question. A copy of my email is included at Exhibit F.
+
+B.
+
+Meeting requests
+
+13.
+
+On May 3 and 11, 2021, Dr. Cole requested that the Student meet with him to
+discuss her application to the King Faisal Prize. I have attached a copy of the emails
+to my affidavit as Exhibit G. Dr. Cole has since retired from the University.
+
+14.
+
+I understood from Dr. Cole that he did not receive a response to his emails.
+
+C.
+
+The Application to the King Faisal Prize
+
+15.
+
+On June 8, 2021, AlMezied responded to my email of April 28, 2021. In this email,
+AlMezied confirmed that the Nomination Letters were part of an application
+package received from the email address: i
+
+.m
+
+@mail.utoronto.ca.
+
+AlMezied attached the email that the King Faisal Prize received, which included
+the application that was submitted to the King Faisal Prize in medicine. I have
+attached a copy of AlMezied’s email and the attachments to my affidavit as Exhibit
+H.
+16.
+
+The email from i
+
+.m
+
+@mail.utoronto.ca, which was attached to
+
+AlMezied’s email, was sent to Info@kingfaisalprize.org on April 1, 2022. The body
+of the email included a UTSC logo and stated:
+As the Professor and Founder of the Al-Ihsan Institute of Canada through
+which I have taught to students nationally and internationally, I am writing
+to indicate strong interest in the King Faisal International Prize for Medicine
+and trust that I have the merits for it by the permission of Allah because this
+work on Gene Editing Technologies was published and nominated by the
+University of Toronto.
+I hope that I will be a successful winner because I have conducted and
+published an original and outstanding study on the announced prize topic of
+Gene Editing Technologies Cas 9 CRISPR, resulting in significant benefit
+to humanity and to Muslims at greatest because it is available for free in
+preview (please see the link provided below) and numerous individuals
+21
+
+have viewed it, and meeting more than one of the KFP prize’s objectives as
+determined by the respective Selection Committee. I wish myself every
+success in my initiatives. Please see the attached documents. Please confirm
+that you have received them. Thank you.
+[Emphasis Added]
+17.
+
+The application email provided an “about the author” section, which stated:
+Professor I
+M
+was born on February, 2nd 1989, in Zanzibar. She
+received her bachelor’s degree from Brock University (2011) and got accept
+to an M.D. from Xavier University and completed her placement in medical
+program at the University of Toronto in 2006 at the Faculty of Medicine.
+She is currently pursuing another internship program at the University of
+Toronto pursuing her passion of Medicine, teaching and life long learning.
+Professor I
+’s
+M
+’s outstanding contribution to the fields
+of Gene Editing Technologies were published in numerous publications and
+will be presented in a prestigious university in Canada. She is an elected
+President of UMMATY Foundation and she is the chief executive officer
+(CEO) and Founder of the Institute of Medicine and Scientific Research
+Medical Institute and Medical Supplies which she had presented to the
+Unison Health Community staff in Canada.
+She hopes to be awarded the KFIP prize, in recognition of the considerable
+impact her highly original works have had on the development of a book on
+Gene Editing Technologies and its applications in medicine. She also
+developed and worked on the idea of I.H.M covid-19 vaccine. Her discovery
+of the I.H.M therapeutics have been instrumental to subsequent discoveries
+and potential cure of COVID-19 pandemic.
+[Emphasis Added]
+
+18.
+
+The signature line of the application email stated:
+
+22
+
+19.
+
+The email contained the following nine attachments:
+(a)
+
+Attachment 1: a document that included the UTSC logo, entitled “Gene
+Editing Technologies Crispr CAS 9, 1st edition” purportedly authored by
+Professor I
+
+(b)
+
+M
+
+, University of Toronto”;
+
+Attachment 2: a cover page that included the UTSC logo and stamp, that
+stated “CAS 9, CRISPR Professor I
+
+(c)
+
+M
+
+”;
+
+Attachment 3: a cover page that included the UTSC logo and stamp, that
+stated “CAS 9, CRISPR Professor I
+
+M
+
+”;
+
+(d)
+
+Attachment 4: the Prize in Medicine Nomination Letter;
+
+(e)
+
+Attachment 5: a copy of the Student’s passport
+
+(f)
+
+Attachment 6: a copy of the front of Student’s University of Toronto student
+card;
+
+(g)
+
+Attachment 7: a Curriculum Vitae for “Doctor I
+
+M
+
+, Professor”,
+
+which included the Student’s contact information and indicated that she was
+in a:
+(i)
+
+“SCSPE1660 Specialist Program in Physical and Mathematical
+Sciences Honours, Bachelor of Science, University of Toronto,
+Ontario, Canada” from 2020-2024; and
+
+(ii)
+
+“Placement in Medical Profession at the University of Toronto
+Faculty of Medicine” in 2006;
+
+(h)
+
+Attachment 8: a completed application form for the King Faisal Prize; and
+
+(i)
+
+Attachment 9: a letter from the Student to the King Faisal Price, which
+included the UTSC logo and stamp.
+
+23
+
+20.
+
+The application form (Attachment 8) states that King Faisal Prize laureates would
+receive a certificate, a commemorative 24-carat, 200-gram gold medallion, and a
+sum of USD $200,000. The application form also states that the King Faisal Prize
+would accept nominations for various prizes from universities, scientific
+institutions and research centers, but not from individuals or political parties. The
+application form also contains a section on “Nominee’s General Information”,
+which uses PDF form fields that are difficult to read. I have attached a document
+that contains the text from these form fields to my affidavit as Exhibit I.
+
+21.
+
+The application contains several documents that state or suggest the student’s
+academic work was published and nominated by the University of Toronto. In
+particular:
+(a)
+
+The application email states: “[…] this work on Gene Editing Technologies
+was published and nominated by the University of Toronto.”
+
+(b)
+
+The application contains a copy of the Prize in Medicine Nomination Letter
+(Attachment 4), which states that the University of Toronto nominated “Dr.
+I
+
+M
+
+”: “This is to nominate the above-named individual at the
+
+University of Toronto for the King Faisal Prize. This is due to the nominee’s
+achievements in the field of Medicine and her published works in the topic
+of Gene Editing Technologies.”
+(c)
+
+The application contains a Curriculum Vitae (attachment 7) that states the
+Student was in a “Placement in Medical Profession at the University of
+Toronto Faculty of Medicine” in 2006 and that she has published the
+following “textbook”: “Al-Ustadh. I
+
+M
+
+. Gene Editing
+
+Technologies Cas 9 CRISPR. 1st Edition. Volume 1. Toronto Canada:
+The “textbook”
+
+Scribd Publications, 2021. P 1-147. ISBN:
+
+is available for $15.99 at Chapters Indigo, $12.99 at Barnes and Noble, and
+for free for those who have a subscription to SCRIBD (an e-book
+subscription service that charges $12.99 per month). The cover of these
+“textbooks” is the same cover page that I
+24
+
+M
+
+submitted in her
+
+application to the King Faisal Prize (Attachments 2 and 3), which contain an
+image of the UTSC logo and stamp. I have attached a copy of these Chapters
+Indigo, Barnes and Noble, and SCRIBD webpages to my affidavit as Exhibit
+J.
+(d)
+
+The application contains a letter (Attachment 9) that states: “This letter
+includes the approval of the University of Toronto. Numerous professors at
+the University of Toronto had been invited to take part in collaboration to
+produce this work particular in the departments of Medicine and Molecular
+Genetics.”
+
+22.
+
+The application contains several documents that refer to the Student as “Professor”
+or “Dr." in close proximity to the UTSC logo or stamp. In particular:
+
+25
+
+Attachment
+Attachment 1
+
+Screenshot
+
+Attachment
+Attachment 3
+
+Attachment 9
+
+Screenshot
+
+Attachment
+Attachment 9
+
+Screenshot
+
+23.
+
+The Student is not a professor at UTSC. She has not done work on Gene Editing
+Technologies in connection with UTSC. She did not have authority to use the UTSC
+logo and stamp in this manner. Nor was any of her work ever nominated by the
+University.
+
+24.
+
+According to the Student’s University of Toronto academic record, the Student did
+not complete a “placement in [sic] medical program at the University of Toronto in
+2006 at the Faculty of Medicine.” The Student has never been enrolled in the medical
+program at the Faculty of Medicine.
+
+25.
+
+As part of her application to UTSC, the Student submitted a copy of her secondary
+school transcript, which states that she was enrolled in secondary school in the
+Toronto District School Board from 2004 to 2007. This transcript states that the
+Student completed a co-op placement as part of a grade 11 biology course in 2006,
+but the transcript does not state where she completed the placement. I have attached
+a copy of the Student’s secondary school transcript to my affidavit as Exhibit K.
+
+26.
+
+A LinkedIn page with the Student’s full name contains a cover letter and resume in
+the Student’s name with her address, phone number, and official University of
+Toronto email address. The cover letter and resume state that she participated in the
+“University of Toronto Summer Mentorship Program (Medicine)” at Toronto
+General Hospital in 2006. I have attached a copy of the LinkedIn page, resume, and
+cover letter to my affidavit as Exhibit L.
+
+D.
+
+Meeting requests
+
+27.
+
+In July 2021, at my request, the Registrar’s Office placed an administrative hold on
+the Student’s account because she did not respond to Dr. Cole’s meeting requests.
+
+28.
+
+In the meantime, the Office of the Vice-Principal Academic & Dean received a
+report that alleged the Student plagiarized in an assignment in CHMB62H3:
+Introduction to Biochemistry (the “Assignment”) from an article (“the Harvard
+Article”).
+
+29.
+
+On July 5, 2021, the Office of the Vice-Principal Academic & Dean requested that
+the Student meet to discuss the allegations of academic misconduct against them.
+The Office of the Vice-Principal Academic & Dean and the Student exchanged
+emails, but she did not attend the meeting that had been scheduled for July 14, 2021.
+Approximately two weeks later, on July 30, 2021, the Student informed the Office
+of the Vice-Principal Academic & Dean that she did not attend the meeting because
+she was in the hospital. I have attached a copy of these emails to my affidavit as
+Exhibit M.
+
+30.
+
+On October 12, 2021, the Student emailed the Office of the Vice-Principal
+Academic & Dean, stating that she wanted to resolve the issue. She wrote:
+I wanted to resolve this issue. I have drafts of the paper that came high in
+turnitin.com. I emailed the draft to the T.A prior to submitting the paper. I was
+also in the hospital with denied internet access. I wrote my papers on my
+notebook without accessing the instructions to the papers due to denied internet
+access. Two students were allowed to meet with the chair and my meeting was
+cancelled, which I thought was not fair. I was not able to attend the second
+meeting to resolve the issue because I was in the hospital
+UMMATY Foundations submitted the reference letter for me to the King Faisal
+International Prize.
+
+31.
+
+I have attached a copy of this email to my affidavit as Exhibit N.
+
+32.
+
+On October 18, 2021, the Office of the Vice-Principal Academic & Dean emailed
+the Student to reschedule the meeting. Later that day, at 5:26 pm, the Student
+emailed the Office of the Vice-Principal Academic & Dean to request that the
+meeting be scheduled for a different date. I have attached a copy of this email
+exchange to my affidavit as Exhibit O.
+
+E.
+
+The UMMATY Foundations email
+
+33.
+
+Less than two hours later, on October 18, 2021, at 6:51 pm, the Office of the VicePrincipal
+
+Academic
+
+&
+
+Dean
+
+received
+
+an
+
+email
+
+from
+
+ummatyfoundationcanada@gmail.com (the “UMMATY Email”). I have attached a
+copy of the UMMATY Email to my affidavit as Exhibit P. Below is a screen shot
+of the email that the Office of the Vice-Principal Academic & Dean received:
+30
+
+34.
+
+I searched for UMMATY Foundations, Ummaty Foundation Canada, and
+ummatyfoundationcanada@gmail.com on Google, but I did not find any direct
+results for these organizations or for this email address. I searched “UMMATY”
+and the Student’s name on Google, but I could not find any results for the student.
+I performed a reverse image search on Google for the logo in the
+ummatyfoundationcanada@gmail.com email, but I did not find any results.
+
+35.
+
+During my searches, I found an international Muslim humanitarian organization
+called “Ummaty” at https://ummaty.org. The organization states that it has one of
+its
+
+headquarters
+
+in
+
+Canada,
+
+and
+
+that
+
+its
+
+contact
+
+email address
+
+is
+
+contact@ummaty.org. The logo on ummaty.org is also different than the logo in
+
+the ummatyfoundationcanada@gmail.com email. I have attached a copy of the
+Ummaty contact us webpage to my affidavit as Exhibit Q.
+36.
+
+In my experience, anyone can set up a Gmail email account if the account name is
+not already taken. ummatyfoundationcanada@gmail.com is a Gmail email account.
+
+37.
+
+During my searches, I found a Facebook page for an organization called “Ummaty
+Foundation” that has 47 followers and was created on June 2, 2021.1 I found
+accounts on Instagram that were called “ummaty
+
+foundation”2 and
+
+“ummaty_foundation_”.3 None of these social media page lists the Student as
+president of the foundation, nor do these pages contain any email addresses. I have
+attached a copy of screen shots of these pages to my affidavit as Exhibit R.
+38.
+
+Based on my investigation, I concluded that the “UMMATY Email” was not sent
+from any of these organizations, and that “UMMATY Foundations”, “Ummaty
+Foundation Canada”, and ummatyfoundationcanada@gmail.com have no apparent
+presence on the internet.
+
+F.
+
+The Dean’s Designate meeting
+
+39.
+
+On October 26, 2021, the Office of the Vice-Principal Academic & Dean emailed
+the Student to see whether she was also willing to discuss the plagiarism allegations
+at the Dean’s meeting that was scheduled for later that day. I have attached a copy
+of this email to my affidavit as Exhibit S.
+
+40.
+
+Later that day, I met with the Student via videoconference (Zoom) to discuss the
+allegations of academic misconduct. Nisha Panchal, an academic integrity
+specialist, attended the meeting and took detailed notes. I have attached a copy of
+these notes to my affidavit as Exhibit T. I have reviewed the notes and they are in
+accord with my recollection of the meeting.
+
+1
+
+https://m.facebook.com/Ummaty-Foundation-107368394895721/?ref=page_internal.
+https://www.instagram.com/ummaty_ foundation/?hl=en.
+3
+https://www.instagram.com/ummaty_foundation_/?hl=en.
+2
+
+32
+
+41.
+
+At the start of the meeting, I gave the Student the caution that I am required to
+provide under the Code. I informed the Student that she was entitled to seek advice,
+or to be accompanied by counsel at the meeting, before making, and is not obliged to
+make, any statement or admission, but that if she made any statement or admission
+in the meeting, it may be used or receivable in evidence against her in the hearing of
+any charge with respect to the alleged offence in question. I advised the Student,
+without further comment or discussion, of the sanctions that may be imposed under
+section C.i.(b), and that I am not obliged to impose a sanction but may instead
+request that the Provost lay a charge against the Student.
+
+42.
+
+After giving the caution, I explained that the King Faisal Prize sent UTSC a
+reference letter that endorsed the Student, and that this reference letter had a forged
+signature of a UTSC staff member. The Student claimed that she asked for a letter
+from a different organization, that the King Faisal Prize had received a letter in
+support of her application, and that she did not know how this letter got there. The
+Student then stated she had nothing more to say about these allegations.
+
+43.
+
+We then discussed the allegation that the Student plagiarized in her CHMB62H3
+Assignment. I showed the Student multiple instances where her Assignment was
+virtually identical to the Harvard Article, with no change or minor changes, without
+using quotation marks or appropriate citations. The Student stated that: she tried to
+paraphrase, her work was not identical to the Harvard article, her paper had a
+references section, her professor took the issue too seriously, she should have taken
+more time to paraphrase, and she needed more time to work on the assignment.
+
+44.
+
+When I explained that she took ideas and words and presented them as her own, the
+Student said that this is not what she intended and that she cited the Harvard Article.
+I explained that I had concerns about the fact that the Student did not use quotation
+marks or in-text citations. The Student replied that she thought her Assignment was
+original, but that her professor disagreed. The Student stated that she had learned
+her lesson and that she took an effective writing course that summer.
+
+33
+
+45.
+
+When I asked the Student whether she was prepared to admit to the academic
+offence, the Student said that she had nothing more to say. I then asked the Student
+whether she believed what she did in the Assignment was correct, and she said
+“yes”.
+
+46.
+
+After the meeting, the Student sent UTSC an email that stated:
+Hello,
+I wished to solve this issue in this meeting.
+As I mentioned, I emailed a rough draft of the paper to the T.A prior to
+handing in the assignment for feedback to avoid these allegations. I also had
+a meeting with Professor Natasha and the T.A which lasted for more than
+an hour so that I could solve this. Turnitin is not a perfect system, the
+percentage came out about 40% high but I had paraphrased and used
+citations. My intentions while studying at UofT was to enroll only in
+laboratory Science classes and not writing classes. Perhaps, I should find
+out more how I can keep up with my goals of being in laboratory Science
+classes and maintaining excellent grades with all integrity while at the
+University of Toronto. I decided not to take courses with a writing
+component instead of a laboratory component which require the collection
+of one's own data.
+I learned my lesson, I took Effective Writing in the Summer and I had to
+academic integrity issues. The Biochemistry assignment was my first
+writing assignment at UofT.
+Thank you,
+I
+
+M
+
+Independent Scientist, Author, Professional Health Coach ▪ Working
+towards MD/PhD ( In progress)
+47.
+
+I have attached a copy of the Student’s email to my affidavit as Exhibit U.
+
+48.
+
+The allegations were subsequently forwarded to the Provost’s office.
+
+c) Evidence of Ms. Ali
+Ms. Ali’s affidavit provides as follows:
+
+34
+
+1.
+
+I was a Student Services Assistant in the Office of the Registrar at the University
+of Toronto Scarborough (“UTSC”). I am currently an Internship Program Assistant
+in the Department of Physical & Environmental Sciences. As such, I have personal
+knowledge of the matters set out in this affidavit. Where I do not have personal
+knowledge of a matter, I state the source of my information and I believe it to be
+true.
+
+2.
+
+The Office of the Registrar helps UTSC undergraduate students with registration,
+financial aid, scholarships and awards, exams, graduation, petitions and student
+cards.
+
+3.
+
+On January 6, 2021, I
+
+(the “student”) requested a proof of enrolment
+
+M
+
+letter. Later that day, I sent the student a proof of enrolment letter (the “Enrolment
+Letter”). The Enrolment Letter states in part: “This is to certify that the abovenamed individual is currently registered as full-time for the 2021 Winter session at
+the University of Toronto Scarborough”. I have attached a copy of these emails and
+the Enrolment Letter to my affidavit as Exhibit A.
+4.
+
+The Enrolment Letter contains a copy of my signature and a stamp of UTSC.
+
+5.
+
+On March 29, 2021, the student emailed several people at UTSC, including me, the
+Office of Vice-Principal & Dean UTSC, the general UTSC faculty email, the
+general UTSC administrative staff email, and UTSC Awards a request for a
+nomination to the King Faisal Prize. The student’s email stated in part: “I am
+wondering if I can have a nomination kindly sent for me to KFI (
+https://kingfaisalprize.org/invitations-to-nominate/ ) due to the work that I did on
+Gene Editing Technologies and Mathematics.” I have attached a copy of the
+student’s email to my affidavit as Exhibit B.
+
+6.
+
+I did not respond to the student’s request for a nomination.
+
+7.
+
+On April 5, 2021, Fiorella Sabadin, Associate Registrar and Director of Student
+Services at UTSC, informed me that the King Faisal Prize received two letters
+contained my signature. One letter stated, “Nominations for the King Faisal Prize
+35
+
+for Medicine for Dr. I
+
+M
+
+” and the other letter stated, “Nominations for
+
+the King Faisal Prize for Science for Dr. I
+
+M
+
+” (the “Nomination
+
+Letters”). Ms. Sabadin sent me a copy of the letters and asked me whether I wrote
+them. Later that day, I informed Ms. Sabadin that I did not write the letters. I have
+attached a copy of my correspondence with Ms. Sabadin and the Nomination
+Letters to my affidavit as Exhibit C.
+8.
+
+I have attached a chart comparing the Enrolment Letter that I sent to the student on
+January 6, 2021, to the Nomination Letters to my affidavit as Exhibit D.
+
+9.
+
+I did not write, approve, sign, or circulate the Nomination Letters. I had not seen
+them until Ms. Sabadin asked me whether I wrote them on April 5, 2021.
+
+This concluded the University’s evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that the evidence of Ms. Shao, Professor
+Donaldson and Ms. Ali, supports a finding on the balance of probabilities that the Student
+committed the academic offences as alleged.
+In that regard, it was submitted that the evidence in its totality demonstrated that the Student
+in her CHMB62H3 Assignment relied upon a Harvard article for it without using
+appropriate citations and that the Student also forged, altered or falsified and circulated the
+Prize in Medicine Nomination Letter and the Prize in Science Nomination Letter (the
+“Nomination
+
+Letters”)
+
+as
+
+well
+
+as
+
+an
+
+email
+
+from
+
+the
+
+email
+
+address
+
+ummatvfoundationcanada@gmail.com to the Academic Integrity Office at the University.
+Standard of Proof
+The onus is on the University to establish, based upon clear and convincing evidence on a
+balance of probabilities, that the academic offences charged have been committed.
+
+36
+
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University, the Student was
+found guilty of:
+(a)
+
+One count of the academic offence to knowingly represent as one’s own any idea
+or expression of an idea or work of another in any academic examination or term
+test or in connection with any other form of academic work, contrary to section
+B.I.1(d) of the Code as alleged in Charge 1 filed by the Provost on January 26,
+2022;
+
+(b)
+
+Two counts of the academic offence to knowingly forge or in any other way alter
+or falsify any academic record, or to utter, circulate or make use of any such forged,
+altered or falsified record, contrary to section B.I.3(a) of the Code as alleged in
+Charges 3 and 4 filed by the Provost on January 26, 2022; and
+
+(c)
+
+One count of the academic offence to knowingly forge or in any other way alter or
+falsify any document or evidence required by the University, or to utter, circulate
+or make use of any such forged, altered or falsified document, contrary to section
+B.I.1(a) of the Code as alleged in Charge 5 filed by the Provost on January 26,
+2022.
+
+Given these findings, the University withdrew Charges 2 and 6.
+Reasons for Decision
+The Panel accepted the unchallenged evidence of Ms. Shao, Professor Donaldson and Ms.
+Ali, finding that their evidence was credible and reliable.
+The evidence of Ms. Shao clearly demonstrated that the Student was made aware by the
+section in the syllabus on academic integrity that when writing the CHMB62H3
+Assignment, she was not permitted to use someone else’s ideas or words without
+appropriate acknowledgement, to commit to academic integrity and to be familiar with the
+Code of Behaviour on Academic Matters.
+
+37
+
+Despite this, the evidence clearly established that the Student knowingly represented as her
+own an idea or expression of an idea or work of another without appropriate citations, in
+particular, the Harvard article, in her CHMB62H3 Assignment.
+As such, the Panel was satisfied on the balance of probabilities that the Student relied upon
+the ideas and expression of ideas by others whom she did not cite and as such, the Student
+committed the academic offence of knowingly representing as her own an idea or
+expression of an idea or work of another in the Assignment she submitted in CHMB62H3,
+contrary to section B.I.1(d) of the Code as alleged in Charge 1 filed by the Provost on
+January 26, 2022.
+The evidence of Professor Donaldson and Ms. Ali also clearly established that the Student
+forged, altered or falsified and circulated the Nomination Letters as well as an email from
+the email address ummatvfoundationcanada@gmail.com to the Academic Integrity Office
+at the University.
+As such, the Panel was satisfied on the balance of probabilities that:
+(a)
+
+The Student sent the forged Nomination Letters for the King Faisal Prize and as
+such, the Student committed the academic offence of knowingly forging or in any
+other way altering or falsifying the Nomination Letters and to circulating the
+Nomination Letters, contrary to section B.I.3(a) of the Code as alleged in Charges
+3 and 4 filed by the Provost on January 26, 2022; and
+
+(b)
+
+The Student emailed the Academic Integrity Office at the University using an email
+address for an organization that does not exist called UNMATY Foundation Canada
+in support of her application for the King Faisal Prize and as such, the Student
+committed the academic offence of knowingly forging or in any other way altering
+or falsifying the email to the University, contrary to section B.I.1(a) of the Code as
+alleged in Charge 5 filed by the Provost on January 26, 2022.
+
+38
+
+Adjournment
+Shortly after the Panel rendered its decision and just after the University commenced its
+submissions on sanction, the Student joined the hearing. She was advised as to what had
+transpired and that she should consider retaining legal counsel. On consent of the Student
+and the University, the Panel adjourned the hearing until 9:45 a.m. on February 10, 2023,
+in order to give the Student time to retain legal counsel.
+Sanction
+The hearing resumed at 9:45 a.m. on February 10, 2023 to address the issue of sanction.
+The Student was not in attendance at that time and so the Panel adjourned the hearing for
+15 minutes to see if the Student would arrive. After having waited 15 minutes, the Panel
+noted that the Student was still not in attendance.
+A further Affidavit of Ms. Blair was provided by the University. The contents of the
+affidavit (without Exhibits) is set out below:
+I am a legal assistant at the law firm Paliare Roland Rosenberg Rothstein LLP. I
+work with William Webb, an associate at Paliare Roland, who acts as Assistant
+Discipline Counsel to the University of Toronto. As such, I have knowledge of the
+matters contained in this affidavit. Where I do not have direct knowledge of a
+matter contained in this affidavit, I state the source of my knowledge and I believe
+it to be true.
+On December 9, 2022, Mr. Webb emailed I
+
+M
+
+(the “Student”) a
+
+summary of what happened at the hearing of the academic charges against her
+earlier that day and urged her to retain counsel. Mr. Webb has advised me that the
+contents of his email are true. Mr. Webb stated in part:
+You logged into the hearing during the sanction portion of the hearing, and
+indicated that you would like an adjournment to retain counsel. The Provost
+agreed to your adjournment request to obtain counsel for the sanction
+portion of the hearing. You indicated that you thought that you would be
+able to retain counsel by February 2023, and we agreed to reconvene to deal
+with the sanction portion of the hearing on February 10, 2023 at 9:45 am.
+39
+
+We urge you to retain counsel as soon as possible. Downtown Legal
+Services provides free legal services to University of Toronto students. You
+can find out more information at their website here:
+https://downtownlegalservices.ca/. Their intake office re-opens on January
+9, 2023. We urge you to contact them as soon as their intake office re-opens.
+Alternatively, we can provide you with the contact information for lawyers
+who work in this area that charge fees for their services. Please let us know
+whether you would like referrals.
+On January 8, 2023, Mr. Webb emailed the Student to remind her that Downtown
+Legal Services’ (“DLS’”) intake office would open the next day. I have attached a
+copy of these emails to my affidavit as Exhibit A.
+On January 11, 2023, the Student copied Mr. Webb on an email to DLS. The first
+email in the thread was from DLS to the Student on October 13, 2021. In this email,
+DLS advised the Student that it could not help at the time due to limited resources,
+and provided the Student with information about other legal resources. The next
+email in the thread was from the Student to DLS on January 11, 2023. In this email,
+the Student stated in full: “I am not in a position to pay for a lawyer, is there a
+possible of obtaining legal services out if [sic] charge? Thank you.”
+On January 17, 2023, Mr. Webb emailed the Student as follows: “Based on the
+email chain below, DLS advised you that it was unable to help you due to limited
+resources in October 2021, which was over one year ago. Given that it is now
+January 2023, I urge you to call DLS again to see whether they now have resources
+to take on your case.” I have attached a copy of this email to my affidavit as Exhibit
+B.
+On February 9, 2023, the ADFG Office emailed the parties to remind them about
+the continuation of the hearing. Mr. Webb asked the ADFG Office to confirm the
+date of the continuation hearing, and the ADFG Office confirmed that the hearing
+would take place on Friday, February 10th, 2023 at 9:45 a.m. I have attached a copy
+of these email to my affidavit as Exhibit C.
+To date, our office has received no further communications from the Student.
+
+40
+
+Given this, Assistant Discipline Counsel asked the Panel to proceed with the hearing in the
+Student’s absence. As the Student had been in attendance at the hearing on December 9,
+2022 and had consented to its adjournment until February 10, 2023 at 9:45 a.m., the Panel
+was satisfied that the Student had actual notice of the continuation of the hearing and
+decided to proceed in her absence.
+The University’s Evidence on Sanction
+The University had no further evidence.
+The University’s Submissions
+The University provided the Panel with a Book of Authorities containing a number of prior
+decisions of this Tribunal and a chart summarizing them.
+Counsel for the University submitted that the proper sanctions to be imposed on the Student
+should be:
+(a)
+
+a final grade of zero in CHMB62H3;
+
+(b)
+
+a recommendation from the President of the University to Governing Council that
+the Student be expelled from the University;
+
+(c)
+
+an immediate suspension from the University for a period of up to five years from
+the date of this order or until Governing Council makes its decision on expulsion,
+whichever comes first, and that a corresponding notation be placed on the Student’s
+academic record and transcript; and
+
+(d)
+
+that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+Assistant Discipline Counsel reviewed with the Panel the chart summarizing the sanctions
+which have been given to students by this Tribunal in prior similar cases.
+
+41
+
+Assistant Discipline Counsel then reviewed with the Tribunal the principles relative to
+sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/77-3,
+November 5, 1976) (“Mr. C.”), namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of a repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+
+(d)
+
+Any extenuating circumstances;
+
+(e)
+
+The detriment to the University caused by the misconduct; and
+
+(f)
+
+The need for general deterrence.
+
+In this regard, Assistant Discipline Counsel submitted that as the Student did not attend the
+hearing and as such there is no evidence of remorse or insight or whether the Student has
+taken responsibility and learned from her mistakes consequently, there is no evidence as to
+her character or any extenuating circumstances and so that is a neutral factor.
+Further, with respect to the Student’s character, there is no evidence from the Student and
+as a result there is little information on this, however, the Student did deny having
+committed plagiarism at her meeting with the Dean and denied circulating two forged
+letters in order to obtain an international prize which would have had a significant monetary
+component of $200,000.00 US and other elements to it. She then circulated a false email
+to the Dean’s office all of which is highly troubling.
+With respect to mitigation as the Student did not attend the hearing there was no evidence
+from her and so there is no evidence with respect to mitigation before the Panel apart from
+the fact that she had no prior academic misconduct.
+With respect to likelihood of repetition, Assistant Discipline Counsel noted that the Student
+did not have any prior discipline history, but that there was a strong likelihood of repetition
+of the conduct given that she had in this case falsified and forged two letters and an email.
+
+42
+
+Further, she did not only deny her conduct, but she went to significant lengths to cover it
+up and to make excuses. This all suggests that there is a likelihood of repetition of the
+conduct by the Student.
+With respect to the nature of the offence, the University of Toronto and J.O. (Case No. 870,
+October 31, 2016) is one which dealt with forged letters for an internal prize. There the
+student denied the conduct and did not take responsibility and as well engaged in extensive
+plagiarism in an assignment.
+Here, the Student engaged in a significant amount of false work in order to attempt to
+obtain a substantial prize. She created nine attachments including a manuscript and claimed
+to be a professor. Her conduct was deliberate, intentional and very serious. Her email to
+the Academic Integrity Office was calculated and very concerning.
+With respect to the detriment to the University, the Student’s conduct was directed towards
+an external organization and constituted forgery in addition to the plagiarism which she
+engaged in with respect to her Assignment. Her conduct was deliberate and not careless.
+With respect to deterrence, it is important that students be deterred from creating false
+recommendation letters. Academic integrity is seriously undermined by plagiarism and
+there is significant detriment to the University as these type of documents are relied upon
+by third parties and therefore this conduct needs to be deterred.
+Assistant Discipline Counsel reviewed with the Panel comparisons between the letters in
+this case and how they had been altered and forged by the Student. The Student’s conduct
+in this regard shows why deterrence is equally applicable to detriment to the University in
+this case.
+The Student in this case forged letters in order to obtain a monetary benefit and consistent
+with other cases from this Tribunal those circumstances require expulsion as the Student’s
+conduct was egregious.
+In the submission of Assistant Discipline Counsel, where the Student has engaged in
+conduct such as this including forgery, expulsion can only be avoided by significant
+
+43
+
+mitigating factors, but none are present here and therefore the appropriate sanction is to
+recommend expulsion.
+Assistant Discipline Counsel also reviewed with the Panel the chart of prior decisions and
+reviewed in detail several of those prior decisions of the Tribunal to demonstrate that the
+proposed penalty was consistent with decisions of this Tribunal in similar circumstances.
+Sanction Decision
+After deliberations, the Panel ordered that the following sanctions shall be imposed on the
+Student:
+(a)
+
+a final grade of zero in CHMB62H3;
+
+(b)
+
+a recommendation from the President of the University to Governing Council that
+the Student be expelled from the University;
+
+(c)
+
+an immediate suspension from the University for a period of up to five years from
+the date of this order or until Governing Council makes its decision on expulsion,
+whichever comes first, and that a corresponding notation be placed on the Student’s
+academic record and transcript; and
+
+(d)
+
+that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+An Order was signed at the hearing by the Panel to this effect.
+Reasons for Sanction
+The Panel considered the submissions of Assistant Discipline Counsel and the factors and
+principles relevant to sanction in Mr. C, supra, as set out above.
+In addition to these factors, the Panel considered the chart of prior decisions and the other
+decisions of this Tribunal involving similar misconduct as contained in the University’s
+Book of Authorities and the sanctions imposed. However, the Panel remained cognizant of
+the fact that no two cases are identical and that it is not bound by past decisions of this
+
+44
+
+Tribunal. However, the Tribunal does try to develop a consistent body of cases so that
+students are treated fairly and consistently in similar circumstances.
+By knowingly representing as her own an idea or expression of an idea or work of another
+in the Assignment she submitted in CHMB62H3, the Student undermined the grades-based
+system of evaluation and broke the honour code that is essential to modern learning.
+Students must understand that this kind of misconduct will have serious repercussions so
+that they will be dissuaded from the temptation to consider cheating.
+The Panel accepted the University’s submission that by knowingly representing as her own
+an idea or expression of an idea or work of another in her Assignment, the Student
+committed a serious form of academic misconduct.
+The Student’s other offences were even more serious as forgery is among the most serious
+offences, but this should not overshadow that plagiarism is also a serious offence, a
+conclusion echoed in many decisions of this Tribunal, and in the Code. As discussed below,
+the Student committed each of the offences knowingly and deliberately, not through
+carelessness or inadvertence. The offences were the result of the Student’s calculated
+conduct.
+As noted above, the forgery here was a grave offence. The Student forged letters to the
+King Faisal Prize from Hira Ali on University letterhead, recommending her for a
+substantial scholarship, holding herself out to be a Doctor and a Professor. In doing so, she
+misled the King Faisal Prize. The Student’s forgery could have resulted in a significant
+financial gain to her.
+In different ways, the University is vulnerable to, and suffers detriment from, the forgery
+and plagiarism offences that the Student committed here particularly as the forgery was
+directed towards a third party in the University’s name.
+As this Tribunal held in the University of Toronto and M.K. (Case No. 491, November 5,
+2008), at para. 43, “such conduct will and must meet with the most severe reaction when
+uncovered.”
+
+45
+
+The plagiarism offence also caused harm to the University. This Tribunal has frequently
+observed that plagiarism is an offence that strikes at the heart of the academic integrity of
+the University. That is all the more so where the plagiarism is deliberate and conscious,
+rather than careless.
+This factor weighs heavily in favour of a recommendation of expulsion.
+The need to deter others from committing similar offences also weighs heavily in the
+circumstances of this case. In the Tribunal’s view, a strong message must be conveyed to
+the University community that serious offences such as these will not be tolerated, and that
+those who commit them will face serious sanctions.
+It is critical for the University that students be dissuaded from committing forgery. Forgery
+is often difficult to detect, thus requiring a strong deterrent when it is discovered.
+The integrity of the University is seriously undermined by plagiarism. The University’s
+academic program is eroded when students’ work product is not their own. Turnitin and
+other tools facilitate the detection of plagiarism, but they must be backstopped by
+meaningful penalties, particularly in cases where a student has committed more than one
+act of plagiarism.
+The Panel is persuaded that a severe sanction is required where a student is guilty of both
+forgery and plagiarism to deter others who may contemplate similar misconduct.
+This factor also weighs in favour of a recommendation of expulsion.
+As indicated, forgery is among the most serious academic offences. The usual penalty is a
+recommendation of expulsion, although in some cases a five-year suspension has been
+imposed. As the Tribunal observed in the University of Toronto and M.S. (Case No. 498,
+February 3, 2010), at para. 30, “it is clear that forgery is treated as one of the most serious
+offences in the University environment and most cases result in expulsion.”
+Where forgery has been found, a student normally only avoids a recommendation of
+expulsion where there are significant mitigating factors, or where there is a joint
+recommendation on sanction, or both. There is no joint recommendation on sanction here,
+46
+
+and as discussed above, no real mitigating circumstances, which in our view, outweigh the
+effect of the other factors here. See the University of Toronto and L.M. (Case No. 808,
+February 1, 2016), at paras. 78-79.
+Lastly, the addition of another serious offence, in this case, plagiarism, on top of forgery
+weighs in favour of a recommendation of expulsion. See the University of Toronto and
+S.G. (Case No. 711, May 11, 2015).
+In the circumstances, the Tribunal’s view is that the factors heavily weigh in favour of
+expulsion. The seriousness of the offences and the need for deterrence are particularly
+compelling in this case.
+Accordingly, the Tribunal finds that a recommendation that the Student be expelled (along
+with the additional terms sought by the University) is the appropriate sanction.
+Dated at Toronto, this 19th day of April 2023
+
+______________________________________
+Christopher Wirth, Chair
+On behalf of the Panel
+
+47
+
+

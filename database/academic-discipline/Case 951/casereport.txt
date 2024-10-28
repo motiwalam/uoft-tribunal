@@ -1,0 +1,606 @@
+Case No.: 951
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 3, 2017,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+- and J
+
+L
+
+-■
+
+REASONS FOR DECISION
+Hearing Dates: March 9, 2018
+Members of the Panel:
+Ms. Sara Zborovski, Barrister and Solicitor, Chair
+Professor Graeme Hirst, Faculty Panel Member
+Mr. Daniel Lazzam, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland, Barristers
+Ms. Sana Kawar, Manager, University of Toronto Transcript Centre
+In Attendance:
+Ms. Krista Osbourne, Administrative Clerk & Hearing Secretary, Office of Appeals,
+Discipline and Faculty Grievances (“ADFG”)
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Ms. Christina Di Matteo, Academic Integrity Officer, Office of Student Academic Integrity,
+Faculty of Arts & Science (“OSAI”)
+Ms. Laurie O’Handley, Front-line Administrator, OSAI
+Not in Attendance:
+Ms. J
+L , the Student
+
+-■
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on March 9, 2018 to consider the
+
+L (the
+I
+“Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+
+charges brought by the University of Toronto (the “University”) against Ms. J
+
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 9:45 am on March 9th, 2018. At that time,
+
+Discipline Counsel advised that neither the Student nor a representative of the Student had
+responded to the Notice of Hearing.
+3.
+
+Discipline Counsel made submissions on proceeding with the hearing in the absence
+
+of the Student. She advised the Tribunal that the following attempts had been made to
+provide notice of the charges and hearing to the Student:
+i.
+
+Between July 10 and August 10, 2017, the University attempted to
+contact the Student by email at her utoronto email address and to the
+Student’s gmail address that was provided when the Student applied
+to the University in 2013 regarding the allegation of academic
+misconduct.
+
+The Student did not respond to any of this
+
+correspondence. No “bounce back” message was received indicating
+that the email could not be delivered.
+ii.
+
+Assistant Discipline Counsel, Ms. Lie, was advised by Mike Wiseman,
+acting Director, Information Security, Information Technology Services
+at the University that the last login to the Student’s utoronto account
+was July 17, 2017 at 11:36 pm.
+
+iii.
+
+On October 3, 2017, the Office of The Vice-Provost, Faculty and
+Academic Life served the charges in this matter on the Student by
+email to the email address that the Student had provided in ROSI. No
+“bounce back” message was received indicating that the email could
+not be delivered.
+
+3
+
+iv.
+
+On October 4, 2017, the Administrative Clerk and Hearing Secretary at
+the ADFG served the Student with a letter regarding the charges,
+together with copies of the charges, the Code of Behavior on
+Academic Matters, the Rules of Practice and Procedure and a
+pamphlet for Downtown Legal Services on her utoronto email account.
+No “bounce back” message was received indicating that the email
+could not be delivered.
+
+v.
+
+On October 23, 2017, Assistant Discipline Counsel’s assistant tried
+calling the Student at the most recent number provided in ROSI. The
+call went to voicemail and the greeting only identified the phone
+number. A message was left advising that the caller was trying to
+reach the Student regarding an important University matter. The caller
+requested a return call and left Assistant Discipline Counsel’s
+telephone number.
+
+vi.
+
+Later that afternoon, Assistant Discipline Counsel’s assistant received
+a “missed call” on her phone from the number at which she tried to
+contact the Student. The caller did not leave a message.
+
+vii.
+
+On October 25, 2017, Assistant Discipline Counsel’s assistant again
+called the Student’s number in ROSI.
+
+There was no answer and
+
+another message was left requesting a return call.
+viii.
+
+On October 26, 2017, Assistant Discipline Counsel’s office sent a
+package to the Student’s email address in ROSI which included a
+letter from Ms. Lie, a disclosure brief relating to the matter, another
+copy of the charges and a copy of the University’s Policy on Official
+Correspondence with Students.
+
+No “bounce back” message was
+
+received indicating that the email could not be delivered.
+ix.
+
+Also on October 26, 2017, Ms. Lie sent an email to the Student at the
+gmail address she provided when she applied to the University in
+2013. Ms. Lie advised the Student that important correspondence and
+
+4
+
+information had been sent to her utoronto email account, and asking
+the Student to confirm her current contact information.
+x.
+
+On December 7, 2017, Ms. Lie sent an email to the Student’s utoronto
+and gmail addresses proposing dates for the scheduling of the
+hearing. The Student replied to Ms. Lie from the gmail address as
+follows:
+Hi Tina,
+I’m available after Feb. 20.
+Thank you.
+
+Bests, [sic]
+[Student]
+xi.
+
+Ms. Lie sent additional emails to the Student at both the utoronto and
+gmail addresses on December 11, 12 and 19, 2017 regarding the
+scheduling of the hearing. The Student did not respond to any of
+these emails and no “bounce back” message was received.
+
+xii.
+
+On December 19, 2017, the Administrative Clerk and Hearing
+Secretary at the ADFG served the Student with the Notice of Hearing
+for a hearing on Friday, March 9 at 9:45 am, together with a copy of
+her earlier correspondence and enclosures to both the utoronto and
+gmail accounts. On January 18, 2018, a revised Notice of Hearing
+was sent to the Student at her utoronto and gmail accounts. The only
+change to the Notice of Hearing was the identity of the faculty panel
+member. The Student did not respond to any of these emails and no
+“bounce back” message was received.
+
+xiii.
+
+On February 26, 2018 Ms. Lie sent another email to both the gmail
+and utoronto addresses reminding the Student of the hearing. Ms. Lie
+also attached another copy of the Revised Notice of Hearing.
+
+5
+
+xiv.
+
+On February 26, 2018, Ms. Lie’s assistant tried to call the Student
+again at the number in ROSI. This time she received an automated
+message indicating that the cellular number is not assigned.
+
+xv.
+
+On March 2, 2018, the Administrative Clerk and Hearing Secretary at
+the ADFG
+
+sent the Student an email at her utoronto and gmail
+
+accounts reminding her of the upcoming hearing and requesting that
+she advise if there will be any attendees from her side. The Student
+did not respond to these emails and no “bounce back” message was
+received.
+xvi.
+
+At no time were hard copies of the materials sent to the Student
+because there was no current mailing address in the Student’s ROSI
+account.
+
+4.
+
+As of the March 9th hearing date, the Student had not responded to any of the
+
+above-noted correspondence.
+5.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”) and
+
+Rule 17 of the University of Toronto Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act
+and the party does not attend the hearing, the Tribunal may proceed in the absence of the
+party and the party is not entitled to any further notice in the proceeding.
+6.
+
+The University requested that the Tribunal proceed with this hearing in the absence
+
+of the Student.
+7.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on a student by various
+
+means, including by sending a copy of the document by courier to the student’s mailing
+address in ROSI or by emailing a copy of the document to the student’s email address in
+ROSI.
+
+6
+
+8.
+
+The University’s Policy on Official Correspondence with Students expressly states
+
+that students are responsible for maintaining a current and valid postal address and email
+account on ROSI. Students are expected to monitor and retrieve all mail, including emails,
+on a frequent and consistent basis.
+9.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+
+reasonable notice of the hearing.
+10.
+
+Based on totality of the attempts made to provide notice to the Student, and given
+
+that the Student responded to Ms. Lie regarding her availability for the Hearing, the Tribunal
+concluded that the Student was given reasonable notice of the hearing in compliance with
+the notice requirements of the Act and the Rules.
+11.
+
+The Tribunal therefore determined it would proceed to hear the case on its merits in
+
+the absence of the Student, and the hearing proceeded on the basis that the Student was
+deemed to deny the Charge made against her.
+B.
+
+The Charge and Particulars
+
+12.
+
+The Charges and Particulars were detailed in a letter dated October 3, 2017 and are
+
+set out below:
+i.
+
+In or around May 2017, you knowingly forged or in any other way
+altered or falsified an academic record, and/or uttered, circulated or
+made use of such forged, altered or falsified record, namely, a letter
+purportedly from Christine Roussel, dated May 2, 2017, that you
+submitted to The Australian National University (the “Roussel Letter”),
+contrary to section B.I.3(a) of the Code.
+
+ii.
+
+In the alternative, by submitting the Roussel Letter to The Australian
+National University in or around May 2017, you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in order to obtain academic
+
+7
+
+credit or other academic advantage of any kind, contrary to section
+B.I.3(b) of the Code.
+iii.
+
+In or around May 2017, you knowingly forged or in any other way
+altered or falsified an academic record, and/or uttered, circulated or
+made use of such forged, altered or falsified record, namely, a
+University of Toronto transcript, dated May 2, 2017, that you submitted
+to The Australian National University (the “Purported Transcript”),
+contrary to section B.I.3(a) of the Code.
+
+iv.
+
+In the alternative, by submitting the Purported Transcript to The
+Australian National University in or around May 2017, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in order to obtain
+academic credit or other academic advantage of any kind, contrary to
+section B.I.3(b) of the Code.
+
+Particulars
+v.
+
+You were a registered student at the University of Toronto Faculty of
+Arts and Science, and were enrolled in courses at the University of
+Toronto, from Fall 2013 to Summer 2014.
+
+vi.
+
+By the end of Summer 2014, you had accumulated 3.0 credits. You
+have not obtained any credits from the University of Toronto since
+Summer 2014.
+
+You have not graduated from the University of
+
+Toronto.
+vii.
+
+In or around May 2017, you submitted the following documents to the
+Australian National University:
+(i)
+
+The Roussel Letter, which was a letter dated May 2, 2017,
+purportedly from Christine Roussel (which identified Ms.
+Roussel as “Registration and Financial Aid Assistant” at the
+
+8
+
+University of Toronto St. George) addressed “To Whom it May
+Concern”. The Roussel Letter stated:
+We apologize for any trouble that our mistake might have caused
+you. Recently, the electronic system and mailbox of our school have
+encountered technical problem; in addition, there is another student
+whose name is [Student] in the same grade, and the two students
+have very similar email addresses, student IDs, and selected courses.
+Therefore, some mistakes regarding the courses and GPA
+calculations appeared on the transcript we offered. We have now
+prepared the correct transcript for [Student]. We want to apologize
+again for the mistake, and thank you very much for your
+understanding.
+
+(ii)
+
+The Purported Transcript,
+
+was a University of Toronto
+
+transcript in your name, dated May 2, 2017. The Purported
+Transcript
+
+indicated, among other things, that you had
+
+attended the University of Toronto from Fall 2013 to Winter
+2017 and were conferred an Honours Bachelor of Science
+degree in June 2017.
+viii.
+
+The Roussel Letter was forged, altered or falsified. It was not authored
+by Ms. Roussel or any representative at the University of Toronto.
+
+ix.
+
+The Purported Transcript was forged, altered or falsified. It falsely
+represented your academic record at the University of Toronto,
+including:
+(i)
+
+the courses and grades for the courses in which you were
+enrolled in Fall 2013 to Summer 2014;
+
+(ii)
+
+that you had enrolled in courses from Fall 2014 to Winter 2017
+and obtained grades for those courses; and
+
+(iii)
+
+that you were conferred an Honours Bachelor of Science
+degree in June 2017.
+
+9
+
+x.
+
+You submitted the Roussel Letter and the Purported Transcript to The
+Australian National University knowing that they contained false
+information, and that they had been forged, altered or falsified.
+
+xi.
+
+You submitted the Roussel Letter and the Purported Transcript to The
+Australian National University to support your application for graduate
+studies and to obtain an academic advantage.
+
+C.
+
+The Evidence
+
+13.
+
+The University called the evidence of Ms. Sana Kawar, Manager of the University’s
+
+transcripts center. Ms. Kawar’s duties include the responsibility for responding to requests
+for confirmation of transcripts. Ms. Kawar explained the process for third-party verification
+of transcripts.
+14.
+
+Ms. Kawar advised the Tribunal that in this instance, Ms. Kawar received email
+
+correspondence dated June 2, 2017 from Amit Poonath, an Admissions Officer from the
+Australian National University originally sent to Christine Roussel, the alleged author of the
+Roussel Letter. In that correspondence, Mr. Poonath advised that the Australian National
+University had received an application from the Student for one of their postgraduate
+programs. Mr. Poonath advised that the Student had provided the Roussel Letter and an
+academic transcript (the Purported Transcript) as part of her application package, and
+requested that Ms. Roussel confirm the accuracy of the Roussel Letter and Purported
+Transcript provided by the Student.
+15.
+
+Ryan Woolfrey, Associate Registrar at the Faculty of Arts and Sciences investigated
+
+the information provided by Mr. Poonath and confirmed that both the Roussel Letter and
+Purported Transcript that were provided to the Australian National University by the Student
+were fraudulent.
+16.
+
+Mr. Woolfrey confirmed that no official transcript had been issued to the Student.
+
+He also reviewed the Student’s registration history and confirmed that the Student had only
+
+10
+
+completed 3.0 Full Course Credits with the University. Based on these factors, it was
+determined that the Purported Transcript was fraudulent.
+17.
+
+With respect to the Roussel Letter, Mr. Woolfrey noted that the footer of the
+
+letterhead lists the University’s Scarborough address however the header of the letterhead
+notes the University’s St. George campus.
+
+Based on these discrepancies with the
+
+letterhead and correspondence with Ms. Roussel’s office, it was determined that the
+Roussel Letter was fraudulent.
+18.
+
+Prior to responding to Mr. Poonath, Ms. Kawar confirmed (by way of google search)
+
+Mr. Poonath’s identity and his affiliation with the Australian National University. By email
+dated June 6, 2017, Ms. Kawar wrote to Mr. Poonath to advise as follows:
+We have checked our electronic records based on the documents that you provided we
+cannot find any evidence that the transcript you have on file is a correct copy of
+[Student]’s academic record at the University of Toronto or any evidence of a degree
+having been granted by the University of Toronto to [Student]. This would suggest that
+the transcript you have on file is not a true copy of her University of Toronto transcript nor
+did our office (the University of Toronto Transcript Centre) issue any transcripts to
+[Student] or to any third party upon her request.
+Furthermore, Ms. Roussel’s office confirmed that they did not write the explanation letter
+that [Student] submitted along with the transcript to your institution.
+
+19.
+
+In addition to providing the evidence of Ms. Kawar, the University provided the
+
+Tribunal with a copy of the Student’s Registration History which shows that the Student was
+enrolled in classes with the University during the 2013 Fall Session and the 2014 Winter
+Session, with a total accumulated 3.0 credits earned.
+20.
+
+The evidence provided by the University regarding the Student’s enrollment and
+
+performance in classes at the University is markedly different than the information contained
+in the Purported Transcript, which indicates that the Student was conferred a full degree.
+
+11
+
+D.
+
+Decision of the Tribunal.
+
+21.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+
+and convincing evidence, that the academic offence charged has been committed by the
+Student.
+22.
+
+The Student was charged with two offences under Section B.I.3(a) of the Code,
+
+which reads:
+It shall be an offence for a […] student […] knowingly: to forge or in any other way
+alter or falsify any academic record, or to utter, circulate or make use of any such
+forged, altered or falsified record, whether the record be in print or electronic form.
+
+23.
+
+The Tribunal determined that the evidence clearly established that the Roussel
+
+Letter and Purported Transcript provided by the Student to The Australian National
+University were false.
+24.
+
+Having concluded that the Roussel Letter and Purported Transcript were forgeries,
+
+and given that they were circulated and/or made use of by the Student, as evidenced by the
+fact that the Student provided them to The Australian National University in support of the
+Student’s application for graduate studies, the Tribunal found it more likely that not that the
+Student was responsible for circulating and making use of the forged records.
+25.
+
+The Tribunal found that the Student is guilty of two counts of forging or in any other
+
+way altering or falsifying an academic record, and/or uttering, circulating or making use of
+such forged, altered or falsified record, contrary to section B.I.3(a) of the Code.
+E.
+
+Penalty
+
+26.
+
+The matter continued with a hearing on the appropriate sanction. The University
+
+requested that the Tribunal make an order immediately suspending the Student for up to
+five years, and recommending to the President of the University that he recommend to the
+Governing Council that the Student be expelled from the University.
+
+12
+
+27.
+
+The panel reviewed a number of Tribunal decisions presented by the University.
+
+These cases establish the importance of the University as an educational institution and as
+a degree-granting body, and emphasize that members of the public must be able to rely on
+degree certificates allegedly issued by the University as being accurate. These decisions
+establish that the forgery or falsification of an academic record, including a transcript, is an
+offence of the utmost seriousness because such falsification both undermines the credibility
+of the University and of other students who have legitimately earned their grades and
+degrees.
+28.
+
+Additional considerations of the Tribunal included that the Student’s conduct was
+
+premediated and egregious, and that the Student did not respond to correspondence from
+the University or its counsel, nor did she attend the Hearing or send anyone on her behalf.
+As a result there were no mitigating circumstances for consideration.
+29.
+
+The Tribunal deliberated and concluded that, under the circumstances, it was
+
+appropriate to make a recommendation for expulsion
+F.
+
+Conclusion
+
+30.
+
+The Tribunal orders that the Student is guilty of the academic offence of altering or
+
+falsifying two academic records, and/or uttering, circulating or making use of such forged,
+altered or falsified records, contrary to section B.I.3(a) of the Code;
+31.
+
+The Tribunal orders that the following sanctions be imposed on the Student:
+i.
+
+The Student be immediately suspended from the University of Toronto for a
+period of up to 5 years from the date of the Tribunal’s order or until Governing
+Council makes its decision on expulsion, whichever comes first, and that a
+corresponding notation be placed on her academic record and transcript; and
+
+ii.
+
+the Tribunal recommends to the President of the University that he
+recommend to the Governing Council that the Student be expelled from the
+University; and
+
+13
+
+32.
+
+The Tribunal also ordered, that the case be reported to the Provost for publication of
+
+a notice of this decision and the sanctions imposed, with the name of the Student withheld.
+Dated at Toronto this
+
+<l~ day of
+
+2018
+
+

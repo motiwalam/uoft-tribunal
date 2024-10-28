@@ -1,0 +1,488 @@
+Case No. 1142
+UNIVERSITY TRIBUNAL
+The University of Toronto
+IN THE MATTER of charges of academic dishonesty made on January 11, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and –
+U
+
+M
+
+REASONS FOR DECISION
+Hearing Date: October 21, 2021, via Zoom
+Members of the Panel:
+Ms. Joelle Ruskin, Chair
+Dr. Ian Crandall, Faculty Panel Member
+Mr. Branden Cave, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Mr. U
+M
+
+-21.
+
+The Trial Division of the University Tribunal was convened on October 21, 2021 to
+consider the charges brought by the University of Toronto (the "University") against Mr.
+U
+
+M
+
+(the "Student") under the Code of Behaviour on Academic Matters, 1995
+
+(the "Code").
+A.
+
+The Charge
+
+2.
+
+The Student was charged on January 11, 2021 of the following:
+1.
+
+On or about November 14, 2018, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such forged, altered
+or falsified record, namely, a document which purported to be your unofficial academic
+history from the University of Toronto, contrary to section B.I.3(a) of the Code.
+
+3.
+
+The Charges contain a statement of Particulars, including the following:
+(a)
+
+You first registered at the University of Toronto Mississauga in Fall 2008. You never
+graduated from the University.
+
+(b)
+
+As part of your application for employment to BMO Financial Services, you provided a
+document that purported to be your academic history at the University of Toronto
+Mississauga.
+
+(c)
+
+You forged, altered, or falsified this document and falsely represented to BMO Financial
+Services that you had graduated from the University of Toronto Mississauga in Winter
+2012.
+
+(d)
+
+In this forged, altered or falsified document, you misrepresented your marks, grades,
+sessional grade point averages, cumulative grade point averages, and academic history and
+status.
+
+(e)
+
+You knew that this document was forged, altered, and/or falsified when you circulated it.
+
+(f)
+
+You had an obligation to provide accurate and truthful information and not to misrepresent
+your academic record. You had an obligation not to provide forged or falsified documents
+in support of your application for employment.
+
+-3B.
+
+Procedural Issues
+
+4.
+
+The hearing was scheduled to begin at 9:45 a.m. on October 21, 2021, via Zoom. The
+Student did not appear. The first issue that the Tribunal dealt with was whether the Student
+had been provided adequate notice of the hearing and whether the hearing could proceed
+in his absence.
+
+5.
+
+Assistant Discipline Counsel, relying on the Affidavit of Sharon Hawley, an assistant at
+the law firm of Paliare Roland Rosenberg Rothstein LLP ("PRRR"), submits that the
+Student had actual notice of the hearing, positively waived his right to attend at the hearing
+and that the Student agreed that the Tribunal could proceed in his absence. Exhibit 1 of Ms.
+Hawley's Affidavit is an email exchange between Assistant Discipline Counsel and the
+Student dated October 18, 2021 (the "October 18, 2021 email exchange").
+
+6.
+
+The October 18, 2021 email exchange between Assistant Discipline Counsel and the
+Student was precipitated by an email of that same date from Samanthe Huang, the
+University's Quasi-Judicial Administrative Assistant, Office of Appeals, Discipline and
+Faculty Grievances ("Ms. Huang"). Ms. Huang's email was sent to Assistant Discipline
+Counsel and to the Student offering the parties an opportunity to test their Zoom connection
+in advance of the hearing scheduled to take place three days later. Ms. Huang's email was
+sent to the Student's utoronto email account, the email address provided by the Student in
+ROSI.
+
+7.
+
+Assistant Discipline Counsel replied all to Ms. Huang's email indicating: "No one from my
+side will need to test their connection". The Student then responded and indicated, among
+other things, "I won't be able to attend the hearing". Assistant Discipline Counsel wrote
+back to the Student "Could you please confirm that you waive your right to attend the
+hearing and agree that the Tribunal should proceed in your absence?" to which the Student
+responded "Yes".
+
+8.
+
+This was not the first time that the Student had emailed from his utoronto email account or
+accessed that utoronto email account following his being sent the Charges as issued by the
+
+-4University to his utoronto email account on January 11, 2021, or the Notice of Hearing on
+September 14, 2021.
+(a)
+
+On January 28, 2021, the Student, using his utoronto email account, exchanged
+several emails with Ms. Lauren Pearce ("Ms. Pearce"), who acted as Assistant
+Discipline Counsel for the University of Toronto on this matter until August 2021.
+In the email exchange between the Student and Ms. Pearce, the Student states that
+he read the Charges and acknowledges that a hearing would be scheduled to address
+the Charges. The email exchange between the Student and Ms. Pearce of January
+28, 2021 is attached as Exhibit 1 to Ms. Pearce's Affidavit, affirmed on September
+21, 2021 ("Ms. Pearce's Affidavit").
+
+(b)
+
+Exhibit 1 of Ms. Pearce's Affidavit contains a further email from the Student dated
+April 6, 2021. The Student's email states, among other things, that "I am not going
+with any legal team and I would not be on hearing" [sic]. This was the last time
+Assistant Discipline Counsel heard from the Student until the October 18, 2021
+email exchange.
+
+(c)
+
+Mr. Andrew Wagg, the Incident Report Architect at Information Security,
+Information Technology Services at the University of Toronto, provided an
+affidavit dated October 5, 2021, indicating that the last login to the Student's
+utoronto account was October 2, 2021, at 2:58 p.m. local Toronto time. The last
+login was after the Notice of Hearing had been sent to the Student on September
+14, 2021.
+
+(d)
+
+The Student's email address in all cases referenced above is his utoronto email
+account.
+
+9.
+
+The Student's emails to Ms. Pearce and Assistant Discipline Counsel of January 28, 2021,
+April 6, 2021, and October 18, 2021, respectively, confirm that the Student was actively
+using his utoronto email account subsequent to his being sent the Charges on January 11,
+2021, and the Notice of Hearing on September 14, 2021.
+
+-510.
+
+Upon a review of the evidence and upon considering rules 9(c), 13, 16, and 17 of the
+University Tribunal’s Rules of Practice and Procedure, the Tribunal was satisfied that the
+Student was served with the Charges on January 11, 2021, and with the Notice of Electronic
+Hearing on September 14, 2021, and ordered that the hearing proceed in the Student's
+absence.
+
+C.
+
+Evidence and Findings
+
+11.
+
+The evidence of the University on the Charge was presented by way of affidavit of
+Anastasia Skiba, a Student Success Representative, in the Office of the Registrar,
+University of Toronto Mississauga ("Ms. Skiba's Affidavit").
+
+12.
+
+Ms. Skiba's evidence is that on November 14, 2018, she received a call from Ms. Jessica
+Logan, Pre-Employment Screening Coordinator, BMO Financial Group, to confirm the
+authenticity of a transcript of academic record provided to her by the Student as part of a
+job application (the "Purported Transcript"). Ms. Logan advised Ms. Skiba that the
+Purported Transcript "looked odd", and asked for Ms. Skiba's assistance to determine
+whether the Purported Transcript was authentic. On her review of the Purported Transcript,
+Ms. Skiba noted:
+(a)
+
+it appeared to be an unofficial academic record printed from ACORN;
+
+(b)
+
+it stated that the University of Toronto Mississauga had conferred an Honours
+Bachelor of Commerce degree (with distinction) on the Student in June 2012; and
+
+(c)
+
+it suggested that the Student had graduated with a double major in economics and
+finance.
+
+13.
+
+A true academic record of the Student is attached as Exhibit 2 to Ms. Skiba's Affidavit (the
+"Authentic Record"). The Authentic Record reports that:
+(a)
+
+the Student first registered as a student at the University of Toronto Mississauga in
+Fall 2008;
+
+(b)
+
+the Student majored in geography (science) and applied statistics;
+
+-6(c)
+
+in Winter 2009, the Student was placed on academic probation for poor academic
+performance;
+
+(d)
+
+in Fall 2011, the Student was sanctioned by the University due to academic
+misconduct, assigned a final mark of zero on a course and an annotation was placed
+on his transcript for a period of 12 months;
+
+(e)
+
+in Winter 2012, the Student was suspended for three years because of poor
+academic performance;
+
+(f)
+
+the Student did not return to his studies after the completion of that suspension in
+winter 2015;
+
+(g)
+
+the Student earned a total of 5 credits since registering at the University in Fall 2008
+(a student requires 20 credits to graduate); and
+
+(h)
+14.
+
+the Student did not graduate from the University.
+
+Ms. Skiba's evidence is that based on a comparison of the Purported Transcript and the
+Authentic Record of the Student, she determined that the Purported Transcript had been
+falsified. Among other things, the University had never conferred a degree on the Student.
+
+15.
+
+Assistant Discipline Counsel also drew the Tribunal's attention to internal inconsistencies
+within the Purported Transcript; namely, that the science/biology courses listed in the
+academic record submitted to BMO do not support the representation made in the
+Purported Transcript that the degree conferred on the Student was a Bachelor of Commerce
+with a double major in economics and finance.
+
+16.
+
+Ms. Skiba called Ms. Logan and pointed her in the direction of the University of Toronto
+transcript centre, which would be able to verify whether the Student had received a degree
+from the University of Toronto.
+
+17.
+
+Paragraphs 9 to 17 of Ms. Skiba's Affidavit explores the apparent source of the Purported
+Transcript, which was circulated to BMO, and what Ms. Skiba believes might have
+happened leading up to the commitment of the alleged offence. Evidence regarding the
+
+-7source or mode of a forged, altered, or falsified academic transcript is not an essential
+element of the offence under section B.1.3(a) of the Code. The Tribunal did not rely on
+that evidence in making its determination.
+Statements against Interest
+18.
+
+Assistant Discipline Counsel submits that the Tribunal should treat as admissible
+statements made by the Student against his interest in emails from the Student to Ms. Pearce
+and to Assistant Discipline Counsel, respectively. These statements are in an email
+exchange of April 6, 2021, between the Student and Ms. Pearce (Exhibit 1 of Ms. Pearce's
+Affidavit) and in the October 18, 2021 email exchange.
+
+19.
+
+The April 6, 2021 email forms part of a longer email exchange between the Student and
+Ms. Pearce, which began with an email on January 28, 2021 from Ms. Pearce. The email
+directly preceding the April 6, 2021 email of the Student is a March 30, 2021 email from
+Ms. Pearce advising the Student that if she does not hear from him by April 7, 2021, she
+would schedule the hearing without further notice.
+
+20.
+
+On April 6, 2021, the Student emailed Ms. Pearce as follows:
+Hello Lauren,
+I am sorry for not being in touch - things haven't been well. I am not going with any legal
+team and I would not be on hearing, I had made this decision after speaking with the
+lawyers you had provided the details of.
+I accept the charges. The desperate circumstances at that time had led me to do what
+I did but I accept what I did was absolutely wrong, I don't have any justifications.
+I apologize for my tardiness.
+[the Student]
+[Emphasis added]
+
+-821.
+
+In her Affidavit, Ms. Pearce states that she did not invite the alleged admission of the
+Student nor did she indicate to him that their email exchange was without prejudice or
+confidential.
+
+22.
+
+Neither Ms. Pearce nor Assistant Discipline Counsel received any further emails from the
+Student following this email until the October 18, 2021 email exchange. In his October 18,
+2021 email to Assistant Discipline Counsel, the Student states:
+Hello Robert,
+I am just seeing this email – I won't be able to attend the hearing.
+In my previous correspondence I had admitted by mistake and provided my side of the
+story.
+[Emphasis added]
+
+23.
+
+Assistant Discipline Counsel submits that the Tribunal take into consideration both of these
+alleged admissions in determining that the Student committed the academic offence of
+which he is charged.
+
+Decision of the Tribunal
+24.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+convincing evidence, that the academic offence has been committed by the Student.
+
+25.
+
+The Student was charged with an offence under section B.1.3(a) of the Code, which reads:
+It shall be an offence for a [. . .] student [. . .] knowingly to forge or in any other way alter
+or falsify any academic record or to utter, circulate or make use of any such forged, altered
+or falsified record, whether the record be in print or electronic form.
+
+26.
+
+The requirement that the Student act “knowingly” is made out if the Student ought
+reasonably to have known that the academic record in question had been forged, altered or
+falsified.
+
+-927.
+
+Following deliberation, based on the University's uncontracted affidavit evidence and the
+documents in the University's Book of Documents, the Tribunal determined that the
+evidence clearly established that the Purported Transcript provided by the Student to BMO
+was false.
+
+28.
+
+Having concluded that the Purported Transcript was a forgery, and given that it was
+circulated and/or made use of by the Student, as evidenced by the fact that the Student
+provided it to BMO, the Tribunal found it more likely than not that the Student was
+responsible for circulating and making use of the forged record.
+
+29.
+
+The Tribunal found that the Student is guilty of forging or in any other way altering or
+falsifying an academic record, and/or uttering, circulating or making use of such forged,
+altered or falsified record, contrary to section B.1.3(a) of the Code. The Tribunal reached
+this conclusion based on the University's uncontracted affidavit evidence and the
+documents in the University's Book of Documents presented by the University and without
+having to determine the admissibility of certain statements made by the Student in his
+emails to Ms. Pearce and Assistant Discipline Counsel set out in paragraphs 20 and 22
+above.
+
+Penalty
+30.
+
+The University requested that the Tribunal make an order immediately suspending the
+Student for up to five years, and recommending to the President of the University that he
+recommend to the Governing Council that the Student be expelled from the University.
+The University also submitted that this case be reported to the Provost, with the Student's
+name withheld, for publication of a notice of the decision of the Tribunal and the sanctions
+imposed.
+
+31.
+
+The Code confirms that in the case of forgery or falsification of an academic record, the
+Provost will ask the Tribunal to recommend expulsion. As noted in Appendix C of the
+Code, this request by the Provost is considered as “guidance to students facing a hearing at
+the Tribunal, absent exceptional circumstances”.
+
+- 10 32.
+
+The Tribunal is required to consider the Mr. C factors (Case No. 1976/77-3 November 5,
+1976) to support its decision on penalty: character of student, likelihood of repletion of the
+offence, nature of the offence committed, existence of extenuating circumstances,
+detriment to the University and the general need for deterrence.
+
+Character, Extenuating Circumstances, Likelihood of Repetition, Nature of the Offences
+Committed, Detriment to the University and Deterrence
+33.
+
+Assistant Discipline Counsel directed the Tribunal's attention to 13 cases involving forgery
+or falsification of an academic record. In all cases, the University recommended that the
+student be expelled and the Tribunal granted that order. This conclusion was reached even
+in cases where the student participated in the hearing and signed an Agreed Statement of
+Facts ("ASF") to make the processing of the case easier. In 12 of the 13 cases, the Student
+did not have a prior sanction for academic misconduct.
+
+34.
+
+In this case, the Student did not meaningfully participate in the academic discipline process
+or in this proceeding at all. Although the Student was clearly checking his email account,
+he did not sign an ASF when given the opportunity.
+
+35.
+
+Further, as detailed above at paragraph 13 of these Reasons, in Fall 2011, the Student was
+sanctioned by the University due to academic misconduct, assigned a final mark of zero on
+a course, and a notation was placed on his transcript for a period of 12 months. The Tribunal
+considers the Student's prior sanction as an aggravating factor in determining the
+appropriate penalty for the offence as charged.
+
+36.
+
+Even were this Tribunal to accept as admissible, for the determination of sanction only, the
+expressions of remorse made by the Student in his emails to Ms. Pearce and Assistant
+Discipline Counsel (i.e., "I accept what I did was absolutely wrong, I don't have any
+justifications"; "I had admitted by mistake" or his reference to "desperate times"), those
+statements do not describe any extenuating circumstances faced by the Student at the time
+of his committing the offence in question or mitigate against what the Tribunal considers
+to be premeditated and egregious conduct of the Student in circulating a false academic
+record to BMO as part of a job application.
+
+- 11 37.
+
+The cases provided by the University establish that forgery of an academic record is one
+of the most serious offences a student can commit. In University of Toronto v. J.R. (Case
+No. 1018, November 26, 2019) at paragraph 19, the Tribunal held:
+There can be no question that forging and circulating a degree is an extremely serious
+offence. Forged certificates damage the University's reputation, undermine the trust
+prospective employers and other academic institutions have in the University and its
+students, and harm students who have earned their degrees by forcing them to compete for
+positions against students who have not earned the qualifications they claim to hold.
+
+38.
+
+The Tribunal deliberated and concluded that, under the circumstances, it is appropriate to
+make a recommendation for expulsion.
+
+39.
+
+The Tribunal shall report this decision to the Provost for publication of a notice of this
+decision and the sanction with the Student's name withheld.
+
+40.
+
+An Order with the penalty was signed by the Tribunal after the hearing. The Tribunal
+ordered that the following be imposed:
+a) that the Student be immediately suspended from the University for a period of up
+to five years;
+b) that the Tribunal recommend to the President of the University that he recommend
+to the Governing Council that the Student be expelled from the University; and
+c) that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto, this 19 day of January 2022.
+
+- 12 -
+
+Original signed by:
+Ms. Joelle D. Ruskin, Chair
+On behalf of the Panel
+
+

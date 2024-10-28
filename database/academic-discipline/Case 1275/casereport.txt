@@ -1,0 +1,717 @@
+Case No.: 1275
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 12, 2021
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+Y
+
+L
+
+REASONS FOR DECISION
+
+Hearing Date: May 17, 2022, via Zoom
+Members of the Panel:
+Ms. Indira Stewart, Chair
+Professor Glen Jones, Faculty Panel Member
+Ms. Amal Shah, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects, Appeals, Discipline & Faculty Grievances
+Not in Attendance:
+Ms. Y
+L
+
+2
+
+1.
+
+This panel of the University Tribunal (the “Tribunal”) held a hearing on May 17, 2022 to
+
+consider the charges brought by the University of Toronto (the “University”) against Ms. Y
+L
+2.
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+The Student was enrolled in Course FAH281H5F at the University, entitled “Introduction
+
+to Islamic Art and Architecture” (the “Course”). The charges alleged that the Student was part of
+a group of approximately 15 students who obtained unauthorized assistance while completing an
+online quiz for the Course.
+A.
+
+Preliminary Issue: Notice and Proceeding in the Absence of the Student
+
+3.
+
+The hearing was scheduled to begin at 1:45 p.m. Neither the Student nor a representative
+
+of the Student attended. The parties recessed until approximately 2:00 p.m. to allow the Student
+some additional time, but the Student never attended.
+4.
+
+Assistant Discipline Counsel, Ms. Lie, made submissions on proceeding with the hearing
+
+in the absence of the Student. She filed affidavits sworn by (a) Samanthe Huang, Administrative
+Assistant, Appeals, Discipline and Faculty Grievances, Office of the Governing Council, (b)
+Kimberly Blake, Legal Assistant, Paliare Roland Rosenberg Rothstein LLP and (c) Andrew Wagg,
+Incident Report Architect, Information Technology Services, University of Toronto. These
+affidavits set out the following attempts that were made to provide notice of the charges and the
+hearing to the Student:
+i)
+
+In March 2021, the Academic Integrity Unit (“AIU”), Office of the Dean at
+the University of Toronto Mississauga (“UTM”) contacted the Student by
+email regarding the allegation of academic misconduct in the present case.
+The email address used was the one assigned to the Student by the
+University (a utoronto.ca account). The address was provided by the
+Student in the University’s Repository of Student Information (“ROSI”).
+The Student met with the Dean’s Designate for Academic Integrity on
+March 15, 2021.
+
+3
+
+ii)
+
+On October 12, 2021, the Office of the Vice-Provost, Faculty and Academic
+Life, served charges on the Student via email to the Student’s utoronto email
+address.
+
+iii)
+
+On October 13, 2021, Ms. Huang, for the Office of Appeals, Discipline and
+Faculty Grievances (the “ADFG Office”), University of Toronto, served the
+Student with a letter regarding the charges that were filed against her. She
+also included copies of the charges, the Code, the Rules of Practice and
+Procedure and a pamphlet for Downtown Legal Services, a clinic that
+provides pro bono legal representation to students. These documents were
+served by email to the Student’s utoronto email address. Ms. Huang did not
+receive a “bounce back” message to this email.
+
+iv)
+
+On October 15, 2021, Assistant Discipline Counsel sent the Student an
+email introducing herself and advising that important documents and
+correspondence would be forthcoming via the Student’s utoronto address.
+She further sent the Student a disclosure letter, a disclosure brief and a copy
+of the University’s Policy on Official Correspondence with Students to the
+Student’s utoronto address on January 26, 2022.
+
+v)
+
+On March 28, 2022, Assistant Discipline Counsel emailed the Student at
+her utoronto address about scheduling a hearing date. Assistant Discipline
+Counsel advised that if she did not hear back by April 4, 2022, she would
+request a hearing date be scheduled. The Student did not respond to this
+email.
+
+vi)
+
+On April 5, 2022, Assistant Discipline Counsel emailed the Student
+advising that she would request a hearing be scheduled for May 17, 2022 at
+1:45 p.m. On this same date, Assistant Discipline Counsel emailed the
+ADFG Office to request a hearing be scheduled for the above-noted date
+and time. The Student was copied on this email at her utoronto address.
+
+4
+
+vii)
+
+On April 6, 2022, the ADFG Office issued a Notice of Electronic Hearing
+to take place via Zoom on May 17, 2022 at 1:45 p.m. The ADFG Office
+served the Student, via email, with this Notice together with copies of the
+October 13, 2021 letter including charges and enclosures. The Student was
+advised that the hearing would be conducted via Zoom and information was
+provided to access the hearing via videoconference. The email was again
+sent to the Student’s utoronto address and, again, no “bounce back” message
+was received.
+
+viii)
+
+On May 5, 6 and 10, 2022, Assistant Discipline Counsel emailed additional
+disclosure to the Student at her utoronto address, in addition to copies of the
+affidavits of the Provost’s witnesses.
+
+ix)
+
+On May 9, 2022, a courier, arranged by Assistant Discipline Counsel,
+attempted to deliver a package to the Student. The package contained a
+letter from Assistant Discipline Counsel and a cover email from the ADFG
+Office with attached copies of the Notice of Electronic Hearing and charges
+in this matter. The package was successfully delivered to the permanent
+address listed in ROSI for the Student; at 1:16 p.m. the package was signed
+for by what appeared to be the building’s concierge. A second attempt to
+deliver the package to the Student’s mailing address, as listed in ROSI, was
+unsuccessful as the location in question was a commercial rather than a
+residential building.
+
+x)
+
+Also on May 9, 2022, Andrew Wagg of the University’s Information
+Technology Services used the Microsoft 365 Exchange portal to determine
+the Student’s utoronto email account was last accessed on March 31, 2022
+at 5:05 a.m. Eastern Standard Time.
+
+xi)
+
+In addition to the above, efforts were made by an administrative assistant at
+Assistant Discipline Counsel’s law firm to contact the Student via telephone
+on May 6 and May 10, 2022. Those efforts were unsuccessful.
+
+5
+
+5.
+
+As of May 11, 2022, in the case of the ADFG Office, and May 13, 2022, in the case of
+
+Assistant Discipline Counsel, the Student had not responded to any of the above-noted
+correspondence.
+6.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”) and Rule
+
+17 of the Tribunal’s Rules of Practice and Procedure (the “Rules”), where reasonable notice of an
+oral hearing has been given to a party in accordance with the Act and the party does not attend the
+hearing, the Tribunal may proceed in the absence of the party and the party is not entitled to any
+further notice of the proceeding.
+7.
+
+Pursuant to Rule 9 of the Rules, a Notice of Hearing may be served on a student by various
+
+means, including by sending a copy of the document by courier to the student’s mailing address in
+ROSI or by emailing a copy of the document to the student’s email address in ROSI.
+8.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+
+reasonable notice of the hearing. It is important to note that reasonable notice, rather than actual
+notice is the requirement.
+9.
+
+The Tribunal was satisfied that multiple attempts were made to provide notice to the
+
+Student, including at the mailing and permanent addresses provided by the Student in ROSI, via
+the Student’s email address in ROSI, and via telephone. None of the various emails sent to the
+Student by the ADFG Office and Assistant Discipline Counsel “bounced back” and they were,
+therefore, assumed to be received.
+10.
+
+While the Student’s email account does not appear to have been accessed since March 31,
+
+2022, the University’s Policy on Official Correspondence with Students expressly states that
+students are responsible for maintaining a current and valid email account on ROSI. Students are
+expected to monitor and retrieve all mail, including emails, on a frequent and consistent basis.
+Furthermore, while an attempt to provide notice to the Student at her mailing address was
+unsuccessful, students are likewise responsible for maintaining a current and valid mailing address
+on ROSI.
+
+6
+
+11.
+
+The Tribunal therefore concluded that the Student was given reasonable notice of the
+
+hearing in compliance with the notice requirements of the Act and the Rules. Consequently, the
+Tribunal agreed to hear the case on its merits in the absence of the Student, and the hearing
+proceeded on the basis that the Student was deemed to deny the charges made against her.
+B.
+
+The Charges
+
+12.
+
+The charges were detailed in a letter to the Student dated October 12, 2021:
+i)
+
+On or about September 30, 2020, you knowingly obtained unauthorized assistance
+in connection with a quiz in FAH281H5F (the “Course”), contrary to section
+B.I.1(b) of the Code.
+
+ii)
+
+In the alternative, on or about September 30, 2020, you knowingly represented as
+your own an idea or expression of an idea or work of another in a quiz in the
+Course, contrary to section B.I.1(d) of the Code.
+
+iii)
+
+In the further alternative, on or about September 30, 2020, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with a quiz in the
+Course, contrary to section B.I.3(b) of the Code.
+
+C.
+
+The Evidence
+
+13.
+
+The Tribunal received affidavit evidence from two witnesses: Professor Ruba Kana’an
+
+(affirmed on May 10, 2022) and Professor Charles Elkabas (affirmed on May 6, 2022). The
+Tribunal also had the opportunity to question both witnesses at the hearing.
+Evidence of Professor Kana’an
+14.
+
+Professor Kana’an is an Assistant Professor of Islamic Art and Architecture in the
+
+Department of Visual Studies at UTM. In the Fall 2020 academic term, she taught the Course.
+The Course explored famous architectural monuments and iconic works of Islamic art.
+
+7
+
+15.
+
+Between 72 and 75 students were enrolled in the Course, including the Student. Due to the
+
+COVID-19 pandemic, the Course was taught remotely.
+16.
+
+The Tribunal learned that students in the Course were made aware of the University’s
+
+expectations with respect to academic integrity through the Course syllabus, which outlined
+behaviours that constituted academic dishonesty. With respect to “tests and exams,” the syllabus
+noted that these behaviours included “Using or possessing unauthorized aids, including notes or
+answer guides provided by tutoring companies or shadow courses” and “Looking at someone
+else’s answers during an exam or test.”
+17.
+
+The syllabus further noted “Potential academic offences in a digital context include, but
+
+are not limited to:
+1. Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for
+assessments.
+2. Using technological aids (e.g. software) beyond what is listed as permitted in an
+assessment.
+3. Posting test, essay, or exam questions to message boards or social media.
+4. Creating accessing, and sharing assessment questions and answers in virtual “course
+groups.”
+5. Working collaboratively, in-person or online, with others on assessments that are expected
+to be completely individually.
+[…]”
+
+18.
+
+On September 30, 2020, students in the Course wrote an online quiz worth 10% of their
+
+final grade (the “Quiz”). The Quiz was administered through a system called Quercus. During
+lectures leading up to the quiz and in email correspondence sent to students in advance of the Quiz,
+Professor Kana’an made it clear that the Quiz was closed book. This meant that students were not
+permitted to use any study aids while completing the Quiz, including readings, lecture recordings,
+slides, class notes, or any grammar or translation supports. Professor Kana’an also advised
+
+8
+
+students that they were expected to complete the Quiz independently and that the Quiz would be
+based only on information covered in the preceding three lectures and on the Course materials.
+She explained to the Tribunal that she saw the Quiz as a way to get the students engaged in the
+class materials.
+19.
+
+In Question 7 of the Quiz, students were asked to choose one of four images to “identify,
+
+describe and discuss.” Both a “Checklist” and “Tips” accompanied Question 7 to assist students
+in their response. The “Checklist” reminded students to “Use only your own words and maintain
+rules of academic integrity” and the “Tips” reminded students to “…please make sure to only
+include points that were studied in class and readings.”
+20.
+
+The Student selected Option C (“Question 7(C)”), a monument which, in the relevant
+
+lecture, Professor Kana’an had referred to as Kirbet al-Mafjar’s Hisham’s palace in Jericho. On
+her review of the Quiz answers, Professor Kana’an found that a group of 15 students in the class
+submitted answers to Question 7(C) that shared suspiciously similar characteristics. This included
+a similar paragraph structure and discussion points, and the inclusion of similar ideas that were not
+addressed in lectures or in any of the assigned materials. The Student was part of that group.
+21.
+
+Professor Kana’an created a chart, summarizing the similarities between the Question 7(C)
+
+answers submitted by the 15 students. She found the following aspects of the Student’s answer
+particularly suspicious:
+i)
+
+In the opening sentences of their answers to Question 7(C), the Student, and
+many of the others students, referred to the “crown prince” having built the
+palace. However, according to Professor Kana’an, the “crown prince” was
+never discussed in the Course and, in fact, there was no mention in class of
+who built the palace.
+
+ii)
+
+In describing the palace’s “bathhouse”, the Student, and many of the others,
+referred to the fact that the bathhouse was separate from the “toilets” and
+that it came from the Greco-Roman tradition. Neither concept was
+discussed in the Course.
+
+9
+
+iii)
+
+The Student, and several other students, referred to the image of the palace’s
+mosaic floor as being the largest in the “East Mediterranean”. In class,
+however, the mosaic floor was described as being the largest in “the Late
+Antique World” or in “Antiquity”. Again, there was no mention of the East
+Mediterranean in the Course.
+
+Evidence of Professor Elkabas
+22.
+
+Professor Elkabas is a Professor of French Studies, Language Teaching and Learning in
+
+the Department of Language Studies at UTM. Until July 1, 2021 he served as a Dean’s Designate
+for Academic Integrity with the Office of the Dean at UTM.
+23.
+
+In Fall 2020, the AIU received allegations from Professor Kana’an regarding the Student’s
+
+Quiz and its similarity to the answers submitted by a group of 14 other students.
+24.
+
+On March 15, 2021, Professor Elkabas met with the Student (via Zoom) in his capacity as
+
+Dean’s Designate for Academic Integrity to discuss the allegations of academic dishonesty related
+to the Quiz. In the course of that meeting, the Student denied communicating with anyone else
+during the Quiz. She stated that these concepts were either taught by the instructor in the Course
+or she got the information from Google while studying for the Quiz.
+25.
+
+Professor Elkabas listened to a Zoom recording of Professor Kana’an’s lecture in relation
+
+to the monument in question and reviewed her lecture slides regarding the topic. He confirmed
+that the shared concepts in the students’ answers, noted above at paragraph 21, were not included
+in those materials.
+26.
+
+Of the 14 other students alleged to have used an authorized aid on the Quiz, 13 admitted
+
+guilt at the Departmental or Divisional level. The allegations against one of the students were
+dismissed.
+27.
+
+Professor Elkabas advised the Tribunal that in his view, if the unusual answers in Question
+
+7(C) had been submitted by one or two students, he may have considered it a coincidence.
+However, in his view, when 15 students provide the same unusual answers, there is a clear pattern.
+
+10
+
+D.
+
+Decision of the Tribunal
+
+28.
+
+The onus is on the University to establish, on a balance of probabilities, using clear and
+
+convincing evidence, that the academic offence charged has been committed by the Student. The
+Tribunal determined that the Provost met that standard.
+29.
+
+The evidence demonstrated that the Course instructor, Professor Kana’an, made it clear to
+
+students, both in class and via email, that the Quiz in question was closed book. This meant that
+no study aids of any kind were to be used during the Quiz. While Professor Kana’an did not
+expressly forbid students from doing independent research, she explained that the Quiz would be
+based solely on the lectures and Course materials and this was also made clear in the “Tips” section
+directly on the Quiz itself. The University’s expectations for academic integrity were also
+communicated to students through the Course syllabus and, again, directly on the Quiz.
+30.
+
+The Tribunal reviewed the chart created by Professor Kana’an, comparing the students’
+
+Question 7(C) answers and considered her evidence on this issue. With the exception of one
+student, whose case was ultimately dismissed, the similarities in the other 14 answers were
+striking. In particular:
+i)
+
+The Student, and 8 other students, began by referring to the palace having
+been built by the “crown prince”. However, according to Professor
+Kana’an, this concept was never discussed in the Course and, in fact, there
+was no mention in class of who built it.
+
+ii)
+
+In describing the palace’s “bathhouse,” the Student referred specifically to
+the fact that the bathhouse was separate from the “toilets” and that it came
+from the Greco-Roman tradition. Twelve other students also noted its
+Greco-Roman origins, and 7 others referenced the separation from toilets.
+Neither concept was discussed in class or included in the Course materials.
+
+iii)
+
+The Student referred to the image of the palace’s mosaic floor as being the
+largest in the “East Mediterranean”. Six other students described it almost
+
+11
+
+identically. However, there was no mention of the “East Mediterranean” in
+class. Instead, Professor Kana’an described the mosaic floor as being the
+largest in “the Late Antique World” or in “Antiquity”.
+31.
+
+The Tribunal agreed with the submission of Assistant Discipline Counsel – and the
+
+testimony of Professor Elkabas – that it is very unlikely to be a coincidence that multiple students
+independently came up with answers that included these unique features, none of which were
+referenced at any point in the Course lectures or materials.
+32.
+
+The Tribunal also noted that the common answers in Question 7(C) all had a strikingly
+
+similar structures to each other, yet did not appear to follow a logical structure.
+33.
+
+Question 7 read:
+Identify: What is it? Where? By Whom? For whom?
+Describe: What does it look like (form, materials, techniques). How was it made
+(technology, labour…)?
+Discuss: Why is it relevant? What are the ‘big ideas’ (context, power relations, knowledge
+transfer, social relations, gender relations, labour, environment, symbolic dimensions,…)?
+What questions can it raise?
+The 14 answers the Tribunal compared, all appeared to omit key information sought by the
+
+question, including how the monument was made and why it was relevant, while including
+irrelevant information, such as the separation of the “toilet.”
+34.
+
+The Tribunal further received evidence that 13 of the 15 students in question admitted guilt
+
+in relation to the use of unauthorized study aids or unauthorized assistance on the Quiz. The
+Tribunal had limited evidence before it regarding the specific circumstances of the other students’
+cases, but it appeared that the students provided varying explanations for how the cheating
+occurred.
+35.
+
+Assistant Discipline Counsel pointed the Tribunal to two cases on this issue, University of
+
+Toronto v. S.R. (Case No. 708, June 6, 2014) and University of Toronto v. W.Z. (Case No. 1085,
+
+12
+
+April 20, 2021) (“W.Z.”). In both cases, the Student had not admitted responsibility, but the
+Student’s accomplices had admitted to prohibited collaboration. The W.Z. case, in particular,
+involved a similar fact scenario where a large group of students submitted the same or similar
+answers to several questions, using the same unusual terms. The Panel in W.Z. considered the fact
+that the 10 other students, whose answers mirrored the Student’s, admitted to obtaining
+unauthorized assistance at the Departmental or Decanal levels. The Student in question was the
+only remaining case. Assistant Discipline Counsel argued that, based on these cases, admissions
+by co-conspirators can provide some evidence of corroboration. She fairly conceded, however,
+that a finding of liability in the case at hand could not be based solely on such evidence.
+36.
+
+The Tribunal has considered the fact that almost all of the other students involved, many
+
+of whom had answers that were strikingly similar to the Student’s answer, admitted to the use of
+an unauthorized study aid in relation to the Quiz. The Tribunal agrees with Assistant Discipline
+Counsel’s submission that this fact provides some evidence of corroboration, although it would
+not be sufficient, on its own, to support a finding a guilt.
+37.
+
+The Tribunal was unable to determine exactly how the Student obtained unauthorized
+
+assistance. There was some evidence that at least one of the other students had admitted to using
+an online “cram school” or “shadow course” to seek answers to the Quiz questions. Based on the
+commonality of the answers to Question 7(C), the Tribunal found a strong inference could be
+drawn that the Student and others were either using a shared document during the Quiz or that they
+were in communication with each other, either directly or through an online program. However,
+this assessment was largely speculative and there was no evidence directly before us proving either
+scenario in relation to the Student.
+38.
+
+In any event, as Assistant Discipline Counsel submitted, the Provost is not required to show
+
+how the cheating occurred. Per the Tribunal’s decision in the University of Toronto v. S.K.(Case
+No. 595, October 12, 2010), the test is whether the University has provided “clear and convincing
+evidence that the student violated the Code in the manner described” (at paragraph 32). As stated,
+the Tribunal found the Provost had satisfied this test.
+
+13
+
+39.
+
+The Tribunal accordingly found the Student guilty of one count of knowingly using or
+
+possessing an unauthorized aid or aids or obtaining unauthorized assistance in any academic
+examination or term test or in connection with any other form of academic work, contrary to
+section B.I.1.(b) of the Code.
+40.
+
+The Tribunal having made such a finding of guilt, the Provost withdrew the alternative
+
+charges against the Student.
+E.
+
+Penalty
+
+41.
+
+The matter continued with a hearing on the appropriate sanction. Assistant Discipline
+
+Counsel
+
+sought
+
+an
+
+order
+
+imposing
+
+the
+
+following
+
+sanctions
+
+on
+
+the
+
+Student:
+i)
+
+a final grade of zero in the course FAH281H5F in Fall 2020;
+
+ii)
+
+a suspension from the University of Toronto from the date of this order for a period
+of 3 years, ending on May 16, 2025; and
+
+iii)
+
+a notation of the sanction on her academic record and transcript from the date of
+this order for a period of 4 years, ending on May 16, 2026; and
+
+iv)
+
+that the case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+42.
+
+The Tribunal was presented with evidence of a prior conviction for the Student through a
+
+“Discipline Case Report.” The prior conviction was from November 2018 and was for the same
+offence (unauthorized assistance). In that case, the Student received a grade of 0 on the assignment
+in question.
+43.
+
+Assistant Discipline Counsel submitted that the Tribunal, in determining the appropriate
+
+sanction in a given case, should consider the factors laid out in the foundational sentencing case,
+University of Toronto and Mr. C. (Case # 1976/77-3, November 5, 1976): (a) the character of the
+
+14
+
+person charged; (b) the likelihood of a repetition of the offence; (c) the nature of the offence
+committed; (d) any extenuating circumstances surrounding the commission of the offence; (e) the
+detriment to the University occasioned by the offence; and (f) the need to deter others from
+committing a similar offence.
+44.
+
+Given the Student did not participate in the hearing, there was no evidence before the
+
+Tribunal of the Student’s character, or any extenuating circumstances surround the commission of
+the offence.
+45.
+
+With respect to the likelihood of a repetition of the offence, Assistant Discipline Counsel
+
+submitted that this is the Student’s second conviction for the same offence. She further noted that
+the Student’s previous penalty of a grade of 0 did not deter the Student from re-offending.
+46.
+
+Finally, Assistant Discipline Counsel directed the Tribunal to authorities on factors (e) and
+
+(f), namely the detriment to the University and the need for deterrence. The authorities highlighted
+the seriousness of the offence in question, the detrimental impact on other students who “play by
+the rules” and the need to send a clear message to the University community, particularly in the
+current environment of online quizzes, tests and assignments, precipitated by the pandemic.
+47.
+
+Assistant Discipline Counsel also provided the Tribunal with a chart setting out the range
+
+of penalties imposed in previous Tribunal decisions involving similar charges, namely,
+unauthorized assistance and plagiarism. The Tribunal felt confident, upon review of the chart, that
+the penalty proposed by the Provost was in the appropriate range, given the Mr. C factors as
+outlined by Assistant Discipline Counsel and, in particular. given the Student’s prior and related
+offence
+48.
+
+There was evidence before the Tribunal that the 13 other students, who all resolved their
+
+matters at the Divisional level, received significantly less severe penalties than the one proposed.
+However, the Code expressly provides for this discrepancy between more lenient penalties for
+matters resolved at the Divisional (or Decanal) level, and harsher penalties for those that proceed
+to the Tribunal. Assistant Discipline Counsel further directed the Tribunal to the Discipline
+
+15
+
+Appeals Board decision in University of Toronto and D.S. (Case No. 451, August 24, 2007) in
+support of this point (at paragraphs 43-44):
+…[D]ecanal sanctions must be viewed differently, than sanctions of the Tribunal. Procedures at
+the decanal level are designed to foster early resolution of the issues, where possible, through a
+relatively informal and speedy process. We agree that this is right in principle and that this policy
+should be preserved. The potential for a lenient sanction, at that stage, encourages this resolution.
+Such a sanction, however, can only be imposed where a Student admits misconduct.
+…
+Tribunal sanctions should be reviewed for consistency with other Tribunal sanctions.
+
+49.
+
+In light of the Code provisions and precedents, the Tribunal has limited its consideration
+
+to Tribunal sanctions only and finds the penalty proposed by the Provost to be fit and appropriate.
+F.
+
+Conclusion
+
+50.
+
+The Tribunal finds the Student guilty of one count of knowingly using or possessing an
+
+unauthorized aid or aids or obtaining unauthorized assistance in any academic examination or term
+test or in connection with any other form of academic work, contrary to section B.I.1(b) of the
+Code.
+51.
+
+Accordingly, the Tribunal orders that the following sanctions be imposed on the Student:
+i)
+
+a final grade of zero in the course FAH281H5F in Fall 2020;
+
+ii)
+
+a suspension from the University of Toronto from the date of this order for
+a period of 3 years, ending on May 16, 2025; and
+
+iii)
+
+a notation of the sanction on her academic record and transcript from the
+date of this order for a period of 4 years, ending on May 16, 2026; and
+
+iv)
+
+that the case be reported to the Provost for publication of a notice of this
+decision and the sanctions imposed, with the name of the Student withheld.
+
+16
+
+Dated at Toronto this 16th day of August, 2022
+Original signed by:
+________________________________________________
+Ms. Indira Stewart, Chair
+On behalf of the Panel
+
+

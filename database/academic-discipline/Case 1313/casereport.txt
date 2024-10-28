@@ -1,0 +1,276 @@
+Case No. 1313
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on January 10, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+
+c. 88
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and Y
+
+P
+
+REASONS FOR DECISION
+Hearing Date: August 12, 2022, via Zoom
+Panel Members:
+Ms. Michelle S. Henry, Chair
+Professor George Cree, Faculty Panel Member
+Mr. Karim Wanes, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+Ms. Y
+P
+
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on August 12, 2022,
+to consider academic charges brought by the University of Toronto (the “University”)
+against Y
+P (the “Student”) under the Code of Behaviour on Academic Matters,
+1995 (the “Code”). The Student was informed of the charges by letter dated January 10,
+2022, from Professor Heather Boon, Vice-Provost, Faculty & Academic Life. The Student
+was also informed of the hearing by a Notice of Electronic Hearing dated July 25, 2022.
+The hearing was scheduled for August 12, 2022.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+2. The hearing was scheduled to commence at 9:45 a.m. via Zoom. The Tribunal waited until
+10:00 a.m. before commencing the hearing. The Student did not appear at the hearing.
+3. Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of a hearing has been given to a party in accordance with the Act and the
+party does not attend at the hearing, the Tribunal may proceed in the absence of the party,
+and the party is not entitled to any further notice in the proceeding. In this case, the
+University requested that the Tribunal proceed with the hearing in the absence of the
+Student.
+4. Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including: sending a copy of the document by courier to the student’s mailing address
+contained in the Repository of Student Information (“ROSI”); or emailing a copy of the
+document to the student’s email address contained in ROSI.
+5. Further, the University’s Policy on Official Correspondence with Students (“Policy”) states
+that students are responsible for maintaining a current and valid postal address and a
+University-issued email account in ROSI. The Policy makes it clear that students are
+expected to monitor and retrieve their mail, including electronic messaging accounts issued
+to them by the University, on a frequent and consistent basis.
+6. In this case, the University filed Affidavits regarding the correspondence to the Student
+providing notice of the charges and notice of the electronic hearing. The Affidavit of
+Samanthe Huang, Administrative Assistant with the Appeals, Discipline and Faculty
+Grievances Office, sworn August 5, 2022, confirmed that on January 10, 2022, Ms. Huang
+served the Student with the charges issued by Professor Heather Boon. Ms. Huang served
+the Student with the charges by e-mail to the University-issued email account, which was
+the email address of the Student contained in ROSI. Further, on July 25, 2022, Ms. Huang
+2
+
+served the Notice of Electronic Hearing. She served the Student with the Notice of
+Electronic Hearing by email to the email address of the Student contained in ROSI.
+7. It is clear that the Student was no longer accessing her University-issued email account at
+the time she was served with the charges and the Notice of Electronic Hearing. The
+Affidavit of Andrew Wagg, Manager, Incident Response at Information Security,
+Information Technology Services at the University, sworn on July 28, 2022, states that he
+checked the portal records to determine the last time someone accessed the email account
+belonging to the Student. Mr. Wagg determined that the last time someone accessed this
+e-mail account was on November 23, 2021. As such, the email account was not accessed
+after the charges and Notice of Electronic Hearing were served by email. However, as
+noted below, the Student would have been aware that meetings with the Dean’s Designate
+were scheduled to discuss the allegation that she had engaged in academic misconduct, as
+those invites we sent prior to the last date of email access.
+8. The Affidavit of Kimberly Blake, a legal assistant at Paliare Roland Rosenberg Rothstein
+LLP, counsel for the University, confirms that on July 13, 2022, she attempted to call the
+Student using the telephone contained in ROSI. The telephone number provided was in
+China. The calls to the telephone number went to an operator’s recording that the number
+was not in service.
+9. Having reviewed the evidence and heard the submissions of counsel for the University, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+accordance with the notice requirements set out in the Act and the Rules. Accordingly, the
+Tribunal proceeded to hear the case on its merits in the absence of the Student.
+THE CHARGES
+10. At all material times, the Student was a registered student at the University of Toronto
+Scarborough (“UTSC”). The University alleges that the Student knowingly committed
+plagiarism in an assignment that she submitted for the purposes of obtaining academic
+credit or other academic advantage.
+11. The University brought the following three charges against the Student:
+a. On or about December 5, 2020, the Student knowingly represented as her own an idea or
+expression of an idea or work of another in an assignment in CSCA08H3 (the “Course”),
+contrary to section B.I.1(d) of the Code.
+b. In the alternative, on or about December 5, 2020, the Student knowingly obtained
+unauthorized assistance in connection with an assignment in the Course, contrary to section
+B.I.1(b) of the Code.
+
+3
+
+c. In the further alternative, on or about December 5, 2020, the Student knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with an assignment in the Course, contrary to section
+B.I.3(b) of the Code.
+
+12. The Student first registered at UTSC in the Fall 2018 term. As of July 6, 2022, the Student
+had earned 8.50 credits. The University alleges that in the Fall 2020, the Student enrolled
+in CSCA08H3 (Introduction to Computer Science), which was taught by Anya Tafliovich
+and Nick Cheng. Students in the Course were required to submit three assignments, worth
+8%, 12% and 16% of their final grades in the Course. On December 5, 2020, the Student
+submitted Assignment #3 in the Course. The University alleges that the Student submitted
+Assignment #3 knowing that it contained ideas, expressions of ideas or work which were
+not her own, but were the ideas, expressions of ideas or work of others, including another
+student in the Course (the “Other Student”); and that the Student did not properly reference
+the ideas, expressions of ideas or work that you drew from the Other Student or others.
+13. The University further alleges that the Student:
+a. knowingly aided, assisted, abetted, counselled, procured or conspired with the Other
+Student or others to commit the offence of plagiarism in Assignment #3;
+b. knowingly obtained unauthorized assistance on Assignment 3 from the Other Student or
+others, and/or aided, assisted, abetted, counselled, procured or conspired with the Other
+Student or others to obtain unauthorized assistance in Assignment #3; and
+c. knowingly submitted Assignment #3 in the Course with the intention that the University
+of Toronto Scarborough rely on it as containing her own ideas or work in considering the
+appropriate academic credit to be assigned to her work.
+
+THE EVIDENCE
+14. The Tribunal received Affidavit evidence of Anya Tafliovich, a Professor (Teaching
+Stream) in the Department of Computer and Mathematical Sciences at UTSC. Professor
+Tafliovich’s evidence was as follows.
+15. The Student enrolled in the Course in Fall 2020. The Course was designed to introduce
+students to the discipline of computer science and to teach students the basics of
+programming using Python, a widely used state-of-the-art programming language.
+16. Students in the Course were told about the importance of academic integrity. The Course
+outline provided as follows:
+4
+
+Policy on collaboration
+Do not use another person’s work. Sharing your work with others (even if they promise
+to only consult with your work and not copy any parts of it) is a violation of this policy.
+Using a solution found on the web is a violation of this policy. If challenged by either a
+tutor or the instructor, you must be able to reproduce and explain any work you submit in
+an oral exam. Failure to observe this policy is an academic offence, carrying a penalty
+ranging from a zero on a homework or a test to suspension from the university.
+
+17. Assignment #3 in the Course was due on December 7, 2020. Students were required to
+write computer code to complete the requirements of the assignment. Students were
+required to complete the assignment independently.
+18. On December 5, 2020, the Student submitted her code for Assignment #3. On December
+6, 2020, the Other Student submitted Assignment #3. Both students’ codes were uploaded
+to Measure of Software Similarity (“MOSS”) in order to detect textual similarities with the
+assignments submitted by other students in the Course. MOSS revealed that the Student’s
+and the Other Student’s answers to Assignment #3 contained code that was virtually
+identical, with only certain variables having been named differently.
+19. Professor Tafliovich’s evidence was that the degree of similarity between the code
+submitted by the Other Student was highly suspicious, as, in her experience, the chances
+of two students independently developing such similar solutions are virtually zero.
+Professor Tafliovich’s suspicion was that either one solution was copied from the other, or
+that both solutions were obtained from the same shared (unauthorized) source. She
+provided the following particulars to support her conclusion:
+a. Students were not provided with the algorithms for the functions, only the inputoutput requirement. There are countless ways in which these functions can be
+implemented.
+b. Certain functions in both students’ code were basically the same, line by line.
+c. Certain helper functions were not required as part of the solution to Assignment #3,
+yet both students’ solutions included these exact same functions, with the exact
+same names. Additionally, these function names did not follow Course convention.
+d. In several places, both the students’ solutions used a format that was not taught in
+the Course, but was taught at St. George Campus. The fact that both students used
+the format taught at the St. George Campus suggests that the solution they both
+submitted was obtained from someone who had access to the St. George Campus
+5
+
+assignment and the students did not realize there was a slight difference in the
+formats.
+20. On December 29, 2020, Professor Tafliovich sent an email to all students in the Course
+whose answers to Assignment #3 were found to be similar to that of other students in the
+class, including the Student and the Other Student.
+21. On January 3, 2021, the Student sent Professor Tafliovich an email reply in which the
+Student denied copying from other sources on Assignment #3.
+22. On January 11, 2021, Professor Tafliovich sent the students a follow up email in which
+they were offered the opportunity to accept a penalty of a mark of zero on the Assignment
+#3, or an opportunity to book a meeting if they disagreed with the allegation that they had
+committed academic misconduct on Assignment #3. After receiving her email, the Other
+Student wrote to Professor Tafliovich on February 20, 2021 to indicate that the Other
+Student would accept a mark of 0 on Assignment #3.
+23. On August 3, 2021, the Office of the Vice-Principal Academic & Dean at UTSC sent the
+Student an email inviting her to a meeting with Professor Cheng on August 19, 2021 to
+discuss the alleged academic offence in Assignment #3. The Student was sent a reminder
+of this meeting on August 18, 2021. The Student did not respond to either communication.
+The Student did not attend a meeting with Professor Cheng on August 19, 2021.
+24. On October 6, 2021, the Office of the Vice-Principal Academic & Dean at UTSC sent the
+Student an email indicating their meeting with Professor Cheng had been rescheduled to
+October 21, 2021. The Student was sent a reminder of this meeting on October 20, 2021.
+The Student again did not respond to either communication. The Student did not attend a
+meeting with Professor Cheng on October 21, 2021.
+25. As noted above, the last time someone accessed the Student’s e-mail account was on
+November 23, 2021. As such, the Student ought to have received the meeting invites.
+DECISION OF THE TRIBUNAL ON CHARGES
+26. Having considered all the evidence heard during the hearing, and in particular the Affidavit
+evidence, the Tribunal found that:
+a. On or about December 5, 2020, the Student knowingly represented as her own an
+idea or expression of an idea or work of another in an assignment in CSCA08H3—
+Introduction to Computer Science, contrary to section B.I.1(d) of the Code; and,
+
+6
+
+b. the Student is guilty of one count of knowingly representing an idea or expression
+of an idea or work of another as their own, contrary to section B.I.1.(d) of the Code;
+27. Accordingly, the Tribunal entered a finding of guilty with respect to the first charge, as
+outlined in paragraph 12 (a).
+28. Given the findings with respect to the first charge, the University withdrew Charges 2 and
+3.
+DECISION OF THE TRIBUNAL ON PENALTY
+29. The Tribunal heard submissions regarding the appropriate penalty in this case, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and C. (File 1976/77-3; dated November 5, 1976).
+a. The character of the Student. The Student did not participate in the proceeding
+and did not attend any meeting with the Dean’s Designate. Accordingly, there was
+no evidence before the Tribunal regarding the Student’s character other than the
+facts relating to this offence and the lack of responses from the Student. There is
+no evidence of any remorse or that the Student was willing to take responsibility
+for her actions.
+b. The likelihood of a repetition of the offence. The Student did not have a prior
+record of academic offences. However, as the Student failed to attend the meeting
+with the Dean’s Designate, or the hearing, the Tribunal was unable to make any
+findings regarding the likelihood of a repetition of this offence.
+c. The nature of the offence committed. The Tribunal took into consideration the
+serious and deliberate nature of the offence and the detriment to the University. It
+is well established that plagiarism and the use of third party sources are considered
+serious offences that strike at the heart of academic integrity.
+d. Any extenuating circumstances surrounding the commission of the offence.
+The onus is on the Student to put forward any mitigating circumstances. As
+indicated above, the Student did not participate in this hearing. As such, there was
+no evidence before the Tribunal of mitigating or extenuating circumstances.
+e. The need to deter others from committing a similar offence. General deterrence
+is an important factor in these cases. The Tribunal accepts that the University and
+the Tribunal must send a strong message to other students that such misconduct is
+considered a serious offence.
+7
+
+30. The University presented a number of cases dealing with plagiarism and unauthorized
+assistance; however, none of the cases dealt with coding specifically. The Tribunal was
+satisfied on a balance of probabilities that the Student obtained the code from a third party
+source, and the actions of the Student does constitute plagiarism. Such misconduct is
+expressly prohibited by the Code.
+31. Having regard to the submissions of the University, and the relevant factors outlined above,
+the Tribunal agrees that the sanctions are appropriate. At the conclusion of the hearing,
+the Tribunal made the following Order:
+a. The Student is guilty of one count of knowingly representing an idea or expression
+of an idea or work of another as their own, contrary to section B.I.1.(d) of the Code
+;
+b. The following sanctions shall be imposed on the Student:
+i. THAT the following sanctions shall be imposed on the Student:
+1. a final grade of zero in the course CSCA08H3 in Fall 2020;
+2. a suspension from the University of Toronto from the date of this
+order for a period of 2 years, ending on August 11, 2024; and
+3. a notation of the sanction on their academic record and transcript
+from the date of this order for a period of 3 years, ending on August
+11, 2025; and
+ii. THAT this case be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+DATED at Toronto, October 31, 2022.
+
+_Original signed by:__________
+Ms. Michelle S. Henry, Co-Chair
+On behalf of the Tribunal
+
+8
+
+

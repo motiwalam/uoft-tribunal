@@ -1,0 +1,417 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on February 15, 2012.
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995.
+AND IN THE MATTER OF the University o,f Toronto Act. 197 1, S.O. 1971 c. 56 as
+amended S.O. 1978, c. 88.
+
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+- and-
+
+Date of Hearing: October 22, 2012
+Panel:
+Mr. Bernard Fishbein, Barrister and Solicitor, Chair
+Professor Andrea Litvack, Factor-Inwentash Faculty of Social Work, Faculty Panel
+Member
+Mr. Adam Found, Student Panel Member
+
+Appearances:
+Ms. Lily Harmer, Counsel for the University of Toronto, Paliare Roland Ban-isters
+Dr. Tom Fairgrieve, Department of Computer Science
+In Attendance:
+Professor John Ca1ter, Dean' s Designate for Academic Integrity, Faculty of Applied
+Science and Engineering
+Ms. Betty-Ann Campbell, Law Clerk, Paliare Roland Barristers
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+
+Not in Attendance:
+Mr. ~ ~' the Student
+
+- 2 -
+
+REASONS FOR DECISION
+
+I.
+
+The hearing of the Trial Division of the University Tribunal ("the Tribunal")
+
+was convened on October 22, 2012 to consider charges under the Code of Behaviour on
+Academic Matters, 1995 ("the Code") against the student.
+
+The notice of hearing
+
+indicated that the hearing would commence at 1:45 p.m..
+
+By 2:05 p.m. neither the
+
+student nor anyone on his behalf had appeared and the hearing commenced.
+
+Whether the Hearing Should Proceed
+
+2.
+
+Discipline Counsel for the University presented the panel of the Tribunal with
+
+the affidavit of Betty Ann Campbell, a law clerk in the office of counsel. As well, Ms.
+Campbell was present at the hearing in the event that there were any questions or viva
+voce evidence that was necessary arising from her affidavit. There were none.
+
+3.
+
+Counsel reviewed the University's Policy on Official Correspondence with
+
+Students ("the Policy") which requires students to maintain current contact information
+(current and valid postal addresses as well as addresses for University-issued electronic
+mail accounts) in their ROSI records and to update their records when this information
+changes. The policy further provides that:
+
+"Students are expected to monitor and retrieve their mail,
+including electronic messaging account(s) issued to them by the
+University, on a frequent and consistent basis. Students have
+the responsibility to recognize that certain communications may
+
+-3 -
+
+be time critical.
+
+Students have the right to forward their
+
+University-issued mail account to another electronic mail
+service provider address but remain responsible for ensuring
+that all University or electronic message communication sent to
+the officially University-issued account is received and read."
+
+4.
+
+The student had been provided with a disclosure package (a summary of the
+
+anticipated evidence of the University's witnesses, the University's disclosure brief and
+the policy) which had been delivered by courier to 65 ~ Suite . , Toronto
+("the Lilian Street address") which was listed in the student's ROSI contact infonnation.
+The Disclosure package was accepted by an individual who identified herself as
+"~
+
+"- Another University of Toronto student named ~ •
+Address in her ROSI contact information. Ms . •
+
+also listed the
+
+was the individual who
+
+the student intended to accompany him to the academic offence meeting held on January
+13, 2012 but had been advised that she would not be pennitted to attend as she may have
+been involved in the offences. Ms. • had also posted messages from the student on
+her Facebook page.
+
+5.
+
+In any event, the student had been sent an e-mail to the e-mail address listed in
+
+his ROSI contact information suggesting possible hearing dates. The student failed to
+respond.
+
+As a result, an e-mail was sent to the Office of the Governing Council
+
+requesting a hearing be scheduled for October 22, 2012 at 1:45 p.m.. A copy of that email was sent to the student.
+
+That e-mail was acknowledged by the Office of the
+
+- 4 -
+
+Governing Council also with a copy to the student. On September 7, 2012, the Office of
+the Governing Council sent the student a Notice of Hearing both by e-mail and by courier
+to the IIIIIIIIIStreet address. The e-mail was successfully delivered to the e-mail address
+- no transmission fai lure notifications were received and the courier package was
+delivered to the
+
+I..111111111 Address - it was not returned as undeliverable. A slightly
+
+revised Notice of Hearing was again, sent by e-mail and courier on October 15, 20 12.
+Again, the e-mail was successfull y delivered, in that no transmission fai lure notifications
+were received .
+
+However, that courier delivery was returned as undeliverable.
+
+In
+
+addition, counsel telephoned the student's telephone number listed in his ROSI contact
+info1mation and left a voicemail requesting the student to return her call. The student did
+not do so.
+
+6.
+
+In the circumstances, the University submitted that the hearing should still
+
+proceed. The Statutory Powers Procedure Act , R.S.O. 1990. c. S. 22 (the "SPPA")
+applies to proceedings before the Tribunal. Section 6 of the SPPA requires parties to a
+proceeding to be given reasonable notice of the hearing, including not only a statement of
+the time, place and purpose of the hearing but a statement that if the party notified does
+not attend the hearing, the Tribunal may proceed in the party's absence and the party will
+not be entitled to any further notice of the proceeding. Such a statement was contained in
+the University's Notice of Hearing sent to the Student. Also, the SPPA allows in section
+7 that when the notice of a proceeding has been in accordance with the SPP A and the
+party does not attend the hearing, the tribunal may proceed in the absence of the patty
+and the party is not entitled to any further notice of the proceeding. Moreover, the Rules
+
+-5 -
+
+of Practice and Procedure of the Tribunal ("the Rules") allow charges, notices of hearing,
+disclosure to be served on a student both by courier to the student's mailing address
+contained in ROSI or by e-mailing a copy to the student's e-mail address contained in
+ROSI (see section 9 (b) and (c) of the Rules). Section 17 of the Rules also provide where
+a notice of a hearing has been given in accordance with the Rules and the person fails to
+attend at the hearing, the panel may proceed in the absence of that person.
+
+7.
+
+Accordingly, it was the unanimous ruling of the panel that compliance with
+
+both the SPP A and the Rules had been established by the University and the hearing
+should proceed in the absence of the student.
+
+The Alleged Misconduct
+
+8.
+
+Essentially, the charges related to the unusual set of circumstances where it
+
+was alleged that the student himself was the provider and seller of solutions to
+assignments to other students who submitted them as their own work for credit. It was
+alleged that this has been done for a number of assignments, in CSC 310, CSC 263 and
+
+csc 108.
+
+9.
+
+The panel heard the evidence of Dr. Tom Fairgrieve who had been teaching at
+
+the University since January of 2000 and was the Academic Offence Coordinator for the
+Computer Science Department.
+
+- 6 -
+
+10.
+
+Dr. Fairgrieve testified that the investigation that led to these charges first
+
+started when he received an e-mail from Professor Robert Clarke of Binningham City
+University in the United Kingdom who was conducting research into "Contract cheating"
+(where students pay others to do assignments for them).
+
+Professor Clarke advised
+
+Dr. Fairgrieve that an assignment for CSC 263 was posted on Freelancer.com which is a
+website that solicits bids to complete work that was posted. Dr. Fairgrieve checked the
+website and found that not only that assignment but assignments for CSC 310 and 108
+were posted as well.
+
+11.
+
+The postings disclosed who had posted them (who the bid for the work had to
+
+be made to) and by cross-checking against ROSI records, it matched the student. Dr.
+Fairgrieve then had an e-mail under an alias sent to the student inquiring about obtaining
+work for one of the assignments and the student responded stipulating the price and a
+subsequent e-mail stipulating a deadline, but the transaction could not be completed by
+that deadline.
+
+12.
+
+Dr. Fairgrieve continued to monitor the Freelancer.com website. Ultimately,
+
+he found a number of University CSC assignments posted:
+
+CSC 310 - Theory Assignment No. 2
+CSC 310 - Practical Assignment No. 1
+CSC 310 - Theory Assignment No. 3
+CSC 310 - Practical Assignments No. 2
+CSC 263 - Homework Assignment No. 3
+CSC 263 - Homework Assignment No. 4
+
+-7-
+
+CSC I 08 - Assignment No. 3
+
+13.
+
+The Freelancer.com website had not only directed Dr. Fairgrieve to the
+
+student's name but also to a company, Complete Tutoring. Dr. Fairgrieve also went to
+
+L-
+
+the company's website which showed it provided an assignment service. Its "Contact
+Us" page disclosed a location on
+
+(only the location not the address was
+
+shown) and an e-mail address that resembled, but was not identical, to the student's.
+
+14.
+
+In his monitoring of the Freelancer.com website, Dr. Fairgrieve noticed two
+
+more University CSC assignments posted. Dr. Fairgrieve then created an alias g-mail
+account of his own and completed a transaction with Complete Tutoring to obtain
+responses to those assignments.
+
+When he received these responses from Complete
+
+Tutoring, Dr. Fairgrieve forwarded them to Professor Neal, the Instructor of CSC 310,
+and advised Professor Neal that he had purchased this solution over the internet and
+asked him to monitor whether any student handed in that solution (or a very similar one).
+
+15.
+
+A student, ~ -
+
+met with -
+
+( " - ' ) did. As a result, Professor Neal
+
+and ultimately, so did Dr. Fairgrieve.
+
+-
+
+ultimately
+
+provided Dr. Fairgrieve the copies of the e-mails between her and the student acquiring
+the solution to the CSC 310 assignment. Further investigating also disclosed that the
+Facebook page of the student also confitmed that she operated Complete Tutoring.
+
+16.
+
+The University also submitted a sworn affidavit of -
+
+confirming she
+
+had purchased the solutions to assignment in CSC 310 from Complete Tutoring and had
+
+-8handed in that solution as her own work. ~ confirmed the e-mails between her
+and the student forwarding the solution to the assignment in stages and her payment (at
+each stage) for it. ~ admitted all this in a meeting with the Dean's Designate
+and, for her part, received zero credit in the course and a one year suspension. The
+University urged the panel to admit that affidavit pursuant to section 61 of the Tribunal's
+Rules of Procedure as ~ was not in the country and not available for the
+hearing.
+
+17.
+
+The panel then heard from Professor John Carter, the Dean's Designate for
+
+Academic Integrity for the Faculty of Applied Science and Engineering. Professor Carter
+testified to his meeting with the student (and Dr. Fairgrieve) on January 13, 2012. As
+required under the Code, the student was advised that it was a fo1mal meeting where
+notes would be taken, that he was entitled to be represented by counsel and what he said
+could be used against him and form the basis of charges of academic misconduct under
+the Code. Essentially, the student admitted to the offence of assisting in plagiarism and
+being a pa1ty to the offence of plagiarism - i.e. admitted to providing solutions to other
+students to hand in as their own work in the completion of the assignments for money.
+Professor Carter advised the student that he would not impose sanction as he was entitled
+to do under the Code. Rather because the matter was, in Professor Carter's view, such an
+egregious offence that warranted greater sanction than he could impose under the Code,
+he would therefore, refer the matter to the Provost and to the University Tribunal. That
+was confirmed in a letter to the student dated January 16, 2012. Professor Carter also
+testified notwithstanding the letter indicated that the student claimed "not to know that
+
+-9your clients were students", the letter was inaccurate in that regard - by the end of the
+interview, the student was no longer maintaining that position.
+
+18.
+
+The University reviewed the evidence before us and argued that it established
+
+that the offences of the use of unauthorized aid or assistance in connection with academic
+work, or the representation of work of another as one's own work ("plagiarism") contrary
+to sections B. l. (1) (b) or (d) of the Code had been made out. Equally, the University
+argued that it had established that the student was a party to those offences in that the
+student had done things for the purpose of aiding or assisting another student to commit
+the offences contrary to section B (ii) (1) a (ii) of the Code.
+
+19.
+
+In these circumstances, the panel had no difficulty in unanimously concluding
+
+that the University had established that the student was a pai1y to the offence of academic
+plagiarism contrary to sections B. 1. (1) (b) (d) of the Code and section B (ii) (1) a (ii) of
+the Code. There could be no doubt that the student had sold at least to likely other students) material -
+
+(and
+
+had presented as her own academic work. In
+
+the view of our conclusion in this regard, the University withdrew the other charges
+against the student.
+
+20.
+
+We note that this would have been our conclusion regardless of admitting the
+
+affidavit of -
+
+· The evidence of Dr. Fairgrieve and Professor Clarke and the
+
+admissions of the student (against his interest) would have been sufficient for us to reach
+this conclusion. However, we were prepared to admit the affidavit of accordance with section 61 of the Tribunal's Rules of Procedure. -
+
+in
+was out of
+
+-10-
+
+the country and unavailable and, in our view, having chosen not to attend at the hearing
+or to participate in the process, the student could not be considered to be objecting to the
+admissibility of that evidence.
+
+21.
+
+The panel then heard the University's submissions with respect to penalty.
+
+The University urged that the panel impose the greatest sanction available to it under the
+Code, namely, the recommendation of expulsion of the student.
+
+As well, since the
+
+Tribunal can only recommend expulsion which recommendation might not be accepted,
+the University urged that we also impose a five-year suspension.
+
+22.
+
+Again, the panel had no difficulty in unanimously accepting the submissions of
+
+the University and recommending expulsion of the student.
+
+Plagiarism has been
+
+described as the most serious and egregious of academic offences at the University.
+However, it is rare for the University and the Code to be able to reach the actual provider
+of the plagiarism as opposed to an individual student submitting it. Here the student was
+running a commercial company and providing academic content to students to
+masquerade as their own work in exchange for money. In the best of circumstances (if
+that phrase is appropriate to these kinds of circumstances), plagiarism is difficult to detect
+and probably would have not been detected by the University in these circumstances if
+not for the "tip" from Professor Clarke directing Dr. Fairgrieve to Freelancer.com. There
+was no evidence of any mitigating circumstances in favour of the student. Although, he
+did admit the offence to Professor Clarke at their meeting, the student did not attend or
+cooperate with the University in these proceedings in any way requiring the University to
+
+-11-
+
+prosecute them as if no such admission had been made. In fact, if this is not a case that
+waITants expulsion, this panel has difficulty conceiving of any case that would.
+Accordingly, the panel has no difficulty in unanimously recommending the expulsion of
+the student. In any event, and in the interim, the panel imposes a five-year suspension on
+
+the student.
+
+DATED at Toronto, December
+
+fo , 2012.
+
+Bernard l•ishbein,
+Co-Chair
+
+

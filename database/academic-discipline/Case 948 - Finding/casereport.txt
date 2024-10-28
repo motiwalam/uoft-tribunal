@@ -1,0 +1,1687 @@
+Case No.: 948
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+TRIAL DIVISION
+IN THE MATTER OF charges of academic dishonesty filed on September 14, 2017, and
+revised on June 29, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.0. 1978, C. 88
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and-
+
+S
+
+W
+
+(the "Student")
+
+REASONS FOR DECISION ON FINDING
+Hearing Date(s): July 17, 2018; August 30, 2018; February 25, 2019; February 28, 2019; March
+21, 2019; April 23, 2019
+Members of the Panel:
+Mr. Nader Hasan, Chair
+Professor Pascal van Lieshout, Faculty Panel Member
+Ms. Yusra Qazi, Student Panel Member
+Appearances:
+Ms. Lily Harmer and Ms. Lauren Pearce, Assistant Discipline Counsel, Paliare Roland
+Rosenberg Rothstein LLP
+Mr. Lome Sabsay, Sabsay Lawyers, counsel for the Student
+Hearing Secretary:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances (July 17, 2018,
+August 30,2018, February 25, 2019, February 28, 2019, March 21, 2019, April 23, 2019)
+Ms. Jennifer Dent, Associate Director, Appeals, Discipline and Faculty Grievances (February 25,
+2019, February 28, 2019, March 21, 2019)
+Interpreter: Mr. Kau Kiang Woo, Mandarin Interpreter for the Student, accredited by the
+Ontario Ministry of Attorney General
+
+I.
+
+CHARGES
+
+1.
+
+The Trial Division of the Tribunal held a hearing to address the following charges (the
+"Charges") brought by the University of Toronto (the "University") against the Student
+under the Code ofBehaviour on Academic Matters (the "Code"):
+1.
+
+In or about April or May 2015, you did knowingly forge or in any other
+
+way alter or falsify an academic record, and/or did utter, circulate or make use of
+such forged, altered or falsified record, whether the record be in print or electronic
+form, namely an Official Transcript from Simon Fraser University submitted with
+an application for admission to the University, contrary to section B.I.3(a) of the
+Code.
+
+2.
+
+In the alternative to paragraph 1, in or about April or May 2015, you did
+
+knowingly engage in a fonn of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code, in order to obtain
+academic credit or other academic advantage of any kind, by submitting an
+Official Transcript from Simon Fraser University submitted with an application
+for admission to the University which was forged, altered or falsified, contrary to
+section B.I.3(b) of the Code.
+3.
+
+On or about April 7, 2016, you did knowingly forge or in any other way
+
+alter or falsify an academic record, and/or did utter, circulate or make use of such
+forged, altered or falsified document, whether the record be in print or electronic
+form, namely the following course outlines from Simon Fraser University which
+you submitted to the Transcript Centre at the University, contrary to section
+B.i.3(a) 1 ofthe Code:
+ECON 103 - 4 Principles of Microeconomics
+EASC 104 - 3 Geohazards - Earth in Turmoil
+
+1
+
+The Charges that were served on the Student erroneously made reference to section B.i.3(b) instead of section
+B.i.3(a). During the hearing on July 17, 2018, the University identified this error and verbally corrected it on the
+record on consent of the parties. The Tribunal agreed at that time that that Charge 3 should be amended to include
+the correct reference (i.e., section B.i.3(a) instead of section B.i.3(b)).
+2
+
+MATH 157 - 3 Calculus I for the Social Sciences
+ECON 105 - 4 Principles of Macroeconomics
+ECON 290 -3 Canadian Microeconomic Policy
+
+In the alternative to paragraph 3, on or about April 7, 2016, you did
+
+4.
+
+knowingly engage in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code, in order to obtain
+academic credit or other academic advantage of any kind, by submitting forged,
+altered or falsified course outlines from Simon Fraser University to the Transcript
+Centre at the University, contrary to Section B. I.3(b) of the Code, as follows:
+
+2.
+
+(a)
+
+ECON 103 - 4 Principles of Microeconomics
+
+(b)
+
+EASC 104 - 3 Geohazards - Earth in Turmoil
+
+(c)
+
+MATH 157 - 3 Calculus I for the Social Sciences
+
+(d)
+
+ECON 105 - 4 Principles of Macroeconomics
+
+(e)
+
+ECON 290 -3 Canadian Microeconomic Policy
+
+In sum, the Charges allege that the Student knowingly forged or knowingly made use of
+two sets of forged documents: (1) a Simon Fraser University ("SFU") Transcript, and (2)
+various SFU course outlines (collectively, the "Forged Documents").
+
+II.
+
+SUMMARY OF FACTS/PARTICULARS
+
+3.
+
+The University has alleged the following particulars in relation to the Charges:
+6.
+
+In or about April or May 2015, you knowingly submitted an application to
+
+the University for admission as a transfer undergraduate student ("Application").
+In support of your Application you submitted an official transcript of an academic
+
+record from Simon Fraser University bearing your name ("SFU Transcript").
+7.
+
+You were admitted to the University on the basis of your Application and
+
+the supporting SFU Transcript.
+3
+
+8.
+
+Following your admission to the University you sought to obtain transfer
+
+credits for a number of the courses reflected in the SFU Transcript.
+9.
+
+On or about April 7, 2016, you knowingly submitted to the University five
+
+course outlines bearing course codes and information associated with courses
+offered by Simon Fraser University ("SFU Course Outlines").
+10.
+
+On the basis of the SFU Course Outlines you were granted 5.0 academic
+
+credits by the University.
+11.
+
+You did not attend Simon Fraser University at any time, and the SFU
+
+Transcript submitted with your Application is forged and contains entirely false
+information.
+12.
+
+You did not take the courses which are the subject courses of the SFU
+
+Course Outlines, nor did you obtain the SFU Course Outlines from Simon Fraser
+University; rather they are all forged and falsified.
+13.
+
+You knowingly submitted the SFU Transcript and the SFU Course
+
+Outlines intending that the University rely on them to grant you admission to the
+University, and to grant you transfer credits for the courses described in the SFU
+Course Outlines.
+14.
+
+You knowingly forged, altered and falsified the SFU Transcript and the
+
+SFU Course Outlines to obtain academic credit or other academic advantage.
+
+III.
+
+THE HEARING
+
+4.
+
+The Panel heard from the following witnesses, who were called to testify by the
+University:
+a. Kristina Mccutcheon, an Academic Advisor at the University of Toronto
+Mississauga;
+b. Jessica Olivier, an Academic Advisor at the University of Toronto Mississauga;
+c. Lynda Onorati, a Senior Admissions Specialist at the University of Toronto;
+
+4
+
+d. Adam Giles, a Transfer Credit Specialist at the University of Toronto
+Mississauga;
+e. Alexandra Di Blasio, an Governance Coordinator, University of Toronto
+Mississauga;
+f.
+5.
+
+Yifan Liu, the former boyfriend of the Student;
+
+In addition, the following witnesses testified on behalf of the Student:
+a. Zhong Hong, the mother of the Student;
+b. the Student
+
+6.
+
+Throughout these proceedings, and pursuant to an order of the Chair, the Student appeared
+via Skype. On consent of the University, the Student had the assistance of an accredited
+interpreter throughout the evidentiary portions of the proceedings.
+
+IV.
+
+POSITION OF THE UNIVERSITY
+
+7.
+
+The University submits that the evidence of the Student's guilt is "overwhelming", and in
+many respects, "undisputed". The Student has conceded that she did not attend SFU and
+that the SFU Transcript and SFU Course Outlines were falsified. Further, the Student has
+admitted that she knew by April 2016 that those falsified academic records were submitted
+to the University in support of her applications for admission and for transfer credits. The
+Student has admitted that she had no intention of bringing this state of affairs to the
+attention of the University. Instead, she testified that, had she not been caught, she would
+have continued to take advantage of the offer of admission and transfer credits she had
+received, on false pretenses, for the balance of her time at the University.
+
+8.
+
+The University also contends that the Student's attempts to portray herself as an innocent
+victim fly in the face of the objective record. Despite acknowledging that she had actual
+knowledge of the fraud being committed for her benefit, she says she should escape
+5
+
+liability because she was merely a passive beneficiary of the :fraudulent acts of two rogue
+actors -
+
+Xiaoye Tian, the agent that the Student had hired to submit the transfer
+
+application to the University on her behalf, and Yifan Liu, the Student's ex-boyfriend. The
+University submits that this theory is utterly unbelievable and a brazen attempt to deflect
+responsibility.
+9.
+
+The University submits that the Student was not a credible witness. She told different
+stories to different listeners at different times about critical facts, depending on her
+objective at the time. Each time the evidence suggested that she was involved in or aware
+of her fraudulent academic record prior to April 2016, the Student responded with a
+convenient and implausible excuse.
+
+10.
+
+The University submits that, taken as a whole, the evidence demonstrates that the Student
+recognized that her University of British Columbia ("UBC") grades were well below the
+standard required for admission to the University and that she knowingly hired Mr. Tian to
+create a falsified SFU Transcript and submit it to the University in support of the Student's
+application for admission and her application for transfer credits. The University submits
+that the Student's evidence to the contrary (as well as that of the Student's mother), was
+internally inconsistent, illogical, self-serving, and ultimately not credible.
+
+11.
+
+The University further submits that even if the Tribunal were to accept the evidence
+tendered by the Student, the University has still met its burden of proving that the Student
+committed the academic offences as alleged. The Student admits that she knew by April
+2016 that she had been admitted to the University and awarded transfer credits on the basis
+of a falsified SFU Transcript.
+
+12.
+
+Further, the Student has admitted that she knowingly pennitted Mr. Liu to submit on her
+behalf SFU Course Outlines for courses that she did not take. She knew that the SFU
+6
+
+Course Outlines were submitted to the University in support of her application for transfer
+credits that she had not earned.
+13.
+
+Indeed, the Student testified that, but for Mr. Liu's disclosure to the University (which he
+provided to the University under an alias after having fallen out with the Student), she
+would have continued to take advantage of the falsified SFU Transcript and SFU Course
+Outlines, and that she had no intention of informing the University of the truth.
+
+The
+
+University submits that, even as described by the Student, this conduct amounts to an
+academic offence within the meaning of section B.l.3(a) of the Code, which prohibits a
+student from "uttering, circulating and making use of' a falsified academic record.
+
+V.
+
+POSITION OF THE STUDENT
+
+14.
+
+The Student submits that it was never disputed that a fake transcript was submitted in her
+name or that fake course outlines were submitted in her name. She submits, however, that
+she should not bear any responsibility for these fraudulent submissions because both were
+done without her knowledge. The transcript was submitted by a rogue agent that she
+and/or her mother had retained to assist with her transfer application from UBC to the
+University. Meanwhile, the fake outlines were submitted by the Student's ex-boyfriend,
+Mr. Liu.
+
+15.
+
+The Student submits that Mr. Liu is not a credible witness and should not be believed, and
+that by contrast, the Student and her mother, who testified on her behalf, were credible and
+should be believed.
+
+16.
+
+The Student's position depends in large part on a legal argument regarding the University's
+evidentiary onus in these proceedings. She asserts that, having chosen to particularize the
+allegations in the Charges, the University was required to establish each and every fact as
+alleged in the particulars, and if the University falls short of this onus, the Student is
+7
+
+entitled to an acquittal.
+
+For that proposition, the Student cited various criminal law
+
+decisions, which hold that where the Crown gives material particulars in an indictment, it
+must prove them. (See R. v. Cote [1986] 1 S.C.R. 2, [1986] S.C.J. No. 2 at para. 56.) On
+this theory, it is not enough for the Student to have dishonestly benefited from the falsified
+transcripts and course outlines that were submitted on her behalf. Because the University
+alleged that the Student forged and submitted the fraudulent documents herself, it must
+prove those specific facts.
+VI.
+
+THE APPLICABLE LEGAL FRAMEWORK
+
+17.
+
+Under the Code, the University bears the onus of establishing on a balance of probabilities,
+relying on clear and convincing evidence, that the Student committed the academic
+offences as alleged. Section C.II.(a) 9 of the Code provides: "The onus of proof shall be
+on the prosecutor, who must show on clear and convincing evidence that the accused has
+committed the alleged offence." See University of Toronto vs. A.S. (DAB Case No. 858
+2 nd Appeal, April 18, 2019).
+
+18.
+
+In other words, the Tribunal must conclude that the evidence indicates that it is more likely
+than not that the Student engaged in the academic misconduct alleged by the University.
+
+19.
+
+Section B.l.3(a) of the Code provides that it is an offence to knowingly forge or alter an
+academic record and/or to utter, circulate or make use of a forged, altered or falsified
+record. Pursuant to the Code, "wherever ... an offence is described on 'knowing', the
+offence shall likewise be deemed to have been committed if the person ought to reasonably
+have known." (Code, Section B). Knowledge, therefore, is an objective standard. The
+University need not prove actual or subjective knowledge.
+
+8
+
+20.
+
+The University must therefore demonstrate that it is more likely than not that the Student
+knowingly "forged, altered or falsified", and/or "did utter, circulate or make use of', two
+falsified academic records: the SFU Transcript and the SFU Course Outlines.
+
+21.
+
+Despite Mr. Sabsay's able arguments to the contrary, it is not necessary for the University
+to establish that the Student herself falsified or submitted the SFU Transcript and SFU
+Course Outlines knowing them to be forgeries in order to prove that the Student committed
+the alleged offences.
+
+22.
+
+The Code makes it an offence for a student merely to "make use of' a forged or falsified
+record. Accordingly, to establish guilt, the University must prove that the Student knew or
+ought to have known that the documents used in support of her applications for admission
+and transfer credit assessment application were forged or falsified and that she knowingly
+made use of them.
+
+23.
+
+The Student submits that, notwithstanding the language of the charge provisions, the
+University was required to prove each and every fact particularized. This Panel does not
+give effect to that submission, which is not legally tenable. Mr. Sabsay, on behalf of the
+Student, attempts to analogize to the criminal context. He says that in the criminal context,
+where the Crown pmiicularizes facts in the Indictment, they must prove those facts.
+
+24.
+
+There are at least two problems with this argument. First, as the University points out, the
+University Tribunal context and the criminal context are different.
+documents are different.
+
+The charging
+
+A criminal Indictment or Information is relatively brief by
+
+contrast to the University's charging document. The University's charging document not
+only specifies the charges, but it goes on to particularize the University's theory of the
+case. A criminal law Information or Indictment does not do so. The University provides
+these particulars to discharge its duty of procedural fairness to inform the Student of the
+9
+
+case to meet and because the Code requires that the Student be provided with particulars.
+Section C.II.(a) 3 of the Code provides:
+A charge shall be in writing, addressed to the accused, signed by or under the
+authority of the Provost and filed with the Secretary. It shall contain a statement
+that the student is charged with having committed an offence specified therein,
+with sufficient particulars of the circumstances to enable the student to identify
+the alleged act or conduct giving rise to the charge.
+25.
+
+From the requirement that the University must furnish particulars of its theory of the case,
+it does not follow, however, that the University must prove each and every particular
+alleged. It must prove sufficient facts to substantiate the elements of the offence, but often,
+as in this case, the particulars go fu1ther than the bare elements of the offence. If this Panel
+were to accede to the Student's argument, it would create a perverse incentive for the
+University to disclose no more than absolutely necessary to discharge its onus under
+Section C.II(a) 3.
+
+26.
+
+Second, even in the criminal law context, on which the Student relies, an Indictment can be
+amended to comport with the evidence, particularly where there is no prejudice to the
+
+accused. (See Criminal Code, s. 601). In R. v. SM, 2017 ONCA 878, for example, the
+Ontario Court of Appeal held that the Crown is not required to prove that the alleged
+offence occurred within the timeframe specified in the indictment.
+27.
+
+Mr. Sabsay submitted in oral argument that the Student has suffered prejudice because, but
+for their misunderstanding of the law, the Student might not have made certain admissions.
+A mistake of law, however, is not a type of prejudice recognizable at law, as ignorance of
+the law is not a defence to misconduct. (See R. v. Jorgensen, [1995] 4 S.C.R. 55 at para.
+97.) This was the only purported prejudice that the Student's counsel identified.
+
+10
+
+28.
+
+This case is not the first time that a student has raised this type of argument before this
+Tribunal. In University of Toronto and MF.E. (Case No. 638, September 23, 2013),
+this Tribunal considered the level of particularization required to accord procedural
+fairness to students facing charges of academic discipline. (The University of Toronto
+
+and MF.E., Trial Division, September 23, 2013 ["M.F.E."]). The student in that case was
+charged with obtaining unauthorized assistance (and with plagiarism in the alternative)
+in a portfolio assignment. The offence was also described in the fmiher alternative as a
+form of "cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described" that had been engaged in for an academic advantage.
+29.
+
+At the hearing, the evidence showed that the student had in fact plagiarized the assignment
+but the details of the dishonest conduct differed from the pmiiculars set out in the charging
+document. She had argued that she could not be prosecuted for that conduct because that
+misconduct was not particularized in the charges and that, if it had been, she might not
+have testified about and admitted to misleading the University in its investigation. In
+rejecting that argument, the Tribunal held:
+The Panel also notes that, assuming that [the student] could not be prosecuted in
+this hearing regarding this example of academic dishonesty due to the technical
+point raised regarding the Particulars, there would seem to be no reason why a
+subsequent prosecution could not be pursued by the University independently of
+this hearing. That factor, combined with the view previously stated that the issue
+of the emails was quite evidently "on the table" throughout this portion of the
+hearing and the lack of substantive prejudice suffered by [the student] given the
+way this part of the hearing unfolded, inclined the Chair to rule (and advise the
+parties) that the Panel would consider the matter of the emails in the course of the
+hearing, as requested by Discipline Counsel.
+MF.E., paras. 55-57.
+
+11
+
+30.
+
+The Panel cannot accede to the argument that a student who engages in serious academic
+misconduct (and which meets the elements of the offence) is entitled to a windfall simply
+because one or more of the particulars have not been proven.
+
+31.
+
+The University need not prove every single fact particularized in the charging document. It
+must "show on clear and convincing evidence that the accused has committed the alleged
+offence." Code, Section C.II.(a) 9.
+
+VII.
+
+FINDINGS OF FACT
+
+32.
+
+This was a contested hearing over a number of days and spread out over nine calendar
+months. The hearing took place on July 17, August 30, and September 12, 2018 (motion)
+as well as on February 25, 28, and March 21, 2019. The Parties delivered their closing
+arguments on April 23, 2019. Although there were a number of agreed upon facts and
+undisputed facts, there were also a number of contentious issues.
+
+A.
+33.
+
+Facts Not in Dispute
+
+Nobody disputes that the SFU Transcript that was submitted on behalf of the Student was a
+forgery. Nor does anyone dispute that the SFU Course Outlines submitted on behalf of the
+Student were falsified records. 2
+
+34.
+
+The Student's pre-University history is not in dispute. The Student attended high school in
+Canada from 2009 to June 2011. She graduated high school as an Ontario Scholar with an
+average exceeding 80%.
+
+35.
+
+In Fall 2011, while she was in grade 12, the Student applied to the University, including to
+the math and physical sciences programs at the downtown St. George campus as well as
+
+2
+
+Although the Course Outlines were genuine SFU course outlines, we refer to them throughout as "falsified" and
+"forgeries" because the Student was never enrolled in the courses described in the Course Outlines.
+
+12
+
+the competitive Bachelor of Business Administration Co-op Program at the University of
+Toronto Scarborough Campus ("UTSC"). The Student was not offered admission to the
+University in any of these programs at that time.
+36.
+
+Instead, in the 2012-2013 and 2013-2014 academic years, the Student was enrolled at the
+University of British Columbia in Vancouver, British Columbia ("UBC"). The Student's
+success in high school did not carry over to university. She struggled in the two years that
+she attended UBC, earning a total of 39 credits, with a cumulative average of only 55.6%.
+
+37.
+
+After her second year at UBC, the Student took a break from UBC and returned home to
+China. During that year off, the Student applied to transfer to the University as a second­
+year student. The Student and her mother, Zhong Hong, hired Xiaoye Tian to assist with
+the Student's transfer application to the University. 3
+
+38.
+
+On April 13, 2015, the University received applications for the Student's admission to
+transfer to UTM and/or UTSC. The applications indicated that the Student was applying as
+a transfer student from SFU in Burnaby, British Columbia.
+
+39.
+
+The Student was required to submit transcripts to the University from the postsecondary
+institutions listed in her application for admission.
+
+On May 2, 2015, the University
+
+received an SFU transcript of academic record dated December 20, 2014, bearing the
+Student's name. The SFU Transcript covered the period from Fall 2012 to Fall 2014. It
+indicated that the Student had successfully completed 29 credits towards a Bachelor of
+Business Administration with a Joint Major in Economics, with a cumulative grade point
+average of 3.2.
+
+3
+
+Mr. Tian apparently also submitted an application, on the Student's behalf, that used her authentic UBC transcript,
+but that application was not processed.
+13
+
+40.
+
+The infonnation contained in the SFU Application and the SFU Transcript was false, as the
+Student has never been enrolled at SFU. The Student received an offer of admission to
+UTM as an Honours Bachelor of Arts student on the basis of the false information
+contained in the SFU application and the SFU Transcript.
+
+The Student's offer of
+
+admission was accepted on June 3, 2015.
+41.
+
+Students who are admitted to the University as transfer students are required to have their
+credits from their previous university assessed to detennine if they will be given credit at
+the University for some or all of those courses.
+
+42.
+
+Shortly after her admission, on June 29, 2015, the Student met with an academic advisor,
+Kristina McCutcheon, to inquire about her transfer credits. Ms. Mccutcheon informed the
+Student that no transfer credit assessment application had been completed in the Student's
+name.
+
+43.
+
+On July 15, 2015, the University received an application for a transfer credit assessment in
+the Student's name. The Student met with another academic advisor, Jessica Olivier, on
+August 10, 2015 to inquire about her transfer credits. Ms. Olivier informed the Student
+that the assessment had not been completed as of that date.
+
+44.
+
+The Student's transfer credit assessment was completed and sent to her UTOR email on
+August 25, 2015. The University determined that the Student was entitled to 5.5 transfer
+credits on the basis of ten SFU courses listed on the SFU Transcript. That same day, on
+August 25, 2015, the Student attended another meeting with Ms. Olivier.
+
+45.
+
+The August 25, 2015 transfer credit assessment was only a partial assessment.
+
+The
+
+University required the Student to provide detailed course outlines for 14 additional SFU
+courses on the SFU Transcript, which did not appear in UTM's course equivalency data
+14
+
+base. The Student began taking classes at UTM in September 2015. By that time, she had
+not submitted the SFU course outlines that the University had requested.
+46.
+
+On March 30, 2016, the University sent an email to the Student via her UTOR email
+account. The University reminded the Student that she needed to provide detailed course
+outlines to the University for 14 additional SFU courses in order for the University to
+complete its review of her previous studies and assess her entitlement to transfer credits.
+
+47.
+
+The Student discussed the University's request for SFU course outlines with her then­
+boyfriend, Yifan Liu. Mr. Liu obtained for the Student seven of the course outlines the
+University had requested.
+
+(He later testified that he obtained those Course Outline from
+
+the SFU website.) On April 7, 2016, the SFU Course Outlines were submitted to the UTM
+Transfer Credit Office via the Student's UTOR email account in support of the Student's
+application for transfer credits. On May 9, 2016, the Student received an updated transfer
+credit assessment, which also referred repeatedly to SFU.
+48.
+
+In approximately late August 2016, the Student and Mr. Liu ended their relationship. On
+August 30, 2016, the UTM Transfer Credit Office account received an email from
+someone purporting to be "lee eva" with the subject line "reporting a serious fraud
+anonymously". The SFU Course Outlines were attached to this email. The email stated
+that the Student had not attended SFU, that she had purchased the SFU Transcript, and that
+the author of the email had obtained the SFU Course Outlines from the SFU website.
+
+49.
+
+There is no dispute that Mr. Liu is the author of the email from "lee eva", as Mr. Liu
+confirmed his authorship of the e-mail in these proceedings (although the true author of the
+e-mail was not known to the parties at the time it was sent). The information contained in
+the email from "lee eva" caused the University to pull the Student's SFU Transcript,
+together with five other SFU transcripts submitted in respect of five other applications for
+15
+
+admission to the University. The six SFU transcripts contain substantially the same course
+codes, descriptions, and grades, and many of them list the same student number. SFU has
+confirmed that none of these six students, including the Student, were ever enrolled at
+SFU, and that none of the six SFU transcripts were issued by SFU.
+B.
+
+Assessment of the Evidence
+Assessing Credibility
+
+50.
+
+As set out above, much of the evidence in this case is not disputed. Some facts, however,
+were contested. In particular, Mr. Liu and the Student told different versions of the same
+events.
+
+51.
+
+There is no magic fonnula to assessing credibility, but the courts have offered considerable
+guidance. In assessing the credibility of a witness, the Tribunal should carefully scrutinize
+the witness' evidence before the Tribunal in light of what he or she has said on prior
+occasions. In this regard, the reasoning of Court of Appeal for Ontario is instructive:
+Probably the most valuable means of assessing the credibility of a crucial witness
+is to examine the consistency between what the witness said in the witness box
+and what the witness has said on other occasions, whether on oath or not.
+Inconsistencies on minor matters, or matters of detail are normal and are to be
+expected. They do not generally affect the credibility of the witness. This is
+particularly true in cases of young persons. But where inconsistency involves a
+material matter about which an honest witness is unlikely to be mistaken, the
+inconsistency can demonstrate a carelessness with the truth. The trier of fact is
+then placed in the dilemma of trying to decide whether or not it can rely upon the
+testimony of a witness who has demonstrated carelessness with the truth.
+R. v. MG., [1994] O.J. No. 2086 (C.A.), at para. 23
+
+52.
+
+In assessing the credibility of Mr. Liu and the Student, we are aided by their prior
+testimony in a criminal proceeding, which overlapped factually with issues in this matter.
+Portions of the criminal trial transcript were admitted for the truth of their contents in this
+proceeding and for the purpose of assessing witnesses' credibility. Their relevance and the
+16
+
+uses to which these criminal trial transcripts could be put were the subject to a prior ruling
+of this Panel. (See University of Toronto and S. W., Trial Division, December 21, 2018,
+attached as Appendix "A").
+C.
+The Student's Knowledge or Involvement with Respect to the Forged
+Documents
+
+53.
+
+As set out above in Part VI, it is not necessary that the University prove that the Student
+personally created or submitted the Forged Documents. It is enough to show that she had
+knowledge of the Forged Documents, and made use of them. (See Code, s. B.i.l(a).)
+
+54.
+
+The Student does not deny that the Forged Documents were falsified documents.
+
+Nor
+
+does she deny that the Forged Documents were submitted in her name. Nor does she deny
+that that she benefited from them. Nor does she deny that she would have continued to
+benefit from them despite knowing they were falsified.
+
+The factual issues in this
+
+proceeding thus tum on when the Student became aware of the forgeries.
+55.
+
+On March 30, 2016, Adam Giles, a Transfer Credit Officer at the University, emailed a
+letter to the Student to reiterate the University's request for detailed course outlines in
+respect of 14 of her SFU courses. The Student acknowledges that she received this letter
+and testified that, on April 6, 2016, she obtained a copy of the SFU Transcript from Mr.
+Tian.
+
+56.
+
+There is therefore no dispute that by April 6, 2016, at the latest, the Student knew that she
+had been admitted to the University and obtained transfer credits on the basis of a falsified
+SFU Transcript. The Student also knew that the University was seeking course outlines in
+respect of SFU courses that she had never taken in support of her request for additional
+transfer credits.
+
+17
+
+57.
+
+The Student also testified that she did not report to University authorities the fact that she
+had been admitted under false pretenses. She testified that she knowingly continued to
+make use of the SFU Transcript until the time that the University discovered the Forged
+Documents were forgeries.
+
+58.
+
+She also testified that she acquiesced to Mr. Liu's offer to obtain and submit SFU course
+outlines for classes that she did not take from a university she never attended. She also
+testified that she would have continued to make use and take advantage of the SFU Course
+Outlines if she had not been caught.
+
+59.
+
+These admissions alone are enough to find the student guilty of the misconduct alleged.
+On her evidence, she knew that she had gotten into the University using the Forged
+Documents, and knowingly continued to make use of them. These admissions are proof
+that the student did "knowingly . . . make use of [a] forged, altered or falsified record",
+namely the SFU Transcript (Count 1), and that she did "lmowingly ... make use of [a]
+forged, altered or falsified document, namely, the course outlines from Simon Fraser
+University" (Count 3).
+D.
+Whether the Student Knew of or Directed the Submission of the Forged
+Documents
+
+60.
+
+While the Student admits lmowledge of the Forged Documents soon after receiving Mr.
+Giles' letter on March 30, 2016, the University asks that this Tribunal go further and find
+that the Student knew of the Forged Documents and was a willing participant in submitting
+the Forged Documents from the outset of her application to the University.
+
+61.
+
+The University submits that the Student must have known that her grades at the University
+of British Columbia were too poor to transfer to her desired programs at the University,
+and the Student and her parents hired Mr. Tian to ensure that the poor grades did not
+18
+
+impede her transfer application. In so doing, according to the University, the Student and
+her parents knew that they were paying Mr. Tian to create a forged transcript.
+62.
+
+This Panel accepts the University's submissions in large part. There is both direct and
+circumstantial evidence that the Student knew about the forgeries from the outset of her
+transfer applications.
+Mr. Liu's Evidence About the Student's Knowledge ofthe Forged Documents
+
+63.
+
+The direct evidence that supports the University's theory comes from the Student's ex­
+boyfriend, Mr. Liu. He testified that he and the Student had been dating for two to three
+months when they celebrated his birthday on August 13, 2015.
+
+He testified that she
+
+seemed troubled at the time, and that after he pressed her, she explained that she was
+concerned because she had not yet received her transfer credits from SFU.
+
+He was
+
+confused, knowing that she had attended UBC. She explained that she had "a guy who
+made up credits from SFU for her". She told him about paying the guy to buy a fake
+transcript from SFU, that she or her mother paid 100,000 RMB (or approximately $20,000
+CDN), and that it cost more if one wanted to have more credits transferred. He further
+testified, that after the Student received the letter from Mr. Giles in March 2016, he
+assisted the Student in submitting the falsified SFU Course Outlines.
+64.
+
+Mr. Liu testified in a compelling and straight-forward manner.
+
+He did not appear to
+
+exaggerate or embellish, and was candid about his own disreputable role in these events.
+Nevertheless, Mr. Liu's evidence, standing alone, would not be sufficient to find that the
+Student had knowledge of the fraudulent nature of the Forged Documents from the outset
+of her transfer application. Like many witnesses in contentious proceedings, Mr. Liu was
+an imperfect witness because of the presence of a motive to lie as well as other reasons to
+question his credibility.
+19
+
+65.
+
+First, it is undisputed that Mr. Liu was complicit in the Student's misconduct. Although he
+was unaware of the forged SFU transcript until August 13, 2015, even on his own
+evidence, he was an active participant in submitting the SFU Course Outlines. He comes
+to this Tribunal as someone who has also committed academic misconduct.
+
+66.
+
+Second, Mr. Liu has a motive to fabricate. After Mr. Liu and the Student broke up in
+August 2016, and after learning that Mr. Liu was the tipster who had informed the
+University of the Forged Documents, the Student made a formal complaint to the police
+and alleged that Mr. Liu had sexually assaulted her.
+
+67.
+
+It is not this Panel's role to opine on whether the student was sexually assaulted by Mr. Liu
+
+(although it should be noted that Mr. Liu was acquitted at trial -
+
+a fact that is not
+
+dispositive of, but certainly consistent with, his avowed innocence). The Panel takes no
+position on Mr. Liu's guilt or innocence. The criminal trial proceedings, however, are
+relevant here in assessing the witnesses' credibility in proceedings.
+68.
+
+Mr. Liu's theory at the criminal trial is that the Student fabricated the sexual assault
+allegations as revenge for Mr. Liu informing the University on her.
+
+If true, he has a
+
+significant motive to see her punished in this forum. As the trier of fact, this Panel must be
+mindful of any motive to lie. A motive to lie is a significant factor in assessing credibility,
+and juries are routinely instructed to consider whether a motive to lie exists. (See Watt's
+Manual ofCriminal Jury Instructions (Toronto: Carswell, 2015), p. 267.)
+
+69.
+
+Given his own misconduct and other dishonourable conduct, Mr. Liu is in some ways
+similar to those who might be described as a Vetrovec witness in criminal cases. (See
+Vetrovec v. The Queen, [1982] 1 S.C.R. 811; R. v. Sauve, 2004 CanLII 9054 (ON CA)). A
+Vetrovec witness is a witness whose credibility is compromised because of, inter alia, a
+
+serious motive to lie, a history of dishonesty, or a history of crimes of moral turpitude.
+20
+
+Where a Vetrovec witness provides material evidence, judges must: (1) instruct the jury
+that the evidence of such witnesses requires special scrutiny; (2) identify the characteristics
+of the witness that bring his or her evidence into question; (3) caution the jury that
+although it is entitled to act on the unconfinned evidence of the Vetrovec witness, it would
+be dangerous to do so; and (4) caution the jury to look for other independent evidence
+which tends to confinn the material parts of the witness' evidence. (See Sauve, supra, para.
+82).
+70.
+
+In short, where a witness' credibility is significantly compromised in the above-described
+manner, the trier of fact should be cautious in accepting the testimony of that witness
+unless that evidence is corroborated by independent evidence. While this Panel does not
+suggest that Vetrovec, a criminal law decision, is binding on this Tribunal, the principles
+articulated in Vetrovec and its progeny are instructive.
+
+And further, while we do not
+
+suggest that Mr. Liu is analogous to a "jailhouse informant" or the types of Vetrovec
+witnesses encountered in the criminal law, there are enough vulnerabilities in his
+credibility that it would be imprudent for this Panel to rely on his evidence standing alone.
+71.
+
+Mr. Liu's evidence, however, is c01Toborated by significant circumstantial evidence, which
+shows, on a balance of probabilities, that the Student knew or ought to have known that the
+records were falsified from the outset of her application to the University.
+
+The Student's Poor Academic Standing at UBC
+72.
+
+The University submits that it is more likely than not that the Student knew that her
+academic record at UBC was very poor, and that she had virtually no chance of being
+admitted to the University on the basis of her actual UBC transcript. This Panel agrees.
+
+21
+
+73.
+
+The Student was aware of the high standards of the University.
+
+Her application for
+
+admission as a high school student (when her grades were generally high and when she
+was an Ontario Scholar) was rejected at both the St. George and UTSC campuses
+(although, in fairness, she was accepted into a UTM program). Granted, she applied for
+different programs, but she was generally aware of the University's high standards.
+74.
+
+The Student studied at UBC for two years, where she performed poorly. After her first
+year at UBC, the Student had failed too many courses to be eligible to advance to Year 2.
+Over the two-year period, the Student had a cumulative grade average 55.6%, which was
+only 0.6% above the threshold for being placed on academic probation.
+
+75.
+
+The Student acknowledged that her original ambition was to apply to the Sauder School of
+Business at UBC. She acknowledged that she had no hope of gaining entrance into the
+Sauder School of Business at UBC because of her poor grades, yet she applied to transfer
+into competitive business programs at the University. The Student's evidence at trial was
+that she expected her high school grades to compensate for poor academic performance at
+UBC. That explanation is not believable, nor is it consistent with her self-awareness that
+she could not have gotten into the Sauder School of Business. The Student knew that she
+would have had difficulty gaining entrance into the University with her poor grades at
+UBC.
+
+76.
+
+These facts are relevant because it gives rise to a motive to make use of a falsified
+transcript. A successful student has no incentive to submit a falsified transcript, but a
+student who has struggled academically, yet wants to change schools does have such a
+motive. Motive alone is insufficient to establish guilt, but it is a relevant contextual factor
+when assessing the cumulative weight of the evidence.
+The Contract with Mr. Tian
+22
+
+77.
+
+The Student's poor grades at UBC are also a relevant contextual factor in assessing the
+Student's relationship with Mr. Tian. Mr. Tian is an agent who was hired by the Student
+and her family to assist with the transfer application to the University. He was not called
+as a witness in these proceedings. The University submits that the real purpose of Mr.
+Tian's hiring was to provide Ms. W
+
+with a falsified academic record that was
+
+competitive enough to render her eligible for admission.
+78.
+
+The Student testified that she entered into a contract with Mr. Tian, which was tendered as
+Exhibit 2, Tab 18 at the hearing, which required, inter alia, that the Student deposit 10,000
+(unspecified currency) into Mr. Tian's account. According to the contract, the deposit
+would be refunded if the application was not successful, subject only to a deduction of the
+Ontario University Application Centre ("OUAC") application fees.
+
+79.
+
+The Student testified that no alteration to the contract was made to the amount payable to
+Mr. Tian but that her mother and Mr. Tian had verbally agreed to defer payment until after
+the Student received an offer of admission. According to the Student, Mr. Tian would not
+be paid (and would incur out-of-pocket expenses for application fees) until the transfer
+application was successful.
+
+80.
+
+The Student provided Mr. Tian with various documents relating to the transfer application,
+including her UBC transcript. The Student testified that the fact that she provided Mr. Tian
+with her real transcript from UBC means that she intended that Mr. Tian would use the
+UBC transcript in the application. With respect to the provision of the UBC transcript, this
+fact is equally consistent with both guilty and non-guilty inferences. A forgerer would
+want to see a real transcript, for example, to see how the Student's name was spelt on the
+transcript and to identify what classes had been taken, and also to assess whether a forged
+transcript was in fact required.
+23
+
+81.
+
+It is curious that, on the Student's evidence, Mr. Tian agreed to work for free (at a small
+
+loss to himself) until the Student was accepted despite the signed written contract to the
+contrary, which required an initial deposit of 10,000 (unspecified currency).
+82.
+
+It is also curious that the Student and her mother would have paid a significant fee for an
+
+agent to prepare an application that hundreds of students complete on their own every year.
+The fact that the Student is from China and less familiar with the Canadian university
+system is a partial explanation but not an explanation for paying a large sum of money.
+83.
+
+This tension in the Student's evidence is heightened by the fact that the Student has been
+inconsistent in her evidence regarding the actual amount paid. The contract between Mr.
+Tian and the Student states that Mr. Tian would receive an initial "deposit" of 10,000. The
+contract does not specify the unit of currency. Nor does the contract specify the full price
+beyond the initial deposit of 10,000. At the hearing, the Student and her mother testified
+that 10,000 referred to 10,000 RMB (approximately $2,000 CDN) and that this price
+reflected the total fee to be paid, rather than merely a deposit.
+
+84.
+
+According to the Student's testimony and the testimony of her mother, nothing was paid to
+Mr. Tian until after he secured the Student's admission, and this transaction was completed
+when the Student and her mother met Mr. Tian at a coffee shop in Toronto and gave him
+the money in cash. If nothing else, this admission shows that the parties were not strictly
+adhering to the tenns of the contract, which had required that the deposit be paid up front.
+
+85.
+
+The Student's evidence on the amount of money paid to Mr. Tan is highly inconsistent. In
+this proceeding, the Student testified that she paid a total of 10,000 RMB (approximately
+$2,000 CDN) in cash. During the Dean's Designate meeting, the Student advised the
+
+24
+
+Dean's designate, Lucy Gaspini, that Mr. Tian had been paid $8,000. 4 According to Mr.
+Liu, the Student had told him that she had paid $20,000.00 CDN.
+86.
+
+It is true that the Student's evidence in this regard was supported by her mother. This
+
+Panel would not give any weight to Ms. Zhong's testimony. She testified as though she
+was there as an advocate for her daughter
+
+not as a witness. When asked about her
+
+awareness of her daughter's poor performance at UBC, she stated it was "unimportant" if
+her daughter had struggled at UBC. When asked about a specific portion of Mr. Liu's
+evidence, she answered simply that Mr. Liu is a "con man" and that we should not believe
+anything he says. She also denies that there was anything wrong with the Student taking
+advantage of and making use of the Forged Documents even when she knew them to be
+falsified. She states that it is the University's fault for not detecting the forgeries sooner.
+The Panel also found Ms. Zhong to be evasive during a number of her responses (although
+some of this apparent evasiveness may be due to the fact that she was testifying through an
+interpreter). It is of course understandable that a student's parent would want to help their
+daughter or son. It is also understandable why a parent may dislike their daughter's ex­
+boyfriend. But the above-noted flaws in Ms. Zhong's testimony make it difficult for the
+Panel to rely on her evidence.
+87.
+
+Cumulatively, there is clear and convincing direct and circumstantial evidence that the sum
+paid was likely significantly more than 10,000 RMB. More importantly, the Student's
+inconsistency on this subject raises more concerns about the Student's credibility.
+The Meeting with Ms. McCutcheon in June 2015 and Ms. Olivier in August 2015
+
+4
+
+During oral argument, Mr. Sabsay argued that it was he not the Student - who made the admission that the
+Student and her mother had paid $8,000.00. This is a distinction without a difference. He was participating as
+counsel and a representative of the Student during an on-the-record discussion.
+
+25
+
+88.
+
+Almost as soon as she arrived in Toronto in June 2015, Ms. W
+
+wanted to confirm that
+
+she would receive enough transfer credits to permit her to emoll as a second-year student at
+UTM. She testified that this was very important to her, and that if she did not receive
+sufficient transfer credits she intended to return to UBC for the Fall term. The Student
+visited the advisors in the Registrar's office three times during the Summer of 2015 to
+inquire about her transfer credits.
+89.
+
+Ms. McCutcheon's contemporaneous notes from their June 29, 2015 meeting stated "[the
+Student] is transferring from SFU and came in to ask about her transfer credits" (Exhibit 3,
+Tab 1). During cross-examination, the Student admitted that Ms. McCutcheon referred to
+her as a transfer student from SFU.
+
+90.
+
+Ms. McCutcheon's testimony and the Student's testimony are somewhat inconsistent on
+certain details of their meeting. Ms. McCutcheon testified that the only way for her to
+know what university the Student was transferring from would be for the Student to tell
+her. This is because, at the time, the Student had not yet applied for a transfer credit
+assessment, so the information about the school from where the Student had come would
+not have been available to Ms. Mccutcheon using the University internal database tools
+available to her. The Panel appreciates the Student's argument that Ms. McCutcheon could
+not recall the conversation with the Student and that her contemporaneous notes (Exhibit 3,
+Tab 1) standing alone, are not evidence of who said what about SFU. But given that Ms.
+McCutcheon testified that she would not have had any other way of learning the school
+from which the Student had transferred -
+
+unless the Student herself was the source -
+
+then, in the absence of an alternative explanation to the contrary, there is compelling
+circumstantial evidence that the Student told Ms. McCutcheon that she was a transfer
+student from SFU.
+26
+
+91.
+
+The Student insists that it was Ms. McCutcheon who brought up the fact that the Student
+was a transfer student to SFU, and that although she was surprised when Ms. McCutcheon
+raised it, she said nothing and did nothing about it except to call Mr. Tian. According to
+the Student, Mr. Tian told her not to worry about it and that either Ms. McCutcheon
+misspoke or the Student misheard.
+
+92.
+
+On its face, the Student's evidence does not seem plausible -
+
+especially when situated in
+
+the context of the entirety of the evidence. The Student's explanation appears yet even
+more unlikely when considered in light of the August 25, 2015 meeting between the
+Student and Ms. Olivier. That meeting occurred on the same day on which the Student
+received a letter from Mr. Giles regarding her transfer credits from SFU (which clearly
+shows that the Student received 5.50 transfer credits from SFU).
+93.
+
+The Student had been waiting for the information contained in the August 25, 2015 Credit
+Assessment. She had made two visits to academic advisors in anticipation of its receipt.
+She attended at the Registrar's Office to meet with Ms. Olivier on the very day that the
+Credit Assessment was released.
+
+94.
+
+Yet, despite the importance of its contents, the Student denies having received the Credit
+Assessment or even that she ever saw it. She states that she only received a phone call
+from Mr. Tian saying she received 5 credits. This is not believable: the Student had been
+anxiously awaiting this information; the information was sent to her UTOR email; and she
+rushed to see the counsellor regarding her transfer credits on the same day it was received.
+
+95.
+
+Further, Ms. Olivier's evidence was that, if the Student did not have a copy of the transfer
+credit letter with her, she would have provided a copy or at least showed her the contents
+on her computer screen because the very purpose of that meeting was to discuss the subject
+matter of that letter.
+27
+
+96.
+
+The timing of the Student's discussions with Ms. McCutcheon and Ms. Olivier is
+consistent with Mr. Liu's testimony about when he first learned about the Student's
+difficulties with her transfer credits.
+
+Mr. Liu testified that he first learned about the
+
+Student's difficulties during his birthday celebration on August 13, 2015. During that
+meeting, she told him about her difficulties obtaining her transfer credits from SFU. As
+noted above, this Panel would not have accepted Mr. Liu's testimony standing alone, but
+given its consistency with the other evidence presented at the hearing, it is compelling.
+The Request for Outlines on March 30, 2016 and the Student's Request for Mr. Liu's Help
+
+97.
+
+On March 30, 2016, Mr. Giles emailed a letter to the Student to reiterate the University's
+request for detailed course outlines in respect of 14 of her SFU courses. The Student
+acknowledges that she received this letter and that, on April 6, 2016, she obtained a copy
+of the SFU Transcript from Mr. Tian.
+
+98.
+
+Mr. Liu testified that the Student, upon receiving Mr. Giles' letter, asked Mr. Liu to help
+her respond to the University's request for course outlines from SFU, which he then found
+on the SFU website. Mr. Liu stated that he put the course outlines into a PDF and sent
+them to the Student. This aspect of Mr. Liu's testimony is conoborated by what the
+Student herself says, but the details vary.
+
+99.
+
+The Student testified that Mr. Liu volunteered to take care of the issue for her because he
+was desperate for her not to move back to UBC. She claimed to have left it entirely to him
+and to have merely gone along with Mr. Liu's plan.
+
+100. This was the first time that the Student had given this evidence. At the criminal trial, the
+Student testified that when she received Mr. Giles email, she did not know what it was
+about until she contacted Mr. Tian, and that Mr. Tian then must have submitted the
+
+28
+
+outlines. During the Dean's Designate meeting, she also stated that Mr. Tian had provided
+the course outlines to the University on the Student's behalf. This is a significant
+inconsistency in the Student's evidence.
+101. Nevertheless, it does not greatly assist the Student even if the Panel were to accept the
+version told at trial.
+
+On both Mr. Liu's and the Student's evidence, they have both
+
+committed academic misconduct.
+The Student's Admitted Dishonest Conduct
+
+102. The Student has admitted engaging in academic misconduct. She conceded at the hearing
+that she knew about the Forged Documents in April 2016, and that she fully intended to
+continue to take advantage of the Forged Documents if she had not been caught. It is
+difficult for the Student to take the position that she had engaged in academic misconduct
+and intended to continue to do so, but then ask that the Panel draw an innocent inference in
+her favour when it comes to assessing the extent of the misconduct.
+103. Cumulatively, the weight of the circumstantial evidence of the Student's knowledge of the
+Forged Documents from the time of her application to the University is significant. The
+circumstantial evidence corroborates Mr. Liu's evidence.
+
+Even without Mr. Liu's
+
+evidence, however, the other evidence alone shows that the Student, at a minimum, ought
+to have known the Forged Documents were forgeries at the time she, or Mr. Tian,
+submitted the transfer application on her behalf, which is sufficient to prove the charges
+alleged. On a balance of probabilities, this Panel finds that the Student did in fact know
+that the SFU Transcript was a forgery at or around the time that her transfer application
+was submitted to the University.
+
+29
+
+VIII. CONCLUSION ON CHARGES
+104. Following deliberation and based on the evidence presented in these proceedings, the Panel
+concluded that charges 1 and 3 had been proven.
+105. At the outset of the hearing, the University indicated that if there were findings of guilt on
+charges 1 and 3, the alternative charges (charges 2 and 4) would be withdrawn.
+106. The Panel will re-convene to consider the appropriate sanction.
+
+IX.
+
+ORDER OF THE PANEL
+
+107. The Panel makes the following order:
+a. the Student is guilty of two counts of knowingly altering or falsifying an academic
+record, or uttering, circulating or making use of such forged, altered or falsified
+record, contrary to section B.i.3(a) of the Code;
+DATED at Toronto, August 23, 2019.
+
+Nader Hasan, Chair, on Behalf of the Panel
+
+30
+
+APPENDIX "A"
+
+Case No.: 948
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty file on September 14, 2017, and revised on June
+29, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+C. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+S
+
+W
+
+INTERIM DECISION
+Hearing Date: September 12, 2018
+Members of the Panel:
+Mr. Nader R. Hasan, Co-Chair
+Professor Pascal van Lieshout, Faculty Panel Member
+Ms. Yusra Qasi, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland
+Ms. Lauren Pearce, Assistant Discipline Counsel, Paliare Roland
+Mr. Lorne Sabsay, Counsel for Ms. S
+W
+, the Student
+Ms. Jennifer Jackson, Assistant to Mr. Lorne Sabsay, Counsel for the Student
+Ms. S
+)W
+the Student (via Skype)
+Hearing Secretary:
+Ms. Krista Osbourne, Administrative Clerk & Hearing Secretary, Appeals, Discipline and
+Faculty Grievances, University of Toronto
+
+2
+
+[1] This is an academic discipline matter in which the Student, S
+("the Student"), has been charged with academic misconduct. The charges were
+filed by the Provost of the University of Toronto ("the University") against the Student
+under the University's Code of Behaviour on Academic Matters, 1995 ("the Code")
+on September 14, 2017. At the crux of the charges is the allegation that the Student
+submitted fraudulent transcripts to support her transfer application to the University.
+The Student vigorously denies those allegations. There is no dispute among the
+parties that fraudulent transcripts were submitted on the Student's behalf. The only
+dispute is whether the Student was aware of the fraudulent nature of the transcripts.
+[2] These are the decisions in relation to motions brought at the hearing held on
+September 12, 2018.
+[3] The September 12, 2018 motions dealt with:
+(a)
+
+The Student's motion to preclude the Provost's witness, Mr. Yifan
+Liu, from testifying in these proceedings;
+
+(b)
+
+The Provost's motions seeking an order declaring that:
+(i) the Judgment in Mr. Liu's criminal trial, per Maxwell J., is
+admissible in the hearing on the merits of the charges against the
+Student;
+(ii) portions of the transcripts from Mr. Liu's criminal trial, attached to
+the Provost's Notice of Motion as Appendix "A" (the "Transcripts")
+are admissible in the hearing on the merits of the charges against
+the Student; and
+(iii) the Transcripts are admissible for the purpose of impeaching Mr.
+Liu or the Student during their respective cross-examinations.
+
+3
+
+[4] Oral reasons dismissing the Student's motion were delivered on September 12,
+2018.
+
+I advised the parties at that time that I may edit or supplement those
+
+reasons in writing.
+[5] I reserved on the Provost's motions after reviewing the facta, motion records and
+hearing oral submissions from counsel for the parties. 1
+(A)
+
+The Motion to Preclude Mr. Liu from Testifying
+[6] The Provost intends to call as a witness Mr. Yifan Liu, the ex-boyfriend of the
+Student.
+
+Mr. Liu is expected to testify about the extent of the Student's
+
+knowledge about the fraudulent transcripts. Mr. Sabsay, counsel to the Student,
+asserts that it would be a violation of the Student's rights under the Canadian
+Charter of Rights and Freedoms (the "Charter') to have Mr. Liu testify. He also
+
+submits it would violate her rights under the Ontario Human Rights Code.
+
+He
+
+asserts not only that a portion of Mr. Liu's evidence should be excluded but that
+the Provost should be precluded from calling him altogether. He submits that
+allowing him to testify would amount to a violation of the Student's Charter rights.
+[7] This motion presented a threshold issue of whether the Charter applies to
+university discipline proceedings.
+
+The Provost vigorously contests the
+
+application of the Charter to these proceedings.
+
+As I indicated in my oral
+
+reasons, it is not necessary to decide that issue because even if the Charter did
+apply, generally, the Student's motion must be dismissed.
+[8] The Student's motion is novel in almost every respect, which Mr. Sabsay
+appears to concede. There is no reasonable dispute that Mr. Liu's evidence
+would be relevant, as his proposed evidence goes to the heart of the issues:
+whether the Student had knowledge of the fraudulent nature of the transcripts.
+[9] Mr. Sabsay provided no authority for the proposition that the Tribunal has the
+power to preclude a witness with relevant evidence from testifying because of the
+
+1
+
+Although these motions were argued before a full panel, the decision was made by the
+Chair alone, as these motions involve questions of law.
+
+4
+
+emotional impact that her or his testimony may have on another party. Nor am I
+aware of any such authority.
+[1 O]
+
+I note also that while Mr. Sabsay asserts that the Student would be
+
+traumatized by having Mr. Liu testify, Mr. Sabsay has not tendered any evidence
+in that regard (i.e., affidavit or viva voce evidence from a physician, from the
+Student or from any other person that would support the proposition that she
+would be traumatized).
+[11]
+
+Without an evidentiary foundation, it is difficult to contemplate how such
+
+extraordinary relief could be granted, or what measures might properly mitigate
+or limit the amount of emotion duress that the Student would face. Yet even if
+one were to assume that having Mr. Liu testify would be difficult or even
+traumatic for the Student, the Panel is not persuaded that having him testify
+would amount to a Charter rights violation or a Human Rights Code violation. At
+least not one that could not be accommodated in some way.
+[12]
+
+After the conclusion of my oral reasons, I invited Mr. Sabsay to seek
+
+alternative relief in the form of accommodation of the Student to deal with the
+anticipated emotional duress.
+
+Following the hearing, I was advised that the
+
+parties had agreed that the Student could be accommodated. Since the Student
+is appearing in these proceedings by way of Skype, the parties agree that Mr. Liu
+should testify immediately below the screen upon which the Student appears.
+Given the position of the camera, neither of Mr. Liu nor the Student would be
+able to see each other. This is a sensible approach.
+(8)
+
+Admissibility of the Judgment from Mr. Liu's Criminal Trial
+[13]
+
+The Provost seeks admission of the Judgment from Mr. Liu's criminal trial.
+
+The Provost is not asking the Tribunal to adopt Maxwell J.'s findings or analysis
+in relation to the Student's credibility.
+
+Instead, the Provost is tendering the
+
+Judgment to provide the Tribunal with "contextual information that is relevant to
+these Tribunal Proceedings".
+
+5
+
+[14]
+
+The Provost relies principally on the Supreme Court of Canada's decision
+
+in British Columbia (Attorney General) v. Malik, 2 and on s. 15(1) of the Statutory
+Powers and Procedure Act ("SPPA").
+
+[15]
+
+The Provost cites Malik for the proposition that a judgment in a prior civil
+
+or criminal case may be admissible as evidence in a subsequent proceeding,
+including administrative or disciplinary proceedings, as proof of its findings and
+conclusions.
+[16]
+
+Malik is of limited applicability. The primary finding and conclusion of
+
+Maxwell J.'s Judgment is that the Crown had not proven its case against Mr. Liu
+beyond a reasonable doubt and that Mr. Liu must be acquitted. Nobody disputes
+that this was the result of the criminal proceeding. (If that does become a
+contested issue of fact, then the Judgment can be admitted for that limited
+purpose.)
+[17]
+
+It is true that, in the context of rendering the Judgment, Maxwell J. did
+
+make adverse findings of credibility against the Student (and, to some extent, Mr.
+Liu). Generally, one trier of fact's assessment of a witness' credibility in one
+proceeding is not relevant to another tribunal's assessment of that witness'
+credibility in a subsequent proceeding. 3
+
+It is for this Tribunal to independently
+
+assess and come to its own conclusions with respect to the Student's credibility
+- a fact that the Provost appears to acknowledge. 4
+[18]
+
+The Provost states that it does not seek to rely on the Judgment for the
+
+findings on the Student's credibility, but rather for "context". Upon reviewing the
+Provost's submissions and during oral argument, it was not clear to me what the
+Provost could mean by "context". As the Supreme Court notes in Malik, to the
+extent that a party seeks to rely on a previous judgment, it must specify the
+purpose for which it is tendered, and that purpose must be a permissible one.
+
+British Columbia (Attorney General) v. Malik, 2011 sec 18.
+R. v. Ghorvei, 1999 Canlll 2475 at para. 31 (ON CA).
+4
+Factum of the Provost, para. 20.
+
+2
+3
+
+6
+
+Tendering a judgment for "context" lacks the specificity to allow this Tribunal to
+make an informed decision as to whether the purported purpose is a permissible
+one.
+[19]
+
+I must also consider subsection 15(1) of the SPPA. That section provides
+
+in relevant part:
+15. (1) Subject to subsections (2) and (3), a tribunal may admit as
+evidence at a hearing, whether or not given or proven under oath or
+affirmation or admissible as evidence in a court,
+(a) any oral testimony; and
+(b) any document or other thing,
+relevant to the subject-matter of the proceeding and may act on such
+evidence, but the tribunal may exclude anything unduly repetitious.
+[20]
+
+Section 15(1) thus provides for the relaxation of the rules of evidence and
+
+gives greater scope to the admission of evidence by a tribunal.
+[21]
+
+The section is permissive; it affords a tribunal latitude in admitting
+
+evidence that may not be admissible in a criminal or civil proceeding.
+[22]
+
+While section 15(1) enlarges the ambit of admissible evidence, it is not
+
+without limitation. The evidence must be relevant to the proceeding. It must also
+not lead to unfairness. 5
+[23]
+
+In determining whether admission of the evidence could lead to
+
+unfairness, I can be guided by those rules of evidence that are aimed at ensuring
+fairness in legal proceedings. Under the rules of evidence, even where evidence
+is otherwise admissible, it can be excluded where its probative value is
+outweighed by its prejudicial effect. 6
+[24]
+
+The risk of prejudice here is significant. The criminal courts are expert in
+
+the evaluation of credibility of witnesses.
+5
+
+6
+
+Maxwell J. assessed and made
+
+Bartashunas v. Psychology Examiners, [1992] O.J. No. 1845 (Ont. Div. Cut.).
+R. v. Seaboyer, [1991] 2 S.C.R. 577.
+
+7
+
+negative credibility findings with respect to the Student.
+
+This Tribunal will be
+
+asked to perform a similar exercise. But Maxwell J.'s findings have the potential
+to overwhelm this Tribunal.
+
+Although the members of the Tribunal would no
+
+doubt direct themselves to not be unduly influenced by Maxwell J.'s findings,
+given the overlap between the issues, the risk of prejudice is high.
+[25]
+
+On the other side of the ledger, I must consider probative value. As noted
+
+above, one trier's of fact's assessment of a witness' credibility is not relevant to a
+subsequent tribunal's assessment of that witness' credibility. It is for this Tribunal
+to independently assess and come to its own conclusions with respect to the
+Student's credibility.
+[26]
+
+Given its slight probative value and its high potential for prejudice, the
+
+Judgment is inadmissible.
+(C)
+
+Admissibility of the Transcripts from Mr. Liu's Criminal Trial
+
+[27]
+
+Different considerations apply with respect to the Provost's motion to
+
+tender the Transcripts from Mr. Liu's criminal trial. Although the Transcripts are
+hearsay for purposes of these proceedings, the Provost submits that they satisfy
+the "party admissions" and "statements against interest" exceptions to the rule
+against hearsay.
+
+I agree.
+
+It is established law that an out-of-court statement
+
+made by a party to a proceeding that is adverse to her or his interest in that
+proceeding may be tendered by an opposing party to prove the truth of the facts
+contained in the statement.
+[28]
+
+Even if I am wrong in the regard, I would admit the Transcripts under s.
+15(1) of the SPPA. In my view, the balancing of probative value and prejudicial
+
+effect with respect to the Transcripts is different from the Judgment.
+
+The
+
+probative value of admitting the Transcripts thus outweigh its prejudicial effects.
+
+8
+
+[29]
+
+Although Transcripts are hearsay statements, they contain the hallmarks
+
+of reliability. 7
+
+The Transcripts are the testimony from taken under oath and
+
+subject to cross-examination.
+
+The Transcripts therefore have the indicia of
+
+reliability. They are reliable evidence of what the witnesses did in fact say about
+matters that are directly relevant to these proceedings.
+Further, as counsel for the Provost points out, the Student is not a
+
+[30]
+
+compellable witness in these proceedings. She may or may not testify. If she
+chooses not to testify, then the Transcripts from Mr. Liu's criminal trial would be
+the only evidence in these proceedings of what the Student has said about the
+nature and genesis of the fraudulent academic transcripts -
+
+a key issue in these
+
+proceedings.
+[31]
+
+In light of the foregoing, the risk that the admission of the Transcripts
+
+would result in unfairness is attenuated, and I may exercise my discretion under
+s. 15(1) to admit those statements.
+
+(D)
+
+Use of Transcripts for Impeachment Purposes
+[32]
+
+The Provost seeks an order that the Transcripts can be used for the
+
+purposes of impeaching the Student should she choose to testify.
+[33]
+
+It is well-established at common law and under the Ontario Evidence Act, 8
+
+that parties may be cross-examined on their prior statements.
+
+A witness,
+
+including a respondent charged with misconduct (or even a criminal accused),
+can be cross-examined on prior statements.
+
+Cross-examination on a prior
+
+inconsistent statement may be used to impeach the credibility of the witness, or
+in an attempt to have the witness adopt the prior statement as true. 9
+
+See R. v. Bradshaw, 2017 sec 35 at paras. 26-58 (for discussion of factors to consider in
+determining whether out-of-court statements are sufficiently reliable to overcome hearsay
+dangers).
+8
+Evidence Act, R.S.O. 1990, c. E.23, s. 21.
+9
+R. v. Hill, [2015] O.J. No. 4758 at para. 43 (C.A.).
+7
+
+9
+
+[34]
+
+There is no basis here for interfering with these long-established principles
+
+and none has been put forward.
+(E)
+
+Decision and Order
+[35]
+
+Ms. W
+
+[36]
+
+The Provost's motion is allowed in part:
+
+motion to preclude Mr. Liu from testifying is dismissed.
+
+a. The Judgment is inadmissible.
+b. The Transcripts are admissible in the hearing on the merits of the charges
+against the Student.
+c. The Transcripts may be used for the purpose of cross-examination.
+
+Dated at Toronto, this 21 st day of December, 2018
+
+Nader R. Hasan, Chair
+
+

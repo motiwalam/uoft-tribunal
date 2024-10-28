@@ -1,0 +1,235 @@
+Case No. 1229
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on July 21, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and M
+
+K
+
+REASONS FOR DECISION
+Hearing Date: September 24, 2021, via Zoom
+Panel Members:
+Ms. Michelle S. Henry, Chair
+Professor Joseph Clarke, Faculty Panel Member
+Mr. Branden Cave, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Ahmed Elahi, Articling Student, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeals Discipline and Faculty Grievances
+Not in Attendance:
+M
+K
+
+1
+
+1. A hearing of the Trial Division of the University Tribunal convened on September 24,
+2021, to consider academic charges brought by the University of Toronto (the
+“University”) against M
+K
+(the “Student”) under the Code of Behaviour on
+Academic Matters, 1995 (the “Code”).
+2. The Student was informed of the charges by letter dated July 21, 2021, from Professor
+Heather Boon, Vice-Provost, Faculty & Academic Life.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+3. The hearing was scheduled to commence at 9:45 a.m. via Zoom. The Tribunal waited until
+10:00 a.m. before commencing the hearing. The Student did not appear at the hearing.
+4. Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of a hearing has been given to a party in accordance with the Act and the
+party does not attend at the hearing, the Tribunal may proceed in the absence of the party,
+and the party is not entitled to any further notice in the proceeding. In this case, the
+University requested that the Tribunal proceed with the hearing in the absence of the
+Student.
+5. Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including: sending a copy of the document by courier to the student’s mailing address
+contained in the Repository of Student Information (“ROSI”); or emailing a copy of the
+document to the student’s email address contained in ROSI.
+6. Further, the University’s Policy on Official Correspondence with Students (“Policy”) states
+that students are responsible for maintaining a current and valid postal address and an
+University-issued email account in ROSI. The Policy makes it clear that students are
+expected to monitor and retrieve their mail, including electronic messaging accounts issued
+to them by the University, on a frequent and consistent basis.
+7. In this case, the University filed Affidavits regarding the correspondence to the Student
+providing notice of the charges and notice of the electronic hearing. The Affidavit of
+Justine Cox, sworn August 6, 2021, confirmed that on July 21, 2021, Ms. Cox served the
+Student with the charges issued by Professor Heather Boon. Ms. Cox served the Student
+with the charges by e-mail to the University-issued email account, which was the email
+address of the Student contained in ROSI.
+8. The Affidavit of Samanthe Huang, sworn on August 23, 2021, confirmed that, on August
+20, 2021, Ms. Huang served the Notice of Electronic Hearing. She served the Student with
+2
+
+the Notice of Electronic Hearing by email to the email address of the Student contained in
+ROSI.
+9. It is clear from the evidence that the Student was no longer accessing his University-issued
+email account at the time he was served with the charges and the Notice of Electronic
+Hearing. The Affidavit of Nav Uppal, Academic Integrity Specialist, which was sworn on
+September 9, 2021, states that, in response to the University’s attempts to set up a meeting
+to discuss the allegations against the Student, on June 25, 2021, the Student emailed their
+office to advise that he had withdrawn from the University. Mr. Uppal’s office continued
+to try to set up a meeting with the Student, but he did not respond to any of their subsequent
+messages.
+10. Further, the Affidavit of Andrew Wagg, an Incident Report Architect at Information
+Security, Information Technology Services at the University, sworn on September 3, 2021,
+states that he checked the portal records to determine the last time someone accessed the
+email account belonging to the Student. Mr. Wagg determined that the last time someone
+accessed this e-mail account was on June 25, 2021 at 6:21 PM. As such, the email account
+was not accessed after the charges and Notice of Electronic Hearing were served by email.
+11. Notwithstanding the above, in addition to service by email, the documents were sent to the
+Student’s last known mailing address. The Affidavit of Sharon Hawley, an assistant at
+Paliare Roland Rosenberg Rothstein LLP, counsel for the University, confirms that on
+August 24, 2021, counsel for the University sent a letter by regular mail to the mailing
+address contained in ROSI. The letter enclosed the following documents: the charges
+issued on July 21, 2021; a disclosure letter to the Student dated August 5, 2021; and, the
+Notice of Electronic Hearing, dated August 20, 2021
+12. Having reviewed the evidence and heard the submissions of counsel for the University, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+accordance with the notice requirements set out in the Act and the Rules. Accordingly, the
+Tribunal proceeded to hear the case on its merits in the absence of the Student.
+THE CHARGES
+13. At all material times, the Student was a registered student at the University. The University
+alleges that the Student knowingly committed plagiarism in a position paper that he
+submitted for the purposes of obtaining academic credit and/or other academic advantage.
+14. The University brought the following three charges against the Student:
+
+3
+
+a. On or about February 24, 2021, the Student knowingly submitted, without the knowledge
+and approval of the instructor to whom it was submitted, an essay in ENV199H1S 2021(1)
+- Understanding and Debating Environmental Issues (the “Course’), for which credit had
+previously been obtained in another course at the University, contrary to section B.I.1(e)
+of the Code.
+b. On or about February 24, 2021, the Student knowingly represented as his own an idea or
+expression of an idea, and/or the work of another in an essay which he submitted in partial
+completion of the requirements for the Course, contrary to section B.I.1(d) of the Code.
+c. In the alternative to the above charges, that the Student knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage
+contrary to section B.I.3(b) of the Code.
+
+15. The University alleges that in the Winter 2021, the Student registered in the Course, which
+was taught by Dr. Karen Ing, an Associate Professor, Teaching Stream, at the University,
+St. George Campus, in the School of Environment of the Faculty of Arts and Science (“Dr.
+Ing”). The Student submitted an essay titled, “Climate Change: How can we scientifically
+refute sayings that Climate Change is entirely naturally occurring?” in partial completion
+of the Course requirements. However, the Student had previously submitted some or all
+of this essay for academic credit in GGR101H1 — Histories of Environmental Change
+(“GGR101”). The Student had completed GGR101 in the Fall 2020.
+16. The Student did not seek or obtain permission from Dr. Ing to submit this essay, in whole
+or in part, for a second time.
+
+THE EVIDENCE
+17. The Tribunal received Affidavit evidence of Dr. Ing. Her evidence was as follows.
+18. In Winter 2021, Dr. Ing taught the Course, which the Student was enrolled in during the
+Winter 2021 academic term. Dr. Ing prepared the syllabus for the Course for the Winter
+2021 term.
+19. Dr. Ing included in the syllabus a section titled “Academic Integrity”, which stressed the
+importance of academic integrity in the completion of assignments and exams for the
+Course. She advised students in the Course that they were required to familiarize
+themselves with the standards of academic behaviour set out in the Code. She also included
+a hyperlink to the Code in the syllabus, and specifically warned students that the Code
+4
+
+prohibited Student from “submitting your own work in more than one course without the
+permission of the instructor”.
+20. As part of the Course, Dr. Ing required students to submit a position paper worth 25% of
+their final grade. The deadline to submit the paper was February 14, 2021. Dr. Ing
+instructed students to write 2500 words and take a stance on an issue related to climate
+change. All students were required to submit their position papers through Turnitin.com.
+21. On February 24, 2021, the Student submitted the position paper. The Student’s position
+paper generated a very high Turnitin.com similarity index of 71%. The source of the
+similar text was another assignment submitted by the Student to a University course.
+22. As a result, Dr. Ing discovered that during the Fall 2020 term, the Student previously
+submitted the paper for academic credit in GGR 101.
+23. Dr. Ing’s evidence was that the Student never asked her for permission to submit the
+previous assignment, in whole or in part, in the Course and she never gave him that
+permission.
+24. Dr. Ing stated that she met with the Student via Zoom on March 19, 2021, to discuss her
+concerns regarding the position paper. Following the meeting, on March 25, 2021, Dr. Ing
+submitted a report to the Student Academic Integrity Office containing her concerns with
+respect to the Student’s position paper.
+
+DECISION OF THE TRIBUNAL ON CHARGES
+25. Having considered all the evidence heard during the hearing, and in particular the Affidavit
+evidence, the Tribunal found that:
+a. On or about February 24, 2021, the Student knowingly submitted, without the
+knowledge and approval of the instructor to whom it was submitted, an essay in
+ENV1999H1S 2021(1)—Understanding and Debating Environmental Issues for
+which credit had previously been obtained in another course at the University,
+contrary to section B.I.1(e) of the Code; and
+b. The Student is guilty of one count of the academic offence of resubmission of an
+essay for which credit had previously been obtained in another course at the
+University, contrary to section B.I.1(e) of the Code.
+
+5
+
+26. Accordingly, the Tribunal entered a finding of guilty with respect to the first charge, as
+outlined in paragraph 14 (a).
+27. Given the findings with respect to the first charge, the University withdrew Charges 2 and
+3.
+DECISION OF THE TRIBUNAL ON PENALTY
+28. The Tribunal heard submissions regarding the appropriate penalty in this case, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and C. (File 1976/77-3; dated November 5, 1976).
+a. The character of the Student. The Student did not participate in the proceeding.
+Accordingly, there was no evidence before the Tribunal regarding the Student’s
+character other than the facts relating to this offence and the lack of responses from
+the Student.
+b. The likelihood of a repetition of the offence. The Student did not have a prior
+record of academic offences. However, given the Student’s failure to attend the
+meeting with the Dean’s Designate, or attend the hearing, the Tribunal was unable
+to make any findings regarding the likelihood of a repetition of this offence.
+c. The nature of the offence committed. The Tribunal took into consideration the
+serious and deliberate nature of the offence and the detriment to the University.
+This was the Student’s own work that was resubmitted, which, arguably, is not as
+egregious as submitting the work of another person as your own. However,
+resubmission of an essay for which credit had previously been obtained is a serious
+offence that is expressly noted in the Code. The Student was required to seek
+permission of his professor prior to doing so.
+d. Any extenuating circumstances surrounding the commission of the offence. As
+indicated above, the Student did not participate in this hearing. As such, there was
+no evidence before the Tribunal of mitigating or extenuating circumstances.
+e. The need to deter others from committing a similar offence. General deterrence
+is an important factor in these cases. The Tribunal accepts that the University and
+the Tribunal must send a strong message to other students that such misconduct is
+considered a serious offence.
+29. The University presented a number of cases dealing with plagiarism. However, none of
+the cases were factually similar, in that none of the cases related to charges where the
+6
+
+Student had resubmitted his own work. Having said that, the actions of the Student does
+constitute plagiarism. Such misconduct is expressly prohibited by the Code.
+30. Having regard to the submissions of the University, and the relevant factors outlined above,
+the Tribunal agrees that the sanctions are appropriate. At the conclusion of the hearing,
+the Tribunal made the following Order:
+a. The Student is guilty of one count of the academic offence of resubmission of an
+essay for which credit had previously been obtained in another course at the
+University, contrary to section B.I.1(e) of the Code of Behaviour on Academic
+Matters;
+b. The following sanctions shall be imposed on the Student:
+i. a final grade of zero in ENV199H1S, 2021(1);
+ii. a suspension from the University for two years from the date of this order;
+and,
+iii. a notation of the sanction on his academic record and transcript for three
+years from the date of this order.
+c. This case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+DATED at Toronto, December 16, 2021.
+
+Original signed by:
+_______________________________________
+Michelle S. Henry, Co-Chair
+On behalf of the Tribunal
+
+7
+
+

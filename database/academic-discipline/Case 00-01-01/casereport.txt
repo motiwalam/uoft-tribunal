@@ -1,0 +1,237 @@
+FILE: 2000/01-01
+PRELIMINARY MATTER
+(see trial decision at 2000/01-02)
+UNIVERSITY OF TORONTO
+THE UNIVERSITY TRIBUNAL
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+and
+R.D.
+and
+K.U.
+
+RULING ON ADMISSIBILITY OF EVIDENCE
+The following are my reasons with respect to the disposition by me, as the Chair of a panel of the
+Tribunal convened to hear certain charges under the Code of Academic Behaviour (“the Code”),
+of a point of law which arose during the course of the hearing with respect to those charges.
+Section 22(a) of the Code requires the presiding Chair to deal with such matters alone.
+Before commencing the examination in chief of Professor Lilian U. Thompson, a witness called
+by the University to testify at the hearing, counsel for the University informed the panel that
+there were some parts of the evidence to be given by Professor Thompson to which the defence
+objected as not being properly admissible. The disputed evidence consisted of what was seen by
+the University as extraordinarily similar patterns of responses by the two accused in two earlier
+tests administered in course NHS 386 during the fall of 1999, prior to the final examination
+which is the subject of the first two charges against the two accused. It was asserted that this
+information should be admitted as similar fact evidence in that it would tend to show that the
+accused had committed the offences with which they are charged; it was further asserted that the
+probative value of this evidence would outweigh any prejudice which might result to the accused
+by reason of its admission.
+University Counsel asked for a ruling on the admissibility of this evidence in advance, and relied
+upon the decision of the Supreme Court of Canada in Arp v. The Queen, (1998) 129 C.C.C. (3d)
+321. At p.338 Cory J., speaking for the Court, stated that
+
+The University of Toronto and R.D. and K.U.
+The rule allowing for the admissibility of similar fact evidence is perhaps best
+viewed as an ‘exception to an exception’ to the basic rule that all relevant
+evidence is admissible. Relevance depends directly on the facts in issue in any
+particular case. The facts in issue are in turn determined by the charge in the
+indictment and the defence, if any, raised by the accused
+To be logically
+relevant, an item of evidence does not have to firmly establish, on any standard,
+the truth or falsity of a fact in issue. The evidence must simply tend to ‘increase or
+diminish the probability of the fact in issue.
+At page 340, after observing that evidence which merely would tend to show that the accused is
+the sort of person likely to have committed the alleged offence is not admissible, Cory, J.
+continued:
+It can be seen that in considering whether similar fact evidence should be
+admitted, the basic and fundamental question that must be determined is whether
+the probative value of the evidence outweighs its prejudicial effect.
+And again at page 341,
+Because similar fact evidence is admitted on the basis of an objective
+improbability of coincidence, the evidence necessarily derives its probative value
+from the degree of similarity between the acts under consideration. The probative
+value must, of course, significantly outweigh the prejudice to the accused for the
+evidence to be admissible………….A principled approach to the admission of
+similar fact evidence will in all cases rest on the finding that the accused’s
+involvement in the alleged similar acts or counts is unlikely to be the product of
+coincidence. This conclusion ensures that the evidence has sufficient probative
+force to be admitted and will involve different considerations in different
+contexts.” (My emphasis)
+He concludes at page 344 by saying:
+Thus, where similar fact evidenced is adduces to prove a fact in issue, in order to
+be admissible, the trial judge should evaluate the degree of similarity of the
+alleged acts and decide whether the objective improbability of coincidence has
+been established. Only then will the evidence have sufficient probative value to
+be admitted.
+The accused are charged with the offences of obtaining or attempting to obtain unauthorized
+assistance, assisting or attempting to assist another person to obtain unauthorized assistance, and
+knowingly engaging in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit or advantage, with respect to two specific
+examinations which took place on April 24,2000 and December21, 1999 in courses BIO 351 Y
+- Page 2 of 5 -
+
+The University of Toronto and R.D. and K.U.
+and NFS 3 86H respectively. The panel was informed that the evidence of alleged similar facts
+related to two term tests in course NHS 3 86H written in October and November, 1999. No
+charges have been laid against either accused with respect to their participation in those tests.
+After hearing submissions from all counsel, I ruled initially that it was incumbent upon me to
+hear the disputed evidence in order to be able to make the determination identified by Cory, J. in
+Arp v. The Queen. I was further mindful of the provisions of section 15 of the Statutory Powers
+Procedure Act which gives some considerable latitude to tribunals as to the evidence which they
+may receive. I further ruled that I would not require the other members of the panel to retire
+while the disputed evidence was being heard, although it is the function only of the Chair to rule
+on questions of law. Indeed they were not asked to do so. I indicated that having heard the
+disputed evidence, I would give my ruling as to its admissibility at the appropriate time
+thereafter.
+Professor Thompson then proceeded to testify in chief and was cross-examined by counsel for
+the accused. She was the professor who had taught course NHS 3 86H in the fall of 1999 and
+who had prepared the final examination and term test questions. Her evidence as to the two term
+tests consisted of presenting and discussing the following documents which were marked as
+exhibits:
+Exhibit 19
+
+-
+
+a copy of the question paper comprising term test 2 in NHS 386H
+dated November 17, 1999 written by the accused K.U.
+
+Exhibit 20
+
+-
+
+a copy of the question paper comprising term test 2 in NTIS 386H
+dated November 17, 1999 written by the accused R.D.
+
+Exhibit 21
+
+-
+
+a copy of the scantron sheet for term test 2 handed in by the accused
+R.D.
+
+Exhibit 22
+
+-
+
+a copy of the scantron sheet for term test 2 handed in by the accused
+K.U.
+
+Exhibit 23
+
+-
+
+a copy of a handwritten comparison prepared by Professor
+Thompson with respect to wrong answers made by the two accused
+to certain questions on term test 2, with a further comparison to the
+overall class results on those questions
+
+Exhibit 24
+
+-
+
+a copy of a computer analysis of examination questions for term test
+2
+
+Exhibit 25
+
+-
+
+a copy of a handwritten comparison prepared by Professor
+Thompson made between the wrong answers made by the two
+- Page 3 of 5 -
+
+The University of Toronto and R.D. and K.U.
+accused and those made by certain selected other members of the
+class who also wrote the examination
+Exhibit 26
+
+-
+
+a copy of a computer analysis of candidate incorrect responses
+found in the answers submitted by students re term test 2
+
+Exhibit 27
+
+-
+
+a copy of the signature sheets collected from certain students who
+wrote term test 2
+
+Exhibit 28
+
+-
+
+a copy of the signature sheets collected from certain students who
+wrote term test 1
+
+It was established at once, and university counsel so conceded, that Professor Thompson had no
+qualifications or expertise which would enable her to give opinion evidence as to similarity,
+probability or statistical analysis. Her expertise lies in the field of food chemistry wherein she
+has taught at the University for over thirty years and in which subject she holds an earned
+doctorate.
+Regretfully, it was clear from her evidence that as a result of comments made by the invigilator
+at the final course examination in December, 1999 she formed the suspicion that the two accused
+had engaged in some form of improper communication or cheating during that examination and
+then went looking for some other evidence which would back up those suspicions. Her
+investigation led her to compare the answers submitted by the accused on the two earlier term
+tests to those of other students who wrote those tests.
+The so-called similar fact evidence, put at its highest, would establish that during each of the two
+term tests the two accused might have been sitting in the same area of the examination room
+(exhibits 27 and 28), and that their answers to the questions on term test 2 might be seen as
+showing a unique pattern. She acknowledged that she had no recollection of the exact seating
+pattern on those days and that there were some empty desks which may have physically
+separated the accused from one another. As to there being a unique pattern of answers, the
+comparison which she presented shows that the answers provided by the two accused to the
+questions on term test 2 were nearly identical and did not exactly match those of any other
+students or group of students, although in some respects there were certain similarities. However
+she was hesitant to acknowledge the rather obvious fact, as disclosed by the relevant exhibit, that
+unique patterns of similarity were also displayed among the answers submitted by other students
+whose performance she had chosen to include as part of her comparison, but which for some
+reason did not arouse the same sort of suspicions.
+As to the comparators which she selected for her purposes, her choice was clearly an arbitrary
+one, and its validity broke down on cross-examination. She also acknowledged that on the whole
+the two accused had scored well throughout her course, although they had fallen back in the
+- Page 4 of 5 -
+
+The University of Toronto and R.D. and K.U.
+second term test which she had deliberately made harder than the first. She also acknowledged
+that at least one of them was a “bright student”.
+The alleged similar fact evidence is adduced for the sole purpose of tending to confirm that the
+accused committed the offences with which they are charged. Having considered carefully all of
+the disputed evidence, I am unable to find that there is very little, if any, probative value in the
+evidence tendered. The analysis and comparisons put forward are significantly flawed and in my
+view clearly demonstrate the intention of Professor Thompson to find some basis for bolstering
+the suspicions raised by the invigilator at the time of the final examination on December 21,
+1999. As far as being helpful as “similar facts” I find that they are unreliable and therefore of no
+assistance to the Tribunal.
+Having made the above determination, it is clear that there is no basis for making a finding that
+there is such a degree of similarity between the alleged similar facts and the facts in issue in this
+hearing which would satisfy the test of objective improbability of coincidence laid down in Arp
+v. The Queen, or that their probative value “significantly outweighs the prejudice to the
+accused”. As to the latter, I am satisfied that the admission of the disputed evidence would
+indeed cause significant prejudice in that neither accused presently faces any charges with
+respect to the two term tests; therefore evidence relating to those tests is quite irrelevant and if
+admitted would lead the tribunal into areas of inquiry to which the accused have not been called
+upon to respond.
+I therefore direct that the evidence relating to the two term tests, including both the oral evidence
+of Professor Thompson and the Exhibits above listed, is inadmissible in this hearing and will be
+disregarded by the panel in disposing of the charges. The remaining portions of the evidence
+given by Professor Thompson will be considered at the proper time as part of the totality of the
+evidence in this ease.
+I had indicated to counsel upon adjourning at the end of the day on March 14 that I would
+probably give my ruling on this point as part of the overall disposition of the charges. Upon
+further reflection I concluded that it was important to dispose of the matter immediately so that
+both counsel for the University and for the accused will know what evidence is being considered
+by the Tribunal and what evidence must be met and dealt with; and so that the other members of
+the panel may be aware of what evidence may and may not be considered in disposing of this
+case. In closing, I wish to thank all counsel for their assistance in this matter.
+
+March 16, 2001
+
+C. Anthony Keith
+______________________
+C. Anthony Keith, Q.C.
+Senior Chair
+- Page 5 of 5 -
+
+

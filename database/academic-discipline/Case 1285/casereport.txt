@@ -1,0 +1,671 @@
+Case No. 1285
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct made on November 3, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and Z
+
+X
+
+REASONS FOR DECISION
+
+Hearing Date: July 12, 2022, and August 24, 2022, via Zoom
+Members of the Panel:
+Ms. Alexi Wood, Chair
+Professor Seamus Ross, Faculty Panel Member
+Ms. Giselle Dalili, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Ms. Z
+X
+
+2
+A.
+
+OVERVIEW
+
+1.
+
+On July 12, 2022, a Panel of the University Tribunal convened by videoconference to hear
+
+the University of Toronto’s (the “University”) allegations that Z
+
+X
+
+(the “Student”)
+
+violated any or all of sections B.I.1(d), B.I.1(b), and B.I.3(d) Code of Behaviour on Academic
+Matters (the “Code”).
+2.
+
+The Student did not attend the hearing. The Panel found that the Student had reasonable
+
+notice of the hearing and the charges pursuant to the Statutory Powers Procedure Act (“SPPA”)1
+and The University Tribunal’s Rules of Practice and Procedure (the “Rules”). The hearing
+commenced in the Student’s absence.
+3.
+
+After Assistant Discipline Counsel began presenting the University’s case, the Panel raised
+
+concerns that the evidence presented may not be sufficient for the Provost to meet its burden. The
+Panel adjourned the hearing to August 24, 2022 and issued an interim order to allow the Provost
+the opportunity to provide additional evidence regarding the allegations.
+4.
+
+Assistant Discipline Counsel prepared a supplementary disclosure brief, which was served
+
+on the Student by email to the email address for the Student in the Repository of Student
+Information (“ROSI”).
+5.
+
+The hearing reconvened before the same Panel on August 24, 2022. At the conclusion of
+
+the hearing, the Panel found that the Student was guilty of one count of knowingly obtaining
+unauthorized assistance, contrary to section B.I.1(b) of the Code.
+
+1
+
+RSO 1990, c S.22
+
+3
+6.
+
+The Panel made the Order outlined below with reasons to follow. These are the reasons.
+
+B.
+
+THE CHARGES
+
+7.
+
+By letter dated November 3, 2021, the University outlined the charges against the Student
+
+as follows:
+a.
+
+On or about October 23, 2020, the Student did knowingly represent as her own an idea or
+expression of an idea or work of another in Problem Set 3, which she submitted in
+MAT237Y1: Advanced Calculus2 (the “Course”), contrary to section B.I.1(d) of the Code.
+
+b.
+
+In the alternative, on or about October 23, 2020, the Student knowingly obtained
+unauthorized assistance in connection with Problem Set 3, which she submitted in the
+Course, contrary to section B.I.1(b) of the Code.
+
+c.
+
+In the further alternative, on or about October 23, 2020, the Student knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with Problem Set 3, which she submitted in the
+Course, contrary to section B.I.3(b) of the Code.
+
+Particulars
+a.
+
+At all material times the Student was enrolled at the University of Toronto in the Faculty
+of Arts & Science.
+
+2
+
+b.
+
+In Fall 2020 and Winter 2021, the Student was enrolled in the Course.
+
+c.
+
+Students in the Course were evaluated on the basis of, among other things, 9 problem sets.
+
+d.
+
+On or about October 23, 2020, the Student submitted Problem Set 3 in the Course.
+
+The Charges mistakenly identified the Course as MAT137Y1. At the hearing, Assistant Discipline Counsel corrected
+that error and clarified that the Course was MAT237Y1. There was also confusion about the title of the Course. In his
+affidavit, Dr. Zaman described the Course as MAT237: Multivariable Calculus with Proofs. The Student’s academic
+record describes the Course as MAT237Y1: Advanced Calculus. At the hearing, Dr. Zaman testified that the
+University had recently changed the name of the Course and it was now MAT237Y1: Advanced Calculus.
+
+4
+e.
+
+The Student submitted Problem Set 3:
+(i)
+
+to obtain academic credit;
+
+(ii)
+
+knowing that it contained ideas, expressions of ideas or work which were not her
+own, but were the ideas, expressions of ideas or work of others, including the
+author of an answer that was posted on Chegg.com, which is a website that allows
+subscribers to post questions on the site and to view questions and answers posted
+on the site (the “Chegg Source”); and
+
+(iii)
+
+knowing that she did not properly reference the ideas, expressions of ideas or work
+that she drew from the Chegg Source or from others.
+
+f.
+
+The Student knew that the Chegg Source was not an authorized source to which she was
+permitted to refer in completing Problem Set 3.
+
+g.
+
+The Student knowingly obtained unauthorized assistance in Problem Set 3 from the Chegg
+Source or from others.
+
+h.
+
+The Student knowingly submitted Problem Set 3 with the intention that the University of
+Toronto rely on it as containing her own ideas or work in considering the appropriate
+academic credit to be assigned to her work.
+
+C.
+
+FINDING
+
+8.
+
+The Provost agreed that if the Panel found the Student to have committed the offence listed
+
+in paragraph 7(a), then the Provost would withdraw the remaining charges listed in paragraph 7
+above.
+9.
+
+After hearing the submissions of Assistant Discipline Counsel, the Panel found that the
+
+Student had committed the offence listed in paragraph 7(a).
+10.
+
+As a result of this finding, the Provost agreed to withdraw the remaining charges listed in
+
+paragraph 7 above.
+
+5
+11.
+
+At the conclusion of the hearing, the Panel ordered that:
+1. the Student receive a final grade of zero in the course MAT237Y1 in Fall 2020 and
+Winter 2021;
+2. the Student be suspended from the University of Toronto from the date of the order for
+a period of two years, ending on August 23, 2024;
+3. a notation of the sanction be placed on the Student’s academic record and transcript
+from the date of the order for a period of three years, ending on August 23, 2025; and
+4. this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the Student’s name withheld.
+
+Paragraph 11(a) through (d) will be referred to as the Penalty Ordered.
+D.
+
+NOTICE
+
+12.
+
+Section 6 of the SPPA requires reasonable notice of the hearing be provided to the parties.
+
+Rule 9 of the Rules provides for the methods of service of documents, including charges and
+notices of hearing. This includes personal service, sending a copy of the document by courier to
+the student’s mailing address contained in the “ROSI”, or sending a copy of the document by email
+to the email address contained in ROSI.
+13.
+
+The University’s Policy on Official Correspondence with Students requires that students
+
+provide the University with their current postal and email address through ROSI. Students are
+expected to monitor and retrieve all mail, including emails, on a frequent and consistent basis.
+
+6
+14.
+
+Section 7 of the SPPA and rule 17 of the Rules allow this tribunal to proceed in the absence
+
+of a student where notice has been given. When proceeding in the absence of a student, the
+University must demonstrate it took reasonable steps to notify the student of the charges and of
+the hearing. The University does not need to prove actual notice.3
+15.
+
+The Student was neither present nor represented at the hearing.
+
+16.
+
+The University filed evidence regarding service and attempts to contact the Student. That
+
+evidence included:
+1. On November 3, 2021, the Office of the Vice-Provost, Faculty and Academic Life
+served the charges in this matter on the Student by email to the email address the
+Student provided in ROSI.
+2. On November 3, 2021, Samanthe Huang, an Administrative Assistant with the Office
+of Appeals, Discipline and Faculty Grievances served the Student with a letter
+regarding the charges that were filed against her, together with a copy of the charges,
+the Code, the Rules and a pamphlet for Downtown Legal Services. Ms. Huang served
+the Student with these documents by email to the email address the Student provided
+in ROSI. Ms. Huang did not receive a response or a bounce back message.
+3. On February 1, 2022, Tina Lie, Assistant Discipline Counsel, emailed a disclosure
+letter, a disclosure brief, and a copy of the University’s Policy on Official
+
+3
+
+The University of Toronto and O.E.R. (Case No 981, March 4, 2019) at para 37.
+
+7
+Correspondence with Students to the Student. Ms. Lie attached another copy of the
+charges. The email was sent to the email address the Student provided in ROSI.
+4. On May 24, 2022, Ms. Lie emailed the Student to schedule a hearing date.
+5. Ms. Lie did not receive a response to her May 24, 2022 email. Receiving no response,
+Ms. Lie emailed the Student on June 7, 2022, advising the Student she would request a
+hearing date for July 12, 2022.
+6. On June 7, 2022, Ms. Huang served the Student with the Notice of Electronic Hearing
+for the hearing on Tuesday, July 12, 2022, at 1:45 p.m. The email was sent to the email
+address the Student provided in ROSI.
+7. On June 13, 2022, Kimberly Blake, Legal Assistant to Ms. Lie, called the phone
+number that the Student had provided in ROSI. The call went immediately to a
+recording stating: “The customer you are trying to reach is unavailable. Please try again
+at a later time.” Ms. Blake called the number again that same day multiple times and
+the call went to a busy signal.
+8. Ms. Blake called that same phone number again twice on June 14, 2022. Both calls
+went directly to a busy signal.
+9. On June 29, 2022, Ms. Lie’s office delivered a package by courier to the mailing
+address and permanent address provided by the Student in ROSI.4 The courier package
+
+4
+
+The same address is listed for both the mailing and permanent addresses.
+
+8
+contained correspondence from Ms. Lie and the Notice of Electronic Hearing and
+Charges.
+10. Ms. Blake received confirmation that the package was delivered on June 30, 2022 and
+was signed for by “Raveena.”
+11. On July 4, 2022, Ms. Lie emailed the Student copies of the affidavits on which the
+Provost intended to rely at the hearing.
+17.
+
+None of the emails were returned and there were no bounce backs received to any of the
+
+emails. The office of Assistant Discipline Counsel did not receive any communication from the
+Student.
+18.
+
+The University also filed evidence from Andrew Wagg, an Incident Report Architect at
+
+Information Security, Information Technology Services at the University. Mr. Wagg stated on July
+4, 2022, he checked the portal records to determine the last time someone accessed the Student’s
+mail.utoronto.ca email. According to Mr. Wagg, that email was last accessed on April 13, 2022.
+This date is after the initial correspondence serving the charges (November 3, 2021) as well as Ms.
+Lie’s email sending the disclosure letter and disclosure brief (February 1, 2022) but before the
+Notice of Electronic Hearing was served (June 7, 2022).
+19.
+
+The University is not required to provide actual notice. This Panel finds that the University
+
+complied with the Rules and has demonstrated that it took reasonable steps to notify the Student
+of the charges and of the hearing.
+20.
+
+The University emailed the Student the required documents to the email address in ROSI.
+
+Ms. Blake attempted to call the Student at the phone number provided by the Student in ROSI.
+
+9
+The Student is required to check her email account, and it was accessed after the Student was
+served with the charges and after Ms. Lie emailed the disclosure brief, but before the Notice of
+Electronic Hearing was served.
+21.
+
+The University sent a copy of the Charges and the Notice of Electronic Hearing by courier
+
+to the address listed by the Student in ROSI. The package was accepted by “Raveena.” There is
+no evidence before this Panel about who Raveena is or their relationship to the Student.
+22.
+
+The University complied with Rule 9. Indeed, the University took extra steps by attempting
+
+to call the Student and sending the materials by courier to the address in ROSI. The Panel
+appreciates these extra steps taken, given the lack of evidence that the Student had actual
+knowledge of the hearing.
+23.
+
+The Panel determined it would proceed to hear the case on its merits in the Student’s
+
+absence.
+E.
+
+FACTS
+
+24.
+
+At all material times, the Student was registered at the University of Toronto.
+
+25.
+
+The Student first registered at the University in the Fall 2020 term. She subsequently
+
+withdrew from all courses in the Fall 2020 and Winter 2021 terms, with the exception of the Course
+because she was not permitted to withdraw while allegations of academic misconduct were
+pending.
+26.
+
+In the Fall 2020 and Winter 2021 terms, the Student was enrolled in MAT237Y1:
+
+Advanced Calculus.
+27.
+
+As of June 7, 2022, the Student had not completed any credits.
+
+10
+The Problem Sets
+28.
+
+The University filed the affidavit of Asif Zaman, an Assistant Professor in the Department
+
+of Mathematics at the University. At the request of the Panel, Dr. Zaman also testified at the
+hearing.
+29.
+
+According to Dr. Zaman’s evidence, which is uncontested, he was one of three instructors
+
+and the course coordinator for the Course. The Course is designed to teach students how to actively
+read a textbook with quantitative theory and generate critical questions, apply advanced calculus
+tools and problem-solving techniques, and communicate mathematics rigorously and intuitively.
+Students in the Course were reminded of the importance of academic integrity.
+30.
+
+Students in the Course were required to submit 9 problem sets. The best 7 of the 9 problem
+
+sets would count towards each student’s final mark, with each of those 7 problem sets counting
+for 8% of the final mark (for a total cumulative of 56% of each student’s final mark).
+31.
+
+The Course outline addressed academic integrity. It stated:
+
+11
+32.
+
+In other words, students were allowed to submit their work individually or with a partner.
+
+If students submitted their work individually, they were allowed to discuss their work and proposed
+plan with other students during the “discovery phase,” but they had to write their solutions on their
+own. During the “discovery phase,” students were permitted to talk to each other about the
+problems, but were not to share solutions. Students submitting individual work were expected to
+write up their own answers.
+33.
+
+If students were submitting their work with a partner, they were required to prepare all
+
+work together and submit one problem set for the group.
+34.
+
+The instructions for Problem Set 3 contained an academic integrity statement that
+
+specifically required students to confirm that they had read and understood the rules for
+collaboration on problem sets, reproduced above. The statement further confirmed that the student
+understood the consequences of violating the academic integrity policy, and that they had not
+violated the rules in writing the problem set.
+The Student’s Problem Set 3
+35.
+
+On October 3, 2020, the Student submitted her Problem Set 3.
+
+36.
+
+In reviewing the Student’s answer to Question 7 of Problem Set 3, the instructors
+
+determined that the Student’s answer was similar to the answer for Question 7 that the instructors
+had already found on Chegg.com. Chegg.com is a subscription-based website where users can post
+problems that are then answered by so called experts.
+37.
+
+Dr. Zaman provided affidavit evidence and testified at the hearing.
+
+12
+38.
+
+At the hearing, Dr. Zaman testified that while Chegg.com is not specifically referenced in
+
+the instructions or the academic integrity statement, by using Chegg.com, a student is using the
+work of another. Students are expected to understand that they are not to use a solution set drafted
+by a third party as the basis for their solution. Dr. Zaman also stated that the use of Chegg.com
+would not be acceptable in the “discovery phase” because Chegg.com provides solutions – it is
+not a discussion about the process to arrive at a solution, which is what is permissible in the
+“discovery phase.”
+39.
+
+In his affidavit, Dr. Zaman provided a side-by-side table comparing the Student’s Question
+
+7 answer and the Chegg.com Question 7 answers. He stated that he “considered the similarities
+between the Student’s answer and the Chegg.com answer to Question 7 of Problem Set 3 to be
+suspicious”5 for several reasons. These included that the “Student’s answer was incomplete and
+incoherent compared to the Chegg.com answer,” which led Dr. Zaman to conclude that the
+“Student had selected certain parts of the Chegg.com solution at random.”6 Dr. Zaman also stated
+the Student and Chegg.com both used the same variables for defined terms including G to represent
+radius, instead of the typical variable R or r.7 Instead, the Student and Chegg.com used r to
+represent maximum, where typically M or m is used.8 Finally, Dr. Zaman stated that the same
+unusual errors occurred in both the Student’s and Chegg.com Question 7.9
+40.
+
+Dr. Zaman’s affidavit concluded that there were “countless ways to approach Question 7
+
+of Problem Set 3. The fact that the Student’s answer followed the same structure of the Chegg.com
+
+5
+
+Para 16.
+Para 16(a)
+7
+Para 16(b) and (c)
+8
+Para 16(d)
+9
+Para 16(e)
+6
+
+13
+answer and contained the same unique choices, was, according to Dr. Zaman, unlikely to have
+been a coincidence.10
+41.
+
+In reviewing the side-by-side comparison, the Panel noted significant differences between
+
+the Student’s answer and the Chegg.com answer. From the side-by-side comparison and the
+evidence in Dr. Zaman’s affidavit, the Panel had concerns about its ability to conclude that the
+student had knowingly represented as her own an idea or expression of an idea or work of another
+in Question 7 of Problem Set 3.
+42.
+
+As a result, the Panel adjourned the hearing to allow the Provost the opportunity to provide
+
+additional evidence regarding the allegations.
+43.
+
+Dr. Zaman subsequently provided a supplementary affidavit. In this affidavit, Dr. Zaman
+
+further particularized the similarities between the Student’s Question 7 answer and the Chegg.com
+answer. He also outlined that in addition to the Student’s answer, 11 students submitted 8 answers11
+to Question 7 of Problem Set 3 that the instructors flagged as suspiciously similar to the Chegg.com
+answer (the “Additional Chegg Answers”).
+44.
+
+Dr. Zaman stated that the errors in the Student’s answer to Question 7 and the errors in the
+
+Additional Chegg Answers were similar. Finally, Dr. Zaman stated that no other students, apart
+from the Student and the students who submitted the Additional Chegg Answers, made those
+specific errors.
+
+10
+11
+
+Para 18
+There were 8 answers submitted by 11 students because some of the problem sets were submitted in pairs.
+
+14
+45.
+
+When the hearing reconvened, Dr. Zaman provided additional evidence about the Student’s
+
+errors in Question 7. He stated that in her solution, she defined ∑ as equal to 1. Dr. Zaman stated
+that this is a fundamental error that means that the solution cannot work. The Chegg.com answer
+made that same error, as did many of the Additional Chegg Answers.
+46.
+
+Dr. Zaman also testified that the students who had submitted the Additional Chegg
+
+Answers were questioned about their answers. The vast majority admitted to receiving
+unauthorized assistance, including those students who had also defined ∑ as equal to 1.
+47.
+
+Assistant Discipline Counsel argued that it was more likely than not that the Student had
+
+committed the offence because:
+1. The errors contained in her Question 7 answer were the same as the errors in the
+Chegg.com answer. Those errors are unusual and unlikely to be coincidental.
+2. Many of the errors in her Question 7 were the same as the errors in the Additional
+Chegg Answers.
+3. Apart from the Student and the students who submitted the Additional Chegg Answers,
+no other student submitted solution sets containing those specific errors.
+4. The students who submitted Additional Chegg Answers where ∑ was defined as equal
+to 1 admitted to receiving unauthorized assistance.
+5. The majority of students who submitted the Additional Chegg Answers admitted to
+receiving unauthorized assistance.
+F.
+
+FINDING OF GUILT
+
+15
+48.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+
+convincing evidence, that the Student committed the academic offence charged.12
+49.
+
+As Assistant Discipline Counsel argued, it is not for this Panel to imagine if some other
+
+possible explanation exists. This Panel must determine if it is more likely than not that the
+similarities arose because of unauthorized assistance.
+50.
+
+The Panel concludes that the University has established that the Student is guilty of
+
+academic misconduct as outlined in the charges at paragraph 7(a) of these reasons. As a result of
+this finding, the University withdrew the charges outlined in paragraph 7(b) and 7(c) of these
+reasons.
+G.
+
+PENALTY
+
+51.
+
+The University sought the sanctions in the Penalty Ordered, outlined in paragraph 11
+
+above.
+52.
+
+Assistant Discipline Counsel submitted that this penalty is in keeping with past decisions
+
+of this Tribunal and appropriately considers the six factors outlined in University of Toronto and
+Mr. C. (Case No 77-3, November 5, 1976) which are:
+1. the character of the person charged;
+2. the likelihood of a repetition of the offence;
+3. the nature of the offence committed;
+
+12
+
+Case No. 1102, para 5.
+
+16
+4. any extenuating circumstances surrounding the commission of the offence;
+5. the detriment to the University occasioned by the offence; and
+6. the need to deter others from committing a similar offence.
+53.
+
+While no evidence was filed on the issue of penalty, Assistant Discipline Counsel
+
+submitted that under the first three factors, the Student had not responded to any correspondence
+and had not participated in the proceedings. She submitted that there was no evidence before the
+Panel to demonstrate that the Student was willing to accept responsibility for her actions. Similarly,
+the Student had not provided any evidence regarding extenuating circumstances.
+54.
+
+With respect to the last three factors, Assistant Discipline Counsel submitted that
+
+plagiarism is a serious offence “that strikes at the heart of academic integrity.”13 It requires a strong
+sanction that reflects the harm caused and conveys the seriousness of the misconduct to others.
+55.
+
+Assistant Discipline Counsel argued that the penalty sought is in keeping with similar cases
+
+of this Tribunal. In University of Toronto and D.K.,14 the student used an unauthorized aid in an
+exam and accessed Chegg.com. In that case, it was the student’s first offence and the student did
+not participate in the proceeding. The student received a zero in the course, a two-and-a-half-year
+suspension, and a notation was made on the student’s transcript to graduation.
+56.
+
+In University of Toronto and Y.L.,15 the student plagiarized an assignment by using an
+
+answer from Chegg.com. It was the student’s first offence, and the student did not participate in
+
+13
+
+See University of Toronto and D.K. (Case No 1119, July 21, 2021) at para 70.
+Case No. 1119, July 21, 2021.
+15
+Case No. 1133, November 29, 2021.
+14
+
+17
+the hearing. The student received a zero in the course, a two-year suspension, and a three-year
+notation.
+57.
+
+Assistant Discipline Counsel also submitted that the Panel ought to consider the
+
+commercial nature of Chegg.com as an aggravating factor in penalty.
+58.
+
+The Student did not participate in the hearing, and therefore chose to forgo her opportunity
+
+to provide evidence on mitigation for penalty. The Panel notes that the Student had attempted to
+withdraw from her courses. The Panel has no evidence before it to explain this action. Had the
+Student participated and provided an explanation, the outcome may have been different.
+59.
+
+The penalty sought is not at the high end of the range, and, in light of the surrounding
+
+circumstances, appropriately so.
+H.
+
+CONCLUSION
+
+60.
+
+This Panel orders that:
+1. The Hearing may proceed in the absence of the Student.
+2. The Student receive a final grade of zero in the course MAT237Y1 in Fall 2020 and
+Winter 2021;
+3. The Student be suspended from the University of Toronto from the date of the order
+for a period of 2 years, ending on August 23, 2024;
+4. A notation of the sanction be placed on the Student’s academic record and transcript
+from the date of the order for a period of 3 years, ending on August 23, 2025; and
+
+18
+5. This case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the Student’s name withheld.
+Dated at Toronto at this day of December 5, 2022
+Original signed by:
+Ms. Alexi Wood, Chair
+On behalf of the Panel
+
+

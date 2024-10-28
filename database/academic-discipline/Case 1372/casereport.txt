@@ -1,0 +1,794 @@
+Case No.: 1372 & 1373
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on May 12, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and Y C
+
+and L
+
+F
+
+REASONS FOR DECISION
+
+Hearing Date: December 16, 2022, via Zoom
+Members of the Panel:
+Simon Clements, Chair
+Professor Alexander Koo, Faculty Panel Member
+Charles Buck, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Joseph Berger, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Quasi-Judicial Administrative Assistant, Office of Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+Y C
+L
+F
+
+2
+
+1.
+
+This Panel of the University Tribunal held a hearing on December 16, 2022, to
+consider the charges brought by the University of Toronto (the “University”) against
+Y C
+
+(“Y.C.”) and L
+
+F
+
+(“L.F.”) under the Code of Behaviour on
+
+Academic Matters, 1995 (the “Code”). It is alleged that the Students knowingly
+obtained unauthorized assistance in connection with the midterm exam in
+MATA30H3F (the “Course”), contrary to section B.I.1(b) of the Code or, in the
+alternative knowingly represented as their own, an idea or expression of an idea or
+work of another in the midterm exam in the Course, contrary to section B.I.1(d) of the
+Code or, in the further alternative that the Students each knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the midterm exam in the Course, contrary to
+section B.I.3(b) of the Code.
+2.
+
+On November 9, 2022, the University brought a motion for these two matters to be
+heard together. For reasons released on November 21, 2022, an Order was made that
+the hearing of charges made against student Y.C. in Case No. 1372, and against
+student L.F. in Case No. 1373 would be heard together. The proceedings against Y.C.
+and L.F. share questions of fact, law and/or mixed fact and law in common, involve
+the same parties, and arise out of the same transaction or occurrence.
+
+A.
+3.
+
+Preliminary Issue: Proceeding in the Absence of the Students
+The hearing was scheduled to begin at 9:45 a.m. on December 16, 2022. At that time,
+Assistant Discipline Counsel advised that neither of the Students nor a representative of
+the Students had responded to the Notice of Electronic Hearing.
+
+4.
+
+When the Students had not joined the hearing via Zoom at 9:45 a.m., Assistant
+Discipline Counsel made submissions on proceeding with the hearing in the absence of
+the Students.
+
+3
+
+5.
+
+With respect to Student Y.C., the University filed the Affidavit of Kimberly Blake
+affirmed on December 15, 2022. In her affidavit Ms. Blake described the efforts that
+both the University and the law firm of Assistant Discipline Counsel had made to
+contact the Student dating back to November 25, 2020. Y.C. has never responded to
+any of these attempts to contact her to discuss the Charges or scheduling a hearing date.
+
+6.
+
+On May 12, 2022, the Office of the Vice-Provost, Faculty and Academic Life served
+the charges in this matter on the Student by email to
+
+@mail.utoronto.ca, the
+
+email address that Y.C. had provided in ROSI.
+7.
+
+On May 12, 2022, the Office of Appeals, Discipline and Faculty Grievances (the
+“ADFG Office”) served the Student with a letter regarding the charges that were filed
+against her, together with copies of the charges, the Code of Behaviour on Academic
+Matters, the Tribunal’s Rules of Practice and Procedure and a pamphlet for
+Downtown Legal Services, by email at
+
+8.
+
+@mail.utoronto.ca.
+
+On November 21, 2022, the ADFG Office served the Student with the Notice of
+Electronic Hearing for a hearing on Friday, December 16, 2022, at 9:45 a.m., together
+with copies of the ADFG letter regarding the charges that were filed against the
+Student (dated May 12, 2022) and enclosures (which included the charges), by email
+to the Student at
+
+9.
+
+@mail.utoronto.ca.
+
+The email from the ADFG Office advised the Student that the hearing would be
+conducted using the Zoom videoconferencing platform and provided the Student with
+the coordinates to access the videoconference.
+
+10.
+
+Ms. Blake deposed in her affidavit that Assistant Discipline Counsel has not received
+any correspondence from the Student, and that Ms. Lie did not receive a “bounce
+back” message indicating that her email messages could not be delivered.
+
+11.
+
+In addition to the attempts to contact Y.C. by email, further attempts to contact the
+Student were made by other means.
+
+4
+
+12.
+
+On August 9, 2022, Ms. Blake attempted to call the Student at
+
+which is
+
+the phone number that the Student had provided in ROSI. This call went to an
+automated recording that advised that the customer was unavailable and to try again
+later, without the opportunity to leave a voicemail message. Ms. Blake attempted to
+call the number again on November 22, 2022, and on November 28, 2022. Both calls
+went to the same automated recording.
+13.
+
+On December 12, 2022, Ms. Blake sent a letter to the Student by email and by courier
+to
+
+which is the mailing address
+
+and permanent address that the Student had provided in ROSI. The letter attached a
+copy of the charges and the Notice of Electronic Hearing (together with the covering
+email which contained the Zoom access details).
+14.
+
+A delivery notification from the courier company dated December 12, 2022, notes that
+, is a school and that the delivery
+person was advised that no one by the Student’s name works there. The delivery
+notification indicates the package was being returned to sender.
+
+15.
+
+The University submitted the Affidavit of Mr. Andrew Wagg affirmed on November
+28, 2022. Mr. Wagg is a Manager, Incident Response, in Information Security
+Information Technology Services at the University of Toronto. Information
+Technology Services manages the email accounts used by students. On November 25,
+2022, Mr. Wagg was able to determine that the last time someone accessed the email
+account of Y.C. was on July 14, 2021 at 11:31 p.m. local Toronto time.
+
+16.
+
+With respect to Student L.F., the University filed the Affidavit of Kimberly Blake
+affirmed on December 15, 2022. In her affidavit Ms. Blake described the efforts that
+both the University and the law firm of Assistant Discipline Counsel had made to
+contact L.F. dating back to November 25, 2020. The Student has never responded to
+any of these attempts to contact her to discuss the charges, or scheduling a hearing
+date.
+
+5
+
+17.
+
+On May 12, 2022, the Office of the Vice-Provost, Faculty and Academic Life served
+the charges in this matter on the Student by email to
+
+@mail.utoronto.ca,
+
+the email address that L.F. had provided in ROSI.
+18.
+
+On May 12, 2022, the ADFG Office served the Student with a letter regarding the
+charges that were filed against him, together with copies of the charges, the Code of
+Behaviour on Academic Matters, the Tribunal’s Rules of Practice and Procedure and
+a
+
+pamphlet
+
+for
+
+Downtown
+
+Legal
+
+Services,
+
+by
+
+email
+
+at
+
+@mail.utoronto.ca.
+19.
+
+On May 17, 2022, Assistant Discipline Counsel sent the Student an email to introduce
+herself. Ms. Lie advised that important documents and correspondence would be sent
+to the Student’s mail.utoronto.ca email address.
+
+20.
+
+On November 21, 2022, the ADFG Office served the Student with the Notice of
+Electronic Hearing for a hearing on Friday, December 16, 2022, at 9:45 a.m., together
+with copies of the ADFG letter regarding the charges that were filed against the
+Student (dated May 12, 2022) and enclosures (which included the charges), by email
+to the Student at
+
+21.
+
+@mail.utoronto.ca.
+
+Ms. Blake was advised by Ms. Lie that she has not received any correspondence from
+the Student and that Ms. Lie did not receive a “bounce back” message indicating that
+her email messages could not be delivered.
+
+22.
+
+As with Student Y.C., further attempts were made to contact Student L.F. by phone
+and letter.
+
+23.
+
+On August 9, 2022, Ms. Blake attempted to call L.F. at
+
+, which is the
+
+phone number that the Student had provided in ROSI. This call went to an automated
+recording that advised that the customer she was calling was unavailable and to try
+again later, without the opportunity to leave a voicemail message.
+
+6
+
+24.
+
+On November 22, 2022, Ms. Blake attempted to call L.F. again at
+
+. On
+
+this occasion, the call was answered by someone. When Ms. Blake requested to speak
+to L.F., she was advised that she had the wrong number.
+25.
+
+On December 12, 2022, Ms. Blake sent a letter to L.F. by email and by courier to
+(a)
+
+, which is the
+
+mailing address that the Student had provided in ROSI, and
+(b)
+
+, which is the
+
+permanent address that the Student had provided in ROSI.
+26.
+
+Ms. Blake indicated that with respect to the
+
+address she was advised by the
+
+courier that the address was a UPS store. The letter was signed for by someone named
+Victoria. With respect to the
+
+address, this building was an apartment
+
+building. Building security would not accept the letter because L.F.’s name was not
+listed in the building directory.
+27.
+
+Ms. Blake affirmed that as of December 15, 2022, L.F. had not responded to any of
+the attempts to contact him.
+
+28.
+
+The University submitted the Affidavit of Mr. Andrew Wagg affirmed on November
+28, 2022. Mr. Wagg is Manager, Incident Response, in Information Security
+Information Technology Services at the University of Toronto. Information
+Technology Services manages the email accounts used by students. On November 25,
+2022, Mr. Wagg was able to determine that the last time someone accessed the email
+account of the Student was on February 19, 2022 at 2:32 a.m. local Toronto time.
+
+29.
+
+The University requested that the Tribunal proceed with this hearing in the absence of
+the Students.
+
+30.
+
+The Statutory Powers and Procedures Act (the “Act”), section 6 states that the parties
+to a proceeding shall be given reasonable notice of the hearing by the tribunal. Section
+7(3) states that where reasonable notice of the hearing has been given to a party to a
+
+7
+
+proceeding in accordance with the Act and the party does not participate in accordance
+with the notice, the tribunal may proceed without the party’s participation and the
+party is not entitled to any further notice in the proceeding.
+31.
+
+The Rules of Practice and Procedure as they existed at the time of the hearing (the
+“Rules”), rule 91 states that charges, notices of hearing, and disclosure maybe served
+on a student by email or by courier. Rule 172 mirrors the provision in section 7(3) of
+the Act. Where notice of an electronic hearing has been given to the student in
+accordance with the Rules and the student does not attend hearing, the panel may
+proceed in the absence of the student.
+
+32.
+
+Pursuant to rule 93, a Notice of Hearing may be served on a student by various means,
+including by sending a copy of the document by courier to the student’s mailing
+address in ROSI or by emailing a copy of the document to the student’s email address
+in ROSI.
+
+33.
+
+The University’s Policy on Official Correspondence with Students expressly states
+that students are responsible for maintaining a current and valid postal address and
+email account on ROSI. Students are expected to monitor and retrieve all mail,
+including emails, on a frequent and consistent basis.
+
+34.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+reasonable notice of the hearing.
+
+35.
+
+In this case, the University provided reasonable notice to the Students. The evidence
+shows that multiple attempts were made to contact the Students at their email, by
+phone and courier. Both Students were contacted by the University in November
+2020, at a time when both Students were still expected to monitor their University
+
+1 This provision is now rule 13 under the current Rules.
+2 This provision is now rule 21 under the current Rules.
+3 This provision is now rule 13 under the current Rules.
+
+8
+
+email accounts. Neither Student ever responded to the University’s requests to meet
+regarding concerns with their Midterm answers. The University complied with the
+Rules and the Act by providing the Students with notice of the hearing by email as
+required.
+36.
+
+For these reasons the Tribunal determined that it would proceed with the hearing in
+the absence of the Students.
+
+B.
+
+The Charges and Particulars
+37.
+
+The Charges against the Students are identical.
+(a)
+
+On or about October 24, 2020, you knowingly obtained unauthorized assistance in
+connection with the midterm exam in MATA30H3F (the “Course”), contrary to section
+B.I.1(b) of the Code.
+
+(b)
+
+In the alternative, on or about October 24, 2020, you knowingly represented as your own
+an idea or expression of an idea or work of another in the midterm exam in the Course,
+contrary to section B.I.1(d) of the Code.
+
+(c)
+
+In the further alternative, on or about October 24, 2020, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the midterm exam in the Course, contrary to
+section B.I.3(b) of the Code.
+
+38.
+
+Particulars of the offences charged are as follows:
+(a)
+
+At all material times you were a student enrolled at the University of Toronto
+Scarborough.
+
+(b)
+
+In Fall 2020, you enrolled in MATA30H3F (Calculus I for Physical Sciences).
+
+(c)
+
+Due to the covid19 pandemic, the Course was administered online. Students in the
+Course were assessed on the basis of, among other things, a midterm exam worth 30% of
+their final grades.
+
+9
+
+(d)
+
+The midterm exam was administered online on October 24, 2020. Students were required
+to complete the midterm exam independently.
+
+(e)
+
+You knowingly obtained unauthorized assistance on the midterm exam from another
+student, (the “Other Student”), or others, and/or aided, assisted, abetted, counselled,
+procured or conspired with the Other Student or others to obtain unauthorized assistance
+on the midterm exam.
+
+(f)
+
+You submitted your answers to the midterm exam:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that they contained ideas, expressions of ideas or work which were not
+your own, but were the ideas, expressions of ideas or work of others, including
+the Other Student; and
+
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or
+work that you drew from the Other Student or others.
+
+(g)
+
+You knowingly aided, assisted, abetted, counselled, procured or conspired with the Other
+Student or others to commit the offence of plagiarism in the midterm exam.
+
+(h)
+
+You knowingly submitted the midterm exam with the intention that the University of
+Toronto Scarborough rely on it as containing your own ideas or work in considering the
+appropriate academic credit to be assigned to your work.
+
+C.
+
+The Evidence
+39.
+
+The University submitted the Affidavit of Professor Michael Carvers, affirmed on
+December 9, 2022. Professor Carvers is an Assistant Professor, Teaching Stream in
+the Department of Computer and Mathematical Sciences (the “Department”) at the
+University of Toronto Scarborough (“UTSC”). Additionally, he is a Chair’s Designate
+for Academic Integrity in the Department and is currently an instructor for the course
+MATA30H3F: Calculus I for Physical Sciences (the “Course”).
+
+(i) The Course
+
+10
+
+40.
+
+The Course is designed to teach students techniques and concepts of calculus
+including elementary functions, derivatives and integrals.
+
+41.
+
+In Fall 2020, Y.C. and L.F. were enrolled in the Course. The instructors were Lucas
+Ashbury-Bridgwood and Fazle Chowdhury, who were sessional instructors and are no
+longer with the University. Professor Carvers obtained the information regarding the
+Students and the Midterm that is in issue in this matter from the file that the instructors
+from Fall 2020 submitted to the UTSC Academic Integrity Office and from
+subsequent correspondence with the instructors.
+
+42.
+
+As set out in the course outline, students in the Course were evaluated based on the
+results of six assignments, six quizzes, the Midterm, and a final examination.
+
+43.
+
+Under the heading “Academic Integrity Statement” the course outline provided a link
+to the University of Toronto’s Code of Behaviour on Academic Matters (“Code”) and
+noted that for tests and exams potential academic offences included but were not
+limited to: using or possessing unauthorized aids, looking at someone else’s answers
+during an exam or test, misrepresenting your identity when you knew or ought to have
+known you were doing it.
+
+(ii) The Midterm Examination
+44.
+
+The Midterm was administered online on October 24, 2020, from 5:00 p.m. to 7:00
+p.m. Students were required to complete the Midterm independently. Students were
+also advised that no aids were permitted during the test including working with other
+students, using notes or textbooks, or getting answers from the Internet.
+
+45.
+
+Both Students submitted their Midterm answers online on October 24, 2020. Y.C.
+submitted her Midterm answers at 7:16 p.m. L.F. submitted his Midterm answers at
+7:07 p.m. Y.C. received a score of 75% on the Midterm, while L.F. received a score of
+94%.
+
+11
+
+46.
+
+On review, the instructors in the Course became suspicious that the Students had
+collaborated on the Midterm based on the similarities of their answers. Almost all of
+the Students’ answers were identical or virtually identical. However, L.F. submitted
+answers to two questions to which Y.C. did not submit an answer.
+It was Professor Carvers’ opinion, as stated in his Affidavit, that the degree of
+
+47.
+
+similarity between the Midterm answers submitted by the Students was highly
+suspicious. The answers are virtually identical to one another, including the same steps
+and the same mistakes. In fact, the Students’ answers to Questions 3, 4, 5, 6, 7(a), 8
+and 10(a) are essentially written the same word-for-word. Moreover, where the
+Students included descriptions or conclusions (rather than mathematical steps), their
+descriptions or conclusions used virtually identical language. Professor Carvers stated
+that in his experience, given the myriad of ways that a student could approach each
+problem, it is highly unlikely that two students working independently would produce
+such similar answers on virtually all of the questions.
+In his affidavit, Professor Carvers made a side-by-side comparison of the Students’
+
+48.
+
+examination booklets, pointing out the following highly suspicious irregularities:
+(a)
+
+both students wrote “3(c)” as part of their solutions, even though there was no
+question 3(c) on the Midterm.
+
+(b)
+
+both students used a technique that had not been taught at that point in the course
+when the Midterm was written. The use of this technique is distinctive and
+unusual and was not used by most other students in the Course.
+
+(c)
+
+in one answer, both students used the same square and round brackets in their
+answers, which weren’t part of the problem given.
+
+(d)
+
+in another answer, both students’ answers omit a minus sign, but still arrive at the
+correct final solution.
+
+12
+
+49.
+
+Assistant Discipline Counsel submitted that the evidence is sufficient to establish that
+the Students collaborated on the Midterm and asked for a finding of guilt for each
+Student on Charge 1, that the Students knowingly obtained unauthorized assistance in
+connection with the Midterm, contrary to section B.I.1(b) of the Code.
+
+D.
+
+Decision of the Tribunal
+50.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+and convincing evidence, that the academic offence charged has been committed by
+the Students.
+
+51.
+
+The evidence establishes that the answers of the Students were virtually identical and
+that parts of at least seven answers on the Midterm were identical word for word. The
+fact that both Students referred to question 3(c) when there was no such question on
+the Midterm suggests that the Students collaborated on their answers.
+
+52.
+
+The Tribunal notes that all the University must prove on a balance of probabilities is
+that an offence occurred. The evidence in this case does not support a particular theory
+of misconduct. The evidence supports a theory either that the Students worked
+together, or that one Student copied the answers of the other, or that both Students
+copied the same answers from another source. However they went about it, the
+evidence establishes on a balance of probabilities that misconduct occurred. As noted
+by the Tribunal in the case of the University of Toronto and S.R. (Case No. 708, June
+6, 2014) (“S.R.”) at paragraph 33, Charge 1 under subsection B.I.1(b) of the Code
+covers both obtaining unauthorized assistance from another person, or, through the
+operation of subsection B.II.1.(a), being a party to the offence of aiding or assisting
+another student to obtain unauthorized assistance.
+
+53.
+
+Consequently, the Tribunal finds that the Students are guilty of obtaining unauthorized
+assistance, contrary to section B.I.1(b) of the Code.
+
+E.
+
+Penalty
+
+13
+
+54.
+
+The matter continued with a hearing on the appropriate sanction. This was a first
+offence for both Students, and the sanction sought by the University for each Student
+is the same:
+(a)
+
+a final grade of zero in the course MATA303H3F in Fall 2020;
+
+(b)
+
+the Student will be suspended from the University of Toronto for a period of two
+years from the date of the Tribunal’s Order;
+
+(c)
+
+this sanction will be recorded on the Student’s academic record and transcript for
+a period of three years from the date of the Tribunal’s order; and
+
+(d)
+
+that this case be reported to the Provost with the Student’s name withheld, for
+publication of a notice of the decision of the Tribunal and sanctions imposed.
+Appendix “C” to the Code provides the Provost’s Guidance on Sanctions. The Provost
+
+55.
+
+recognizes that the particular circumstances of each case will, of course, have to be
+taken into account in each case. Nevertheless, to promote consistency across the
+University, the Provost has provided guidance on the range of sanctions the Provost
+may ask the Tribunal to impose. To provide guidance to students facing a hearing at
+the Tribunal, absent exceptional circumstances, the Provost will request that the
+Tribunal: (a) impose a final grade of zero in any course where a student is found to
+have committed an offence; and (b) suspend a student for two years for any offence
+involving academic dishonesty, where a student has not committed any prior offences.
+In this case, as the Students did not attend before the Tribunal, and submitted no
+evidence, there is no evidence of exceptional circumstances which would cause the
+Tribunal to depart from the Provost’s guidance.
+56.
+
+The Tribunal was asked to consider the University of Toronto and Mr. C. factors (Case
+No. 1976/77-3, November 5, 1976) long recognized as the leading decision on
+sentencing principles. These factors are:
+(a)
+
+the character of the person charged;
+
+14
+
+57.
+
+(b)
+
+the likelihood of repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the offence;
+
+(e)
+
+the detriment to the University by the offence; and
+
+(f)
+
+the need to deter others from committing a similar offence.
+The Students did not participate in any aspect of the academic discipline proceeding,
+nor did the Students attend the hearing. Ignoring the discipline process is suggestive of
+a disregard for the seriousness of the conduct the Students were engaged in, which was
+an act of deliberate dishonesty. As the Students failed to engage in the discipline
+process, there is no evidence of extenuating circumstances, remorse, taking
+responsibility for their conduct or insight. Therefore, there are no mitigating factors to
+be taken into consideration for either character or extenuating circumstances.
+
+58.
+
+There is no evidence that permits a finding on likelihood of repetition. It should be
+noted that the Midterm in question was written in October 2020, and neither Student
+has enrolled in a course since 2021.
+
+59.
+
+Assistant Discipline Counsel asked the Tribunal to consider together the factors of the
+nature of the offence, detriment to the University, and deterrence. Referring again to
+S.R. where two students collaborated during an in-person midterm examination, the
+Tribunal stated at paragraph 42, “the nature of the offence is a serious one, and the
+offence causes significant detriment to the University. The Student copied and shared
+answers during a test with another student in order to obtain a more favourable grade
+that he did not deserve. His conduct is unfair to other students whose evaluation
+depends on their own hard work and attention to their studies. It undermines the
+integrity of the University evaluation process, and the honesty that must underly the
+teaching and learning relationship. As this kind of behaviour can be difficult to detect,
+it is important that the penalty be sufficient to deter others from similar misconduct.”
+
+15
+
+60.
+
+General deterrence is even more important in cases which arose during the pandemic.
+At the time of this Midterm, in October 2020, students were learning and writing
+examinations remotely. When students are writing exams remotely there are few
+safeguards to prevent dishonesty and it is apparent that these Students took advantage
+of that situation. The University must rely on all students to uphold the honour
+system. It is important that the penalty in this case sends the message to the University
+community that the pandemic did not create an extenuating circumstance in which
+cheating is tolerated.
+
+61.
+
+Even though these Students appear to no longer reside at the addresses they previously
+provided to the University, they have not enrolled in courses since 2021 and no longer
+monitor their university email address, it is important that cases of academic
+dishonesty be prosecuted. The University must deter this conduct, and not incentivize
+students to sit out the discipline process in the hope that the University will eventually
+drop the case. There is no time limit on a student registering for more courses. Without
+prosecuting the case and obtaining a finding of guilt where warranted, there will be no
+notation on a student’s transcript that they have engaged in academic misconduct. That
+would enable students to further mislead anyone to whom their transcript might be
+shown in the future.
+
+62.
+
+In addition to considering the Mr. C. factors, the Tribunal was provided with a
+summary of other cases of unauthorized assistance and plagiarism. These cases
+demonstrate that a two-year suspension is generally consistent with the sanctions
+administered to other students in similar circumstances. The Tribunal also notes the
+importance of like cases being treated alike, and that the Tribunal renders decisions
+that are consistent, so that the treatment a student receives is not dependent on the
+panel the student draws, see the University of Toronto and X.Y. (Case No. 1147,
+November 11, 2021) at paragraph 33.
+
+F.
+
+Conclusion
+
+16
+
+63.
+
+The Tribunal finds that the Students are guilty of obtaining unauthorized assistance,
+contrary to section B.I.1(b) of the Code. Having found the Students guilty of Charge 1,
+the University has withdrawn Charges 2 and 3.
+
+64.
+
+For these reasons the Tribunal Orders that the following sanctions shall be imposed
+on the Students:
+(a)
+
+a final grade of zero in the course MATA303H3F in Fall 2020;
+
+(b)
+
+the Students will be suspended from the University of Toronto for a period of 2
+years from the date of the Tribunal’s Order; and
+
+(c)
+
+this sanction will be recorded on the Students’ academic record and transcript for
+a period of three years from the date of the Tribunal’s order.
+
+65.
+
+This case shall be reported to the Provost, with the Students’ name withheld, for
+publication of a notice of the decision of the Tribunal and the sanctions imposed.
+
+Dated at Toronto this 7th day of March, 2023
+
+Original signed by:
+_______________________________________________
+Simon Clements, Chair
+On behalf of the Panel
+
+

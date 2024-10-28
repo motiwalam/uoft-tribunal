@@ -1,0 +1,1340 @@
+GOVERNING COUNCIL JUDICIAL BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on July 20, 2023,
+AND IN THE MATTER OF the University of Toronto Act, 1947, S.O. 1947, c. 112, as am.
+And the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended. S.O. 1978, c. 88
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and C
+
+-C
+
+T
+
+REASONS FOR DECISION
+
+Hearing Date: March 27, 2024, via Zoom
+Members of the Judicial Board:
+Sana Halwani, Chair
+Professor Douglas E. McDougall, Faculty Member
+Nelson Lee, Student Member
+Appearances:
+Lily Harmer, Counsel for the University, Paliare Roland Rosenberg Rothstein LLP
+Janet Song, Counsel for the University, Paliare Roland Rosenberg Rothstein LLP
+Hillson Tse, RGZ Law, Counsel for the Former Student
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals Discipline and Faculty Grievances
+Not In Attendance:
+C
+-C
+T
+
+I.
+
+Charges and Procedural History
+
+1.
+
+The Judicial Board (the “Board”) held a hearing on March 27, 2024, to address the
+following charges brought by the University of Toronto (the “University”) against
+C
+
+-C
+
+T
+
+(the “Former Student”) pursuant to s. 48(c) of the University of
+
+Toronto Act, 1947 (the “1947 Act”) and s. 2(14)(o) of the University of Toronto Act,
+1971 (the “1971 Act”), collectively, the “Acts”:
+1. On or about April 18, 2022, you were guilty of infamous conduct in that you forged
+or in any other way altered or falsified an academic record, and/or uttered,
+circulated or made use of any such forged, altered or falsified record, and/or
+attempted to utter, circulate or make use of such forged, altered or falsified record,
+namely a document purporting to be a transcript of your academic history at the
+University of Toronto.
+2. On or about April 18, 2022, you were guilty of disgraceful conduct in that you forged
+or in any other way altered or falsified an academic record, and/or uttered,
+circulated or made use of any such forged, altered or falsified record, and/or
+attempted to utter, circulate or make use of such forged, altered or falsified record,
+namely a document purporting to be a transcript of your academic history at the
+University of Toronto.
+3. On or about April 18, 2022, you were guilty of conduct unbecoming a graduate of
+the University in that you forged or in any other way altered or falsified an academic
+record, and/or uttered, circulated or made use of any such forged, altered or
+falsified record, and/or attempted to utter, circulate or make use of such forged,
+altered or falsified record, namely a document purporting to be a transcript of your
+academic history at the University of Toronto.
+
+2. The Former Student was first registered in the Faculty of Arts and Science,
+University of Toronto in Fall 2016. In June 2021, he graduated from the University
+of Toronto with an Honours Bachelor of Science degree. The facts forming the
+basis of the charges occurred after the Former Student had graduated from the
+University. It is for that reason that the charges are being adjudicated by a Judicial
+Board of the Governing Council and not the University Tribunal.
+
+2
+
+II.
+
+Agreed Statement of Facts.
+
+2.
+
+At the outset of the hearing, the Board was advised that the Former Student was
+pleading guilty to charge 3 and that the matter would proceed on the basis of an
+Agreed Statement of Facts (“ASF”, attached as Appendix A to this decision without
+appended documents). The Board was also advised that if the Former Student’s
+plea was accepted, that the University would withdraw the first and second charges.
+The Board received into evidence a Book of Documents that included the ASF.
+
+3.
+
+The Former Student pleaded guilty to charge 3, on the basis that an agent acting on
+his behalf falsified his academic record and made use of that falsified academic
+record in applying to graduate schools, and that while he was not personally aware
+that the agent had falsified these records, he acknowledges that it was his
+responsibility to supervise agents who were submitting applications on his behalf,
+and that his failure to do so constitutes conduct unbecoming a graduate of the
+University of Toronto.
+
+4.
+
+The following description of the facts is taken from the ASF.
+7. On April 18, 2022, Sana Kawar, the former Manager of the University of Toronto
+Transcript Centre, received an email from World Education Services (“WES”). This
+email attached a copy of a document purporting to be the University transcript of
+the Former Student (the “Purported Transcript”) and requested that the University
+verify its authenticity.
+8. The Purported Transcript indicated it was a Transcript of Consolidated Academic
+Record as of January 26, 2021. It contained the Former Student’s name, student
+number, and birth month and day. It further indicated that the Former Student had
+been enrolled in courses from 2016 Fall to 2021 Winter, that he had earned a total
+of 23.5 credits to date with a cumulative grade point average (CGPA) of 3.83, and
+that he continued to be enrolled in six courses in the 2021 Winter term for which
+he would earn a further 3.0 credits if successful in each.
+9. WES is an organization that provides credential evaluations for international
+students and immigrants planning to work or study in the United States and
+Canada.
+3
+
+10. The Purported Transcript does not accurately reflect the grade information
+contained in the Official Academic Record. In comparing the Purported Transcript
+with the Official Academic Record, all of the numerical grades from Fall 2016
+through the Winter 2020 term were inflated, including sessional, annual, and
+cumulative grade point averages. Two of the seven grades earned in Summer
+2020 and Fall 202 [sic] were also inflated, as were some of the GPA numbers.
+[…]
+15. The Purported Transcript was dated January 26, 2021, when the Former Student
+was an active student. Accordingly, the allegation was initially dealt with as an
+offence under the Code of Behaviour on Academic Matters.
+16. On June 1, 2022, the office of Student Academic Integrity (“SAI”) emailed the
+Former Student inviting him to meet with the Dean’s Designate to discuss the
+allegations. On June 15, 2021, the Former Student met with Colleen Dockstader,
+Dean’s Designate for Academic Integrity, to discuss the allegations against him
+(the “DD Meeting”). Laurie O’Handley, an Academic Integrity Specialist, also
+attended the DD Meeting and took notes.
+[…]
+19. During the meeting, the Former Student denied he had committed the academic
+offence of forgery. At the meeting and afterwards, the Former Student provided
+the following information:
+(a) he and his mother engaged an agency called “GATEIVY” (the “Agency”)
+to help him apply to graduate school (later the Former Student clarified
+that the counterparty to the contract with the Agency was a company
+called “Shanghai Erlun Education Technology Co., Ltd.”, not “GATEIVY”);
+(b) his mother paid the Agency approximately $600-800 CAD to help edit
+and submit the Former Student’s graduate school applications (later the
+Former Student clarified that the amount paid was $5,000 USD);
+(c) he provided the Agency with a personal statement, an official transcript,
+and recommendation letter. He sent the Agency a transcript downloaded
+from the Accessible Campus Online Resource Network (“ACORN”), a
+4
+
+web-based tool that stores students’ academic, personal, and financial
+records;
+(d) the fee was paid upfront, and the Agency was not paid more if the Former
+Student was accepted to graduate school;
+(e) the Purported Transcript was doctored by the Agency and submitted to
+WES without his knowledge;
+(f) the Agency claimed to be based in Boston, United States and that they
+have an office in Shanghai, China (later the Former Student clarified that
+the Agency is based in Shanghai, China). The Former Student stated that
+he communicated with the Agency remotely and never met the
+representatives in person;
+(g) after he received an email from SAI notifying him of the allegations, he
+tried to contact the Agency using WeChat. He stated that he tried to reach
+the Agency’s manager but could not make contact because the Agency
+was “bankrupted” in May 2021, and its website disappeared.
+[…]
+26. On June 16, 2022, SAI sent an email to the Former Student advising him that the
+matter would be forwarded to the Vice-Provost for review with the recommendation
+that charges be laid. The matter was subsequently forwarded to the Office of the
+Vice-Provost, Faculty and Academic Life.
+
+III.
+
+Finding on Charges
+
+5.
+
+The University must establish on a balance of probabilities that an academic offence
+under the 1947 Act has been committed by the Former Student. The 1947 Act
+creates obligations on former students not to engage in infamous conduct,
+disgraceful conduct, or conduct unbecoming a graduate of the University.
+
+6.
+
+In this case, the Board concluded that charge 3 had been proven and accepted the
+guilty plea of the Former Student in respect of that charge.
+
+5
+
+7.
+
+Although the Former Student's plea does not admit actual knowledge of the
+Agency's falsifications, the Former Student failed to supervise the Agency or review
+any applications submitted on his behalf. A student or former student cannot
+contract out of his responsibility to ensure that University records submitted in
+applications are authentic.
+
+8.
+
+Here, the Former Student knew that the Agency would be submitting applications
+on his behalf; knew that the contract with the Agency included a reference to
+“personal background upscaling;” and knew from the contract that the Agency had
+an incentive to get the Former Student into a graduate program so as not to have to
+work for free for a further semester if the original applications failed.
+
+9.
+
+The Former Student was reckless in his failure to supervise the Agency and
+abdicated his responsibility. Such abdication of responsibility constitutes conduct
+unbecoming a graduate of the University.
+
+10. As was expressed in the University of Toronto and T. C. H. (October 29, 2019):
+The integrity of the University as an educational institution and as a degree
+granting body is fundamental to the academic relationship, including the
+relationship between the Former Student and this University. Many
+important third parties, including as in this case institutions of higher
+education, rely on the records of transcripts, degrees and apparent letters
+of reference as correctly representing the academic achievements of those
+who submit them. Falsification of transcripts and letters of reference strikes
+at the heart of the honesty and integrity which is at the core of the academic
+experience and evaluation. It not only undermines the credibility of the
+University, but also the credibility of other students who have achieved and
+seek to rely on the records contained in their transcripts. The Former
+Student failed to ensure that the records he submitted to other academic
+institutions were accurate.
+
+11. Based on both the Former Student's admission and the uncontradicted evidence as
+to the use of the falsified transcript by the Former Student’s agent, the Board is
+satisfied that the Former Student uttered, circulated or made use of a forged, altered
+or falsified record, being a University of Toronto transcript.
+12. Given the finding of guilt on charge 3, the University withdrew the first and second
+charges.
+6
+
+IV.
+
+Finding on Penalty
+
+13. The sanctions that may be imposed for conduct found to be infamous, disgraceful,
+or unbecoming a graduate of the University are the cancellation, recall or
+suspension of a student’s degree.
+14. Once the Board had made a determination on the charges, the Board was provided
+with a Joint Submission on Penalty (“JSP”), which is attached as Appendix B. The
+proposed penalty included the following:
+1. The Bachelor of Science degree conferred by the University of Toronto on
+the Former Student be suspended for five years from the date of this order;
+2. The Former Student be required and directed to surrender for the degree
+certificate evidencing the Bachelor of Science degree conferred on him by
+the University of Toronto for the period of the suspension; and
+3. The fact that the University of Toronto has suspended for five years the
+Bachelor of Science degree it conferred on the Former Student be recorded
+on his academic record and transcript for a period of seven years from the
+date of this order.
+15. To support this proposed penalty, Counsel to the University made submissions on
+the following:
+1. The high bar to depart from a JSP;
+2. Relevant factors in determining appropriate sanctions; and
+3. The typical penalties for similar cases.
+A.
+
+High Bar to Depart from JSP
+
+16. The Board is not bound by the JSP and can decide on a penalty that is greater or
+lesser than what is being proposed. However, a joint submission with respect to
+penalty should be accepted unless the submission would be contrary to the public
+interest or bring the administration of justice into disrepute.
+7
+
+17. As was expressed in University of Toronto and W.K. (Case no. 1197, May 3, 2022)
+(“W.K.”):
+The Tribunal is aware of the value in respecting and deferring to joint
+submissions. While the Tribunal retains the discretion to reject joint
+submissions in appropriate cases, the fact that adversarial parties have
+agreed on the appropriate sanction is a strong indication that the
+appropriate balancing of interests has occurred.
+
+18. The Former Student has acknowledged that the Board has the ability to depart from
+a joint sentencing submission if it has grounds to do so, including to impose a more
+severe penalty than the one the JSP recommends.
+B.
+
+Relevant Factors
+
+19. It is well established in cases under the Code of Behaviour on Academic Matters,
+that in determining an appropriate sanction the following factors should be
+considered:
+1. the character of the person charged;
+2. the likelihood of repetition of the offence;
+3. the nature of the offence committed;
+4. any extenuating circumstances surrounding commission of the offence;
+5. the detriment to the University occasioned by the offence; and
+6. the need to deter others from committing a similar offence.
+20. These factors apply equally for cases before the Judicial Board.
+21. Character of the Former Student: The Former Student has admitted the offence
+which shows that he has insight into his actions and remorse for his conduct. In
+addition, the Former Student has participated and cooperated in the proceeding by
+entering into an ASF and JSP. Counsel to the Former Student was also permitted
+to read a letter from the Former Student into the record. In that letter, the Former
+Student expressed remorse and apologized for his actions. He also detailed what
+8
+
+may be considered mitigating personal circumstances, but counsel was quick to
+agree that these circumstances were not being introduced by way of evidence and
+could not be taken into consideration by the Board in that way. The letter did,
+however, further support the submission that the Former Student has taken
+ownership and responsibility for his actions.
+22. Likelihood of Repetition of the Offence: The likelihood of repetition of the offence
+by the Former Student is low, both because he is no longer a student and because
+he had no prior academic offences while attending the University. There is therefore
+no pattern of conduct that requires specific deterrence.
+23. Nature of the Offence, General Deterrence, and Detriment Occasioned to
+University: A forged transcript is a very serious offence. Where there are forged
+transcripts in circulation being submitted to other academic institutions and
+employers, the detriment occasioned to the University is very high. The University
+and its students expect and need others to be able to rely on the authenticity of
+transcripts and other University records. Forged records undermine the credibility
+and standing of the University and of the Former Student’s peers. The need for
+general deterrence is also very high because of the impact of such offences on the
+University. The seriousness of the offence is not lessened when an Agency is the
+one who has forged the transcript on the Former Student’s behalf.
+24. Extenuating Circumstances: There is no evidence of extenuating circumstances.
+As noted above, the letter from the Former Student, while speaking to certain
+personal circumstances, was not evidence of those facts.
+25. Taken as a whole, the factors suggest that the proposed penalty is reasonable, and
+balances the important need for general deterrence and the Former Student’s
+remorse and cooperation with the proceeding.
+
+9
+
+C.
+
+Similar Cases
+
+26. The five-year suspension of degree is also in line with similar cases presented by
+Counsel to the University. While the Board is not bound by any of these decisions,
+they are helpful in assisting the Judicial Board in treating like cases alike.
+27. In particular, the Board was directed to three Judicial Board decisions in which a
+five-year suspension of degree was ordered against a Former Student was in similar
+contexts: the University of Toronto and C.Y. (August 14, 2023) (“C.Y.”); the
+University of Toronto and Y.L. (September 10, 2021); and the University of Toronto
+and T.C.H. (October 29, 2019).
+28. All of these cases involved former students using agencies to assist in preparing
+applications, and in which the former students were found to have participated
+recklessly in the circulation of forged University records.
+29. On that basis, the Board found that the five-years suspension of degree was
+reasonable.
+30. With respect to the notation on the transcript, the parties propose a seven-year
+notation, which is two years longer than the proposed suspension. The three cases
+listed above include either a five-year notation or a permanent notation. In support
+of a seven-year notation, Counsel to the University characterised the seven-years
+as “somewhere in the middle.” In contrasting C.Y. where the notation had been for
+only five years, Counsel noted that the former student in C.Y. had also lost their
+Master’s degree due of the forged transcript, and so the impact on the student was
+already very high.
+31. The Board is of the view that the seven-year notation proposed is reasonable in all
+the circumstances, and will not deviate from the JSP given the high threshold to do
+so.
+32. However, the Board notes that, unlike in Tribunal cases, a length of notation greater
+than the length of suspension should not be the default in Judicial Board cases. One
+of the central purposes of the notation is, as was said in the W. K., “to ensure that
+10
+
+future professors and invigilators are aware of the Student’s disciplinary history and
+are able to provide appropriate scrutiny of the Student’s work” (para. 18). That
+purpose does not exist in the context of former students. A notation that is longer
+than the suspension can have the effect – for all practical purposes – of lengthening
+the suspension itself. While a longer or permanent notation may be warranted based
+on the specific facts of a case, we are of the view that it should not be assumed to
+be the default in Judicial Board cases.
+33. Finally, we note that while s. 48(c) of 1947 Act does not explicitly speak to notations
+on transcripts, the Judicial Board is vested with broad powers in respect of
+“provid[ing] for the cancellation, recall or suspension” of a degree, and the
+“procedure generally in respect of any such matter.” As such, we believe it is within
+the jurisdiction of the Judicial Board to make such an order.
+
+V.
+
+Decision of the Board
+
+34. The penalty proposed by both parties is reasonable in light of the relevant factors,
+and is in line with penalties ordered in similar circumstances. The Board was
+therefore of the view that accepting the joint submission on penalty would not bring
+the administration of justice into disrepute.
+35. At the conclusion of the hearing on penalty, the Board conferred and made the
+following order:
+1. The Former Student is guilty of conduct unbecoming a graduate of the
+University in respect of an application for admission to graduate school;
+2. The Bachelor of Science degree conferred by the University of Toronto on
+the Former Student be suspended for five years from the date of this order;
+3. The Former Student be required and directed to surrender for the degree
+certificate evidencing the Bachelor of Science degree conferred on him by
+the University of Toronto for the period of the suspension; and
+
+11
+
+4. The fact that the University of Toronto has suspended for five years the
+Bachelor of Science degree it conferred on the Former Student be recorded
+on his academic record and transcript for a period of seven years from the
+date of this order.
+5. The parties agree that this case may be reported to the Provost for
+publication of a notice of the Judicial Board’s decision and the sanction
+imposed, with the Former Student’s name withheld.
+
+DATED at Toronto, April 23, 2024
+
+Original signed by:
+_________________________________
+Sana Halwani, Chair
+On behalf of the Judicial Board
+
+12
+
+APPENDIX A
+
+014
+
+TAB E
+GOVERNING COUNCIL JUDICIAL BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on July 20, 2023,
+AND IN THE MATTER OF the University of Toronto Act, 1947, S.O. 1947, c. 112, as am.
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and C
+
+-C
+
+T
+
+AGREED STATEMENT OF FACTS
+1.
+
+For the purposes of this hearing, the Provost of the University of Toronto and C
+
+C
+
+T
+
+Mr. T
+
+have prepared this Agreed Statement of Facts (“ASF”). The Provost and
+agree that:
+
+(a)
+
+each document referred to in this ASF may be admitted into evidence before
+the Judicial Board for all purposes, including for the truth of the document’s
+contents, without further need to prove the document, except where
+otherwise stated; and
+
+(b)
+
+if a document indicates that it was sent or received by someone, that is
+prima facie proof that the document was sent and received as indicated.
+
+2.
+
+This hearing arises out of charges filed on July 20, 2023. A copy of the charges is
+
+attached to this ASF as Tab 1. Mr. T
+
+agrees that the charges are properly before the
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+015
+2
+Judicial Board and raises no issues related to the form of the charges, the manner in
+which they were referred for a hearing by the Governing Council, or the jurisdiction of the
+Judicial Board to hear them.
+3.
+
+Mr. T
+
+waives the reading of the charges, and pleads guilty to charge 3, on the
+
+basis that an agent acting on his behalf falsified his academic record and made use of
+that falsified academic record in applying to graduate schools, and that while he was not
+personally aware that the agent had falsified these records, he acknowledges that it was
+his responsibility to supervise agents who were submitting applications on his behalf, and
+that his failure to do so constitutes conduct unbecoming a graduate of the University of
+Toronto.
+4.
+
+The Provost agrees that if the Tribunal convicts the Student on charge 3, the
+
+Provost will withdraw charges 1 and 2.
+A.
+
+Mr. T
+
+5.
+
+Mr. T
+
+academic history
+
+first registered in the Faculty of Arts and Science, University of Toronto
+
+in Fall 2016. In June 2021, he graduated from the University of Toronto with an Honours
+Bachelor of Science degree. He earned a Specialist designation in Applied Statistics and
+had a final cumulative grade point average of 2.67.
+6.
+
+A copy of Mr. T
+
+academic record contained in the Repository of Student
+
+Information (“ROSI”) as of April 29, 2022 (the “Official Academic Record”) is attached
+to this ASF as Tab 2.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+016
+3
+B.
+
+Correspondence from World Education Services
+
+7.
+
+On April 18, 2022, Sana Kawar, the former Manager of the University of Toronto
+
+Transcript Centre, received an email from World Education Services (“WES”). This email
+attached a copy of a document purporting to be the University transcript of Mr. T
+
+(the
+
+“Purported Transcript”) and requested that the University verify its authenticity. A copy
+of WES’s April 18, 2022 email is attached to this ASF as Tab 3.
+8.
+
+The Purported Transcript indicated it was a Transcript of Consolidated Academic
+
+Record as of January 26, 2021. It contained Mr. T
+month and day. It further indicated that Mr. T
+
+name, student number, and birth
+had been enrolled in courses from 2016
+
+Fall to 2021 Winter, that he had earned a total of 23.5 credits to date with a cumulative
+grade point average (CGPA) of 3.83, and that he continued to be enrolled in six courses
+in the 2021 Winter term for which he would earn a further 3.0 credits if successful in each.
+A copy of the Purported Transcript is attached to this ASF as Tab 4.
+9.
+
+WES is an organization that provides credential evaluations for international
+
+students and immigrants planning to work or study in the United States and Canada. A
+copy of WES’s home webpage and the most relevant pages for academic institutions is
+attached to this ASF as Tab 5.
+C.
+
+Comparison of the Purported Transcript with the Official Academic Record
+
+10.
+
+The Purported Transcript does not accurately reflect the grade information
+
+contained in the Official Academic Record.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+017
+4
+1.
+
+11.
+
+Accurate information in the Purported Transcript
+
+The following information is the same in the Purported Transcript when compared
+
+to the Official Academic Record:
+(a)
+
+Name: both state that they are the academic record of “C
+
+(b)
+
+Birth month/day: the birth month/day on the Purported Transcript is the
+same as Mr. T
+
+(c)
+
+T
+
+”;
+
+birth month/day:
+
+Student number: the student number on the Purported Transcript is the
+same as Mr. T
+
+(d)
+
+-C
+
+student number:
+
+; and
+
+Transcript Symbols and Notations: courses for which Mr. T
+
+did not
+
+receive a numerical grade but received a Credit (CR) or No Credit (NCR),
+or for which he was granted late withdrawal (LWD) were the same.
+12.
+
+In the University’s records, there is only one student1 named “C
+
+with the birth month/day of
+
+-C
+
+: the subject of these proceedings, Mr. T
+
+screenshot of a search of the University’s records for students with the name “C
+T
+
+”
+.A
+
+-C
+
+” to attached to this ASF as Tab 6.
+2.
+
+13.
+
+T
+
+Inaccurate Information in the Purported Transcript
+
+In comparing the Purported Transcript with the Official Academic Record, all of the
+
+numerical grades from Fall 2016 through the Winter 2020 term were inflated, including
+
+1 There is a second entry of a student named “C
+
+C
+T
+with the birth day/month of
+.
+The parties to this ASF confirm that both entries refer to the same person: the subject of these proceedings,
+Mr. T
+.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+018
+5
+sessional, annual, and cumulative grade point averages. Two of the seven grades earned
+in Summer 2020 and Fall 202 were also inflated, as were some of the GPA numbers.
+14.
+
+A detailed comparison of the Purported Transcript and T
+
+Official Academic
+
+Record is attached to this ASF as Tab 7.
+D.
+
+Dean’s Designate meeting
+
+15.
+
+The Purported Transcript was dated January 26, 2021, when Mr. T
+
+was an
+
+active student. Accordingly, the allegation was initially dealt with as an offence under the
+Code of Behaviour on Academic Matters.
+16.
+
+On June 1, 2022, the office of Student Academic Integrity (“SAI”) emailed Mr.
+
+T
+
+inviting him to meet with the Dean’s Designate to discuss the allegations. A copy
+
+of this email is attached to this ASF as Tab 8.
+17.
+
+On June 15, 2021, Mr. T
+
+met with Colleen Dockstader, Dean’s Designate for
+
+Academic Integrity, to discuss the allegations against him (the “DD Meeting”). Laurie
+O’Handley, an Academic Integrity Specialist, also attended the DD Meeting and took
+notes. A copy of the notes taken during the DD Meeting is attached to this ASF as Tab
+9. The parties agree the notes accurately reflect what was discussed, without admitting
+the truth of the specific statements made.
+18.
+
+Professor Dockstader read Mr. T
+
+19.
+
+During the meeting, Mr. T
+
+forgery. Mr. T
+
+the warning required under the Code.
+
+denied he had committed the academic offence of
+
+stated that:
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+019
+6
+(a)
+
+he and his mother engaged an agency called “GATEIVY” (the “Agency”) to
+help him apply to graduate school;
+
+(b)
+
+his mother paid the Agency approximately $600-800 CAD to help edit and
+submit Mr. T
+
+(c)
+
+graduate school applications;
+
+he provided the Agency with a personal statement, an official transcript, and
+recommendation letter. Mr. T
+
+stated that he sent the Agency a
+
+transcript downloaded from the Accessible Campus Online Resource
+Network (“ACORN”), a web-based tool that stores students’ academic,
+personal, and financial records;
+(d)
+
+the fee was paid upfront, and the Agency was not paid more if Mr. T
+was accepted to graduate school; and
+
+(e)
+
+the Purported Transcript was doctored by the Agency and submitted to
+WES without his knowledge.
+
+20.
+
+Mr. T
+
+stated the Agency claimed to be based in Boston, United States and
+
+that they have an office in Shanghai, China. Mr. T
+
+stated he communicated with the
+
+Agency remotely and never met the representatives in person.
+21.
+
+Mr. T
+
+stated that after he received an email from SAI notifying him of the
+
+allegations, he tried to contact the Agency using WeChat. He stated that he tried to reach
+the Agency’s manager but could not make contact because the Agency was “bankrupted”
+in May 2021, and its website disappeared.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+020
+7
+E.
+
+Documents sent following the Dean’s Designate Meeting
+
+22.
+
+On June 16, 2022, Mr. T
+
+Mr. T
+
+sent an email to SAI to follow up on the DD Meeting.
+
+continued to deny the allegations in the email. A copy of this email is attached
+
+to this ASF as Tab 10.
+23.
+
+Mr. T
+(a)
+
+also clarified the following information:
+contrary to his statement in the DD Meeting that he paid the Agency $600800, the total fees were actually $5,000;
+
+(b)
+
+the Agency is based in Shanghai, China; and
+
+(c)
+
+the counterparty to the contract with the Agency was a company called
+“Shanghai Erlun Education Technology Co., Ltd.”, not “GATEIVY”.
+
+24.
+
+Mr. T
+
+also attached the following documents:
+
+(a)
+
+copies of two Official PDF Transcripts dated:
+
+(b)
+
+(i)
+
+January 15, 2021, which is attached to this ASF as Tab 11; and
+
+(ii)
+
+August 4, 2021, which is attached to this ASF as Tab 12;
+
+a copy of Mr. T
+
+degree confirmation dated June 23, 2021, which is
+
+attached to this ASF as Tab 13;
+(c)
+
+screenshots of WeChat messages between Mr. T
+
+and a purported
+
+representative of the Agency dated January 20, 2021, in which the
+representative requested that Mr. T
+
+send his transcript. On January 20,
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+021
+8
+2021 at 4:49 PM, Mr. T
+
+sent a file called “32313379_eTranscript.pdf”.
+
+A copy of the screenshot, which is in the Chinese language, is attached to
+this ASF as Tab 14. A copy of the translation of the screenshot to English
+is attached to this ASF as Tab 14-A;
+(d)
+
+screenshot of a list of files sent by Mr. T
+
+to the purported Agency
+
+representative via WeChat, which shows, among other things, that Mr.
+T
+
+sent a file called “35593993_eTranscript.pdf” on August 5, 2021. A
+
+copy of this screenshot is attached to this ASF as Tab 15;
+(e)
+
+screenshots of WeChat messages between two purported Agency
+representatives and a third person dated March 1, 2021, in which the
+participants are discussing signing a contract. A copy of the screenshots,
+which are in the Chinese language, is attached to this ASF as Tab 16. A
+copy of the translation of the screenshots to English is attached to this ASF
+as Tab 16-A;
+
+(f)
+
+screenshot of a remittance receipt dated March 26, 2021, which shows a
+payor named “Yuru Zhou” paying 32,721 Chinese Yuan to “Shanghai Erlun
+Education, Science and Technology Corporation, Ltd.” On March 26, 2021,
+32,721 Chinese Yuan converted to $6,295.23 Canadian Dollars. A copy of
+the screenshot, which is in the Chinese language, is attached to this ASF
+as Tab 17. A copy of the translation of the screenshot to English is attached
+to this ASF as Tab 17-A; and
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+022
+9
+(g)
+
+a copy of a document called “Standard Contract for Elite Education
+Consulting Service”, which was by signed R
+on Mr. T
+
+Z
+
+(Mr. T
+
+mother)
+
+behalf on March 9, 2021 (the “Consulting Contract”).
+
+Among other things, the Consulting Contract provided that:
+(i)
+
+the contract is between “Party A” (C
+
+-C
+
+T
+
+) and “Party B”
+
+(Shanghai Erlun Education, Science and Technology Corporation,
+Ltd. (Fifth Avenue Edu));
+(ii)
+
+Party B shall assist Party A in applying for graduate programs in the
+United States commencing in Fall 2021, including with respect to the
+following universities (section I, para. 1):
+
+(iii)
+
+1)
+
+New York University;
+
+2)
+
+University of Pennsylvania;
+
+3)
+
+John Hopkins University;
+
+4)
+
+University of Chicago;
+
+5)
+
+Boston University; and
+
+6)
+
+“other top 50 universities in USA”;
+
+Party B shall provide Party A “the scheme to completely upscale the
+personal background”, “including but not limited to matching the elite
+employment resources in USA/Canada[,] internship in the global top
+500 enterprises, practical opportunities in well-known universities
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+023
+10
+and
+
+scientific
+
+research
+
+institutions
+
+both
+
+domestically
+
+and
+
+internationally[,] and also provide recommendation letters, thesis
+publications in domestic and international journals, in order to
+upscale Party A’s application background” (section I, para. 1.3);
+(iv)
+
+Party B shall “refine all the application documents (PS, RL, CV) and
+file them online” (section I, para. 1.4);
+
+(v)
+
+if the applications fail for the semester, Party B shall continue to
+provide services for the following semester, and that Party A would
+not be required to pay any further service fee (section I, para. 2);
+
+(vi)
+
+Party A had the right to ask Party B to provide the documents in
+relation to Party A’s applications, and the right to oversee the
+application process (section II, paras. 1.1-1.3); and
+
+(vii)
+
+Party A was obligated to provide to Party B true, accurate and
+complete personal information that included but was not limited to
+“passport, ID card, graduation certificate, schooling certificate,
+transcript, employment certificate, financial certificate, information
+collection form, family members, and personal health information”
+(section II, para. 2.3).
+
+A copy of the Consulting Contract, which is in the Chinese language, is attached to this
+ASF Tab 18. A copy of the translation of the Consulting Contract to English is attached
+to this ASF as Tab 18-A.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+024
+11
+25.
+
+The documents referred to in the ASF that are translated from the Chinese
+
+language to English were translated by Boqun Ma, a translator for All Languages Ltd. A
+copy of the translation affidavit dated September 12, 2023 is attached to this ASF as Tab
+19.
+F.
+
+SAI forwarded the matter to the Vice-Provost
+
+26.
+
+On June 16, 2022, SAI sent an email to Mr. T
+
+advising him that the matter
+
+would be forwarded to the Vice-Provost for review with the recommendation that charges
+be laid. A copy of this email is attached to this ASF as Tab 20.
+27.
+
+The matter was subsequently forwarded to the Office of the Vice-Provost, Faculty
+
+and Academic Life.
+G.
+
+Additional University Records
+
+28.
+
+According to the University’s records:
+(a)
+
+the most recent occasion on which Mr. T
+University was July 21, 2023. Mr. T
+
+ordered a transcript from the
+previously ordered a transcript on
+
+or about January 26, 2021, the date on the Purported Transcript. Mr.
+T
+(b)
+
+Mr. T
+
+transcript order history is attached to this ASF as Tab 21;
+birthdate is
+
+. Mr. T
+
+birthdate in ROSI is
+
+attached to this ASF as Tab 22; and
+(c)
+
+Mr. T
+T
+
+has registered three different addresses with the University. Mr.
+address information in ROSI is attached to this ASF as Tab 23.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+025
+12
+H.
+
+Admissions and acknowledgments
+
+29.
+
+Mr. T
+
+admits that he did not prepare, review, or submit his application. He
+
+further admits that:
+(a)
+
+the Purported Transcript was forged, altered and falsified in that it
+inaccurately enhanced his academic record by inflating many of the marks
+and grade point averages he received at the University of Toronto;
+
+(b)
+
+it is his responsibility to ensure that all information about his academic
+record and history at the University of Toronto that is included in
+applications for admission to programs at academic institutions is accurate;
+and
+
+(c)
+
+his failure to do so constitutes conduct unbecoming a graduate of the
+University of Toronto.
+
+30.
+
+Mr. T
+
+acknowledges that he is signing this ASF freely and voluntarily, knowing
+
+of the potential consequences he faces, and does so having had the opportunity to seek
+the advice of counsel.
+31.
+
+Mr. T
+
+acknowledges that the Provost has made no assurances to he about
+
+what penalty the Judicial Board may impose if he is found to have violated the University
+of Toronto Act, 1947, and that the Judicial Board is not bound to impose the penalty
+sought by the Provost.
+32.
+
+The parties agree that this agreement may be signed electronically and in
+
+counterparts.
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+026
+13
+
+Date: March
+
+, 2024
+
+03 / 21 / 2024
+
+C
+
+-C
+
+T
+
+Date: March 21 , 2024
+Lily Harmer
+Assistant Discipline Counsel
+University of Toronto
+
+Doc ID: a5b4117c7310a4db8d0e408573475fb7ff61ce82
+
+APPENDIX B
+
+003
+
+TAB A
+GOVERNING COUNCIL JUDICIAL BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on July 20, 2023,
+AND IN THE MATTER OF the University of Toronto Act, 1947, S.O. 1947, c. 112, as am.
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and C
+
+-C
+
+T
+
+JOINT SUBMISSION ON PENALTY
+1.
+
+This hearing before the Judicial Board established by the Governing Council arises
+
+out of charges of academic dishonesty filed by the Provost of the University of Toronto
+pursuant to section 48(c) of the University of Toronto Act, 1947 and section 2(14)(o) of
+the University of Toronto Act, 1971 (collectively the “Acts”). For the purpose of the
+sanction phase of the hearing, the Provost and C
+
+-C
+
+T
+
+have prepared a joint
+
+submission on penalty (“JSP”).
+2.
+
+Mr. T
+
+understands that the Judicial Board may depart from the
+
+recommendations contained in this joint submission on penalty and may impose
+sanctions against Mr. T
+3.
+
+as set out in the Acts.
+
+The Provost and Mr. T
+
+submit that, in all the circumstances of the case, the
+
+Judicial Board should impose the following sanctions on Mr. T
+(a)
+
+The Bachelor of Science degree conferred by the University of Toronto on
+Mr. T
+
+be suspended for five years from the date of the order in this
+
+matter;
+
+Doc ID: 30c8632e0b9985f1bfda4d062e28a5720500d834
+
+004
+2
+(b)
+
+Mr. T
+
+be required and directed to surrender for the degree certificate
+
+evidencing the Bachelor of Science degree conferred on him by the
+University of Toronto for the period of the suspension; and
+(c)
+
+The fact that the University of Toronto has suspended for five years the
+Bachelor of T
+
+degree it conferred on Mr. T
+
+be recorded on his
+
+academic record and transcript for seven years from the date of the order
+in this matter.
+4.
+
+The parties agree that this case may be reported to the Provost for publication of
+
+a notice of the Judicial Board’s decision and the sanction imposed, with Mr. T
+
+name
+
+withheld.
+A.
+
+Acknowledgments
+
+5.
+
+Mr. T
+(a)
+
+acknowledges that:
+the Provost advised him of his right to obtain legal counsel and that he has
+obtained that advice or waived the right to do so; and
+
+(b)
+
+he is signing this JSP freely and voluntarily, knowing of the potential
+consequences he faces and knowing that the Judicial Board is not bound
+by this JSP and has the discretion to impose a different penalty, including
+one that is more severe than the JSP recommends.
+
+Date: March
+
+, 2024
+
+03 / 21 / 2024
+
+C
+
+-C
+
+T
+
+Date: March 21 , 2024
+Lily Harmer
+Assistant Discipline Counsel
+University of Toronto
+
+Doc ID: 30c8632e0b9985f1bfda4d062e28a5720500d834
+
+005
+
+Joint Submission on Penalty
+U of T, T
+
+Jo...n on Penalty.DOCX
+
+30c8632e0b9985f1bfda4d062e28a5720500d834
+MM / DD / YYYY
+Signed
+
+03 / 21 / 2024
+
+Sent for signature to C
+
+17:09:27 UTC
+
+-C
+
+T
+
+@mail.utoronto.ca) from hillson@rgzlaw.com
+IP: 66.23.38.175
+
+03 / 21 / 2024
+
+Viewed by C
+
+17:09:54 UTC
+
+-C
+
+T
+
+@mail.utoronto.ca)
+IP: 68.237.211.198
+
+03 / 21 / 2024
+17:11:06 UTC
+
+Signed by C
+
+-C
+
+T
+
+@mail.utoronto.ca)
+IP: 68.237.211.198
+
+03 / 21 / 2024
+17:11:06 UTC
+
+The document has been completed.
+
+

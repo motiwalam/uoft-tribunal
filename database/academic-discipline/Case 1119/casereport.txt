@@ -1,0 +1,568 @@
+Case No.: 1119
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on November 16, 2020
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56, as amended
+S.O. 1978, c.88
+
+B E T W E E N:
+UNIVERSITY OF TORONTO (the “University”)
+- and D
+
+K
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: April 27, 2021, via Zoom
+Members of the Panel:
+Mr. Douglas F. Harrison, Chair
+Professor Margaret MacNeill, Faculty Panel Member
+Ms. Yerin Lee, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Krista Kennedy, Hearing Secretary, Office of Appeals, Discipline and Faculty Grievances,
+University of Toronto
+Not in Attendance:
+The Student
+
+2
+
+Charges and Hearing
+1. The Trial Division of the Tribunal held a hearing by videoconference on April 27, 2021, to address
+the following charges brought by the University against the Student under the Code of Behaviour on
+Academic Matters, 1995 (the “Code”), which were set out in a letter to the Student dated November
+16, 2020:
+1.
+On or about December 18, 2019, you knowingly used or possessed an unauthorized aid in
+the final exam in CHM136H1F (“CHM136”), contrary to section B.I.1(b) of the Code.
+2.
+In the alternative, on or about December 18, 2019, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in connection
+with the final examination in CHM136, contrary to section B.I.3(b) of the Code.
+3.
+On or about April 7, 2020, you knowingly represented as your own an idea or expression of
+an idea or work of another in the final short answer assignment you submitted in BIO130H1S
+(“BIO130”).
+4.
+In the alternative, on or about April 7, 2020, you knowingly used or possessed an
+unauthorized aid or obtained unauthorized assistance in connection with the final short answer
+assignment you submitted in BIO130, contrary to section B.I.1(b) of the Code.
+5.
+In the further alternative, on or about April 7, 2020, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in connection
+with the final short answer assignment you submitted in BIO130, contrary to section B.I.3(b) of the
+Code.
+Particulars of the offences charged are as follows:
+1.
+
+At all material times you were a student enrolled at the University of Toronto Faculty of
+Arts & Science.
+CHM136
+
+2.
+
+In Fall 2019 you were enrolled in CHM136.
+
+3.
+
+On December 18, 2019, you wrote the final examination in CHM136.
+
+4.
+
+During the final examination, you were found in possession of an iPhone, which was turned
+on. The iPhone was an unauthorized aid.
+
+5.
+
+You knew that you were not permitted to be in possession of an iPhone during the final
+examination.
+
+3
+BIO130
+6.
+
+In Winter 2020, you enrolled in BIO130.
+
+7.
+
+Students in BIO130 were required to submit a final short answer assignment (the
+“Assignment”), worth 15% of their final grades. The Assignment was administered online
+as a 24-hour take-home assignment on April 6-7. 2020. Students were allowed to use the
+course materials (i.e., lecture videos, lecture notes and textbook); however, they were not
+permitted to use any other aids.
+
+8.
+
+On or about April 7, 2020, you submitted your Assignment.
+
+9.
+
+You submitted the Assignment:
+a. To obtain academic credit;
+b. Knowing that it contained ideas, expressions of ideas or work which were not your own,
+but were the ideas, expressions of ideas or work of others, including the authors of
+answers that were posted on Chegg.com, which is a website that allows subscribers to
+post questions on the site and to view questions and answers posted on the site (the
+“Chegg Sources”); and
+c. Knowing that you did not properly reference the ideas, expressions of ideas or work that
+drew from the Chegg Sources or from others.
+
+10.
+
+You knowingly obtained unauthorized assistance in the Assignment from the Chegg
+Sources or from others.
+
+11.
+
+You knowingly submitted the Assignment with the intention that the University of Toronto
+rely on it as containing your own ideas or work in considering the appropriate academic
+credit to be assigned to your work.
+
+Service
+2. The Student did not attend the hearing. In order to proceed with the hearing in the Student’s absence,
+the Tribunal therefore had to determine if reasonable notice was given to the Student, as required by
+s. 6 of the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22 (“SPPA”) and by Rule 13 of The
+University Tribunal Rules of Practice and Procedure (the “Rules”).
+3. Counsel for the University presented affidavit evidence from Nusaiba Khan, Kimberly Blake, Andrew
+Wagg, Obianuju Umenyi and Melody Neumann. This evidence, as outlined below, demonstrated that
+all relevant materials in this matter were delivered to the Student via email to the Student’s contact
+email address as recorded in the University’s Repository of Student Information (“ROSI”).
+
+4
+
+4. Delivery by email to a student’s email address as recorded in ROSI is permitted and is considered
+valid service for a hearing before this Tribunal by virtue of Rule 9(c) of the Rules. It is not necessary
+to physically deliver materials to effect valid service, although that is another option under Rule 9.
+Students are apprised of the fact that the University and its divisions may use email for delivering
+official correspondence to them in accordance with the University’s Policy on Official
+Correspondence. This Policy also directs that students are responsible for maintaining and advising
+the University of their current email address through ROSI.
+5. In the present case, the Office of the Vice-Provost, Faculty and Academic Life emailed the Student a
+copy of a letter to him from Professor Heather Boon, the University’s Vice-Provost, Faculty &
+Academic Life, attaching the charges, on November 16, 2020. The email was sent to the Student’s
+email address listed in ROSI. This email address has been listed in ROSI as the Student’s contact
+email since January 2017.
+6. The University’s Student Academic Integrity (“SAI”) office had exchanged a few emails with the
+Student earlier in 2020, using the Student’s email address listed in ROSI. Professor Charly Bank,
+Dean’s Designate for Academic Integrity, emailed the Student at that email address on February 24,
+2020 about an allegation of academic misconduct in CHM136. After a follow up email on March 11,
+2020, the Student responded, on March 11, 2020, to say that he wanted to meet “anytime before March
+19”.
+7. On March 12, 2020, SAI responded to the Student, recommending that he meet with an academic
+advisor at St. Michael’s College before deciding how to proceed. The Student responded on March
+16, 2020, to ask how he could resolve the situation, stating, “If I still can proceed to a meeting I would
+like to have one as soon as possible.”
+8. The next day, on March 17, 2020, Laura Ferlito, Associate Director, Academic Integrity & Petitions
+at the Office of the Faculty Registrar, Faculty of Art & Science, responded by email to the Student
+to ask that he connect with SAI after he had discussed the matter with his College Registrar’s office.
+9. Two days later, on March 19, 2020, the Student’s ROSI email account was accessed by someone, at
+7:19 p.m. Mr. Wagg, an Incident Report Architect with the University’s Information Security,
+Information Technology Services department, advised that this is the last time the account was
+accessed.
+10. SAI did not hear further from the Student and sent a follow up email to him, to his ROSI contact email,
+on August 31, 2020, concerning the allegation of academic misconduct in CHM136. No response
+was received.
+
+5
+
+11. Meanwhile, back on May 6, 2020, Professor Tony Harris, Associate Chair Undergraduate of the
+University’s Department of Cell & Systems Biology, emailed the Student at his ROSI contact email,
+regarding allegations of academic misconduct in the Final Assignment of BIO130. Professor Harris
+proposed that he would forward the case directly to the Dean’s Office in order for it to be assessed by
+a Dean’s Designate as soon as possible, which would allow the matter to be concluded more quickly
+and give the Student the opportunity to discuss his circumstances with a Dean’s Designate. However,
+Professor Harris also advised that the Student could ask for a meeting with an instructor. Professor
+Harris asked the Student to respond to this email as soon as possible, and in event by 5:00 p.m. on
+May 8, 2020, failing which Professor Harris would have the option of forwarding the matter to the
+Dean of the Faculty of Arts & Science. Professor Harris did not receive a response from the Student.
+12. On August 25, 2020, SAI emailed the Student, at his ROSI contact email, concerning the allegation
+of academic misconduct in the BIO130 Final Assignment. In this email, Professor Francois Pitt,
+Dean’s Designate for Academic Integrity, told the Student that he could meet with Professor Pitt to
+discuss that matter, including a possible sanction that would resolve it. However, Professor Pitt also
+recommended to the Student that he should meet with an academic advisor at the St. Michael’s College
+Registrar’s Office, for support in “navigating the academic integrity process”. Professor Pitt asked
+for a response from the Student by September 4, 2020.
+13. Having not received a response from the Student, SAI sent the Student a follow up email on September
+9, 2020, requesting a response to Professor Pitt’s email by September 17, 2020.
+14. On September 24, 2020, emails were sent to the Student, at his ROSI contact email address, by
+Professor Bank and by Professor Pitt to advise the Student that the CHM136 matter and the BIO130
+matter, respectively, would be forwarded to the Vice-Provost.
+15. Following the above-mentioned November 16, 2020 email enclosing the charges, Tina Lie, a lawyer
+with Paliare Roland Rosenberg Rothstein LLP (“Paliare Roland”), acting as Assistant Discipline
+Counsel for the University, emailed the Student a number of times:
+(a) November 24, 2020, introducing herself and advising the Student that she would be
+sending him, by email, important documents and information regarding the hearing of
+the charges; encouraging the Student to retain legal counsel; and inviting the Student
+to contact her to discuss resolution;
+(b)
+
+January 8, 2021, enclosing the University’s disclosure brief of documents in the
+University’s possession that may be relevant to this matter, as well as another copy
+of the charges, a copy of the University’s Policy of Official Correspondence with
+Students and summaries of the evidence the University anticipated calling at the
+
+6
+
+hearing, and advising the Student that important documents and correspondence
+would be sent in future to his contact email address;
+(c)
+
+February 8, 2021, requesting that the Student contact her by no later than February
+12, 2021, to advise of his availability on four dates she proposed for the hearing,
+which she anticipated the university would ask to be held by videoconference in light
+of the restrictions imposed by the ongoing pandemic; and
+
+(d)
+
+February 17, 2021, advising the Student that having not heard from him, she intended
+to schedule his hearing for April 27, 2021, that she would be requesting that the
+hearing proceed by videoconference, and that if he did not attend the hearing once it
+was scheduled that it may take place in his absence without further notice to him.
+
+16. On February 17, 2021, Krista Kennedy, Administrative Clerk & Hearing Secretary of the University’s
+Appeals, Discipline and Faculty Grievances (“ADFG”) Office, emailed both Ms. Lie and the Student
+to advise that Provost had requested to schedule a hearing in this matter, and to advise that the Chair
+of this tribunal had issued a direction that subject to any submissions by the Student as to why the
+hearing should proceed in person and not by Zoom (which submissions had to be received by 11:00
+a.m. on February 24, 2021), the hearing would proceed via Zoom on April 27, 2021.
+17. Having heard nothing from the Student by the deadline, the Chair made a direction that the hearing
+proceed electronically, as permitted by Rule 47 of the Rules and by the provisions of the SPPA, on
+April 27, 2021, at 9:45 a.m. This direction was emailed to the Student on February 25, 2021, by
+Nusaiba Khan, an Administrative Assistant with the ADFG Office.
+18. On April 8, 2021, Ms. Khan served the Student with the Notice of Electronic Hearing (the “Notice”)
+by sending him a copy by email to his email address listed in ROSI. Ms. Khan’s email included the
+coordinates for the Student to access the Zoom videoconference for the hearing.
+19. On April 12, 2021, Ms. Khan emailed Ms. Lie and the Student to schedule a time to conduct a test of
+the Zoom videoconferencing platform.
+20. Neither Ms. Lie nor Ms. Khan received any communication from the Student in response to any of
+their emails and they did not receive any bounce back messages indicating that any of their emails to
+him could not be delivered.
+21. In addition to the above-noted emails, Kimberly Blake, a legal assistant at Paliare Roland, assisting
+Ms. Lie, sent the Student, via FedEx, a courier package on April 21, 2021, to the street address in
+Vancouver, B.C., that the Student had provided in ROSI as his mailing address. This package
+contained a letter from Ms. Lie, the Notice, a copy of Ms. Khan’s April 8, 2021, email with the Zoom
+
+7
+
+coordinates, and the charges. As of the afternoon of April 22, 2021, the package was “Ready for
+recipient pickup” at a FedEx facility in Vancouver, following an unsuccessful attempt to deliver the
+package to the designated street address.
+22. Ms. Blake also attempted to call the Student, on April 22, 2021 at approximately 12:50 p.m., at the
+phone number the Student provided in ROSI. Ms. Blake received a recording that the number she
+was trying to reach was not assigned.
+23. The Panel convened at 9:45 a.m. on April 27, 2021, in accordance with the Notice. The Panel then
+waited 15 minutes to allow the Student or a representative of the Student to appear. By 10:00 a.m.,
+neither the Student nor a representative appeared. At that point, the Panel concluded, based upon the
+foregoing evidence and the aforementioned applicable provisions of the Rules and the SPPA, that the
+Student had received reasonable notice of the hearing and of the charges, and therefore ordered that
+the hearing proceed in his absence, as permitted by s. 7(3) of the SPPA and Rule 17 of the Rules.
+Facts
+24. In support of the charges, Counsel for the University tendered the affidavits of Mr. Umenyi and Ms.
+Neumann, referenced above, the contents of which are described below. These affidavits were
+emailed to the Student by Ms. Lie on April 19, 2021. In her email, Ms. Lie invited the Student to
+advise her by April 22, 2021, whether he wished to cross-examine any of the affiants. Ms. Lie did not
+receive any communication from the Student in response and did not receive any bounce back message
+indicating that her email to him could not be delivered. Both affiants were in attendance during the
+hearing and addressed questions from the Panel.
+(a) CHM136
+25. The Student was enrolled in Life Sciences within the Faculty of Arts & Science, at St. Michael’s
+College. In the 2018-19 academic year, he had taken nine courses, obtaining one grade of D+, one D,
+one D- and six F’s. In the 2019-20 academic year, he continued with first-year courses, on academic
+probation.
+26. One of the courses taken by the Student in the Fall 2019 term was CHM136, Introductory Organic
+Chemistry I.
+27. The final exam in CHM136, set for three hours, took place on the morning of December 18, 2019.
+The front page of the exam booklet indicated that the only aids allowed during the exam were unboxed
+molecular models. In addition, a periodic table was attached to the back of the exam. The front page
+also listed a number of reminders, including, “Turn off and place all cell phones, smart watches,
+electronic devices, and unauthorized study materials in your bag under your desk. If it is left in your
+pocket, it maybe an academic offence.” [emphasis added]
+
+8
+
+28. In addition, at the outset of the exam, an invigilator told the students what aids were allowed and what
+aids were unauthorized.
+29. A little more than an hour after the CHM136 final exam began, one of the invigilators found that the
+Student was in possession of an iPhone, which was turned on. The iPhone had been in the Student’s
+jacket. The Student volunteered the iPhone, which was confiscated for the duration of the exam.
+Following the exam, the Student acknowledged in writing that he had brought an unauthorized aid
+into the exam and admitted that he had committed an academic offence under the Code. The iPhone
+was returned to him at the end of the exam.
+30. The student’s acknowledgement is only of the fact that they were in possession of the unauthorized
+aid, not that they made any use of it. There is, in fact, no evidence that the Student made any use of
+his iPhone during the exam.
+(b) BIO130
+31. One of the courses taken by the Student in the Winter 2020 term was BIO130, Molecular & Cell
+Biology.
+32. Because of the COVID-19 pandemic, the final exam in BIO130 was replaced by an online, 24-hour
+take-home Final Assignment. The announcement of this change was posted on March 8, 2020, on
+Quercus, the University’s online portal (also referred to as a learning management software platform)
+through which students can access course materials (and did so pre-pandemic). The announcement,
+which was also emailed to the entire BIO130 class, stated that during the assignment students would
+be permitted to “use their notes, textbook, or any course materials they wish”, and that they were
+“expected to complete [the Final Assignment] on their own without collaborating or consulting other
+people”.
+33. The Final Assignment was administered on April 6-7, 2020. Announcements relating to it were posted
+on Quercus and emailed to the students in the course on March 30, April 3, and April 6, 2020. The
+announcements noted the importance of academic integrity.
+34. The March 30 2020, announcement referred to the Code and the expectation that students would be
+familiar with its content. Reference was made to the fact that potential offences relevant for the Final
+Assignment included: “Obtaining … unauthorized assistance on this assignment” and “Falsifying any
+information in … [a] document, or record required by the University”.
+35. The April 3, 2020 announcement to students in the course stated, in part: “You are allowed to use your
+lecture notes and textbook (including e-text) but any online resources outside of the course are not
+
+9
+
+allowed. There will be an Academic Integrity statement that you must complete for your assignment
+to be marked.” [emphasis added].
+36. The April 6, 2020 announcement reminded students “to use your lecture notes and textbook/e-text
+only”.
+37. The Final Assignment was made available to students on April 6, 2020. Question 1 of the Final
+Assignment required students to complete an academic integrity statement.
+38. The Student submitted his answers to the Final Assignment on April 7, 2020, online, through Quercus.
+The Student completed the academic integrity statement in which he stated,
+By signing this Statement, I, …, fully agree to abide to the Code of Behaviour on
+Academic Matters. I will not commit academic misconduct, and am aware of the
+penalties that may be imposed if I commit an academic offence.
+
+39. During the 24-hour period that the students in the course were given to complete the Final Assignment,
+instructors and teaching assistants in the course found a number of the questions and answers posted
+on Chegg.com. This is a subscription-based website that allows students to post problems that are
+then answered by so-called experts. Subscribers can also access questions and answers posted by
+others to the site.
+40. In order to determine if students had consulted the Chegg Sources during the Final Assignment, the
+instructors and teaching assistants searched for key phrases, misspellings and incorrect answers from
+the Chegg Sources answers across students’ Final Assignments.
+41. Based on those searches, similarities were found between the answers that the Student had provided
+to Questions 2, 3, 5, 7, 9, 10 and 11, and answers in the Chegg Sources.
+42. Professor Neumann, who is an Associate Professor, Teaching Stream, in the University’s Department
+of Cell & Systems Biology, discussed the matter with Professor Daphne Goring, the instructor for the
+second part of BIO130. Professor Neumann and Professor Goring considered the similarities between
+the Student’s answers and the answers in the Chegg Sources to be suspicious and unlikely to be
+coincidental because:
+(a) The Student’s answer to Question 2 included very similar language to the Chegg
+Sources answer, including references to “alpha helixes” of the plasma membrane,
+which were not required to answer the question;
+
+10
+
+(b) The Student’s answer to Question 3 was very similar to the Chegg Sources answer,
+including failing to answer the question based on the three types of transporters (as was
+required by the question). In addition, in the electronic version of the assignment that
+the Student submitted, there was an icon in his answer that appeared to be a small
+square with a diagonal arrow icon. When Professor Neumann put her cursor over the
+icon, it linked to a Chegg.com web page.
+(c) The Student’s answers to Question 5 were identical to the Chegg Sources answers,
+including the same incorrect answers for Questions 5(d) and (f).
+(d) The Student’s answers to Question 7 were identical to the Chegg Sources answers and
+were incorrect. In addition, in the course there had been no discussion of any specific
+kinesins for this process, but yet the Student made specific mention of kinesin-1 and
+kinesin-2 in his answer.
+(e) The Student’s answers to Question 9 were correct, but virtually identical to the Chegg
+Sources answers. The Student’s reference to “irreversible deformation” (which was
+contained in the Chegg Sources answer) was unusual because it was not a concept that
+was discussed in the course.
+(f) The Student’s answers to Questions 10 and 11 were virtually identical to the Chegg
+Sources answers and did not specifically address the questions. In addition, the “cdc2
+kinase” protein, which was in both the Student’s answer to Question 11 and the Chegg
+Sources answer, was not discussed in the course.
+43. In addition, the instructors and teaching assistants did not identify a significant number of students
+who answered the questions in the same incorrect way as the Student did and as found in the Chegg
+Sources. In Professor Neumann’s view, this demonstrated that the Student had used the Chegg
+Sources, because if these had been common mistakes, she would have expected that they would have
+identified a large number of students who gave these same answers (which was not the case).
+Finding on Charges
+(a) CHM 136
+44. With respect to CHM136, the Student was charged under s. B.I.1(b) of the Code, by which it is an
+offence to knowingly be in possession of an unauthorized aid in a final exam. A finding of possession
+of an unauthorized aid does not require any evidence that the unauthorized aid was used during the
+final exam.
+
+11
+
+45. In this instance, the Student was discovered in the exam in possession of an iPhone, which was in his
+jacket and turned on. He signed an acknowledgement that he was in possession of an unauthorized
+aid in the CHM136 final exam, namely that iPhone. He knew or ought to have known that he could
+not have an iPhone in his jacket during the exam. The Student did not appear at the hearing to explain
+why he had an iPhone in his jacket when he had received written and oral instructions to place any
+such device under his desk. The Student’s admission of possession is sufficient to meet the
+requirements of the offence, but the Tribunal in any event finds the evidence presented by the
+University sufficiently demonstrates that the Student knowingly possessed an unauthorized aid in the
+final exam, and that he had no justification for doing so.
+46. Therefore, the Tribunal finds that the Student did commit the offence of knowingly using or possessing
+an unauthorized aid in a final exam, contrary to s. B.I.1(b) of the Code.
+(b) BIO 130
+47. With respect to BIO130, the Student was charged under s. B.I.1(d) of the Code, by which it is an
+offence to knowingly represent as one’s own any idea or expression of an idea or work of another in
+any academic examination or term test, i.e., to commit plagiarism.
+48. In this instance, it is clearly evident that the Student copied answers from the Chegg Sources, given
+the similarities in his answers and those found on the website, the unusual commonalities between the
+two (especially in referencing concepts not discussed in the course), and the icon link to the
+Chegg.com webpage found in his submitted answer. The Student had received ample warning that
+use of the Chegg Sources was not permitted during the Final Assignment, yet he quite obviously used
+them, and did so without attribution. He knew or ought to have known he was not permitted to use
+the Chegg Sources.
+49. In addition, Professor Neumann testified that the Final Assignment was sufficiently difficult that it
+could have taken students the full 24-hour period to complete it. Question 2 alone was designed to
+take about two hours to complete. However, the Student was found to have spent only 211 minutes
+(about three-and-a-half hours) working in his entire Final Assignment document. The Student did not
+appear at the hearing to explain this (or anything else).
+50. Based on the foregoing, this panel is satisfied that the Student knowingly made extensive use of the
+Chegg Sources to complete the Final Assignment. The time he spent working on the document is not
+commensurate with how long a student would spend if they were completing it on their own without
+outside assistance, and the inclusion of the icon link in his submitted answer makes it clear that this
+was a cut and paste job.
+
+12
+
+51. Therefore, the Panel finds that the Student did commit the offence of knowingly representing as his
+own, ideas and work of another in a final exam, contrary to s. B.I.1(d) of the Code.
+(c) Withdrawal of Alternative Charges
+52. Upon these findings, Counsel for the University advised that the University was withdrawing the
+alternative charges, as set out in paragraphs 2, 4 and 5 of the charges (see para. 1, above).
+Sanction
+53. Section C.ii.(b) of the Code sets out that the Tribunal may impose a range of sanctions on a student
+who has been convicted under the Code, ranging from an oral reprimand to a five-year suspension or,
+more severely, a recommendation to the President of expulsion or to Governing Council of
+cancellation of a degree. The Tribunal may also order that any sanction it imposes be recorded on the
+student’s academic record and transcript for a period of time and may also report any case to the
+Provost, who may publish a notice of the decision and sanction in the University newspapers (without
+identifying the student by name).
+54. In this instance, the University sought an Order that the Student receive a final grade of zero in both
+CHM136 and BIO130, and a two-year suspension, along with a notation on the Student’s record and
+transcript for three years and a report to the Provost for publication.
+55. This request was in part based on sanctions handed down by the Tribunal in previous cases, the
+Provost’s Guidance on Sanctions (Appendix “C” to the Code, but which I note are not binding on this
+tribunal), and also on the factors laid down by this Tribunal in University of Toronto and Mr. C (Case
+No. 1976/77-3, November 5, 1976) (“Mr. C”).
+56. Counsel for the University advised that the University considered the two offences committed by the
+Student in this instance to be concurrent offences, i.e., two first-time offences, not subsequent
+offences.
+57. This is a case that warrants a review of the foundational principles laid down in the Mr. C case and
+their application to the facts respecting the Student. The reasons for decision in Mr. C set out factors
+that a tribunal should consider when imposing a sanction:
+(a) The character of the person charged;
+(b) The likelihood of a repetition of the offence;
+(c) The nature of the offence committed;
+(d) Any extenuating circumstances surrounding the commission of the offence;
+(e) The detriment to the University occasioned by the offence; and
+(f) The need to deter others from committing a similar offence.
+
+13
+
+58. With respect to factors (a) and (d), character and extenuating circumstances, respectively, there is little
+evidence. While he admitted he was in possession of the iPhone during the CHM136 exam, the Student
+then failed to participate in the matter beyond responding to a couple of emails from SAI early on,
+before being charged. He did not respond to multiple attempts by the University and its counsel to
+contact him. There is no evidence of remorse or insight, no evidence of a willingness to take
+responsibility for his actions and no evidence of a willingness to learn from his mistakes. There is no
+evidence of any extenuating or mitigating circumstances.
+59. With respect to factor (b), likelihood of repetition, the University submits that it believes there is such
+a likelihood, given that when he left the CHM136 exam in December 2020, the Student knew he had
+committed an offence. In March 2021, when contacted by SAI about the matter, he initially responded
+to ask for a meeting. However, he then stopped responding, and a mere three weeks later, he
+committed the other offence during the BIO130 exam. There is therefore no evidence that he learned
+from his earlier mistake. To the contrary, the evidence demonstrates not just a likelihood of repetition
+but actual repetition.
+60. With respect to factors (c), (e) and (f), the nature of the offence, the detriment to the University and
+the need for deterrence, respectively, the offence of plagiarism, as the Student has committed with
+respect to the BIO130 exam, is an extremely serious offence that harms the institution and the
+academic process. It is among the most serious breaches of academic integrity; it is theft of another’s
+work and can be seen as an attempt to defraud the University. The possession of an unauthorized aid
+in a final exam, in particular an iPhone, is also a serious matter for the University given the difficult
+in detecting such devices and the harm that can come to the academic process from being able to make
+unauthorized access them during an exam. The associated penalty must act as general deterrent
+against this behaviour.
+61. Counsel for the University directed the Panel to a number of previous decisions of the University
+Tribunal on the issue of sanctions in cases of plagiarism.
+62. In University of Toronto v. B.S. (Case No.697, January 17, 2014 (Sanction)), the student, a first-time
+offender, was found to have committed extensive plagiarism. Virtually all of the student’s paper in a
+second-year geography course was knowingly and deliberately plagiarized, and he attempted to deny
+it at the hearing. Because of the seriousness of the offence and a lack of mitigating circumstances, the
+student was suspended for three years and a notation was placed on his record and transcript for threeand-a-half years or until he graduated, whichever came first. He also received a zero grade in the
+course.
+63. As was the case in the present case, the student in University of Toronto v. O.R. (Case No. 981, March
+4, 2019), was charged with plagiarism but chose not to participate in the hearing. The student was
+
+14
+
+found by the tribunal to have committed the offence having submitted an essay in a first-year
+communications technology course that was substantially the same as essays submitted by two other
+students in that course. Noting that the Discipline Appeal Board stated in University of Toronto v.
+D.B. (Case No. 451; August 28, 2007) that it is “important that students are treated fairly and equitably
+when receiving a sanction, and that there is general consistency in the approach of Tribunals in
+imposing them”, the Tribunal in University of Toronto v. O.R. (Case No. 981, March 4, 2019),
+following earlier cases, gave the student a zero grade in the course, a two-year suspension and a threeyear notation.
+64. Counsel for the University submitted that in the present case, the use by the Student of the Chegg.com
+website should be taken into account as an aggravating factor with respect to sanction. The website
+is a subscription-based service costing $14.95 per month. Therefore, this case should be seen as a
+similar one to cases involving the purchase of essays, which the University considers to be one of the
+most serious academic offences.
+65. This panel was directed to University of Toronto v. J.W. (Case No. 1082; August 23, 2019). In that
+case, the student admitted that he had purchased a film review and submitted it as his own work in an
+introductory film studies course. The Tribunal there noted, at para. 20, that a review of earlier, relevant
+cases, “demonstrates a consensus that purchasing and submitting purchased work for academic credit
+is among the most egregious offences a student can commit.” The Tribunal there also took note of
+the following passage from the University of Toronto v. S.C, N.H.& M.K. case (Case Nos. 596; 597;
+598; November 23, 2011(Appeal)):
+First, in taking these steps, there is clear evidence of intention, deliberation and
+knowing deception, both in the planning, managing and completion of the offence,
+all of which occurs over a period of time, as in this case. As well, the act of paying
+for the services of another in this context, introduces a commercial element into the
+relationship of a student with the university, a factor very distant from the core
+values of an academic institution, where individual effort, intellectual thought and
+hard work are the hallmarks.
+66. Here, there is no evidence that the Student personally paid for access to the Chegg Sources, or that he
+had himself submitted questions to the website. However, there was payment involved by someone
+that allowed the Student to, in the end, access information from the website. Counsel for the
+University submitted that this Panel should take this into account in determining the appropriate
+sanction.
+67. On the question of sanction for the offence of being found in possession of an unauthorized aid, i.e.,
+an iPhone that was turned on, in the CHM136 exam, counsel for the University directed this panel to
+a number of cases. For present purposes, one of these cases is particularly instructive: University of
+
+15
+
+Toronto v. H.L (Case No. 886, March 16, 2017). In this case, the student was found in possession of
+an iPhone during a final exam in a second-year algebra course. While there was no evidence the
+student had used the phone to assist him with writing the exam, the tribunal there nonetheless noted,
+at para. 16:
+The conduct in this case was serious. The use of unauthorized aids such as personal devices
+is difficult to detect and accordingly, and particularly in light of evolving technology, poses
+a significant threat to the integrity of the evaluation process of the University.
+68. The Tribunal also noted that the student had failed to participate in the disciplinary process and failed
+to offer any response to mitigate or explain his conduct. The student, a first-time offender, was given
+a zero grade in the course, a two-year suspension and a three-year notation.
+69. In the present case, the Student admitted to bringing an iPhone into a final exam. Given the ease with
+which one can hide an iPhone and thereby potentially make improper use of it in an exam, thereby
+significantly harming the integrity of the University’s evaluation process. Any sanction must, in the
+view of this Panel, be severe enough to deter others from considering breaching the prohibition on
+using unauthorized aids in a final exam.
+70. It is also the case here that the Student, not long after admitting to having breached the Code by
+knowingly bringing the iPhone into the exam, chose to knowingly submit answers on another final
+exam that had been taken from a commercial website. As noted above, there wasn’t a likelihood of
+repetition of offending the Code – there was in fact repetition. And not of an offence that could be
+attributed to inadvertence or to a choice made in the heat of the moment, but of an offence that involves
+planning, deliberation and conscious execution, and that is among the most serious of all forms of
+academic misconduct - one that strikes at the heart of academic integrity, plagiarism. It does not go
+too far to say that plagiarism is not only theft but also fraud, and therefore the sanction for engaging
+in it must not only recognize that, but also must create a strong deterrent against its commission by
+others.
+71. Notably this Student was on academic probation when he submitted his BIO130 exam. And he chose
+not to participate in this process. He passed up the opportunity to present the Panel with any evidence
+of mitigation or extenuating circumstances.
+72. The Student’s actions demonstrate a complete lack of academic integrity, which in the conclusion of
+the Panel warrant more severe sanctions than those requested by the University.
+73. Therefore, the Panel makes the following order:
+(a) The Student shall receive a final grade of zero in both CHM136 and BIO130, academic
+year 2019-20;
+
+

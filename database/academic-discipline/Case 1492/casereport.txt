@@ -1,0 +1,1247 @@
+Case No: 1492
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on February 2, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND K
+
+H
+
+REASONS FOR DECISION
+Hearing Date: October 19, 2023, via Zoom
+Members of the Panel:
+Christopher Wirth, Chair
+Professor Emily Nacol, Faculty Panel Member
+Harvi Karatha, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Quasi-Judicial Coordinator & Hearing Secretary, Office of Appeals,
+Discipline and Faulty Grievances
+Not in Attendance:
+K
+
+H
+
+A Panel of the Trial Division of the University Tribunal was convened on October 19,
+2023, by videoconference to consider charges brought by the University of Toronto (the
+“University”) against K
+
+H
+
+(the “Student”) under the University’s Code of Behaviour
+
+on Academic Matters, 2019 (the “Code”).
+Preliminary Issue: Proceeding in the Absence of the Student
+The hearing was scheduled to begin at 9:45 a.m. At that time, neither the Student, nor
+anyone on the Student’s behalf, were logged onto the Zoom link. The Panel adjourned the
+hearing until 10:00 a.m. to allow time for the Student to attend it. At that time, the Student
+was still not present and the University then requested that the Panel proceed with the
+hearing in the Student’s absence.
+Pursuant to rule 18 of the University Tribunal’s Rules of Practice and Procedure (“Rules”),
+a notice of a virtual hearing must include the date, time, place and purpose of the hearing;
+a reference to the statutory authority under which the hearing will be held; information
+about the manner in which the hearing will be held; and a statement that if a person does
+not attend the hearing, the Panel may proceed in the person’s absence. rule 21 provides that
+where notice of a virtual hearing has been given to a person and that person does not attend
+the hearing, the Panel may proceed with the hearing in the party’s absence. The Rules
+conform to sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”), which
+set out the notice requirements.
+Pursuant to rule 13, a notice of hearing may be served on a student by various means,
+including by emailing a copy of the document to the student’s email address contained in
+the University’s Repository of Student Information (“ROSI”).
+The University’s Policy on Official Correspondence with Students dated September 1,
+2006 expressly states that students are responsible for maintaining on ROSI a current and
+valid mailing address and University-issued email account, and that “[f]ailure to do so may
+result in a student missing important information and will not be considered an acceptable
+rationale for failing to receive official correspondence from the University.” Students are
+expected to monitor and retrieve their email on a frequent and consistent basis. Students
+
+2
+
+have the right to forward their University-issued email account to another email account,
+but remain responsible for ensuring that all University email communications are received
+and read.
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+In this case, the University provided evidence relevant to service by way of the evidence
+of two witnesses: Alexciya Blair (“Ms. Blair”), a Legal Assistant at the law firm of Paliare
+Roland Rosenberg Rothstein LLP and Andrew Wagg (“Mr. Wagg”), a Manager, Incident
+Response at Information Security, Information Technology Services at the University.
+These two witnesses provided their evidence by affidavit, which were accepted by the
+Panel pursuant to rule 66 of the Rules.
+The contents of the affidavits (without Exhibits) of these two witnesses are set out below:
+a) Evidence of Ms. Blair
+Ms. Blair’s affidavit provides as follows:
+1.
+
+I am a legal assistant at the law firm Paliare Roland Rosenberg Rothstein LLP. I work with
+William Webb, an associate at Paliare Roland, who acts as Assistant Discipline Counsel to
+the University of Toronto. As such, I have knowledge of the matters contained in this
+affidavit. Where I do not have direct knowledge of a matter contained in this affidavit, I
+state the source of my knowledge and I believe it to be true.
+
+A.
+
+The Dean’s Office
+
+2.
+
+The academic integrity team in the Office of the Vice-Principal Academic & Dean (the
+“Dean’s Office”) at the University of Toronto Scarborough (“UTSC”) is responsible for
+investigating allegations of academic misconduct and arranging meetings between students
+and the Dean or Dean’s Designate in accordance with the process set out in the Code of
+Behaviour on Academic Matters (the “Code”).
+
+3.
+
+The Dean’s Office provided our office with a copy of all emails between their office and
+K
+
+H
+
+(the “Student”) about the allegations in this matter. The emails show that their
+
+3
+
+office tried to schedule a meeting between the Student and a Dean’s Designate to discuss
+the allegations in this matter from May 2022 to September 2022, but that the Student did
+not respond. I have attached a copy of these emails to my affidavit as Exhibit A.
+4.
+
+The Dean’s Office provided our office with copies of the Student’s academic record and
+contact information in the Repository of Student Information (“ROSI”), which are current
+as of July 5, 2023. I have attached copies of these documents to my affidavit as Exhibit B.
+
+5.
+
+According to the Student’s academic record, the Student last completed courses at the
+University in Winter 2022.
+
+B.
+
+Charges and Disclosure
+
+6.
+
+On February 2, 2023, the Office of the Vice-Provost, Faculty and Academic Life
+(“VPFAL”) served the charges on the Student by email to their University email address
+and the Gmail account that the Student has listed in ROSI
+
+@gmail.com). I have
+
+attached a copy of this email and the charges to my affidavit as Exhibit C.
+7.
+
+On February 3, 2023, the Office of Appeals, Discipline and Faculty Grievances (the
+“ADFG”) sent the Student a letter about the charges in this matter and a pamphlet for
+Downtown Legal Services. I have attached a copy of this email, letter, and pamphlet to my
+affidavit as Exhibit D.
+
+8.
+
+On February 4, 2023, Mr. Webb emailed the Student to introduce himself and suggest that
+they have a call to discuss the case. Mr. Webb and the Student exchanged several emails
+and set up a meeting for February 5, 2023. I have attached a copy of these emails to my
+affidavit as Exhibit E.
+
+9.
+
+Mr. Webb has advised me that, on February 5, 2023, he met with the Student by Zoom to
+discuss the allegations in this case on a without prejudice basis. Mr. Webb has advised me
+that, during this meeting, he encouraged the Student to retain counsel and informed the
+Student that the matter would proceed to a hearing.
+
+10.
+
+On April 6, 2023, Mr. Webb emailed the Student a disclosure letter and disclosure brief.
+In his email, Mr. Webb stated in part: “Please note that the University expects you to
+monitor and retrieve your emails on a frequent and consistent basis per the University’s
+Policy on Official Correspondence with Students”. Mr. Webb included a hyperlink to this
+
+4
+
+policy in his email to the Student. I have attached a copy of this email and the disclosure
+letter to my affidavit as Exhibit F.
+C.
+
+Hearing Scheduling
+
+11.
+
+On April 21, 2023, Mr. Webb emailed the Student about scheduling a hearing date. Mr.
+Webb stated in full:
+Dear K
+I am writing to schedule a hearing before the University Tribunal in this matter.
+Please let me know any dates that you are unavailable to attend a hearing in
+June, July, and August 2022.
+Please get back to me by no later than May 1, 2023 with your availability. If I
+do not hear from you by then, I will proceed to schedule the hearing. You will
+receive a notice of hearing confirming the date and time of the hearing once it
+has been scheduled. Please note that if you do not attend the hearing once
+scheduled, the hearing may take place in your absence without further notice
+to you.
+Regards,
+Will
+[Emphasis in Original]
+
+12.
+
+On April 30, 2023, at 10:44 am, the Student responded to Mr. Webb by stating in part:
+“June is difficult because I am not currently in Canada. However, from the end of July to
+the middle of August, it is always possible. Thank you.”
+
+13.
+
+On April 30, 2023, at 10:57 am, Mr. Webb responded to the Student by stating in part:
+“Given your availability, I will request a virtual hearing in late July. You will receive a
+notice of hearing confirming the date and time of the hearing. If you do not attend the
+hearing once scheduled, the hearing may proceed in your absence without further notice to
+you. I understand that you intend to represent yourself at the hearing. If you retain a lawyer,
+please let me know.” Mr. Webb sent this email to the Student’s Gmail account
+(
+
+@gmail.com) and her utoronto account (k
+
+h @mail.utoronto.ca). I have
+
+attached a copy of the emails between Mr. Webb and the Student about scheduling a
+hearing to my affidavit as Exhibit G.
+
+5
+
+14.
+
+On April 30, 2023, at 11:03 am, Mr. Webb emailed the ADFG to schedule a hearing for
+July 24, 2023, at 1:45 pm Toronto Time. The Student’s Gmail account and her utoronto
+account were copied on this email.
+
+15.
+
+On May 1, 2023, the ADFG issued a Notice of Electronic Hearing to take place via zoom
+on July 24, 2023, at 1:45 pm EST. The email was sent to the Student’s Gmail account and
+the Student’s utoronto account. I have attached a copy of this email thread and the Notice
+of Electronic Hearing to my affidavit as Exhibit H.
+
+16.
+
+On July 10, 2023, Mr. Webb emailed the Student a copy of the Affidavit of R. Allen and
+stated that the University intended to rely on the affidavit. A copy of this email is attached
+to my affidavit as part of the email thread at Exhibit F.
+
+D.
+
+SWS Activity Log
+
+17.
+
+The Accessible Campus Online Resource Network (“ACORN”) is a web-based tool that
+stores students’ academic, personal, and financial records. Students can view their records
+and update their contact information in ACORN. To access their ACORN account, students
+need to input their UTORid and the password for that account. Students’ activity in
+ACORN is recorded in a Student Web Services Activity Log (“SWS Activity Log”).
+
+18.
+
+On July 17, 2023, the Dean’s Office provided our office with a copy of the Student’s SWS
+Activity Log, which is current as of July 17, 2023. I have attached a copy of the Student’s
+SWS Activity Log to my affidavit as Exhibit I.
+
+19.
+
+According to the Student’s SWS Activity Log, someone accessed the Student’s ACORN
+account several times in July 2023 to add and drop courses. Most recently, someone logged
+into the Student’s ACORN account on July 12, 2023.
+
+E.
+
+Further Attempts to Contact the Student
+
+20.
+
+Mr. Webb has advised me that, on July 17, 2023, he called the Student’s cellular number
+listed in ROSI, but he received a message that stated in part: “the cellular number you are
+calling is not assigned.”
+
+6
+
+21.
+
+On July 17 and 20, 2023, Mr. Webb emailed the Student to reminder (sic) her about the
+hearing and request that she confirm her attendance. I have attached a copy of this email
+thread to my affidavit as Exhibit J.
+
+22.
+
+Mr. Webb has advised me that, on July 23, 2023, at 11:30 am and 8:30 pm, he called the
+telephone number that was listed on a transcript order that the Student placed in January
+2022 by using the international pre-fixes for calling South Korea from Canada (011-82).
+On both occasions, he received a message in a language that he did not understand, and
+there was no opportunity to leave a message. I have attached a screen shot of the transcript
+order, which the University’s Registrar’s Office sent to our office, to my affidavit as
+Exhibit K.
+
+23.
+
+To date, our office has not received any further communication from the Student.
+
+b) Evidence of Mr. Wagg
+Mr. Wagg’s affidavit provides as follows:
+1.
+
+I am the Manager, Incident Response at Information Security, Information Technology
+Services at the University of Toronto (the “University”). As such, I have knowledge of the
+matters contained in this affidavit. Where I do not have direct knowledge of a matter
+contained in this affidavit, I state the source of my knowledge and I believe it to be true.
+
+2.
+
+Information Technology Services provides many services to the University, including
+management of the email accounts used by students. To access an email account one needs
+to input both the user’s login id and the password for that account. The Microsoft 365
+Exchange portal automatically records the last time someone accessed a particular
+University-issued email account. This is denoted with the code “LastUserActionTime.”
+The LastUserActionTime log only updates when someone logs in to a University-issued
+email account.
+
+3.
+
+On July 24, 2023, I checked the portal records to determine the last time someone accessed
+the email account k
+
+h @mail.utoronto.ca. To view the LastUserActionTime log, I ran
+
+a PowerShell script.
+4.
+
+I determined that the last time someone accessed this e-mail account was on October 20,
+2022, at 4:16 PM, local Toronto time.
+
+7
+
+c) Further Evidence of Ms. Blair
+Ms. Blair’s further affidavit provides as follows:
+1.
+
+I am a legal assistant at the law firm Paliare Roland Rosenberg Rothstein LLP. I work with
+William Webb, an associate at Paliare Roland, who acts as Assistant Discipline Counsel to
+the University of Toronto. As such, I have knowledge of the matters contained in this
+affidavit. Where I do not have direct knowledge of a matter contained in this affidavit, I
+state the source of my knowledge and I believe it to be true.
+
+A.
+
+The previous hearing
+
+2.
+
+A hearing into the charges that were issued against K
+
+H
+
+(the “Student”) on February
+
+2, 2023, was previously scheduled to take place on July 24, 2023.
+3.
+
+On July 24, 2023, at 11:14 am, Mr. Webb emailed the Office of Appeals, Discipline and
+Faculty Grievances (the “ADFG”), stating that he did not know whether the Student would
+attend the hearing and that the Provost would request that the hearing proceed in her
+absence if she did not attend.
+
+4.
+
+At 11:57 am, the Student emailed Mr. Webb, stating that she apologized for the late reply,
+that she would attend the hearing, and that she “received a confirmation email belatedly
+due to the e-mail's storage space being exceeded”. The Student asked Mr. Webb whether
+there was anything else that she needed for the hearing.
+
+5.
+
+At 12:03 pm, Mr. Webb responded to the Student, stating that she should carefully review
+the information that the ADFG had previously sent to her about the charges and the hearing,
+and that she should carefully review the Provost’s hearing materials that he had previously
+sent to her and the ADFG.
+
+6.
+
+At 1:23 pm, the Student emailed Mr. Webb, stating in part: “I'm asking you just in case.
+Shortly after I arrived in Canada, I couldn't find a good defense. (The law centre in canada)
+In this case, is it okay to proceed today?”
+
+7.
+
+At 1:23 pm, Mr. Webb emailed the Student, stating that they could address the matter as a
+preliminary issue at the hearing.
+
+8
+
+8.
+
+At 1:25 pm, the Student emailed Mr. Webb, stating in full: “Can other hearings be held
+besides today?” I have attached a copy of this email thread between Mr. Webb and the
+Student to my affidavit as Exhibit A.
+
+9.
+
+At 1:41 pm, Mr. Webb emailed the ADFG, stating that the Student emailed him requesting
+an adjournment to retain counsel. Mr. Webb stated that the Provost consented to the
+Student’s adjournment, but was concerned that the Student was trying to delay a hearing
+into the allegations that she forged a transcript. Mr. Webb noted that the ADFG sent the
+Student information about Downtown Legal Services in February 2023, he met with the
+Student by zoom in February 2023 and encouraged her to retain counsel at that time, he
+sent the Student additional information about Downtown Legal Services in April 2023, and
+that the Student had consented to the current hearing date back in May 2023.
+
+10.
+
+At 1:46 pm, the Student responded to Mr. Webb’s email, stating in part: “Thank you to
+care of me that I asked you. So now should I attend Zoom as scheduled?”
+
+11.
+
+At 1:49 pm, Mr. Webb emailed the Student, stating in part: “Please log into the zoom
+hearing. We will address your request for an adjournment.” I have attached a copy of this
+email thread between Mr. Webb and the Student to my affidavit as Exhibit B.
+
+12.
+
+At 2:21 pm, Mr. Webb sent the Student an email that stated in full:
+Dear [Student],
+Please make it a priority to retain a lawyer as soon as possible.
+You may wish to contact Downtown Legal Services, which is a legal clinic
+that is available to University of Toronto students. You can find out more
+information
+about
+Downtown
+Legal
+Services
+here:
+https://downtownlegalservices.ca/. Alternatively, you may wish to retain a feefor-service lawyer. If you would like the contact information of lawyers who
+represent students facing academic integrity charges, please let me know.
+I will contact you in one month to schedule a hearing.
+Please note that the University expects you to monitor and retrieve your emails
+on a frequent and consistent basis per the University’s Policy on Official
+Correspondence with Students. Please note that if I do not hear back from you
+when I contact you in the future, I will request a hearing date without your
+input. You will receive a notice of hearing confirming the date and time of the
+hearing once it has been scheduled. Please note that if you do not attend the
+hearing once scheduled, the hearing may take place in your absence without
+further notice to you.
+
+9
+
+Regards,
+Will
+[Emphasis in original]
+13.
+
+Mr. Webb sent the email to the Student’s Gmail account and the Student’s utoronto
+account. I have attached a copy of this email to my affidavit as Exhibit C.
+
+14.
+
+At 3:25 pm, the ADFG sent the parties a hearing outcome letter that stated in part:
+[…]
+A Tribunal Hearing for your matter proceeded on Monday, July 24, 2023 at
+1:45 p.m. You were in attendance, but unrepresented at the tribunal hearing.
+The matter was presided over by Shaun Laubman (Chair), Professor Joseph
+Clarke (Faculty Panel Member) and Giselle Sami Dalili (Student Panel
+Member).
+The Panel heard submissions from Assistant Discipline Counsel regarding
+your request for an adjournment to retain counsel. Upon consideration, the
+Panel granted an adjournment to a date to be determined. This panel is not
+seized in your matter. Please correspond with Mr. William Webb, Assistant
+Discipline Counsel at william.webb@paliareroland.com, to discuss timing and
+possible dates.
+[…]
+
+15.
+
+The ADFG sent the email and the letter to the Student’s Gmail account and the Student’s
+utoronto account. I have attached a copy of this email and letter to my affidavit as Exhibit
+D.
+
+B.
+
+Scheduling the current hearing
+
+16.
+
+On August 28, 2023, over one month after the initial hearing date, Mr. Webb emailed the
+Student to request that she provide him with an update on whether she had retained counsel
+or whether she intended to represent herself. Mr. Webb sent the email to the Student’s
+Gmail account and the Student’s utoronto account.
+
+17.
+
+On September 11, 2023, the Student responded to Mr. Webb, stating in full:
+Dear, William
+Thank you for your email.
+
+10
+
+Is it possible to schedule the hearing for mid-October?
+I'm trying to defend myself.
+Thank you
+[The Student]
+18.
+
+Later that day, Mr. Webb emailed the Student, stating that he would check in with the
+University’s witnesses to see whether they were available for a hearing in mid-October and
+that he would get back to the Student shortly. Mr. Webb sent the email to the Student’s
+Gmail account and the Student’s utoronto account. I have attached a copy of this email to
+my affidavit as Exhibit E.
+
+19.
+
+Later that day, Mr. Webb emailed the ADFG, stating in part: “[The Student] has informed
+me that she would prefer a hearing take place in mid-October 2023. I am therefore writing
+to request that a hearing be scheduled for October 19, 2023 at 9:45 am.” Mr. Webb sent
+the email to the Student’s Gmail account and the Student’s utoronto account. I have
+attached a copy of this email to my affidavit as Exhibit F.
+
+20.
+
+On September 13, 2023, the ADFG issued a Notice of Virtual Hearing to take place on
+October 19, 2023, at 9:45 a.m. (EST), via Zoom. The ADFG sent the email and the Notice
+of Virtual Hearing to the Student’s Gmail account and the Student’s utoronto account. I
+have attached a copy of this email thread and the Notice of Virtual Hearing to my affidavit
+as Exhibit G.
+
+C.
+
+The Student’s online activity
+
+21.
+
+Acorn is a web-based tool that stores University of Toronto students’ academic, personal,
+and financial records. Students can update their contact information in Acorn. To access
+their Acorn account, students need to input their UTORid and the password for that
+account.
+
+22.
+
+The Student Web Services Activity Log for the Student, dated October 16, 2023, shows
+that the last time that someone accessed the Student’s Acorn account was on September
+25, 2023. I have attached a copy of the Student’s Student Web Services Activity Log to
+my affidavit as Exhibit H.
+
+11
+
+23.
+
+On October 16, 2023, Mr. Webb emailed Andrew Wagg, Manager, Incident Response at
+Information Security, Information Technology Services, University of Toronto, to request
+information about the last time that someone checked the Student’s utoronto account. Later
+that day, Mr. Wagg informed Mr. Webb that the Last User Action Time timestamp for the
+Student’s utoronto account was on October 20, 2022 at 4:16 pm. I have attached a copy of
+this email to my affidavit as Exhibit I.
+
+24.
+
+I have attached a copy of the Student’s academic record, which is current as of October 16,
+2023, to my affidavit as Exhibit J.
+
+D.
+
+Further attempts to contact the Student
+
+25.
+
+On October 16, 2023, Mr. Webb emailed the Student to reminder (sic) her that a hearing
+had been scheduled for October 19, 2023, at 9:45 a.m. (EST) via Zoom. Mr. Webb asked
+Ms. H
+
+to confirm whether she planned to attend the hearing. Mr. Webb sent the email to
+
+the Student’s Gmail account and the Student’s utoronto account. I have attached a copy of
+this email to my affidavit as Exhibit K.
+26.
+
+Mr. Webb has advised me that, on October 18, 2023, at approximately 10:45 am, he called
+the Student’s cellular number listed in the Repository of Student Information (“ROSI”),
+but he received a message that stated in part: “the number you are calling is unavailable”.
+I have attached a copy of the Student’s contact information, which is current as of October
+18, 2023, in ROSI to my affidavit as Exhibit L.
+
+27.
+
+Mr. Webb has advised me that, on October 18, 2023, at approximately 10:55 am, he called
+the telephone number that was listed on a transcript order that the Student placed in January
+2022 by using the international pre-fixes for calling South Korea from Canada (011-82).
+Mr. Webb has advised me that he received a message that stated in part, “the number you
+have dialed is not in the directory.”
+
+28.
+
+There are no other telephone numbers for the Student listed in ROSI.
+
+29.
+
+To date, our office has not received any further communication from the Student.
+
+The evidence establishes that the Student was aware that October 19, 2023 had been chosen
+as the date for the hearing. The University then did everything it could reasonably have
+done to contact the Student and did take the steps it was required to under the Rules.
+12
+
+Accordingly, the Panel was satisfied it was more likely than not that the Student had made
+a deliberate choice to avoid and turn her back on any official communications from the
+University and not to attend the hearing. That choice has consequences.
+Therefore, in light of the evidence and the submissions of Assistant Discipline Counsel,
+the Panel was satisfied that the Student had been given reasonable notice of the time, date
+and place of the hearing and of the fact that it may proceed in her absence if she did not
+attend it, in compliance with the notice requirements of the SPPA and the Rules.
+Accordingly, the Panel decided to hear the case on its merits in the absence of the Student.
+Charges and Particulars
+The charges alleged against the Student as filed by the Provost on February 2, 2023 are as
+follows:
+1.
+
+You knowingly forged or in any other way altered or falsified an academic record, and/or
+uttered, circulated or made use of such forged, altered or falsified record, namely, a
+document that purported to be a Transcript of Consolidated Academic Record from the
+University of Toronto Scarborough, dated January 10, 2022, contrary to section B.I.3(a) of
+the Code.
+
+2.
+
+In the alternative, you knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in order to
+obtain academic credit or other academic advantage of any kind, in connection with a
+document that purported to be a Transcript of Consolidated Academic Record from the
+University of Toronto Scarborough, dated January 10, 2022, contrary to Section B.I.3(b)
+of the Code.
+
+The particulars related to charges 1 and 2 are as follows:
+1.
+
+At all material times, you were a student at the University of Toronto Scarborough.
+
+2.
+
+On or before January 13, 2022, you knowingly forged or in any other way altered or
+falsified a Transcript of Consolidated Academic Record from the University of Toronto
+Scarborough, dated January 10, 2022 (the “Purported Transcript”).
+
+13
+
+3.
+
+On or before January 13, 2022, you knowingly uttered, circulated or made use of the
+Purported Transcript to First Advantage Korea, a company that provides background
+screening services to employers, or to a prospective or current employer, or to others.
+
+4.
+
+The Purported Transcript falsely represented your academic record in several ways,
+including your grades, marks, courses, session grade point averages, annual grade point
+averages, and/or cumulative grade point average.
+
+5.
+
+You knew or ought to have known that the Purported Transcript document was forged,
+altered, or falsified and misrepresented your true academic history when you uttered,
+circulated or made use of it.
+
+6.
+
+You had an obligation to provide accurate and truthful information and not to misrepresent
+your academic record.
+
+7.
+
+You knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with the Purported Transcript.
+
+Assistant Discipline Counsel advised the Panel that if a finding was made for Charge 1, the
+Provost would then withdraw Charge 2.
+The Student’s Position
+Given that the Student was not present nor represented, she was deemed to have denied the
+charges. As a result, the hearing proceeded on the basis that the University bore the burden
+of proving the charges on the balance of probabilities.
+Overview
+In addition to the previously identified affidavits, the University tendered the evidence of
+one witness, Rachelle Allen (“Ms. Allen”), a Service Coordinator, Transcripts, in the
+Registrar’s Office at the University, who provided her evidence by affidavit, which was
+accepted by the Panel pursuant to rule 66 of the Rules.
+After careful deliberation, and having considered all the evidence, the Panel found that on
+the balance of probabilities the evidence was sufficiently clear, cogent and convincing to
+14
+
+discharge the burden of proof on the University and found that the Student had committed
+academic misconduct.
+The Evidence
+The contents of the affidavit (without Exhibits) of the one witness is set out below:
+a) Evidence of Ms. Allen
+Ms. Allen’s affidavit provides as follows:
+1.
+
+I have worked as the Service Coordinator, Transcripts, in the University Registrar’s Office
+(the “Registrar’s Office”) at the University of Toronto (the “University”) since March
+2023. I previously worked as a Transcript Clerk in the Faculty of Arts and Science at the
+University from 2009 to 2011, a Transcript Courier Liaison in the Faculty of Arts and
+Science at the University from 2011 to 2018, and a Transcript Courier Liaison in Enrolment
+Services at the University from 2018 to March 2023. As such, I have personal knowledge
+of the matters set out in this affidavit. Where I do not have personal knowledge of a matter,
+I state the source of my information and I believe it to be true.
+
+A.
+
+The Registrar’s Office
+
+2.
+
+The Registrar’s Office oversees financial aid and awards, student accounts, client services,
+transcripts, and student systems. The Transcript Services Office is part of the Registrar’s
+Office. The Transcript Services Office provides support to students upon their request,
+including issuing official transcripts. The Transcript Services Office often receives
+requests from other academic institutions and employment agencies seeking to verify a
+student’s academic record. Other institutions or agencies often ask us to confirm the
+accuracy of a transcript, or to confirm the authenticity of the degree information noted in
+the transcript presented by a student as proof that the student graduated from the University.
+
+3.
+
+The University offers an official electronic transcript (an “eTranscript”) in a Portable
+Document Format (“PDF”) format. The eTranscript is securely transmitted to recipients
+via the University’s eTranscript vendor, Parchment Inc. (“Parchment”), and is certified
+with a digital signature.
+
+15
+
+4.
+
+Parchment is a digital credential service, allowing learners, academic institutions, and
+employers to request, verify, and share credentials in simple and secure ways.
+
+5.
+
+Students may submit eTranscript requests through the online University of Toronto
+Parchment Storefront. Students must specify a recipient to whom they want the eTranscript
+sent. After students submit their order online, the University processes their request.
+
+6.
+
+Recipients of the eTranscript receive an email from Parchment on behalf of the University
+when the transcript is ready for download. eTranscripts sent on behalf of the University
+from Parchment come from the email address, noreply@parchment.com, with the subject
+line, “University of Toronto : Parchment Send Service : Document #”. Recipients have 20
+calendar days to access the transcript using the secure download link provided in the email.
+Students are required to place a new eTranscript order if the secure download link expires
+before the eTranscript is downloaded by the recipient.
+
+7.
+
+The eTranscript is only official when the document displays an encoded security feature
+called the “blue ribbon seal” that declares the document was certified by Parchment Inc.
+
+B.
+
+Academic History
+
+8.
+
+K
+
+H
+
+(the “Student”) first enrolled at the University of Toronto Scarborough
+
+(“UTSC”) in Fall 2019. The Student has 2.00 credits and a CGPA of 1.52. I have attached
+a true copy of the Student’s transcript (the “True Transcript”), dated February 9, 2023, to
+my affidavit as Exhibit A.
+9.
+
+The Repository of Student Information (“ROSI”) contains a record of the Student’s
+complete enrolment history, which lists every course to which the Student has applied,
+every course in which the Student has been enrolled, and every course from which the
+Student has withdrawn. University employees can export a copy of a student’s complete
+enrolment history from ROSI into an Excel file. I have attached a PDF copy of the
+Student’s complete enrolment history that was exported from ROSI into an Excel file on
+July 6, 2023 to my affidavit as Exhibit B.
+
+10.
+
+The “Activity Date” column in the Student’s complete enrolment history shows the date
+on which a user updated the Student’s enrolment history.
+
+16
+
+11.
+
+The “Activity Status” column in the Student’s complete enrolment history contains the
+following codes:
+(a)
+
+APP: Request approved. Student is enrolled in course.
+
+(b)
+
+REF: Request denied. Student is not enrolled and may not make another request
+for this course via the web during this session.
+
+(c)
+
+CAN: Course cancelled (student withdrew from course before deadline).
+
+(d)
+
+WAIT: No room in the meeting section. Student has been placed on a waiting list
+based on category and will be enrolled automatically if space becomes available.
+
+(e)
+12.
+
+DWAIT: Student has cancelled place on the waiting list or been removed.
+
+The “Updated USERID” column shows who updated the enrolment activity. The code
+“SWS” means that the enrolment activity was updated by a user who was logged into the
+Student’s Student Web Services account, which is called ACORN.
+
+13.
+
+The “Session Code” column shows the year and semester of the course in terms of a fivedigit number. The first four digits refer to the year and the fifth digit refers to the semester
+(1 = Winter, 5 = Summer, and 9 = Fall).
+
+C.
+
+The Transcript Order and Verification Request
+
+14.
+
+On January 10, 2022, at 8:41 p.m. Eastern Standard Time, the Student ordered an
+eTranscript via Parchment to the email address
+
+@gmail.com. The Student paid
+
+$15 for the eTranscript. I have attached a screen shot of the Student’s parchment order to
+my affidavit as Exhibit C.
+15.
+
+@gmail.com is listed as the Student’s email address in ROSI. I have attached a
+copy of the Student’s Email Address page in ROSI to my affidavit as Exhibit D.
+
+16.
+
+On January 12, 2022, First Advantage Korea sent the Registrar’s Office a request to verify
+the Student’s enrolment. First Advantage Korea sent the Registrar’s Office three
+documents:
+
+17
+
+(a)
+
+A Request for Verification of Enrolment form in which First Advantage Korea
+requested verification of the Student’s enrolment at the University;
+
+(b)
+
+A consent form that was signed by the Student that gave First Advantage Korea
+permission to conduct a records check; and
+
+(c)
+
+A copy of the Student’s Transcript of Consolidated Academic Record that states it
+was issued to the Student on January 10, 2022 (the “Purported Transcript”). I
+have attached a copy of the emails between First Advantage Korea and the
+Registrar’s Office and these three attachments to my affidavit at Exhibit E.
+
+17.
+
+The Request for Verification form states that First Advantage Korea offers pre and post
+employment screening services to give their clients an accurate assessment of a job
+applicant’s track record and background, and that First Advantage Korea’s clients include
+multinational corporations, investment and retail banks, technology companies, business
+advisors, law firms and governments.
+
+18.
+
+Later that month, Sana Kawar, former Manager of the Transcript Centre, emailed First
+Advantage Korea that the Purported Transcript was not a true copy of the Student’s
+academic achievement at the University of Toronto.
+
+19.
+
+Ms. Kawar has since retired from the University.
+
+D.
+
+The Purported Transcript Contains Inaccurate Academic Information
+
+20.
+
+The Purported Transcript contains information that does not accurately reflect the Student’s
+academic record at the University of Toronto. I have attached a copy of a chart that
+compares the Student’s True Transcript to the Purported Transcript to my affidavit at
+Exhibit F.
+
+21.
+
+The Purported Transcript states that many of the Student’s grades, marks, and grade point
+averages (“GPAs”) are higher than what she actually received, and that she earned more
+credits than what she actually earned. For example:
+(a)
+
+The Purported Transcript states that the Student’s grades and marks are higher in
+every course than what she actually received (except EESA06H3: Introduction to
+Planet Earth and NEW280Y1: Introductory Swahili).
+
+18
+
+(b)
+
+The Purported Transcript states that the Student’s sessional GPAs, annual GPAs,
+and cumulative GPAs are higher than what she actually received (except for the
+Student’s Winter 2020 sessional GPA). The Purported Transcript does not contain
+an annual GPA or a cumulative GPA for Winter 2020, whereas the True Transcript
+contains both.
+
+(c)
+
+The Purported Transcript states that the Student earned more credits in Fall 2019,
+Summer 2020, Winter 2021, and Fall 2021 than what she actually earned.
+
+22.
+
+The Purported Transcript contains information about the Student’s history in the Winter
+2021 semester that is inaccurate. For example:
+(a)
+
+The Purported Transcript incorrectly states that the Student completed the course
+“MGEA02H3: Introduction to Macroeconomics” in Winter 2021. The Student did
+not complete this course in Winter 2021. According to the True Transcript,
+“MGTA02H3: Managing the Business Organization” was the only course that the
+Student finished in Winter 2021 (the Student obtained a failing grade in this
+course).
+
+(b)
+
+The course codes and names on the Purported Transcript for the Winter 2021 term
+are incorrect. The UTSC Calendar lists all of UTSC’s course offerings for each
+academic year. The calendar contains the correct course names and codes for each
+academic year. The 2020-2021 Calendar states that “MGEA02H3” was the course
+code for “Introduction to Microeconomics: A Mathematical Approach”, and that
+“MGEA05H3” was the course code for “Introduction to Macroeconomics”. I have
+attached excerpts from the UTSC 2020-2021 Calendar to my affidavit as Exhibit
+G.
+
+(c)
+
+According to ROSI, the Student has never been enrolled in the Winter 2021 session
+of MGEA02H3. The Student has been enrolled in several different sessions of this
+course (Fall 2019, Summer 2020, Fall 2020, and Fall 2021), but never the Winter
+2021 session of this course. According to the True Transcript, the Student has
+never completed this course.
+
+(d)
+
+According to ROSI, the Student has never been enrolled in MGEA05H3.
+
+19
+
+23.
+
+The Purported Transcript states that the Student completed five courses in Fall 2021 that
+she did not complete that semester. In particular:
+(a)
+
+ENGA11H3: Literature and Film for Our Time: Dawn of the Digital: the Purported
+Transcript states that the Student completed this course in Fall 2021 and received
+a mark of “73” and a grade of “B”, whereas the True Transcript states that the
+Student completed this course in Winter 2022 and received a mark of “40” and a
+grade of “F”. The Purported Transcript states that the course average was a “B+”,
+whereas the True Transcript states that the course average was a “B”. When the
+Student ordered the transcript in January 2022, there was no reported course
+average because the course had not yet concluded.
+
+(b)
+
+ENGB74H3: The Body in Literature and Film: according to ROSI, the Student was
+enrolled in the Winter 2022 session of ENGB74H3 for a brief period of time before
+she withdrew on in March 2022, but she has never been enrolled in the Fall 2021
+session of this course. According to the True Transcript, the Student has never
+completed this course.
+
+(c)
+
+MGEA06H3: Introduction to Macroeconomics: A Mathematical Approach:
+according to ROSI, the Student enrolled in this course in several different sessions
+(Winter 2020, Winter 2021, Summer 2021, Winter 2022, and Winter 2023), but
+she has never been enrolled in this course in the Fall 2021 session. According to
+the True Transcript, the Student has never completed this course.
+
+(d)
+
+MGTA06H3: Introduction to Business II:
+(i)
+
+The Purported Transcript incorrectly states that “MGTA06H3” is the
+course code for “Introduction to Business II”. The UTSC 2021-2022
+Calendar lists all of UTSC’s course offerings for the academic year from
+Fall 2021 to Summer 2022. According to the UTSC 2021-2022 Calendar,
+UTSC did not offer any courses with this code or name in the 2021-2022
+academic year. I have attached a copy of the UTSC 2021-2022 Calendar
+to my affidavit as Exhibit H.
+
+20
+
+(ii)
+
+I have reviewed every UTSC Calendar from 2018-2019 to 2022- 2023.1
+The last time that UTSC offered the course “MGTA06H3” was in the
+2018-2019 academic year, but the course was called “Introduction to
+Health Management”, not “Introduction to Business II”. I have attached
+excerpts from the UTSC 2018-2019 Calendar to my affidavit as Exhibit
+I.
+
+(iii)
+
+According to ROSI, the Student has never enrolled in a course with the
+course code “MGTA06H3”.
+
+(iv)
+
+According to the True Transcript, the Student has never completed a
+course with the code “MGTA06H3”, the name “Introduction to Health
+Management”, or the name “Introduction to Business II”.
+
+(e)
+
+MGTA33H3: Managing the Business Organization II: according to ROSI, the
+Student has never been enrolled in this course. According to the True Transcript,
+the Student has never completed this course. According to the University of
+Toronto Scarborough 2021-2022 Calendar, the University of Toronto Scarborough
+did not offer any course with this code or name in the 2021-2022 academic year.
+
+This concluded the University’s evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that the evidence of Ms. Allen, supports a finding
+on the balance of probabilities that the Student committed the academic offences as alleged.
+In that regard, it was submitted that the evidence in its totality demonstrated that the Student
+forged, altered or falsified and circulated a document that purported to be a Transcript of
+Consolidated Academic Record from the University.
+
+1
+
+The calendars are all available online at https://utsc.calendar.utoronto.ca/calendar-pdfs.
+
+21
+
+Standard of Proof
+The onus is on the University to establish, based upon clear and convincing evidence on a
+balance of probabilities, that the academic offences charged have been committed.
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University, the Student was
+found guilty of:
+(a)
+
+One count of knowingly forging or in any other way altering or falsifying an academic
+record, or uttering, circulating or making use of such forged, altered or falsified record,
+contrary to section B.I.3(a) of the Code.
+
+Given this finding, the University withdrew Charge 2.
+Reasons for Decision
+The Panel accepted the unchallenged evidence of Ms. Allen, finding that her evidence was
+credible and reliable.
+The evidence of Ms. Allen clearly demonstrated that the Purported Transcript contained
+information that did not accurately reflect the Student’s academic record at the University.
+The evidence also clearly established that the Student knowingly forged, altered or falsified
+and circulated a document that purported to be the Student’s Transcript of Consolidated
+Academic Record dated January 10, 2022 from the University.
+As such, the Panel was satisfied on the balance of probabilities that the Student committed
+the academic offence of knowingly forging or in any other way altering or falsifying an
+academic record, or uttering, circulating or making use of such forged, altered or falsified
+record, contrary to section B.I.3(a) of the Code as alleged in Charge 1 filed by the Provost
+on February 2, 2023.
+
+22
+
+Sanction
+The University’s Evidence
+The University had no further evidence.
+The University’s Submissions
+The University provided the Panel with a Book of Authorities containing a number of prior
+decisions of this Tribunal and a chart summarizing them.
+Counsel for the University submitted that the proper sanctions to be imposed on the Student
+should be:
+(a)
+
+an immediate suspension from the University for a period of up to five years from
+the date of this order or until Governing Council makes its decision on expulsion,
+whichever comes first, and that a corresponding notation be placed on the Student’s
+academic record and transcript;
+
+(b)
+
+a recommendation to the President of the University that the President recommend
+to the Governing Council that the Student be expelled from the University; and
+
+(c)
+
+that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+Assistant Discipline Counsel reviewed with the Panel the chart summarizing the sanctions
+which have been given to students by this Tribunal in prior similar cases.
+Assistant Discipline Counsel then reviewed with the Panel the principles relative to
+sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/77-3,
+November 5, 1976) (“Mr. C.”), namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of a repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+23
+
+(d)
+
+Any extenuating circumstances;
+
+(e)
+
+The detriment to the University caused by the misconduct; and
+
+(f)
+
+The need for general deterrence.
+
+In this regard, Assistant Discipline Counsel submitted that as the Student did not attend the
+hearing there is no evidence of remorse or insight or whether the Student has taken
+responsibility and learned from her mistakes consequently, there is no evidence as to her
+character or any extenuating circumstances and so that is a neutral factor.
+Further, with respect to the Student’s character, there is no evidence from the Student and
+as a result there is little information on this.
+With respect to likelihood of repetition, Assistant Discipline Counsel noted that the Student
+did not have any prior discipline history, but that there was a strong likelihood of repetition
+of the conduct given that she had in this case falsified and forged her Transcript of
+Consolidated Academic Record. This suggests that there is a likelihood of repetition of the
+conduct by the Student.
+With respect to the nature of the offence, it was submitted that knowingly altering and
+forging an academic record is a serious form of academic misconduct.
+With respect to mitigation, as the Student did not attend the hearing there was no evidence
+from her and so there is no evidence with respect to mitigation before the Panel, apart from
+the fact that she had no prior academic misconduct.
+With respect to the detriment to the University, and to deterrence, Assistant Discipline
+Counsel submitted that it is important that students be deterred from creating false
+academic records. Academic integrity is seriously undermined by falsifying academic
+records and there is significant detriment to the University as these type of documents are
+relied upon by third parties and therefore this conduct needs to be deterred.
+Assistant Discipline Counsel reviewed with the Panel comparisons between the True
+Transcript and the Purported Transcript in this case and how the Purported Transcript had
+
+24
+
+been altered and forged by the Student. The Student’s conduct in this regard shows why
+deterrence is equally applicable to detriment to the University in this case.
+The Student in this case altered and forged an academic record in order to obtain pre and
+post-employment screening services and is consistent with other cases from this Tribunal
+which have found that those circumstances require expulsion as the Student’s conduct was
+egregious.
+In the submission of Assistant Discipline Counsel, where the Student has engaged in
+conduct such as this including forgery, expulsion can only be avoided by significant
+mitigating factors, but none are present here and therefore the appropriate sanction is to
+recommend expulsion.
+Assistant Discipline Counsel also reviewed with the Panel the chart of prior decisions and
+reviewed in detail several of those prior decisions of the Tribunal to demonstrate that the
+proposed penalty was consistent with decisions of this Tribunal in similar circumstances.
+Sanction Decision
+After deliberations, the Panel ordered that the following sanctions shall be imposed on the
+Student:
+(a)
+
+an immediate suspension from the University for a period of up to five years from
+the date of this order or until Governing Council makes its decision on expulsion,
+whichever comes first, and that a corresponding notation be placed on the Student’s
+academic record and transcript;
+
+(b)
+
+a recommendation to the President of the University that the President recommend
+to the Governing Council that the Student be expelled from the University; and
+
+(c)
+
+that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+An Order was signed at the hearing by the Panel to this effect.
+
+25
+
+Reasons for Sanction
+The Panel considered the submissions of Assistant Discipline Counsel and the factors and
+principles relevant to sanction in Mr. C, supra, as set out above.
+In addition to these factors, the Panel considered the chart of prior decisions and the other
+decisions of this Tribunal involving similar misconduct as contained in the University’s
+Book of Authorities and the sanctions imposed. However, the Panel remained cognizant of
+the fact that no two cases are identical and that it is not bound by past decisions of this
+Tribunal. However, the Tribunal does try to develop a consistent body of cases so that
+students are treated fairly and consistently in similar circumstances.
+By knowingly altering and forging an academic record, the Student broke the honour code
+that is essential to modern learning.
+Students must understand that this kind of misconduct will have serious repercussions so
+that they will be dissuaded from the temptation to consider falsifying an academic record.
+The Panel accepted the University’s submission that by knowingly altering and forging an
+academic record, the Student committed a serious form of academic misconduct.
+The Student committed the offences knowingly and deliberately, not through carelessness
+or inadvertence. The offences were the result of the Student’s calculated conduct.
+In different ways, the University is vulnerable to, and suffers detriment from, the forgery
+offences that the Student committed here particularly as the forgery was directed towards
+a third party in the University’s name.
+As this Tribunal held in the University of Toronto and M.K. (Case No. 491, November 5,
+2008), at para. 43, “such conduct will and must meet with the most severe reaction when
+uncovered.”
+This factor weighs heavily in favour of a recommendation of expulsion.
+The need to deter others from committing similar offences also weighs heavily in the
+circumstances of this case. In the Tribunal’s view, a strong message must be conveyed to
+26
+
+the University community that serious offences such as these will not be tolerated, and that
+those who commit them will face serious sanctions.
+It is critical for the University that students be dissuaded from committing forgery. Forgery
+is often difficult to detect, thus requiring a strong deterrent when it is discovered.
+The Panel is persuaded that a severe sanction is required where a student is guilty of forgery
+to deter others who may contemplate similar misconduct.
+This factor also weighs in favour of a recommendation of expulsion.
+Forgery is among the most serious academic offences. The usual penalty is a
+recommendation of expulsion, although in some cases a five-year suspension has been
+imposed. As the Tribunal observed in the University of Toronto and M.S. (Case No. 498,
+February 3, 2010), at para. 30, “it is clear that forgery is treated as one of the most serious
+offences in the University environment and most cases result in expulsion.”
+Where forgery has been found, a student normally only avoids a recommendation of
+expulsion where there are significant mitigating factors, or where there is a joint
+recommendation on sanction, or both. There is no joint recommendation on sanction here,
+and as discussed above, no real mitigating circumstances, which in our view, outweigh the
+effect of the other factors here. See the University of Toronto and L.M. (Case No. 808,
+February 1, 2016), at paras. 78-79.
+In the circumstances, the Tribunal’s view is that the factors heavily weigh in favour of
+expulsion. The seriousness of the offences and the need for deterrence are particularly
+compelling in this case.
+Accordingly, the Tribunal finds that a recommendation that the Student be expelled (along
+with the additional terms sought by the University) is the appropriate sanction.
+
+27
+
+Dated at Toronto, this 15th day of January 2024
+Original signed by:
+______________________________________
+Christopher Wirth, Chair
+On behalf of the Panel
+
+28
+
+

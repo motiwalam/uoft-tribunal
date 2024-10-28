@@ -1,0 +1,503 @@
+Case No.: 933
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on May 5, 2017.
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto, Act, 1971, S.O. 1971, c. 56 as amended
+
+5.0. 1978, C. 88.
+
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+- and-
+
+REASONS FOR DECISION
+Date of Hearing: July 11, 2017
+Members of the Panel:
+
+Mr. Michael Hines, Barrister and Solicitor, Chair
+Professor Dionne Aleman, Panel Member
+Mr. Harvey Lim, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Barristers
+Mr. Thomas MacKay, Director, Faculty Governance & Curriculum Services, Faculty of
+Arts and Science
+In Attendance:
+Ms. Tracey Gameiro, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Ms. Breese Davies, (Newly Appointed Co-Chair of the University Tribunal), Observer
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+
+Not in Attendance:
+Mr. ~ ~ ( t h e "Student")
+
+-2-
+
+Charges and Hearing
+
+This panel of the University Tribunal held a hearing on July 11, 2017 to consider the
+~~ brought by the University of Toronto (the "University'') a g a i n s t ~
+~("the Student") under the Code of Behaviour on Academic Matters, 1995. ·
+Procedural Issues
+
+1.
+
+The Student was charged with the Offences set out in Appendix A, attached.
+Essentially, they relate to the alleged falsification of two academic transcripts
+purportedly issued by the University, as well as another academic record, namely
+a resume, concerning the Student. One transcript and the resume were
+allegedly used by the Student in an attempt to gain admission to a work-study
+programme offered by the University. The second transcript was allegedly
+submitted by the Student in support of an application for a summer research
+program.
+
+2.
+
+The Student did not appear at the hearing. The University requested an Order
+that the Hearing proceed in his absence, relying on the fact that the Student had
+signed an Agreed Statement of Facts ("ASF") and a Joint Submission on Penalty
+("JSP"). Discipline Counsel advised the Panel that she had spoken personally
+with the Student who had confirmed to her that he appreciated the gravity of the
+charges and the contemplated penalty, and that he was content for the hearing to
+proceed in his absence.
+
+3.
+
+Accordingly and on this basis, the Tribunal granted the requested Order. That
+Order is hereby confirmed.
+
+Evidence and Findings
+
+4.
+
+The University then led its evidence through the ASF, the contents of which are
+set out below. Where documents are referred to in the ASF, they are not
+reproduced in this Decision. However, the Panel reviewed the documents in the
+course of the Hearing to be satisfied that they supported the allegations about
+them agreed to in the ASF. The following facts were established to the Tribunal's
+satisfaction. The material portions of the ASF read as follows::
+(a)
+
+The Student first registered at the University of Toronto in the Faculty of
+Arts & Science in Fall 2013. In February, 2017 the Student had earned a
+total of 13.5 academic credits, with a cumulative grade point average
+(CGPA) of 2.42.
+
+{b)
+
+On or around May 17, 2016, the Student applied for a summer position as
+an Astronomy Research Assistant for Summer 2016 with the Department
+of Astronomy ("Summer Position"). In support of his application the
+Student submitted the following documentation to Professor John Percy:
+
+-3-
+
+(i)
+
+letter;
+
+(ii)
+
+resume ("Resume");
+
+(iii)
+
+Complete Academic History dated May 17, 2016 ("Transcript 1").
+
+(c)
+
+The Student's application was not considered for the Summer Position as
+the position had already been filled by the time his application was
+received.
+
+(d)
+
+In July, 2016 Professor Percy's request for a 2016-17 Work Study position
+of Astronomy Research Assistant in the Department of Astronomy was
+approved, and he posted the position as part of the fall/winter Work Study
+Program ( Fall/Winter Position"). Students were paid $11 .40 per hour (as
+of October 1, 2016) plus 4% vacation pay and 10% benefits.
+11
+
+(e)
+
+In or around August or September, 2016, the Student applied for the
+Fall/Winter Position. The Student submitted the same documentation in
+support of his application to the Fall/Winter Position as he had submitted
+for the Summer Position, except that his Summer Position cover letter was
+addressed specifically to Professor Percy, and his Fall/Winter Position
+letter was addressed to "Dear Madam/Sir":
+
+(f)
+
+Professor Percy was the Professor Emeritus supervising the Fall/Winter
+Position. He received 21 applications for the Fall/Winter Position.
+
+(g)
+
+Professor Percy reviewed Transcript 1 submitted by the Student as part of
+his job application which indicated that he had very high marks, all A's,
+with the exception of one B+ and one 8-, and a CGPA over time of
+between 3.85 and 3.69.
+
+(h)
+
+The Student's Resume stated: Currently hold GPA of 3.76".
+
+(i)
+
+Professor Percy interviewed the Student for the Fall/Winter Position on or
+around September 14, 2016, after which the Student was selected for the
+Fall/Winter Position to work with Professor Percy. The Student was paid
+pursuant to the terms of the program for his work.
+
+U)
+
+A copy of the University of Toronto Work Study Program Hiring Form
+dated September 15, 2016 is included in the JBD at Tab 11. Confirmation
+of the Student's approval by the Fall/Winter 2016-17 Work Study program
+dated September 20, 2016, and a description of the terms by which he
+was employed is included in the JBD at Tab 12.
+
+(k)
+
+In January, 2017 the Student asked Professor Percy to write a letter in
+support of his application for the upcoming 2017 Summer Undergraduate
+Research Program. Professor Percy obtained an updated transcript for the
+
+11
+
+-4-
+
+Student from the department's Undergraduate Coordinator so that he
+could review the Student's Fall 2016 marks. ("Transcript 2").
+(I)
+
+Professor Percy reviewed Transcript 2 and noticed fewer "A"s than in
+Transcript 1.
+
+(m)
+
+Professor Percy asked the Student to send him his current transcript. The
+Student provided Professor Percy with an updated transcript by email on
+January 18, 2017 ("Transcript 3"). Transcript 3 was dated January 11,
+2017.
+
+(n)
+
+Professor Percy reviewed Transcript 3 and noticed the same
+discrepancies as in Transcript 1, as well as additional discrepancies for
+the Fall 2016 term which had not been included in Transcript 1.
+
+(o)
+
+Professor Percy compared Transcript 1 and Transcript 3 to Transcript 2
+and determined that most course grades and grade point averages
+(sessional, annual and cumulative) had been inflated in the transcripts
+provided to him by the Student (Transcripts 1 and 3) when compared to
+the transcript obtained from the Undergraduate Coordinator {Transcript 2).
+
+(p)
+
+Professor Percy noticed that Transcript 1 and Transcript 3 had a
+watermark in the bottom right of each page which states: "Edited with Infix
+PDF Editor - free for non-commercial use. To remove this notice, visit:
+www.lceni.com/unlock.htm". The Iceni.com website states: "Your PDF
+has been edited by the demo version of Infix PDF Editor (linfix.htm). The
+demo offers all the features of the software at no costs but adds a
+watermark to all edited pages.,,
+
+(q)
+
+Professor Percy met with the Student on January 18, 2017 to discuss the
+transcripts submitted by the Student. The Student was terminated from
+the Fall/Winter Position in January 2017.
+
+(r)
+
+Professor Percy would not have hired the Student for the Fall/Winter
+Position if the Student had included a legitimate transcript of his marks
+such as shown in Transcript 2 in his application for the Fall/Winter
+Position.
+
+(s)
+
+On February 3, 2017, the Student was formally notified by Donna Wall,
+Director of Financial Aid and Awards for the University of Toronto, that he
+was no longer eligible to participate in the University Work/Study Program,
+that a lifetime ban from the program had been imposed effective
+immediately, and that his 2016-17 Work Study position would not be
+included in his co-curricular record.
+
+(t)
+
+On February 17 1 2017, Professor Don Dewees, Dean's Designate for
+Academic Integrity, sent a letter to the Student to advise him that he had
+received a report alleging that he had committed an academic offence by
+
+-5-
+
+providing a document purporting to be a University transcript in support of
+an application for a 2016-17 Work Study position, and that he had
+committed a further academic offence by providing a second altered or
+falsified University of Toronto transcript in response to a request for a
+current transcript in January, 2017. Professor Dewees asked the Student
+to attend a Dean's meeting to discuss the allegations.
+(u)
+
+The Student attended a meeting with the Dean's Designate on March 9,
+2017. He admits that this meeting took place in a manner consistent with
+the requirements of the Code. At that meeting the Student admitted that
+he forged, falsified and altered his transcript in September 2016 and again
+in January 2017.
+
+(v)
+
+The Student admits that he knowingly provided to Professor Percy two
+forged, falsified and altered transcripts, Transcript 1 and Transcript 3,
+which grossly overstated his academic achievements at the University,
+and which bore no resemblance to his actual transcript, Transcript 2.
+
+(w)
+
+The Student further admits that he knowingly provided false information in
+his Resume by claiming to have a higher CGPA than he had actually
+earned.
+
+(x)
+
+The Student admits that, for the purpose of obtaining a position in the
+2016-17 Work Study Program offered by the University, contrary to
+section B.1.1 (a) and B.l.3(a) of the Code, he knowingly
+
+(y)
+
+5.
+
+(i)
+
+forged, altered and falsified Transcript 1 which purported to be his
+Complete Academic History from the University of Toronto dated
+May 17, 2016;
+
+(ii)
+
+forged, altered and falsified Transcript 3 which purported to be his
+Transcript of Consolidated Academic Record dated January 11,
+2017;
+
+(iii)
+
+falsified his Resume.
+
+The Student acknowledges that:
+(i)
+
+the Provost of the University of Toronto has advised the Student of
+his right to obtain legal counsel and that he has chosen not to
+obtain legal counsel; and
+
+(ii)
+
+he is signing this ASF freely and voluntarily, knowing of the
+potential consequences he faces, and does so without the advice of
+counsel.
+
+Based upon the ASF, the Tribunal enter~d a finding of guilty on Counts 1 and 2
+of the Charges as set out in Appendix A. Those charges relate simply to the
+
+-6-
+
+forgery of academic records. The Tribunal declined to make a finding of guilt in
+respect of Count 3, since it referred to the use of forged documents in August
+2017 in an application to a 11work-study programme", rather than an application
+made in August 2016 to the 112016-17 Work Study Program", as established by
+the ASF. The Panel was of the view, particularly in view of the JSP, that the
+outcome of the case would be the same whether or not a finding of guilt was
+made in respect of Count 3.
+
+Penalty
+
+6.
+
+The University sought a penalty that would include a recommendation from the
+Tribunal that the Student be expelled from the University. This was set out in the
+JSP that was signed by the Student. The concluding paragraph of the JSP reads
+as follows:
+4.
+The Student admits that he is signing this JSP freely and that he
+has been given the opportunity to obtain independent legal advice before
+signing this JSP, and that he has chosen not to obtain legal counsel.
+
+7.
+
+As the Tribunal has stated in many cases, absent exceptional circumstances,
+panels are expected to accept and implement joint statements on penalty. As
+stated recently in the case of K.N. v. University of Toronto (Case No.899, August
+21, 2017), the offences as proven demonstrate the most serious lack of
+academic and personal integrity. The forgery and falsification of records of
+academic achievement and their subsequent use to obtain advantage threaten
+the reputation of the University and the students who pursue their degrees
+honestly and diligently. We see no exceptional circumstances in this case and
+are therefore in agreement with the JSP.
+
+8.
+
+Accordingly, at the conclusion of the hearing, the Panel issued the following
+Order, which is hereby confirmed:
+(a}
+
+THAT the Student is guilty of two counts of knowingly forging, altering, or
+falsifying an academic record, or uttering, circulating, or making use of
+such academic record, contrary to section B.1.3(a} of the Code of
+Behaviour on Academic Matters;
+·
+
+{b}
+
+THAT the Student shall immediately be suspended from the University for
+a period of up to five years;
+·
+
+(c}
+
+THAT The Tribunal recommends to the President of the University that he
+recommend to the Governing Council that the Student be expelled from
+the University;
+
+(d}
+
+THAT a permanent notation shall be placed on the Student's academic
+record and transcript; and
+
+-7-
+
+(e)
+
+AND THAT this case shall be reported to the Provost for publication of a
+notice of the decision of the Tribunal and the sanction or sanctions
+imposed, with the name of the Student withheld.
+
+Dated at Toronto this
+
+Michael Hines, Chair
+
+IP{ day of October, 2017.
+
+APPENDIX A
+
+,_~,
+
+UNIVERSITY OF TORONTO
+
+CHARGES
+Note: Wherever in the Code of Behaviour on Academic Matters, 1995 ("Code") an offence is
+described as depending on "knowing", the offence shall likewise be deemed to have been
+committed if the person ought reasonably to have knowry.
+
+1.
+
+You knowingly forged or in any other way altered or falsified an academic record,
+
+and/or uttered, circulated or made use of such forged,· altered or falsified record, namely,
+a document which purported to be your Complete Academic History from the University
+of Toronto dated May 17, 2016, contrary to section B.l.3(a) of the Code.
+2.
+
+You knowingly forged or in any other way altered or falsified an academic record,
+
+and/or uttered, circulated or made use of such forged, altered or falsified record, namely,
+a document which purported to be your Transcript of Consolidated Academic Record
+dated January 11, 2017, contrary to section B.l.3(a) of the Code.
+3.
+
+You knowingly forged or in any other way altered or falsified an academic record,
+
+and/or uttered, circulated or made use of such forged, altered or falsified record, namely,
+a resume which you submitted as part of your application to a work-study program in
+August, 2017, contrary to section B.l.3(a) of the Code.
+4.
+
+In the alternative to parag~ph 3 above, you knowingly forged or in any other way
+
+altered or falsified a document or evidence required by the University, or uttered,
+circulated or made use of any such forged, altered or falsified document, namely, a
+resume which you submitted as part of your application to a work-study program in
+August, 2017, contrary to section B.1.1 (a) of the Code.
+
+2
+5.
+
+In the alternative to paragraphs 1 through 4 above, you knowingly engaged in a
+
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in order to obtain academic credit or other academic advantage of
+any kind, contrary to section B.l.3(b) of the Code, in connection with:
+(a)
+
+a document which purported to be your Complete Academic History from
+the University of Toronto dated May 17, 2016;
+
+(b)
+
+a document which purported to be your Transcript of Consolidated
+Academic Record dated January 11, 2017;
+
+(c)
+
+a resume which you submitted as part of your application to a work-study
+program in August, 2017.
+
+Particulars of charges
+
+1.
+
+The particulars are as follows:
+(a)
+
+In or about August, 2017, as part of your application to the University for a
+work-study position as a research assistant you provided:
+(i)
+
+a document that purported to be your Complete Academic History
+from the University of Toronto dated as of May 17, 2016; and
+
+(ii)
+
+a resume which claimed that you currently held a cumulative grade
+point average of 3. 76.
+
+(b)
+
+In or about January, 2017, to support an application to the University for a
+summer undergraduate research program, you provided a document that
+
+3
+purported to be your Transcript of Consolidated Academic Record dated
+January 11, 2017.
+(c)
+
+You forged each of the Complete Academic History dated as of May 17,
+2017 and the Transcript of Consolidated Academic Record dated January
+11, 2017 and falsely represented your marks, grades, sessional and annual
+grade point averages, cumulative grade point averages, and academic
+history and status in those documents.
+
+(d)
+
+You included false information about your cumulative grade point average
+on the resume.
+
+(e)
+
+You knew that all of these documents were forged, altered, and/or falsified
+when you circulated them.
+
+(f)
+
+You had an obligation to provide accurate and truthful information and not
+to misrepresent your academic record. You had an obligation not to provide
+forged or falsified documents in support of your application.
+
+

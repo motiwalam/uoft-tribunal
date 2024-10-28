@@ -1,0 +1,544 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on July 5, 2011;
+AND IN THE MATTER OF the University of Toronto Code c?f Behm1iour on Academic
+i\-1atters, 1995;
+AND IN THE MATTER OF the University of Toronto Act, 197 l, S.O. 1971, c. 56 as amended
+s.o. 1978, c. 88
+
+BETWEEN:
+
+THE UNIVERSITY OF TORONTO
+
+- and -
+
+Date of Hearing: Dcccmbet' 19, 2011
+Mcmbe1·s of the Panel:
+Ms Lisa Brownstone, Barrister and Solicitor, Chair
+Dr. Chris Koenig-Woodyard, Faculty Panel Member
+Ms Susan Mazzatto, Student Panel Member
+
+Appearances:
+Mr. Robe1t A. Centa, Assistant Discipline Counsel, Paliare Roland Barristers
+Professor John Carter, Department of Electrical and Computer Engineering
+Professor Timothy Bender, Instructor CHE2 l 3H l S: Organic Chemistry, Department of
+Chemkal Engineering and Applied Chemistry
+Professor Yuri Lawryshyn, Instructor CHE22H l S: Applied Differential Equations, Depru1ment
+of Chemical Engineering and Applied Chemistry
+
+In Attendance:
+Ms Natalie Ramtahal, Coordinator, Appeals, Discipline & Facility Grievances
+Not in Attendance:
+
+~ - ·' the Student
+
+- I-
+
+Preliminary
+
+[I]
+
+The Trial Division of the University Tribunal was convened on December 19, 2011 to
+consider charges under the University of Toronto Code of Behaviour on Academic
+1\1atters, 1995 (the "Code") laid against the student by letter dated July 5, 2011 from
+Professor Edith Hillan, Vice-Provost, Faculty & Academic Life.
+
+[2]
+
+Neither the student nor a representative of the student attended the hearing at the
+scheduled time and place. The Tribunal waited 15 minutes after the scheduled
+commencement of the hearing to allow for the student to appear. The student did not
+advise the University whether he would be attending; in fact, communication from the
+student had ceased in the recent past.
+
+[3]
+
+The University proposed to proceed in the student's absence, and therefore, had the onus
+of satisfying the Tribunal that "reasonable notice" of the hearing had been provided to the
+student under the provisions of the Code and the Statutory Powers Procedure Act
+("SP PA"). Reasonable notice of the hearing must also include a warning to the student
+that if he does not attend at the hearing, the Tribunal may proceed in his absence and the
+student will not be entitled to any further notice in the proceeding (s. 6(3)(b) of the
+SPPA).
+
+[4]
+
+The University filed the Notice of Hearing in this matter dated November 11, 2011 as
+Exhibit 1, and the Charges dated July 5, 2011 were filed and marked as Exhibit 2. The
+University also tendered an email and letter to the student dated July 6, 2011, which
+advised the student that the hearing would occur, and strongly urged the student to
+consider speaking with a legal representative if he had not already done so. The letter
+further advised the student that he had the right to be represented before the University
+Tribunal, and indicated that some students retain Downtown Legal Services to represent
+them at that hearing. Information about Downtown Legal Services, including a contact
+telephone number, was enclosed. Information about obtaining a lawyer through the Law
+Society of Upper Canada's Lawyer Referral Service was also included with the July 6
+material.
+
+[5]
+
+Counsel for the Provost, Mr. Centa, also filed several emails between him and the student
+from the period between July, 2011 and October 21, 2011. Those portions of the emails
+which contained privileged settlement information were redacted. In the emails, the
+student repeatedly responded to Mr. Centa from the student's University of Toronto
+email address. The student was told that Mr. Centa would be requesting a hearing date
+(initially thought to be in September). The student responded to Mr. Centa by email on
+October 8, 2011, after emails from Mr. Centa advising the student "If I do not hear back
+from you, I will ask the Governing Council to set this matter down for hearing in October
+or November" and again "As I have not heard back from you, the Provost will set this
+matter down for hearing. You will be informed of the date of the hearing by email."
+
+-2-
+
+[6]
+
+The Panel was advised that attempts had also been made to leave messages with the
+student, but that these attempts had been unsuccessful.
+
+[7]
+
+It was Mr. Centa's submission that this email correspondence, followed by an email
+setting out the exact date, time and information about the Charges and the hearing,
+constituted reasonable notice and was given to the student in plenty of time. The emails
+were sent to the student to his University of Toronto account, which he had been using to
+correspond with Mr. Centa and others from the University. Counsel also drew to the
+Panel's attention the Policy on Official Correspondence With Students, a policy of the
+University that has been in effect since September, 2006. The policy contains important
+information. It indicates that students are expected to monitor and retrieve their mail,
+including electronic messaging accounts issued to them by the University, on a frequent
+and consistent basis. Further, students have the responsibility to recognize that certain
+communications may be time-critical. Additionally, students have the right to forward
+their account to another email service but remain responsible for ensuring that all
+University electronic message communication sent to the official University issued
+account is received and read.
+
+[8]
+
+In counsel's submissions, the evidence was clear that there had been emails back and
+forth from July 2011, that these emails had been received and read by the student at his
+University of Toronto account 1 that he engaged in correspondence by email at his
+University of Toronto email address until October 8, 2011, and that proceeding to use this
+account to provide notice of the hearing is reasonable notice within the meaning of the
+SPPA. The notice of today's hearing date was given on November 11, 2011. Therefore,
+the University asked the Tribunal to proceed in the student's absence. Counsel pointed
+out that the Notice of Hearing, filed, warns the student that the hearing may take place
+without him.
+
+[9]
+
+The Panel considered the evidence before it and the submissions of counsel. It asked for
+counsel to advise the Panel of the contents of the October 8, 2011 email, the last email
+received from the student, which had been redacted. The Panel was advised that in the
+email, the student told Mr. Centa that he had been without telephone or internet for a
+period of time, and he referred to the completion of a form which related to a potential
+settlement. The student advised that once he got a scanner, he would attempt to sign and
+return the form to Mr. Centa.
+
+[IO]
+
+Considering all of the evidence before it, including the student's obligations clearly set
+out in the Policy referred to above, and the fact that the student was engaging in
+correspondence from his University email address about this hearing, the Panel
+concluded that the notice requirements in the SPPA were met and that the student had
+been given reasonable notice of the hearing. Therefore, the Panel agreed to proceed to
+hear the case on its merits. Students cannot avoid this Panel's processes by suddenly
+"going silent" on their University issued email accounts.
+
+-3-
+
+Hearing on the Merit
+
+[ 11]
+
+[12]
+
+The charges facing the student were the following:
+(1)
+
+In early March 20 I I, you knowingly possessed an unauthorized aid, or obtained
+unauthorized assistance in a term test in CHE 222, contrary to section B.l.l(b) of the Code.
+
+(2)
+
+In the alternative, in early March 20 I I, you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in a
+term test in CHE 222, contrary to section B.l.3(b) of the Code.
+
+(3)
+
+On or about April 28, 201 I, you knowingly possessed an unauthorized aid, or obtained
+unauthorized assistance in an examination in CHE 213, contrary to section B.I.l(b) of the
+Code.
+
+(4)
+
+In the alternative to charge #3, on or about April 28, 2011, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in an academic examination in CHE 213, contrary to section B.IJ(b)
+of the Code.
+
+Particulars of the charges were as follows:
+(1)
+
+At all material times, you were a registered student in the Department of Chemical
+Engineering and Applied Chemistry in the Faculty of Applied Science and Engineering at
+the University of Toronto. In the Winter term of 20 t t, you enrolled in CHE 222 and CHE
+213.
+
+(2)
+
+Students in CHE 222 were required to write a term test, which was worth 30% of the final
+grade in CHE 222 ("Tenn Test"). In early March, you wrote the Term Test. No aids were
+permitted, and students were permitted only to have pens, pencils and an approved
+calculator on their desks.
+
+(3) You had three sheets of paper on your desk during the test. They contained information
+relevant to the material covered in CHE 222. You were not permitted to have these sheets of
+paper with you during the Term Test.
+(4)
+
+You knowingly possessed an unauthorized aid, namely, the sheets of paper, or received
+unauthorized assistance from the sheets of paper during the Term Test.
+
+(5)
+
+Students in CHE 213 were required to write a final examination ("Examination"). On or
+about April 28, 201 t, you wrote the Examination. The Examination was closed book, and
+
+no aids were permitted except for those provided. Only non-programmable calculators were
+permitted.
+(6)
+
+You had several sheets of paper on your desk during the Examiuation. These sheets of
+paper were relevant to the material covered in CHE 213. You were not permitted to have
+these sheets of paper with you during the Examination.
+
+(7)
+
+You knowingly possessed an unauthorized aid, namely, the sheets of paper, or received
+unauthorized assistance from the sheets of paper during the Examination.
+
+[13]
+
+The University called as its first witness, Professor Y.A. Lawryshyn, an Assistant
+Professor in Chemical Engineering and Applied Chemistry. Professor Lawryshyn
+identified his course outline, which was marked as Exhibit 4 and which showed that a
+mid-term examination would be given on March 8, and would be worth 30% of the final
+mark in the course. Professor Lawryshyn also identified the mid-term examination itself,
+which was marked as Exhibit 5. Professor Lawryshyn testified that he first advised the
+students that faculty approved calculators were the only aid permitted on the mid-term
+on their first day of class when he went through the course outline with them. He advised
+the students that an aid sheet would be permitted on the final exam, but not on any
+quizzes, nor on the mid-term examination.
+
+[14]
+
+Professor Lawryshyn also identified an announcement made on "blackboard", an
+electronic system used to post problem sets, solutions, announcements, and mid-term
+solutions. He testified that students have to check blackboard regularly in order to get
+their problem sets, solutions, etc. On Sunday, March 6, 2011, details about the mid-term
+examination were posted on blackboard. A copy of the postings about the mid-term dated
+March 6 and March 7 were identified by Professor Lawryshyn and filed as Exhibit 6. The
+March 6 announcement specifically stated "aid sheets are not allowed" for the mid-term.
+On Monday, March 7, 2011, the day before the mid-term, Professor Lawryshyn repeated
+this announcement in class. On March 8, 2011 the examination took place. Professor
+Lawryshyn testified that his usual practice is to hand out examinations face down before
+the students come in the room and he believes he followed his usual practice on this
+occasion. Students leave their backpacks at the front or back of the room, turn all cell
+phones off, and leave their cell phones with their backpacks. He tries to keep the students
+quiet, gets everyone seated and starts the examination at fifteen minutes after the hour.
+He testified that he announced again that the students would be allowed a calculator,
+pens, pencils, a UofT card and "that's it".
+
+[15]
+
+At the end of the examination, Professor Lawryshyn testified that the Teaching Assistant
+said that he had caught the student with three pages of notes. The Professor approached
+the student and asked what he was doing with the notes and the student advised that he
+thought they were allowed. Professor Lawryshyn told them they were not and that he had
+told the students they were not. The student said that he didn't go to class, and that he
+
+-5-
+
+normally doesn't go. The Professor said that he would have to take it up with the
+department to address it and the student asked him not to go to Profossor Norval.
+Professor Lawryshyn advised that he had to do lhat and that he also had to meet with the
+student. The student requested that the meeting between the two of them take place right
+then. The student did not deny that the notes were his and said that they wouldn't have
+helped him anyway. Professor Lawryshyn sent an email outlining what had occurred to
+Professor Norval; this was marked as Exhibit 7.
+
+[ 16]
+
+In response to a question from a member of the Panel, Professor Lawryshyn testified that
+the notes would in facl have been beneficial for the mid-term examination.
+
+[17)
+
+The next witness called by the University was Professor Timothy Bender, an Assistant
+Professor in Chemical Engineering and Applied Chemistry. He identified his course
+Syllabus for course number CHE 213, which was marked as Exhibit 8. The syllabus
+indicated that the final examination would be worth 50% of the final course mark. The
+final examination itself was identified and marked as Exhibit 9; it stated on page 1 thal no
+aids were allowed.
+
+[18]
+
+Professor Bender testified that he did not know the student personally. The Associate
+Chair of the Department had told Professor Bender that the student wrote the examination
+at the University of British Columbia.
+
+[19)
+
+The University then tendered the Affidavit of Jane Park and advised the Panel that the
+information in the affidavit had all been provided in disclosure lo the student, and that the
+affidavit itself had been sent to the student that day. This was accepted by the Panel and
+marked as Exhibit 10. Ms Park's affidavit stated:
+(i)
+
+I am the Undergrnduate Counsellor in the Department of Chemical Engineering
+and Applied Chemistry at the University of Toronto. I have personal knowledge
+of the facts set out in this affidavit. Where my knowledge is based on information
+and belief, I will state the source of my information. In all such cases, I believe
+that the information provided to me is true and accurate.
+
+(ii)
+
+Because of my position in the Department, I had several dealing w i t h - • ·
+
+(iii)
+
+Mr. SIii successfully petitioned to \vrite his University of Toronto examination in
+CHE2 l 3H IS ("Exam") at the University of British Columbia ("UBC") on April
+28, 2011. UBC agreed to invigilate the Exam as long as Mr. • paid a $75 fee to
+cover the costs of administering and invigilating the Exam. He agreed to do so.
+
+(iv)
+
+I coordinated the arrangement with UBC and sent a copy of the Exam to UBC.
+Sheila Williamson at UBC advised me that UBC would invigilate the Exam in a
+manner consistent with the instructions on the front of the Exam paper.
+
+-6-
+
+(v)
+
+On April 28, 2011, Ms. Williamson called me and told me that Mr. s■ had been
+caught with unauthorized aids during the Exam.
+
+(vi)
+
+Later that day, I received two e-mail messages from Mr. • · In these messages,
+Mr. SIii admitted that he had taken his notes and lecture slides into the room
+where he wrote the Exam.
+
+(vii)
+
+On May 5, 2011, Ms. Williamson sent me an e-mail message. Ms. Williamson
+attached a series of .PDF files to her message. She advised me that the .PDF files
+contained images of Mr. s■s exam and the notes that the UBC invigilator found
+in Mr. S■'s possession as he was writing the Exam.
+
+(viii)
+
+Sometime bel\.veen May 11 and May 24, 20 11 , I received by courier the original
+Exam and the original notes that ,:vere found in Mr.
+possession ... A true
+copy of the original Exam is found in the Provost's Book of Documents at Tab
+12. A true copy of the notes found in Mr. S■'s possession during the Exam is
+found the Provost's Book of Documents at Tab 13.
+
+SIii's
+
+[20]
+
+Emails providing details of how UBC fmmd the notes and dealt with the situation were
+attached to Ms Park's affidavit.
+
+[21]
+
+The University next called Professor Carter, the Dean's Designate, who testified that he
+met with the student via Skype on May 31, 2011, about the accusations of academic
+offences in the two courses at issue in this hearing. Professor Carter testified that he had
+documents with him at the time, one from Professor Lawryshyn and one from UBC. He
+could not necessarily identify the notes as the ones he had seen, but was certain that there
+were notes, and that he had them with him at the time he talked to the student. He
+discussed the allegation and with respect to CHE 222, the student admitted that he had
+notes. He said that he felt that he was permitted to have them, and thought that the
+instructor had said on the first day that notes were permitted. He stated that he did not go
+to lectures or check the website, that his learning style was independent, that he did not
+go to classes or read announcements. He said he didn't recall an announcement at the
+beginning of the mid-term exam itself. With respect to CHE 213, he admitted that he had
+notes. He said that he did not know that it was an examination because the room did not
+look like an exam room. He came late and therefore in order not to disturb other students,
+was given his own room. The booklet itself said "exam" and also specified that no aids
+were allowed, but he thought this did not apply to him. Professor Caiier testified that he
+found the student's explanation bizarre and not satisfactory.
+
+[22]
+
+That was all of the evidence called by the University, who then proceeded to make
+submissions.
+
+-7-
+
+[23]
+
+In his submissions, counsel for the Provost emphasized the broad definition of
+"knowingly" in the Code of Behaviour, and acknowledged that the burden was on the
+Provost to prove the offences on the balance of probabilities, in that it must prove that it
+is more likely than not that the offences occurred. In counsel's submissions, the evidence
+was overwhelming that the student knew or ought to have known that he was in
+possession of an unauthorized aid. He submitted that the course materials in CHE 222
+were clear that an aid sheet would be permitted on the final examination only, and not on
+the mid-term or quizzes. Clear warning had been given to the student and then repeated
+on the blackboard on March 6 1'\ and at the outset of the examination on March 8th •
+Whether or not the student was present at classes where this was stated, it is the student's
+responsibility to be informed of and compliant with course expectations.
+
+[24]
+
+With respect to the second set of charges related to CHE 213, the test itself indicated that
+no aids were permitted and the evidence shows that the student does not deny that the
+notes were his.
+
+[25]
+
+In the Provost's counsel's submissions, it is clear that the student ought to have known
+that he was committing an offence. The University counsel also made submissions about
+the sequencing of the events, namely that the offence in CHE 213 occurred almost two
+months after the student had had the conversation with Professor Lawryshyn about
+unauthorized aids, and the student should have been taking care about \.Vhat he brought in,
+given the situation in which he found himself with respect to CHE 222.
+
+[26]
+
+In the University's submissions, the evidence was sufficient for the Panel to reach and
+make findings on charges (1) and (3).
+
+Decision of the Tribunal
+[27]
+
+The Panel deliberated and concluded that the University had discharged its onus and met
+the burden of proof of proving the offences on a balance of probabilities in respect of
+both charges (1) and (3).
+
+[28]
+
+The Panel agrees that the student must take responsibility for becoming aware of and
+ensuring compliance with course requirements. Students cannot simply absent themselves
+from the tools used to communicate course and University expectations to them, and then
+claim ignorance as a defence when they fail to comply with the rules. The student clearly
+ought reasonably to have known that aids were unauthorized in both cases and he clearly
+violated this restriction in both cases. Although it may have been preferable, out of an
+abundance of caution, to have included this limitation directly on the course outline in
+CHE 222, there were numerous other warnings provided to the student. If he was in the
+class to receive the course outline, he would have received the information provided
+orally about what aids are and are not permitted. These warnings were given on
+
+-8-
+
+numerous occasions, posted on blackboard, and repeated at the outset of the midterm. In
+the case of CHE 213, the prohibition on the use of aids was also included in the
+information on the first page of the examination.
+[29)
+
+Therefore, the Panel made find ings on charges (1) and (3) and the Provost withdrew
+charges (2) and (4).
+
+Pcual(y Phase
+
+(30]
+
+In respect of the penalty phase, no additional evidence was called. The Provost sought an
+order that Mr. ~ receive a final grade of zero in both courses, that he be suspended
+from the University from the date of the Order until December 18, 2014 (a period of three
+years), that his academic record and transcript bear a notation of the sanction until
+December 18, 2015, and that the case be reported to the Provost for publication of a
+notice of the decision of the Tribunal and sanction imposed, ,vith the student's name
+withheld.
+
+[31]
+
+In his sentencing submissions, counsel pointed out that when the student does not
+participate, it is difficult to have any information or evidence of any mitigating factors,
+extenuating circumstances, or external pressures that might support a reduced penalty.
+Similarly, there is no opportunity to see whether there is any demonstration of insight or
+remorse. In the Provost counsel's submission, these absences make it difficult to calibrate
+the likelihood of repetition of the offence because we do not know much about the
+student. In his submission, what we do know is that on March 8 and April 28 two very
+similar types of offences occurred.
+
+[32)
+
+Counsel referred the Panel to a number of cases on which it relied in support of the
+penalty the Provost was seeking. The Panel specifically reviewed the previous University
+discipline cases of LlYJ (Case 607; Febrnary 17, 2011 ), SK (Case 595; September 24,
+2010) and HB (Case 599; June 2010). Counsel noted that in the instant case, although the
+student is not a true repeat offender because the first offence had not been through the
+system at the time the second offence occurred, there had been an intervention with a
+Professor about the first offence before the second offence occurred. Thus, in the instant
+case, there were two separate offences involving unauthorized aids, and nothing that
+would support a decreased penalty.
+
+[33]
+
+The Tribunal considered the facts of the case and the precedents referred to by University
+counsel and agreed that the proposed penalty was appropriate. There was adequate
+warning to the student in both courses that aids were not permitted in the two evaluations
+at issue, the student had on two occasions brought in unauthorized aids, and the student
+knew or ought to have known that the aids were unauthorized. The student cannot simply
+say that he does not pay attention to course requirements, or to information provided
+
+-9-
+
+about what is and is not permitted, and then rely on that ignorance in defence of bringing
+aids into an examination .
+[34]
+
+The Panel notes that it is important for the core values of the University to be respected,
+and for a message to be sent to this student and to all students that conduct of this nature
+will not be tolerated and will have profound effects upon the student. Students must be
+actively engaged with the University and ils rules and expectations in order for !he
+institution to fimc tion effectively. Just as students must take responsibility for monitoring
+communications to their University email accounts, so too must they lake responsibility
+to make themselves aware of and compliant with course expectations and requirements.
+
+[35]
+
+Therefore, the Panel signed the Order on December 19, 2011 ordering:
+
+1·-.
+l· -
+
+l) that
+is guilty of two charges of the academic offence knO\:vingly
+possessed an unauthorized aid, or obtained unauthorized assistance contrary to
+section B.l. l(d) of the Code of BehaPiour on Academic 1\1atters;
+2) that
+
+~ receive a final grade of zero in the course CHE 222;
+
+3) that ~ - . receive a final grade of zero in the course CHE 213;
+
+9
+
+4) that ~ be suspended from the University for three years, to
+commence on December 19, 20 l 1, and to end December 18, 2014;
+5) that the sanction shall be recorded on his academic record and transcript from the date
+of the Order until December 18, 2015; and
+6) that this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+r,JJ,
+Dated this ~
+
+day of February, 2012
+
+- l O-
+
+

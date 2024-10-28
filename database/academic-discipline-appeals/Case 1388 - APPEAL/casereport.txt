@@ -1,0 +1,591 @@
+Case No. 1388
+THE DISCIPLINE APPEALS BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER of charges of academic dishonesty made on July 28, 2022
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+B E T W E E N:
+X
+
+M
+Appellant
+- and –
+
+UNIVERSITY OF TORONTO
+Respondent
+
+REASONS FOR DECISION
+
+Appeal Hearing Date: August 11, 2023, via Zoom
+Members of the Discipline Appeals Board Panel:
+Patricia D.S. Jackson, Senior Chair
+Professor Ramona Alaggia, Faculty Panel Member
+Brinda Batra, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel for the University, Paliare Roland Rosenberg
+Rothstein LLP
+X
+M
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+
+2
+
+1.
+
+X
+
+M
+
+(the “Student”) was charged and convicted of the offence of unauthorized
+
+assistance, contrary to section B.I.1 (b) of the Code of Behaviour on Academic Matters, 2019
+(the "Code").
+2.
+
+The panel hearing the case imposed the following sanctions:
+(a) a final grade of zero in the course in question;
+(b) a suspension from the University for two years starting on January 1, 2023; and
+(c) a notation of the sanction on the Student’s academic record and transcript for three
+years from the date of the order.
+
+3.
+
+Despite numerous notifications and attempts by the University and its counsel to engage
+
+with the Student, she did not participate in the hearing below, either on the question of liability
+or sanction.
+
+4.
+
+On this appeal, the Student acknowledges her liability, apologizes for the offence, and
+
+appeals on the question of the length of the suspension alone. She also seeks to introduce new
+evidence in support of her appeal.
+
+5.
+
+For the reasons set forth below, we dismiss the motion to introduce new evidence, and
+
+allow the appeal to the extent of reducing the period of the suspension from two years to one
+year.
+The Facts
+6.
+
+The Student was registered at the University of Toronto commencing in the Fall of 2019.
+
+In the Fall of 2020 she was enrolled in a course titled Computational Thinking (the "Course").
+By the time of the hearing she had accumulated 13 credits, with a cumulative GPA of 2.98.
+
+7.
+
+The Course is a first year one designed to teach students about basic coding and computer
+
+science skills. Students in the course were required to write three coding assignments, each worth
+
+3
+
+10% of their final grade. Each such assignment was to be completed by the Student
+independently.
+
+8.
+
+The uncontested evidence at the hearing, which was not in dispute on the appeal, was that
+
+four of the students in the Course, including the Student, copied each other's assignments.
+
+9.
+
+When confronted with their conduct, the other three students admitted they had copied
+
+each other's assignments and, unlike what the record demonstrates in the case of the Student, also
+admitted to having done so in one other instance. One of these three students had also previously
+committed another serious academic offence.
+
+10.
+
+In each of these three cases, the sanction imposed on the student was a zero in each
+
+copied assignment, and a time-limited annotation on the student's record. In the case of the
+student who had committed three academic offences and was in first year, the annotation was
+two years; for the other two students the annotation was until graduation.
+
+11.
+
+The argument in this case proceeded on the basis that the same penalty was proposed to
+
+the Student if she would admit to the offence.
+The Motion to Introduce New Evidence
+12.
+
+The Student’s request to introduce new evidence and the nature of that evidence was set
+
+forth in a letter which constituted her notice of appeal, and in a subsequent notice of application
+to introduce fresh evidence.
+
+13.
+
+By way of summary, in her letter the Student acknowledged her offence, apologized for
+
+failing to respond to the proceedings earlier, and characterized her decision in that regard as
+"very stupid". She said she cherished the opportunity to study at the University of Toronto. In her
+freshman year she had a GPA of 3.92, but thereafter was affected by several difficulties,
+including a family illness, significant financial burdens on herself and her family, the pandemic,
+and a deteriorating mental state. This led to a declining GPA, and, as well, to the commission of
+the offence. She said she started deliberately avoiding communications from the University in
+
+4
+
+order not to have to address the fact that an excellent student had become such a poor one. She
+also expressly avoided telling her parents about what has happened, because, she says, they sold
+their house in order to finance her education. And she concluded by saying she was open to any
+punishment, except a two-year suspension, which she was concerned might adversely affect her
+status as an international student.
+
+14.
+
+The letter is not, of course, evidence, and were new evidence to be introduced, it would
+
+be necessary that there be an opportunity to cross-examine or at least clarify in evidence some of
+the statements made in the Student's letter. This would necessitate sending the case back to the
+panel that heard the original proceeding. The result would be contrary to what the Student seeks
+in this case, namely a timely reduction of the period of her suspension in order that she might
+register in the University before she loses her international student status.
+
+15.
+
+In any event, however, the Student has not met the test for the introduction of new
+
+evidence on appeal. So that the inevitable delay which would have resulted had her application
+been successful will not occur.
+
+16.
+
+It is well established that in determining whether to admit new evidence, the Board
+
+should consider four traditional criteria for the admission of fresh evidence on appeal, namely
+that the evidence:
+(a)
+
+was not available at the time of the hearing by the exercise of due diligence;
+
+(b)
+
+must be relevant to a potentially decisive issue at first instance;
+
+(c)
+
+must be credible; and
+
+(d)
+if believed and taken together with the rest of the evidence, could reasonably be
+expected to affect the initial decision.
+17.
+
+The University acknowledges that a party seeking to adduce new evidence on appeal
+
+need not satisfy all of these criteria in order to succeed, and that this Board has greater discretion
+to permit the introduction of such evidence than may exist in other forums.
+
+5
+
+18.
+
+We agree, but are also cognizant of the importance of being clear to students and others
+
+that they may not ignore discipline hearings in the expectation that if the result is unfavourable
+additional evidence can be brought forward on appeal. Due regard to the limited circumstances
+in which new evidence may be received is important.
+
+19.
+
+In this case, with respect to the first criterion, all of the matters the Student seeks to
+
+introduce as new evidence were known to her at the time of the hearing. The reason that
+evidence was not adduced is not that it was unavailable or unknown, but that she did not attend
+the hearing.
+
+20.
+
+As to the remaining criteria, it is difficult, given the generality and apparent inconsistency
+
+of some of the elements in the Student’s letter and the absence of any medical evidence, to
+determine its ultimate credibility or whether or to what extent it might have affected the initial
+outcome at the hearing.
+
+21.
+
+However, as noted above, even if we allowed the evidence we consider that we would
+
+need to send this matter back to the original panel, and the Student’s objectives on this appeal
+would be completely undermined by delay.
+
+22.
+
+Moreover, putting the evidence at its highest and assuming its credibility, we do not
+
+consider that it would affect the outcome beyond the adjustment we make to the sanctions in this
+appeal, described below.
+
+23.
+
+In the circumstances, we decline to allow the introduction of the new evidence.
+
+The Appeal of the Length of the Period of Suspension
+
+(a)
+
+Immigration Status
+
+24.
+
+As noted above, we have not admitted as new evidence the matters proffered by the
+
+Student, and in particular have not adjusted the sanction ordered on the basis that it would or
+might affect her immigration status.
+
+6
+
+25.
+
+However, having heard argument on this point we would like to record one area in which
+
+the University and/or future panels of the Tribunal or this Board may wish to re-examine the
+question of the impact of sanctions on international students.
+
+26.
+
+It has been said in previous decisions that a student's status as an immigrant is an
+
+irrelevant factor to the question of sanction – that it would be an error in principle to impose
+either a less or more severe sanction based on a student’s immigration status. (See, for example,
+University of Toronto v C.A.M. (Case No. 684, June 3, 2014) at para. 38) (“C.A.M.”).
+
+27.
+
+To the extent that this means that the fact that the student is an international student is
+
+not, by itself, a reason to depart from a penalty that would be imposed on a domestic student, that
+seems to us to be correct in principle.
+
+28.
+
+However, in this case the Student has raised the possibility that a lengthy suspension
+
+would lead to her losing her status as an international student and preclude her re-attending at the
+University at the end of the period of suspension. We do not know if that is in fact true. But it
+does seem to us that if a defined period of suspension would necessarily result in an international
+student losing immigration status and the ability to re-attend at the University when the
+suspension was over, the impact of such penalty would be markedly more severe than for other
+students. This is a factor that the University and/or the Tribunal might wish to consider in any
+future determination of sanction in such a case.
+(b) Standard of review
+29.
+
+This Board has wide powers to modify a sanction imposed, and on appeal may impose
+
+any sanction that could have been imposed below. Section E .7 of the Code provides that the
+Board shall have the power to "affirm, reverse, quash, vary or modify the verdict, penalty or
+sanction appealed from and substitute any verdict, penalty or sanction that could have been given
+or imposed at trial."
+
+7
+
+30.
+
+Although the appeal does not proceed as a hearing de novo, decisions over the years have
+
+recognized that the Board has very broad powers, and, especially as it relates to sanction, little
+obligation to show deference to the decision below.
+
+31.
+
+Nonetheless, there must be a principled reason for the Appeals Board to vary the sanction
+
+imposed at trial.
+
+(c) The length of the suspension in the circumstances of this case
+32.
+
+Before turning to the issue that has caused us concern in this case, we make a preliminary
+
+observation about a section of the Code that was referred to in passing. That is the Provost’s
+Guidance on Sanctions at Appendix “C”.
+
+33.
+
+For the benefit of students that appendix sets forth guidance as to the sanction the
+
+University will ordinarily seek for a finding of offence at the Tribunal level. In the case of a
+student such as this one, who has not committed a previous offence, it says that in the absence of
+exceptional circumstances the University will usually request that the Tribunal suspend the
+student for two years.
+
+34.
+
+It is guidance, and we expect it is helpful to students, as to what sanction the University
+
+will request at the Tribunal hearing. But it is not guidance to or from the Tribunal, and it is
+certainly not binding on the Tribunal. And in the circumstances of this case, as we describe
+below, we do not consider that a suspension of two years is appropriate.
+
+35.
+
+In this case, our concern, and our questions to the parties, focused on the apparent
+
+discrepancy with the sanction proposed below and imposed on the three other students who
+admitted to committing the very same offence but had also committed an offence or offences in
+addition to the one committed by the Student.
+
+36.
+
+As we elaborate more fully below, our concern was not that the sanctions proposed for
+
+the Student and imposed on the other three students should be the same or similar to that
+imposed on the Student by the Tribunal. We acknowledge, indeed we emphasize, that a sanction
+
+8
+
+imposed at the end of a contested hearing will almost always be more serious, frequently
+significantly so, than the sanction that would have been imposed had a student acknowledged the
+offence immediately.
+
+37.
+
+But there must be some rational relationship, connected to the reasons for imposing a
+
+more serious sanction, between the sanctions imposed on a student who immediately admits an
+offence, and one who unsuccessfully contests it.
+
+38.
+
+In fairness to the University, this concern was not raised prior to the hearing. It was not
+
+referred to by the Student in her materials, but emerged in our questioning during argument.
+
+39.
+
+The University's response was that there need not be any relationship between the
+
+sanction imposed on a student who readily admits committing an offence, and that imposed on a
+student who has unsuccessfully denied the same offence at a contested hearing.
+
+40.
+
+In support of that position, the University relied on a 2007 decision of the University of
+
+Toronto v D.S. (Case No. 451, August 24, 2007) (“D.S.”).
+41.
+
+Before discussing the significance of the D.S. case, we note that there is a more recent
+
+case, not referred to by the University, whose facts are closer to the ones before us, and which
+stands for the contrary proposition to that advanced by the University.
+
+42.
+
+We appreciate that University Counsel had not been alerted to the issue we have been
+
+describing before the hearing and so may not have examined the issue in any detail. But
+particularly in a process such as this, and particularly where students are often unrepresented, we
+remind everyone how dependent we are on counsel's statement of the legal principles that have
+previously been determined.
+
+43.
+
+The case that stands for the proposition contrary to the one argued for by the University is
+
+the 2013 decision in University of Toronto v C.A.M. The case was actually cited by the
+University on another point, and is referred to above at paragraph 26.
+
+9
+
+44.
+
+In the C.A.M. case the student initially admitted to the offence in issue at a decanal
+
+meeting. He was told that the sanction for the offence would be a mark of zero in the course and
+the placing of the sanction letter in his file but with no other recording of the sanction on his
+academic record. He then withdrew his admission.
+
+45.
+
+After a contentious hearing, and in light of the student's conduct at the hearing and his
+
+previous violations of the Code, the University sought a recommendation that the student be
+expelled.
+
+46.
+
+In that case, the Board noted the well-established criteria which should guide a decision
+
+on sanction:
+(a) the character of the person charged;
+(b) the likelihood of a repetition of the offence;
+(c) the nature of the offence committed;
+(d) any extenuating circumstances surrounding the commission of the offence;
+(e) the detriment to the University occasioned by the offence; and
+(f) the need to deter others from committing a similar offence.
+47.
+
+The Board observed that a number of factors in that case pointed to a sanction at the very
+
+high end. However, the Board observed that unlike in many other cases, the University had
+already engaged in a serious examination of the appropriate penalty for this very offence by this
+student and had determined that a sanction of zero in the course was appropriate.
+
+48.
+
+The Board went on to observe:
+
+55.
+
+Because of the foregoing, the issue in this case is not whether the seriousness of the
+
+offence as augmented by the Student’s conduct at the hearing warrants expulsion, but the
+narrower and more difficult question of whether the Student’s refusal to acknowledge the offence
+and his conduct at the hearing warrants an escalation [to expulsion] from the zero in the Course
+
+10
+the University was previously prepared to impose for an offence of the seriousness. Our answer is
+to the latter question, not the former, and it is that we do not think that it does.
+
+56.
+
+It is well-established in the Tribunal’s jurisprudence, and the Student in this case was
+
+advised that penalties imposed at the decanal level when a student admits an offence, are more
+lenient than those imposed after a contested hearing at the Tribunal. There are sound reasons for
+this. A student who acknowledges his or her fault and accepts the penalty reflects significantly on
+the assessment of the student’s character, remorse and the likelihood of repetition of the offence.
+In other words, the more serious penalties imposed are as a result of the application of the C
+factors, not an arbitrary penalty for the Student seeking a hearing.
+
+49.
+
+We agree with this and would add one other factor which also explains the imposition of
+
+the more serious level of sanctions imposed for offences found after a Tribunal hearing. The
+factor is an important one for the proper and timely administration of the discipline process at the
+University of Toronto. That additional factor is the cost in time and resources to the University
+of proceeding to a contested hearing.
+
+50.
+
+In the result, we agree with the decision in the C.A.M. case that it is appropriate that the
+
+sanctions imposed after a contested hearing be more serious, often significantly more so, than
+those imposed at the decanal level. Indeed this point is illustrated by the C.A.M. case itself,
+where the student who would have faced a sanction of zero in the course had he admitted to the
+offence at the decanal level, received a five-year suspension (but not expulsion) after the
+contested hearing and appeal.
+
+51.
+
+But we also agree with the C.A.M. case that where the record discloses a sanction
+
+proposed at the decanal level for the very offence in issue by the student in question, the
+difference between that sanction and the one to be imposed by a Tribunal must be generally
+explicable by the factors described above as they apply in the circumstances of the particular
+case.
+
+52.
+
+It is not clear to us that the D.S. case referred to by the University stands for a contrary
+
+proposition. The issue was dealt with very briefly in the case, but it appears from the reasons that
+
+11
+
+what the Tribunal in that case was being asked to do was to impose a sanction that was the same
+or similar to the decanal sanctions imposed on other students for similar offences. The Tribunal
+noted that the circumstances in the decanal letters it was asked to review were unclear
+(suggesting that they related to a number of previously sanctioned offences similar to the one
+before it), and that in any event the sanctions imposed at the Tribunal level should be more
+serious, for the reasons that are included in the ones we have described above.
+
+53.
+
+To be clear, we reiterate that the only proposed decanal sanction that would ever be
+
+relevant to a Tribunal determination would be one that was disclosed in the record as having
+been proposed for the same student for the same offence. Moreover, we are not saying that the
+Tribunal sanction should be the same or even similar. Quite the contrary. It will almost
+invariably be significantly more serious. But it must be explicable.
+
+54.
+
+In this case, the University argued that the Tribunal sanction should be more serious than
+
+one proposed at the decanal level for reasons that we agree with and that have been referred to
+above. But it did not otherwise explain how those factors justified the relationship between the
+more serious sanction and the earlier proposed to decanal sanction, because its position was that
+there was no need for such a relationship or explanation. In other words, the University’s
+determination of an appropriate sanction at the decanal level for the same offence by the same
+student should have no bearing on or relationship whatsoever to an appropriate sanction at the
+Tribunal level.
+
+55.
+
+Because we disagree, we now turn to our assessment of that relationship.
+
+56.
+
+We have no hesitation in saying that the Student’s refusal to engage in the discipline
+
+process before this appeal warrants a more severe sanction then would have been imposed had
+she admitted it initially. While it is our impression that the Student, who appeared personally on
+this appeal, is now genuinely remorseful, and unlikely to reoffend, the failure to demonstrate
+those qualities in a timely fashion does reflect adversely on her and should be accounted for in
+the penalty.
+
+12
+
+57.
+
+In addition, her failure to engage in any way with the process before now led not only to
+
+an expenditure of time and resources in the hearing itself, but in the University’s many attempts
+to get her to engage. This has led to a significant waste of time and resources in the University
+discipline process, where both are at a premium.
+
+58.
+
+On the other hand, unlike in other cases (including C.A.M.) this is not a case where the
+
+Student’s conduct at the hearing demonstrated a desire to obstruct, to deceive, or to otherwise
+undermine the hearing process. It is also the Student’s first offence, and it is evident that it has
+had a marked impact on her.
+
+59.
+
+We are also influenced by the evidence in this case that at the decanal level, the
+
+University considered a sanction of zero in an assignment (not the whole course), a time limited
+annotation and no suspension appropriate for the other students who not only engaged in the
+same offence as the Student, but also other academic offences in which the Student did not
+participate.
+
+60.
+
+In all of the circumstances, we consider that the appropriate penalty for the Student is the
+
+zero in her course and a time limited annotation on her record (neither of which she contested)
+but with the period of suspension reduced to one year, not two.
+
+61.
+
+We accordingly allow the appeal to the extent of reducing the period of suspension from
+
+two years to one year, and otherwise affirm the decision below.
+Dated at Toronto this 12th day of September 2023.
+
+Original signed by:
+Patricia D.S. Jackson
+On behalf of the Discipline Appeals Board Panel
+
+

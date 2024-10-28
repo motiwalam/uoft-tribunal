@@ -1,0 +1,691 @@
+Case No.: 1375
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 26, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+BETWEEN:
+
+UNIVERSITY OF TORONTO
+
+- and -
+
+A
+
+P
+
+REASONS FOR DECISION
+
+Hearing Date: October 18, 2023, via Zoom
+Members of the Panel:
+Johanna Braden, Chair
+Dr. Susanna Chow, Faculty Panel Member
+Zoë Reichert, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Joseph Berger, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Adam Goodman, Counsel for the Student, Barrister & Solicitor
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline & Faculty Grievances
+In Attendance:
+A
+P
+
+1.
+
+The Trial Division of the University Tribunal was convened on October 18, 2023,
+
+to consider charges brought by the University of Toronto (the “University”) against Ms.
+A
+
+P
+
+(the “Student”) under the University of Toronto Code of Behaviour on
+
+Academic Matters, 1995 (the “Code”).
+
+The Charges and Particulars
+2.
+
+Five charges involving three different courses were laid against the Student, as
+
+follows.
+1. On or about March 23, 2022, you knowingly altered or falsified a document or evidence
+required by the University of Toronto, or uttered, circulated or made use of any such
+altered or falsified document, namely, a screenshot that purportedly showed Quercus
+gradebook entries in POL338H1, which you submitted in support of your assertion that
+your final grade in that course had been recorded inaccurately and should be raised,
+contrary to section B.I.1(a) of the Code.
+2. On or about March 23, 2022, you knowingly altered or falsified a document or evidence
+required by the University of Toronto, or uttered, circulated or made use of any such
+altered or falsified document, namely, a screenshot that purportedly showed Quercus
+gradebook entries in POL101H1, which you submitted in support of your assertion that
+your final grade in that course had been recorded inaccurately and should be raised,
+contrary to section B.I.1(a) of the Code.
+3. On or about March 23, 2022, you knowingly altered or falsified a document or evidence
+required by the University of Toronto, or uttered, circulated or made use of any such
+altered or falsified document, namely, a screenshot that purportedly showed Quercus
+gradebook entries in PHY100H1, which you submitted in support of your assertion that
+your final grade in that course had been recorded inaccurately and should be raised,
+contrary to section B.I.1(a) of the Code.
+4. On March 24, 2022, you knowingly altered or falsified a document or evidence required
+by the University of Toronto, or uttered, circulated or made use of any such altered or
+falsified document, namely, documents that purported to be your answers to
+
+2
+
+assignments #5 and #6 in PHY100H1, which you submitted in support of your assertion
+that you had submitted this academic work in a timely fashion and that your final grade
+in that course had been recorded inaccurately and should be raised, contrary to section
+B.I.1(a) of the Code.
+5. In the alternative to each of the charges listed above, on or about March 23 or 24,
+2022, you knowingly engaged in a form of cheating, academic dishonesty or misconduct,
+fraud, or misrepresentation in order to obtain academic credit or other academic
+advantage of any kind in each of the three courses listed above, which violated section
+B.I.3(b) of the Code.
+
+3.
+
+The particulars provided to the Student in support of these charges were as
+
+follows.
+(a) You were a student at the Faculty of Music, University of Toronto at all material times.
+(b) In Fall 2021, you received a final grade of:
+(i) F in POL338H1, which was taught by Professor Mark Winwar;
+(ii) F in POL101H1, which was taught by Professor Courtney Jung; and
+(iii) C in PHY100H1, which was taught by Professor Sidhartha Goyal.
+(c) On March 8, 2022, you advised the registrar in the Faculty of Music that your final
+grade in each of the three courses was incorrect because the instructors had not
+recorded assessments that you had submitted to them by email. You knew that this claim
+was false.
+(d) On March 23, 2022, you emailed the three instructors and the registrar in the Faculty
+of Music and attached screenshots that appeared to show Quercus gradebook entries
+that indicated that you should have received a higher final grade in each of the courses.
+You knew that the claims in these emails were false, and the screenshots were altered,
+falsified, and did not accurately reflect your academic record.
+(e) On March 24, 2022, you sent an email to Prof. Goyal that attached what you
+represented to be your answers to Assignments 5 and 6, which you claimed to have
+submitted in a timely way. You knew this statement was false and that you created the
+answers in March 2022 in furtherance of your attempt to raise your final grade in the
+course.
+
+3
+
+(f) You took these steps to obtain a higher final grade in each of the courses or to obtain
+some other academic benefit or advantage that you did not earn.
+(g) You knew that the screenshots and assignments that you submitted were forged,
+altered or contained false information when you submitted them. You knowingly
+submitted these documents:
+(i) understanding that the University of Toronto required evidence to be presented
+in order to obtain the adjustment you sought in your final grades;
+(ii) with the intention that the University of Toronto rely on these documents in
+considering your request; and
+(iii) in an attempt to obtain an academic advantage.
+
+The Evidence
+4.
+
+The Student admitted the charges. She attended the hearing with counsel.
+
+5.
+
+The evidence was presented by way of an Agreed Statement of Facts,
+
+supplemented with the documents referred to in those facts. The crux of the evidence is
+set out below.
+6.
+
+The Student has been enrolled at the University’s Faculty of Music (the “Faculty”)
+
+since the Fall 2019 term. By the time of the hearing, she had completed 21.66 credits and
+had a cumulative grade point average (“CGPA”) of 3.32. In the Fall 2021 academic term,
+the Student was enrolled in, among other courses:
+a) PHY100H1: Magic of Physics, which was taught by Professor Sidhartha Goyal
+(“PHY100”);
+b) POL101H1: The Real World of Politics, which was taught by Professor
+Courtney Jung (“POL101”); and
+4
+
+c) POL338H1: Politics and Government of Southeast Asia, which was taught by
+Professor Mark Winward (“POL338”), (together the “Three Courses”).
+7.
+
+Grades for the Fall 2021 term were released in January, 2022. The Student
+
+received final grades of C in PHY100, F in POL101, and F in POL338.
+A.
+
+The Student’s initial communications with the Registrar’s office
+
+8.
+
+On March 8, 2022, the Student met with the Registrar of the Faculty, N.B., to advise
+
+the Registrar that the final marks she had received in each of the Three Courses were
+inaccurate.
+9. The Student explained to N.B. that:
+a. she encountered difficulty uploading assessments on the University’s online
+teaching and learning platform “Quercus“, and therefore emailed a number of her
+assessments to the respective instructors and/or Teaching Assistants in the Three
+Courses towards the end of the Fall 2021 term;
+b. she sent emails to the instructors of all Three Courses when final grades were
+released in January 2022, but had not received responses to any of her emails;
+c. in late February 2022, she became aware that her laptop had been infected, her
+email accounts were compromised and her emails had not been sent;
+d. she sent a number of emails to the Registrar’s Office about the issue;
+e. she was working on getting her emails restored on her laptop; and
+
+5
+
+f.
+
+she was concerned about getting her marks corrected as quickly as possible to
+permit her to meet a deadline of March 25 for applications she wished to make to
+law schools.
+
+10.
+
+N.B. asked the Student to re-send the emails to each of the instructors in the three
+
+courses, with a copy to the Registrar’s office.
+11.
+
+N.B. was unable to find any emails sent by the Student to the Registrar’s office
+
+addressing any concerns about her marks in the Three Courses.
+12.
+
+The Student did not send any emails to the instructors of the Three Courses or to
+
+the Registrar’s office following her meeting with N.B. on March 8.
+13.
+
+At the Student’s request, she met with the Faculty’s Assistant Registrar, Dawn
+
+Pascoe, on March 22, 2022. She again expressed concerns about the accuracy of her
+marks in the Three Courses. Ms. Pascoe asked the Student to reach out to the instructors,
+with a copy of the emails sent to them to N.B.
+14.
+
+The Student sent emails to the instructors for the Three Courses on March 23,
+
+2022, in which she claimed that she had submitted various assignments for which she
+was entitled to academic credit as described more fully below.
+B.
+
+PHY100 – Fall 2021
+
+15.
+
+Students in PHY100 in Fall 2021 were required to submit six problem set
+
+assignments, together worth 48% of the overall mark in the course. No submissions were
+permitted after the deadline for each problem set other than for exceptional medical and
+
+6
+
+personal issues. Assignment 5 was due November 19 and assignment 6 on December
+3.
+16.
+
+The Student submitted some of her required course work. She did not submit
+
+assignments 5 or 6 at all. She was assigned a grade of zero for each of assignments 5
+and 6.
+17.
+
+On March 23, 2022, the Student emailed the PHY100 instructor, Professor Goyal.
+
+She asked him to change her grade in PHY100 on the basis of a screenshot she attached
+to her email, purportedly taken from Quercus (“March 23 PHY100 Email”). The
+screenshot showed that the Student had received grades of 90/100 and 95/100 on
+Homework Assignment 5 and Homework Assignment 6 in PHY100, respectively.
+18.
+
+The March 23 PHY100 Email included the following statements:
+a. The grade of C awarded to her for PHY100 “was impossible since I handed in all
+my assignments”.
+b. “I have tried to reach out to you multiple times thereafter”.
+c. She only became aware in February 2022 that her computer was infected with “a
+terrible malware that compromised all of my accounts”, resulting in the corruption
+of a lot of her files, and the loss of a majority of her computer files.
+d. She found a screenshot she had taken of her Quercus grades at the end of the
+semester, a precaution she took because a similar problem had occurred the
+previous summer.
+
+7
+
+e. That screenshot erroneously showed that her assignments were missing with no
+grades or comments allocated.
+f.
+
+The issue was urgent, and stressful, because she needed her grades to meet the
+application deadline for law school, and she therefore needed her grades changed
+by Friday of that week.
+
+g. She continued to search for screenshots of the emails she had sent previously.
+
+19.
+
+Professor Goyal had no record of the Student having submitted either Homework
+
+Assignment 5 or Homework Assignment 6 in PHY 100. Professor Goyal reviewed the
+Student’s grades on Quercus, which showed that the Student had received grades of
+zero on both Homework Assignment 5 and Homework Assignment 6.
+C.
+
+POL101 – Fall 2021
+
+20.
+
+Students in POL101 were required to submit seven assignments, with each of the
+
+six best being worth 15% of the course mark. Assignments were due on specific dates
+throughout the term. Extensions could be requested for valid reasons for up to seven
+days after the due date, following which the answer key for an assignment would be
+posted and late work would no longer be accepted.
+21.
+
+The Student submitted her first assignment on time, and assignments 3 and 4 late.
+
+She did not submit assignments 2, 5 or 6 at all. She was assigned a grade of zero for
+each of assignments 2, 5 and 6.
+22.
+
+On March 23, 2022, the Student sent an email to Professor Jung, the instructor in
+
+POL101, asking her to change the Student’s grade in POL101 on the basis of a
+8
+
+screenshot attached to her email, purportedly taken from Quercus (“March 23 POL101
+Email”). The screenshot showed that the Student had received grades of 9/10, 8/10, and
+8.5/10 on Assignments 2, 5 and 6 in POL101, respectively.
+23.
+
+Neither Professor Jung nor the Student’s Teaching Assistant in POL101 had any
+
+record of the Student having submitted any of Assignments 2, 5 or 6 in POL101.
+24.
+
+Professor Jung reviewed the Student’s grades on Quercus, which showed that the
+
+Student had received grades of zero on Assignments 2, 5 and 6.
+D.
+
+POL338 – Fall 2021
+
+25.
+
+Students in POL338 were required to submit, among other things, a media portfolio
+
+due November 1 worth 20% and a research essay worth 35% due December 6. The
+Student did not submit either the required media portfolio or a research essay.
+26.
+
+On March 23, 2022, the Student emailed the POL338 instructor, Professor
+
+Winward, asking him to change the Student’s grade in POL338 on the basis of a
+screenshot she attached to her email, purportedly taken from Quercus (“March 23
+POL338 Email”). The screenshot showed that the Student had received grades of 81/100
+on a media portfolio and 75/100 on a research essay in POL338.
+27.
+
+Professor Winward did not have any record of the Student having submitted either
+
+a media portfolio or the research paper in POL338. Additionally, Professor Winward had
+no recollection of having seen a research paper related to the subject on which the
+Student claimed to have written her research paper.
+
+9
+
+28.
+
+Professor Winward reviewed records of Excel worksheets where he had recorded
+
+grades for the two assessments in question. These records showed the Student had
+received grades of zero on both the media portfolio and research essay in POL338.
+29.
+
+The March 23 PHY100 Email sent by the Student to Professor Goyal, the March
+
+23 POL101 Email sent by the Student to Professor Jung, and the March 23 POL338 Email
+sent by the Student to Professor Winward (collectively the “March 23 Emails”), were
+virtually identical but for the particulars of the allegedly missing assignments in each
+course and the marks the Student claimed she had received for them. The Registrar’s
+office was copied on each of the March 23 Emails.
+E.
+
+The investigation
+
+30.
+
+The Registrar invited the Student to a meeting on April 14, 2022 to discuss
+
+concerns about the claims she made in each of her emails that some of her coursework
+in the Three Courses had not been given grades. The Student attended as requested.
+This meeting took the place of three independent meetings with each of the instructors
+for the Three Courses.
+31.
+
+Several hours after the meeting with the Registrar on April 14, 2022, the Student
+
+sent Professor Goyal an email (“April 14 PHY100 Email”) which attached what were
+purported to be:
+a. screenshots of emails the Student had sent to her Teaching Assistant in
+PHY100 on November 26, 2021;
+
+10
+
+b. the text of another email sent to her Teaching Assistant on December 3,
+2021; and
+c. copies of her answers to Assignments 5 and 6 in PHY100 as Word
+documents (collectively “PHY100 Documents”).
+32. The document properties associated with the Assignment 5 and 6 submissions the
+Student sent to Professor Goyal as part of the PHY100 Documents on April 14, 2022,
+showed that both documents were created on March 24, 2022 (the day after the Student’s
+initial March 23 PHY100 Email to Professor Goyal), not during the Fall 2021 semester.
+33. On April 18, 2002, the Student emailed N.B. writing that she was “deeply sorry for
+what has transpired” and requesting to meet with N.B. on the following day.
+34. The Student met with N.B. on April 19, 2022. At this meeting the Student admitted
+that she had fraudulently created the screenshots which she had attached to the March
+23 Emails, to include grades for assessments which she had not submitted in the Three
+Courses. The Student explained that she had been under a lot of pressure in the Fall
+2021 semester and didn’t get extensions that she had requested for assignments in
+POL101 and POL338. The Student further explained that in Fall 2021 she was struggling
+to manage everything she had to do including preparing for the Law School Admissions
+Test (LSAT), preparing law school applications and participating in extra-curricular
+activities. The Student expressed that she was afraid of failing in the Three Courses, not
+graduating, and disappointing her parents. The Student apologized for breaking the
+Registrar’s and her parents’ trust.
+
+11
+
+35. On April 19, 2022 the Student, sent identical emails to Professors Goyal, Jung and
+Winward (collectively the “April 19 Emails”). The April 19 Emails included the following:
+“I am not sure if you are aware of the situation yet, however I wanted to send this
+as soon as I could. I would like to profusely apologize and express my profound
+regret and shame for what has transpired. I acknowledge and deeply regret the
+pain and inconvenience it has caused you and everyone involved. Although you
+do not know me well, I also regret breaking this trust between a professor and a
+student, and letting you down.
+
+The April 19 Emails concluded with the Student offering her “deep and heartfelt
+apologies” and asking to meet with each professor of the Three Courses individually.
+36.
+
+N.B. subsequently forwarded the matter to the Faculty’s Associate Dean,
+
+Academic and Student Affairs.
+37.
+
+The Student attended a meeting with the Dean’s Designate, on April 26, 2022. She
+
+acknowledges that the Dean’s Designate provided her with the Dean’s warning contained
+in the Code. The Student admitted that she submitted forged documents in the Three
+Courses in order to improve her grades in all three courses.
+38.
+
+The Student explained that she was very busy in the Fall 2021 semester, having
+
+enrolled in some courses with larger workloads than she had anticipated, while trying to
+study for the LSAT, complete applications for law schools, and pursue extra-curricular
+activities. The Student indicated that she had fallen behind, became overwhelmed and
+desperate and did not know what to do. The Student indicated that she had asked for
+extensions from some of her instructors for the courses she was enrolled in, but when
+12
+
+she did not receive them, this further added to her anxiety. The Student apologized
+profusely and expressed remorse for her actions.
+E.
+
+Admissions
+
+39.
+
+The Student admits that she did not submit any of the following assignments in the
+
+Three Courses, and that she was not entitled to academic credit for any of them, despite
+the claims she made to the contrary to the Registrar, Deputy Registrar, Professor Goyal,
+Professor Jung, and Professor Winward:
+a. Assignments 5 and 6 in PHY100, each worth 8%;
+b. Assignments 2, 5 and 6 in POL101, each worth 15%; and
+c. A media portfolio worth 20% and a research essay worth 35% in POL338
+(collectively the “Assignments”).
+
+40.
+
+The Student admits that she knowingly provided the following false information and
+
+documents for the purpose of misleading the Registrar and her course instructors in
+PHY100, POL101, and POL338, to convince them that she had completed and submitted
+the Assignments to raise her grades in the Three Courses:
+a. false information to the Registrar in her meetings of March 8 and 23, 2022, and to
+each of her instructors in the Three Courses in the March 23 Emails, when she
+claimed to have submitted the Assignments in the Three Courses that should have
+been assigned grades but were not;
+b. altered, falsified documents in the form of screenshots of grade sheets in each of
+the Three Courses which did not accurately reflect her grades in those courses;
+
+13
+
+c. documents created in March 2022 that she falsely represented to be emails sent
+to her teaching assistants together with timely answers to Assignments 5 and 6 in
+PHY100 submitted in the Fall 2021 term, when they had in fact been created in
+March 2022 to further her attempts to increase her grade in PHY100; and
+d. false explanations to the Registrar and to the instructors in the Three Courses,
+including technical computer difficulties and her efforts to communicate with them
+in February 2022.
+
+41. The Student admits that she therefore knowingly:
+a. altered or falsified screenshots purportedly showing Quercus gradebook entries
+for the Three Courses, which she submitted to her course instructors on March 23,
+2022, in support of her assertions that her final grades had been recorded
+inaccurately and should be raised, contrary to section B.I.1(a) of the Code; and
+b. falsified and circulated or made use of documents that purported to be her answers
+to Assignments 5 and 6 in PHY100H1, which she submitted in support of her
+assertion that she had submitted these assignments in a timely fashion and that
+her final grade in PHY100H1 had been recorded inaccurately and should be
+raised, contrary to section B.I.3(b) of the Code.
+c. in doing so, she engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind, contrary
+to section B.I.3(b) of the Code.
+
+14
+
+Decision of the Tribunal on the Charges
+42.
+
+The onus is on the University to establish on the balance of probabilities, using
+
+clear and convincing evidence, that the academic offences charged have been committed
+by the Student.
+43.
+
+In this case, the Student admitted 4 charges of violating section B.I.3(a) of the
+
+Code, which states that is an offence for a student to knowingly forge or in any other way
+alter or falsify any document or evidence required by the University, or to utter, circulate
+or make use of any such forged, altered or falsified document, whether the record be in
+print or electronic form.
+44.
+
+The Student admitted these charges in writing and at the hearing, which she
+
+attended with counsel. The Tribunal was satisfied that the Student’s admissions were
+voluntary, informed and unequivocal.
+45.
+
+The Agreed Statement of Facts provided ample evidence to support the charges.
+
+It is clear from those facts that the Student deliberately and repeatedly fabricated
+documents in an attempt to obtain better grades than the ones she had earned. She
+falsified screenshots in an effort to trick three of her professors into falsely believing the
+Student had completed assignments. The Tribunal was satisfied that these documents
+were “required” in the sense that they were specifically requested by the Registrar as
+proof of the Student’s claim that her grades were incorrect, and the Student’s request for
+a revision to her grades could not be considered without them.
+
+15
+
+46.
+
+Accordingly, the Tribunal found the Student guilty of Charges 1, 2, 3 and 4. The
+
+fifth alternative charge of violating section B.I.3(b) of the Code was withdrawn by the
+University.
+Sanction
+47.
+
+The University and the Student jointly submitted that the Tribunal should order the
+
+following sanctions:
+a. a final grade of zero in the course POL338H1 in Fall 2021;
+b. a final grade of zero in the course POL101H1 in Fall 2021;
+c. a final grade of zero in the course PHY100H1 in Fall 2021;
+d. a term of suspension from the University for a period of four years from May
+1, 2023 to April 30, 2027;
+e. a notation of the sanction on her academic record and transcript from the
+date of the Tribunal’s order to April 30, 2028, or her graduation from the
+University, whichever occurs first; and
+f. to report to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed in the University newspapers, with the
+name of the Student withheld.
+48.
+
+The Student submitted additional evidence for the sanctions phase of the hearing,
+
+including a letter of apology she had written, and letters of support from various people,
+including one of the professors she had tried to deceive.
+16
+
+49.
+
+The Tribunal considered the evidence and submissions of the parties in light of the
+
+factors and principles relevant to sanction as set out by this Tribunal in University of
+Toronto and Mr. C. (Case No. 1976/77-3, November 5, 1976).
+a. The character of the Student: the Student had a good academic record, with
+no prior history of academic misconduct. She admitted her misconduct and
+agreed to a joint submission on sanction, saving the cost and expense of a
+fully contested hearing. She expressed her remorse in writing, and through
+her admissions of guilt. The letters of support are positive, although it is not
+clear that any of their authors (other than Professor Goyal) knew about the
+underlying misconduct. She appears to have been a high-achieving, wellrounded person who floundered when faced with the prospect of failure.
+b. The likelihood of repetition of the offence: this was the Student’s first
+academic offence. However, the dishonest conduct was repeated. She
+persisted in her false claims of having turned in numerous assignments
+when she knew she had not. She lied in meetings with the Registrar. She
+only came clean when confronted with clear proof that her most recent
+forgeries (copies of her answers to certain assignments) could not have
+been created months earlier as she had claimed. While the Tribunal
+appreciates the Student’s expressions of remorse, there is concern that the
+misconduct could be repeated if she finds herself in a similarly stressful
+situation. The Student has written that the sanction she has agreed to will
+serve as an invaluable life-long lesson, and the Tribunal hopes very much
+this is true.
+17
+
+c. The nature of the offence committed: these were deliberate falsifications.
+They could not have occurred by accident or neglect. They were not
+spontaneous, or in the desperate heat of one difficult moment. They show
+calculated dishonesty over a period of more than six weeks. The Student
+persistently lied to obtain grades she had not earned.
+d. Any extenuating circumstances: the Student explained that she had been
+under considerable stress, including pressure from her parents and the
+many challenges that came with the Covid-19 pandemic. The Student’s
+counsel submitted that Covid and its aftermath has led to a mental health
+crisis on campus, and that the University could have done more than it did.
+The Tribunal accepts that Covid has been hard. The Tribunal accepts the
+Student’s evidence that she felt she was (in her words) “between a rock and
+a hard place.” The reality is that most students caught cheating did so under
+pressure, resorting to lies and fabrications when they felt they had no other
+choice. It is possible that if the Covid-19 pandemic had never occurred, the
+Student would never have resorted to academic dishonesty. While this
+stress may have been a factor that explains why the Student engaged in
+such blatant lies, it is not an excuse. As the Student herself acknowledges,
+she must be held accountable for her choices.
+e. The detriment to the University caused by the misconduct: the University
+recognizes that grades may be inputted in error, and has a system of review
+to fix any mistakes. The University is harmed any time a student tries to take
+advantage of that system. Given the limitations of manipulated screenshots,
+18
+
+there was perhaps not much risk the Student’s attempts to cheat would be
+successful. However, considerable resources were expended investigating
+the Student’s false claims and fabricated evidence.
+f. The need for general deterrence: this is always a significant concern. The
+Student’s counsel submitted that a preoccupation with general deterrence
+has caused some sanctions to become overly harsh. He cited recent cases
+referring to a presumptive minimum two-year suspension for an act of
+plagiarism or forgery (subject to variation depending on the surrounding
+circumstances), and he claimed this was not in place twenty years ago.
+While that may be true, and while every sanction must be fair, the Tribunal
+finds that general deterrence is a valid feature of penalty orders. Further,
+the facts of this case take it beyond any “presumptive minimum” sanction.
+The Student’s dishonesty involved three different courses and multiple
+forged documents over a period of more than six weeks.
+50.
+
+The Tribunal is not bound by previous decisions of the Tribunal, and each case
+
+must be decided on its own facts. Nevertheless, it is important for like cases to be treated
+alike so that parties can come to hearings with reasonable expectations of what kind of
+sanction they can anticipate based on the findings. The Tribunal considered previous
+cases to help determine the range of penalties ordered in other cases. Grades of zero in
+the affected courses are a constant feature in all cases. The length of suspension varies
+from two years to five years, and even to outright expulsion, with most cases imposing a
+suspension of three to four years.
+
+19
+
+51.
+
+Given the joint submission, the Tribunal did not have to consider whether the
+
+proposed sanction was perfect. Some may find the length of suspension too long, and
+others may find it too short. It is clear that the proposed sanction is firmly within the range
+of what has been ordered in similar cases. The four-year suspension has been backdated to more than five months before the hearing date, and tailored so that it does not
+expire mid-way through an academic term. The sanction does not shock the conscience
+or bring the administration of justice into disrepute. It represents an appropriate balance
+of the mitigating and aggravating factors.
+52. Accordingly, on October 18, 2023, the Tribunal made an order:
+1.
+
+That the Student is guilty of four counts of knowingly altering or falsifying a
+
+document or evidence required by the University of Toronto, or uttered, circulated
+or made use of any such altered or falsified document, contrary to section B.1.1(a)
+of the Code.
+2.
+
+That the following sanctions shall be imposed on the Student:
+a) a final grade of zero in the course POL338H1 in Fall 2021;
+b) a final grade of zero in the course POL101H1 in Fall 2021;
+c) a final grade of zero in the course PHY100H1 in Fall 2021;
+d) a suspension from the University of Toronto for a period of four years
+from May 1, 2023 to April 30, 2027; and
+e) a notation of the sanction on her academic record and transcript from
+the date of the Tribunal’s order to April 30, 2028, or her graduation
+from the University, whichever occurs first.
+20
+
+3.
+
+That this case shall be reported to the Provost for publication of a notice of
+
+the decision of the Tribunal and the sanction or sanctions imposed in the University
+of Toronto newspapers, with the name of the student withheld.
+
+Dated at Toronto this 10th day of April 2024,
+Original signed by:
+____________________________________
+Johanna Braden, Chair
+On behalf of the Panel
+
+21
+
+

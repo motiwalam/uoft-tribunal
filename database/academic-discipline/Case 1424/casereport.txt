@@ -1,0 +1,995 @@
+Case No. 1424
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on September 29, 2022, and
+October 4, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+
+- and -
+
+S
+
+S
+
+REASONS FOR DECISION
+Hearing Date: April 14, 2023, via Zoom
+Members of the Panel:
+Joelle Ruskin, Chair
+Professor Richard B. Day, Faculty Panel Member
+Dylan Dingwell, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+S
+S
+
+2
+I.
+
+Introduction
+
+1.
+
+The Trial Division of the University of Toronto (the “Panel”) was convened on April 14,
+2023, to consider charges brought by the University against S
+
+S
+
+(the “Student”)
+
+under the University of Toronto’s Code of Behaviour on Academic Matters, 1995 (the
+“Code”).
+II.
+
+The Charges
+
+2.
+
+At all material times, the Student was enrolled at the University of Toronto Faculty of
+Arts and Science.
+
+3.
+
+The University alleges that the Student engaged in academic offences referrable to two
+courses; namely, MAT334HSF (“MAT334”) and ECO2201Y1 (“ECO220”) as further
+particularized in Charges dated September 29, 2022 (the “MAT Charges”) and Charges
+dated October 4, 2022 (the “ECO Charges”) (collectively, the “MAT/ECO Charges”).
+
+(a)
+
+The MAT Charges
+
+4.
+
+The Student was charged on September 29, 2022 of the following:
+1.
+
+On or about October 28, 2021, you knowingly represented as your own an idea of
+expression of an idea or work of another in term test 1 in MAT334, contrary to section
+B.l.1(d) of the Code.
+
+2.
+
+In the alternative, on or about October 28, 2021, you knowingly used or possessed an
+unauthorized assistance in connection with term test 1 in MAT334, contrary to section
+B.I.1(b) of the Code.
+
+3.
+
+In the alternative, on or about October 28, 2021, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic advantage of any kind in connection
+with term test 1 in MAT334, contrary to section B.I.3(b) of the Code.
+
+5.
+
+The MAT Charges contain a statement of Particulars, including the following:
+1.
+
+In Fall 2021, you enrolled in MAT334: Complex Variables.
+
+3
+2.
+
+Students in MAT334 were required to write two term tests. Term test 1 (worth 25%) was
+administered on October 28, 2021 (the “MAT334 Test”). Students were prohibited from
+using any aids or obtaining any form of help on the MAT334 Test.
+
+3.
+
+On or about October 28, 2021, you submitted your MAT334 Test.
+
+4.
+
+The answers that you gave in your MAT334 Test were substantially similar to the
+answers given by a number of other students in MAT334, including an advanced theorem
+that was not taught in the lectures.
+
+5.
+
+You knowingly obtained and/or provided unauthorized assistance in your MAT334 Test
+by collaborating with other students or others.
+
+6.
+
+You knowingly used an unauthorized aid or aids while writing the MAT334 Test.
+
+7.
+
+You submitted your MAT334 Test:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were not your
+own, but were the ideas, expressions of ideas or work of other students or others;
+and
+
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or
+work that you drew from other students or others.
+
+8.
+
+You knowingly submitted your MAT334 Test with the intention that the University of
+Toronto rely on it as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+
+(b)
+
+The ECO Charges
+
+6.
+
+The Student was charged on October 4, 2022 of the following:
+1.
+
+On or about the following dates, you knowingly obtained and/or provided unauthorized
+assistance in connection with the following term tests in ECO220 (the “ECO Course”),
+contrary to section B.I.1(b) of the Code:
+(a)
+
+December 4, 2020 in connection with Term Test 2; and
+
+4
+(b)
+
+February 26, 2021 in connection with Term Test 3.
+
+(Collectively, “Charges #1(a) to (b)”)
+2.
+
+In the alternative to Charges #1(a) to (b), respectively, on or about the following dates,
+you knowingly represented as your own an idea or expression of an idea or work of
+another in connection with the following term tests in the ECO Course, contrary to
+section B.I.1(d) of the Code:
+(a)
+
+December 4, 2020 in connection with Term Test 2; and
+
+(b)
+
+February 26, 2021 in connection with Term Test 3.
+
+(Collectively, “Charges #2(a) to (b)”)
+3.
+
+In the further alternative to Charges #1(a) to (b) and Charges#2(a) to (b), respectively, on
+or about the following dates, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind in connection
+with the following term tests in the ECO Course, contrary to section B.I.3(b) of the Code:
+
+8.
+
+(a)
+
+December 4, 2020 in connection with Term Test 2; and
+
+(b)
+
+February 26, 2021 in connection with Term Test 3.
+
+The ECO Charges contain a statement of Particulars, including the following:
+2.
+
+In Fall 2020 and Winter 2021, you enrolled in ECO220Y1Y: Introduction to Data
+Analysis and Applied Econometrics, which was taught by Professor Jennifer Murdock.
+Due to the pandemic, the Course was taught online.
+
+3.
+
+Students in the Course were required to write four term tests, each worth 12.5% of the
+Course mark. The term tests were administered online. Students had two hours to
+complete each term test.
+
+4.
+
+Students were required to complete their term tests independently and without the use of
+aids. They were not permitted to collaborate with one another or with others in
+completing the term tests.
+
+5
+5.
+
+6.
+
+You submitted the following term tests on the following dates:
+(a)
+
+Term test 2 on December 4, 2020; and
+
+(b)
+
+Term test 3 on February 26, 2021 (collectively, the “Term Tests”).
+
+The answers that you gave in your Term Tests were substantially similar to the answers
+given by a number of other students in the Course.
+
+7.
+
+You knowingly obtained and/or provided unauthorized assistance in each of the Term
+Tests by collaborating with other students and/or test service providers and/or you used
+unauthorized aids to assist you to write the Term Tests. You knew that you were not
+permitted to collaborate or use unauthorized aids.
+
+8.
+
+You submitted each of the Term Tests:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were not
+your own, but were the ideas, expressions of ideas or work of others; and
+
+(c)
+
+knowing that you did not properly reference those ideas, expressions of ideas or
+work.
+
+9.
+
+You knowingly submitted each of the Term Tests with the intention that the University of
+Toronto rely on it as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+
+9.
+
+At the commencement of the proceedings, Mr. Webb advised the Panel that the
+University would withdraw charges against the Student under sections B.I.1(d) or
+B.1.3(b) of the Code on the basis of the Student being found guilty of knowingly
+obtaining and/or providing unauthorized assistance in connection with the Term Tests in
+ECO220 and the MAT334 Test contrary to section B.I.1(b) of the Code.
+
+III.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+6
+10.
+
+The hearing was scheduled to begin at 9:45 a.m. on April 14, 2023, via Zoom. Neither
+the Student nor a representative on the Student’s behalf were logged onto the Zoom link
+at that time.
+
+11.
+
+The Panel held the matter down until 9:55 a.m. at which time Assistant Discipline
+Counsel proceeded to make submissions on the issue of notice.1
+
+12.
+
+Rules 13, 14, 17 and 21 of the University Tribunal’s Rules of Practice and Procedure
+(the “Rules”), sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”) and
+the University’s Policy on Official Correspondence with Students dated September 1,
+2006 provide the framework for a determination as to whether notice has been adequately
+provided to a student such that the Panel can proceed with the hearing despite his or her
+absence.
+
+13.
+
+Rule 13 provides that “Charges, notices of hearing, disclosure material for use on
+motions or hearings, orders, and reasons for decision may be served on a student or sent
+to a student” by, among other things, “sending a copy of the document by courier to the
+student’s mailing address contained in the Repository of Student Information (“ROSI”) . .
+. and service shall be effective on the day the document is delivered by the courier” or
+“by e-mailing a copy of the document to the student’s e-mail address contained in ROSI .
+. . and service shall be effective on the day the document is sent by e-mail.”
+
+14.
+
+Rule 17 provides that “the Secretary shall provide the University with reasonable notice
+of a hearing and shall deliver such notice to the student’s last known ROSI email
+address.” In this case, the Notice of Electronic Hearing was sent by email to the Student’s
+utoronto email address on February 23, 2023. A revised Notice of Electronic Hearing
+dated April 12, 2023, was subsequently delivered by email to the Student’s utoronto
+
+1 At in or around the 40-minute mark of the hearing while Mr. Webb was addressing the MAT Charges, a private
+
+computer identified as “Lorvale Academy” attempted to join the Zoom waiting room (there was an icon of the crest
+of the Lorvale Academy, a Private High School in Markham, Ontario). There was no evidence in the book of
+documents that the Student had any connection to this private high school and, in fact, evidence was tendered by the
+University through Professor Cowper that the Student had attended secondary school in British Columbia
+(Westminster Secondary School in British Columbia) and appeared to have no connection to the Markham
+Secondary School. The Panel paused the hearing to admit the individual, but no one joined. The Zoom waiting room
+was monitored throughout the hearing.
+
+7
+email address. The only change between the February 23, 2023 Notice of Electronic
+Hearing and the April 12, 2023 Notice of Electronic Hearing was the name of the student
+panel member, which was indicated in bold underlined font. All other information
+remained unchanged.
+15.
+
+Rule 21 of the Rules provides: “Where notice of a virtual hearing, an in-person hearing, a
+hybrid hearing, or a written hearing has been given to a party in accordance with this
+Part, and the party does not attend at or does not participate in the hearing, the panel may
+proceed in the absence of the party or without the party’s participation and the party is
+not entitled to any further notice in the proceeding.”
+
+16.
+
+The University’s Policy on Official Correspondence with Students dated September 1,
+2006, expressly states that students are responsible for maintaining on ROSI a current and
+valid mailing address and University-issued email account, and that “[f]ailure to do so
+may result in a student missing important information and will not be considered an
+acceptable rationale for failing to receive official correspondence from the University.”
+Students are expected to monitor and retrieve their email on a frequent and consistent
+basis. Students have the right to forward their university-issued email account to another
+email account, but remain responsible for ensuring that all University email
+communications are received and read.
+
+17.
+
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+
+18.
+
+The University relies on the Affidavit of Ms. Alexciya Blair (“Ms. Blair”), a legal
+assistant at the law firm of Paliare Roland, and the Affidavit of Mr. Andrew Wagg (“Mr.
+Wagg”), the Manager, Incident Response at Information Security, Information
+Technology at the University of Toronto, in meeting its onus of proof that the Student
+was provided with reasonable notice of the hearing.
+
+19.
+
+Ms. Blair’s Affidavit itemizes the efforts made by Paliare Roland to contact the Student
+about the MAT/ECO Charges and the hearing. Attempts to contact the Student were
+made by email to the Student’s utoronto account, by phone to the Student’s telephone
+
+8
+number listed in ROSI (Mr. Webb received a message that the number was no longer in
+service) and by courier to the Student’s address listed in ROSI (the package was signed
+for by the concierge at the building).
+20.
+
+Ms. Blair’s Affidavit also provides that:
+
+(a)
+
+On April 26, 2021, the Student met with the course instructor for ECO220 to
+discuss allegations that the Student obtained unauthorized assistance in
+connection with the Term Tests.
+
+(b)
+
+In November 2021, the Student had exchanged emails with the course instructor
+for MAT334 about the allegations that the Student obtained unauthorized
+assistance in connection with MAT334 Test.
+
+(c)
+
+Emails from June and July 2022 show the Student Academic Integrity Office
+(“SAI”) trying to schedule a meeting with the Student to discuss the allegations in
+this case, but that the Student did not respond.
+
+(d)
+
+The Student’s Acorn account (a web-based tool that stores University of Toronto
+students’ academic, personal and financial records) had last been accessed on
+January 5, 2023.
+
+21.
+
+Mr. Wagg’s Affidavit provides that the last time someone accessed the Student’s
+utoronto email account was on September 22, 2022 at 5:22 PM, local Toronto time.
+Accordingly, the Student’s exchange of emails with the course instructor for MAT334,
+his meeting with the course instructor for ECO220 and the receipt of emails from the SAI
+in June and July 2022 took place prior to the last time someone logged into the Student’s
+email address. The service of the MAT/ECO Charges and Notice of Hearing were served
+on the Student, by email and courier after the last time someone logged into the Student’s
+email address.
+
+22.
+
+Further, in accordance with the evidence of Ms. Blair, the Student appeared to be aware
+of the allegations that led to the MAT/ECO Charges as she had emailed with her
+MAT334 course instructor and met with her ECO220 course instructor to address their
+respective concerns in November 2021 and April 2021, respectively.
+
+9
+23.
+
+In the University of Toronto v. J.Z. (Case No. 1406, April 4, 2023) and the University of
+Toronto v. Y. L. (Case No. 1239, March 17, 2022) (“Y.L.”), the Panels were satisfied that
+it was more likely than not that the students in those cases had made a deliberate choice
+to avoid any official communications from the University after engaging in initial
+interactions with their instructors regarding the allegations of academic misconduct.
+While the Panel in the case at bar does not deem it necessary to come to the same
+conclusion, it was troubled by the timeline in this case.
+
+24.
+
+Although the evidence provided did not confirm that the Student had received the Notice
+of Electronic Hearing, whether or not the Student actually received the notice provided is
+not the question to be answered. The University served the Student by email to her
+official ROSI email and attempted to reach the Student by courier and phone.
+Accordingly, the Panel found that the Student was given reasonable notice under the
+Rules. The Tribunal therefore ordered that the hearing should proceed in the Student’s
+absence.
+
+IV.
+
+Summary of the Evidence
+
+MAT Charges
+25.
+
+In the Fall of 2021, the Student was enrolled in MAT334H5F: Complex Variables - an
+upper year mathematics course. The course was taught by Associate Professor Ke Zhang
+(“Professor Zhang”) and covers several topics, including conformal mappings, analytic
+continuation, and harmonic functions. The textbook for the course was Complex
+Variables by Stephen Fisher (2nd Edition), Dover Publications.
+
+26.
+
+Students in the course were required to write several assignments, term tests and a final
+exam.
+
+27.
+
+The syllabus stated that no outside aids or help from other people was permitted in the
+term tests and the final: “No outside aids permitted in term test and final exam, including
+textbook, notes, and any form of help from other people. The term tests and final exam
+
+10
+will come with a formula sheet of common formulas in the course.” (Emphasis in
+original)
+28.
+
+MAT334 Test was administered online from 11:10am to 1:00pm on October 28, 2021,
+and was worth 25% of students’ final grade in the course. The front page of the Test
+stated: “No outside aid is allowed.”
+
+29.
+
+In his Affidavit sworn April 4, 2023, Professor Zhang provides evidence that:
+
+(a)
+
+When he was grading the MAT334 Test, he found that several students’ answers
+were highly similar. These students included the Student and approximately 13
+other students.
+
+(b)
+
+The Student’s answers and those of another student (J.H.) contained verbatim
+similarities and non-verbatim conceptual similarities. These similarities were
+pictorially represented in a chart contained in Professor Zhang’s Affidavit.
+Verbatim similarities were highlighted in yellow and non-verbatim conceptual
+similarities were highlighted in blue. The contents of these charts are painted
+almost entirely in yellow.
+
+(c)
+
+For questions 1, 2, and 3, Professor Zhang explains that there were many different
+ways that students could have written or expressed their answers, but the
+Student’s and J.H.’s answers were highly similar in terms of method, steps,
+structure, and notations. The Student’s and J.H.’s answers were correct, but the
+degree of similarity between their answers was striking compared to the many
+different ways that other students in the course wrote their answers to these
+questions.
+
+(d)
+
+For question 4, the Student’s and J.H.’s answers were virtually identical,
+including the use of an advanced and somewhat obscure theorem (Green’s
+Theorem) that Professor Zhang did not teach in the course. There were many
+different ways that students could have written or expressed their answers, either
+with or without using Green’s Formula. The Student’s and J.H.’s answers were
+
+11
+correct, but the degree of similarity between their answers was striking compared
+to the many different ways that other students in the course wrote their answers.
+(e)
+
+For question 5, there were many different ways that students could have written or
+expressed their answers. With the exception of one step, the Student and J.H. both
+used virtually the same method, steps, structure, and notations. The degree of
+similarity between their answers was striking compared to the many other ways
+that students in the course wrote their answers to this question. The Student’s and
+J.H.’s final answers were correct, but they both missed the same intermediate step
+that explains how they went from one step to the next.
+
+30.
+
+Professor Shay Fuchs, Dean’s Designate for Academic Integrity and an Associate
+Professor, Teaching Stream, in the Department of Mathematical and Computational
+Sciences, at the University of Toronto Mississauga (“Professor Fuchs”) also provided
+evidence by affidavit regarding the MAT Charges.
+
+31.
+
+In his Affidavit sworn April 4, 2023, Professor Fuchs provides evidence that:
+
+(a)
+
+In 2022, the Academic Integrity Unit received allegations that several students in
+MAT334 obtained unauthorized assistance in the MAT334 Test.
+
+(b)
+
+These students included the Student and approximately 13 others. Except for the
+Student, each of the students have admitted to an academic offence in connection
+with the MAT334 Test.
+
+32.
+
+Professor Fuchs Affidavit details the various Dean’s Designate Meetings held with the 13
+other students (i.e., not the Student) and the various explanations, admissions, etc. by
+those students regarding the alleged academic misconduct. While the Panel took into
+consideration the contents of Professor Fuchs’ Affidavit, the Panel did not find the
+evidence of the other students’ admissions, explanations regarding the MAT334 Test
+relevant to the determination of whether or not the Student was guilty of the charges
+related to the MAT Charges.
+
+12
+ECO Charges
+33.
+
+The Student was enrolled in ECO220 (“Introductory to Data Analysis and Applied
+Econometrics”) in Fall 2020 and Winter 2021. The course was taught by Professor
+Jennifer Murdock (“Professor Murdock”), who has taught ECO220 at the University of
+Toronto since 2004.
+
+34.
+
+In Fall 2020 and Winter 2021, the course was administered online due to the pandemic.
+There were five sections in the course. Students registered for one of these five sections.
+
+35.
+
+Students in the course were required to write four term tests, each worth 12.5% of their
+final grade. Each test contained six open-ended questions, with a complete answer
+requiring some combination of writing, graphing and/or quantitative analysis. Professor
+Murdock provided evidence that she created eight different versions of each term test to
+deter cheating. Students were assigned a particular version of a term test at random.
+
+36.
+
+The Syllabus stated that students were prohibited from collaborating on the term tests:
+“[t]here is absolutely no collaboration allowed on Term Tests #1 to #4 or the short
+writing assignments. Your submissions must be entirely your own work.”
+
+37.
+
+Professor Murdock posted academic integrity instructions to Quercus for each term test,
+which stated academic integrity is a fundamental value of learning and scholarship at the
+University of Toronto and that students were prohibited from collaborating. Students
+were required to submit a signed academic integrity statement that stated they agreed to
+fully abide by the Code of Behaviour on Academic Matters for each term test. Each term
+test also stated “[t]here is absolutely no collaboration and absolutely no communication
+until after we return your marked work to you.”
+
+38.
+
+Term test 2 was administered online on December 4, 2020. Students had 105 minutes to
+write the test and 15 minutes to scan and upload their tests. To defer cheating, eight
+versions were prepared and assigned to students at random.
+
+13
+39.
+
+Term test 3 was administered online on February 26, 2021. Students had 105 minutes to
+write the test and 15 minutes to scan and upload their tests. To deter cheating, eight
+versions were prepared and assigned to students at random.
+
+40.
+
+In her Affidavit sworn March 30, 2023, Professor Murdock provided the following
+evidence related to the ECO Charges:
+(a)
+
+On March 3, 2021, a teaching assistant for the course notified Professor Murdock
+that several students gave highly similar answers to term test 3. After reviewing
+the similarities, Professor Murdock had serious concerns that students were
+collaborating, and decided to investigate.
+
+(b)
+
+From March to May 2021, the teaching team spent well over 100 hours
+investigating the issue and found evidence of widespread collaboration. Based on
+similarities between students’ answers, some students appeared to collaborate in
+small groups, while others appeared to be part of a larger network or group of
+students.
+
+(c)
+
+Professor Murdock suspected that the Student collaborated with other students on
+term test 2 (and, specifically, two students) because there were striking
+similarities between the Student’s answers and those of the other students even
+though there were many ways that students could have written their answers and
+many ways that other students in the course actually wrote their answers.
+
+(d)
+
+The striking similarities on term test 2 included word choice, syntax, structure,
+ideas and quantitative analysis. In some cases, the answers to the test questions
+were virtually identical to those of another student, namely, H.L.
+
+(e)
+
+The Student’s term test 3 was also similarly striking in its similarity (word choice,
+syntax, structure, ideas and quantitative analysis) to another student’s test;
+namely, D.Z. In some cases, again, the answers to test questions were virtually
+identical (including full paragraphs of text).
+
+14
+(f)
+
+Professor Murdock’s Affidavit includes a chart that compares the Student’s
+answers in terms test 2 and term test 3 with H.L and D.Z, respectively. Yellow
+highlighting is used to indicate verbatim similarities and blue highlighting
+indicates non-verbatim conceptual similarities. Very significant portions of the
+answers are completely highlighted in yellow, there is some blue and very little
+unhighlighted portions (in either yellow or blue). In other words, the chart shows
+virtually identical answers for term test 2 and term test 3 between the Student and
+H.L and D.Z., respectively.
+
+41.
+
+Professor Murdock provided additional oral evidence at the hearing. Her evidence was
+that:
+(a)
+
+She has been teaching the course since 2004 and has a depth of experience
+reviewing the wide range of answers that students may provide to a given
+question. In the case at bar, Professor Murdock’s evidence was that the Student’s
+term test 2 and term test 3 – due to their striking similarities with other students –
+“stood out like a sore thumb”. Professor Murdock was emphatic in that
+description.
+
+(b)
+
+Even among specifically high-quality answers, as was the case here, Professor
+Murdock was very strong in her evidence that answers vary significantly.
+Professor Murdock again underscored that the Student’s term test 2 and term test
+3 – due to their striking similarities with other students – stood out like a sore
+thumb.
+
+42.
+
+Professor Elizabeth Cowper, Professor Emeritus in the Department of Linguistics at the
+University of Toronto and Dean’s Designate for Academic Integrity with the Student
+Academic Integrity office in the Faculty of Arts and Science (“Professor Cowper”) also
+provided evidence by affidavit regarding the ECO Charges.
+
+43.
+
+In her Affidavit sworn April 3, 2023, Professor Cowper provides evidence that:
+
+15
+(a)
+
+In 2021, SAI received allegations that over 100 students in Fall 2020 and Winter
+2021 ECO220 obtained unauthorized assistance on several term tests. These
+students included the Student, H.L. and D.Z.
+
+(b)
+
+H.L. and D.Z., and many other students, admitted to an academic offence in
+connection with one or more ECO220 term tests.
+
+44.
+
+Professor Cowper’s Affidavit details the various Dean’s Designate Meetings held with
+the other Students (i.e., not the Student) to discuss the allegations. Professor Cowper’s
+Affidavit addresses the significant amount of time and resources that were required to
+arrange and hold these meetings. SAI made several attempts to contact the Student about
+ECO220 and MAT334, but the Student never responded.
+
+V.
+
+Findings on Charges
+
+45.
+
+The Student is charged with obtaining unauthorized assistance contrary to section
+B.I.1(b) of the Code as it relates to MAT334 Test and Term Test 2 and 3 in ECO220.
+
+46.
+
+The University has the onus to show, on clear and convincing evidence, that the Student
+committed the alleged offence on a balance of probabilities. This means that the
+University must prove it is more likely than not (i.e., a 51% probability) that the Student
+committed the offence. The University is not required to prove the offence “conclusively
+or by necessary inference”, nor is it required to eliminate all “possibilities that are
+inconsistent with an inference of guilt”.
+
+47.
+
+Assistant Discipline Counsel made submissions that where the University leads evidence
+that a student’s answer is similar to another student’s answer or to a third party’s answer,
+the Tribunal should consider the following factors to evaluate the evidence (although the
+following is not explicitly stated in the cases submitted by Assistant Discipline Counsel
+nor set out as a binding test):
+(a)
+
+The nature of the question, including the number of ways that one could express
+an answer to the question, whether the question is new, etc.
+
+16
+
+MAT Charges: The evidence from Professor Zhang was that there were many
+ways that a student could have answered the mathematical question in terms of
+method, steps, structure, and notations, but that the Student answered the
+questions in a strikingly similar fashion to J.H. as reflected in the chart contained
+in his affidavit.
+ECO Charges: The evidence of Professor Murdock based on her teaching the
+course for approximately 20 years is that students, including those with high
+calibre answers, would be expected to answer the questions in very many
+different ways. In other words, answers can reflect the same general
+conclusions/responses but the steps to get there and the way the answer is written
+varies greatly.
+(b)
+
+The nature of the similarities, including idiosyncrasies, unusual features,
+mistakes, concepts or notations not taught in the course, etc.;
+MAT Charges: Professor Zhang’s evidence was that the Student’s answers were
+highly similar to another student’s answers in terms of method, steps, structure,
+and written notations. Additionally, Professor Zhang’s evidence was that the
+Student’s and J.H.’s answers were virtually identical, including the use of an
+advanced and somewhat obscure theorem (Green’s Theorem) that Professor
+Zhang did not teach in the course. Critically, the Student’s and J.H.’s final
+answers to question 5 were correct, but they both missed the same intermediate
+step that explains how they went from one step to the next. This was a significant
+piece of evidence taken into consideration by the Panel.
+ECO Charges: Professor Murdock gave oral evidence that the similarities “stuck
+out like a sore thumb”.
+
+(c)
+
+The degree of the similarities, ranging from modest to striking similarities;
+
+17
+MAT/ECO Charges: In both cases the degree of similarities was striking as
+evidenced by the charts prepared by the affiants depicting the verbatim
+similarities in yellow and non-verbatim similarities in blue.
+(d)
+
+The student’s explanation, if any, for the similarities;
+MAT/ECO Charges: The Student did not participate in the proceeding and
+therefore no explanation was provided by her.
+
+(e)
+
+Any other factors that are relevant in the circumstances, including whether other
+students who submitted similar answers have admitted to an offence in connection
+with the same piece of academic work.
+MAT/ECO Charges: The Panel did not place weight on the hearsay evidence of
+other students as set out in the Affidavits of Professor Fuchs and Professor
+Cowper.
+
+48.
+
+Assistant Discipline Counsel submits that the University is not required to definitively
+prove the method by which a student obtained unauthorized assistance, as long as the
+required elements of the offence are made out. For example, where the University leads
+evidence that two answers are similar, the University is not required to definitively prove
+that a student obtained their answer from another student or a from third party (e.g., a
+tutor, a website, etc.). The University only has to prove that the Student obtained
+unauthorized assistance. Further, the University does not need to prove whether the
+Student provided or obtained the unauthorized assistance. In this case, even were it the
+case that it was the Student whose tests were in all cases copied by the other students, the
+requirement to work independently would have been violated.
+
+49.
+
+Applying the above framework to each of the alleged academic offences, the Panel was
+satisfied that the evidence establishes that the University proved on a balance of
+probabilities the facts to support a conviction on the MAT Charges and ECO Charges
+under section B.I.1(b) of the Code.
+
+18
+50.
+
+As in the case of the University of Toronto and Y.C. and L.F, (Case No. 1372 and Case
+No. 1373, March 7, 2023), the evidence in this case does not support a particular theory
+of misconduct. The Student may have copied the answers of another student, the
+Student’s own answers may have been copied, or the Student copied the same answers as
+the other remarked-upon students from another source. No matter how the Student went
+about it, the evidence established on a balance of probabilities that misconduct occurred.
+As noted by the Tribunal in the case of the University of Toronto and S.R. (Case No. 708,
+June 6, 2014) at paragraph 33, Charge 1 under section B.I.1(b) of the Code covers both
+obtaining unauthorized assistance from another person, or, through the operation of
+section B.II.1.(a), being a party to the offence of aiding or assisting another student to
+obtain unauthorized assistance. All the University must prove on a balance of
+probabilities is that an offence occurred.
+
+51.
+
+The evidence establishes that there were highly unusual similarities between the
+Student’s answers to Term Test 1 in MAT334 and Term Test 2 and Term Test 3 in
+ECO220 and that it defies credulity that the similarities were due to chance.
+
+VI.
+
+Finding on Penalty
+
+52.
+
+Once the Panel had made a determination on the charges, the University requested the
+following penalty for the offences:
+(a)
+
+a final grade of zero in ECO2201Y1 in Fall 2020 and Winter 2021;
+
+(b)
+
+a final grade of zero in MAT334H5F in Fall 2021;
+
+(c)
+
+a suspension from the University for a period of 3 years from the date of this
+order; and
+
+(d)
+
+a notation of the sanction on the student’s academic record and transcript for a
+period of 4 years from the date of this order.
+
+53.
+
+The University also requested that this case be reported to the Provost for publication of a
+notice of the decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+
+19
+54.
+
+To support this proposed penalty, Assistant Discipline Counsel referred to Appendix “C”
+to the Code, which provides a guide to sanctions. Assistant Discipline Counsel also made
+submissions on the relevant factors in determining the appropriate sanctions and the
+typical penalty for similar cases by drawing the Panel’s attention to various other cases
+similar to this case.
+
+55.
+
+The seminal case of the University of Toronto and Mr. C. (Case No. 1976/77-3,
+November 5, 1976) outlines the factors that the Panel should consider in determining the
+appropriate penalty: a) The character of the person charged; b) The likelihood of
+repetition of the offence; c) The nature of the offence committed; d) Any extenuating
+circumstances surrounding the commission of the offence; e) The detriment to the
+University occasioned by the offence; and f) The need to deter others from committing a
+similar offence.
+
+56.
+
+Consideration of those factors (grouped together in some instances) is addressed below:
+(a)
+
+Given that the Student did not participate in the proceeding, there was no
+evidence presented to the Panel regarding the character of the person charged and,
+therefore, no mitigating circumstances to consider. The Panel considered this to
+be a neutral factor.
+
+(b)
+
+Likelihood of repetition of offence. This was a key factor driving the University’s
+position on sanction and the Panel gave it thoughtful consideration. While the
+Student had no prior offences, the Student was found to have committed three
+concurrent offences. A chronological review of how the events unfolded vis-à-vis
+the MAT/ECO Charges was instructive regarding this factor. In summary, the
+Student committed an academic offence in December 2020, when she obtained
+unauthorized assistance on Term Test 1 in ECO2202. Two months later, in
+February 2021, the Student again obtained unauthorized assistance in Term Test 3
+in the same course. On April 26, 2021, the Student met with Professor Murdock
+to discuss allegations and was put on notice that this type of conduct is not
+acceptable. After being warned of a possible academic integrity offence, the
+Student again committed the same offence by collaborating with another student
+
+20
+in the Fall of 2021 in MAT334. The three offences were nearly identical and the
+repetition of the offence, notwithstanding a warning, suggested to the Panel that
+there was a very real likelihood of re-offence.
+(c)
+
+Nature of Offence/Detriment to the University/General Deterrence. The
+University relied on the case of the University of Toronto and G.G. (Case No.
+1104, June 24, 2021) (“G.G.”). While the offence in that case involved
+plagiarism, the comments of the Panel at paragraph 19 apply equally to the
+offence of unauthorized assistance: “The offence is serious in nature and causes
+great detriment to the University and its students. A number of Tribunal decisions
+(e.g., University of Toronto and Y.G. (Case No. 802, September 28, 2015) have
+observed that plagiarism corrodes academic integrity at the University and
+undermines the relationship of trust between the University and its students. For
+these reasons, plagiarism is considered in the cases to be a very serious offence
+that warrants a serious penalty.” With respect to deterrence, the Panel in G.G.
+made the following observations, which are also apposite this case: “There is a
+strong need to deter others from committing a similar offence, for many of the
+reasons noted above. This type of offence poses a grave threat to the integrity of
+the University’s processes for evaluating students, is profoundly unfair to other
+students, and jeopardizes the University’s reputation.”
+
+57.
+
+While the Student in this case did not have any prior offences, the Student had been
+warned of a possible academic integrity offence by Professor Murdock related to Term
+Test 3 prior to the Student committing the very same offence by collaborating with
+another student in the Fall of 2021 in MAT334.
+
+58.
+
+The Panel carefully considered the facts of the case. The Panel is aware that prior
+Tribunal decisions are not binding on it, but that they do offer guidance for the Panel on
+penalties imposed on other students in similar circumstances.
+
+59.
+
+In this case, the three-year suspension for a finding of liability on three concurrent
+offences with an intervening event (of Professor Murdock meeting with the Student) was
+in line with similar cases presented by Assistant Discipline Counsel. Again, while the
+
+21
+Panel is not bound by any of these decisions, they are helpful in assisting the Tribunal in
+treating like cases alike.
+60.
+
+For these reasons, the Tribunal accepted the Provost’s submissions on sanction, and
+signed an order after the hearing imposing the following sanctions on the Student:
+(a)
+
+final grade of zero in ECO2201Y1 in Fall 2020 and Winter 2021;
+
+(b)
+
+final grade of zero in MAT334H5F in Fall 2021;
+
+(c)
+
+suspension from the University for a period of 3 years from the date of this order;
+
+(d)
+
+notation of the sanction on the student’s academic record and transcript for a
+period of 4 years from the date of this order; and
+
+(e)
+
+This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the Student
+withheld.
+
+Dated at Toronto this 17th day of July, 2023
+
+Original signed by:
+_____________________________
+Joelle Ruskin, Chair
+On behalf of the Panel
+
+

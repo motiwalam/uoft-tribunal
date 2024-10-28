@@ -1,0 +1,329 @@
+Case No.: 1504
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 4, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and E
+
+B
+
+REASONS FOR DECISION
+
+Hearing Dates: May 8, 2024, and June 24, 2024, via Zoom
+Panel Members:
+Michelle S. Henry, Chair
+Professor George Cree, Faculty Panel Member
+Laiba Butt, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Chloe Hendrie, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+E
+B
+
+2
+1.
+
+A hearing of the Trial Division of the University Tribunal convened on May 8, 2024, to
+
+consider charges of academic dishonesty brought by the University against E
+
+B
+
+(the
+
+“Student”), under the Code of Behaviour on Academic Matters, 2019 (the “Code”). The Student
+was informed of the charges by letter dated May 4, 2023, from Professor Randy Boyagoda, former
+Acting Vice-Provost, Faculty & Academic Life.
+2.
+
+On May 8, 2024, the Student requested an adjournment, as she was unable to participate in
+
+the hearing due to work commitments. The request for the adjournment was granted and the
+hearing was continued on June 24, 2024.
+THE CHARGES
+3.
+
+At all material times, the Student was a registered student at the University of Toronto
+
+Scarborough (“UTSC”). The University brought the following charges against the Student:
+4.
+
+On or about May 3, 2022, the Student knowingly forged or in any other way altered or
+
+falsified an academic record, or uttered, circulated or made use of such forged, altered or falsified
+record, namely, a document that purported to be a screenshot of the Payments page from the
+Student’s online ACORN account, which the Student submitted to the Office of the Registrar at
+UTSC, contrary to Section B.I.3(a) of the Code.
+5.
+
+In the alterative, on or about May 3, 2022, the Student knowingly forged or in any other
+
+way altered or falsified a document or evidence required by the University of Toronto, or uttered,
+circulated or made use of such forged, altered or falsified document, namely, a document that
+purported to be a screenshot of the Payments page from the Student’s online ACORN account,
+which the Student submitted to the Office of the Registrar at UTSC, contrary to Section B.I.1(a)
+of the Code.
+6.
+
+In the further alternative, on or about May 3, 2022, the Student knowingly engaged in a
+
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in order to obtain academic credit or other academic advantage of any kind, by
+submitting a forged, altered or falsified document, namely, a document that purported to be a
+screenshot of the Payments page from the Student’s online ACORN account, which the Student
+submitted to the Office of the Registrar at UTSC, contrary to Section B.I.3(b) of the Code.
+
+3
+AGREED STATEMENT OF FACTS AND EVIDENCE
+7.
+
+The hearing proceeded based on an Agreed Statement of Facts (“ASF”). The Panel also
+
+received a Book of Documents from the University containing the affidavit of Dallas Boyer,
+Associate Registrar and Director of Student Services in the Office of the Registrar at UTSC, affirmed
+April 26, 2024, and the affidavit of Nisha Panchal, Student Conduct & Academic Integrity Officer
+in the Dean’s Office at UTSC, affirmed April 25, 2024. As part of the ASF, the Student confirmed
+her acceptance of the evidence of Mr. Boyer and Ms. Panchal, as outlined in their affidavits, and
+agreed with the facts as set out therein.
+Summary of Evidence
+8.
+
+The Student was registered with UTSC since Winter 2019. She had accumulated 6.0 credits
+
+and had a cumulative GPA of 0.82. In May 2022, the Student was placed on a 3-year academic
+probation due to low GPA. Her probationary period ends on April 30, 2025.
+9.
+
+The Accessible Campus Only Resource Network (“ACORN”) is the University’s student
+
+information system. Students use ACORN to enrol in courses, check fees and finances, and update
+their address and contact information, among other things. Fee payments made by or on behalf of
+a student are tracked through ACORN. All fee payments that are made are logged on a student's
+ACORN profile. The ACORN payment history logs show when a payment was processed, a
+description of the transaction (i.e., the payment source), and the invoice session (i.e., the term) that
+the payment was applied to. Typically, students make fee payments through their financial
+institution. These payments are then recorded on the student's payment history log once they have
+been processed. In some instances, such as if a student pays their fees using a credit card, fee
+payments will be made directly through ACORN and are automatically recorded on the student's
+payment history log.
+10.
+
+The Summer 2022 term started on May 9, 2022. Students received their fee invoice for the
+
+Summer 2022 term on April 11, 2022, and were required to pay or defer their fees by April 20,
+2022. Students who did not pay their fees before the end of the business day (at or around 4:30
+p.m.) on May 3, 2022, would be subject to financial cancellation and would be removed from any
+courses they had enrolled in for the Summer 2022 term.
+
+4
+11.
+
+Between April 20, 2022, and the financial cancellation deadline on May 3, 2022, students
+
+who missed the payment deadline could submit a “proof of payment” — either of a fee payment
+or a fee deferral — to the Registrar’s Office to maintain their registration and enrollment status for
+the Summer 2022 term.
+12.
+
+On May 3, 2022, the Student sent an email to the Registrar’s Office at UTSC, with the
+
+subject line, “PROOF OF SUMMER TUITION PAYMENT”, attaching a screenshot of what was
+purported to be the Payments page on her online ACORN account (the “ACORN Screenshot”).
+The ACORN Screenshot indicated that, on April 25, 2022, the Student had made a “bank payment”
+towards her Summer 2022 tuition in the amount of $647.55.
+13.
+
+The Payment History Screenshot was reviewed by the staff at the Registrar's Office on May
+
+3, 2022. The Registrar’s Office identified discrepancies in the Payment History Screenshot as
+compared to the University's records, including:
+a. that the payment received by the University on April 25, 2022, was in the amount of $311,
+not $647.55;
+b. that the April 25, 2022, payment was directed to the Winter 2022 session, not the Summer
+2022 session, because the Student still had outstanding fees from the Winter 2022 session;
+and
+c. the alignment of the text that said "Summer 2022" in the Payment History Screenshot did
+not match the alignment of the text elsewhere in the payment history table.
+
+14.
+
+The Student was advised about these discrepancies on May 3, 2022, via email.
+
+15.
+
+In reviewing the Student's Repository of Student Information (“ROSI”) payment history
+
+log, it showed that the Student made a bank payment on April 25, 2022 in the amount of $311,
+which was directed to the Winter 2022 term. The Student's ROSI payment history log also showed
+that prior to this, on November 29, 2021, the Student made a bank payment of $610, which was
+also directed to the Winter 2022 term.
+16.
+
+The Student had submitted the ACORN Screenshot to show that she had paid tuition for
+
+Summer 2022. However, the ACORN Screenshot was forged, altered or falsified, as the Student
+
+5
+had not made a payment towards her Summer 2022 tuition; but, in fact, the payment that was made
+on April 25, 2022, was in the amount of $311 and was made toward the Student’s Winter 2022
+tuition.
+17.
+
+The Student was asked to explain the discrepancies found in the document via email on
+
+May 3, 2022, and again on May 10, 2022; however, the Student provided an explanation on May
+3, 2022, but did not respond to subsequent emails from the Registrar’s Office.
+18.
+
+Following the submission of an academic integrity report to the Student Conduct and
+
+Academic Integrity Officer, from August 9, 2022, to January 11, 2023, the Dean’s Office made
+various attempts to meet with the Student; however, various meetings were rescheduled by the
+Student. The Dean’s Office did not reschedule the Student’s meeting after the Student cancelled
+on January 11, 2023.
+Admissions and Acknowledgements
+19.
+
+As part of the ASF, the Student admitted that:
+a. on May 3, 2022, she submitted a screenshot of what purported to be the Payments
+page of her online ACORN account (the “ACORN Screenshot”) to the Office of
+the Registrar at UTSC;
+b. the ACORN Screenshot, which is an academic record, was forged, altered or
+falsified; and,
+c. she knowingly forged or in any other way altered or falsified an academic record
+or uttered circulated or made use of such forged, altered or falsified record, namely
+the ACORN Screenshot, contrary to section B.I.3(a) of the Code.
+
+FINDINGS ON CHARGES
+20.
+
+Following deliberations and based on the ASF and the University’s Book of Documents,
+
+the Panel concluded that charge 1 was proven on a balance of probabilities, and that, on or about
+May 3, 2022, the Student knowingly forged or in any other way altered or falsified an academic
+record, or uttered, circulated or made use of such forged, altered or falsified record, namely, a
+
+6
+document that purported to be a screenshot of the Payments page from the Student’s online
+ACORN account, which the Student submitted to the Office of the Registrar at UTSC, contrary to
+section B.l.3(a) of the Code. The Panel accepted the guilty plea of the Student in respect of this
+charge.
+21.
+
+The Panel was advised that if the Tribunal convicts the Student on the above charge, the
+
+University would withdraw the two alternative charges. Accordingly, the Panel makes no findings
+with respect to the alternative charges.
+PENALTY
+22.
+
+The University and the Student submitted a Joint Submission on Penalty (“JSP”)
+
+recommending the following penalty:
+a. A suspension from the University for a period of 5 years from the date of the University
+Tribunal’s order; and
+b. A permanent notation of the offence on the Student’s academic record and transcript.
+
+23.
+
+Further, the Student and the University agreed that this case shall be reported to the Provost
+
+for publication of a notice of the Tribunal’s decision and the sanction imposed, with the Student’s
+name withheld.
+24.
+
+Assistant Discipline Counsel provided submissions on the high threshold required for a
+
+Tribunal to deviate from the JSP. As set out in the Discipline Appeals Board decision in S.F. and
+The University of Toronto (Case No. 690, October 20, 2014), only truly unreasonable or
+“unconscionable” joint submissions should be rejected (para. 22).
+25.
+
+The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+
+relevant past decisions of the Tribunal submitted by the University, and considered the factors set
+out in University of Toronto and Mr. C. (Case No. 1976/77-3, November 5, 1976), namely: 1) the
+character of person charged; 2) the likelihood of repetition of the offence; 3) the nature of offence
+committed; 4) any extenuating circumstances surrounding the commission of the offence; 5)
+detriment to the University occasioned by the offence; and 6) the need to deter others from
+committing a similar offence.
+
+7
+26.
+
+With respect to her character, the Student did not admit to the offence and was not
+
+forthcoming at the beginning. Further, she failed to meet with the Dean’s Office regarding the
+incident despite several attempts by the University to do so. However, the Student did attend the
+hearing and had the opportunity to make submissions at the hearing. During the hearing, the
+Student demonstrated insight and remorse into her conduct. The Student stated that she recognizes
+that she made a mistake and was looking to make amends. She also stated that she participates in
+the UTSC arrive program, which is available to students while on suspension.
+27.
+
+With respect to the second factor, the likelihood of repetition of the offence, the Student
+
+did not have any prior offences. Further, her participation in the UTSC arrive program should help
+her to succeed at the University.
+28.
+
+There were no extenuating circumstances raised by the Student regarding what was
+
+happening at the time of the offence.
+29.
+
+Regarding the remaining factors—the nature of the offence, the detriment to the University,
+
+and the need to deter other students—the University stressed that forgery is a very serious offence.
+Further, the Code provides guidance on the sanctions that the Provost may ask the Tribunal to
+impose, including recommending that the student be expelled in cases of forgery. The University
+also stressed the need to send a strong message to the University community on the seriousness of
+these offences.
+30.
+
+Having regard to the above, and the caselaw presented by the University, in the Panel’s
+
+view, the joint submission in this case is reasonable. The Panel agrees that the recommended
+sanctions are appropriate.
+DECISION OF THE PANEL
+31.
+
+At the conclusion of the hearing, the Panel made the following order:
+a. ORDERS THAT the Student is guilty of one count of knowingly forging or in any other
+way altering or falsifying an academic record, or uttering, circulating or making use of such
+forged, altered or falsified record, namely, a document that purported to be a screenshot of
+the Payments page from the Student’s online ACORN account, which the Student
+
+8
+submitted to the Office of the Registrar at the University of Toronto Scarborough, contrary
+to section B.I.3(a) of the Code;
+b. ORDERS THAT the Student shall be suspended from the University of Toronto for a
+period of 5 years from the date of the Tribunal’s order;
+c. ORDERS THAT a permanent notation of the offence be placed on the Student’s academic
+record and transcript; and
+d. ORDERS THAT this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanctions imposed, with the name of the Student
+withheld.
+
+32.
+
+An Order was signed at the hearing on June 24, 2024, by the Panel to this effect.
+
+DATED at Toronto on this 20th day of September, 2024.
+
+Original signed by:
+_______________________________________
+Michelle S. Henry, Chair
+On behalf of the Panel
+
+

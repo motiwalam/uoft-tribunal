@@ -1,0 +1,463 @@
+Case No. 1100
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on September 23, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO (the “University”)
+
+- and -
+
+R
+
+S
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Dates: January 15, 2021 and February 17, 2021, via Zoom
+Members of the Panel:
+Ms. Dena Varah, Chair
+Professor Pierre Desrochers, Faculty Member
+Ms. Arlinda Ruco, Student Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hans Kunov, Professor and Dean’s Designate, The Faculty of Applied Sciences, University of
+Toronto
+
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Appeals, Discipline and Faculty Grievances
+Not In Attendance:
+
+2
+
+The Student
+
+REASONS FOR DECISION
+
+1.
+
+The Trial Division of the University of Toronto Tribunal was originally convened on
+
+January 15, 2021 (the “Original Hearing Date”). It ultimately proceeded on February 17, 2021.
+
+PART 1 - CHARGES
+2.
+
+The Student is charged with three offences under the Code;
+1. On or about April 20, 2020, you knowingly represented as your own idea or
+expression of an idea or work of another in a final exam in APS105H1 (the
+“Course”), contrary to section B.I.1(d) of the Code (“Charge 1”);
+2. In the alternative, on or about April 20, 2020 you knowingly obtained
+unauthorized assistance in connection with the final exam in the Course, contrary
+to section B.I.1(b) of the Code (“Charge 2”); and
+3. In the further alternative, on or about April 20, 2020 you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with the
+final exam in the Course, contrary to section B.I.3(b) of the Code (“Charge 3”).
+
+3.
+
+Assistant Discipline Counsel advised that Charges 1 and 2 are in the alternative. That is,
+
+if the Student is found guilty of either Charge 1 or Charge 2 the other will be withdrawn. Charge
+3 will be withdrawn if the Student is found guilty of either Charges 1 or 2.
+
+3
+
+PART 2 - PROCEEDING IN THE ABSENCE OF THE STUDENT
+4.
+
+Assistant Discipline Counsel attended on the Original Hearing Date and the Student did
+
+not. At that date, Assistant Discipline Counsel advised that the Student had reached out to
+University members that morning asking about the Tribunal hearing. Counsel called Pamela
+Kennedy, an accreditations and academic integrity coordinator at the School of Applied Sciences,
+to testify as to this correspondence and to admit the emails into evidence.
+5.
+
+As a result of this evidence, the Panel adjourned the matter to February 17, 2021 at 9:45
+
+a.m. to permit the Student to participate should he decide to do so. The date was ordered to be
+peremptory on the Student.
+6.
+
+Subsequent to the adjournment, the Student did not answer any further correspondence
+
+from the University. Assistant Discipline Counsel provided an updated Book of Documents on
+Service. The affidavit evidence contained therein indicated that there had been several emails to
+the Student to advise of the change of date and to invite him to participate.
+7.
+
+The Student did not attend at the hearing of February 17, 2021 and did not advise that he
+
+required any further adjournments or there was any bar to his participation.
+8.
+
+The Student was given ample notice of the hearing and chose not to communicate with the
+
+University or participate in the hearing. The Panel was therefore satisfied that it may proceed in
+his absence.
+
+PART 3 - THE FACTS UNDERLYING THE CHARGES
+9.
+
+The Student was enrolled at the University of Toronto, Faculty of Applied Science &
+
+Engineering commencing in the Fall Term 2019.
+
+4
+
+10.
+
+The University filed the Affidavit of Phillip Anderson, Associate Professor in the
+
+Department of Electrical and Computer Engineering, Faculty of Applied Science & Engineering
+at the University.
+11.
+
+The Panel was satisfied that the facts contained in and documents attached to Professor
+
+Anderson’s Affidavit were admissible for the truth of their contents.
+12.
+
+In Winter 2020, Professor Anderson was the course coordinator for the Course. There were
+
+three other course instructors. The Student was a student in the Course.
+13.
+
+Professor Anderson attached to his Affidavit the course syllabus, which provided students
+
+with expectations relating to academic integrity, and specifically, that they were not permitted to
+work together or share their solutions with one another on assignments. The syllabus informs
+students that the Course instructors would use software to detect potential plagiarism amongst
+student submissions that is “quite sophisticated and so is difficult to defeat.”
+14.
+
+The final examination in the Course, worth 35% of the final grade of the students, was
+
+administered online over a 12-hour period on April 20, 2020. The exam was open book, which
+meant that students were permitted to refer to their course notes and course materials. Students
+were not permitted to work together or collaborate with one another.
+15.
+
+The instructors of the Course randomly assigned students to one of six groups with each
+
+group receiving a slightly different version of the exam. Students were provided with a “starter
+Code” for them to use to enter the exam questions which also included slight variations depending
+on the group in which the Student was assigned. The fact that there were different versions of the
+exam was not shared with the students.
+
+5
+
+16.
+
+The course instructors advised the students that their answers would be submitted to a
+
+“code checker” to determine if there were textual similarities between different exams. According
+to Professor Anderson each code could contain a number of unique features, including the
+language and logic, variables names, and comments. Professor Anderson indicated that there are
+“innumerable ways” that students can write code.
+17.
+
+The Student was assigned to group three.
+
+18.
+
+On question one of the final exam the students were required to verify that they “will not
+
+cheat” and had to pledge upon their “honour” that they would not violate the Code.
+19.
+
+The Student was provided a starter code in answer to question four. The fourth element in
+
+the fifth row was 0.928597252. This number was unique to the group in which the Student was
+assigned. Each other group had a different number for the fourth element in the fifth row on
+question four.
+20.
+
+The Student submitted the final exam on April 20, 2020. As with all the other students,
+
+the Student’s exam was submitted through the code checker. The code checker identified two
+issues:
+a) It revealed similarities between the Student’s submission and the code of
+another student, Y
+
+L for questions seven and nine. Professor Anderson’s
+
+Affidavit attached the report generated by the code checker that showed that
+there was significant identical code between the two submissions, as well as
+code that was effectively identical.
+b) The Student’s answer to question four used 0.92829752 as the fourth number
+
+6
+
+of the fifth row, rather than the number that was provided to him as part of his
+exam, which was 0.928597252.
+21.
+
+Professor Anderson determined that Mr. L the other student, was in group five and that
+
+the starter code for him included 0.928297252 as the fourth element in the fifth row for question
+four.
+22.
+
+Professor Anderson sent two emails to the Student about the final exam, including one that
+
+attached the code checker report.
+23.
+
+Hans Kunov, Professor Emeritus in the Department of Electrical and Computer
+
+Engineering, Faculty of Applied Science & Engineering at the University of Toronto also provided
+an Affidavit. Professor Kunov acts as the Dean’s Designate for Academic Integrity for the Faculty
+of Applied Science & Engineering. He meets with students in the faculty who are alleged to have
+violated the Code.
+24.
+
+The Panel is satisfied that Professor Kunov’s Affidavit is admissible for the truth of its
+
+contents.
+25.
+
+Professor Kunov indicated that he wrote to the Student on various occasions and did not
+
+receive a response. He never met with the Student.
+26.
+
+Professor Kunov did meet with Mr. L , the other student, with whom it is alleged that the
+
+Student either collaborated with or plagiarized from. Mr. L admitted to the offence of receiving
+or offering unauthorized assistance.
+
+7
+
+PART 4 - FINDINGS ON LIABILITY
+27.
+
+The Panel is satisfied that the evidence supports that the Student committed the offence
+
+contained in Charge 1. As a result of this finding Charges 2 and 3 are withdrawn. The Panel makes
+no finding with respect to these charges.
+28.
+
+The Panel considered specifically whether it was more likely than not that the Student
+
+represented another’s ideas as his own (Charge 1) rather than knowingly obtaining unauthorized
+assistance (Charge 2). The Panel relied on the following evidence in support of the charges:
+a) The Student used incorrect starter code from a different group; and
+b) Similarities between the Student’s submissions and the code of another student
+for questions 7 and 9 were significantly identical, which could not be a result
+of chance;
+c) The starter code used by the Student was the starter code provided to the group
+in which the other student was assigned.
+29.
+
+We note that Mr. L also admitted to the offence of collaborating and either receiving or
+
+offering unauthorized assistance. Although this fact is relevant, it is not on its own dispositive of
+the issue. There are various reasons that a student may decide to admit to an offence, and we do
+not have enough information to determine those reasons. It is simply another fact that supports
+the charge. It is the similarities between the two exams that is the most persuasive evidence.
+30.
+
+The evidence is clear that, at least, the Student and Mr. L , the other student, collaborated
+
+on the exam, which is in breach of the specific instruction provided in the Course and on this exam.
+The collaboration is a breach of the Code and could support a finding on either Charge 1 or Charge
+
+8
+
+2.
+31.
+
+The Panel had to determine the likelihood that the Student committed the offence
+
+underlying Charges 1 rather than Charge 2, the Panel was satisfied that the Student’s use of the
+starter code of Mr. L s group makes it more likely that he was relying on Mr. L s work and ideas
+rather than the other way around. It is certainly possible that they collaborated, but on a balance
+of probabilities, it is more likely that the assistance was flowing from Mr. L to the Student.
+32.
+
+We note that even if we are wrong about grounding the finding of liability in Charge 1
+
+rather than Charge 2, it would not affect penalty, which we set out below.
+
+PART 5 - SUBMISSIONS ON PENALTY
+33.
+
+Assistant Discipline Counsel submitted that the appropriate penalty in this case is:
+a) a final grade of 0 in the Course;
+b) A suspension from the University immediately until December 31, 2022;
+c) A notation of the sanction on the Student’s academic record and transcripts
+immediately until December 31, 2023; and
+d) That the case be reported to the Provost for publication of a notice of the
+Decision of the Tribunal and sanction imposed with the Student’s name
+withheld.
+
+34.
+
+Assistant Discipline Counsel relied on the caselaw to outline the factors that the Panel
+
+should consider in determining the appropriate penalty:
+
+9
+
+a) The character of the person charged;
+b) The likelihood of repetition of the offense;
+c) The nature of the offense committed;
+d) Any extenuating circumstances surrounding the commission of the offense;
+e) The detriment to the University occasioned by the offense; and
+f) The need to deter others from committing a similar offense.
+(University of Toronto v. Mr. C. Case No. 1976/77-3, November 5, 1976 at p. 15)
+35.
+
+Assistant Discipline Counsel also noted that the Code provides a guide for penalty on the
+
+first offense of representing another’s ideas as one’s own. Although this guide is not binding on
+the Panel, it demonstrates the expectations that have been communicated to students in the event
+they violate the Code.
+36.
+
+Assistant Discipline Counsel noted that the proposed suspension in this case was slightly
+
+under two years as the Student would have to withdraw from this semester’s courses. If the
+suspension went for two full years it would actually require that the Student not be enrolled in the
+University for longer than two years so fairness dictated a slightly shorter suspension in this case.
+37.
+
+Assistant Discipline Counsel submitted that the nature of the offense is serious and that the
+
+detriment to the University occasioned by the offense and the need to deter others is important.
+Although the failure of the Student to participate in the process, including failing to respond to
+Professor Kunov’s emails, could be consider an aggravating factor, Assistant Discipline Counsel
+did not seek to add to the penalty on that basis.
+
+10
+
+38.
+
+The Student obviously did not provide any submissions. As a result, there was no evidence
+
+before the Panel of the character of the Student or other mitigating factors on penalty. Assistant
+Discipline Counsel acknowledged that this was first offense, but also noted that the Student had
+only been enrolled at the University for one semester prior to this offense. Although this is true,
+this was still a first offence and had to be treated as such. There was not enough evidence to
+determine whether an offence was likely to be repeated, but for the timing of it, which is an
+imprecise measure.
+39.
+
+Assistant Discipline Counsel relied on several precedents in which students had committed
+
+similar offenses. Assistant Discipline Counsel noted that the precedents did not readily distinguish
+between plagiarism or unauthorized assistance, as the offense is considered similar under the
+factors that dictate the penalty. In the cases relied on by Assistant Discipline Counsel, a two-year
+suspension was the minimal penalty imposed for this type of offence.
+
+PART 6 - DECISION ON PENALTY
+40.
+
+The Panel carefully considered the facts of the case, the factors to consider on penalty and
+
+the facts of this case. The Panel is aware that the prior Tribunal decisions are not binding on it, but
+that they do offer guidance for the Panel on penalties imposed on other students in similar
+circumstances.
+41.
+
+As noted in The University of Toronto and B.S (Case No. 697, Aug 8, 2013 (Finding) and
+
+Jan 17, 2014 (Sanction)), there is no minimum penalty for any type of offense. The Panel accepted
+that this is the case, but as that Panel also noted, it is important that students are treated fairly with
+respect to similar types of offenses. This is even more applicable where there is no evidence in
+the student on any other factors that the Panel should consider on penalty.
+
+11
+
+42.
+
+In this case, the Panel agreed that the appropriate penalty is the one sought by Assistant
+
+Discipline Counsel. It is fair that the penalty be just under two years as the Student will not be able
+to obtain credit from the University for two years. He will be able to enrol again for Winter
+Semester 2023.
+43.
+
+As there is no evidence of any mitigating factors in this case or the character of the Student,
+
+the most important factors must be the nature of the offense, the detriment to the University
+occasioned by the offense and the need for general deterrence. These three factors require that the
+penalty be significant. It cannot be overstated how serious the offence of plagiarism is in an
+academic setting. It undermines the very foundation of academic integrity. It allows students to
+obtain credit for work that is not their own. It is grossly unfair to students who work hard to earn
+their credit. If left unchecked, it can undermine the credibility of the institution.
+44.
+
+Students are informed at every turn – from the Code to course syllabi – that it will not be
+
+tolerated. The expectations could not be clearer. In this case, the Student even had to acknowledge
+on the exam at issue that he would not cheat.
+45.
+
+In The University of Toronto and O.E.R (Case No. 981, March 4, 2019), the Student was
+
+found guilty of knowingly representing an idea or work of another in an essay submitted in a
+course. Just as in this case, the student did not participate in the proceeding. In that case, the Panel
+imposed virtually identical sanctions to the one imposed in this case on the same basis for the need
+for general deterrence, especially as there was no evidence before that Panel about the Student’s
+approach to the matter.
+46.
+
+The offence in The University of Toronto and J.H.C (Case No. 741, March 20, 2014) was
+
+strikingly similar to the one in this case. Two students collaborated on answers for a midterm
+
+12
+
+examination. One of the students participated in the Dean’s meeting and admitted guilt earlier in
+the process. The student before the Tribunal did not participate in the process. The main difference
+with that case is that the student had a prior minor offence. The Tribunal imposed a suspension of
+two years and five months along with a grade of zero in the Course and a notation.
+47.
+
+There is no basis in this case for a different penalty than the one outlined by the Code and
+
+imposed in numerous precedents. The offence is no more or less serious than those in the cases
+relied by Assistant Discipline Counsel. There are no significant aggravating factors. There are no
+mitigating factors. There is no justification to depart from the expected penalty occasioned by this
+type of offence. Given the notice provided by the Code, Student himself could expect no different
+penalty in the circumstances.
+48.
+
+The appropriate length of suspension in this case is just under two years.
+
+PART 7 - THE ORDER
+49.
+
+The University Tribunal orders that:
+1) the hearing may proceed in [the Student’s] absence;
+2) [The Student] is guilty of one count of knowingly representing an idea or expression of an
+idea or work of another as his own, contrary to section B.I.1.(d) of the Code;
+3) The following sanctions shall be imposed on [the Student]:
+(a) a final grade of zero in the course APS105H1 in Winter 2020;
+(b) a suspension from the University of Toronto from the date of this order until
+December 31, 2022; and
+
+13
+
+(c) a notation of the sanction on his academic record and transcript from the date of
+this order until December 31, 2023; and
+
+4) This case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with [the Student’s] name withheld.
+
+Dated at Toronto this 23rd day of April, 2021
+
+________________________________________
+Dena Varah, Chair
+On behalf of the Panel
+
+

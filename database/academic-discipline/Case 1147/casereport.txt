@@ -1,0 +1,443 @@
+Case No.: 1147
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty filed on January 13, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO (the “University”)
+
+and
+
+X
+
+Y
+
+(“the Student”)
+
+REASONS FOR DECISION
+Hearing Date: October 5, 2021, via Zoom
+Members of the Panel:
+Mr. Andrew Bernstein, Chair
+Dr. Pascal van Lieshout, Faculty Panel Member
+Ms. Julie Farmer, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not In Attendance:
+The Student
+
+2
+A.
+
+Charges
+
+1.
+
+On October 5, 2021, this panel of the University Tribunal held a hearing to consider the
+
+charges brought by the University of Toronto against the Student under the Code of Behaviour
+on Academic Matters, 1995 (the “Code”).
+2.
+
+Those charges were detailed in a letter to the Student dated January 13, 2021, as follows:
+1.
+
+On or about April 16, 2020, you knowingly obtained unauthorized assistance in
+connection with the final exam in MAT133Y1 (the “Course”), contrary to section
+B.I.1(b) of the Code.
+
+2.
+
+In the alternative, on or about April 16, 2020, you knowingly represented as your own an
+idea or expression of an idea or work of another in the final exam in the Course, contrary
+to section B.I.1(d) of the Code.
+
+3.
+
+In the further alternative, on or about April 16, 2020, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with the final exam in the Course, contrary to section B.I.3(b) of
+the Code.
+
+3.
+
+The Student was an undergraduate at the University of Toronto St. George Campus, in
+
+the Faculty of Arts and Science.
+4.
+
+The Student did not attend the hearing. She was not represented by counsel. The Tribunal
+
+called the hearing to order at the scheduled 1:45 p.m. start time, through Zoom, a videoconferencing platform that has been used for Tribunal discipline matters throughout the COVID19 Pandemic.
+
+3
+B.
+
+Notice and Hearing in the Student’s Absence
+
+5.
+
+As the Student did not attend the hearing, counsel for the Provost asked the Tribunal to
+
+find that the Student had been provided with proper notice of the hearing, and that the hearing
+should proceed in the Student’s absence, under rule 17 of the Tribunal’s Rules of Practice and
+Procedure (“Rules”), and section 7 of the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22
+(the “Act”).
+6.
+
+Rule 17 and section 7 require that the Provost provide the Student with adequate notice of
+
+the hearing before we proceed in the Student’s absence. These provisions do not require the
+Provost to prove that the Student actually received the notice. Rather, they require that the
+Provost establish that the University took reasonable steps to notify the Student of the charges
+against her and of the hearing. As explained below, we are satisfied that it did so.
+(i) Rules relating to Service
+7.
+
+The University’s Policy on Official Correspondence with Students requires students
+
+enrolled at the University to maintain a current and valid postal address and an address for a
+University-issued email account in their ROSI records, to update their records when this
+information changes, and to monitor and retrieve their mail and email on a frequent and
+consistent basis. There is a good reason for this: the University has thousands of students, and
+cannot be burdened with the need to find them when the need arises. It is therefore entitled to
+rely on the email and physical address provided in ROSI.
+8.
+
+Rule 9 of the Tribunal’s Rules states that charges, notices of hearing, disclosure and other
+
+materials may be served on students by a variety of means, including sending a copy of the
+document by courier to the student’s mailing address contained in ROSI, sending a copy of the
+
+4
+document to the student’s e-mail address contained in ROSI, or by any other means authorized
+under the University’s Policy on Official Correspondence with Students.
+(i) Steps taken to effect service by the University and Discipline Counsel
+9.
+
+The hearing was originally scheduled for September 22, 2021, at 1:45 p.m.
+
+Unfortunately, the Chair of the Tribunal that was scheduled to sit on that date got into a car
+accident and the hearing could not proceed as scheduled. While we are advised that, thankfully,
+no one was seriously injured, the attendant delays meant that Tribunal could not proceed. The
+hearing was therefore adjourned sine die (to no specified date) and was later set down to be
+heard before a new panel of the Tribunal, on October 5, 2021, at 1:45 p.m.
+10.
+
+The Student was provided adequate notice of both the original hearing date and the re-
+
+scheduled hearing date. The details of that notice are below.
+11.
+
+The University sent a notice of hearing dated August 20, 2021, and charges dated January
+
+13, 2021 to the Student’s email account registered in ROSI. The hearing date in the August 20,
+2021 notice specified September 22, 2021, at 1:45 p.m. and provided Zoom details for
+attendance. The evidence of Ms. Huang, the University’s affiant, reflects that she did not receive
+any response from the student in response to this e-mail, nor any e-mail bounce-back.
+12.
+
+Assistant Discipline Counsel also sent numerous e-mails to the Student about the original
+
+hearing to the same address, including e-mails on August 10th and 18th, as well as September
+15th. Assistant Discipline Counsel did not receive any response from the Student, nor any e-mail
+bounce back. Assistant Discipline Counsel’s office called the Student at her ROSI-provided
+phone number (twice) and received a recording that said the cellular number had not been
+
+5
+assigned. Assistant Discipline Counsel’s office also couriered materials to the Student’s ROSIprovided mailing address, but the courier company advised that there was no one at that address
+by the Student’s name.
+13.
+
+It appears that the Student had failed to keep her contact information up to date in ROSI,
+
+as university policy requires.
+14.
+
+After the September 22, 2021 date was adjourned, and the October 5, 2021 hearing date
+
+set down, the University sent a further notice of the re-scheduled hearing to the e-mail address in
+ROSI. That notice was sent on September 27, 2021, and it provided the date and time of the
+hearing, as well as Zoom details for attendance. The University did not receive any response
+from the Student, nor any e-mail bounce back.
+15.
+
+The Provost led evidence that the Student last accessed the ROSI account on July 19,
+
+2021.
+16.
+
+The Student has not responded to any of these efforts to contact her, nor contacted
+
+counsel for the Provost. This is not because she is unaware that there was an issue. The evidence
+reflects that, after being contacted by the Student Academic Integrity Office in July of 2020, she
+responded. The Student attended a meeting with the Dean’s designate on August 24, 2020, and
+even provided some material that reflected her response to the concerns raised. It is clear she last
+accessed her ROSI e-mail account after the Charges were provided against her. However, at
+some point she stopped accessing it, moved from her last known address and changed or
+abandon her cellphone. It is unlikely that she was actually aware of the time or date of the
+hearing.
+
+6
+17.
+
+Whether or not the Student actually received the notice provided is not the question we
+
+need to answer. The Student has an obligation to keep her information up to date in ROSI, and
+check her e-mail. Her failure to do so does not affect the validity of the notice, which was
+properly provided in accordance with the Tribunal’s Rules. The Tribunal therefore ordered that
+the hearing should proceed in the Student’s absence.
+C.
+
+Liability
+
+18.
+
+The following summarizes our reasons for concluding that the Student violated the Code
+
+and therefore committed an offence.
+(a)
+19.
+
+Background
+
+The Student was enrolled in MAT133Y1 (the “Course”) for the 2019-2020 academic
+
+year. The grading scheme for MAT133Y1 provided two options for grading: one that involved a
+final exam and one that did not. The Student opted to write the final exam.
+20.
+
+Because of the COVID-19 pandemic, the final exam was administered online, on April
+
+16, 2020, from 7:00 p.m. to 10:00 p.m. (EST). Students were allowed to use a calculator, the
+textbook, their notes, books, WileyPLUS, Wolfram Alpha and Desmos (all electronic tools).
+However, they were not permitted to discuss the questions with anyone, or collaborate with
+anyone during the exam. Students were explicitly warned that the exam was to be completed
+individually, without the help of any other person, and that students were not permitted to
+communicate with any other person about the content of the exam or the content of the
+MAT133Y1 course in general during the final exam window. Students were required to submit a
+handwritten and signed statement that they would abide by this policy, and that the work they
+submitted was their own. The Student did this. Her statements included the phrases “I didn’t
+
+7
+cheat. This is my work. I didn’t receive help. I didn’t provide help. I pledge upon my honour that
+I have not violated the Code during this assessment.” Unfortunately, it appears on a balance of
+probabilities that this statement was incorrect. The Student cheated by receiving unauthorized
+assistance in her exam, and violated the Code.
+(b) Irregularities appear during marking
+21.
+
+The instructors and teaching assistants who were marking the exam noticed that some of
+
+the Student’s answers had substantial similarities to the answers submitted by five other students
+in the Course. Professor Blois, the lead instructor for the Course, testified that she considered
+several aspects of the Student’s answers to be suspicious. The answers were the same or very
+similar, using the same notation (different than what was taught in the Course), and in one case
+made the same transcription error. In one question, the Student drew the same (incorrect) graph
+as three other students, and all students received a 0/5 on that question.
+(c) SAI corresponds with the Student and the other students
+22.
+
+The instructors of MAT133Y1 referred their concerns to the Student Academic Integrity
+
+Office (“SAI”). SAI sent an e-mail to the Student on July 14, 2020 about the allegations. The
+Student responded indicating that she wished to meet with the Dean’s Designate to discuss the
+allegations.
+23.
+
+This meeting occurred via Zoom on August 24, 2020. The Dean’s Designate explained
+
+the allegations to the Student. The Student denied communicating with other students during the
+exam and said she had learned the techniques reflected on her exam at certain off-campus
+tutorials. She offered to, and did, provide a copy of the notes she had taken from a set of
+
+8
+tutorials, which she indicated taught her the methods and notations reflected in her exam. She
+claimed that the transcription error is a coincidence.
+24.
+
+Professor Cowper is the Dean’s Designate in this case. She testified that the five other
+
+students involved subsequently admitted to the offence of receiving unauthorized assistance.
+None of them specifically indicate that they worked with the Student whose conduct is at issue in
+this case. However, the Provost submitted that five students admitting to receiving unauthorized
+assistance makes it less likely that the Student’s similar answers are a coincidence and more
+likely that they are the result of giving or receiving unauthorized assistance.
+25.
+
+We have some doubt about whether the admissions made by the other students can stand
+
+for the proposition advanced by the Provost. However, it is not necessary to resolve that question
+to decide this case, as we are persuaded by the rest of the evidence that the Student received
+unauthorized assistance on her exam.
+(d) The evidence of unauthorized assistance
+26.
+
+The Student did not respond to any subsequent correspondence from the University. That
+
+is regrettable, as students who admitted to their conduct in their meeting with the Dean’s
+Designate received a much lighter penalty than the Provost is now seeking (in particular, a zero
+in the final exam for MAT133Y1 and no further sanctions). The practice of imposing lighter
+penalties on students who admit to their offences is not surprising. Many systems of sanction and
+penalty work on the basis that an early plea of guilt reflects contrition and saves the system
+substantial resources. However, the discrepancy between the sanctions depending on timing and
+the plea can signal the potential for abuse. In particular, it is important that the increased penalty
+for contesting a case as opposed to pleading guilty on an early occasion are not overly draconian.
+
+9
+If the differential is too large, it encourages people who have not committed any offence to plead
+guilty to avoid draconian consequences. This is not an issue in this case, as the Student has not
+appeared or contested her guilt.
+27.
+
+On the basis of our review of the Student’s exam, as well as extracts from other students’
+
+exams, and the evidence of Professor Blois, we have concluded that on a balance of probabilities,
+the Student provided or received unauthorized assistance. In particular:
+(a)
+
+The Student’s answers on the exam have obvious similarities with at least some of
+the five other students’ answers.
+
+(b)
+
+Professor Blois testified that there is a myriad of ways that students could
+approach each question and perform the algebraic manipulations to arrive at an
+answer, strongly suggesting that the similarities are not simply a matter of
+coincidence.
+
+(c)
+
+The Student made the exact same random mistakes as other students, including a
+transcription error and the use of an unusual (and arguably incorrect) graph.
+
+28.
+
+The evidence in this case is more than sufficient to meet the necessary “balance of
+
+probabilities” threshold, but would not have met a stricter “proof beyond a reasonable doubt”
+standard. If the Student had attended and explained to the Tribunal why her answers were the
+same as other students, she may have been able to persuade us that the Provost had not made out
+its case on a balance of probabilities. But the only evidence was the Provost’s and it is
+sufficiently strong to persuade us that an offence was committed on a balance of probabilities.
+Specifically, we conclude that on or about April 16, 2020, the Student knowingly obtained
+unauthorized assistance in connection with the final exam in MAT133Y1, contrary to section
+B.I.1(b) of the Code.
+
+10
+D.
+
+Sanction
+
+29.
+
+The Provost sought an order imposing the following sanctions on the Student:
+(a)
+
+a zero in MAT133Y1;
+
+(b)
+
+a suspension from the University for two years, ending October 4, 2023; and
+
+(c)
+
+a notation on her transcript for the two-year suspension period, and an additional
+year after the suspension is completed.
+
+30.
+
+In determining the sanction, the Tribunal has considered the factors set out in the decision
+
+University of Toronto and Mr. C. factors (Case No. 1976/77-3, November 5, 1976). This is the
+leading decision on sentencing principles. We have discussed some of the important factors we
+think are important in this case.
+31.
+
+Counsel for the Provost submitted a book of authorities, and referred to several cases in
+
+argument in addition to Mr. C. We were taken to the cases of The University of Toronto and J.H.
+(Case No. 1077, November 2, 2020), The University of Toronto and O.E.R. (Case No. 981,
+March 4, 2019), The University of Toronto and J.Y. (Case No. 834, February 25, 2016) , The
+University of Toronto and F.A. (Case No. 766, June 11, 2015) and The University of Toronto and
+Y.G. (Case No. 802 September 28, 2015), in which the students were found to have committed a
+similar academic offence, and given the same penalty.
+32.
+
+After deliberation, the Tribunal ordered the penalty that the Provost requested. However,
+
+we adjusted it so that the suspension began on September 1, 2021, and will end August 30, 2023,
+with the notation lasting until August 30, 2024. The Student has not been enrolled in any courses
+in the Fall 2021 semester, and so it seemed fair that, if she elects to return in the Fall of 2023, she
+will be permitted to do so.
+
+11
+33.
+
+The penalty is consistent with the authorities from this Tribunal listed above, which
+
+ordered similar penalties for a first offence of knowingly representing an idea or expression of an
+idea or work of another as her own, contrary to section B.I.1(d) of the Code. Although these
+authorities are not binding on us, it is important that this Tribunal renders decisions that are
+consistent, so that the treatment a student receives is not dependent on the panel the student
+draws. In the absence of that principle, and those authorities, we might have been inclined to
+impose a lesser penalty, as it is the Student’s first offence, albeit a serious one. However, the
+Tribunal agrees that consistency is an important value in assessing penalties, and recognizes the
+importance of academic integrity and honesty, as the authorities cited above provide (see, e.g.,
+The University of Toronto and Y.G. at paras. 26-37, speaking about the seriousness of plagiarism
+and academic integrity). We therefore agree that the penalty requested by the Provost is
+appropriate, subject to the modest change relating to the beginning of the suspension period.
+34.
+
+The Provost argued that the Student’s failure to attend reflected a lack of contrition and is
+
+therefore an aggravating factor. While we agree that the Student’s non-attendance meant that we
+had no evidence of mitigating factors, we do not agree that non-attendance is, itself, an
+aggravating factor. There are many reasons why the Student might not attend the hearing: she
+may be embarrassed by her conduct or may not intend to re-enroll in the University. In this case,
+there is reason to believe she was not aware of the hearing date since it was provided to her via
+an e-mail account that has not been checked in many months. Moreover, as a matter of principle,
+we do not believe it is appropriate to draw the inference that non-attendance reflects a lack of
+contrition. There is no evidence one way or the other about whether she is contrite. However, we
+concluded that the penalty requested is appropriate even in the absence of further aggravating
+factors.
+
+12
+35.
+
+For these reasons, the Tribunal accepted the Provost’s submissions on sanction, and
+
+signed an order at the hearing imposing the following sanctions on the Student:
+(a)
+
+she receives a grade of zero in MAT133Y1
+
+(b)
+
+she be suspended from the University for two years, commencing September 1,
+2021;
+
+(c)
+
+a notation be placed on the Student’s academic record and transcript for a period of
+one year after her suspension is over (i.e., until August 31, 2024);
+
+(d)
+
+the decision be reported to the Provost, for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the Student’s name withheld.
+
+Dated at Toronto, this 11th day of November, 2021.
+Original signed by:
+____________________________________
+Andrew Bernstein, Chair
+On behalf of the Panel
+
+

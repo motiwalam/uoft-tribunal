@@ -1,0 +1,564 @@
+Case No. 1274
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic misconduct filed on October 7, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+
+B E T W E N:
+UNIVERSITY OF TORONTO
+- and X Z
+
+REASONS FOR DECISION
+HEARING DATE: April 19, 2022 via Zoom
+PANEL MEMBERS:
+Ms. Cynthia Kuehl, Chair
+Professor Ernest Lam, Faculty Panel Member
+Ms. Saskia Van Beers, Student Panel Member
+APPEARANCES:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+HEARING SECRETARY:
+Ms. Nadia Bruno, Special Projects Officer, Office of the Appeals, Discipline and Faculty
+Grievances
+NOT IN ATTENDANCE:
+Mr. X Z
+
+1
+
+1.
+
+This hearing of the Trial Division of the University Tribunal convened on April 19, 2022, by
+
+Zoom, to consider charges of academic dishonesty brought by the University of Toronto (the
+“University”) against X Z
+
+(the “Student”) under the Code of Behaviour on Academic Matters,
+
+1995 (“Code”). The Student was informed of the charges by letter dated October 7, 2021 from
+Prof. Heather Boon, Vice-Provost, Faculty and Academic Life.
+Preliminary Issue: Proceeding in the Absence of the Student
+2.
+
+The Hearing was scheduled to commence at 5:45 p.m. The Panel waited until 6:00 p.m.
+
+before commencing the hearing. The Student did not appear.
+3.
+
+The Provost requested that the Panel proceed in the absence of the Student. For the
+
+reasons that follow, the Panel granted this request.
+4.
+
+The jurisdiction for proceeding in the absence of the Student is set out in the relevant
+
+legislation and procedural rules. Pursuant to ss. 6 and 7 of the Statutory Powers Procedure Act
+(the “Act”) and Rule 17 of the University Tribunal Rules of Practice and Procedure (the “Rules”),
+a Tribunal may proceed in the absence of a party provided that reasonable notice of an oral
+hearing has been given to the party in accordance with the Act. Where a party does not attend
+the hearing and reasonable notice has been given, a party is not entitled to further notice.
+5.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on the Student by various means,
+
+including by: sending a copy of the document by courier to the Student’s mailing address
+contained in the Repository of Student Information (“ROSI”) or emailing a copy of the document
+to the Student’s email address in ROSI. Students are responsible for maintaining in ROSI a
+current and valid mailing address and University-issued email account, and are expected to
+retrieve mail and email on a frequent and consistent basis.
+6.
+
+In support of its request, counsel for the Provost filed four affidavits. The Affidavit of
+
+Colleen Dockstader, Assistant Professor and Dean’s Designate for Student Academic Integrity at
+the University, confirmed that the Student had attended an instructor’s meeting about allegations
+of academic misconduct on December 18, 2020. Thereafter, the Student was requested to meet
+with Prof. Dockstader to discuss the allegations. While a subsequent email sent to the Student
+mistakenly indicated that he had attended the Dean’s meeting and the matter has been resolved,
+that was later corrected and the meeting rescheduled. Notwithstanding that correction and
+confirmation that the Dean’s meeting had been booked for August 4, 2021, the Student did not
+attend.
+
+-27.
+
+The Affidavit of Samanthe Huang confirmed that a letter outlining the Charges was served
+
+on the Student on October 7, 2021, and that the Student was served with a Notice of Electronic
+Hearing on March 21, 2022. That Notice of Electronic Hearing indicated that a hearing would be
+scheduled for April 19, 2022 at 5:45 p.m., on the Zoom videoconference platform. The Student
+was provided with the necessary coordinates to access the videoconference.
+8.
+
+All of the emails, as well as emails sent by others whose affidavits form part of the
+
+Provost’s Book of Notice and Service, were sent to the Student’s email address in ROSI, and
+therefore met the requirements for service pursuant to Rule 9. The Affidavit of Andrew Wagg, an
+Incident Report Architect at Information Security, Information Technology Services at the
+University, confirmed that the last time someone accessed the email account of the Student was
+on September 27, 2021.
+9.
+
+The Affidavit of Natalia Botelho set out the numerous steps to contact the Student
+
+including by email, at two telephone numbers in ROSI, and by sending a package via courier to
+the last known mailing address available in ROSI. These communications indicated that counsel
+for the Provost wanted to review the process for the hearing and discuss dates. Importantly, the
+affidavit evidence also established that service of the Disclosure Brief was effected on January
+27, 2022; service of the Notice of Electronic Hearing was effected on March 21, 2022; and service
+of the Affidavit evidence was effected on April 11 and 12, 2022. The Panel noted that, in
+accordance with the Rules, service was effected via email, and that additional (albeit,
+unsuccessful) efforts were made to contact the Student by both telephone and mail. The Student
+could not be contacted by these alternative means and, despite an obligation to regularly check
+their University email, the Student failed to respond to any of the emails sent.
+10.
+
+In light of this evidence, the Panel found that notice have been given in accordance with
+
+the Rules and the Act. The Student’s failure to review email correspondence sent to him at the
+available email address, contrary to his obligations to do so, does not create a situation where it
+would be inappropriate to proceed. Rather, the Panel finds that the Student received the Notice
+of Hearing advising him that the hearing was scheduled for April 19, 2022 as it was delivered to
+his email address, as required by the Rules. The Panel further noted that someone had accessed
+the Student’s email after the scheduled date for the Dean’s meeting, and yet the Student made
+no effort to follow up or make contact.
+11.
+
+Notice of the Charges and the Hearing, and delivery of the evidence were all effected in
+
+accordance with the Rules. There is no reason not to proceed in the absence of the Student in
+
+-3accordance with section 7(3) of the Act. Accordingly, the Panel proceeded to hear the case on
+its merits in the absence of the Student.
+The Charges
+12.
+
+At the material times, the Student was a registered student in the Faculty of Arts & Science
+
+at the University.
+13.
+
+In the charges, the Provost made the following two allegations:
+(i)
+
+On or about October 18 and 19, 2020, the Student knowingly used or possessed
+an unauthorized aid or obtained unauthorized assistance in Assessment #2 in
+ECO101H1F (20209) (the “Course”), contrary to section B.I.1(b) of the Code.
+
+(ii)
+
+In the alternative, on or about October 18 and 19, 2020, the Student knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation or otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with Assessment #2
+in the Course, contrary to section B.I.3 (b) of the Code.
+
+14.
+
+The Provost advised that it would withdraw Allegation 2 if findings were made on Allegation
+
+1. Ultimately, Allegation 2 was withdrawn.
+15.
+
+Detailed particulars in support of the allegations were provided in the Charges.
+
+The Evidence
+16.
+
+The Panel received affidavit evidence from Robert Gazzale, Associate Professor,
+
+Teaching Stream in the Department of Economics, which was supplemented by oral evidence.
+Professor Gazzale was one of two professors of the Course. The Provost also filed the affidavit
+of Yiqin Mao, a member of the Association of Professional Language Interpreters, who interpreted
+a poster for EASY EDU, the significance of which was described in Professor Gazzale’s evidence.
+17.
+
+Professor Gazzale’s evidence focused on Assessment #2 of the Course. He explained
+
+that the Course is an introductory course on microeconomics, in which the Student was enrolled.
+The syllabus for the Course contained a specific direction that students were not permitted to
+receive assistance on any assessment activity that counted toward their course grade. Academic
+integrity statements were required to be signed and the Student did so.
+18.
+
+Assessment #2 was an open book assessment, which was required to be written on
+
+October 18 and 19, 2020, and was worth 10.5 percent of the final grade. Professor Gazzale
+
+-4created 77 different questions, of which 40 were multiple choice and 37 required a numeric
+answer. Those questions were divided into 17 question pools containing anywhere from three to
+ten questions. Quercus randomly selected one or more questions from every pool and assigned
+those questions to a student. Every student was then required to complete 23 questions – 22 of
+which were randomly assigned from the question pools and the first question, asking that the
+students understood they had to complete their rough work on paper and upload a scan of that
+work.
+19.
+
+This was an asynchronous assignment where the assessment was to take place in a 24-
+
+hour window. The assignment contained a detailed, lengthy statement of academic integrity
+which stated:
+This is an individual assignment. You CANNOT discuss ANY graded of work with
+ANYONE – this includes classmates, friends, family, tutors (paid or unpaid), neighbours,
+literally anyone. Checking websites for answers, posting your work for others to use,
+collaborating, soliciting/receiving answers, stating false or misleading information related
+to assessments, etc., are examples of actions that violate Academic Integrity.
+Unintentional mistakes or confusion is not a defence. Ask us if you are unsure.
+
+20.
+
+The Student submitted his completed Assessment #2 on October 19, 2020 at 1:36 p.m.,
+
+as well as his rough work. The Student received a Grade of 43 out of 60.
+21.
+
+However, Professor Gazzale subsequently was contacted by a student in the Course to
+
+advise that there had been a review session held over Microsoft Teams by a commercial tutoring
+service called EASY EDU. The review session included a copy of a study package which
+contained 22 questions. The study package specifically indicated it was for the Course. Each of
+the 22 questions in the study package corresponded directly with one of the questions that had
+been written for Assessment #2, albeit with some very superficial differences. Professor Gazzale
+indicated that he was able to confirm that those exact same 22 questions had been provided to
+another student, Y.L. Y.L. subsequently admitted on October 22, 2020 that he had paid a tutor
+to check his answers during the assessment period.
+22.
+
+In the interim, on October 21, 2020, another student emailed the professor, as well as the
+
+Student Academic Integrity office, expressing concern about academic integrity and this particular
+assignment. A link to the YouTube video for the EASY EDU review session was attached. It
+confirmed that the review session was held at 9:08 p.m. on October 18, 2020 during the
+assessment window. In the video, the EASY EDU tutor said that “he had asked a couple of his
+ECO101 students to send him their assessment questions before this review session so that he
+
+-5was able to prepare everything specifically targeting the questions in this test”. The tutor also
+indicated that he was available to answer questions during the test.
+23.
+
+In the online review session, the 22 questions of the study package were all solved. The
+
+Zoom attendance list included at least 180 students. The total cost for attendance was $9.90,
+according to a poster for EASY EDU.
+24.
+
+Professor Gazzale explained that the study package had four different authors on it. In
+
+his view, a proficient person could both modify the questions and develop solutions to the 22
+questions in a one hour period. Although the language of the video was Mandarin, Professor
+Gazzale’s evidence was that he understood the math as seen in the video and was able to confirm
+that the 22 questions that were solved during the seminar were ones that he had written.
+25.
+
+Professor Gazzale was also able to see the names of the attendees at the review session.
+
+The names included the name of the Student. A review of the rough work submitted by the
+Student, when compared to the answers that EASY EDU provided in the video, revealed a number
+of similarities. In particular, the Student’s rough work for question 6 was nearly identical to an
+answer given in the video. It also contained an idiosyncratic notation, namely the symbol “S”.
+That was not taught in the Course but was part of the EASY EDU solution as shown on the video.
+26.
+
+Similarly, the Student’s rough work for question 22 was nearly identical to the answer
+
+given in the video. This question is the same on both the Student’s version of the assessment
+and Y.L.’s version.
+27.
+
+Finally, question 23 contained another idiosyncratic notation (“TB”) taught in the EASY
+
+EDU video. This was not a notation taught by the professors in the Course.
+28.
+
+Of note, the Student only did marginally better on the EASY EDU covered questions,
+
+providing a correct answer for 9 out of 11 questions. On the ones that EASY EDU had not covered
+during the review session, the Student gave the correct answer of 7 out of 11 questions. Yet,
+given the similarity of answers and the indication of the Student’s name on the video, the Provost
+argued that the Student must have attended the EASY EDU session.
+29.
+
+The Provost also provided the decision in Y.L. This was not considered to be evidence
+
+but was relevant to provide context and, later, on sanction. It explained Y.L’s role in the creation
+of EASY EDU video as it was Y.L. who provided the 22 questions that were solved in the video.
+
+-630.
+
+The Provost submitted that the Student was guilty of receiving unauthorized assistance.
+
+The Student’s name, appears in the review video on a number of occasions, and is the only
+student with that name in the Course. The evidence of Professor Gazzale supported that the
+answers provided in the video were used in the Student’s rough work on at least three separate
+questions. The Provost submitted that, on a balance of probabilities, it is more likely than not that
+the Student attended the review session when he ought not to have done so.
+31.
+
+The Student did not attend the hearing but was deemed to deny the Charges.
+
+Decision of the Panel on Charges
+32.
+
+Having considered all the affidavit and oral evidence, the Panel found that the Student
+
+had committed an academic offense, in that he obtained unauthorized assistance in the Course
+contrary to section B.I.1(b) of the Code.
+33.
+
+The Panel was convinced on a balance of probabilities that the student whose name
+
+appeared on the review video was the same person as the Student who was the subject of these
+charges. There was only one student by that name in the Course, and therefore only one student
+of that name motivated to attend. In addition, the similarities of the specific idiosyncratic notations
+between the EASY EDU video and the Student’s rough work established that he in fact received
+and used the unauthorized assistance in order to complete Assessment #2. The similarities in
+those responses cannot be otherwise be explained, particularly in light of the name that appeared
+on the video. Further, based on the content of the video, it was clearly directed only to the Course
+taught by Professor Gazzale and therefore would have only been of interest to the students in it.
+34.
+
+The Panel considered but does not accept that it would be a likely or even plausible
+
+situation that another student with the same name but not registered in the Course happened to
+attend this EASY EDU session. This is particularly in light of the similarities between the rough
+work handed in by the Student and the video itself.
+35.
+
+Accordingly, the Panel found that the Provost had established Allegation #1. Having been
+
+advised of these findings, the Provost withdrew Allegation #2.
+Penalty
+36.
+
+The University sought the following penalties:
+(a)
+
+a final grade of zero in the Course;
+
+(b)
+
+a suspension from the University for three years from the date the Tribunal makes
+its order;
+
+-7(c)
+
+a notation of the offence on the Student’s academic record and transcript for four
+years from the date of the Tribunal’s order. The Provost also indicated that it
+sought, as part of the order, that the case be reported to the Provost for publication
+of a notice of the Tribunal’s decision and the sanction imposed with the Student’s
+name withheld.
+
+37.
+
+The Provost called no further evidence in support of the penalty.
+
+38.
+
+However, the Provost made extensive submissions and provided a helpful summary of
+
+the relevant cases. The Provost argued that there was no evidence either on the character of the
+Student or relevant to mitigation, as a result of the Student’s decision not to attend the Hearing.
+While there have some cases in which the commission of offence during the pandemic is seen
+as a mitigating factor, particularly when the offence occurred in the first semester when the switch
+to online learning was disruptive, in this case, the fall 2020 course was online from the outset.
+The Provost argued that there was no evidence to suggest that the pandemic affected this
+particular Student or otherwise served as a reason or rationale for the breach of the expectation
+of academic integrity. Therefore, while the pandemic may be relevant, it would not be significant
+in terms of mitigation.
+39.
+
+In this case, the Student had no prior offences nor was there any evidence of the likelihood
+
+of repetition. The Provost argued however that the key factors were the nature of the offence,
+the detriment to the University and general deterrence. The Provost drew the Panel’s attention
+to the decision of the University of Toronto v. T.J. (Case No. 1102, November 5, 2021)(“T.J.”) The
+panel in that decision noted specifically that: “the Covid-19 pandemic has amplified the
+importance of trust. Online learning provides more opportunities for students to cheat…” With
+respect to the need to deter others, the panel in T.J. went further to note that
+cheating on exams must always be denounced and deterred in order to protect the academic
+integrity of the University. In today’s online world, it is all too easy for students to find new outlets
+for unauthorized assistance. Students must understand that this kind of misconduct will have
+serious repercussions, so they will be dissuaded from the temptation to cheat when under pressure.
+(p.12)
+
+40.
+
+The Provost also argued that the fact that there was a commercial nature to the offence,
+
+namely that the students paid to attend the review session has previously been considered to be
+an aggravating factor, resulting in a three-year suspension. The Provost pointed to the chegg.com
+cases as situations involving offenses with a commercial element and the potential for mass
+cheating. Where there was no subscription and no payment, the absence of the commercial
+element resulted in a two-year suspension in the absence of any prior conduct. In this case, given
+the commercial nature, the Provost argued that a three-year suspension was appropriate.
+
+-841.
+
+The Panel carefully considered the factors as set out in the University of Toronto and Mr.
+
+C. (Case No.1976/77-3, November 5, 1976) as follows:
+(a)
+
+The character of the Student
+
+As the Student did not participate in the proceeding, there is no evidence before the Panel
+regarding the Student’s character other than the facts relating to this offence. While those
+facts were concerning, this was a first time offence by the Student and we note, in
+particular, that this was a situation where at least 180 students also attended the EASY
+EDU session.
+(b)
+
+The likelihood of a repetition of the offence
+
+The Student did not have a prior record of academic offences. Given the Student did not
+attend the hearing, the Panel is unable to make any findings regarding the likelihood of
+repetition of offence in the future.
+(c)
+
+The nature of the offence committed; and
+
+(d)
+
+any extenuating or mitigating circumstance.
+
+The University must be able to trust that asynchronous testing will be completed with the
+same academic integrity as if the test was administered in person. As noted by the Panel
+in T.J., this way of online testing, which became necessary in the Covid-19 pandemic,
+should not be considered to provide an easier avenue for students to cheat. Rather,
+academic integrity requires that students always ensure that their academic performance
+is their own, and that they do not engage in unauthorized assistance. In this case, that
+could not have been made more clear than in the warning provided by Professor Gazzale.
+Here, there is also no evidence before the Panel of any mitigating or extenuating
+circumstances.
+(e)
+
+The detriment to the University occasioned by the offence.
+
+The Panel accepts that the University’s trust in the Student was harmed as a result of this
+incident.
+
+In addition, and importantly, the University is harmed whenever students
+
+participate in a mass cheating incident, as it potentially sends a message to the broader
+community regarding the University’s integrity.
+
+-9(f)
+
+The need to deter others from committing a similar offence.
+
+General deterrence is an important factor in these cases. As if evidenced from the chart
+of cases provided by the Provost, most of which occurred in the last two years, it is
+apparent that the abuse of asynchronous/online testing is an ongoing issue at the
+University.
+
+Unauthorized assistance strikes at the heart of academic integrity.
+
+Accordingly, it is appropriate to send a strong message to students that this type of
+misconduct will be treated very seriously.
+42.
+
+The determination of appropriate penalty depends on the assessment of the principles
+
+and factors in light of the individual circumstances in a particular case. There should also be a
+general consistency in the approach of the Panel to sanction so that students are treated fairly
+and equitably. Accordingly, the Panel spent some time considering the reasonable range of
+penalty dispositions that were set out in the various authorities put before it by the Provost.
+43.
+
+While the starting point for a penalty is a two-year suspension plus a three-year notation
+
+on the academic record, where there has been a commercial nature to the unauthorized
+assistance, the chart of cases indicates that there is a longer suspension. However, the chart of
+cases provided by the Provost demonstrates that often a three-year suspension is given in
+situations where there has been more than just a commercial element to the misconduct. The
+Panel had particular regard to two cases.
+44.
+
+In the University of Toronto and D.K. (Case No. 1119, July 21, 2021) (“D.K.”) there was
+
+no evidence that the student had paid for access to chegg.com, and had no history of prior
+misconduct (see: the University of Toronto and T.J. and the University of Toronto and A.K. (Case
+No. 1181, November 5, 2021).
+
+Nonetheless, the student in that case received a 2.5-year
+
+suspension. This was in part because not long after breaching the Code by bringing an iPhone
+into an exam, the student “chose to knowingly submit answers on another final exam that had
+been taken from a commercial website”. Accordingly, this was a case where although there had
+been no prior conduct, there was evidence of actual repetition. This single aggravating factor
+warranted something more than a two-year suspension, but not a three-year suspension.
+45.
+
+In comparison, the panel in the University of Toronto and S.C. (Case No. 1215, January
+
+13, 2022) (“S.C.”) decision noted that, by using a paid commercial subscription service, the
+student had committed a more serious form of academic misconduct. In addition, in that case,
+the Panel commented specifically at paragraph 71 that it was concerned by the student’s adamant
+denial of the allegations and refusal to accept responsibility. There were very real concerns about
+
+- 10 the student’s conduct and attitude, and how that reflected both on the character of the student
+and on the likelihood of repetition. Accordingly, while a three year suspension was imposed, there
+were additional aggravating factors in addition to the commercial nature of the offence that
+warranted that length of suspension.
+46.
+
+The Panel agrees that, where there is the use of a commercial provider, there ought to be
+
+consequences over and above the typical two year suspension for unauthorized assistance and
+conventional academic dishonesty. S.C. and D.K. are good examples of incremental increases
+in the length of suspension. In the absence of any other aggravating factors and any prior
+misconduct as was seen in S.C., the Panel determined that a suspension of 2.5 years,
+representing the aggravation of a commercial nature of enterprise only, was appropriate.
+47.
+
+The notation on the academic record should therefore be for 3.5 years. Such a lengthy
+
+suspension should have the effect of sending a clear message that this type of conduct will not
+be tolerated, while recognizing this was the Student’s first (and hopefully, only) time before this
+Tribunal.
+48.
+
+Accordingly, at the conclusion of the Hearing, the Panel made the following order:
+(i)
+
+THAT the hearing may proceed in the absence of the Student;
+
+(ii)
+
+THAT the Student is guilty of one count of knowingly using or possessing
+an unauthorized aid or obtaining an unauthorized assistance in
+Assessment #2 in ECO101H1F (20209), contrary to section B.I.1(b) of the
+Code;
+
+(iii)
+
+THAT the following sanctions shall be imposed on the Student:
+(a)
+
+The final Grade of zero in ECO101H1F (20209);
+
+(b)
+
+A suspension from the University for 2 years and 6 months from the
+date the Tribunal makes its order; and
+
+(c)
+
+A notation of the offence on his academic record and transcript for
+3 years and 6 months from the date of the Tribunal’s order.
+
+(iv)
+
+THAT this case be reported to the Provost for a publication of the notice of
+the Tribunal’s decision and the sanctions imposed, with the Student’s name
+withheld.
+
+- 11 Dated at Toronto this 11th day of July, 2022.
+
+Original signed by:
+Ms. Cynthia Kuehl, Chair
+On behalf of the Panel
+
+

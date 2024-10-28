@@ -1,0 +1,1172 @@
+Case No: 1344
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on February 10, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND M
+
+R
+
+REASONS FOR DECISION
+Hearing Date: September 21, 2022, via Zoom
+Panel Members:
+Mr. Christopher Wirth, Chair
+Professor Alexander Koo, Faculty Panel Member
+Ms. Jessica Johnson, Student Panel Member
+Appearances:
+Mr. William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Ryan Shah, Articling Student, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeals, Discipline and Faulty Grievances
+Not in Attendance:
+Mr. M
+
+R
+
+A Panel of the Trial Division of the University Tribunal was convened on September
+21, 2022 by videoconference to consider charges brought by the University of
+Toronto (the “University”) against M
+
+R
+
+(the “Student”) under the
+
+University’s Code of Behaviour on Academic Matters, 1995 (the “Code”).
+Preliminary Issue: Proceeding in the Absence of the Student
+The hearing was scheduled to begin at 9:45 a.m. Neither the Student, nor anyone
+on the Student’s behalf, were logged onto the Zoom link at that time. The Panel
+waited until 11:35 a.m. to start the hearing. The University then requested that the
+Panel proceed with the hearing in the Student’s absence.
+Pursuant to Rule 16 of the University Tribunal Rules of Practice and Procedure
+(the “Rules”), notice of an electronic hearing must include the date, time, place and
+purpose of the hearing; a reference to the statutory authority under which the
+hearing will be held; information about the manner in which the hearing will be held;
+and a statement that if a person does not attend the hearing, the Panel may
+proceed in the person’s absence. Rule 17 provides that where notice of an
+electronic hearing has been given to a person and that person does not attend the
+hearing, the Panel may proceed with the hearing in the party’s absence. The Rules
+conform to sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”),
+which set out the notice requirements.
+Pursuant to Rule 9, a notice of hearing may be served on a student by various
+means, including by emailing a copy of the document to the student’s email
+address contained in the University’s Repository of Student Information (“ROSI”).
+The University’s Policy on Official Correspondence with Students dated
+September 1, 2006 expressly states that students are responsible for maintaining
+on ROSI a current and valid mailing address and University-issued email account,
+and that “[f]ailure to do so may result in a student missing important information
+and will not be considered an acceptable rationale for failing to receive official
+correspondence from the University.” Students are expected to monitor and
+
+2
+
+retrieve their email on a frequent and consistent basis. Students have the right to
+forward their University issued email account to another email account, but remain
+responsible for ensuring that all University email communications are received and
+read.
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+In this case, the University provided evidence relevant to service by way of the
+evidence of four witnesses: Jade Hazell (“Ms. Hazell”), an Academic Integrity
+Assistant in the Academic Integrity Unit at the University, Kimberly Blake (“Ms.
+Blake”), a Legal Assistant at the law firm of Paliare Roland Rosenberg Rothstein
+LLP, Andrew Wagg (“Mr. Wagg”), an Incident Report Architect at Information
+Security, Information Technology Services at the University and Samanthe Huang
+(“Ms. Huang”), an Administrative Assistant with the Appeals, Discipline and Faculty
+Grievances Office, Office of the Governing Council at the University. These four
+witnesses provided their evidence by affidavit, which were accepted by the Panel
+pursuant to Rule 61 of the University Tribunal’s Rules of Practice and Procedure
+(the “Rules”).
+The contents of the affidavits (without Exhibits) of these four witnesses are set out
+below:
+a) Evidence of Ms. Hazell
+Ms. Hazell’s affidavit provides as follows:
+1.
+
+I am an Academic Integrity Assistant in the Academic Integrity Unit (“AIU”) at the
+University of Toronto Mississauga. As such, I have personal knowledge of the
+matters set out in this affidavit. Where I do not have personal knowledge of a
+matter, I state the source of my information and that I believe it to be true.
+
+2.
+
+The AIU is responsible for investigating allegations of academic misconduct and
+arranging meetings between students and the Dean or Dean’s Designate in
+
+3
+
+accordance with the process set out in the Code of Behaviour on Academic
+Matters (the “Code”).
+3.
+
+In 2020, our office received allegations from the Department of Mathematical and
+Computational Sciences that M
+
+R
+
+(the “student”) used or possessed an
+
+unauthorized aid or obtained unauthorized assistance in connection with his
+MAT224 and MAT236 exams in Winter 2020.
+4.
+
+From December 16, 2020, to January 12, 2021, I tried to schedule a meeting
+between the student and the Dean’s Designate for Academic Integrity to discuss
+the allegations that the student committed an academic offence. On January 12,
+2021, the student confirmed that he would attend a dean’s meeting that was
+scheduled for later that day. I have attached a copy of these emails to my affidavit
+as Exhibit A.
+
+5.
+
+On January 12, 2021, I waited in the zoom meeting room for approximately 20
+minutes, but the student did not attend the meeting. I emailed the student to inform
+him that the meeting had been cancelled because he did not attend. I have
+attached a copy of this email to my affidavit as Exhibit B.
+
+6.
+
+On January 13, 2021, I sent the student an email urging him to contact the AIU as
+soon as possible. I have attached a copy of this email to my affidavit as Exhibit C.
+
+7.
+
+To date, the AIU has received no further correspondence from the student.
+
+8.
+
+I have attached a copy of the student’s academic record, as of August 26, 2022,
+to my affidavit as Exhibit D.
+
+b) Evidence of Ms. Blake
+Ms. Blake’s affidavit provides as follows:
+1.
+
+I am a legal assistant at the law firm Paliare Roland Rosenberg Rothstein LLP. I
+work with William Webb, an associate at Paliare Roland, and Tina Lie, a partner
+at Paliare Roland. Both Mr. Webb and Ms. Lie act as Assistant Discipline Counsel
+to the University of Toronto. As such, I have knowledge of the matters contained
+
+4
+
+in this affidavit. Where I do not have direct knowledge of a matter contained in this
+affidavit, I state the source of my knowledge and that I believe it to be true.
+2.
+
+The Academic Integrity Unit (“AIU”) at the University of Toronto Mississauga
+provided my office with a copy of the contact information for M
+
+R
+
+(the
+
+“student”) in the University’s Repository of Student Information (“ROSI”). I have
+attached a copy of the student’s contact information to my affidavit as Exhibit A.
+A.
+
+Charges and disclosure
+
+3.
+
+On February 10, 2022, the Office of the Vice-Provost, Faculty and Academic Life
+served the charges in this matter by email to m
+
+.r
+
+@mail.utoronto.ca, which
+
+is the student’s University email account. I have attached a copy of the email and
+charges to my affidavit as Exhibit B.
+4.
+
+On April 6, 2022, Ms. Lie emailed the student a disclosure letter, a disclosure brief,
+and a copy of the University’s Policy on Official Correspondence with Students. I
+have attached a copy of the email and the disclosure letter to my affidavit as
+Exhibit C.
+
+B.
+
+Hearing
+
+5.
+
+On June 10, 2022, Ms. Lie emailed the student about scheduling a hearing date.
+Ms. Lie advised that if she did not hear back by June 17, 2022, she would request
+a hearing date be scheduled. I have attached a copy of this email to my affidavit
+as Exhibit D.
+
+6.
+
+Mr. Webb has advised me that: on June 20, 2022, he called the student at the
+number that the student had provided in ROSI, he spoke with the student’s mother,
+he gave the student’s mother his phone number, and asked her to have the student
+contact him about an important confidential matter. Later that day, Mr. Webb sent
+the student an email that confirmed the details of this call. I have attached a copy
+of this email to my affidavit as Exhibit E.
+
+7.
+
+Mr. Webb has advised me that: on June 20, 2022, the student called Mr. Webb
+from the number
+
+and that they discussed the charges in this matter.
+
+Later that day, Mr. Webb sent the student an email that asked him to continue
+
+5
+
+checking his University of Toronto email. Mr. Webb sent the student information
+about pro bono legal services (Downtown Legal Services), information about feefor-service lawyers, and the disclosure materials. I have attached a copy of this
+email to my affidavit as Exhibit F.
+8.
+
+On July 5, 2022, Mr. Webb emailed the student about scheduling a hearing date.
+Mr. Webb advised that if he did not hear back, by July 11, 2022, he would request
+a hearing be scheduled. I have attached a copy of this email to my affidavit as
+Exhibit G.
+
+9.
+
+On July 20, 2022, Mr. Webb emailed the Office of Appeals, Discipline and Faculty
+Grievances (“ADFG Office”) to request a hearing be scheduled for September 14,
+2022, at 1:45 PM. Later that day, Mr. Webb sent another email to the ADFG Office
+amending his request and asking that a hearing be scheduled for September 21,
+2022, at 9:45 AM. The student was copied on both of these emails. I have attached
+a copy of these emails to my affidavit as Exhibit H.
+
+10.
+
+On July 21, 2022, the ADFG Office issued a Notice of Electronic Hearing to take
+place via zoom on September 21, 2022, at 9:45 AM. The ADFG Office sent the
+notice to the student at m
+
+.r
+
+@mail.utoronto.ca. I have attached a copy of
+
+this email and the attached Notice of Electronic Hearing to this affidavit as Exhibit
+I.
+11.
+
+Ryan Shah, an articling student at Paliare Roland, has advised me that: on
+September 9, 2022, he tried to call the student twice at
+
+, the student
+
+did not pick up, and Mr. Shah left a voicemail that informed him of the date and
+time of the hearing and urged the student to contact Mr. Webb to discuss this
+matter.
+12.
+
+On September 9, 2022, Mr. Shah emailed the student copies of the affidavits of
+the University’s witnesses. Mr. Shah stated that the University would rely on the
+affidavits at the hearing and asked the student to let our office know whether he
+intended to cross-examine any of the affiants. I have attached a copy of this email
+to my affidavit as Exhibit J.
+
+6
+
+13.
+
+To the best of my knowledge, the student has not contacted our office since his
+phone call with Mr. Webb on June 20, 2022.
+
+c) Evidence of Mr. Wagg
+Mr. Wagg’s affidavit provides as follows:
+1.
+
+I am an Incident Report Architect at Information Security, Information Technology
+Services at the University of Toronto (the “University”). As such, I have knowledge
+of the matters contained in this affidavit. Where I do not have direct knowledge of
+a matter contained in this affidavit, I state the source of my knowledge and that I
+believe it to be true.
+
+2.
+
+Information Technology Services provides many services to the University,
+including management of the email accounts used by students. To access an email
+account one needs to input both the user’s login id and the password for that
+account. The Microsoft 365 Exchange portal automatically records the last time
+someone accessed a particular university-issued email account. This is denoted
+with the code “LastUserActionTime.” The LastUserActionTime log only updates
+when someone logs in to a university-issued email account.
+
+3.
+
+On August 4, 2022, I checked the portal records to determine the last time
+someone accessed the email account m
+
+.r
+
+@mail.utoronto.ca. In order to
+
+view the LastUserActionTime log, I ran a PowerShell script.
+4.
+
+I determined that the last time someone accessed this e-mail account was on July
+25, 2022, at 2:53:18 PM, local Toronto time.
+
+d) Evidence of Ms. Huang
+Ms. Huang’s affidavit provides as follows:
+1.
+
+I am an Administrative Assistant with the Appeals, Discipline and Faculty
+Grievances Office (“ADFG Office”), Office of the Governing Council, University of
+Toronto (the “University”) and, as such, have knowledge of the matters contained
+in this affidavit.
+
+7
+
+2.
+
+On February 11, 2022, I served M
+
+R
+
+(the “student”) with a letter regarding
+
+the charges that were filed against him, together with copies of the charges, the
+Code of Behaviour on Academic Matters, the Rules of Practice and Procedure and
+a pamphlet for Downtown Legal Services. I served the student with these
+documents by email at m
+
+.r
+
+@mail.utoronto.ca, which is the email address
+
+that the student had provided in the Repository of Student Information (“ROSI”).
+Copies of my email and letter (without enclosures) are attached to my affidavit as
+Exhibit A.
+3.
+
+On July 20, 2022, I received an email from William Webb, Assistant Discipline
+Counsel to the University, requesting to schedule an electronic hearing for the
+student for September 14, 2022 at 1:45 PM. Subsequently, On July 20, 2020, I
+received an additional email from Mr. Webb amending his request and asking that
+a hearing be scheduled for September 21, 2022 at 9:45 AM. The student was
+copied on both of Mr. Webb’s email.
+
+4.
+
+On July 21, 2022, I served the student with the Notice of Electronic Hearing for a
+hearing on September 21, 2022 at 9:45 AM, together with copies of my letter
+regarding the charges that were filed against the student and enclosures (which
+included the charges) by email. I advised the student that the hearing would be
+conducted using the Zoom videoconferencing platform and I provided the student
+with the coordinates to access the videoconference. A copy of Mr. Webb’s emails,
+my emails, and the Notice of Electronic Hearing are attached to my affidavit as
+Exhibit B.
+
+5.
+
+All of my emails to the student were sent to m
+
+.r
+
+@mail.utoronto.ca. I did not
+
+receive a “bounce back” message to any of my emails, indicating that they could
+not be delivered.
+6.
+
+I have not received a response from the student to any of my correspondence. To
+the best of my knowledge, the student has not contacted my office.
+
+The evidence is that the Student was aware of the Charges, but is uncertain as to
+whether the Student reviewed them, the disclosure or the Notice of Electronic
+
+8
+
+Hearing. However, the Rules do not require actual notice. The University can serve
+the Student, but cannot make the Student actually read what is served.
+The University did everything it could reasonably have done to contact the Student
+and did take the steps it was required to under the Rules. The Student was made
+aware of the charges in his telephone conversation with Assistant Discipline
+Counsel on June 20, 2022. The Panel was satisfied it was more likely than not
+that the Student had made a deliberate choice some time ago to avoid and turn
+his back on any official communications from the University. That choice has
+consequences.
+Therefore, in light of the evidence and the submissions of Assistant Discipline
+Counsel, the Panel was satisfied that the Student had been given reasonable
+notice of the hearing in compliance with the notice requirements of the SPPA and
+the Rules. The Panel decided to hear the case on its merits in the absence of the
+Student.
+Charges and Particulars
+The charges alleged against the Student as filed by the Provost on February 10,
+2022 are as follows:
+1.
+
+On or about April 7, 2020, you knowingly used or possessed an unauthorized aid
+or obtained unauthorized assistance in connection with the final exam in
+MAT224H5 (“MAT224”), contrary to section B.I.1(b) of the Code.
+
+2.
+
+In the alternative, on or about April 7, 2020, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the final exam in MAT224,
+contrary to section B.I.3(b) of the Code.
+
+3.
+
+On or about April 8, 2020, you knowingly used or possessed an unauthorized aid
+or obtained unauthorized assistance in connection with the final exam in
+MAT236H5 (“MAT236”), contrary to section B.I.1(b) of the Code.
+
+9
+
+4.
+
+In the alternative, on or about April 8, 2020, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the final exam in MAT236,
+contrary to section B.I.3(b) of the Code.
+
+The particulars related to charges 1, 2, 3 and 4 are as follows:
+1.
+
+At all material times you were a student enrolled at the University of Toronto
+Mississauga.
+MAT224
+
+2.
+
+In Winter 2020, you enrolled in MAT224H5S (Linear Algebra II).
+
+3.
+
+As a result of the covid19 pandemic, the final exam in MAT224 was administered
+online on April 7, 2020 from 9:00 to 11:30 am. Students were required to complete
+the exam independently.
+
+4.
+
+Chegg.com is a subscription based website that allows subscribers to post
+problems to the site, which are then answered by “experts”. Subscribers are also
+able to access the questions and answers posted by others on the site.
+
+5.
+
+On April 7, 2020, during the final exam in MAT224, you accessed questions and
+answers from the final exam that had been posted on Chegg.com. The use of
+Chegg.com was not authorized. In accessing the questions and answers, you
+sought to obtain and/or did obtain unauthorized assistance in the final exam.
+
+6.
+
+You knowingly submitted the final exam in MAT224 with the intention that the
+University of Toronto Mississauga rely on it as containing your own ideas or work
+in considering the appropriate academic credit to be assigned to your work.
+MAT236
+
+7.
+
+In Winter 2020, you enrolled in MAT236H5S (Vector Calculus).
+
+10
+
+8.
+
+As a result of the covid19 pandemic, the final exam in MAT236 was administered
+online on April 8, 2020 from 9:00 to 12:00 pm. Students required to complete the
+exam independently.
+
+9.
+
+On April 8, 2020, during the final exam in MAT236, you accessed questions and
+answers from the final exam that had been posted on Chegg.com. The use of
+Chegg.com was not authorized. In accessing the questions and answers, you
+sought to obtain and/or did obtain unauthorized assistance in the final exam.
+
+10.
+
+You knowingly submitted the final exam in MAT236 with the intention that the
+University of Toronto Mississauga rely on it as containing your own ideas or work
+in considering the appropriate academic credit to be assigned to your work.
+
+The Student’s Position
+Given that the Student was not present nor represented, he was deemed to have
+denied the charges. As a result, the hearing proceeded on the basis that the
+University bore the burden of proving the charges on the balance of probabilities.
+Overview
+In addition to the previously identified affidavits, the University tendered the
+evidence of one witness, Professor Jacopo De Simoi (“Professor De Simoi”), an
+Associate Professor in the Department of Mathematical and Computational
+Sciences (the “Department”) at the University and is the head of the academic
+integrity initiative in the Department who provided his evidence by affidavit, which
+was accepted by the Panel pursuant to Rule 61 of the Rules.
+After careful deliberation, and having considered all the evidence, the Panel found
+that on the balance of probabilities the evidence was sufficiently clear, cogent and
+convincing to discharge the burden of proof on the University and found that the
+Student had committed academic misconduct.
+The Evidence
+The contents of Professor De Simoi’s affidavit (without Exhibits) is set out below.
+
+11
+
+a) Evidence of Professor De Simoi
+Professor De Simoi’s affidavit provides as follows:
+1.
+
+I am an Associate Professor in the Department of Mathematical and Computational
+Sciences (the “Department”) at the University of Toronto Mississauga. I am the
+head of the academic integrity initiative in the Department. As such, I have
+personal knowledge of the matters set out in this affidavit. Where I do not have
+personal knowledge of a matter, I state the source of my information and I believe
+it to be true.
+
+A.
+
+MAT224H5S (Linear Algebra II)
+1.
+
+2.
+
+The course
+
+In Winter 2020, M
+
+R
+
+(the “student”) enrolled in MAT224H5S (Linear
+
+Algebra II) (“MAT224”). I have attached a copy of the MAT224 syllabus to my
+affidavit as Exhibit A.
+3.
+
+Students were required to write a final exam, which was worth 50% of their grade
+in MAT224. The exam was administered on April 7, 2020, from 9:00 am to 12:00
+pm. Due to the pandemic, the exam was administered online. There were multiple
+versions of the exam. The different versions of the exam used the same underlying
+questions, but some questions used different variables.
+
+4.
+
+The exam instructions stated that students were required to work on their own. The
+exam instructions stated that students were not permitted to receive help from any
+other person or the internet:
+What resources am I NOT allowed to use?
+•
+
+You are expected to do the test yourself, and on your own (without help
+from any other person.)
+
+•
+
+The internet.
+
+Rules during the exam:
+•
+
+You may not transmit or receive information from any other individual,
+whether in person, digitally, or by some other means.
+
+12
+
+•
+
+You may not access the internet, except to download and print your test,
+to submit it digitally through Crowdmark, and possibly ask questions of the
+instructors.
+
+[Emphasis in original]
+
+5.
+
+I have attached a copy of the exam instructions to my affidavit as Exhibit B.
+
+6.
+
+I have attached blank copies of the various versions of the MAT224 exam to my
+affidavit as Exhibit C.
+
+7.
+
+On April 7, 2020, at 11:45 AM EST the student submitted his MAT224 exam. I have
+attached two copies of the student’s exam to my affidavit as Exhibit D. One copy
+of the student’s exam contains feedback, and one copy contains no feedback.
+2.
+
+8.
+
+Chegg and the MAT224 exam
+
+Chegg is a subscription-based website that allows students to post problems to
+the site, which are then answered by so-called “experts”. Subscribers are able to
+access the questions and answers posted by others on the site. A copy of the
+chegg.com/study webpage is attached to my affidavit as Exhibit E. The webpage
+advertises that a “Chegg Study” subscription costs $14.95/month and will allow
+subscribers to take a photo of their questions and get an “expert” to answer them.
+
+9.
+
+Chegg has an “Honor Code”, in which it states that its services are not intended to
+be used for any sort of cheating or fraud. Chegg permits instructors to request an
+“honor code investigation” for alleged violations of its “code”. I have attached a
+copy of the Chegg “Honor Code Policy” to my affidavit as Exhibit F.
+
+10.
+
+In May 2020, the department formed an initiative to address professors’ concerns
+about academic integrity issues, including the issue that questions from exams in
+several courses had been posted to Chegg. I was the head of this initiative and
+was responsible for investigating over 400 cases of suspected academic
+misconduct in relation to Chegg.
+
+11.
+
+The course instructor found that questions from and answers to the MAT224 exam
+had been posted to Chegg during the exam period. I have attached a copy of the
+MAT224 exam questions and answers that were posted to Chegg to my affidavit
+as Exhibit G.
+
+13
+
+12.
+
+The course instructor reported the issue to the department. The department
+requested that Chegg conduct an Honour Code investigation into the matter. The
+Chegg Honor Code Team sent the department an Excel spreadsheet which
+provided details of the “askers” and “viewers” of the questions that had been
+identified. The Chegg Honor Code Team noted that all dates and times provided
+are in PST. I have attached a copy of the Chegg data for the MAT224 exam to my
+affidavit as Exhibit H.
+
+13.
+
+The Chegg data organizes questions by “Question ID” numbers. The Chegg data
+shows that someone posted questions from and answers to the MAT224 exam
+during the exam period. In particular:
+(a)
+
+Question ID 46797783: a Chegg user posted screen shots of question 1
+from Version B of the MAT224 exam on April 7, 2020 at 6:07 AM PST. The
+answer was posted on April 7, 2020 at 6:43 AM PST.
+
+(b)
+
+Question ID 46797859: a Chegg user also posted screen shots of
+questions 1 from Version D of the MAT224 exam on April 7, 2020 at 6:08
+AM PST. The answer was posted on April 7, 2020 at 6:54 AM PST.
+
+14.
+
+The Chegg data shows that a subscriber from the University of Toronto with the
+@gmail.com and the internet protocol (“IP”) address
+
+email address m
+
+viewed these Chegg Question IDs during the MAT224 exam. In
+particular:
+(a)
+
+m
+
+@gmail.com viewed Question ID 46797783 several times
+
+between 7:08 and 7:09 AM PST, which was after the answer had been
+posted to Chegg.
+(b)
+
+m
+
+@gmail.com viewed Question ID 46797859 several times
+
+between 6:12 and 6:13 AM PST, which was before the answer had been
+posted to Chegg.
+15.
+
+I have compared the student’s solutions to the Chegg solutions. For questions 1(a)
+and 1(b), there are relatively few similarities between the steps in their solutions,
+but both the student and Chegg (Question ID 46797783) arrive at the same correct
+final answer.
+
+14
+
+16.
+
+For Question 1(c), the student and Chegg (Question ID 46797783) use the same
+method, but they arrive at different final answers. In particular:
+(a)
+
+Method: the student and the Chegg solution both use the same method
+and describe the method in the same imprecise way. The solutions suggest
+that dimension is a property of a matrix; dimension is a property of vector
+space, but it is not a property of a matrix. The calculation that the student
+provides, “Moreover, dimension for an nxn symmetric matrix is 2(3)/2 = 3”,
+also lacks sufficient justification and appears to come from nowhere.
+Professor Pawliuk, the course instructor, has advised me that he reviewed
+the student’s answer, and that this is not a method he would expect
+students to know because he did not teach this method in the course.
+
+(b)
+
+Final Answer: Chegg provides an answer to Question 1 on Version B of the
+MAT224 exam, which contained the variable “4”. The student provides an
+answer to Question 1 on Version D of the MAT224 exam, which contained
+the variable “2”. Both answers are correct for their respective versions of
+the MAT224 exam.
+
+17.
+
+I have attached a copy of a chart comparing the student’s MAT224 exam answers
+and the Chegg answers to my affidavit as Exhibit I.
+
+B.
+
+MAT236H5S (Vector Calculus) (“MAT236”)
+1.
+
+18.
+
+The course
+
+In Winter 2020, the student enrolled in MAT236H5S (Vector Calculus) (“MAT236”).
+I have attached a copy of the MAT236 syllabus to my affidavit as Exhibit J.
+
+19.
+
+The syllabus contained a section on academic integrity that stated students were
+expected to be familiar with the Code of Behaviour on Academic Matters. The
+syllabus stated that no aids were permitted on the MAT236 exam.
+
+20.
+
+Students were required to write a final exam, which was worth 52% of their grade
+in the course. The exam was administered on April 8, 2020, from 9:00 am to 12:00
+pm. Due to the pandemic, the exam was administered online. The MAT236 exam
+contained a statement about academic integrity: “The University of Toronto
+
+15
+
+Mississauga and you, as a student, share a commitment to academic integrity.” I
+have attached a blank copy of the MAT236 exam to my affidavit as Exhibit K.
+21.
+
+On April 8, 2020, the student submitted his MAT236 exam. I have attached a copy
+of the student’s MAT236 exam to my affidavit as Exhibit L.
+2.
+
+22.
+
+Chegg and the MAT236 Exam
+
+The course instructor for MAT236 found that questions from and answers to the
+MAT236 exam had been posted to Chegg.com during the exam period. I have
+attached a copy of the MAT236 questions and answers that were posted to Chegg
+to my affidavit as Exhibit M.
+
+23.
+
+The course instructor reported the issue to the department. The department
+requested that Chegg conduct an Honour Code investigation into the matter. The
+Chegg Honor Code Team sent the department an Excel spreadsheet which
+provided details of the “askers” and “viewers” of the questions that had been
+identified. The Chegg Honor Code Team noted that all dates and times provided
+are in PST. I have attached a copy of the Chegg data for the MAT236 exam to my
+affidavit as Exhibit N.
+
+24.
+
+The Chegg data shows that someone posted several questions from and answers
+to the MAT236 exam. In particular:
+(a)
+
+Question ID 46885838: a Chegg user posted screen shots of question 3 on
+April 8, 2020, at 6:42 AM PST. The answer was posted on April 8, 2020, at
+8:41 AM PST.
+
+(b)
+
+Question ID 46885196: a Chegg user posted screen shots of question 8 on
+April 8, 2020, at 6:27 AM PST. The answer was posted on April 8, 2020, at
+10:43 AM PST.
+
+25.
+
+The Chegg data shows that a subscriber from the University of Toronto with the
+email address m
+
+@gmail.com and the IP address
+
+two Chegg Question IDs during the Exam. In particular:
+
+16
+
+viewed
+
+(a)
+
+m
+
+@gmail.com viewed Question ID 46885838 several times
+
+between 6:57 and 7:47 AM PST, which was before the answer had been
+posted to Chegg.
+(b)
+
+m
+
+@gmail.com viewed Question ID 46885196 several times
+
+between 9: 6:53 and 8:29 AM PST, which was before the answer had been
+posted to Chegg.
+C.
+
+The student’s internet protocol address
+
+26.
+
+Quercus is the University’s main online teaching and learning platform. Quercus is
+a web-based platform in which students can access course content, submit
+assessments, and take tests. To access Quercus, a student needs to input their
+user login id and the password for their account.
+
+27.
+
+Quercus generates various logs of activity, including page view reports. Page view
+reports use alphanumeric codes to refer to certain types of information, such as
+users, courses, and quizzes. Page view reports show the IP address that is
+associated with a user’s Quercus activity.
+
+28.
+
+As part of their investigation into the alleged academic misconduct, the University
+of Toronto Mississauga obtained a copy of the page view report for the student.
+
+29.
+
+The student’s page view report shows that the student’s Quercus account was
+accessed multiple times on the date of the MAT224 exam (April 7, 2020) and on
+the date of the MAT236 exam (April 8, 2020) from the IP address
+is the same IP address from which m
+
+. This
+
+@gmail.com viewed the Chegg
+
+questions and answers to the MAT224 exam and the MAT236 exam. In particular:
+(a)
+
+MAT224: the student’s Quercus account was accessed several times from
+the IP address 135.0.95.57 on April 7, 2020, between 9:01 and 11:53 AM
+EST. m
+
+@gmail.com accessed Chegg several times from the IP
+
+address
+
+on April 7, 2020 between 9:12 and 10:09 AM EST
+
+(6:12 and 7:09 AM PST).
+(b)
+
+MAT236: the student’s Quercus account was accessed several times from
+the IP address
+
+on April 8, 2020, between 9:47 AM and 11:46
+
+17
+
+AM EST. m
+
+@gmail.com accessed Chegg several times from
+
+the IP address
+
+on April 8, 2020 between 9:53 and 11:46 AM
+
+EST (6:53 and 8:29 AM PST).
+30.
+
+I have attached a copy of the Quercus data to my affidavit as Exhibit O.
+
+The Panel had no questions for Professor De Simoi and this concluded the
+University’s evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that Professor De Simoi’s evidence,
+supports a finding on the balance of probabilities that the Student committed the
+academic offences as alleged.
+Standard of Proof
+The onus is on the University to establish, based upon clear and convincing
+evidence on a balance of probabilities, that the academic offences charged have
+been committed.
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University, the
+Student was found guilty of one count of knowingly obtaining unauthorized
+assistance in connection with the final exam in MAT224H5, contrary to section
+B.I.1.(b) of the Code and of one count of knowingly obtaining unauthorized
+assistance in connection with the final exam in MAT236H5, contrary to section
+B.I.1(b) of the Code as alleged in Charges 1 and 3 filed by the Provost on February
+10, 2022.
+Given these findings, the University withdrew allegations 2 and 4.
+Reasons for Decision
+The evidence of Professor De Simoi clearly demonstrated that the Student was
+made aware that when writing the exam for MAT224H5, he was required to work
+
+18
+
+on his own and was not permitted to receive help from any other person or the
+internet and that when writing the exam for MAT236H5, he was not permitted to
+use any aids, to commit to academic integrity and to be familiar with the Code of
+Behaviour on Academic Matters.
+Despite this, the evidence was clear that someone using the Student’s University
+of Toronto email address and IP address, accessed answers to questions from
+these exams posted on Chegg.com, during the time he was writing these exams.
+As such, the Panel was satisfied on the balance of probabilities that it was the
+Student who accessed answers to these exams posted on Chegg.com while he
+was writing these exams and as such, the Student committed the academic
+offences of knowingly obtaining unauthorized assistance in connection with the
+final exam in MAT224H5, contrary to section B.I.1.(b) of the Code and that he also
+knowingly obtained unauthorized assistance in connection with the final exam in
+MAT236H5, contrary to section B.I.1(b) of the Code as alleged in Charges 1 and
+3 filed by the Provost on February 10, 2022.
+Sanction
+The University’s Evidence
+The University provided the Panel with a Book of Documents (Sanction)
+containing the Affidavit of Jade Hazell (Sanction).
+The contents of Ms. Hazell’s affidavit (without Exhibits) is set out below:
+a) Evidence of Ms. Hazell
+Ms. Hazell’s affidavit provides as follows:
+1.
+
+I am an Academic Integrity Assistant in the Academic Integrity Unit (“AIU”) at the
+University of Toronto Mississauga. As such, I have personal knowledge of the
+matters set out in this affidavit. Where I do not have personal knowledge of a
+matter, I state the source of my information and that I believe it to be true.
+
+19
+
+2.
+
+The AIU is responsible for investigating allegations of academic misconduct and
+arranging meetings between students and the Dean or Dean’s Designate in
+accordance with the process set out in the Code of Behaviour on Academic
+Matters (the “Code”).
+
+3.
+
+The AIU maintains a database of academic integrity allegations against students.
+There is a “Discipline Case Report” for each allegation in the database, which
+records the details relating to the allegation and the outcome.
+
+4.
+
+According to the AIU’s records, M
+
+R
+
+(the “student”) has committed two
+
+prior offences.
+A.
+
+First Offence: Unauthorized Aids or Assistance in CSC108
+
+5.
+
+In Fall 2017, the student registered in CSC108H5F: Introduction to Computer
+Programming. On December 4, 2017, the student submitted an assignment that
+was worth 10% of his final grade in the course.
+
+6.
+
+On December 8, 2017, the student admitted that he used an unauthorized aid or
+obtained unauthorized assistance in connection with his CSC108 assignment. The
+matter was resolved at the departmental level. The student was sanctioned with a
+grade of zero on his CSC108 assignment. I have attached a copy of the Discipline
+Case Report for this offence to my affidavit as Exhibit A.
+
+7.
+
+On January 11, 2018, Professor Konstantin Khanin, then-Chair of the Department
+of Mathematical & Computational Sciences, sent a letter to the student describing
+the sanction imposed by the department. I have attached a copy of this letter as
+Exhibit B.
+
+B.
+
+Second Offence: Unauthorized Aids or Assistance in MAT202
+
+8.
+
+In Winter 2020, the student registered in MAT202H5S: Introduction to Discrete
+Mathematics. On April 3, 2020, the student submitted an assignment that was
+worth 3% of his final grade in the course.
+
+9.
+
+On September 17, 2020, the Academic Integrity Unit sent the student a letter that
+alleged the student obtained unauthorized assistance in connection with his
+
+20
+
+MAT202 assignment. The letter stated that the student could attend a Dean’s
+Designate meeting to discuss the allegations, or sign and return an admission
+form. I have attached a copy of this letter to my affidavit as Exhibit C.
+10.
+
+On December 11, 2020, the student signed and returned the admission form to the
+Academic Integrity Unit. The student admitted that he obtained unauthorized
+assistance in connection with his MAT202 assignment and accepted the proposed
+sanction. I have attached a copy of the student’s signed admission to my affidavit
+as Exhibit D.
+
+11.
+
+The matter was resolved at the divisional level. The student was sanctioned with
+a grade of zero on his MAT202 assignment, a further reduction of 3 marks from
+his final grade in MAT202, and an annotation on his academic transcript from
+September 1, 2020 to September 1, 2021. I have attached a copy of the Discipline
+Case Report for this offence to my affidavit as Exhibit E.
+
+The University provided the Panel with a Book of Authorities containing a number
+of prior decisions of this Tribunal and a chart summarizing them.
+The University’s Submissions
+Counsel for the University submitted that the proper sanctions to be imposed on
+the Student should be:
+(a)
+
+a final grade of zero in MAT224H5 in Winter 2020;
+
+(b)
+
+a final grade of zero in MAT236H5 in Winter 2020;
+
+(c)
+
+a suspension from the University of Toronto from the date of this order for
+a period of 3 years and 11 months;
+
+(d)
+
+a notation of the sanction on his academic record and transcript for a period
+of 4 years and 11 months; and
+
+21
+
+(e)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction
+imposed, with the Student’s name withheld.
+
+Assistant Discipline Counsel reviewed with the Panel the chart summarizing the
+sanctions which have been given to students by this Tribunal in prior similar cases.
+Assistant Discipline Counsel then reviewed with the Tribunal the principles relative
+to sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/773, November 5, 1976) (“Mr. C.”), namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of a repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+
+(d)
+
+Any extenuating circumstances;
+
+(e)
+
+The detriment to the University caused by the misconduct; and
+
+(f)
+
+The need for general deterrence.
+
+In this regard, Assistant Discipline Counsel submitted that as the Student did not
+attend the hearing, there is no evidence as to his character and so that is a neutral
+factor.
+Further, the fact that this conduct occurred during the early days of the pandemic
+which was a difficult time for students could be a mitigating factor.
+However, the Student’s prior academic offences makes the likelihood of repetition
+very likely and his use of Chegg.com was an aggravating factor.
+Assistant Discipline Counsel further submitted that the request for a 3 years and
+11 months suspension rather than a 4 year one, was designed to permit the
+
+22
+
+Student to be able to enroll to resume his studies at the University for the fall of
+2026.
+Sanction Decision
+After deliberations, the Tribunal ordered that the following sanctions shall be
+imposed on the Student:
+(a)
+
+a final grade of zero in MAT224H5 in Winter 2020;
+
+(b)
+
+a final grade of zero in MAT236H5 in Winter 2020;
+
+(c)
+
+a suspension from the University of Toronto from the date of this order for
+a period of 3 years and 11 months;
+
+(d)
+
+a notation of the sanction on his academic record and transcript for a period
+of 4 years and 11 months; and
+
+(e)
+
+that the Tribunal further order that this case be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction
+imposed, with the Student’s name withheld.
+
+An Order was signed at the hearing by the Panel to this effect.
+Reasons for Sanction
+The Panel considered the submissions of Assistant Discipline Counsel and the
+factors and principles relevant to sanction in Mr. C, supra, as set out above.
+In addition to these factors, the Panel considered the affidavit of Ms. Hazell
+contained in the University’s Book of Documents on Sanction and the other
+decisions of this Tribunal involving similar misconduct as contained in the
+University’s Book of Authorities and the sanctions imposed. However, the Panel
+remained cognizant of the fact that no two cases are identical and that it is not
+bound by past decisions of this Tribunal. However, the Tribunal does try to develop
+
+23
+
+a consistent body of cases so that students are treated fairly and consistently in
+similar circumstances.
+By cheating on the final exams in MAT224H5 and MAT236H5, the Student
+undermined the grades-based system of evaluation and broke the honour code
+that is essential to modern learning. In that regard, the pandemic and the resulting
+required online learning provides more opportunities for students to cheat,
+requiring the University to go to considerable lengths to detect and uncover
+students’ misconduct.
+In today’s online world, it is easy for students to find new ways to access
+unauthorized assistance and so any sanction must denounce cheating on tests
+and deter others in order to protect the academic integrity of the University.
+Students must understand that this kind of misconduct will have serious
+repercussions, so that they will be dissuaded from the temptation to consider
+cheating.
+The Panel accepted the University’s submission that by using Chegg.com, a
+subscription-based website, the Student committed a serious form of academic
+misconduct, while considering the range of sanctions provided by prior decisions
+of this Tribunal in similar circumstances, and given the Student’s prior academic
+offences, a period of 3 years and 11 months suspension of the Student from the
+University rather than expulsion was appropriate.
+Dated at Toronto, this 4th day of November 2022
+
+Original
+signed by:
+______________________________________
+Mr. Christopher Wirth, Chair
+On behalf of the Panel
+
+24
+
+

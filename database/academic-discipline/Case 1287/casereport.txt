@@ -1,0 +1,968 @@
+Case No. 1287
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on November 9, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am.
+S.O. 1978, c. 88,
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND M
+
+E
+
+–E
+
+REASONS FOR DECISION
+Hearing Date: August 23, 2023, via Zoom
+Members of the Panel:
+Dena Varah, Chair
+Professor Emily Nacol, Faculty Panel Member
+Cameron Miranda-Radbord, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Daniel Walker, Counsel for M
+E
+-E Bobila Walker Law (Briefly at the start of the
+proceeding)
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not In Attendance:
+M
+E
+-E
+
+2
+1.
+
+The Trial Division of the University of Toronto’s University Tribunal was convened on
+
+August 23, 2023. M
+
+E
+
+-E
+
+(the “Student”) was represented by counsel, Daniel Walker,
+
+who briefly attended the hearing after being contacted by Assistant Discipline Counsel. Mr.
+Walker advised that he had not intended to attend the hearing and asked to be contacted only if the
+Panel was considering rejecting the Joint Submission on Penalty. Mr. Walker left the hearing, and
+it proceeded in his absence.
+
+PART 1 - CHARGES
+2.
+
+The Student is Charged with six offences under the Code of Behaviour on Academic
+
+Matters, 2019 (“Code”):
+1. On or about March 18, 2021, you knowingly used or possessed an unauthorized aid or aids or
+obtained unauthorized assistance in Test 2 in ECE286H1: Probability and Statistics (the
+“Course”), contrary to section B.I.1(b) of the Code.
+2. In addition and in the alternative to charge 1, on or about March 18, 2021, you knowingly aided
+and assisted other students in the Course to use or possess an unauthorized aid or aids or obtain
+unauthorized assistance in Test 2, contrary to sections B.I.1.(b) and B.II.1(a) of the Code.
+3. In addition and in the alternative to charges 1 and 2, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind, contrary to section B.I.3(b) of the Code, in connection with Test 2 in the Course.
+4. On or about April 27, 2021, you knowingly used or possessed an unauthorized aid or aids or
+obtained unauthorized assistance in the final exam in the Course, contrary to section B.I.1(b)
+of the Code.
+5. In addition and in the alternative to charge 4, on or about April 27, 2021, you knowingly aided
+and assisted other students in the Course to use or possess an unauthorized aid or aids or obtain
+unauthorized assistance in the final exam, contrary to sections B.I.1.(b) and B.II.1(a) of the
+Code.
+
+3
+6. In addition and in the alternative to charges 4 and 5, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind, contrary to section B.I.3(b) of the Code, in connection with the final exam in the Course.
+
+PART 2 - THE AGREED STATEMENT OF FACTS & PLEA
+3.
+
+At the outset of the hearing, Assistant Discipline Counsel advised that the University and
+
+the Student had entered into an Agreed Statement of Facts (“ASF”). The ASF without attachments
+is attached hereto as Appendix “A”.
+4.
+
+Pursuant to the ASF, the Student plead guilty to the six charges listed above.
+
+5.
+
+Although the Student was not in attendance to confirm he accepted the plea as set out in
+
+the ASF on the Offences, his counsel, in his brief appearance, noted that he was not planning on
+attending because the parties had agreed to an ASF on Offences and a Joint Submission on Penalty.
+The Panel is satisfied that the Student agreed to and accepted the ASF on Offences and the plea
+contained therein.
+
+PART 3 - THE FACTS UNDERLYING THE CHARGES
+Background
+6.
+
+The Student was enrolled in ECE286H1: Probability and Statistics taught by Dr. Mark
+
+Ebden in Winter 2021 (the “Course”). In the Course, Students were required to write an assignment
+(worth 15% of the final grade), two midterms – Test 1 (worth 20% of the final grade) and Test 2
+(worth 30%T of the final grade) and a final exam (the “Final Exam) (worth 35% of the final grade).
+7.
+
+In January 2021, Dr. Ebden posted instructions about the term tests and Final Exam to
+
+Quercus, the University’s learning management engine. Dr. Ebden’s instructions specified that
+
+4
+printed material, the internet, calculators and computing platforms were allowed, but interaction
+with other people directly or indirectly was prohibited.
+8.
+
+Along with the Student, other students in the class relevant to the facts at issue were: V.B.,
+
+M.C., T.C., R.H., X.S., M.T., C.U-O., A.V. and J.X. (the “Involved Students”).
+9.
+
+Test 2 was administered from 9:00 a.m. to 11:00 a.m. on March 18, 2021. Although Test
+
+2 was open book, the instructions reiterated that there was to be no interaction with other people
+directly or indirectly. The first question on Test 2 also asked students to affirm their adherence to
+the Code and that during the administration of Test 2 they would not share technical content of
+Test 2 with others.
+10.
+
+The Student submitted his test on March 18, 2021 as did M.C. and C.U.-O. All three
+
+students completed the required academic integrity confirmation.
+11.
+
+The Final Exam was administered from 7:00 p.m. to 9:30 p.m. on April 27, 2021. The exam
+
+was open book but, like Test 2, reminded students that there was to be no interaction with other
+people directly or indirectly. There were five versions of the Final Exam. Version A was for a
+student who required accommodations, while Version B was for those who wrote a deferred exam.
+Version C was the default exam, and versions D and E contained subtle differences. For example,
+version D and E reversed the orders of questions 5 and 6 and 9 and 10.
+12.
+
+Version C was distributed to students with surnames starting with letters A to K. Students
+
+with surnames starting with letters M to Z received Version D. Version E was reserved for those
+students with surnames starting with the letter L.
+13.
+
+All versions of the exam once again contained an academic integrity confirmation, which
+
+5
+all Involved Students completed.
+The Investigations
+14.
+
+Dr. Ebden found several similarities in the answers on the Final Exams submitted by the
+
+Involved Students. Dr. Ebden prepared a report and a chart of these similarities, which was
+included in the material before the Panel. With respect to the Student, Dr. Ebden notes that his
+answers were similar to the other Involved Students’ answers in a number of ways, including
+making the same mistakes, answering questions from versions of the Final Exam other than the
+one he received, and arriving at the same answers as other Involved Students without showing any
+work to arrive at those answers.
+15.
+
+Dr. Ebden emailed the Student with his concerns that the Student had obtained
+
+unauthorized assistance on the Final Exam. They exchanged several emails on the topic.
+16.
+
+Given his concerns about the Final Exam, Dr. Ebden went back to examine the answers of
+
+the Involved Students on Test 1 and Test 2. Dr. Ebden discovered that the Student and M.C. and
+C.U.-O. had several similarities in answers given on Test 2. He prepared a report and a chart
+demonstrating these similarities that were provided to the Panel. This material demonstrated that
+similar mistakes and non-standard notations were made by the Student, M.C. and C.U.-O.
+The Dean’s Designate Meetings
+17.
+
+In June 2021, the Dean’s office at the Faculty of Engineering and Applied Science received
+
+the allegations that several students, including the Student, collaborated on the Final Exam and Test
+2. The late Hans Kunov, Professor Emeritus and Dean’s Designate of academic integrity, and
+Pamela Kennedy, Accreditation and Academic Integrity Coordinator, oversaw these allegations.
+
+6
+The Meetings Regarding the Final Exam
+18.
+
+Between June and September 2021, Professor Kunov, Dr. Ebden and Ms. Kennedy met
+
+with all of the Students, other than M.C., who did not participate in the process. Ms. Kennedy took
+detailed minutes of these meetings, which were included in the evidence before the Panel.
+19.
+
+A.B., T.C., R.H., M.T., X.S., A.V. and J.X. each admitted to collaborating with other
+
+Involved Students during the Final Exam.
+20.
+
+Professor Kunov, Dr. Ebden and Ms. Kennedy met with C.U.-O. on June 23, 2021. C.U.-
+
+O. made the following statements during that meeting:
+a)
+
+He was close friends with the Student, went to high school with the Student, and he
+
+lived down the street from the Student;
+b)
+
+During the semester, the Student’s laptop was not working so he let the Student use
+
+his laptop. During this time, the Student used his laptop to log into the Student’s OneNote
+account; and
+c)
+
+During the Exam, his computer was still logged into the Student’s OneNote account.
+
+He got his answers for the Exam from the Student’s OneNote account. He did not share the
+Student’s notes with any other students.
+
+21.
+
+C.U.-O told Professor Kunov that he had messages with the Student that verified this story.
+
+He never sent Professor Kunov any such emails.
+22.
+
+The meeting with the Student regarding the allegations of collaboration on the Final Exam
+
+took place on July 9, 2021. At the meeting the Student said that:
+
+7
+a) He had previously advised Dr. Ebden that he did not know C.U.-O. because he was
+not closely acquainted with C.U.-O. He went to high school with C.U.-O., and C.U.-O.
+was an acquaintance in the academic sense;
+b) His laptop was broken, so he borrowed C.U.-O.’s laptop, and logged into C.U.-O.’s
+account using OneNote. When Professor Kunov asked the Student why he would use
+OneNote on a computer that he had borrowed from C.U.-O., the Student did not have an
+answer; and
+c) He did not commit an academic offence and had not discussed the allegations with
+anyone.
+23.
+
+Following the meeting, the Student sent Professor Kunov documents he said supported his
+
+version of event. These documents did not support the stories of C.U.-O and the Student.
+The Meetings Regarding Test 2
+24.
+
+On August 26, 2022, Professor Kunov, Ms. Kennedy, and Dr. Ebden met with C.U.-O. to
+
+discuss the allegations that he had collaborated with other students during Test 2. C.U.-O. denied
+that he had committed an academic offence in relation to Test 2.
+25.
+
+On September 22, 2022, Professor Kunov, Ms. Kennedy, and Dr. Ebden again met with
+
+the Student to discuss the allegations that he had collaborated with other students during Test 2.
+During the meeting, the Student denied that he had received unauthorized assistance on Test 2,
+even when Dr. Ebden reviewed the similarities between his answers and those of other Involved
+Students.
+Important Procedural Steps
+
+8
+26.
+
+The charges were served on the Student by email on November 9, 2021. Assistant
+
+Discipline Counsel sent the Student disclosure by email.
+27.
+
+On June 6, 2022, the Student’s counsel notified Assistant Discipline Counsel the Student
+
+had retained him for this matter.
+28.
+
+On August 15, 2022, Assistant Discipline Counsel provided the Student’s counsel an
+
+affidavit of C.U.-O. In that affidavit, C.U.-O admitted that he lied during his Dean’s Designate
+meetings, and that he collaborated with the Student on both the Final Exam and Test 2.
+
+PART 4 - FINDINGS ON LIABILITY
+29.
+
+The Panel reviewed the ASF on Offences, the documents in support thereof and considered
+
+the submissions of Assistant Discipline Counsel and counsel for the Student. The evidence
+strongly supports that the Student provided and received unauthorized assistance on both the Final
+Exam and on Test 2.
+30.
+
+With regard to the final charge, Assistant Discipline Counsel confirmed that it was not
+
+withdrawn despite the findings on the earlier charges because the Student engaged in academic
+dishonesty and cheating in the Dean’s Designate meetings. The affidavit of C.U.-O. cogently sets
+out the deceit that he and the Student engaged in to avoid the Student being charged with or held
+responsible for any offences.
+31.
+
+After deliberations, the Panel determined that the evidence establishes all of the charges.
+
+The Panel accepted the guilty plea entered by the Student.
+
+PART 5 - SUBMISSIONS ON PENALTY
+32.
+
+The Parties submitted an ASF on Penalty and a Joint Submission on Penalty (the “JSP”).
+
+9
+The JSP provides for:
+a)
+
+A final grade of zero in ECE286H1 in Winter 2021;
+
+b)
+
+A suspension from the University for 5 years commencing on the date of the
+
+Tribunal’s order; and
+c)
+
+A notation of the offence on the Student’s academic record and transcript for 6 years
+
+commencing on the date of Tribunal’s order; and
+d)
+
+That this case be reported to the Provost for publication of a notice of the Tribunal’s
+
+decision and the sanction imposed, with the Student’s name withheld.
+33.
+
+According to the ASF on Penalty, the Student has four prior offences:
+a) Plagiarism in an assignment in ESC102 in Fall 2019 (the “first offence”);
+b) Plagiarism in a midterm exam in ECE253 in Fall 2020 (the “second offence”);
+c) Plagiarism in a lab report in PHY293 in Fall 2020 (the “third offence”); and
+d) Plagiarism in the final assignment in PHY293 in Fall 2020 (the “fourth offence”).
+
+34.
+
+On the first offence, the Student admitted that he had plagiarized and said that he would
+
+not do it again. He received a warning about academic integrity and was sanction with a 50% grade
+reduction on the assignment.
+35.
+
+In the Fall 2020, the Student committed three further academic offences in two different
+
+courses. The Student admitted the second offence and received a final grade of zero.
+36.
+
+The Student also admitted that he committed the third offence and received a grade of zero
+
+on the lab report.
+37.
+
+As the Student was not aware of the allegations relating to the second offence when he
+
+committed the third offence, the University decided to combine these two offences to be recorded
+
+10
+as the Student’s second offence.
+38.
+
+The Student committed the fourth offence on December 22, 2020. He met with Professor
+
+Russo, the instructor of PHY293, on January 14, 2021. Professor Russo informed the Student by
+email of January 21, 2021, that he was notifying the academic integrity office about the allegations
+relating to the fourth offence. A scheduled Dean’s Designate meeting was cancelled in February
+in favour of the matter being dealt with at the level of the Office of the Vice-Provost.
+39.
+
+The fourth offence was referred back to the Vice-Provost in April 2021. The Student met
+
+with the Dean’s Designate on May 6, 2021. During that meeting he admitted to committing the
+fourth offence. He was sanctioned with a final grade of zero in PHY293 and was required to
+complete a module called Developing Professional Integrity – Ethics and Plagiarism.
+40.
+
+The Student committed the offences at issue in this matter while the process for the fourth
+
+offence was still outstanding. He denied committing the offences in ECE286 and spun the story
+with C.U.-O. after he had already attended five meetings for the Developing Professional Integrity
+Module.
+Decision on penalty
+41.
+
+Although the Panel is not required to accept the JSP, a joint submission may only be
+
+rejected in circumstances where accepted it would be “contrary to the public interest or bring the
+administration of justice into disrepute.” (see for example, the University of Toronto and M.A.
+(Case No. 837, December 22, 2016 (Appeal)). As set out below, the Panel accepts the JSP but does
+so with reservations.
+42.
+
+The seminal case of the University of Toronto and Mr. C. (Case No. 1976-77-3, November
+
+11
+5, 1976) sets out the broad factors to consider in sentencing at this Tribunal:
+a) the character of the person charged;
+b) the likelihood of a repetition of the offence;
+c)
+
+the nature of the offence committed;
+
+d) any extenuating circumstances surrounding the commission of the offence;
+e) the detriment to the University occasioned by the offence;
+f)
+43.
+
+the need to deter others from committing a similar offence.
+
+In this case, the factors relating to the Student himself – his character and the likelihood of
+
+repetition of the offence – support the most severe sanction, which is a recommendation that he be
+expelled. Not only did the Student commit academic offences on numerous occasions, but he
+committed these offences while another offence was being processed. He lied about these offences
+after engaging in a module on ethics. Given this history, the chance of repetition of the offence is
+very high.
+44.
+
+The nature of the offences, both the cheating on the Final Exam and Test 2, and the
+
+dishonesty in the Dean’s Designate process are very serious. The University depends on students
+abiding by the conduct they set out in each course, especially where exams are taken online or at
+home. Here the Student and many others disregarded the confirmation of academic integrity they
+completed. The University also relies on students honestly engaging in the disciplinary process.
+The detriment to the University and the need to deter others are both significant with the offences
+at issue.
+45.
+
+The fact that the Student cooperated and entered into an ASF on both the offence and
+
+penalty and a JSP is the sole mitigating factor.
+
+12
+46.
+
+The Panel accepts the JSP because it was not contrary to the public interest, nor did it bring
+
+the administration of justice into disrepute. It did so with some unease, however, as the history of
+offences of the Student, the offences themselves and the misrepresentations at Dean’s Designates
+meetings, all pointed to the most serious sanction available. Like the Panel noted in the University
+of Toronto and O.E. (Case No. 923, August 30, 2017), in the absence of the JSP, the Mr. C. factors
+would have led to a greater penalty than the parties themselves agreed. The Panel’s decision absent
+a JSP would have been to recommend expulsion. This is of no moment as the standard is not one
+of reasonableness, and the Panel must not – and will not – substitute its own judgment in place of
+the JSP.
+
+PART 6 - THE ORDER
+47.
+
+This matter was heard electronically on August 23, 2023, and after hearing the evidence
+
+called and submissions from Assistant Discipline Counsel, the University Tribunal orders that:
+1.
+
+The Student is guilty of the following academic offences:
+a.
+
+two counts of knowingly obtaining unauthorized assistance, contrary to
+
+section B.I.1(b) of the Code of Behaviour on Academic Matters;
+b.
+
+two counts of knowingly aiding and assisting other students to commit an
+
+academic offence, contrary to sections B.I.1(b) and B.II.1(a) of the Code; and
+c.
+
+two counts of knowingly engaging in a form of cheating, academic
+
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the
+Code in order to obtain academic credit or other academic advantage of any kind,
+contrary to section B.I.3(b) of the Code.
+
+13
+2.
+
+The following sanctions shall be imposed on the Student:
+a.
+
+A final grade of zero in ECE286H1 in Winter 2021;
+
+b.
+
+A suspension from the University for 5 years commencing on the date of
+
+the Tribunal’s order; and
+c.
+
+A notation of the offence on the Student’s academic record and transcript
+
+for 6 years commencing on the date of Tribunal’s order.
+3.
+
+This case shall be reported to the Provost for publication of a notice of the decision
+
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto this 22nd day of November, 2023.
+
+Original signed by:
+__________________________________________
+Dena Varah, Chair
+On behalf of the Panel
+
+APPENDIX A
+
+007
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on November 9, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+The University of Toronto
+- and M
+
+E
+
+-E
+
+AGREED STATEMENT OF FACTS
+1.
+
+For the purposes of this hearing under the Code of Behaviour on Academic Matters
+
+(“Code”), the Provost of the University of Toronto and M
+
+E
+
+-E
+
+(“M.E-E.”)
+
+have prepared this Agreed Statement of Facts (“ASF”). The Provost and M.E-E. agree
+that:
+(a)
+
+each document attached to the ASF may be admitted into evidence before
+the Tribunal for all purposes, including for the truth of the document’s
+contents, without further need to prove the document; and
+
+(b)
+
+if a document indicates that it was sent or received by someone, that is
+prima facie proof that the document was sent and received as indicated.
+
+2.
+
+This hearing arises out of charges of academic misconduct filed by the Provost on
+
+November 9, 2021. A copy of the charges is attached to the ASF at Tab A.
+
+008
+
+3.
+
+M.E-E. acknowledges that he has received a copy of the charges, waives the
+
+reading of the charges, and pleads guilty to all charges.
+4.
+
+M.E-E. acknowledges that he has reasonable notice of this hearing. A copy of the
+
+Notice of Electronic Hearing for this matter is attached to the ASF at Tab B.
+5.
+
+A copy of M.E-E.’s academic record is attached to the ASF at Tab C.
+
+A.
+
+The Course
+
+6.
+
+In Winter 2021, Mark Ebden taught ECE286H1: Probability and Statistics (the
+
+“Course”). Students in the Course were required to write an assignment (worth 15%), two
+mid-terms - Test 1 (worth 20%) and Test 2 (worth 30%), and a final exam worth 35% (the
+“Exam”). A copy of the syllabus is attached to the ASF at Tab D.
+7.
+
+The syllabus contained a section on academic integrity that stated students were
+
+responsible for knowing the content of the University of Toronto's Code of Behaviour on
+Academic Matters, and to contact Dr. Ebden if they had any questions.
+8.
+
+In January 2021, Dr. Ebden posted instructions about the term tests and the Exam
+
+to Quercus. The instructions stated that printed material, the internet, calculators, and
+computing platforms were allowed provided that there was no interaction with other
+people directly or indirectly. A copy of the term test and the Exam instructions is attached
+to the ASF at Tab E.
+9.
+
+M.E-E., Vatsal Bagri (“V.B.”), Mengjue Chen (M.C.), Tony Chung (“T.C.”), Rayan
+
+Hossain (“R.H.”), Xiaodi Shi (“X.S.”), Morgan Tran (“M.T.”), Chetachi Ugwu-Ojobe (C.U-
+
+009
+
+O.), Abhay Verma (“A.V.”), and Justin Xu (“J.X.”) were all students in the Course (the
+“Students”).
+10.
+
+Test 2 was administered online on March 18, 2021, from 9:00 a.m. to 11:00 a.m.
+
+Test 2 was open book, but the instructions reminded students that there was to be no
+interaction with other people either directly or indirectly. Question 1 on Test 2 asked
+students to affirm adherence to the Code of Behaviour on Academic Matters, and that
+between 9:00 a.m. and 11:00 p.m. that day, they would not share technical content of
+Test 2 with others. A copy of Test 2 is attached to the ASF at Tab F.
+11.
+
+On March 18, 2021, M.E-E., M.C., and C.U-O. each submitted their Test 2 with the
+
+required academic integrity confirmation. A copy of these students’ Test 2 is attached to
+the ASF at Tab G.
+12.
+
+The Exam was administered online on April 27, 2021, from 7:00 p.m. to 9:30 p.m.
+
+EST. The Exam was open book, but the instructions again stated that there was to be no
+interaction with other people either directly or indirectly.
+13.
+
+Dr. Ebden distributed five different versions of the Exam to students. Version A
+
+was distributed to a student who required accommodations, and Version B was
+distributed to 4 students who wrote a deferred exam. Version C was the default exam,
+and versions D and E contained subtle differences to produce distinctive answers. For
+version D of the exam, questions 5 and 6 were reversed (e.g., question 5 on version D
+was question 6 on version E and vice versa), as were questions 9 and 10. A copy of
+versions C, D, and E of the Exam is attached to the ASF at Tab H.
+
+010
+
+14.
+
+The Exams were distributed as follows: Version C was distributed to students with
+
+surnames A to K; Version D was distributed to students with surnames M to Z; and
+Version E was distributed to students with surnames L.
+15.
+
+The first question on each version of the Exam asked students to affirm adherence
+
+to the Code of Behaviour on Academic Matters, and that between 7:00 p.m. on the night
+of the Exam and 11:30 a.m. the next morning, they would not share technical content of
+the Exam with others.
+16.
+
+On April 27, 2021, the Students submitted their Exams with the required academic
+
+integrity confirmation. Copies of the Students’ Exams are attached to the ASF at Tab I.
+B.
+
+The investigation
+1.
+
+17.
+
+The Exam investigation
+
+As Dr. Ebden reviewed the Exams, he found many unusual similarities between
+
+the Students’ answers. Dr. Ebden prepared a report that set out the similarities in detail.
+A copy of this report is attached to the ASF at Tab J.
+18.
+
+Dr. Ebden identified several similarities between M.E-E.’s answers and other
+
+students’ answers on the Exam. The similarities included idiosyncratic features, such as
+making the same mistakes as other students, including information from a version of the
+Exam that he did not receive, and arriving at the same answer as other students without
+showing enough work. A chart that compares a sample of students who gave similar
+answers on the Exam is attached to the ASF at Tab K.
+
+011
+
+19.
+
+In May 2021, Dr. Ebden and M.E-E. exchanged several emails about Dr. Ebden’s
+
+concerns that M.E-E. obtained unauthorized assistance on the Exam.
+2.
+
+20.
+
+The Test 2 investigation
+
+After discovering that several students had unusually similar answers on the Exam,
+
+Dr. Ebden examined several students’ answers to other tests in the course. Dr. Ebden
+identified unusual similarities in the answers given by M.E-E., M.C., and C.U-O. in relation
+to Test 2. Dr. Ebden prepared a report that set out the similarities in detail. A copy of this
+report is attached to the ASF at Tab L.
+21.
+
+Dr. Ebden identified several similarities between M.E-E.’s, M.C.’s, and C.U-O.’s
+
+answers on Test 2. The similarities included idiosyncratic features, such as making the
+same mistakes as other students, arriving at the same answer as other students without
+showing enough work, and using the same non-standard notation as other students. A
+chart that compares M.E-E.’s., M.C.’s, and C.U-O.’s answers on Test 2 is attached to the
+ASF at Tab M.
+22.
+
+In July 2021, Dr. Ebden and M.E-E. exchanged several emails about Dr. Ebden’s
+
+concerns that M.E-E. obtained unauthorized assistance on Test 2.
+C.
+
+The Dean’s Office
+
+23.
+
+In June 2021, the Dean’s office at the Faculty of Engineering and Applied Science
+
+received allegations that several students collaborated on the Exam and Test 2. The late
+Hans Kunov, Professor Emeritus and Dean’s Designate of academic integrity, and
+Pamela Kennedy, Accreditation and Academic Integrity Coordinator, oversaw these
+allegations.
+
+012
+
+1.
+
+24.
+
+Dean’s Designate meetings about the Exam
+
+From June to September 2021, Professor Kunov, Dr. Ebden, and Ms. Kennedy
+
+met with each of the Students except M.C. Ms. Kennedy advised the Students at the start
+of each meeting that minutes would be taken and could be used as evidence if the matter
+proceeded. Ms. Kennedy took detailed notes of each meeting and has confirmed that
+they are accurate. Copies of Ms. Kennedy’s notes and other admissions that students
+made via email are attached to the ASF at Tab N.
+25.
+
+A.B., T.C., R.H., M.T. X.S., A.V., and J.X. all admitted to collaborating with other
+
+Students during the Exam. Several of these students admitted to using Google Docs to
+collaborate with each other during the Exam.
+26.
+
+On June 23, 2021, Professor Kunov, Ms. Kennedy, and Dr. Ebden met with C.U-
+
+O. to discuss the allegations that he had collaborated with other students during the
+Exam. During the meeting, C.U-O. stated that:
+(a)
+
+He was close friends with M.E-E., he went to high school with M.E-E., and
+he lived down the street from M.E-E.;
+
+(b)
+
+During the semester, M.E-E.’s laptop was not working so he let M.E-E.use
+his laptop. During this time, M.E-E. used his laptop to log into M.E-E.’s
+OneNote account; and
+
+(c)
+
+During the Exam, his computer was still logged into M.E-E.’s OneNote
+account. He got his answers for the Exam from M.E-E.’s OneNote account.
+He did not share M.E-E.’s notes with other students. He only accessed M.E-
+
+013
+
+E.’s OneNote account for the Exam. After he met with Dr. Ebden to discuss
+the allegations, he told M.E-E. that he had used M.E-E.’s OneNote account
+during the Exam. He could provide messages he exchanged with M.E-E. to
+verify his story.
+27.
+
+C.U-O. did not send Professor Kunov any messages that verified his story.
+
+28.
+
+On July 9, 2021, Professor Kunov, Ms. Kennedy, and Dr. Ebden met with M.E-E.
+
+to discuss the allegations that he had collaborated with other students during the Exam.
+During the meeting:
+(a)
+
+M.E-E. stated that his relationship with C.U-O. was private, and that he had
+previously told Dr. Ebden that he did not know C.U-O. because he was not
+closely acquainted with C.U-O. M.E-E. also stated that he went to high
+school with C.U-O., and that C.U-O. was an acquaintance in the academic
+sense.
+
+(b)
+
+M.E-E. stated that his laptop was broken, so he borrowed C.U-O.’s laptop,
+and logged into C.U-O.’s account using OneNote. When Professor Kunov
+asked M.E-E. why he would use OneNote on a computer that he had
+borrowed from C.U-O., M.E-E. said that he did not know.
+
+(c)
+
+M.E-E. denied committing an academic offence, and he denied that he had
+discussed the allegations with anyone.
+
+29.
+
+After the meeting, M.E-E. sent Professor Kunov several documents that M.E-E.
+
+claimed supported his version of events, including a service request for his laptop and
+
+014
+
+screenshots of his OneNote account. Professor Kunov reviewed these documents and
+found that they did not support M.E-E.’s version of events. A copy of these documents is
+attached to the ASF at Tab O.
+30.
+
+On July 23, 2021, at M.E-E.’s request, Professor Kunov met with M.E-E., Ms.
+
+Kennedy, and Dr. Ebden to discuss the Exam allegations again. During the meeting, Dr.
+Ebden explained his concerns about M.E-E.’s answers, and M.E-E. denied that he
+committed an offence.
+2.
+
+31.
+
+Dean’s meetings about Test 2
+
+On August 26, 2022, Professor Kunov, Ms. Kennedy, and Dr. Ebden met with C.U-
+
+O. to discuss the allegations that he had collaborated with other students during Test 2.
+C.U-O. stated that he would not admit to an academic offence in relation to Test 2 if the
+evidence was not clear. C.U-O. then denied that he had committed an academic offence
+in relation to Test 2.
+32.
+
+On September 22, 2022, Professor Kunov, Ms. Kennedy, and Dr. Ebden met with
+
+M.E-E. to discuss the allegations that he had collaborated with other students during Test
+2. During the meeting, M.E-E. denied that he had received unauthorized assistance on
+Test 2. Dr. Ebden reviewed several questions where M.E-E.’s answers were similar to
+the answers given by other students in the Course, and M.E-E. again denied that he had
+committed an offence.
+33.
+
+M.C. did not attend a Dean’s Designate meeting about the Exam or Test 2, and
+
+the allegations were forwarded to the Provost.
+
+015
+
+D.
+
+Procedural history
+
+34.
+
+On November 9, 2021, the Office of the Vice-Provost, Faculty and Academic Life
+
+served the charges in this matter on M.E-E. by email.
+35.
+
+On April 14, 2022, Assistant Discipline Counsel sent M.E-E. disclosure by email.
+
+36.
+
+On May 24, 2022, Assistant Discipline Counsel requested that M.E-E. provide his
+
+availability for a hearing. M.E-E. did not respond.
+37.
+
+On June 6, 2022, counsel for M.E-E. notified Assistant Discipline Counsel that
+
+M.E-E. had retained him for this matter.
+38.
+
+On August 15, 2022, Assistant Discipline Counsel sent M.E-E. an affidavit of C.U-
+
+O. In his affidavit, C.U-O. gives evidence that the statements he made to Professor
+Kunov, Ms. Kennedy, and Dr. Ebden during the Dean’s Designate meetings were false
+and that he collaborated with M.E-E. on the Exam and Test 2. A copy of C.U-O.’s affidavit
+(without exhibits) is attached to this ASF at Tab P.
+39.
+
+M.E-E. accepts the evidence of C.U-O. as true and waives his right under the Rules
+
+of Practice and Procedure to cross-examine C.U-O.
+40.
+
+At M.E-E.’s request, the Provost gave M.E-E. additional time to review disclosure.
+
+The parties then scheduled a hearing for August 2023 on consent.
+E.
+
+Admissions and acknowledgements
+
+41.
+
+M.E-E. admits that the statements he made during the Dean’s Designate meetings
+
+on July 9, 2021, July 23, 2021, September 22, 2021, were false. M.E-E. admits that he
+
+016
+
+and C.U-O. came up with a false version of events in which C.U-O. took the blame for
+M.E-E. in relation to the allegations in this proceeding.
+42.
+
+M.E-E. admits that he obtained assistance from and aided several other students
+
+in the Course, including C.U-O. and M.C., in connection with the Exam and Test 2.
+43.
+
+M.E-E. admits that he knowingly used or possessed an unauthorized aid or aids
+
+or obtained unauthorized assistance in connection with the Exam and Test 2, contrary to
+section B.I.1(b) of the Code.
+44.
+
+M.E-E. admits that he knowingly aided and assisted other students in the Course
+
+to use or possess an unauthorized aid or aids or obtain unauthorized assistance in the
+Exam and Test 2, contrary to sections B.I.1.(b) and B.II.1(a) of the Code.
+45.
+
+M.E-E. admits that he knowingly engaged in a form of cheating, academic
+
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind, in connection
+with the Exam and Test 2, contrary to section B.I.3(b) of the Code.
+46.
+
+M.E-E. acknowledges that he is signing this ASF freely and voluntarily, knowing of
+
+the potential consequences he faces, and does so with the advice of counsel.
+
+017
+
+14 2023
+Date: August __,
+
+M
+
+E
+
+-E
+
+Date: August 15
+__, 2023
+William Webb
+Assistant Discipline Counsel
+University of Toronto
+
+

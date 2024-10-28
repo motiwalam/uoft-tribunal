@@ -1,0 +1,836 @@
+Case No.: 1615
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on March 14, 2024,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and Z
+
+L
+
+REASONS FOR DECISION
+Hearing Date: July 10, 2024, via Zoom
+Members of the Panel:
+F. Paul Morrison, Chair
+Professor Dionne Aleman, Faculty Panel Member
+Laiba Butt, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Sonia Patel, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Karen Bellinger, Associate Director, Office of Appeals, Discipline & Faculty Grievances
+Not In Attendance:
+Z
+L
+
+-21.
+
+On July 10, 2024, this Panel of the University Tribunal held a hearing to consider
+the Charges brought by the University of Toronto (the “University”) against
+Z
+
+L
+
+(the “Student”) under the Code of Behaviour on Academic Matters,
+
+2019 (the “Code”).
+A.
+
+PROCEEDING IN ABSENCE OF THE STUDENT
+
+2.
+
+Counsel for the University commenced the hearing by seeking an Order to
+proceed in the absence of the Student. In support of such Order the Book of
+Documents (Re: Notice/Service) was tendered and marked as Exhibit 2 at the
+hearing.
+
+3.
+
+Exhibit 2 contained the affidavit of Natalia Botelho, a legal assistant at the law
+firm Paliare Roland Rosenberg Rothstein LLP (“Paliare Roland”) and the affidavit
+of Andrew Wagg, Manager, Incident Response at Information Security,
+Information Technology Services at the University.
+
+4.
+
+The affidavit evidence of Ms. Botelho and Mr. Wagg substantiated that the
+Student had received proper and sufficient notice of the hearing, including notice
+that the hearing would proceed on July 10, 2024.
+
+5.
+
+In considering counsel’s request for the Order, the Panel was satisfied that notice
+had been properly given to the Student in accordance with Rule 13(c) of the
+Rules of Practice and Procedure of the Tribunal (the “Rules”) and that,
+accordingly, the Panel was entitled to proceed in the absence of the Student in
+accordance with Rule 21 of the Rules. The Panel was also satisfied that such
+process was authorized by section 7(2) of the Statutory Powers Procedure Act of
+Ontario.
+
+6.
+
+Accordingly, the Panel granted the Order that the hearing may proceed in the
+absence of the Student.
+
+B.
+
+THE CHARGES AND PARTICULARS
+
+7.
+
+The Charges were as follows:
+
+-3A. Charges relating to MGEB06H3
+1.
+
+On or about December 15, 2022, you knowingly used or possessed
+
+an unauthorized aid or aids and/or obtained unauthorized assistance in
+connection
+
+with
+
+Macroeconomic
+
+the final
+Theory
+
+exam
+
+and
+
+you
+
+Policy:
+
+submitted in
+A
+
+MGEB06H3:
+
+Mathematical
+
+Approach
+
+(“Macroeconomic Theory”), contrary to section B.I.1(b) of the Code.
+2.
+
+In the alternative, on or about December 15, 2022, you knowingly
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code in order to
+obtain academic credit or other academic advantage of any kind in
+connection with the final exam you submitted in Macroeconomic Theory,
+contrary to section B.I.3(b) of the Code.
+The particulars of charges 1 to 2 are as follows:
+(a) At all material times, you were a student enrolled at the
+University of Toronto Scarborough.
+(b) In Fall 2022, you enrolled in Macroeconomic Theory.
+(c) On or about December 15, 2022, you submitted the final
+exam in Macroeconomic Theory, which was worth 50% of
+your final grade in the course.
+(d) The final exam was administered in person. Students were
+required to complete the final exam independently. Students
+were informed that they were not allowed to use outside
+resources or assistance or possess any aids other than a
+non-programmable calculator.
+(e) You were in possession of a cell phone during the exam. You
+used this cell phone to take photographs of the exam
+questions and send them to a third party. The third party
+provided answers to you in exchange for payment.
+
+-4(f)
+
+You knew that you were not permitted to possess or use a
+cell phone during the exam. You knew that you were required
+to complete the final exam independently. You knowingly
+obtained unauthorized assistance in the final exam from a
+third party.
+
+(g) You knowingly submitted the final exam in Macroeconomic
+Theory with the intention that the University of Toronto rely on
+it as containing your own ideas or work in considering the
+appropriate academic credit to be assigned to your work.
+(h) You engaged in this conduct in order to obtain academic
+credit and an academic advantage you did not earn.
+B. Charges relating to MGEB02H3
+3.
+
+On or about July 21, 2023, you knowingly had someone personate
+
+you during a term test in MGEB02H3: Price Theory: A Mathematical
+Approach (“Price Theory”), contrary to section B.I.1(c) of the Code.
+4.
+
+In the alternative, on or about July 21, 2023, you knowingly engaged
+
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with a test you submitted in Price Theory, contrary to section B.I.3(b) of
+the Code.
+The particulars of charges 3 to 4 are as follows:
+(a) At all material times, you were a student enrolled at the
+University of Toronto Scarborough.
+(b) In Summer 2023, you enrolled in Price Theory.
+(c) A term test for Price Theory took place on or about July 21,
+2023. The test was worth 25% of the final grade in the course.
+(d) The test took place in person.
+
+-5(e) You knew that you were required to complete the term test
+yourself and that you were not permitted to obtain the
+assistance of anyone else.
+(f)
+
+You asked a third party to attend the test and write it on your
+behalf in exchange for payment. This person did so.
+
+(g) You knowingly had this person write the test in your name.
+You provided your TCard to facilitate this. You did so in order
+to obtain academic credit and an academic advantage you did
+not earn.
+
+8.
+
+In tendering the Charges, counsel for the University advised that Charge 2 and
+Charge 4 were relied upon in the alternative to Charge 1 and Charge 3. She
+further undertook that if findings of guilt were entered with respect to Charges 1
+and 3, the University would withdraw Charges 2 and 4.
+
+C.
+
+EVIDENCE
+
+9.
+
+The Charges were supported by the affidavit evidence of four witnesses tendered
+by counsel for the University. The affidavits and exhibits thereto were contained
+in the Book of Documents (Re: Finding of Offence), which was marked as Exhibit
+3 at the hearing.
+
+(i)
+
+Affidavit of Karishma Punjabi
+
+10.
+
+Pertinent extracts of the affidavit evidence of Karishma Punjabi are as follows:
+3.
+
+On December 15, 2022, I was one of the invigilators for the final
+
+exam for MGEB06H3 – Macroeconomic Theory and Policy: A
+Mathematical Approach.
+4.
+
+The exam took place from 2-4 p.m. at the Instructional Centre at
+
+UTSC in room IC130. IC130 is a lecture theatre style room, with rows of
+long tables rather than individual desks.
+
+-65.
+
+At the start of the exam, the Chief Presiding Officer made the
+
+standard announcement for all exams in which they reminded students
+that electronic devices, such as cell phones, were prohibited and that
+possessing or using one would be considered an academic offence.
+Students were instructed to turn off their phones and place them in a bag
+underneath their desk.
+6.
+
+Once the exam started, I began doing rounds to ensure that all
+
+students had exams and no one had any questions. I was also monitoring
+the room to ensure that students were not looking at each other’s exams.
+7.
+
+Z
+
+L
+
+(the “Student”) was seated in the far back right corner
+
+of the room. I noticed that the Student was looking around the room a lot
+and that every time I walked past them, they stopped writing.
+8.
+
+Eventually, I took up a standing position near the Student and stayed
+
+there for 15-17 minutes. During this time, the Student wrote nothing on
+their exam paper.
+9.
+
+I found this very unusual. After the 30-minute mark of the exam,
+
+students who were finished writing were allowed to leave the exam. The
+Student had opted to stay, but was not writing anything.
+10. I spoke to another invigilator about my concerns, who suggested that
+I ask the Student to move to another seat.
+11. I asked the Student to move up to the front row. They complied, but
+moved very slowly when standing up. As they were standing, I noticed a
+phone under the Student’s leg, on their chair.
+12. The phone was turned on and displayed a photo of a white page with
+writing on it. When the Student saw me looking at the phone, they
+immediately locked it and said that they did not know how this had
+happened.
+
+-713. I reminded the Student that we had announced that they were not
+allowed to have phones. The Student said it was a mistake and I pointed
+out that the Student had been hiding the phone.
+14. As the course instructor had left to go to the accessibility room, I
+called them and waited for them to return before speaking to the Student
+further. Upon the instructor’s return, the Student told us that their girlfriend
+needed to know where they were at all times and to be able to speak to
+them, which is why they had their phone with them. They opened their
+phone, which was still on the photo of notes. The instructor took photos of
+the Student’s phone.
+
+(ii)
+
+Affidavit of Jack Parkinson
+
+11.
+
+Pertinent extracts of the affidavit evidence of Professor Jack Parkinson are as
+follows:
+A. Macroeconomic Theory
+2.
+
+In Fall 2022, I taught MGEB06H3 – Macroeconomic Theory and
+
+Policy: A Mathematical Approach (“Macroeconomic Theory”).
+3.
+
+Z
+
+L
+
+(the “Student”) was a student in the Course.
+...
+
+B. Macroeconomic Theory Exam
+5.
+
+Students in Macroeconomic Theory were required to write a final
+
+exam worth 50% of their final grade.
+6.
+
+The exam took place on Thursday, December 15, 2022, from 2-4
+
+p.m., in person.
+7. Before the start of the exam, all students were required to sign an
+Examination Candidate Form. The form included a reminder that the
+Code of Behaviour on Academic Matters (the “Code”) applied to all
+students and prohibited academic dishonesty, including cheating,
+plagiarism, and the use of unauthorized aids. Students were warned that
+
+-8violating the Code may result in penalties up to and including suspension
+or expulsion from the University. I have attached a copy of the Student’s
+signed Examination Candidate Form to my affidavit as Exhibit B.
+8.
+
+I was present at the exam, but alternated my time between the main
+
+exam room (where the Student was writing the exam) and the
+accessibility room.
+9.
+
+At around 2:45 p.m., Karishma Punjabi, one of the exam invigilators
+
+in the main exam room, notified me that a student had been found with a
+phone, which was turned on.
+10. I returned to the main exam room from the accessibility room and
+spoke to Ms. Punjabi, who informed me that it was the Student who had
+been found with a phone.
+11. I spoke to the Student and looked at their phone, which was unlocked
+and powered on. The Student’s phone was open on a WeChat
+conversation in which the Student had sent photographs of several of the
+Macroeconomic Theory final exam questions. The other person in the
+WeChat conversation had sent back photographs of what appeared to be
+handwritten responses to the exam questions, one typed response to a
+question, and several other text messages in what I believe to be
+Mandarin. I have attached a copy of the photographs that I took of the
+WeChat conversation to my affidavit as Exhibit C.
+12. After the exam, I showed the photos of the Student’s WeChat
+conversation to the Chair of my department, Professor Iris Au. Professor
+Au speaks Mandarin and translated the text messages for me. I have
+attached a copy of Professor Au’s translations to my affidavit as Exhibit D.
+13. The photos of the WeChat conversation on the Student’s phone were
+later translated by All Languages, a professional translation company, to
+ensure accuracy. I have attached a copy of the All Languages’ translation
+to my affidavit as Exhibit E.
+14. The All Languages translations show the following:
+
+-9(a) On Sunday, the Student was invited to join a group chat with
+“Meng” and “mgeb06” (i.e., the Macroeconomic Theory course
+code);
+(b) Meng stated that “the time” was December 16 between 3-5 a.m.,
+which, if referring to the time in China, would be equivalent to
+December 15 between 2-5 p.m. in Toronto (i.e., the date and
+time for the Macroeconomic Theory exam);
+(c) Meng sent several PDF documents that appeared from the file
+names
+
+to
+
+include
+
+sample
+
+questions
+
+and
+
+solutions
+
+for
+
+Macroeconomic Theory;
+(d) Meng stated: “The balance of 1,300” and that “supplementary
+materials” would be posted in this group;
+(e) On Monday, the Student sent a pdf titled “MGEB0506 Class 14”
+with a note that these were “the review questions” and that it was
+“best to use the formulae [taught] by parkinson”. The Student
+clarified that by “Parkinson” he meant me;
+(f)
+
+Meng responded: “No problem. We are all [ghost] writers for the
+international students. We all know how to write after reading
+your materials” (the addition of [ghost] was provided by All
+Languages);
+
+(g) At 1:52 p.m. on an unknown date, the Student messaged: “I am
+preparing to enter the exam centre. I am taking [photos of the
+questions] later when I have the opportunity”;
+(h) At 2:05 p.m., Meng replied: “Seven minutes passed, I am
+worrying if you can finish writing on time” followed by an emoji of
+a person covering their eyes while laughing;
+(i)
+
+The Student then sent a photograph of one of the pages of the
+exam questions;
+
+- 10 (j)
+
+Meng initially instructed the Student to retake the photo because
+it was illegible. However, at 2:16 p.m., Meng sent a photo of a
+handwritten answer to question 1a. At 2:22 p.m., Meng sent a
+typed answer to question 1b. At 2:41 p.m. and 2:53 p.m., Meng
+sent two more photos of what appear to be handwritten exam
+answers and a photo of another illegible text chain; and
+
+(k) Meng asked the Student to retake the photo of question 3
+several times because it was illegible, to which the Student
+finally responded: “Um, please try your best to read Question 3
+more carefully”, followed by a laughing crying emoji.
+15. Based on the translated text messages, I concluded that the Student
+appeared to have hired someone to provide them exam answers. The
+reason that I believe this person was “hired” is because of the text
+message from this individual in which they refer to an outstanding
+“balance” of “1,300”.
+16. I met with the Student later on December 15, 2022 to discuss the
+events of the exam and the phone that they were found with.
+
+(iii)
+
+Affidavit of Adrian Chan
+
+12.
+
+Pertinent extracts of the evidence of Adrian Chan are as follows:
+2.
+
+In my time at the Office of the Registrar and as a Teaching Assistant
+
+(“TA”) for various courses, I have invigilated over 100 exams. This
+includes, among other responsibilities, setting up and collecting exam
+packages, monitoring exams as students write, and checking students’
+TCards and obtaining signatures for attendance purposes.
+A. Price Theory
+3.
+
+In Summer 2023, I was a TA for MGEB02 – Price Theory: A
+
+Mathematical Approach (“Price Theory”).
+...
+
+- 11 5.
+
+Students in Price Theory were required to write a term test worth
+
+25% of the grade in the course.
+6.
+
+The test took place on July 21, 2023, from 7-9 p.m. I attended the
+
+test as a TA to invigilate the test.
+7.
+
+At the beginning of the test, the invigilating team read out an
+
+announcement to remind students that this was a closed book test and
+electronic devices were not permitted. Students were instructed to turn off
+their cell phones and place them in a bag under their desk.
+8.
+
+Around 10 minutes into the exam, at approximately 7:10 p.m.,
+
+another TA told me that they had seen something shiny under the seat of
+Z
+
+L
+
+(the “Student”). I told her to continue keeping an eye on the
+
+Student and said that I would do the same. During this time, I noticed that
+the Student seemed to be looking under their desk.
+9.
+
+Around 7:23 p.m., I began doing attendance by walking through each
+
+row, checking TCards, and recording students’ names. I looked at the
+Student’s TCard and recorded his name.
+10. I then asked the Student to move to the front of the room. While they
+were packing up their things, I saw a cell phone on their chair. The phone
+was turned on and open to a notes application.
+11. I asked the Student to hand me their phone. He started to give me
+the phone, and I grabbed on to it, but he did not let go. While still holding
+the phone, he asked me what the consequences would be for this. I said
+that I did not know, that it was not up to me, and that my job was just to
+report the incident. I took a photo of the Student’s phone with my other
+hand, while he was still holding it.
+12. The Student suddenly grabbed his exam paper and the rest of his
+belongings and ran out of the lecture hall. As I was still holding on to the
+phone, I was brought along with him until we reached the connecting
+lobby outside of the exam room.
+
+- 12 13. In this lobby area, the Student used his elbow to hit me in the chest.
+This caused me to release my hold on the phone and the Student
+continued running out of the building. I called after the Student that we
+had his name and he responded that he knew.
+14. I waited a few minutes to catch my breath, as I was having trouble
+breathing properly, before going back outside and taking photos of the
+Student running away. I have attached a copy of the exam incident report
+that I filed, along with these photos, to my affidavit as Exhibit B.
+
+(iv)
+
+Affidavit of Jack Pienczykowski
+
+13.
+
+Pertinent extracts from the Affidavit of Jack Pienczykowski, a Special Police
+Constable with the University of Toronto Campus Police, are as follows:
+A. Report of Incident in MGEB02 Exam
+2.
+
+Late on July 21, 2023, a Teaching Assistant named Adrian Chan
+
+reported that during the exam for MGEB02 that had taken place earlier
+that evening, a student who identified themselves as Z
+
+L
+
+had
+
+been caught with a cell phone. Mr. Chan reported that this individual had
+hit Mr. Chan very hard in the chest before running out of the exam room.
+3.
+
+Mr. Chan described Mr. L
+
+as an Asian male in his 20s,
+
+approximately 6 feet tall and 185 pounds, with a medium build, long black
+hair in a ponytail, reading glasses, a green olive jacket, and black pants
+and shoes. I have attached a copy of my report following my conversation
+with Mr. Chan, dated July 22, 2023, to this affidavit as Exhibit A.
+4.
+
+On July 22, 2023, I reviewed the security footage outside of IC130,
+
+the room where the exam had taken place. There are no cameras inside
+IC130, but the footage from outside the room showed:
+(a) Mr. Chan trying to stop the other individual outside of IC130;
+(b) The individual running from the Military Trail sidewalk to the
+walkway
+
+between
+
+the
+
+Instructional
+
+Centre
+
+(IC)
+
+and
+
+- 13 Environmental Science and Chemistry Building (EV) and toward
+the IC loading dock; and
+(c) The individual walking from the loading dock area and entering
+Lot J of the Centennial College parking lot.
+5.
+
+I could not get a clear picture of the individual from the security
+
+footage, but he appeared to match the description provided by Mr. Chan.
+I have attached a copy of the screenshots that I captured of the security
+footage to my affidavit as Exhibit B.
+B. Interview with the Student
+6.
+
+On July 22, 2023, at 9:55 p.m., Z
+
+L
+
+(the “Student”) attended
+
+the Campus Security Office upon my request to him to do so. I provided
+the Student with a caution before interviewing him in which I advised him
+that he did not have to say anything and that anything he did say may be
+used as evidence.
+7.
+
+At around 10:00 p.m., the Student stated that he had attended the
+
+exam in IC130the day before at 7 p.m. He said that he had a phone with
+him during the exam and that a TA saw it. He said he was “too scared”
+and ran out of the classroom in a panic.
+8.
+
+I asked the Student what had happened to the exam papers and he
+
+responded that he had taken them away, along with everything else. The
+Student said the TA had tried to take his TCard and test from him.
+9.
+
+I asked the Student what he had been wearing. He responded that
+
+he was wearing black jeans and a black t-shirt, but that he could not
+remember the rest as he had many shoes.
+10. I asked the Student where he had placed the exam papers and he
+said he did not remember much because he was too scared. He said he
+got home and destroyed the papers.
+
+- 14 11. I asked the Student what car he was driving. He responded that it
+was a red, four-door sedan BMW, 2019 530 series. He said he did not
+remember the license plate number and that the car belonged to his
+friend.
+12. I asked the Student whether this friend attended school at the
+University and to describe him. The Student said he did not go to the
+same school and that he was 170 centimetres, medium build, and with
+hair longer than the Student’s. The Student added that he had just gotten
+a haircut.
+13. I asked whether the Student’s friend had a ponytail and the Student
+responded that he did not.
+14. When asked for his friend’s name, the Student responded that it was
+“Wang, Hao” and that he did not know his phone number. I summarized
+that the Student had borrowed his friend’s BMW but did not know his
+phone number. The Student said his friend had just changed his phone
+number.
+15. I asked if the Student had anything else he wished to say and he said
+no.
+16. At 10:44 p.m., the Student admitted that it was not him writing the
+exam. He said that he had found someone online, through the TikTok
+app, who said he could help the Student with the test. He did not know
+this person’s name. They came to his apartment and asked for his TCard
+so that he could write the exam on the Student’s behalf.
+17. The Student further admitted that at around 11 p.m. the day before,
+this individual had pulled up to the Student’s apartment building in a red
+Porsche SUV with tinted windows. The Student described that this
+individual wore glasses and had a ponytail. This description fits the
+individual caught on the security footage.
+18. The Student said that this individual told him that he had “failed” and
+returned the Student’s TCard to him. He told the Student to drop the
+
+- 15 course to avoid trouble and to delete all of their messages. He also said
+that he had destroyed the exam papers and that the Student did not have
+to pay him.
+19. The Student stated that he was barely passing and having difficulty
+boosting his GPA. He said that this was the first time that he had had
+someone write a test for him, but that he had cheated once before with
+his cell phone.
+
+D.
+
+DECISION
+
+14.
+
+The Panel received and carefully considered the submissions of counsel for the
+University. In particular, counsel for the University characterized the evidence in
+support of the Charges as “clear and convincing”. The Panel agreed with that
+characterization and found that it applied to the evidence of the four witnesses
+summarized above.
+
+15.
+
+With respect to Charges 1 and 2, the evidence clearly established that the
+Student surreptitiously used his cell phone to receive messages as to the correct
+answers on the exam from an outside third-party collaborator.
+
+16.
+
+With respect to Charges 3 and 4, the evidence clearly established that the
+Student arranged for an outsider to impersonate him and to attend and write the
+exam while impersonating the Student. Indeed, the Student admitted this to be
+so.
+
+17.
+
+Accordingly, the Panel entered a finding of guilt with respect to Charge 1 and
+Charge 3. In accordance with the University’s undertaking, counsel for the
+University thereupon withdrew Charge 2 and Charge 4.
+
+E.
+
+SANCTION / PENALTY
+
+18.
+
+Counsel for the University sought a penalty of expulsion from the University. In
+support of her submissions as to the penalty that should be imposed upon the
+
+- 16 Student by reason of the findings of guilt cited above, counsel for the University
+tendered a Book of Documents (Re: Sanction).
+19.
+
+The said Book of Documents categorized previously decided pertinent case law
+as follows:
+(i) “Personation” cases in which the penalty imposed was expulsion from the
+University;
+(ii) “Personation” cases in which the penalty imposed was one of suspension,
+but not expulsion;
+(iii) cases involving the use of “Unauthorized Aids / Assistance”.
+The Panel carefully considered all of these cases and found the said Book to be
+of considerable assistance in its deliberations. The Panel noted that the sanction
+sought in this case was consistent with and justified by penalties imposed in
+previously decided cases of similar nature.
+
+20.
+
+The Panel was also referred to and carefully considered the Provost’s Guidance
+on Sanctions found as Appendix “C” to the Code of Behaviour on Academic
+Matters. The Panel noted that the Provost’s Guidance included a provision that a
+Tribunal would be requested to recommend that a student be expelled where,
+inter alia, the student “personated” another student or had a student personate
+that student in a test, exam, or other academic evaluation”. The Panel noted that
+Charge 3 in this case was indeed one of “personation”.
+
+21.
+
+The Panel was referred to case law in which the penalty for personation was
+expulsion of the student from the University even where there were mitigating
+circumstances. In the instant case the Panel noted that the Student had neither
+cooperated nor participated in the prosecution, such that the Panel was not
+provided with personal circumstances of the Student or other considerations in
+mitigation of the penalty although it had been open to the Student to participate
+and cooperate. As a result, the Tribunal did not have before it personal
+
+- 17 circumstances or mitigating factors that might otherwise affect the recommended
+penalty of expulsion. Further, in this case the student has not only had someone
+personate him, but also committed the offence of unauthorized aid 8 months
+prior.
+22.
+
+The Panel, accordingly, issued an Order as to sanctions as requested by counsel
+for the University.
+
+F.
+
+ORDER
+
+23.
+
+The Panel issued the following Order:
+1.
+
+The hearing may proceed in the absence of Z
+
+2.
+
+Z
+
+L
+
+L
+
+;
+
+is guilty of knowingly using or possessing an
+
+unauthorized aid or aids or obtaining unauthorized assistance in
+connection with the final exam in MGEB06H3, contrary to section B.I.1(b)
+of the Code of Behaviour on Academic Matters;
+3.
+
+Z
+
+L
+
+is guilty of knowingly having someone personate them
+
+during a term test in MGEB02H3, contrary to section B.I.1(c) of the Code
+of Behaviour on Academic Matters;
+4.
+
+The following sanctions shall be imposed on Z
+
+L
+
+:
+
+(a) the Tribunal recommends to the President of the University that
+the President recommend to the Governing Council that Z
+L
+(b) Z
+
+be expelled from the University;
+L
+
+shall be immediately suspended from the
+
+University for a period of up to five years from the date of this
+Order or until the Governing Council makes its decision on
+expulsion, whichever comes first, and a corresponding notation
+shall be placed on Z
+transcript;
+
+L
+
+’s academic record and
+
+- 18 (c) Z
+
+L
+
+shall receive a final grade of zero in MGEB06H3;
+
+L
+
+shall receive a final grade of zero in MGEB02H3.
+
+and
+(d) Z
+
+5. This case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanctions imposed, with the name of
+the student withheld.
+
+DATED at Toronto, this 27th day of September, 2024.
+
+Original signed by:
+_________________________________
+
+F. Paul Morrison, Chair
+On behalf of the Panel
+
+

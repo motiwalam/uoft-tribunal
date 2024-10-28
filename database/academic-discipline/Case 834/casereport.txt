@@ -1,0 +1,300 @@
+UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on November 30, 2015
+AND IN THE MATTER OF the University of Toronto Code l?{ Behaviour on Academic
+
+Matters, 1995,
+AND IN THE MATTER OF the University ofToronto Act. 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+BETWEEN:
+UNIVERSITY OF TORONTO (the "University")
+-AND~ (the "Student")
+
+REASONS FOR DECISION
+Hearing Date: February 10, 2016
+Panel Members:
+Ms. Roslyn M. Tsao, Lawyer, Chair
+Professor Pascal Van Lieshout, Department of Speech-Language Pathology, Faculty Panel
+Member
+Mr. Michael Dick, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel for University, Paliare Roland Barristers
+Ms. Lucy Gaspini, Manager, Academic Integrity and Affairs, University of Toronto-Mississauga
+Professor Kalina Staub, Instructor for ECO 100: Introductory Economics, University of Toronto
+Mississauga
+In Attendance:
+Ms. Krista Osbourne, Adminstrative Assistant, Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+Mr. - Student
+
+YIII,
+
+2
+1.
+
+The Trial Division of the Tribunal heard this matter on February 10, 2016. The Student
+was charged on November 30, 2015 under the following sections of the Code:
+(a)
+
+plagiarism contrary to section B.l.l(d);
+
+(b)
+
+obtaining of unauthorized assistance contrary to section B.1.1 (b ); and
+
+(c)
+
+in the alternative, academic dishonesty contrary to section B.I.3(b),
+
+relating to an essay ("Assignment") submitted in ECO I 00 ("Course") on or about
+November 10, 2014.
+
+Hearing to Proceed in Absence of Student
+2.
+
+The Student did not attend at the Hearing. The Tribunal waited until after the scheduled
+commencement of the Hearing to allow for the Student to appear.
+
+3.
+
+The University presented evidence to the Tribunal confirming proper service of the
+Charges dated November 30, 2015 by e-mail to the Student's e-mail address contained in
+the Student's ROSI record.
+
+4.
+
+The University presented evidence to the Tribunal confirming proper service of the
+Notice of Hearing dated January 20, 2016 and the Revised Notice of Hearing (revised
+only with respect to panel members) by e-mail to the Student's e-mail address contained
+in the Student's ROSI record. The Notice and Revised Notice of Hearing contain the
+requisite warning for non-attendance.
+
+5.
+
+It is noted that on about May 1, 2015, the Student was suspended for one year under an
+academic suspension. Nevertheless, the University was able to confirm that the Student
+had last logged into his ROSI email account on July 23, 2015.
+
+6.
+
+As service of the Charges and Notice of Hearing was effected m accordance with
+Paragraph 9( c) of the Rules of Practice and Procedure, the Panel proceeded with the
+Hearing in the absence of the Student.
+
+3
+
+Facts
+Evidence of Professor Staub
+7.
+
+The University tendered Professor Staub via Skype from the University of North Carolina
+where she is now an instructor.
+
+8.
+
+Professor Staub was the instructor of the Course at the relevant time.
+
+There were
+
+approximately 1000 students enrolled in the Course.
+9.
+
+The Syllabus for the course confirmed the course requirements, including the Assignment
+at issue which was a writing assignment worth 4% of the course mark.
+
+10.
+
+Professor Staub confirmed that she reviewed the seriousness of academic misconduct,
+including plagiarism, both in the Syllabus and in class. The Syllabus also made it clear
+that Turnitin.com would be used for the review of assignments to detect possible
+plagiarism.
+
+11.
+
+The Assignment was an essay due in early November, 2015. The students wrote about a
+newspaper article or a podcast (there was only one choice of newspaper miicle and one
+choice of podcast offered by the Professor). The newspaper article or podcast was to be
+analyzed in the context of concepts covered in class and their application to the real
+world. It was an individual assignment without collaboration.
+
+12.
+
+The Student submitted his essay to Turnitin on November 10, 2014. Turnitin reported a
+"Similarity Index" of47% to submissions of another student(s).
+
+13.
+
+Based on the indication ofTurnitin of a "very high" similarity, Professor Staub, reviewed
+the Student's Assignment and the identified primary source document, namely, an essay
+by another student ('Student Y") in the same Course that was submitted 3 days earlier on
+November 7, 2014.
+
+Professor Staub considered whether the similarities were
+
+explicable/innocuous or indicative of academic misconduct.
+14.
+
+Professor Staub concluded that the similarities between structure, phrases, grammatical
+errors and the same peculiar use of "Externality Cost" instead of "External Cost" could
+not have been innocuous. Professor Staub explained that although the (mis-)use of the
+
+4
+
+term "externality" is not unique, it is not common and, in the context of the foregoing
+similarities, she concluded that the students should be notified about her concerns.
+15.
+
+Professor Staub did not have her subsequent emails to the Student (and Student Y) but
+was able to review her covering letter to the Dean's Office when referring the matter to
+confirm that she had emailed the Student 3 times and received no response. In the same
+manner, Professor Staub also confirmed that she had emailed Student Y 3 times by email
+and received no response. Professor Staub indicated that the emails would have escalated
+in their caution to the Student, warning that the matter would be referred to the Dean's
+Office if there was no response.
+
+16.
+
+Professor Staub was asked by the Panel whether the due date was November i 11 for the
+Assignment and she advised that recalled that the due date might have been extended to
+November 11 th •
+
+Comparison ofAssignments from Student and Student Y
+17.
+
+The following observations can be made upon reviewing the two Assignments:
+(a)
+
+the Y Assignment (by Student Y) was submitted first and has a word count of
+508;
+
+(b)
+
+the Student's Assignment was submitted three days later and has a word count of
+332.
+
+(c)
+
+the structure of the Assignments, viewed paragraph by paragraph, and placement
+of first graph are too similar to be by chance;
+
+(d)
+
+the grammatical e1Tors and language syntax are too similar to be by chance; and
+
+(e)
+
+the differences between the Student's Assignment and the Y Assignment are often
+attributable to the use of synonyms in place of the other wording in the same
+"location".
+
+5
+
+Decision of the Tribunal
+18.
+
+The Panel carefully reviewed the two Assignments. Although the Panel was of the view
+that the Assignment by Student Y was likely the origin material for the Student's
+Assignment as opposed to vice versa, the Panel did not need to reach a definitive
+conclusion on that issue because of Section B.ii.l(a)(ii) and/or (iv) of the Code:
+B.ii.1 (a)
+
+Every member is a party to an offence under this Code who knowingly:
+(i)
+
+actually commits it;
+
+(ii)
+
+does or omits to do anything for the purpose of aiding or
+assisting another member to commit the offence;
+
+(iv)
+
+abets, counsels, procures or conspires with a another member
+to commit or be a party to an offence; ...
+
+19.
+
+It is not necessary for the Panel to decide whether it was the Student or Student Y who
+
+drafted the original content of the Assignments, whether Student Y and the Student
+collaborated to draft their individual Assignments or whether the Student copied Student
+Y's Assignment or vice versa - all of these scenarios will attract a finding of guilt
+provided that we conclude that the Students collaborated or that Student Y and/or the
+Student was aware that his work or the other's was being used for assistance.
+20.
+
+The Panel finds that there is clear and convincing evidence that either, the students
+collaborated or that one of them (likely Student Y) knowingly made his work available to
+the other to copy.
+
+The deliberate and strategic changes to word choices in the
+
+Assignment cannot disguise the evident and indisputable similarities in structure, syntax
+and grammatical errors.
+21.
+
+Based on the findings above, the Student is found guilty of plagiarism contrary to section
+B.I.l(d) of the Code and of obtaining unauthorized assistance contrary to section B.l.l(b)
+of the Code.
+
+6
+
+22.
+
+The University did not withdraw the alternative charge but did not pursue a finding
+thereon.
+
+Penalty
+
+23.
+
+The University sought the following penalty:
+(a)
+
+a zero in the Course;
+
+(b)
+
+a two (2) year suspension from the University commencing February 10, 2016;
+and
+
+(c)
+
+a notation of the sanction on the Student's academic record and transcript for three
+(3) years.
+
+24.
+
+The Student has no prior record of academic misconduct. He has been subject to a one
+year academic suspension since May 1, 2015.
+
+The University is not seeking the
+
+suspension to be consecutive to the concurrent suspension.
+25.
+
+Although the Panel finds that the Student's failure to respond to the Professor's email
+about the Assignment to be an aggravating factor, the Tribunal accepts the University's
+recommended penalty considering the circumstances in this case and sanctions granted in
+similar cases.
+
+26.
+
+An Order has been signed by the Panel to this effect.
+
+27.
+
+The Tribunal is to report this decision to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed in the University's newspapers, with
+the name of the Student withheld.
+
+7
+
+Dated at Toronto, this
+
+'J.. S ~
+
+day of February, 2016
+
+

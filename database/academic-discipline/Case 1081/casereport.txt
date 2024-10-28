@@ -1,0 +1,541 @@
+Case No. 1081
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on May 20, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO (the “University”)
+- and J
+
+W
+
+X
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: February 1, 2021, via Zoom
+Members of the Panel:
+Ms. Johanna Braden, Chair
+Professor Paul Kingston, Faculty Panel Member
+Mr. Alex Erickson, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein,
+LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk & Hearing Secretary, Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+The Student
+
+2
+1.
+
+A panel of the Trial Division of the University Tribunal (the “Panel”) was convened
+on February 1, 2021 to consider charges brought by the University against the
+Student under the University of Toronto Code of Behaviour on Academic Matters,
+1995 (the “Code”).
+
+2.
+
+In accordance with an Order made by the Chair of this Panel on January 12, 2021,
+this hearing was held electronically via Zoom, because of the danger posed to inperson hearings by the Covid-19 virus. The documents which eventually formed the
+record for this hearing were sent to the Panel electronically in advance of the
+hearing. Participants were able to hear one another throughout. The Panel was
+able to watch witnesses give their evidence so that their credibility could be fairly
+assessed.
+
+Preliminary Issue 1: Proceeding in the Absence of the Student
+3.
+
+The hearing was scheduled to begin at 9:45 a.m. Neither the Student, nor anyone
+on the Student’s behalf, were logged onto the Zoom link at that time. The Panel
+stood the matter down for some hours, and began the hearing at 2:00 p.m. The
+University then requested that the Panel proceed with the hearing in the Student’s
+absence.
+
+4.
+
+Pursuant to Rule 16 of the University Tribunal Rules of Practice and Procedure (the
+“Rules”), notice of an electronic hearing must include the date, time, place and
+purpose of the hearing; a reference to the statutory authority under which the
+hearing will be held; information about the manner in which the hearing will be held;
+and a statement that if a person does not attend the hearing, the panel may proceed
+in the person’s absence. Rule 17 provides that where notice of an electronic
+hearing has been given to a person and that person does not attend the hearing,
+the Panel may proceed with the hearing in the party’s absence. The Rules conform
+to sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”).
+
+3
+5.
+
+Pursuant to Rule 9, a notice of hearing may be served on a student by various
+means, including by emailing a copy of the document to the student’s email address
+contained in the University’s Repository of Student Information (“ROSI”).
+
+6.
+
+The University’s Policy on Official Correspondence with Students dated September
+1, 2006 expressly states that students are responsible for maintaining on ROSI a
+current and valid mailing address and University-issued email account, and that
+“[f]ailure to do so may result in a student missing important information and will not
+be considered an acceptable rationale for failing to receive official correspondence
+from the University.” Students are expected to monitor and retrieve their email on
+a frequent and consistent basis. Students have the right to forward their Universityissued email account to another email account, but remain responsible for ensuring
+that all University email communications are received and read.
+
+7.
+
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with these Rules.
+
+8.
+
+In this case, the University provided evidence that the chronology relevant to
+service is as follows.
+(a)
+
+The Student was first registered with the University for the Fall term in 2015.
+His contact information on ROSI shows only his University-issued email
+address, a Markham mailing address and a telephone number with a 289-area
+code.
+
+(b)
+
+By the end of the Winter term in 2017, the Student had earned 3.5 credits and
+had a cumulative GPA of 0.66. He was placed on a one-year academic
+suspension. He has not enrolled in any classes at the University since then.
+
+(c)
+
+February 2, 2018 appears to be the last time the Student logged on to his
+ROSI-listed email address.
+
+4
+(d)
+
+The incident giving rise to these charges took place on August 15, 2019.
+
+(e)
+
+On August 26 and August 29, 2019, the Assistant Registrar of Academic
+Standards and Petitions sent emails to the Student to discuss the incident.
+The emails were delivered to the Student’s email address, but the Student did
+not reply. The matter was therefore referred to the Academic Integrity Office.
+
+(f)
+
+The Academic Integrity Office sent emails about the incident to the Student on
+January 15, 20 and 21, 2020. The Student was advised that if he did not
+respond to the Academic Integrity Office, his case would be forwarded to the
+Tribunal for resolution. The Student did not respond. The matter was referred
+to the Tribunal.
+
+(g)
+
+On May 20, 2020 the Charges were sent to the Student’s ROSI-listed email
+address.
+
+(h)
+
+On November 9, 2020, further correspondence was sent to the Student’s email
+address, including a disclosure brief and a copy of the University’s Policy on
+Official Correspondence with Students.
+
+(i)
+
+Further emails about this matter were sent to the Student’s email address on
+November 30 and December 21, 2020 and January 4, January 5 and January
+12, 2021.
+
+(j)
+
+On January 12, 2021, an articling student working for Assistant Discipline
+Counsel attempted to reach the Student at the phone number listed in ROSI.
+The phone was answered with an automated message stating, “the number
+you have dialed does not accept phone calls” and the call was disconnected.
+
+(k)
+
+On January 14, 2021 the Notice of Electronic Hearing was sent to the
+Student’s email address.
+
+9.
+
+The evidence is that the Student did not receive any of the emails sent to him by
+the University about this incident. He has not received actual notice of the Charges,
+
+5
+of the disclosure, or of the Notice of Electronic Hearing. However, the Rules do not
+require actual notice. The University can serve the Student, but cannot make the
+Student actually read what is served.
+10.
+
+This hearing took place in the midst of a global pandemic that has shut down many
+parts of the world. The Panel considered the possibility that there was a pandemicrelated reason preventing the Student from accessing his email and/or participating
+in this hearing. However, the Student apparently stopped accessing his email
+account altogether in February of 2018, which was long before the pandemic
+began.
+
+11.
+
+The University did not do everything it could have done to contact the Student (it
+did not, for example, attempt to contact him through the mailing address he
+provided on ROSI), but the University did take the steps it was required to under
+the Rules. The Panel was troubled by the absence of actual notice given to the
+Student, and was concerned that it has been almost four years since the Student
+was last enrolled in classes at the University. It may be that the Policy on Official
+Correspondence with Students could be clearer about the expectations of students
+once they leave the University. However, the Tribunal was satisfied it was more
+likely than not that the Student had made a deliberate choice some time ago to
+avoid his University-issued email and turn his back on any official communications
+from the University. That choice has consequences.
+
+12.
+
+Therefore, in light of the evidence and the submissions of Assistant Discipline
+Counsel, the Panel was satisfied that the Student had been given reasonable notice
+of the hearing in compliance with the notice requirements of the SPPA and the
+Rules. The Panel decided to hear the case on its merits in the absence of the
+Student. The hearing proceeded on the basis that the Student was deemed to deny
+the Charges alleged against him.
+
+6
+The Charges
+13.
+
+The charges against the Student, with particulars, are as follows.
+Charges
+1.
+
+You knowingly forged or in any other way altered or falsified an academic
+
+record, and/or uttered, circulated or made use of such forged, altered or falsified
+record, namely, a document which purported to be a degree certificate from the
+University of Toronto dated June 5, 2019, contrary to section B.I.3(a) of the Code.
+2.
+
+In addition or in the alternative, you knowingly engaged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with a document which purported
+to be a degree certificate from the University of Toronto dated June 5, 2019,
+contrary to section B.I.3(b) of the Code.
+Particulars of charges
+(a)
+
+You have been a registered student in the University of Toronto
+
+Mississauga since Fall 2015. You earned 3.5 credits. You did not graduate from
+the University of Toronto.
+(b)
+
+You circulated and made use of a document that purported to be your
+
+degree certificate from the University of Toronto dated June 5, 2019.
+(c)
+status.
+
+You forged the degree certificate and falsely represented your academic
+
+7
+(d)
+
+You knew that the degree certificate was forged, altered, and/or falsified
+
+when you circulated or made use of it.
+(e)
+
+You had an obligation to provide accurate and truthful information and not
+
+to misrepresent your academic record.
+
+The Evidence
+14.
+
+The University’s evidence was tendered through the affidavits of two witnesses,
+who were present via Zoom to give additional evidence as required.
+
+15.
+
+The first witness was Samantha Smith, the Assistant Director of the Office of
+Convocation at the University. Her evidence was as follows.
+(a)
+
+The Office of Convocation is responsible for (among other things) verifying the
+graduation status of University alumni. The site allows for third parties (such
+as prospective employers) to confirm the degree status and credentials of
+individuals.
+
+(b)
+
+The University accepts third-party requests to confirm degrees through its
+Confirmation of Degrees website. This website is not for students to verify
+their own credentials (students are to go to the University’s Transcript Centre
+and/or the Certification of Degree website for that). Rather, the Confirmation
+of Degrees website allows third parties to access publicly available information
+about a graduate’s degree, diploma or certificate. The stated purpose of the
+website is to enable prospective employers to verify the credentials of
+graduates, minimize the risk of credential fraud and protect graduates from the
+illicit use of their designations by others.
+
+(c)
+
+The form on the website requests that third parties provide the graduate’s
+surname, student number, year of graduation, and type of credential.
+Requesters are required to provide their email address and to pay a $20 fee
+
+8
+for the search results. Once that amount is paid, the request is processed
+instantly by the online service if all the entered information matches the data
+in the records system. Otherwise, third parties have the option to submit their
+requests via email.
+(d)
+
+On August 15, 2019, a person named Angela Coniam from a company called
+AuraData submitted a Confirmation of Degree request. Ms. Smith knows
+AuraData to be a third-party education verification service, and she testified
+that she is “very familiar” with them as a company that makes frequent
+requests for credential verification on behalf of employers wanting to verify the
+stated education credentials of applicants.
+
+(e)
+
+The AuraData request was for “[a first and last name matching the Student]”
+with a date of birth of May 25 (no birth year is required), a graduation year of
+2019, and a degree of Bachelor of Arts. Ms. Smith reviewed the University’s
+records and found that the Student was the only student matching the name
+and date of birth entered by Ms. Coniam. Ms. Smith also found that the
+University had not granted the Student any kind of degree at any time. Rather,
+the Student had been placed on academic suspension at the end of the Winter
+2017 term and had never returned to the University.
+
+(f)
+
+On August 16, 2019, Ms. Smith sent an email to Ms. Coniam, indicating that,
+“According to our records, no degree has been granted by the University of
+Toronto to [the Student]”.
+
+(g)
+
+On August 21, 2019, Ms. Coniam sent Ms. Smith another email, this time
+attaching a black and white degree certificate. A copy was provided to the
+Panel. The degree certificate is dated June 5, 2019 and purports to certify that
+the Student had fulfilled the requirements for a Bachelor of Business
+Administration degree (the “2019 Degree Certificate”). Ms. Smith searched
+the University’s electronic records again and did not find any evidence that a
+degree had been granted by the University to the Student. Ms. Smith emailed
+Ms. Coniam to advise her of the results of the search and suggested that the
+
+9
+2019 Degree Certificate was not a valid diploma. Ms. Coniam wrote back,
+“Thank you. We have advised our client.”
+16.
+
+On August 23, 2019, Ms. Smith forwarded her email chain with Ms. Coniam to
+Vladimir Soloviev, the Associate Registrar, Records, Registration and Graduation
+at the University of Toronto Mississauga. He was the second witness to appear at
+the hearing. His evidence was as follows.
+(a)
+
+Mr. Soloviev testified that the 2019 Degree Certificate looked authentic on its
+face. However, he searched the University’s records and confirmed it was not
+in fact an authentic document issued by the University. Mr. Soloviev noted
+that:
+(i)
+
+The Student was in the first year of the Commerce program, having
+first registered in Fall 2015, been placed on academic probation at the
+end of Summer 2016, and been placed on a one-year academic
+suspension at the end of the Winter 2017 term after which he had not
+returned to take any more classes;
+
+(ii)
+
+The Student had earned 3.5 credits and a cumulative GPA of 0.66;
+
+(iii)
+
+The Student had not completed the requirements for a Bachelor of
+Business Administration degree; and
+
+(iv)
+
+The Student had not graduated from the University, either in June 2019
+or at any other time.
+
+(b)
+
+On August 26, 2019 Mr. Soloviev passed his findings on to the Assistant
+Registrar of Academic Standards and the Manager of Academic Integrity and
+Affairs, which initiated this discipline process.
+
+Decision of the Panel on the Charges
+17.
+
+The University bears the burden of proving on a balance of probabilities that the
+Student knowingly forged or in any other way altered or falsified an academic
+
+10
+record, and/or uttered, circulated or made use of such forged, altered or falsified
+record. The requirement that the Student act “knowingly” is made out if the Student
+ought reasonably to have known that the academic record in question had been
+forged, altered or falsified. The evidence must be clear, cogent and convincing.
+18.
+
+The Panel found that the Student was guilty of uttering, circulating, and making use
+of a forged academic record.
+
+The 2019 Degree Certificate clearly meets the
+
+definition of an “academic record” as set out in Appendix A to the Code, and the
+degree was clearly a fabrication. The Panel accepted the evidence that the Student
+was the only one whose name matched the name on the certificate, and that the
+Student had not graduated from the University or received a degree certificate of
+any kind from the University. The 2019 Degree Certificate was a clever forgery (Mr.
+Soloviev testified that it had all the correct signatures and other details). It was not
+issued by the University.
+19.
+
+There was no evidence about how the 2019 Degree Certificate was forged or
+created, so no finding could be made against the Student in that regard. However,
+the Panel concluded it was more likely than not that the Student “circulated, uttered
+and/or made use of” the 2019 Degree Certificate.
+
+The Panel inferred from the
+
+evidence that the Student had likely submitted the 2019 Degree Certificate to
+support an application for a job or other benefit, and that the institution to whom he
+had submitted the 2019 Degree Certificate then hired AuraData to verify the
+Student’s education credentials. There was no other reasonable explanation for
+how or why a company such as AuraData would pay money to verify the Student’s
+credentials.
+
+20.
+
+Accordingly, the Panel found the Student guilty of Charge 1. As Charge 2 was in
+the alternative, it was withdrawn by the University.
+
+Decision of the Panel on Penalty
+21.
+
+The University sought the most serious sanction this Panel can order: an immediate
+suspension of up to five years, coupled with a recommendation to the President of
+
+11
+the University that he recommend to the Governing Council that the Student be
+expelled.
+22.
+
+Since the academic dishonesty in this case does not relate to a specific course or
+courses, there was no rational basis for the Panel to impose grades of zero or to
+cancel credits. Rather, the Panel needed to decide what term of suspension to
+order, and whether to recommend expulsion
+
+23.
+
+The Panel considered the factors and principles relevant to sanction as set out by
+this Tribunal in University of Toronto and Mr. C. (Case No. 1976/77-3, November
+5, 1976).
+(a)
+
+The character of the Student: there were no other academic offences on
+the Student’s record. His grades were very poor. He did not return from
+his year of academic suspension. He stopped checking his Universityissued email in February of 2018. The Student seems to have cut all ties
+with the University some time ago. The Student was not present to give
+any evidence of his character beyond what is revealed by the record before
+us. As the Student had no actual notice of this hearing, this cannot be held
+against him.
+
+(b)
+
+The likelihood of repetition of the offence: while this was the Student’s first
+offence, it was a momentous one. There is nothing in the record to suggest
+that the Student is remorseful or repentant. Again, this cannot be given
+much weight since the Student did not have actual notice of this hearing.
+
+(c)
+
+The nature of the offence committed: this was an act of flagrant and
+deliberate dishonesty. Instead of returning to the University and completing
+his degree, the Student lied about his academic status and either created a
+clever forged degree certificate or had someone else do so. He submitted
+the forged degree to obtain some sort of employment or other benefit.
+Credential fraud is a profoundly serious offence.
+
+12
+(d)
+
+Any extenuating circumstances: without the Student’s participation, there is
+no evidence of extenuating circumstances for the Panel to consider. We do
+not hold the Student’s absence against him, as he had no actual notice of
+this hearing.
+
+(e)
+
+The detriment to the University caused by the misconduct: third parties
+need to be able to rely on degrees issued by the University. Graduates
+need to know that their degrees confer meaningful benefits that can’t be coopted illegitimately.
+
+Fraudulent degrees purporting to come from the
+
+University undermine the University’s credibility and reputation, and require
+the University to establish an elaborate system of checks and verifications.
+(f)
+
+The need for general deterrence: this is very a significant concern. The
+2019 Degree Certificate could easily have fooled many people for many
+years, and given the Student all kinds of unearned advantages. It was only
+because AuraData was hired to verify the Student’s credentials that he was
+caught. It is crucial for all students to realize that misrepresenting their
+University status to outside parties in such a fundamental way will have
+extremely serious consequences.
+
+24.
+
+Although the Panel is not bound by previous cases of this Tribunal, and while each
+case must be decided on its own facts, it is useful for like cases to be treated alike
+so that all parties can come to hearings with a reasonable expectation of what kind
+of penalty they can expect based upon the findings. The Panel reviewed twelve
+cases involving forged degree certificates. In all of those cases, students were
+suspended for a term of up to five years with a recommendation of expulsion. All
+cases agree that a forged degree certificate is one of the most serious academic
+offences a student can commit.
+
+25.
+
+The Student fundamentally broke trust with the University when he passed off a
+forged degree certificate as genuine. His actions were harmful to the University
+and to those with whom the Student was competing for jobs and opportunities. In
+
+13
+all the circumstances, the Panel determined that the most severe sanction was
+appropriate.
+Order
+26.
+
+This Panel of the Tribunal made an order as follows.
+1. THAT the hearing may proceed in the absence of the Student;
+2. THAT the Student is guilty of one count of knowingly forging or in any other way
+altering or falsifying an academic record, and/or uttering, circulating or making
+use of such forged, altered or falsified record, contrary to section B.I.3(a) of the
+Code;
+3. THAT the Student shall be immediately suspended from the University for a
+period not to exceed to five years;
+4. RECOMMENDING to the President of the University that he recommend to the
+Governing Council that the Student be expelled from the University; and
+5. THAT this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the name
+of the student withheld.
+
+Dated at Toronto, this 3rd of May, 2021
+
+______________________________________
+Ms. Johanna Braden, Chair
+On behalf of the Panel
+
+

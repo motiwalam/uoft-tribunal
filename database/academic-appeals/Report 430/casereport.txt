@@ -1,0 +1,285 @@
+THE UNIVERSITY OF TORONTO
+THE GOVERNING COUNCIL
+Report #430 of the Academic Appeals Committee
+January 8, 2024
+To the Academic Board
+University of Toronto
+Your Committee reports that it held a hearing on November 15, 2023, at which the following
+members were present:
+Academic Appeals Committee Members:
+Cheryl Milne, Chair
+Professor Ernest Lam, Faculty Governor
+Dveeta Lal, Student Governor
+Hearing Secretary:
+Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+W.Y.L. (the “Student”)
+Hyun Tae Kim, Downtown Legal Services, Representative for the Student
+Aimee Veiner, Downtown Legal Services, Co-Representative for the Student
+For the University of Toronto Mississauga:
+Charlotté Calon, Paliare Roland Rosenberg Rothstein LLP
+
+OVERVIEW
+This is the consolidation of two appeals brought by the Student respecting related decisions of
+the University of Toronto Mississauga (UTM) Academic Appeals Subcommittee (AAS). The
+first appeal is that of the decision of the AAS rendered January 18, 2023, refusing to grant NoCredit (NCR) notations in two chemistry courses, CHM242H5F and CHM231H5F. The second
+appeal is that of the decision of the AAS rendered October 25, 2023, denying the Student’s
+appeal for a lift of his three-year academic suspension so that he can return early from the
+academic suspension. At the request of the Student and with the consent of the Respondent, the
+two appeals were heard together. As the factual basis for both appeals are related, your
+Committee granted this request in the interests of expediency and fairness.
+
+2
+FACTS
+The Student is an undergraduate student registered with the Department of Chemical and
+Physical Sciences at UTM. He began his studies in the Fall of 2018 in the Chemistry program
+and experienced academic challenges from the outset. The Student was an Academic Culture &
+English (ACE) student, which is a program designed for new students who require English
+language development. In May 2019, the Student was placed on academic probation as a result
+of earning a cumulative grade point average (CGPA) of less than 1.5. In May 2020, after
+completing his second Fall-Winter session, the Student continued on academic probation as a
+result of his CGPA remaining below 1.5 but avoided academic suspension because he earned a
+sessional GPA (SGPA) above 1.7 for the Fall-Winter session.
+In the summer of 2020, the Student took four courses in an attempt to make up for courses he
+had failed. The Student was unable to keep up with the fast pace of the summer courses and as a
+result was only able to pass three of the four courses and obtained a CGPA below 1.5. He was
+then placed on academic suspension for the 2020-2021 academic year. Despite being encouraged
+to enroll in the Promoting Academic Skills for Success (PASS) program during that year, the
+Student did not take advantage of this program and returned to school in the Fall of 2021 with a
+course load of six courses. He failed two of those courses, CHM231 and CHM242, for which he
+seeks an NCR notation. As a result of the grades in those courses, the Student’s CGPA once
+again fell below 1.5 and he was placed on a three-year academic suspension as of May 2022. His
+academic suspension is scheduled to end on May 1, 2025.
+The UTM Academic Calendar (the “Calendar”) sets out the course enrollment and grading
+policies that apply to the Chemistry program. The four tiers of academic standing including
+grade point averages are set out in the Calendar as follows:
+Students who have attempted at least 0.5 credits at the university will be assessed for academic
+standing as follows:
+1. Students who achieve a cumulative GPA of at least 1.50 are considered to be in good standing.
+2. Students will be on academic probation if they:
+a. have a cumulative GPA of less than 1.50, or
+b. return from suspension, or
+c. have been admitted on academic probation.
+3. Students who, at the end of any session (Fall/Winter or Summer) during which they are on
+probation:
+a. have a cumulative GPA of 1.50 or more will be in good standing;
+b. have a cumulative GPA of less than 1.50, but a sessional (Summer) or annual
+(Fall/Winter) GPA of 1.70, or more, will continue on probation;
+c. have a cumulative GPA of less than 1.50 and a sessional (Summer) or annual
+(Fall/Winter) GPA of less than 1.70, will be suspended for one calendar year unless they
+have been suspended previously, in which case they will be suspended for three calendar
+years.
+
+3
+4. Students who return from a three-year suspension and are again liable for suspension will be
+refused further registration to the University of Toronto.1
+
+The Calendar also sets out the policies respecting the availability and function of CR/NCR
+notations. A student is required to request that a course be assessed as CR/NCR using their
+ACORN account during the term in which the course is offered, and the request must be made or
+cancelled no later that the last day of classes for a course with a final exam. Both courses in
+question had final exams. Courses designated as CR/NCR will not be included in the calculation
+of a student’s GPA to assess the student’s academic standing.
+There is no dispute that if the Student had requested CR/NCR notation for the two chemistry
+courses in question within the time limit, his failure in those courses would not have impacted
+his CGPA and he would not have been placed on academic suspension in May 2022. The
+Student claims that he made the CR/NCR request through ACORN in October 2021, after he
+completed his mid-term evaluations and realized that he might fail those courses. He claims that
+he first learned of the lack of designation as CR/NCR when he received a failing grade on
+ACORN for CHM231 instead of NCR. He sent two online inquiries through AskRegistrar in
+December, but rather than indicating that there was a mistake in the notation, he asked about
+changing the courses to CR/NCR without academic penalty after seeing the grades in January
+2022. He was advised that he could not do so as a UTM student.
+The Student did not follow up with this concern until later in the Winter 2022 term. He says that
+he noticed another error through ACORN when he was unable to drop a course in March 2022.
+When he inquired about this request, he contacted AskRegistrar to resolve the issue, but
+AskRegistrar replied that their records did not indicate that he had requested to drop the course.
+Instead, he used the Late Withdrawal after the Drop Date through a separate portal to
+successfully drop the course. He did not raise the issue of the failure of ACORN to register his
+request for the CR/NCR notation for the two Fall chemistry courses until the end of the Winter
+2022 term in an inquiry on April 29, 2022, in which he says there was a mistake in his courses.
+In a request made on May 1, 2022 he asks for help to “have a check and add the CR/NCR back”
+and on May 3, 2022, he repeats this request, noting his low GPA.
+The Student’s explanation for the courses not being designated CR/NCR in October 2021 was
+that his University email account was hacked that same month. The username and password for
+his email and ACORN are identical, and therefore, he asserted that his ACORN account must
+have also been hacked. He provided copies of screenshots of emails sent from his email address
+to a large number of recipients with “aku butah bantuanmu” in the body of the email as proof of
+this hacking. He claims that over 100 emails were sent from his email account without his
+knowledge.
+In response to the hacking claim, the Respondent provided detailed records from ACORN which
+are date and time stamped. These records failed to show any activity in October 2021 with
+respect to the CR/NCR notation for the courses in question either by the student or another
+person hacking into his account. There were two entries that month, one for the notation of an
+1
+
+Submissions of the University of Toronto Mississauga, Tab 1, pages 61-62
+
+4
+absence and the other in which the Student advised that he was having a problem with his email
+account. The response by the Office of the Registrar was to warn the Student about phishing
+messages and to recommend that he change his password. The records show the Student’s
+inquiries about retroactive notation of CR/NCR for the chemistry courses on December 18 and
+20, 2021, and January 10, 2022, and then further inquiries respecting the CR/NCR notation
+between April 29 and May 6, 2022. The entries show the IP addresses of persons accessing the
+account and appear to be consistent with the Student using their own computer. It is the
+Respondent’s position that the Student only made the CR/NCR request upon learning that the
+grades in those two chemistry courses would bring his CGPA below 1.5.
+If the CR/NCR notation is not granted, the Student is asking that he be permitted to return early
+from his three-year academic suspension on the basis of compelling evidence of a change in his
+circumstances. In support of this claim he cites his completion of the PASS program and a more
+reasonable approach to his studies including a reduced course load, better management of his
+stress and better organization including time management. He also states that he has been avidly
+reading textbooks checked out from his local library to develop his academic interests and,
+during his suspension, travelled to several countries and attended universities to learn about
+study methods. He did not provide a list of the books other than their general subject matter, nor
+proof of the borrowing. Furthermore, he did not provide a list of courses taken at other
+universities, nor proof of attendance of these courses. In addition, he cites his improved SGPA of
+1.7 if he had taken a smaller course load in the Fall 2021 academic session, and which was
+consistent with his sessional GPA for the Winter 2022 term. The Respondent noted that during
+that term, he failed one course.
+DECISION
+In the Student’s appeal of the AAS decision of January 18, 2023, he asks your committee to
+overturn the AAS decision and permit a notation of CR/NCR for the two Fall 2021 courses,
+CHM242H5F and CHM231H5F, and alternatively to permit his early return from academic
+suspension on the basis of a change in his circumstances. The Respondent argued, in respect of
+that appeal, that the alternative request was not properly before your committee as it had not
+been raised before the Committee on Standing (“COS”) or the AAS. The Student subsequently
+petitioned the COS, and appealed its decision to the AAS, for an early return from his three-year
+academic suspension. As a result of the consolidation of both appeals, this issue is now properly
+before your committee. Therefore, the two issues decided by the AAS that are now before your
+Committee are as follows:
+a. Did the Student request the CR/NCR notation for CHM242H5F and
+CHM231H5F within the time frames dictated by UTM policy?
+b. Has the Student presented compelling evidence of a change in circumstances to
+support an early return from his three-year academic suspension?
+
+a. Did the Student request the CR/NCR notation for CHM242H5F and CHM231H5F
+within the time frames dictated by UTM policy?
+
+5
+The Student claims that he requested the CR/NCR notation in October 2021 through ACORN,
+but that as a result of the hacking of his email account, this request was either blocked or
+reversed without his knowledge. The evidence he submitted in support of this explanation for the
+failure of the ACORN system to register this request within the time limits set by UTM policy
+included examples of emails sent out without his consent or knowledge, his inquiries about the
+lack of a CR/NCR notation once he received his grades for the final exams in the courses and
+another alleged error in a course-related request when he sought to drop a course in March 2022.
+At every stage of the Student’s request to change the CR/NCR notation, ACORN records
+showing the activity on the Student’s account were considered to attempt to verify the Student’s
+claim. The email from the Petitions Coordinator dated July 22, 2022, denying the Student’s
+petition, states:
+The Office of the Registrar takes these matters concerning account security very seriously, and our
+office carefully reviewed your ACORN activity log for the period of the entire 2021 Fall Session and
+found no indication the Credit/No Credit notations were added to those courses at any time and
+removed.2
+
+The COS and AAS reviewed these records as did your committee. The Student provided no
+additional evidence to challenge the accuracy of the ACORN records, but argued that hackers
+could change IP addresses and that he could not otherwise explain why he was unable to register
+his request for the changed notation as well as his attempt to drop the BIO375 Winter course.
+The Respondent argues, and your Committee agrees, that the language of the Student’s inquiries
+upon learning about his grades in the two courses support the conclusion that he had not made
+the request in time. On December 18, 2021, he inquired:
+Hello, I see a news [sic] said we can change the courses to CR/NCR without any academic
+penalty after we see the grades in January. Is that real? Also, what is the dead line of the
+CR/NCR?3
+
+Again, on December 20, 2021, he inquired:
+I see a news [sic] said we can change the courses to CR/NCR without any academic penalty after
+we see the grades in January. But I can’t add the CR/NCR. Some of my friend said on st. G. We
+are in the same school right?4
+
+In reply to both inquiries, the Office of the Registrar stated that the policy for CR/NCR for UTM
+had not changed. On January 10, 2022, the Student reached out again and asked:
+Hello, I want to ask a question. My classmate who on the same course said he can add the CR or
+NCR to the course but I can’t Find my [sic]. I want to know happen?5
+
+The Office of the Registrar responded that the Student had not indicated which courses he was
+referencing and provided information about the deadlines set out in the Calendar. The Student
+Student’s Notice and Statement of Appeal, Tab 7, page 30
+Book of Documents of the University of Toronto Mississauga, Tab 5, page 43
+4
+Submissions of the University of Toronto Mississauga, Tab 8, page 730
+5
+Submissions of the University of Toronto Mississauga, Tab 8, page 732
+2
+3
+
+6
+acknowledged that he did not make a further inquiry about the CR/NCR notation until between
+April 29, 2022 and May, 6, 2022 after he received his final grades. He was placed on a three-year
+suspension on May 6, 2022, due to his CGPA which included the failing grades for
+CHM242H5F and CMH231H5F.
+The question before your Committee is whether the AAS decision not to grant the CR/NCR
+notation, as confirmed by the COS, was unreasonable considering the evidence presented as to
+whether the Student made the request within the timelines dictated by the UTM policy. The
+Student argues that the designation should be made because he requested it in time, but it was not
+recorded or was reversed due to someone hacking his account. He does not argue any other
+reason for granting this change of the CR/NCR notation or any reason for not following the
+policy that set out the timelines required to make the request. Given the evidence presented and
+reviewed, your Committee finds that the AAS decision to uphold the decision of the COS and
+deny the petition for the CR/NCR notation was reasonable on the grounds that there was
+insufficient evidence to support the Student’s contention that he requested the designation within
+the time limits of the policy.
+
+b. Has the Student presented compelling evidence of a change in circumstances to
+support an early return from his three-year academic suspension?
+Early return from an academic suspension is an extraordinary remedy that will not be appropriate
+unless the Student produces compelling evidence of a change in circumstances relevant to the
+purposes of the suspension in question, which require a reassessment of the likelihood of a
+recurrence of the poor performance that resulted in the suspension in the first place or unless the
+underlying decision to impose the suspension was unreasonable. As the decision not to grant the
+CR/NCR notation for the two Fall session chemistry courses, which led to the imposition of the
+three-year academic suspension according to the UTM policy on academic standing, was
+reasonable, the issue here is whether the Student has produced compelling evidence of a change
+in circumstances.
+In Report #330 of the Academic Appeals Committee, your Committee considered the reasons
+behind the imposition of a suspension for poor academic performance, noting as follows:
+The University sets minimum academic standards that apply to all students. Where a student fails to
+meet these minimum standards, he or she can be suspended or denied further registration at the
+University. Implicit in the imposition of a suspension is the expectation that the student will use the
+time to address the circumstances that may have led to his or her poor performance prior to reenrolling at the University. Consistent with this underlying purpose, early return from suspension is
+an extraordinary remedy that is normally only granted in cases where there has been some substantive
+and well-documented change in the student's circumstances which indicates that his or her previous
+record of poor academic performance is not likely to recur.6
+
+6
+
+Report 330, March 30, 2009, page 4
+
+7
+The evidence shows that the Student has struggled academically throughout his enrollment in the
+UTM Chemistry program. He has been on either academic probation or suspension since the end
+of his first Fall/Winter session. Despite numerous recommendations from the Registrar’s Office
+throughout his previous probation and suspension to avail himself of the University’s academic
+resources, including academic and career advising and the services available at the Robert
+Gillespie Academic Skills Centre, and to reduce his course load, he failed to do so until he
+enrolled in the PASS program in 2023. As noted by the Student, he was in the Academic Culture
+& English (ACE) program designed for new students who require English language
+development, yet he provided no evidence of his efforts in this regard.
+The evidence presented by the Student of a substantive change in his circumstances consisted of
+his completion of the PASS program, his review of relevant textbooks from his local library
+which he does not specify, attendance at other universities in other countries, also not specified,
+to learn about study methods, and his promise to take a more manageable number of courses
+when he returns. Rather than meeting the burden to show well-documented evidence of change
+in his circumstances to indicate that his poor academic performance to date will not likely recur,
+the Student has provided vague assurances with little proof beyond the completion of the PASS
+course. The Respondent argues, and your Committee agrees, that this program should not be the
+only strategy that a student utilizes to meet this burden. In its decision on October 25, 2023, the
+AAS rejected the Student’s appeal against the decision of the COS to refuse to grant his petition
+to lift the three-suspension on the basis that he did not present a compelling case.
+Your Committee agrees with the AAS that this evidence is not sufficiently compelling to justify
+an early return from the Student’s academic suspension, and thus the AAS decision is
+reasonable.
+Your Committee encourages the Student to take advantage of the support services available at
+UTM to develop a more feasible curricular plan to address his academic needs. The period of
+suspension is not intended as a punishment for the Student’s academic performance, but rather a
+time to develop the skills necessary for academic success. Your Committee notes that students
+who face a further academic suspension after return from a three-year suspension can be refused
+registration at the University of Toronto.
+CONCLUSION
+a. The appeal of the decision of the AAS dated January 18, 2023, is dismissed.
+b. The appeal of the decision of the AAS dated October 25, 2023, is dismissed.
+
+

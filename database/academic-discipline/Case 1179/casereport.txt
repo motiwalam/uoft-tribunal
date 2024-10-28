@@ -1,0 +1,484 @@
+Case No.: 1179
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on February 8, 2021
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+H
+
+W
+
+REASONS FOR DECISION
+
+Hearing Date: December 16, 2021, via Zoom
+Members of the Panel:
+Ms. Harriet Lewis, Chair
+Dr. Pascal van Lieshout, Faculty Panel Member
+Ms. Amal Shah, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+Mr. H
+W
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on December 16, 2021, to
+
+consider the charges brought by the University of Toronto (the “University”) against Mr.
+H
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995
+
+W
+
+(the “Code”).
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 9:45 a.m. on Thursday, December 16,
+
+2021, by videoconference. At that time, Assistant Discipline Counsel advised that neither
+the Student nor a representative of the Student had responded to the Notice of Electronic
+Hearing.
+3.
+
+The onus of proof is on the University to demonstrate that it provided a student
+
+with reasonable notice of the hearing.
+4.
+
+The Tribunal had before it affidavit materials prepared by Assistant Discipline
+
+Counsel setting out the following attempts, which had been made to provide notice of the
+charges and hearing to the Student:
+i.
+
+On February 8, 2021, the Office of the Vice-Provost, Faculty and
+Academic Life served the charges on the Student by email to the
+utoronto email address that the Student had provided in the
+University of Toronto Repository of Student Information (“ROSI”).
+
+ii.
+
+On February 9, 2021, the Office of Appeals, Discipline and Faculty
+Grievances, University of Toronto served the Student with a letter
+regarding the charges filed against him, together with copies of the
+charges, the Code of Behaviour on Academic Matters, the Rules of
+Practice and Procedure (the “Rules"), and a pamphlet for Downtown
+Legal Services. These were sent by email to his utoronto email
+account. The Office did not receive a “bounce back” message from
+
+3
+
+the Student’s email account indicating that the email could not be
+delivered.
+
+iii.
+
+On December 16, 2021, the Office of Appeals, Discipline and Faculty
+Grievances, University of Toronto, sent additional correspondence
+by email (including another copy of the charges, the other noted
+material and a Notice of videoconference via the Zoom platform) and
+advised the Student that if he wished to proceed in person he could
+still request an oral hearing under the Rules by notifying the Office of
+Appeals Discipline and Faculty Grievances at least one week before
+the hearing date.
+
+iv.
+
+Assistant Discipline Counsel and others in her office also made
+efforts to contact the Student by email through his ROSI account on
+October 12 and 20, and on December 7, 2021. Attached to the email
+sent on December 7, 2021, were copies of the affidavit materials on
+which the University intended to rely at the hearing.
+
+v.
+
+In addition, a legal assistant to Assistant Discipline Counsel made 2
+attempts to contact the Student by telephone. The first of those
+attempts, made on December 9, 2021, was to a number which had
+been provided to the University by the Student but which, when
+called, was found to be “not assigned”. The second attempt, made
+on December 14, 2021 to an “international phone number” provided
+by the Student but believed to have expired, reached a voicemail box
+containing information which identified it as belonging to the Student.
+The legal assistant left a detailed message advising of the date and
+time of the upcoming hearing, and asking for the Student to “check
+his U of T email account for some important emails” and to make a
+return call to Assistant Discipline Counsel at a number provided,
+before the hearing date.
+
+4
+
+5.
+
+As of the date of the December hearing date, the Student had not responded to
+
+any of the above-noted correspondence or telephoned the Assistant Discipline Counsel
+at the provided number.
+6.
+
+Pursuant to section 17 of the Rules, where “notice of an oral hearing, electronic
+
+hearing or written hearing has been given to a person in accordance with this rule, and
+the person does not attend at or does not participate in the hearing, the panel may
+proceed in the absence of the person or without the person’s participation and the person
+is not entitled to any further notice in the proceeding.”
+7.
+
+The University requested that the Tribunal proceed with this hearing in the absence
+
+of the Student.
+8.
+
+Pursuant to rule 9, a notice of hearing may be served on a student by various
+
+means, including by sending a copy of the document by courier to the student’s mailing
+address in ROSI or by emailing a copy of the document to the student’s email address in
+ROSI.
+9.
+
+The University’s Policy on Official Correspondence with Students expressly states
+
+that students are responsible for maintaining a current and valid postal address and email
+account on ROSI. Students are expected to monitor and retrieve all mail, including emails,
+on a frequent and consistent basis.
+10.
+
+Based on totality of the attempts made to provide notice to the Student, the
+
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+compliance with the notice requirements of the Act and the Rules.
+11.
+
+The Tribunal therefore determined it would proceed to hear the case on its merits
+
+in the absence of the Student, and the hearing proceeded on the basis that the Student
+was deemed to deny the Charge made against him.
+
+5
+
+B.
+
+The Charges and Particulars
+
+12.
+
+The Charges and Particulars were detailed in a letter to the Student dated
+
+February 8, 2021, and are set out verbatim below:
+i.
+
+On approximately March 26, 2020, you knowingly used or possessed an
+unauthorized aid or aids, or obtained unauthorized assistance in Test Four in
+PHL245H1: Modern Symbolic Logic (the “Course”), contrary to section B.I.1(b) of
+the Code.
+
+ii.
+
+On approximately March 26, 2020, you knowingly engaged in a form of cheating,
+academic honesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.3(b) of the Code, in connection with
+your Test Four in the Course.
+Particulars
+(a) At all material times you were a registered student at the University of
+Toronto in the Faculty of Arts & Science.
+(b) In the Winter 2020 academic term you were enrolled in the Course.
+(c) Students in the course were required to write a test that was worth 20% of
+the final mark in the Course (“Test Four”).
+(d) You wrote Test Four remotely, using Canvas software, due to restrictions
+imposed by the COVID-19 pandemic.
+(e) You were required to write Test Four independently without the use of any
+aids or assistance.
+(f) You did not write Test Four independently. Instead, you knowingly obtained
+unauthorized assistance, and/or used an unauthorized aid, in the course of
+providing your answers to Test Four.
+
+6
+
+(g) In particular, you did not answer the questions asked of you at questions 6,
+7, and 9 of Test Four. Instead, you provided answers to questions asked in
+an alternate version of Test Four, which you did not write.
+(h) You knowingly obtained and/or provided unauthorized assistance in
+connection with Test Four in the Course.
+(i) You knowingly committed a form of cheating, academic dishonestly, or
+misconduct for the purposes of obtaining academic credit and/or other
+academic advantage.
+
+C.
+
+The Evidence
+
+13.
+
+Evidence on behalf of the University was given by Elizabeth Cowper, Professor
+
+Emeritus in the Department of Linguistics at the University who appeared as the Dean’s
+Designate for Academic Integrity with Student Academic Integrity (“SAI”), Faculty of Arts
+and Science at the University. In addition to her December 7, 2021 affidavit attesting to
+her contact with the Student and other facts, Professor Cowper referred to an affidavit of
+Professor Alex Koo, dated December 6, 2021, and filed as Exhibit 3 in this proceeding,
+and to her further affidavit of December 7, 2021 addressing sanction.
+14.
+
+Professor Cowper confirmed that in May 2020, SAI received allegations from
+
+Professor Koo that a number of students, including the Student, had committed academic
+misconduct on the fourth test (“Test 4”) in his course PHL245H1S, Modern Symbolic
+Logic, (the “Course”). Test 4 was held online through Quercus, an online testing platform,
+on March 26, 2020.
+15.
+
+SAI notified the Student of the allegations against him in August 2020. Following
+
+that notification, the Student indicated to SAI that he would like to meet with SAI to discuss
+the allegations. He met with Professor Cowper for that purpose on December 9, 2020 by
+Zoom videoconference. Also present on that occasion was Uji Umenyi, an Academic
+Integrity Specialist with SAI who took notes.
+
+7
+
+16.
+
+As noted in the Charges, the basis for the allegation against the Student arose
+
+from his answers to Questions 6, 7 and 9 of Test 4 in the Course. As explained in his
+affidavit, Professor Koo had created two versions of each numbered question on Test 4.
+Students had not been informed that there were two versions of Test 4. They were
+required to complete Test 4 independently and were advised in writing that they were not
+permitted to collaborate with one another on tests. The students were given 60 minutes
+to complete Test 4 within a 90-minute window. The Student completed Test 4 in 29
+minutes.
+17.
+
+When marking the Student’s test, Professor Koo discovered that the Student’s
+
+answers to questions 6, 7 and 9 did not correspond with the version of the questions he
+had been given. Rather, his answers to those three questions responded to questions 6,
+7 and 9 on the alternate version of Test 4.
+18.
+
+Attached to Professor Koo’s affidavit was the answer key to both versions of Test
+
+4 and a copy of the Student’s test. Question 1 of the test was an affirmation by the
+Student that in submitting the test, he did not act in such a way that “would constitute
+cheating, misrepresentation, or unfairness, including but not limited to, using
+unauthorized aids and assistance ...” Professor Koo’s affidavit noted that the syllabus for
+the course contained a section on academic integrity which advised students of potential
+academic offences including “on tests and exams: Using or possessing any unauthorized
+aid, including a cell phone. Looking at someone else’s answers.”
+19.
+
+The Student’s answers to the three noted questions showed the following:
+i.
+
+Question 6 on the Student’s test used the characters “A” and “F”.
+However, the Student used a “C” where there should have been an
+“A”, and an “A” where there should have been an “F”. The characters
+he used were those appropriate for question 6 on the alternate
+version of the question.
+
+8
+
+ii.
+
+Question 7 on the Student’s test used characters “D” and “J”, but the
+Student’s answer used a “C” where there should have been a “D”
+and a “K” where there should have been a “J”. Again, the Student
+used the letters that were assigned on the alternate version of Test
+4, not those appropriate to his version.
+
+iii.
+
+Question 9 on the Student’s version of Test 4 used the words
+“Dennis” and “leg”. The alternate version of Test 4 used “wrist” and
+“Dario”, which were the terms the Student included in his answer to
+the question.
+
+20.
+
+In her December 2020 meeting with the Student, Professor Cowper referred him
+
+to the specific differences between the two sets of questions, described the differences
+and referred to his answers. Professor Cowper testified that the Student attempted to
+offer explanations for each of these answers including that he had misread question 7
+and that he had based his answer to question 9 on a practice exam. She did not find his
+explanations convincing or satisfactory in light of the evidence provided in Professor
+Koo’s affidavit. Neither do we.
+D.
+
+Decision of the Tribunal
+
+21.
+
+The onus is on the University to establish on the balance of probabilities, using
+
+clear and convincing evidence, that the academic offences charged have been committed
+by the Student.
+22.
+
+Assistant Discipline Counsel advised the Tribunal that were we to find the Student
+
+guilty of Charge 1, they would withdraw Charge 2.
+23.
+
+Charge 1 refers to an offence under section B.I.1(b) of the Code, which reads:
+“It shall be an offence for a student knowingly:
+
+9
+
+(b) to use or possess an unauthorized aid or aids or obtain unauthorized assistance in any
+academic examination or term test or in connection with any other form of academic work”
+
+After retiring to consider the evidence before us, the Tribunal determined that the
+University had established that it was more likely than not that the Student received
+unauthorized assistance during Test 4 from an individual or individuals who were writing
+the alternate version of Test 4. While the method of obtaining the assistance remains
+unknown, it is probable that he was in contact with one or more students by telephone or
+by computer during the exam window. His explanations as noted above were not credible.
+24.
+
+The Tribunal therefore found that the Student is guilty of using an unauthorized aid
+
+or aids during the test and/or obtaining unauthorized assistance to complete the test,
+contrary to section B.I.1(b) of the Code.
+E.
+
+Penalty / Sanction
+
+25.
+
+After advising Assistant Discipline Counsel of our finding on the merits, the matter
+
+continued with a hearing on the appropriate sanction.
+26.
+
+The University requested that the Tribunal order that the Student be awarded a
+
+grade of zero in the course, that he be suspended for three years, and that there be a
+notation on his transcript for four years. The University also requested that this case be
+reported to the Provost for publication of a notice of the decision of the Tribunal and the
+sanction imposed, with the Student’s name withheld.
+27.
+
+The Student’s academic record in the form of a transcript provided to the Panel by
+
+Assistant Discipline Counsel indicated that at the time of the hearing of this matter, the
+Student was under a one-year academic suspension, beginning in December 2021.
+28.
+
+Attached to a second affidavit of Professor Cowper dated December 7, 2021, was
+
+a Discipline Case Report for the Student noting that in April 2019 he had admitted to an
+
+10
+
+offence of using unauthorized assistance on “clicker quizzes” in course AST201H1, worth
+8% of the marks in the course. In that instance the department chair imposed a sanction
+on the Student of a grade of zero on the clicker quizzes.
+29.
+
+Assistant Discipline Counsel for the University referred the Tribunal to a Summary
+
+of Cases in the Book of Authorities, included in her materials on sanction. This summary
+showed a listing of penalties imposed by the University Tribunal in other cases where
+students were found to have used unauthorized aids in an exam and where they had
+previous offences.
+30.
+
+We were asked to consider the factors for determining an appropriate sanction as
+
+set out in what is considered the leading case: University of Toronto v. Mr. C. (Case
+#1976/77-3, November 1976). These are: the character of the person charged, the
+likelihood of a repetition of an offence, the nature of the offence, any extenuating
+circumstances surrounding the commission of the offence, the detriment to the University
+occasioned by the offence and the need to deter others from committing a similar offence.
+31.
+
+We noted that the Student had previously pleaded guilty to the same offence,
+
+indicating he had not learned from that experience. He chose not to plead guilty in this
+case, and provided unbelievable explanations for his behaviour which we found to be
+dishonest. He did not appear at his hearing despite evidence that he was notified of it
+taking place and had been notified of his right to seek assistance in putting forward any
+case on the merits, or arguments on penalty to address any extenuating circumstances
+which might affect our decision. In his absence and on the facts as we know them, we
+had no basis on which to consider a lesser penalty than that requested by the University
+and previously imposed in similar circumstances.
+32.
+
+The Mr. C case and those which follow it each note the importance of the
+
+University as an educational institution and a degree-granting body, and emphasize that
+members of the public must be able to rely on the academic integrity of the University’s
+evaluation processes. Using unauthorized aids is cheating and allowing cheating to go
+
+11
+
+unsanctioned is unfair to the other students who abide by and follow the rules and
+regulations. If not sanctioned, cheating undermines the value of all of the University’s
+degrees.
+33.
+
+The Tribunal deliberated and concluded that, under the circumstances, we concur
+
+with and accept the University’s recommendation on sanctions.
+F.
+
+Conclusion
+
+34.
+
+The Tribunal has found that the Student is guilty of the academic offence of using
+
+an unauthorized aid or aids or obtaining unauthorized assistance in Test 4 in PHL245H1
+contrary to section B.I.1(b) of the Code;
+35.
+
+The Tribunal ordered that the following sanctions be imposed on the Student:
+i.
+
+The Student be given a grade of zero in Course PHL245H1 in Winter 2020;
+and
+
+ii.
+
+The Student be suspended from the University of Toronto for a period of 3
+years from the date of the Tribunal’s order; and
+A notation of the penalty be placed on the Student’s transcript for a period
+
+iii.
+
+of 4 years from the date of the Tribunal’s order.
+36.
+
+The Tribunal also ordered that this case be reported to the Provost for publication
+
+of a notice of this decision and the sanctions imposed, with the name of the Student
+withheld.
+Dated at Toronto this 7th day of March 2022
+
+12
+
+Original signed by:
+
+

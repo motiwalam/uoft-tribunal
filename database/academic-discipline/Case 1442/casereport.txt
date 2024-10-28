@@ -1,0 +1,560 @@
+Case No.: 1429 & 1442
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on October 4, 2022, and October 26, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c.56 as amended S.O.
+1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+– AND –
+B
+
+L &X
+
+Y
+
+REASONS FOR DECISION
+
+Hearing Date: April 28, 2023, via Zoom
+Members of the Panel:
+Dean F. Embry, Chair
+Professor Ian Crandall, Faculty Panel Member
+Brinda Batra, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+B
+L
+X
+Y
+
+I.
+
+CHARGES
+
+1.
+
+The Trial Division of the Tribunal held a hearing on April 28, 2023, to address two sets of charges
+brought by the University of Toronto (the “University”) against B
+
+L (“B.L.”) under the Code of
+
+Behaviour on Academic Matters, 2019 (the “Code”). The first set of charges concerned the course
+ECO2201Y1:
+1.
+
+On or about the following dates, you knowingly obtained and/or provided unauthorized assistance in
+connection with the following term tests in ECO2201Y1, contrary to section B.I.1(b) of the Code:
+
+2.
+
+(a)
+
+December 4, 2020 in connection with Term Test 2; and
+
+(b)
+
+February 26, 2021 in connection with Term Test 3.
+
+In the alternative to Charges #1(a) to (b), respectively, on or about the following dates, you knowingly
+represented as your own an idea or expression of an idea or work of another in connection with the
+following term tests in the Course, contrary to section B.I.1(d) of the Code:
+
+3.
+
+(a)
+
+December 4, 2020 in connection with Term Test 2; and
+
+(b)
+
+February 26, 2021 in connection with Term Test 3.
+
+In the further alternative to Charges #1(a) to (b) and #2(a) to (b), respectively, on or about the following
+dates, you knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the following term tests in the Course, contrary to
+section B.I.3(b) of the Code:
+
+2.
+
+(a)
+
+December 4, 2020 in connection with Term Test 2; and
+
+(b)
+
+February 26, 2021 in connection with Term Test 3.
+
+The second set of charges against B.L. concerned the course MAT133Y1
+1.
+
+On or about April 22 or 23, 2021, you knowingly represented as your own an idea or expression of an
+idea or work of another in the final assessment in MAT133Y1, contrary to section B.I.1(d) of the Code.
+
+2.
+
+In the alternative, on or about April 22 or 23, 2021, you knowingly used or possessed an unauthorized
+aid or aids or obtained unauthorized assistance in connection with the final assessment in MAT133Y1,
+contrary to section B.I.1(b) of the Code.
+
+1
+
+3.
+
+As will be discussed below, at the same April 28, 2023 hearing, The Trial Division of the Tribunal
+held a hearing to address charges brought by the University of Toronto (the “University”) against
+X
+
+Y
+
+(“X.Y.”) under the Code. Those charges were as follows:
+
+1.
+
+On or about April 22 or 23, 2021, you knowingly represented as your own an idea or expression of an
+idea or work of another in the final assessment in MAT133Y1, contrary to section B.I.1(d) of the Code.
+
+2.
+
+In the alternative, on or about April 22 or 23, 2021, you knowingly used or possessed an unauthorized
+aid or aids or obtained unauthorized assistance in connection with the final assessment in MAT133Y1,
+contrary to section B.I.1(b) of the Code.
+
+II.
+
+PRELIMINARY ISSUE: Motion to Hear the Matters Together
+
+4.
+
+As will be discussed in more detail below, each Student received notice of the charges against them
+and notice of the hearing dates in the ordinary course. B.L.’s hearing was scheduled to take place on
+April 28, 2023 at 9:45 a.m. X.Y.’s hearing was scheduled to take place at the same time, though it
+was contemplated that the hearings would run one after the other.
+
+5.
+
+On April 13, 2023, Assistant Discipline Counsel sent both students separate emails containing secure
+links to further disclosure in their matters. Assistant Discipline Counsel also informed both students
+that due to the nature of the supplementary disclosure the Provost intended to bring a motion in
+writing for an order that the merits of the proceedings against B.L. and X.Y. be heard at the same
+time.
+
+6.
+
+Also on April 13, 2023, a motion record regarding this request was forwarded to the Chair of this
+Panel After reviewing the material, the Chair of this Panel advised that the motion would be heard at
+the outset of the hearings on April 28, 2023. This deferral of the decision of the motion was made so
+that the students had a chance to respond to the motion should they wish to, given that the motion
+was only served 15 days before the hearings. Pursuant to this ruling the University’s motion was
+heard at the outset of the hearings on April 28, 2023. At the beginning of the hearing neither of the
+students were in attendance.
+
+Argument of the University to Join the Hearings
+7.
+
+The University submitted that the hearing regarding the two students ought to be joined because the
+sets of charges related to MAT133 class had questions of law or mixed fact and law in common,
+involved the same parties and arose out of the same occurrences. Specifically, it was alleged that both
+students cheated on the same test in the same course by the same means – using answers found posted
+to Chegg – a subscription-based website that allows students to post questions and receive answers.
+The University submitted that given the similarities in the two cases, hearing them together would be
+2
+
+beneficial insofar as it would avoid the need to call identical evidence twice and would avoid
+potentially inconsistent verdicts. It was also submitted that hearing the matters back to back could be
+prejudicial to at least one of the students insofar as it would be difficult for the Panel to approach the
+evidence in the second hearing objectively having already made a decision with respect that that exact
+same evidence in relation to the first hearing.
+8.
+
+Initially the Panel had concerns with hearing the matters together. Specifically, the Panel questioned
+whether, despite the factual similarities, it was appropriate to hear the matters together absent some
+allegation that the students had worked in concert. By way of analogy, the Panel noted that if two
+individuals were alleged to have shoplifted from the same store on the same day in the same manner
+although there would no doubt be overlapping evidence in the respective matters, it would be
+inappropriate to hear them together. Further, the matters were to be heard one after the other and
+therefore there was a danger that the student for the “second” hearing could arrive only after the
+motion had been heard and decided and the unified hearing was underway.
+
+9.
+
+Although the University’s initial position was that they did not need to prove corroboration between
+the students to support findings of guilt, they ultimately advised that their position was that the
+students had colluded.
+
+FINDINGS OF THE PANEL
+10.
+
+Considering all of the above factors, the Panel ruled that it was appropriate to hear these matters
+together. This finding was based on the following:
+
+11.
+
+As noted above, the Panel understood that it was the University’s position that the students had, in
+fact, collaborated.
+
+12.
+
+As it related to course MAT133, the evidence for the two hearings would be virtually identical.
+
+13.
+
+The Panel accepted that hearing the matters back to back could result in prejudice to the student in
+the second hearing. In this way, hearing the matters together was in the student’s best interest.
+
+14.
+
+In addition to the above, the Panel advised the University that although the matters would be heard
+together, in the event that one or both of the students appeared at any point this issue would have to
+be revisited and, in all likelihood, the hearing(s) would have to be scrapped and restarted.
+
+15.
+
+As it turned out, neither student appeared at any time.
+
+SECOND PRELIMINARY ISSUE: Proceeding in the Absence of the Students
+16.
+
+The absence of the students gave rise to this second preliminary issue.
+3
+
+17.
+
+The Students were neither present nor represented. The University filed evidence that the Students
+were served with the charges by email at the email addresses provided by the Students to the
+University of Toronto in ROSI. Specifically, B.L. was served on October 4, 2022, in relation to the
+charges regarding course ECO2201Y1. Both B.L. and X.Y. were served on October 26, 2023 in
+relation to their respective charges related to course MAT133Y1.
+
+18.
+
+Further, the University filed evidence that on February 21, 2023, both students were served with the
+Notice of Electronic Hearing, again via the email address provided in ROSI. On March 13, 2023, and
+March 31, 2023, both students were served Revised Notices of Hearings that updated the faculty and
+student member who would be on the Panel.
+
+19.
+
+Given the above, the Panel found that the Students were provided with reasonable notice and proper
+service as contemplated by rules 17 and 21 of the University Tribunal’s Rules of Practice and
+Procedure (the “Rules”). As such, the hearing proceeded in the absence of the students.
+
+III.
+
+SUMMARY OF FACTS/PARTICULARS
+
+20.
+
+We will deal first with the allegations arising out of the MAT133 course that concern both students.
+
+21.
+
+The Panel received affidavit evidence from Assistant Professor Cindy Blois.
+
+22.
+
+At all material times both B.L. and X.Y. were enrolled in MAT133. The allegations against the
+students related to the final assessment, which was worth 10% of their final grade in the course. On
+April 13, 2021, information and a study guide in relation to the final assessment was posted to the
+course website. The guide stated that students were not allowed to use any resources other than the
+course resources, calculators, notes, textbooks or online learning videos. The guide also stated that
+students were not allowed to communicate with one another, get outside help or, importantly, use
+Chegg.
+
+23.
+
+The final assessment was administered online for a 24-hour period starting at 9:00 a.m., on April 22,
+2021. During that period Professor Blois discovered that an answer to question 4 from the assessment
+had been posted to Chegg.
+
+24.
+
+Both B.L. and X.Y. submitted their final assignments in the morning of April 23, 2021. An
+examination of their final assignments revealed numerous similarities between their answers and the
+answer posted to Chegg. Importantly, these similarities included notations that had never been taught
+in the course and identical mistakes – some of which led to the same nonsensical answers.
+4
+
+25.
+
+The similarities between the answers of the students and the answer found on Chegg were outlined
+in a chart and following explanations on pages 7-10 of Professor Blois’ affidavit. Of the many telling
+similarities the following are perhaps the most striking:
+
+26.
+
+Both students and Chegg made use of notations in which the variables x and y appear to have “hats”.
+This form of notation was never taught by Professor Blois or any other instructor in the course.
+
+27.
+
+In answering the questions, the answers found on Chegg switched from using decimals to whole
+numbers seemingly at random from one question to the next. Both B.L. and X.Y. made the same
+change at the same spot.
+
+28.
+
+In answering question 4(b)(iii), the answer on Chegg and both students made an error by switching
+the x and y variable. All three answers made the exact same mistake in exactly the same way.
+
+29.
+
+In question 4(c), X.Y., B.L. and Chegg all referenced the, untrue, idea that the “slope increases at the
+highest rate”. B.L. appears to have altered this wording slightly but by doing so he produced a
+nonsensical sentence.
+
+30.
+
+In addition to the above, Professor Blois outlined further similarities between B.L. and X.Y.’s
+answers. These similarities are outlined in pages 13-21 of her affidavit. Broadly speaking, there were
+multiple striking similarities between various answers in circumstances where students had multiple
+ways to solve problems and express their answers.
+
+IV.
+
+ARGUMENT OF THE UNIVERSITY
+
+31.
+
+The similarities in answers, the University argues, proves that X.Y. and B.L. used the answer found
+on Chegg to come to their answers. Further, the University argues, the similarities in the answers of
+X.Y. and B.L. tend to show that they collaborated on their answers.
+
+FINDINGS OF THE PANEL
+32.
+
+The Panel agrees that similarities between the answers of the students and those found on Chegg
+show, on a balance of probabilities, that the students copied the answers found on Chegg.
+
+33.
+
+There is no evidence that either student posted the questions to Chegg. Indeed, apparently there were
+20 some students whose answers were similar to those found on Chegg and so it is unknown who
+posted the questions. What is clear is that B.L. and X.Y. used the answers found there.
+
+5
+
+34.
+
+While there is compelling evidence that B.L. and X.Y. collaborated with one another in coming to
+their answers there is no need to decide that specific issue given the above finding.
+
+35.
+
+Given the above, the Panel finds each student guilty of one count of using unauthorized assistance,
+contrary to B.I.1(b) of the Code in relation to the final assessment in MAT133.
+
+36.
+
+We turn now to the charges arising out of the ECO2201Y1. The following discussion of offences
+related to the course ECO2201Y1 only concerns B.L. and has no relation whatsoever to X.Y.
+
+37.
+
+The Panel received affidavit evidence from Professor Jennifer Murdock. The following is outlined in
+that affidavit.
+
+38.
+
+In the Fall 2020 and Winter 2021 B.L. enrolled in ECO2201Y1.
+
+39.
+
+Students in this course were required to write four term tests. Each test contained six open-ended
+questions. These questions could be answered in a number of ways but required a combination of
+writing, graphing and/or quantitative analysis. Eight different versions of the tests were created to
+deter cheating. The differences were minor, and students were given the various versions at random.
+
+40.
+
+The syllabus made it clear that students were prohibited from collaborating on term tests.
+
+41.
+
+Term test #2 was administered online on December 4, 2020. Term test #3 was administered on
+February 26, 2021.
+
+42.
+
+On March 3, 2021, a teaching assistant raised concerns that students had been collaborating on their
+term tests given the highly similar answers given by various students. With regard to B.L. specifically,
+his answers on terms test #2 had profound similarities to answers given by another student (Y.D.).
+Further, his answers on terms test #3 had profound similarities to the answers given by another student
+(B.C.).
+
+43.
+
+The similarities in the answers on the term tests are laid out in pages 4-14 of the Professor’s affidavit.
+Although the students with whom his answers shared similarities differed, the similarities found in
+his term test answers as compared to other students were the same. Large portions of the answers are
+word for word the same as another student with the only differences being the values that changed
+due to the different versions of the tests handed out. Other minor differences, such as an instance of
+“did not” being replaced by “didn’t” make no difference to the substance of the answers.
+
+6
+
+V.
+
+ARGUMENT OF THE UNIVERSITY
+
+44.
+
+The similarities in answers to the term tests, the University argues, shows that B.L. collaborated on
+the term tests – collaborating first with Y.D. on term test 2 and then with B.C. on term test 3. Some
+similarities are several paragraphs of virtually word for word answers. In other places, where the
+similarities are not word for word the structure and syntax of the answers are strikingly similar.
+
+FINDINGS OF THE PANEL
+45.
+
+The Panel agrees that similarities between the answers of B.L. and the other students on term test 2
+and 3 defies coincidence and demonstrates that B.L. collaborated with other students in producing
+his answers on term test 2 and 3.
+
+46.
+
+Given the above, the Panel finds B.L. guilty of two additional counts of using unauthorized assistance,
+contrary to B.I.1(b) of the Code in relation to term tests 2 and 3 in ECO2201Y1.
+
+VI.
+
+SANCTIONS
+
+47.
+
+In relation to B.L. the University submitted that an appropriate sanction was a mark of zero in both
+courses, a four-year suspension and a five-year notation of the sanctions. In relation to X.Y. the
+University submitted that an appropriate sanction was a mark of zero in the course, a three-year
+suspension and a four-year notation of the sanctions. The University provided thorough and helpful
+authorities of similar cases to justify the requested sanctions and asked the Panel to consider the
+nature of the offence as well as the character of the students.
+
+48.
+
+Some of the factors in determining the appropriate sanction to apply to both students in this matter,
+for example, the nature of the offence is the same for both students. Using unauthorized aids in the
+completion of tests and assessments is a serious offence that strikes at the very core of the academic
+process, especially as more and more evaluations are conducted online.
+
+49.
+
+Further, the offences related to MAT133 had some commercial aspect insofar as the answers provided
+by the students clearly drew on answers posted to Chegg – a subscription-based, commercial website.
+Although there is no evidence that either of the students in the present case were themselves
+subscribers to Chegg, reliance on that website encourages its existence and is a minor aggravating
+factor.
+
+7
+
+50.
+
+It must also be noted that neither student attended the hearing. Although this is not an aggravating
+factor, the students’ non-attendance leaves the Panel without any evidence of remorse or mitigating
+factors that may reduce the appropriate sanction.
+
+51.
+
+The final factor, which differs as between the students, is the number of offences and the presence of
+prior findings of guilt.
+
+52.
+
+B.L. has been found guilt of three counts that span two courses. Two of the offences in relation to the
+same course took place over two sequential tests. Further, B.L. has previously been found guilty of
+using an unauthorized aid in the 2019-2020 academic year. B.L. admitted this offence and was
+sanctioned and then went on to commit the present offences. This is strong evidence of a real risk of
+future re-offence.
+
+53.
+
+X.Y. has no “true” prior findings of guilt. Although X.Y. was found guilty of an academic offence
+on October 5, 2021, for an offence that they were charged with in January 2021, this finding of guilt
+post dates the offence committed in the present case. As such, it ought not be used as an aggravating
+factor. However, there is evidence that X.Y. was warned and on notice in relation to their conduct in
+relation to the prior offence when the current offence was committed. The fact that X.Y. was aware
+their conduct was under review at the time they committed this offence is some evidence that supports
+a finding that there is a risk of reoffence.
+
+54.
+
+Given the nature of the offence, the history of the students and the absence of any mitigating factors
+we find that the sanctions proposed by the University are appropriate.
+
+VII. ORDER OF THE PANEL
+55.
+
+At the conclusion of the hearing, the Panel conferred and made the following orders:
+
+56.
+
+In relation to B.L.:
+1.
+
+THAT the hearing may proceed in the absence of the Student;
+
+2.
+
+THAT the Student is guilty of three counts of unauthorized assistance, contrary to B.I.1(b) of
+the Code;
+
+3.
+
+THAT the following sanctions shall be imposed on the Student:
+(a)
+
+a final grade of zero in ECO220 in Fall 2020 and Winter 2021;
+
+(b)
+
+a final grade of zero in MAT133 in Fall 2020 and Winter 2021;
+8
+
+(c)
+
+a suspension from the University for a period of 4 years from the date of this order;
+and
+
+(d)
+
+a notation of the sanction on the student’s academic record and transcript for a period
+of 5 years from the date of this order; and
+
+4. This case shall be reported to the Provost for publication of a notice of the decision of the Tribunal
+and the sanctions imposed, with the name of the student withheld.
+In relation to X.Y.:
+1. THAT the hearing may proceed in the absence of the Student
+2. THAT the Student is guilty of one count of unauthorized assistance, contrary to B.I.1(b) of the
+Code;
+3. THAT the following sanctions shall be imposed on the Student:
+(a)
+
+a final grade of zero in MAT133 in Fall 2020 and Winter 2021;
+
+(b)
+
+a suspension from the University for a period of 3 years from September 1, 2021 to
+August 31, 2024; and
+
+(c)
+
+a notation of the sanction on the student’s academic record and transcript for a period
+of 4 years from September 1, 2021 to August 31, 2025; and
+
+4. THAT this case shall be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanctions imposed, with the name of the student withheld.
+
+DATED at Toronto on this 3rd day of November 2023
+Original signed by:____________
+Dean Embry, Chair
+Oh behalf of the Panel
+
+9
+
+

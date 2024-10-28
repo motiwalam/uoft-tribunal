@@ -1,0 +1,548 @@
+Case No.: 1048
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 22, 2019
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O.
+1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+- and L
+
+Y
+
+T
+
+L
+
+AMENDED REASONS FOR DECISION
+
+Hearing Dates: December 7, 2021, via Zoom
+Members of the Panel:
+Mr. Simon Clements, Chair
+Dr. Chris Koenig-Woodyard, Faculty Panel Member
+Ms. Julie Farmer, Student Panel Member
+Appearances:
+Ms. Tina Lie, Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeals, Discipline & Faculty Grievances
+Not in Attendance:
+Ms. L
+Y T
+L
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on December 7, 2021 to consider the
+
+charges brought by the University of Toronto (the “University”) against Ms. L
+
+Y
+
+T
+
+L
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”). It is alleged
+that the Student altered an examination answer booklet contrary to section B.i.1(a) of the Code.
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 1:45 pm on December 7, 2021. At that time, Assistant
+
+Discipline Counsel advised that neither the Student nor a representative of the Student had responded
+to the Notice of Electronic Hearing.
+3.
+
+When the Student had not joined the hearing via the Zoom video conferencing platform
+
+(“Zoom”) at 1:45 pm Assistant Discipline Counsel made submissions on proceeding with the hearing
+in the absence of the Student. She advised on October 22, 2019, the charges were served on the Student
+by email to the email address of the Student which was the email address the Student had provided to
+the University in the University of Toronto Repository of Student Information (“ROSI”).
+4.
+
+On September 27, 2021 Samanthe Huang of the office of Appeals Discipline and Faculty
+
+Grievances served the Student with the Notice of Electronic Hearing for a hearing on Tuesday,
+December 7, 2021 at 1:45 pm via Zoom. Ms. Huang provided the Student with the log in coordinates
+to access Zoom.
+5.
+
+On November 16, 2021 Ms. Huang served a Revised Notice of Electronic Hearing which
+
+changed the faculty member of the Tribunal. There were no changes to the date or time of the hearing
+nor to the hearing being conducted over Zoom.
+6.
+
+On December 1, 2021 Ms. Huang served the Student with a further Revised Notice of
+
+Electronic Hearing advising of a change to the Chair of the Tribunal. Once again, there were no changes
+to the date or time of the hearing or that it would take place over Zoom. All of the emails to the Student
+were sent to the email address that the Student had provided in ROSI. In her Affidavit of Service, Ms.
+Huang indicated that she did not receive a bounce back message indicating that her emails had not
+
+3
+
+been received. As of December 3, 2021, the date of Affidavit of Service was affirmed, Ms. Huang had
+not received response from the Student to any of her correspondence.
+7.
+
+The University filed the Affidavit of Kimberly Blake affirmed on December 3, 2021. In her
+
+affidavit Ms. Blake indicates that on November 22 and November 24, 2021 she tried calling the Student
+at the telephone number which the Student had provided in ROSI. Each time the telephone rang a few
+times and then automated message said that person she was calling had a voicemail box that has not
+been set up. There was no opportunity to leave a voicemail message.
+8.
+
+On November 22, 2021 Ms. Blake arranged to have a courier deliver a package at mailing
+
+address that the Student provided in ROSI. The package contained the Notice of Electronic Hearing
+and the charges in this matter, together with the zoom login details. The courier confirmed that this
+package was delivered successfully on November 25, 2021.
+9.
+
+The University submitted the Affidavit of Mr. Andrew Wagg on November 23, 2021. Mr.
+
+Wagg is an Incident Report Architect in Information Security Information Technology Services at the
+University of Toronto. Information Technology Services manages the email accounts used by students.
+On November 23, 2021, Mr. Wagg was able to determine that the last time someone accessed the email
+account of the Student was on November 21, 2021.
+10.
+
+Section 6 of the Statutory Powers and Procedures Act (the “Act”) states that the parties to a
+
+proceeding shall be given reasonable notice of the hearing by the tribunal. Section 7(3) states that
+where reasonable notice of the hearing has been given to a party to a proceeding in accordance with
+the Act and the party does not participate in accordance with the notice, the tribunal may proceed
+without the party’s participation and the party is not entitled to any further notice in the proceeding.
+11.
+
+Rule 9 of the Rules of Practice and Procedure of the University Tribunal states that the charges,
+
+notices of hearing, and disclosure maybe served on student by email or by courier. Rule 17 mirrors the
+provision in section 7(3) of the Act. Where notice of an electronic hearing has been given to the Student
+in accordance with the Rules and the Student does not attend hearing, the Tribunal may proceed in the
+absence of Student.
+
+4
+
+12.
+
+The University requested that the Tribunal proceed with this hearing in the absence of the
+
+Student.
+13.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means, including
+
+by sending a copy of the document by courier to the student’s mailing address in ROSI or by emailing
+a copy of the document to the student’s email address in ROSI.
+14.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account on ROSI.
+Students are expected to monitor and retrieve all mail, including emails, on a frequent and consistent
+basis.
+15.
+
+The onus of proof is on the University to demonstrate that it provided a student with reasonable
+
+notice of the hearing.
+16.
+
+In this case, the University provided reasonable notice to the Student. The Student provided
+
+the University with her mailing address, email address, and phone number effective January 7, 2015.
+In 2019 and 2020 the Student was contacted at the email address she had provided to the University
+regarding scheduling of the hearing in respect of the academic discipline charges. There was
+correspondence between the Student and Assistant Discipline Counsel in respect to the Student
+obtaining legal representation. In 2019 and 2020 the Student responded to emails which had been sent
+to the address on record. The last correspondence to Assistant Discipline Counsel was dated May 13,
+2020 at which time the Student stated that she was still looking for a lawyer to assist her with this
+matter, but the pandemic was making it difficult to look for a lawyer.
+17.
+
+The Notice of Electronic Hearing had been served on the Student by email on September 27,
+
+2021 and again on November 16, 2021 when there was a change in panel members. The Notice of
+Electronic Hearing was also served by courier and the package was picked up on November 25, 2021
+by an individual with the same first name as the Student. Finally, the Student last logged into her email
+account on November 23, 2021 at which time she would have been able to read the Notice of Electronic
+Hearing which had been served on September 27 and November 16, 2021.
+
+5
+
+18.
+
+For these reasons the Tribunal finds that reasonable notice has been given to the Student by
+
+two valid means of service, and the Student has failed to attend the hearing via Zoom. The Tribunal
+therefore determined it would proceed to hear the case on its merits in the absence of the Student, and
+the hearing proceeded on the basis that the Student was deemed to deny the charges made against her.
+B.
+
+The Charge and Particulars
+
+19.
+
+The Charges and Particulars were detailed in a letter dated October 22, 2019 and are set out
+
+below:
+i.
+
+On or about December 14, 2018, you knowingly personated “Ivy Jiang” at a final
+exam in CSC108H1F, contrary to section B.i.1(c) of the Code.
+
+ii.
+
+On or about December 14, 2018, you knowingly forged or in any other way altered
+or falsified your final exam in CSC108H1F, which was a document or evidence
+required by the University, or you knowingly uttered, circulated or made use of that
+forged, altered or falsified document, contrary to section B.i.1(a) of the Code.
+
+iii.
+
+In the alternative to charges 1 and 2, on or about December 14, 2018, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with a final exam in
+CSC108H1F, contrary to section B.i.3(b) of the Code.
+
+Particulars
+(a)
+
+At all material times, you were a registered student at the University of Toronto,
+Faculty of Arts and Science.
+
+(b)
+
+In the Fall 2018 academic term, you were enrolled in CSC108H1F.
+
+(c)
+
+Students in CSC108H1F were required to write a final exam which was worth 50%
+of the final grade in the course.
+
+(d)
+
+On December 14, 2018, you attended to write the final exam in CSC108H1F.
+
+6
+
+20.
+
+(e)
+
+Prior to submitting your final exam, you knowingly wrote the name “Ivy Jiang” and
+the student number “1003 416 423” on the front cover of your exam booklet, which
+were a fictitious name and student number.
+
+(f)
+
+You added this false information to your final exam to make it appear as if your final
+exam had been written by someone else, and your completed final exam had been
+misplaced by the University.
+
+(g)
+
+You knowingly circulated and made use of the false information contained in your final
+exam intending that the University would rely on it and for the purpose of obtaining an
+academic advantage, namely, an exam deferral.
+
+Assistant Discipline Counsel advised the Tribunal that the University is proceeding on charge
+
+2 and will withdraw charges 1 and 3.
+C.
+
+The Evidence
+
+21.
+
+The University filed the Affidavit evidence of Professor Jennifer Campbell affirmed on
+
+November 26, 2021. Professor Campbell is a Professor in the Department of Computer Science and
+was the course coordinator for course CSC 108H1F (the “Course”). In her Affidavit Professor
+Campbell explained that in each of the examination rooms, invigilators were required to count the
+number of exam booklets that they collect and cross-reference that number against the number of
+students in the room and the number of students who had signed in when attendance was taken.
+Invigilators were required to perform this count several times. If there were any discrepancies,
+invigilators were required to inform Professor Campbell who stated that she did not receive any such
+reports.
+22.
+
+When all the examinations had been reviewed, Professor Campbell found one completed
+
+examination booklet with identifying information that did not match any student enrolled in the Course
+or at the University. This examination booklet was marked with the name “Ivy Jiang” and with the
+student number “1003 416 423” (the “Jiang Exam”).
+23.
+
+The Jiang Exam received a mark of 6.5 out of 70.
+
+24.
+
+On December 17, 2018, Professor Smith who is an Associate Professor who assisted Professor
+
+Campbell, emailed the Computer Science Undergraduate Office to request that they look up the student
+
+7
+
+name and the student number on the Jiang Exam. The Undergraduate Office could not find any student
+with the student number “1003 416 423”, or any student with the name “Ivy Jiang”. Professor Smith
+also requested that the Undergraduate Office search the student number “1005 416 423” because there
+was some ambiguity as to whether the first handwritten “3” on the Jiang Exam was a “3” or a “5”. The
+Undergraduate Office confirmed that there was no student with the student number “1005 416 423”.
+25.
+
+Professor Smith and Professor Campbell also reviewed the exam sign-in sheets and the class
+
+list for the Course, but there was no student with the name “Ivy Jiang” or the student numbers “1003
+416 423” or “1005 416 423”. Professor Smith and Professor Campbell cross-referenced the number of
+examination booklets that they had in their possession with the counts that the invigilators had
+performed on the date of the exam, and they found that there were no discrepancies.
+26.
+
+There was only one student in the Course who signed in as present for the exam, but who did
+
+not submit a completed examination booklet—the Student.
+27.
+
+The Student signed in as present for the exam at the BN-3 location.
+
+28.
+
+Professor Campbell states that when she reviewed the Jiang Exam, she noticed that the
+
+identifying information on the Jiang Exam appeared as though it had been erased and re-written.
+Professor Campbell also noticed that the student number on the Jiang Exam (1003 416 423) contained
+some of the same numbers in the same location as the Student’s student number.
+29.
+
+The University filed the Affidavit of Arin Minasian affirmed on November 27, 2021. Mr.
+
+Minasian was one of the invigilators in the examination room where the Student wrote the exam. To
+take attendance, Mr. Minasian explained that he and another invigilator walk from student to student.
+Each student was required to provide their student card to either Mr. Minasian or to the other
+invigilator. They then located the student’s name on the sign-in sheet and watched the student write
+their signature next to their name. Mr. Minasian attached the sign in sheet as an exhibit to his Affidavit
+which shows that the Student signed the sign in sheet next to her name.
+30.
+
+As a result of the anomaly arising from the Student having signed in as being present at the
+
+exam, but no examination booklet with her name on it being located, and there being an examination
+
+8
+
+booklet with the name of Ivy Jiang on it who is not a student at the University, the University asked
+the Student to attend a meeting to provide an explanation for what occurred during the exam. The
+University filed the Affidavit of Christina Di Matteo affirmed November 30, 2021 who is a University
+administrator who was present at this meeting and made notes. Ms. Di Matteo stated that on July 3,
+2019, the Student met with Professor William Ju, Dean's Designate for Academic Integrity, to discuss
+the allegation of academic misconduct with respect to her exam. During the meeting, the Student stated
+that she attended the exam, signed in as present, wrote the exam, and handed in her examination booklet
+to an invigilator.
+31.
+
+Professor Ju explained that the Course instructor could not locate a completed examination
+
+booklet in her name. However, the Course instructor found one completed examination booklet with
+identifying information that did not match any student enrolled in the Course or at the University.
+Professor Ju showed the Student the Jiang Exam, which was marked with the name “Ivy Jiang” and
+with the student number “1003 416 423”. Professor Ju pointed out several oddities with the Jiang
+Exam, including the fact that it appeared as though the identifying information on the Jiang Exam had
+been erased and re-written.
+32.
+
+The Student denied that the Jiang Exam was her exam. She claimed that she did not know what
+
+had happened to her exam. She explained that she would not submit an exam with a different name
+and student number because it would not benefit her. Professor Ju suggested to the Student that she
+might benefit from handing in an exam with a different name and student number if she believed that
+she would receive a poor grade on the exam. The Student continued to deny that the Jiang Exam was
+her exam.
+33.
+
+Finally, Ms. Diane Kruger was called to give evidence. Ms. Kruger was affirmed and her
+
+updated C.V. was marked as Exhibit 4. Ms. Kruger is a Forensic Document Examiner. She completed
+her training in 1985. She is a member of the Canadian Society of Forensic Science, the American
+Society of Questioned Document Examiners, and the American Academy of Forensic Sciences. The
+bulk of her work is on identifying signatures and handwriting. Her work includes the issue of the
+authorship of a document and recovering information from a document. Ms. Kruger has published in
+this field and has testified 83 times in Court and before tribunals.
+
+9
+
+34.
+
+Ms. Kruger was tendered as an expert qualified to provide evidence on forensic document
+
+examination. The Tribunal accepted Ms. Kruger as an expert and Assistant Discipline Counsel
+proceeded with her examination.
+35.
+
+The original examination booklet (aka the Jiang Exam) that is the subject matter of this
+
+proceeding was marked as Exhibit 5. Ms. Kruger personally examined Exhibit 5 and subjected it to
+various non-destructive tests. Ms. Kruger testified that a name, student ID, and student number which
+had originally been written on the cover of Exhibit 5 had been erased and replaced. The front cover of
+Exhibit 5 bears the Student Name “Ivy Jiang” the ID “jiangiv6” and the Student Number 1003416423.
+Ms. Kruger testified that she was not provided with the name of the student who had submitted Exhibit
+5.
+36.
+
+Ms. Kruger testified that she tried to recover the erased writing by visual inspection under
+
+various light sources and by microscopic inspection. However, because the erasures were so thorough,
+she was not able to recover the erased writing. What erased writing could be discerned was very faint
+and fragmented. All fields on the cover of Exhibit 5 had erased writing. In the field for family name,
+Ms. Kruger believed that an upper case “L” and a lower case “y” appeared to have been erased. In the
+first name field, it appeared that the lower-case letters “ssa” had been erased and there was no new
+writing on top of where these letters had been.
+D.
+
+Decision of the Tribunal
+
+37.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+
+convincing evidence, that the academic offence charged has been committed by the Student.
+38.
+
+The Student was charged with an offence under Section B.I.1(a) of the Code, which reads:
+It shall be an offence for a […] student […] knowingly: to forge or in any other way alter
+or falsify any academic record, or to utter, circulate or make use of any such forged,
+altered or falsified record, whether the record be in print or electronic form.
+
+39.
+
+The submission of Assistant Discipline Counsel is that the evidence shows on a balance of
+
+probabilities that the Student attended the examination, wrote her name on the examination booklet
+
+10
+
+(Exhibit 5), and during the course of the examination erased her name and wrote on Exhibit 5 the name
+and student number of a fictitious person – Ivy Jiang. The Student had signed in to the examination
+room and the evidence of the invigilators is that the number of examination booklets match the number
+of students who were in the room. The Student in question is the only student who signed in as being
+present who’s examination booklet was unaccounted for. There is no doubt that there is writing on this
+examination booklet that has been erased. The fact that the letters “ssa” were visible on the examination
+booklet means that it is more likely than not that the Student’s first name had been written on Exhibit
+5 before it had been erased. This alteration of the examination booklet represents forgery or
+falsification of a document required by the University contrary to Section B.I.1(a) of the Code.
+40.
+
+The Tribunal finds that there is no other reasonable explanation for the Student being present
+
+at the exam, but there is no examination booklet with her name on it. The only reasonable explanation
+is that when the Student realized she was going to fail this exam, she erased her name and student
+number and replaced them with the name and student number of the fictitious Ivy Jiang. The Student
+is guilty of forging or in any other way altering or falsifying an academic record, and/or uttering,
+circulating or making use of such forged, altered or falsified record, contrary to section B.I.1(a) of the
+Code.
+E.
+
+Penalty
+
+41.
+
+The matter continued with a hearing on the appropriate sanction. The University requested that
+
+the Tribunal make an order that the Student be given a mark of zero in the course, a suspension from
+the University for two years and a notation on her transcript for 3 years.
+42.
+
+Appendix “C” to the Code provides guidance to students on sanctions. Where a finding of guilt
+
+has been made contrary to the Code, where there have been no prior offences a student should expect
+to receive a zero in the course, a 2 year suspension and a 3 year notation. The University filed several
+authorities dealing with similar offences involving the falsification of documents. The most relevant
+of these authorities was the case of the University and S.N. (Case No. 710, October 1, 2014). The
+student in that case falsified a Scantron sheet which is the equivalent to an examination booklet
+containing the student’s answers, by removing his name from the Scantron sheet to claim that he had
+not written the examination. In the University of Toronto and S.N. the student had no prior offences.
+
+11
+
+A sanction of a zero in the course, a 2 year suspension and a 3 year notation was made. There are no
+exceptional circumstances that would warrant deviating from that sanction in this case.
+43.
+
+In addition, Assistant Discipline Counsel reviewed the Mr. C factors, University of Toronto v.
+
+Mr. C. (Case No. 1976/77-3, November 5, 1976) and applied them to the present case in relation to the
+proposed sanction. Here, the Student initially participated in the discipline process, at least to the extent
+of exchanging e-mails with Assistant Discipline Counsel in 2019 and 2020 but stopped communicating
+with Assistant Discipline Counsel in May 2020 and did not attend the hearing. Regarding character,
+there is no evidence of remorse, nor any evidence that she will not reoffend. There is no evidence of
+extenuating circumstances. In the Dean’s meeting when confronted with all the evidence, the Student
+continued to deny that she had written the name Ivy Jiang on her examination booklet. Because of the
+Student’s failure to attend the hearing, the Tribunal has been provided with no comfort that the Student
+has reflected or reassessed her behaviour, or has insight into her conduct.
+44.
+
+Regarding the nature of the offence, Assistant Discipline Counsel submitted that the forgery or
+
+falsification of an academic record is an offence of the utmost seriousness because such falsification
+both undermines the credibility of the University and of other students who have legitimately earned
+their degrees. The Tribunal agrees with this submission. It was evident from the evidence of Professor
+Campbell and Mr. Minasian, that those invigilating and marking the exam went to great lengths to
+protect the integrity of the examination process.
+45.
+
+Finally, there is a need for general deterrence of this conduct.
+
+F.
+
+Conclusion
+
+46.
+
+The Tribunal finds that the Student is guilty of the academic offence of altering or falsifying
+
+an academic record, and/or uttering, circulating or making use of such forged, altered or falsified
+record, contrary to section B.I.1.(a) of the Code.
+47.
+
+The Tribunal orders that the following sanctions be imposed on the Student:
+1. the hearing may proceed in the Student’s absence without further notice to her;
+
+12
+
+2. the Student is guilty of one count of knowingly forging or in any other way altering or
+falsifying a document or evidence required by the University, or uttering, circulating or
+making use of such forged, altered or falsified document, contrary to section B.I.1.(a)
+of the Code;
+3. the following sanctions shall be imposed on the Student:
+a. a final grade of zero in the course CSC108H1F in Fall 2018;
+b. a suspension from the University of Toronto from the date of this order for a
+period of 2 years, ending on December 6, 2023; and
+c. a notation of the sanction on their academic record and transcript from the date
+of this order for a period of 3 years, ending on December 6, 2024; and
+48.
+
+The Tribunal also orders that the case be reported to the Provost for publication of a notice of
+
+this decision and the sanctions imposed, with the name of the Student withheld.
+Dated at Toronto this 8th day of March 2022
+
+Original signed by:
+_______________________________________________
+Mr. Simon Clements, Chair
+On behalf of the Panel
+
+

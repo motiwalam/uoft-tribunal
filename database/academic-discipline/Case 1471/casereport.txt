@@ -1,0 +1,921 @@
+Case No. 1471
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct made on March 2, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and A
+
+L
+
+REASONS FOR DECISION
+
+Hearing Date: June 16, 2023, via Zoom
+Members of the Panel:
+Alexi Wood, Chair
+Professor Alex Koo, Faculty Panel Member
+Garrick Burron, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Sanghyun Park, Summer Student, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Coordinator & Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+A
+L
+
+2
+A.
+
+OVERVIEW
+
+1.
+
+On June 16, 2023, a Panel of the University Tribunal convened by videoconference to hear
+
+the University of Toronto’s (the “University”) allegations that A
+
+L (the “Student”) violated
+
+any or all of sections B.I.1(d), B.I.1(b), and B.I.3(b) Code of Behaviour on Academic Matters,
+2019 (the “Code”).
+2.
+
+The Student did not attend the hearing. The Panel found that the Student had reasonable
+
+notice of the hearing and the charges pursuant to the Statutory Powers Procedure Act (the
+“SPPA”)1 and The University Tribunal’s Rules of Practice and Procedure (the “Rules”). The
+hearing proceeded in the Student’s absence.
+3.
+
+At the conclusion of the hearing, the Panel found that the Student was guilty of two counts
+
+of unauthorized assistance, contrary to B.I.1(b) of the Code.
+4.
+
+The Panel made the Order outlined below with reasons to follow. These are the reasons.
+
+B.
+
+THE CHARGES
+
+5.
+
+By letter dated March 2, 2023, the University outlined the charges against the Student as
+
+follows:
+The CSCA67H3 Charges
+a.
+
+On or about December 10, 2020, the Student used or possessed an unauthorized aid or aids
+or obtained or provided unauthorized assistance in connection with the final exam in
+CSCA67H3, contrary to section B.I.1(b) of the Code.
+
+1
+
+RSO 1990, c S.22
+
+3
+b.
+
+In the alternative, on or about December 10, 2020, the Student represented as her own an
+idea or expression of an idea or work of another in the final exam in CSCA67H3, contrary
+to section B.I.1(d) of the Code.
+
+c.
+
+In the alternative, on or about December 10, 2020, the Student engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with the final exam in CSCA67H3, contrary to section B.I.3(b) of
+the Code.
+
+The MATA30H3 Charges
+d.
+
+On or about December 14, 2020, the Student knowingly used or possessed an unauthorized
+aid or aids or obtained or provided unauthorized assistance in connection with the final
+exam in MATA30H3, contrary to section B.I.1(b) of the Code.
+
+e.
+
+In the alternative, on or about December 14, 2020, the Student knowingly represented as
+her own an idea or expression of an idea or work of another in the final exam in
+MATA30H3, contrary to section B.I.1(d) of the Code.
+
+f.
+
+On or about December 14, 2020, the Student knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in
+connection with the final exam in MATA30H3, contrary to section B.I.3(b) of the Code.
+
+The MGEB05H3 Charges
+g.
+
+On or about February 12, 2021, the Student knowingly used or possessed an unauthorized
+aid or aids or obtained or provided unauthorized assistance in connection with Assignment
+1 in MGEB05H3, contrary to section B.I.1(b) of the Code.
+
+h.
+
+In the alternative, on or about February 12, 2021, the Student knowingly represented as her
+own an idea or expression of an idea or work of another in Assignment 1 in MGEB05H3,
+contrary to section B.I.1(d) of the Code.
+
+i.
+
+In the alternative, on or about February 12, 2021, the Student knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+
+4
+any kind in connection with Assignment 1 in MGEB05H3, contrary to section B.I.3(b) of
+the Code.
+(Collectively, the “Charges”)
+
+6.
+
+The Particulars of the Charges are as follows.
+a.
+
+The Student was a student at the University of Toronto Scarborough at all material times.
+
+MGEB05H3: Discrete Mathematics
+b.
+
+In Fall 2020, the Student enrolled in CSCA67H3: Discrete Mathematics (the “CSCA
+Course”).
+
+c.
+
+Students in the CSCA Course were required to write a final exam, which was worth 35%
+of their final grade. Students were prohibited from using aids or collaborating on the final
+exam.
+
+d.
+
+On or about December 10, 2020, the Student submitted the final exam in the CSCA Course.
+
+e.
+
+The Student submitted the final exam in the CSCA Course:
+i.
+
+to obtain academic credit;
+
+ii.
+
+knowing that it contained ideas, expressions of ideas or work which were not her own,
+but were the ideas, expressions of ideas or work of others, including other students or
+the author(s) of answers that were posted on slader.com, which is a website that
+advertises it teaches students how to learn with step-by-step textbook solutions written
+by subject matter experts (the “Slader Source”); and
+
+iii.
+
+knowing that she did not properly reference the ideas, expressions of ideas or work that
+she drew from the Slader Source, other students, or others.
+
+f.
+
+The Student knew that the Slader Source was not an authorized source to which she was
+allowed to refer in completing the final exam in the CSCA Course.
+
+g.
+
+The Student knowingly obtained unauthorized assistance from the Slader Source, other
+students, or others in completing the final exam in the CSCA Course.
+
+5
+h.
+
+The Student knowingly submitted the final exam in the CSCA Course with the intention
+that the University rely on it as containing her own ideas or work in considering the
+appropriate academic credit to be assigned to her work.
+
+MATA30H3: Calculus I for Physical Sciences
+i.
+
+In Fall 2020, the Student enrolled in MATA30H3: Calculus I for Physical Sciences (the
+“MATA Course”).
+
+j.
+
+Students in the MATA Course were required to write a final exam, which was worth 40%
+of their final grade. Students were prohibited from using aids or collaborating on the final
+exam.
+
+k.
+
+The Student asked for an extension to submit the final exam in the MATA Course because
+she was purportedly experiencing technical issues.
+
+l.
+
+The Student did not experience technical issues. The Student asked for an extension to
+submit the final exam to obtain unauthorized assistance from other students or others in
+connection with the final exam.
+
+m.
+
+On or about December 14, 2020, the Student submitted the final exam in the MATA
+Course.
+
+n.
+
+The Student submitted the final exam in the MATA Course:
+i.
+
+to obtain academic credit;
+
+ii.
+
+knowing that it contained ideas, expressions of ideas or work which were not her own,
+but were the ideas, expressions of ideas or work of other students or others; and
+
+iii.
+
+knowing that she did not properly reference the ideas, expressions of ideas or work that
+she drew from other students or from others.
+
+o.
+
+The Student knowingly obtained unauthorized assistance from other students or others in
+completing the final exam in the MATA Course.
+
+p.
+
+The Student knowingly submitted the final exam in the MATA Course with the intention
+that the University rely on it as containing her own ideas or work in considering the
+appropriate academic credit to be assigned to her work.
+
+6
+MGEB05H3: Macroeconomic Theory and Policy
+q.
+
+In Winter 2021, Professor Iris Au taught MGEB05H3: Macroeconomic Theory and Policy
+(the “MGEB05 Course”), and Professor Jack Parkinson taught MGEB06H3:
+Macroeconomic Theory and Policy: A Mathematical Approach (the “MGEB06 Course”).
+
+r.
+
+The Student was enrolled in the MGEB05 Course, but not the MGEB06 Course.
+
+s.
+
+Students in the MGEB05 Course and the MGEB06 Course were required to write several
+assignments, which were each worth 10% of their final grade. Students were prohibited
+from using aids or collaborating on the assignments.
+
+t.
+
+Questions 1, 2, and 3 on Assignment 1 in the MGEB05 Course and the MGEB06 Course
+were common questions. Question 4 on Assignment 1 in the MGEB05 Course and the
+MGEB06 Course were different questions.
+
+u.
+
+On or about February 12, 2021, the Student submitted Assignment 1 in the MGEB05
+Course.
+
+v.
+
+The Student submitted an answer to Question 4 that corresponded to the version of the
+question that appeared on Assignment 1 in the MGEB06 Course.
+
+w.
+
+The Student submitted Assignment 1 in the MGEB05 Course:
+i.
+
+to obtain academic credit;
+
+ii.
+
+knowing that it contained ideas, expressions of ideas or work which were not her own,
+but were the ideas, expressions of ideas or work of a paid tutor, other students, or
+others; and
+
+iii.
+
+knowing that she did not properly reference the ideas, expressions of ideas or work that
+she drew from a paid tutor, other students, or others.
+
+x.
+
+The Student knowingly obtained unauthorized assistance from a paid tutor, other students,
+or others in completing Assignment 1 in the MGEB05 Course.
+
+y.
+
+The Student knowingly submitted Assignment 1 in the MGEB05 Course with the intention
+that the University rely on it as containing her own ideas or work in considering the
+appropriate academic credit to be assigned to her work.
+
+7
+C.
+
+FINDING
+
+7.
+
+At the outset of the hearing, Mr. Webb, Assistant Discipline Counsel, provided three points
+
+of clarification about the charges. He first advised that the Provost was not proceeding with the
+charges related to the MATA Course, which are outlined at paragraph 5(d) to 5(f) above. Those
+charges were withdrawn, and the Panel did not hear any evidence on those charges.
+8.
+
+Second, Mr. Webb advised that the Provost agreed that if the Panel found the Student to
+
+have committed the offence regarding the CSCA Course listed in paragraph 5(a), then the Provost
+would withdraw the remaining charges for that course listed in paragraph 5(b) and 5(c) above.
+9.
+
+Finally, Mr. Webb advised that the Provost agreed that if the Panel found the Student to
+
+have committed the offence regarding the MGEB05 Course listed in paragraph 5(g) above, then
+the Provost would withdraw the remaining charges for that course listed in paragraph 5(h) and 5(i)
+above.
+10.
+
+After hearing the submissions of Assistant Discipline Counsel, the Panel found that the
+
+Student had committed the offences listed in paragraph 5(a) and 5(g).
+11.
+
+As a result of this finding, the Provost agreed to withdraw the remaining charges listed in
+
+paragraph 5 above.
+12.
+
+At the conclusion of the hearing, the Panel ordered that:
+a. the hearing may proceed in the Student’s absence;
+b. the Student is guilty of two counts of unauthorized assistance, contrary to B.I.1(b) of
+the Code;
+
+8
+c. the Student receive a final grade of zero in CSCA67H3 in Fall 2020;
+d. the Student receive a final grade of zero in MGEB05H3 in Winter 2021;
+e. the Student be suspended from the University for a period of three years commencing
+on June 16, 2023;
+f. a notation of the sanction be placed on the Student’s academic record and transcript for
+a period of four years commencing on June 16, 2023; and
+g. this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the Student’s name withheld.
+Paragraph 12(a) through (g) will be referred to as the Penalty Ordered.
+D.
+
+NOTICE
+
+13.
+
+Section 6 of the SPPA requires reasonable notice of the hearing be provided to the parties.
+
+Rule 13 of the Rules provides for the methods of service of documents, including charges and
+notices of hearing. This includes personal service, sending a copy of the document by courier to
+the student’s mailing address contained in ROSI, or sending a copy of the document by email to
+the email address contained in ROSI.
+14.
+
+The University’s Policy on Official Correspondence with Students (the “Policy”) requires
+
+that students provide the University with their current postal and email addresses through ROSI.
+Students are expected to monitor and retrieve all mail, including emails, on a frequent and
+consistent basis.
+
+9
+15.
+
+Section 7 of the SPPA and rule 21 of the Rules allow this Tribunal to proceed in the absence
+
+of a student where notice has been given. When proceeding in the absence of a student, the
+University must demonstrate it took reasonable steps to notify the student of the charges and of
+the hearing. The University does not need to prove actual notice.2
+16.
+
+The Student was neither present nor represented at the hearing.
+
+17.
+
+As detailed above, students are required to provide the University with their current postal
+
+address. The Provost provided affidavit evidence that the mailing address listed in the Student’s
+ROSI profile had a “termination date” in 2016 and the Student’s permanent address had a
+“termination date” in 2017. The Provost also filed evidence that between 2016 and 2017, the
+Student’s contact information was updated seven times. While the Student’s email address and
+permanent address remained the same, the Student’s telephone number changed once, and the
+Student’s mailing address changed five times.
+18.
+
+The Provost provided affidavit evidence that on January 25, 2021, and again on July 21,
+
+2021, the Registrar’s Office emailed the Student to request that she update her contact information.
+She did not do so. The emails were blind copied to the Student’s official University email address.
+19.
+
+Between February and March 2021, the Student exchanged several emails with Professor
+
+Iris Au, the course instructor for the MGEB05 Course, regarding Professor Au’s concerns of
+potential academic misconduct. These emails were sent to the Student’s official University email
+account and the Student responded to the emails.
+
+2
+
+The University of Toronto and O.E.R. (Case No 981, March 4, 2019) at para 37.
+
+10
+20.
+
+The University filed evidence regarding service and attempts to contact the Student. That
+
+evidence included:
+a. On March 2, 2023, the Office of the Vice-Provost, Faculty and Academic Life served
+the charges in this matter on the Student by email to the Student’s University email
+address.
+b. On March 2, 2023, the Office of Appeals, Discipline and Faculty Grievances sent the
+Student with a letter regarding the charges that were filed against her, together with a
+copy of the charges, the Code, the Rules and a pamphlet for Downtown Legal Services.
+c. On April 20, 2023, Mr. Webb emailed a disclosure letter and a disclosure brief to the
+Student. Mr. Webb stated he would request a notice of hearing be issued if he did not
+hear back from the Student by May 1, 2023. Mr. Webb did not receive a response.
+d. On May 2, 2023, Mr. Webb emailed the Student that he would request a notice of
+hearing be issued because he had not heard back from the Student. Mr. Webb advised
+the Student that the hearing could proceed without her.
+e. That same day, Mr. Webb emailed the Office of Appeals, Discipline and Faculty
+Grievances to request that a notice of hearing be issued for June 16, 2023. A Notice of
+Electronic Hearing was issued, and the Student was copied on the emails.
+f. On June 6, 2023, Mr. Webb called the two phone numbers that were listed in the
+Student’s ROSI profile. At both numbers, he was told that the person was not the
+Student and that they did not know anyone by the Student’s name.
+
+11
+g. Assistant Discipline Counsel did not attempt to courier a package of information to
+either the Student’s mailing address or permanent address in ROSI. The Student’s
+mailing address had changed several times between 2014 and 2018 and the most recent
+address expired in 2018. The Student’s permanent address listed in ROSI was a 36story apartment building with no unit number. That address expired in 2017.
+21.
+
+None of the emails were returned and there were no bounce backs received to any of the
+
+emails. Assistant Discipline Counsel did not receive any communication from the Student.
+22.
+
+The University also filed evidence from Andrew Wagg, Manager, Incident Response at
+
+Information Technology Services at the University. Mr. Wagg stated on June 5, 2023, he checked
+the portal records to determine the last time someone accessed the Student’s mail.utoronto.ca
+email. According to Mr. Wagg, that email was last accessed on December 15, 2022. This date is
+after the email exchange between the Student and Professor Au (February to March 2021) but
+before the Office emailed the Student with the charges.
+23.
+
+The University is not required to provide actual notice. This Panel finds that the University
+
+complied with the SPPA and the Rules and has demonstrated that it took reasonable steps to notify
+the Student of the charges and of the hearing.
+24.
+
+According to the Policy, students are obligated to advise the University of their current
+
+address. The Student was asked to update this information twice in 2021 and did not. Documents
+were emailed to the Student’s official University email address and Assistant Discipline Counsel
+attempted to reach the Student at the historic phone numbers listed.
+
+12
+25.
+
+Following the Registrar’s first request that the Student update her information in ROSI, the
+
+Student corresponded with Professor Au who advised the Student of her concerns regarding
+academic integrity. At that point, the Student had knowledge that there were academic issues
+pending against her. That should have alerted the Student to the importance of keeping her contact
+information current and at the very least ensuring she checked her University email, which was
+the email address from which she corresponded with Professor Au.
+26.
+
+The Panel determined it would proceed to hear the case on its merits in the Student’s
+
+absence.
+E.
+
+FACTS
+
+27.
+
+At all material times, the Student was registered at the University of Toronto Scarborough.
+
+28.
+
+The Student enrolled in courses in Winter 2016, Fall 2016, Winter 2017 and Fall 2017. The
+
+Student was not enrolled in any courses at the University from Winter 2018 to Winter 2020. The
+Student was enrolled in courses at the University in Summer 2020, Fall 2020, Winter 2021 and
+Summer 2021. The charges address courses in which the Student was enrolled in the Fall 2020 and
+Winter 2021.
+Charges relating to CSCA67H3
+29.
+
+The University filed an affidavit from Professor Anna Bretscher, an Associate Professor in
+
+the Department of Computer and Mathematical Sciences at the University of Toronto
+Scarborough. Professor Bretscher taught CSCA67H3 (the “CSCA Course”) in the Fall 2020, when
+the Student was enrolled. The CSCA Couse is an introductory course that examines topics like
+combinatorics, discrete probability, and graph theory.
+
+13
+30.
+
+The final exam in the CSCA Course was worth 35% of the course mark. It was
+
+administered online via Zoom on December 10, 2020. Students were monitored by teaching
+assistants and invigilators. The syllabus for the CSCA Course stated that the midterm, quizzes, and
+final exam were closed book and that no aids were permitted. In addition, the front page of the
+final exam contained a notice to students that they were required to keep their camera on at all
+times, with their face, hands and exam paper visible. Students were not allowed to leave the exam
+space, even to use the washroom. Failure to follow the rules resulted in a zero in the exam and
+students were notified that it could constitute an academic offence.
+31.
+
+Following the exam, one of the invigilators notified Professor Bretscher that he suspected
+
+that the Student used an aid during the final exam. He reported that he observed the Student looking
+at something off camera and he believed that the Student was looking at a second computer
+monitor. The invigilator reported that he asked the Student if she was looking at a second monitor.
+She denied she was looking at anything.
+32.
+
+The final exam was recorded through Zoom. Professor Bretscher reviewed the Zoom
+
+recording of the final exam and personally observed the Student’s actions. She observed the
+Student look at something off camera, and then immediately write down an answer. Professor
+Bretscher believed the Student was looking at a second monitor.
+33.
+
+After reviewing the recording, Professor Bretscher reviewed the Student’s final exam, and
+
+in her opinion, the answer to Question 13 was “highly unusual” because it used different lettered
+variables for consecutive integers. According to Professor Bretscher, during the course, she taught
+students to use the same lettered variables when listing consecutive integers. She stated it would
+
+14
+be “nonsensical and confusing” to use different lettered variables in a solution that lists consecutive
+integers.
+34.
+
+Professor Bretscher found that a similar question had been posted to a website called
+
+“Slader.com” – a website that markets itself as a “global network of subject-matter experts” who
+“verify solutions and answer when students have questions.”
+35.
+
+Professor Bretscher compared the answer on Slader.com with the Student’s final exam
+
+answer. She found that there were striking and unusual similarities. The answers were structured
+similarly, and both chose different lettered integers when listing consecutive integers instead of
+using the same lettered variables. No other student in the course prepared their answer in this way.
+36.
+
+There were other similarities between the Slader.com answer and the Student’s answer
+
+including a complicated simplification that according to Professor Bretscher would be uncommon
+for first year students. In addition, both answers wrote the final line in a similar way.
+37.
+
+Professor Bretscher stated that she and the Student exchanged emails in January 2021
+
+where Professor Bretscher advised the Student that her mark was listed as “Grade Withheld
+Pending Review” because the Student did not follow the instructions during the final exam, that
+her solutions closely resembled solutions found on the internet, and that the Student was being
+investigated for cheating. The email exchange was not before this Panel but the evidence about its
+existence was contained in Professor Bretscher affidavit.
+38.
+
+The University also submitted an affidavit from Professor Thierry Sans, an Assistant
+
+Professor in the Department of Computer and Mathematical Sciences at the University of Toronto
+
+15
+Scarborough. Professor Sans served as the Department Chair’s representative for academic
+integrity from March 2019 to May 2022.
+39.
+
+Professor Sans stated that in early 2021, he received a report from Professor Bretscher that
+
+the Student had obtained unauthorized assistance during her final exam in the CSCA Course.
+40.
+
+On March 30, 2021, Professor Sans met with the Student online. The Student admitted that
+
+she had a second monitor during the final exam in the CSCA Course. She admitted that she was
+engaged in a group chat on WeChat and received screen shots of answers to the final exam.
+41.
+
+Professor Sans advised the Student that the matter would be referred to the Dean’s Office
+
+because the final exam was worth 35% of the final mark. Professor Sans then forwarded the matter
+to the Dean’s Office. The Panel had no evidence before it about any action taken against the other
+individuals in the WeChat group chat.
+Charges relating to MGEB05H3
+42.
+
+The University filed the affidavit of Professor Iris Au, a Professor and Associate Chair,
+
+Programs and Students, in the Department of Management at the University of Toronto
+Scarborough.
+43.
+
+Professor Au taught MGEB05H3: Macroeconomic Theory and Policy in the Winter 2021
+
+(the “MGEB05 Course”). The Student was enrolled in that course.
+44.
+
+At that same time, another professor, Jack Parkinson, taught MGEB06: Macroeconomic
+
+Theory and Policy: A Mathematical Approach (the “MGEB06 Course”). The Student was not
+enrolled in that course and indeed the courses are mutually exclusive. Either course can be used to
+
+16
+fulfill the prerequisite requirement for upper year economic courses and, as a result, Professors Au
+and Parkinson work together to ensure consistency. There are differences, however, including that
+Professor Parkinson teaches about the “Solow model” – a model of economic growth using
+calculus. Professor Au did not teach the Solow model.
+45.
+
+Both the MGEB05 Course and the MGEB06 Course required two assignments, which were
+
+worth 10% of the final mark. For these assignments, students were permitted to work individually
+or in groups of no more than five students. If students were working in a group, they were to submit
+only one copy of the assignment for the entire group. Both courses contained an academic integrity
+warning that any student caught violating the University’s Code could be subject to discipline
+ranging from a zero in the assignment to dismissal from the University.
+46.
+
+Assignment 1 for both the MGEB05 Course and the MGEB06 Course contained 4
+
+questions. Questions 1 through 3 were the same on Assignment 1 for both courses. Question 4 was
+different. Question 4 in the MGEB05 Course (the course in which the Student was enrolled) asked
+students about digital payment platforms and unemployment rate. Question 4 in the MGEB06
+Course asked about the Canadian economy and the Solow model.
+47.
+
+The Student submitted her Assignment 1 on February 12, 2021. She did not submit her
+
+Assignment 1 as part of a group. In her answer to Question 4 on Assignment 1, the Student
+answered the question for the MGEB06 Course, not the MGEB05 Course.
+48.
+
+That same day, another student Z.L., submitted his Assignment 1 in the MGEB06 Course.
+
+Z.L. did not submit his Assignment 1 as part of a group. Z.L. answered the questions for the
+Assignment 1 in the MGEB06 Course.
+
+17
+49.
+
+The following day, February 13, 2021, the Student emailed Professor Au stating she had
+
+made a mistake with the file name of Assignment 1 and asked if she could upload it again. The
+Student later emailed what she claimed to be the “correct” Assignment 1. This version of
+Assignment 1 contained answers responding to the questions asked in the MGEB05 Course.
+50.
+
+Professor Au reviewed all other answers to Assignment 1 in the MGEB05 Course. All
+
+students, except the Student, provided answers to the four Assignment 1 questions for the
+MGEB05 Course. Professor Parkinson informed Professor Au that one of his students, Z.L.,
+submitted answers to the MGEB06 Course Assignment 1 that were similar to the Student’s.
+51.
+
+Professor Au then compared Z.L.’s answer to question 4 and the Student’s answer to
+
+question 4. She found that both submitted identical pictures of handwritten answers for questions
+2, 3 and 4. The answers had the same handwriting, content, lighting and cropping.
+52.
+
+Where Z.L. and the Student submitted typed work, the work was virtually identical. Their
+
+answers used the same words in the same order, the same punctuation, the same qualitative
+analysis, the same structure, and the same tables.
+53.
+
+As outlined above, between February and March 2021, Professor Au and the Student
+
+exchanged emails. Professor Au informed the Student she believed the Student had committed an
+academic offence. Professor Au informed the Student she would be forwarding the matter to the
+Academic Integrity Office and did so. These emails were not attached to her affidavit. The Panel
+had no evidence before it about any action taken against Z.L.
+
+18
+F.
+
+FINDING OF GUILT
+
+54.
+
+The onus is on the University to establish on a balance of probabilities, using clear and
+
+convincing evidence, that the Student committed the academic offence charged.3
+55.
+
+It is not for this Panel to imagine if some other possible explanation exists nor is the
+
+University required to prove the method by which the student plagiarized. This Panel must
+determine if it is more likely than not that the similarities arose because of unauthorized assistance.
+56.
+
+This Panel concludes that the University has established that in writing her final exam for
+
+the CSCA Course, the Student used or possessed an unauthorized aid in that she accessed answers
+through a WeChat group chat. These answers appear to have come from Slader.com.
+57.
+
+In reaching this conclusion, the Panel relies on the evidence from Professor Bretscher who
+
+observed the activities on the Zoom recording and then compared the Student’s answer to the
+answer found on Slader.com. The answers are similar, particularly the use of different lettered
+integers. The Panel was not persuaded by Professor Bretscher’s argument that the Student used a
+complex simplification without showing her work and raised this during oral argument. Assistant
+Discipline Counsel submitted that that one point was not determinative and this Panel agrees. The
+remaining evidence is sufficient for the University to meet its burden.
+58.
+
+Professor Bretscher’s evidence alone is sufficient for the University to meet its burden.
+
+However, the Student also admitted to Professor Sans that she had a second computer monitor
+during the writing of her final exam, and that she corresponded with other students in a WeChat
+group chat. She admitted she accessed answers to the final exam through the group chat.
+
+3
+
+The University of Toronto and T.J. (Case No. 1102, November 5, 2021), para 5.
+
+19
+59.
+
+As a result, the Panel finds that the Student committed the offence listed in paragraph 5(a)
+
+above.
+60.
+
+Based on Professor Au’s evidence, the Panel also concludes that the Student obtained
+
+unauthorized assistance in connection with Assignment 1 in the MGBE05 Course as listed in
+paragraph 5(g) above. As a result of this finding, the University withdrew the remaining charges
+listed in paragraph 5.
+G.
+
+PENALTY
+
+61.
+
+The University sought the sanctions in the Penalty Ordered, outlined in paragraph 12
+
+above.
+62.
+
+Assistant Discipline Counsel submitted that this penalty is in keeping with past decisions
+
+of this Tribunal and appropriately considers the six factors outlined in University of Toronto and
+Mr. C. (Case No 77-3, November 5, 1976) which are:
+a. the character of the person charged;
+b. the likelihood of a repetition of the offence;
+c. the nature of the offence committed;
+d. any extenuating circumstances surrounding the commission of the offence;
+e. the detriment to the University occasioned by the offence; and
+f. the need to deter others from committing a similar offence.
+
+20
+63.
+
+While no evidence was filed on the issue of penalty, Assistant Discipline Counsel
+
+submitted that under the first three factors, although the Student had initially admitted to the
+offence regarding the CSCA Course, she made no such acknowledgment for the MGEB05 Course
+allegations. In addition, the Student had failed to respond to any correspondence from March 2021
+onwards, despite someone having last accessed her official University email account in December
+2022. The Student also failed to provide updated or current contact information despite two
+requests from the Registrar.
+64.
+
+Assistant Discipline Counsel argued that in this hearing alone, the Panel had evidence of
+
+repetition, given that there were two offences – one occurring in 2021 after she had been put on
+notice that there was an investigation into her conduct during her final exam in the CSCA Course.
+Even with the knowledge of an ongoing investigation, the Student submitted a copied answer to
+Assignment 1 question 5 in the MGEB05 Course.
+65.
+
+With respect to the last three factors, Assistant Discipline Counsel submitted that
+
+plagiarism is a serious offence “that strikes at the heart of academic integrity.”4 It requires a strong
+sanction that reflects the harm caused and conveys the seriousness of the misconduct to others.
+66.
+
+The Student did not participate in the hearing, and therefore chose to forgo her opportunity
+
+to provide evidence on mitigation. The Panel has no evidence before it to explain her actions, nor
+does the Panel have any information regarding what if any sanctions the other individuals in the
+WeChat group chat or Z.L. faced. Had the Student participated and provided an explanation, the
+outcome may have been different.
+
+4
+
+See University of Toronto and D.K. (Case No. 1119, July 21, 2021) at para 70.
+
+21
+67.
+
+Assistant Discipline Counsel argued that the penalty sought is in keeping with similar cases
+
+of this Tribunal. He provided several cases including the cases of W.L.J.,5 M.H.H.,6 and T.W.7
+where the student received a three-year suspension and a four-year notation in addition to a zero
+in the course. In M.H.H., the panel imposed a three-year suspension and a four-year notice on a
+first offence because the panel found that student had committed two plagiarism offences.
+68.
+
+There are several factors that weigh in favour of a severe penalty, including the seriousness
+
+of the offence, the fact that the Student engaged in the misconduct relating to the MGEB05 Course
+when she was already on notice that she was under investigation for her actions during the CSCA
+Course final exam, the detriment caused to the University by the offence, and the need to deter
+others from committing similar offences.
+69.
+
+However, the Panel raised concern about the length of time it took to prosecute this case:
+
+the offences took place in 2020 and 2021 and the Notice of Hearing was issued in 2023. Assistant
+Discipline Counsel argued that even with the delay in prosecution, the time sought for the
+suspension and the transcript notation was appropriate. Counsel argued that the Discipline Appeals
+Board (“DAB”) case of D.S.8 was instructive. In that case, the DAB held that sanctions are
+generally to commence from the date the sanction is imposed by the Tribunal. The DAB stated
+that it is possible, “in exceptional circumstances,” to back date a penalty but that a “principled
+reason must be given for doing so; to do otherwise would result in a wide disparity among
+sanctions.”9
+
+5 The University of Toronto and W.L.J. (Case No. 815, January 19, 2016)
+6
+
+The University of Toronto and M.H.H. (Case No. 521, January 12, 2009)
+The University of Toronto and T.W. (Case No. 712, October 9, 2014)
+8
+The University of Toronto and D.S. (Case No. 451, August 24, 2007)
+9
+The University of Toronto and D.S., para 54.
+7
+
+22
+70.
+
+Given that the Student did not participate in the hearing, the Panel has no evidence before
+
+it on which it can find a principled reason to depart from the general rule.
+71.
+
+For these reasons, the Panel was satisfied that the appropriate sanction was the one sought
+
+by the University.
+H.
+
+CONCLUSION
+
+72.
+
+This Panel orders that:
+a. the hearing may proceed in the Student’s absence;
+b. the Student is guilty of two counts of unauthorized assistance, contrary to B.I.1(b) of
+the Code;
+c. The following sanctions shall be impose on the Student:
+(i)
+
+the Student receive a final grade of zero in CSCA67H3 in Fall 2020;
+
+(ii)
+
+the Student receive a final grade of zero in MGEB05H3 in Winter 2021;
+
+(iii)
+
+the Student be suspended from the University for a period of three years
+commencing on June 16, 2023;
+
+(iv)
+
+a notation of the sanction be placed on the Student’s academic record and
+transcript for a period of four years commencing on June 16, 2023; and
+
+d. this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the Student’s name withheld.
+Dated at Toronto at this 04 day of October 2023.
+
+Original signed by:
+Alexi Wood, Chair
+On behalf of the Panel
+
+

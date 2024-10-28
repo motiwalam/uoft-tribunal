@@ -1,0 +1,311 @@
+Case No.: 941
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on August 1, 2017,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.0. 1978, C. 88
+BETWEEN:
+
+UNIVERSITY OF TORONTO (the "University")
+- and ~ (the "Student")
+
+REASONS FOR DECISION
+Hearing Date: November 22, 2017
+Panel Members:
+Ms. Michelle S. Henry, Lawyer, Borden Ladner Gervais LLP, Chair
+Professor Michael Saini, Faculty Panel Member
+Mr. Andrey Lapin, Student Panel Member
+Appearances:
+Mr. Pouya Makki, Legal Case Worker for the Student, Downtown Legal Services
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+In Attendance:
+The Student
+Dr. Kristi Gourlay, Manager & Academic Integrity Officer, Faculty of Arts and Science
+Mr. Benny Chan, Student at Law, Borden Ladner Gervais LLP
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Ms. Joan Griffin, Assistant Secretary, Office of the Governing Council (Observer)
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on November 22,
+2017, to consider charges of academic dishonesty brought by the University against the
+Student under the Code of Behaviour on Academic Matters, 1995 (the "Code"). The
+Student was informed of the charges by letter dated August 1, 2017, from Professor
+Sioban Nelson, Vice-Provost, Faculty & Academic Life.
+
+THE CHARGES
+2. At all material times, the Student was a registered student at the University of Toronto,
+Faculty of Arts & Science. The University alleges that the Student engaged in the
+following offences:
+1. On or about December 10, 2016, the Student knowingly represented as his own an
+idea or expression of an idea or work of another in an assignment that he
+submitted in POL224Yl (Canada in Comparative Perspective) (the "POL224"),
+contrary to section B.I.l(d) of the Code.
+2. In the alternative, on or about December 10, 2016, the Student knowingly
+obtained unauthorized assistance in connection with an assignment that he
+submitted in POL224, contrary to section B.l.l(b) of the Code.
+3. In the further alternative, on or about December 10, 2016, the Student knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with an assignment
+that he submitted in POL224, contrary to section B.I.3(b) of the Code.
+4. On or about March 16, 2017, the Student knowingly represented as his own an
+idea or expression of an idea or work of another in an essay that he submitted in
+HIS242Hl (Contemporary Europe) ("HIS242"), contrary to section B.I.l(d) of the
+Code.
+5. In the alternative, on or about March 16, 2017, the Student knowingly obtained
+unauthorized assistance in connection with an essay that he submitted in HIS242,
+contrary to section B.I.l(b) of the Code.
+6. In the further alternative, on or about March 16, 2017, the Student knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with an essay that
+he submitted in HIS242, contrary to section B.l.3(b) of the Code.
+
+2
+
+7. On or about April 11, 201 7, the Student knowingly engaged in a f01m of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with an essay that he represented to his
+instructor as having been submitted in HIS244Hl (Early Modern Europe, 16481815) ("HIS244"), contrary to section B.I.3(b) of the Code ..
+AGREED STATEMENT OF FACTS
+
+3. The Hearing proceeded on the basis of an Agreed Statement of Facts, which was marked
+as Exhibit 1 at the Hearing. The Panel also received a Joint Book of Documents that is
+refeITed to in the Agreement Statement of Facts, which was marked as Exhibit 2 at the
+Hearing. The following is an abridged version of the Agreed Statement of Facts.
+First Offence - POL224
+
+4. In the Fall 2016 and Winter 2017, the Student enrolled in POL224Yl (Canada in
+Comparative Perspective) ("POL224"), which was taught by Professor Ludovic Rheault.
+Students in POL224 were required to submit an assignment ("Assignment #1 "), worth
+20% of their final grades, by November 14, 2016. Students were required to submit their
+assignments to Turnitin, which is a database of articles, other student submissions and
+online sources for the purposes of detecting plagiarism.
+5. On December 10, 2016, the Student submitted his Assignment# 1, entitled "Regime Type
+and its Impact on Conuption" (the "POL224 Assignment"), to Turnitin.
+6. The Turnitin report returned a 98% similarity index with a paper, also entitled "Regime
+Type and its Impact on CoITuption", that had been submitted by another student in the
+course (the "Other Student's Paper" and the "Other Student", respectively) on November
+14, 2016. The Student's POL224 Assignment was almost identical to the Other Student's
+Paper.
+7. On December 14, 2016, the Student met with Professor Reheault to discuss the allegation
+of academic misconduct involving the Student's POL224 Assignment. On March 31,
+2017, the Student met with Professor John Britton, Dean's Designate for Academic
+Integrity. During the meeting, the Student claimed that he had submitted the hard copy
+of his POL224 Assignment in class and the electronic copy to Turnitin before the
+deadline of November 14, 2016. He claimed that he had some issues with Turnitin but
+assumed that it was submitted on time. The Student told Professor Britton that, on
+November 30, 2016, when he went to pick up the marked assignment, he learned that his
+teaching assistant never received it. As a result, he resubmitted the assignment to
+Turnitin on December 10, 2016, but since he had lost the original assignment, he had to
+3
+
+"redo" it all over again. He claimed that he worked independently on the assignment and
+denied committing an academic offence. The meeting on March 31, 2017 was adjourned
+to permit the Office of Student Academic Integrity ("OSAI") to conduct further
+investigations.
+8. In April 2017, OSAI conducted further investigations into the alleged offence in POL224.
+In addition, Professor Rheault met with the Other Student.
+Following these
+investigations, OSAI and Professor Rheault remained of the view that the Student had
+committed an academic offence. Based on the investigation, there were no grounds to
+pursue an academic discipline case against the Other Student.
+
+Second Offence - HIS242
+9. In Winter 2017, the Student enrolled in HIS242Hl (Contemporary Europe) ("HIS242"),
+which was taught by Mr. Vasilis Dimitriadis. Students in HIS242 were required to
+submit a te1m essay, worth 25% of their final grades, by March 16, 2017.
+10. On March 16, 2017, the Student submitted his term essay entitled, "Why did attempts to
+appease to Hitler Fail?" (the "HIS242 Essay"). The Student's teaching assistant noticed
+that the language used in the HIS242 Essay was inconsistent with the Student's
+vocabulary and English skills (based on her interactions with him). A Google search of
+the title of the HIS242 Essay returned an immediate hit - a 12 page essay with the same
+name that had been posted to www.academia.edu (the "Online Source"). The home page
+for www.academia.edu indicates that www.academia.edu is "the easiest way to share
+papers with millions of people across the world for free".
+11. On review, Mr. Dimitriadis and the Student's teaching assistant determined that the
+entirety of the HIS242 Essay was taken verbatim from the Online Source (except that the
+footnotes in the Online Source were endnotes in the HIS242 Essay).
+12. On April 18, 2017, the Student met with Mr. Dimitradis and his teaching assistant to
+discuss the allegation of academic misconduct in the HIS242 Essay.
+
+Third Offence - HIS244
+13. In Winter 2017, the Student enrolled in HIS244Hl (Early Modern Europe, 1648-1815)
+("HIS244"), which was taught by Professor Paul Cohen. Students in HIS244 were
+required to submit a final essay by March 30, 2017, worth 35%. The final essays were to
+be submitted in hard copy in class and electronically to Turnitin.
+14. The Student did not submit his final essay either in hard copy or electronically. On April
+11, 2017, at the end of the final exam for HIS244, the teaching assistants returned the
+marked final essays to students. The Student told his teaching assistant and Professor
+4
+
+Cohen that he had submitted his final essay and that it had not been returned to him. The
+Student's teaching assistant searched but could not locate either a hard copy or an
+electronic copy of the Student's final essay.
+15. That day, the Student sent Professor Cohen an email, in which he wrote: "I spoke with
+you earlier that my TA can't find the hard copy of my essay and the electronic copy that I
+submitted to turnitin. I just want [to] know what's going on."
+16. Professor Cohen responded that evening that he and the teaching assistants had conducted
+a careful search and had not found a hard copy of the Student's essay. Professor Cohen
+also advised that he had consulted Turnitin and there was "no trace of an electronic
+submission." Professor Cohen asked the Student for further details about his submission.
+17. The next day, on April 12, 2017, the Student wrote to Professor Cohen:
+Dear Dr. Cohen,
+I submitted the hard copy of the essay on Thursday, March 30 th to my TA
+Spirit Waite right after lecture when it was due. The electronic copy on the
+other hand, I uploaded it on Tuesday, March 28 111, but I don't exactly know
+what time it was. I'm assuming that it was either in the afternoon or
+evening between 3-9pm. I'm not exactly sure with the times. It could
+possibly be earlier than that, but I know for sure I uploaded it on the 28 th
+of March.
+
+18. Professor Cohen responded, asking for a "Submission ID number" for the Student's
+submission to Turnitin. The next day, on April 13, 2017, the Student wrote, "I received a
+Submission ID number but I don't remember it because I deleted the Turnitin receipt that
+I got after submitting it."
+19. On April 18, 2017, the Manager, Academic & Collaborative Technology Support Centre
+for Teaching Suppmi & Innovation at the University, sent an inquiry to Turnitin's Help
+Desk to inquire about the Student's alleged submission on March 28, 2017. Turnitin
+Product Support advised that there were "no records of any submission attempts for [the
+Student] on 3/28/17".
+20. On April 25, 2017, the Student met with Professor Cohen to discuss the allegation of
+academic misconduct involving the final essay in HIS244.
+
+5
+
+Meeting with Dean's Designate and the Student's Admissions
+21. On May 12, 2017, the Student met with Professor Britton to discuss the three allegations
+of academic misconduct in POL 224, HIS242, and HIS244. During the meeting the
+Student:
+a. maintained that the POL224 Assignment was his own work, and denied
+committing an academic offence;
+b. admitted that he had plagiarized from the Online Source in his HIS242 Essay, and
+that that constituted an academic offence; and
+c. admitted that he had not submitted a final essay in HIS224; however, he claimed
+that he was confused and could not think straight, and did not intend to mislead or
+misrepresent. As a result, he did not admit to committing an academic offence.
+22. As part of the Agreed Statement of Facts, the Students admitted the following:
+a. With respect to the POL224 Assignment, the Student admits that he knowingly
+included verbatim or nearly verbatim text and ideas in the POL224 Assignment
+that were taken from the Other Student's Paper. He admits that he failed to
+attribute the verbatim or nearly verbatim text and ideas appropriately using
+citations, references or other appropriate means; that he represented in the
+POL224 Assignment the ideas of another person, the expression of the ideas of
+another person, or the work of another person as his own; and committed
+plagiarism, contrary to section B.I.1 (d) of the Code. The Student further admits
+that he obtained a copy of the Other Student's Paper without the Other Student's
+perm1ss10n.
+b. With respect to the HIS242 Essay, the Student admits that he knowingly included
+verbatim or nearly verbatim text and ideas in the HIS242 Essay that were taken
+from the Online Source; he failed to attribute the verbatim or nearly verbatim text
+and ideas appropriately using citations, references or other appropriate means; he
+represented in the HIS242 Essay the ideas of another person, the expression of the
+ideas of another person, or the work of another person as his own; and committed
+plagiarism, contrary to section B.1.1 (d) of the Code.
+c. With respect to the final essay in HIS244, the Student admits that he knowingly
+represented to his instructor and teaching assistant that he had submitted a final
+essay in HIS244 when he had not done so; made these false representations with
+the intention of misleading his instructor and teaching assistant into believing that
+
+6
+
+he had submitted a final essay in HIS244 when he had not; and engaged in the
+foregoing conduct in order to obtain academic credit or other academic advantage.
+FINDINGS ON CHARGES
+23. Following deliberations and based on the Agreed Statement of Facts and the Joint Book
+of Documents, the Panel concluded that charges 1, 4 and 7 (as outlined in paragraph 2
+above) had been proven with clear and convincing evidence on a balance of probabilities,
+and accepted the guilty pleas of the Student in respect of those charges.
+24. The Panel was advised that if the Tribunal convicts the Student on charges 1, 4, and 7
+outlined above in paragraph 2, the University would withdraw the alternative charges.
+Accordingly, the Panel makes no findings with respect to charges 2, 3, 5, and 6.
+PENALTY
+25. The University and the Student submitted an Agreed Statement of Facts on Penalty and a
+Joint Submission on Penalty recommending the following penalty:
+a. a final grade of zero in the course POL224Yl in Fall 2016 and Winter 2017;
+b. a final grade of zero in the course HIS242Hl in Winter 2017;
+c. a final grade of zero in the course HIS244Hl in Winter 2017;
+d. a suspension from the University of Toronto from January 1, 2018 to December
+31,2021;and
+e. a notation of the sanction on his academic record and transcript from the day the
+Tribunal makes its order to December 31, 2023.
+26. The parties also agreed that this case shall be reported to the Provost for publication of a
+notice of the decision of the Tribunal and the sanction imposed in the University of
+Toronto newspapers, with the name of the student withheld.
+27. In addition to the above penalties, the Student also provided an undertaking to complete
+at least six "Writing Plus" workshops offered by the St. George Campus College Writing
+Centre within the first two terms in which he is next registered for a course at the
+University. In the event that such workshops are not available at the time the Student
+attempts to complete them, the University will, acting reasonably, propose alternate and
+equivalent programs that the Student shall complete to fulfil his undertaking.
+28 . The Student further agreed and accepted that he will not be eligible to graduate from the
+University until he fulfils the above undertaking and the University may rely on this
+7
+
+undertaking to deny him the ability to graduate until it is fulfilled. The undertaking did
+not form paii of the Tribunal's Order.
+29. Discipline Counsel provided submissions on the high threshold required for a Tribunal to
+deviate from the joint submission on penalty. As set out in the Appeal Board in S.F. and
+The University of Toronto (Case No. 690 - Appeal, dated October 20, 2014), only truly
+unreasonable or "unconscionable" joint submissions should be rejected (see paragraph
+22). In the Panel's view the joint submission in this case is reasonable.
+30. The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and Mr. C. (Case No.: 1976/77-3; dated
+November 5, 1976), namely: 1) the character of person charged; 2) the likelihood of
+repetition of the offence; 3) the nature of offence committed; 4) any extenuating
+circumstances surrounding the commission of the offence; 5) detriment to the University
+occasioned by the offence; and 6) the need to deter others from committing a similar
+offence.
+31. With respect to his character, as noted by Discipline Counsel, the Student admitted guilt
+to the second offence but denied the first and the third offence. I will point out that,
+during the hearing, when asked how he had obtained the Other Student's Paper to submit
+as his own POL224 Assignment, the Student indicated that he was in the library before
+the due date of the POL224 Assignment; he spotted the assignment of another student in
+question on the table, and took the assignment in order to plagiarize it. I will say that the
+Panel did not find this explanation to be very credible.
+32. Having said this, the Student ultimately came before Tribunal and admitted to all three
+offences, and that admission of guilt does demonstrate insight and remorse. The Student
+had also cooperated in the process and had attended all meetings, which demonstrated
+ownership, and responsibility for actions. These were all mitigating factors.
+33. The Panel also took into consideration the serious and deliberate nature of the offences
+and the detriment to the University.
+34. Having regai·d to the above, and based on the review of similar cases provided by
+Counsel to the University, the Panel agrees that the recommended sanctions are
+appropriate.
+DECISION OF THE PANEL
+35. At the conclusion of the hearing, the Panel made the following order:
+
+8
+
+a. THAT the Student is guilty of two counts of knowingly representing as his own
+an idea or expression of an idea or work of another in any academic examination
+or term test or in connection with any other form of academic work, contrary to
+section B.I.l(d) of the Code.
+b. THAT the Student is guilty of one count of knowingly engaging in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind, contrary to section B.l.3(b) of the Code.
+c. THAT the following sanctions shall be imposed on the Student:
+1. a final grade of zero in the course POL224Yl in Fall 2016 and Winter
+2017;
+11. a final grade of zero in the course HIS242Hl in Winter 2017;
+m. a final grade of zero in the course HIS244Hl in Winter 2017;
+1v. a suspension from the University of Toronto from January 1, 2018 to
+December 31, 2021; and
+v. a notation of the sanction on his academic record and transcript from the
+day the Tribunal makes its order to December 31, 2023.
+d. THAT this case be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the Student's name
+withheld.
+36. An Order was signed at the hearing by the Panel to this effect.
+DATED at Toronto, February 16, 2018.
+
+9
+
+

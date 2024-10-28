@@ -1,0 +1,379 @@
+Case No.: 975
+
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty filed on May 14, 2018.
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University ofToronto Act, 1971, S.O. 1971, c . 56 as am. S.0. 1978, c. 88
+
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+- and -
+
+REASONS FOR DECISION
+
+Hearing Date: July 31 , 2018
+Tribunal Members:
+Ms. Dena Varah, Barrister and Solicitor, Chair
+Professor Pascal van Lieshout, Faculty Tribunal Member
+Ms. Alice Zhu, Student Member
+Appearances:
+Ms. Lily Harmer, Discipline Counsel, Paliare Roland Rosenbert Rothstein LLP
+Ms. Jacqueline Cummins, law Clerk, Paliare Roland Rosenbert Rothstein LLP
+Ms. Christina Di Matteo, Academic Integrity Specialist, Faculty of Arts and Science
+Mr. Brian Alexic, IT Support, Office of the Governing Council
+Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary, Office of the Appeals,
+Discipline, Faculty Grievances
+Not In Attendance:
+. the Student
+
+Mr. ~ •
+
+2
+
+REASONS FOR DECISION
+
+1.
+
+The Trial Division of the University of Toronto Tribunal (the "Tribunal") was
+
+convened on July 31, 2018 to consider charges advanced by the University of Toronto
+(the "University") against ~
+
+SIii (the "Student") under the Code of Behaviour on
+
+Academic Matters (the "Code").
+2.
+
+Disciple Counsel introduced evidence regarding the attempts by the University to
+
+serve the Student with the charges.
+
+There were numerous attempts over time via
+
+different methods of service.
+3.
+~
+
+On May 14, 2018, the University served the charges on the Student by email to
+--
+
+@mail.utoronto.ca, which is the email address he had provided to the
+
+University and ROSI.
+4.
+
+In an Affidavit of Krista Osbourne, the University outlined the numerous ways in
+
+which they attempted to serve the Student with the Notice of Hearing, including:
+(a)
+
+on June 29, 2018, service of the Notice of Hearing on the Student at the
+email address he had provided to the University and ROSI;
+
+(b}
+
+on June 29, 2018, an additional attempt to serve the Student with the
+Notice of Hearing by Purolator at an address in Hong Kong, which was the
+address he had provided to the University and ROSI.
+
+5.
+
+The Purolator contacted the Governing Counsel Administrative Assistant to
+
+reconfirm the mailing address as they could not locate the residence.
+
+3
+
+6.
+
+Ms. Virginia Fletcher, law clerk at the firm Paliare Roland Rosenberg Rothstein
+
+LLP ("Paliare Roland") swore another Affidavit to describe her efforts to schedule the
+
+Tribunal Hearing and to advise of the Student of the specifics regarding the Hearing.
+
+7,
+
+Ms. Fletcher sent letters and enclosures to the Student by email at several
+
+different times.
+8.
+
+She attempted to contact the Student at a phone number that corresponded with
+
+an address in Markham that he had registered on ROSI. She spoke with a woman on
+
+the phone who identified herself as the Student's mother. She left a message with the
+Student's mother asking him to call her.
+
+The Student did not return the call. She
+
+attempted to contact the Student again approximately two weeks later and received the
+message "the party you have reached is not accepting calls at this time".
+9.
+
+Ms. Fletcher also received information on July 12, 2018 from Mike Wiseman,
+
+Acting Director, Information Security, Information Technology Services at the University
+that the email account for ~
+
+--
+
+@mail.utoronto.ca was last accessed on July 11,
+
+2018 at 7:23 am and that the email was being forwarded to ~
+
+.-
+
+@hotmail.com
+
+("the Hotmail address").
+10.
+
+Ms. Fletcher forwarded copies of her previous emails to the University address
+
+and copied the Hotmail address. On July 18, 2018, she received a response from the
+Hotmail address stating "FYI you emailed the wrong ~ -"·
+11 .
+
+On July 19, 2018, Christina Di Matteo confirmed that there was only one student
+
+by his name registered as a student at the University.
+
+4
+
+12.
+
+Discipline Counsel also introduced the affidavit of Jacqueline Cummins,
+
+law
+
+clerk at the firm Paliare Roland, which detailed additional attempts to reach the Student
+between July 18 and July 24, 2018.
+13.
+
+Given this history, Discipline Counsel asked for an order that we proceed in the
+
+absence of the Student on the basis that valid service had been executed.
+14.
+
+The Tribunal was satisfied that Discipline Counsel had taken appropriate steps to
+
+notify the Student of the Hearing.
+15.
+
+The Tribunal proceeded in the absence of the Student.
+
+PART1 - THECHARGES
+16.
+
+The Student is charged with three offences under the Code:
+1. In or about late 2017 and/or 2018 you knowingly forged or in any other
+way altered or falsified an academic record, and/or uttered, circulated or
+made use of such forged, altered or falsified record, namely, a document
+which purported to be your Certificate for the Degree of Honours Bachelor
+of Science dated November 8, 2016, contrary to Section B.1.3(a) of the
+Code.
+
+2. In or about January, 2018 you knowingly forged or in any other way
+altered or falsified an academic record, and/or circulated or made use of
+such forged, altered or falsified record, namely, a document which
+
+5
+
+purported to be your Complete Academic History from the University
+dated January 17, 2018, contrary to Section 8.l.3(a) of the Code.
+3. In the alternative to paragraphs 1 and 2 above, in or around late 2017
+and/or January, 2018 you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in order to obtain academic credit or other academic
+advantage of any kind, contrary to Section B.l.3(b) of the Code in
+connection with:
+a. a document which purported to be your Certificate for a Degree of
+Honours Bachelor of Science dated November 8, 2016;
+b. a document which purported to be your complete Academic History
+from the University dated January 17, 2018.
+17.
+
+Discipline Counse·I advised that if the Tribunal found the Student guilty of the first
+
+two offences the University would withdraw the third charge.
+
+PART2 -THE FACTSUNDERL~NGTHE CHARGES
+18.
+
+The Student was enrolled as a student at the University between 2011 and 2016.
+
+He never obtained a degree certificate.
+19.
+
+On January 11 , 2018, Mr. Terry Johnston, Assistant Director at the University,
+
+Office of Convocation, received an email from Bharath Ramalingan at Blue Umbrella, an
+
+6
+
+employment agency in India. requesting a degree confirmation for a degree purportedly
+issued from the University to the Student.
+20.
+
+By return email of the same day, Mr. Johnston advised that no degree had been
+
+granted by the University to the Student. Blue Umbrella responded by email attaching
+an electronic copy of an Honours Bachelors of Science degree purportedly conferred by
+the University to the Student on November 8, 2016 (the "Student Degree Certificate").
+Mr. Johnston again confirmed that the degree had not been conferred on the Student by
+the University.
+21 .
+
+Mr. Johnston reviewed the Student's academic history and determined that he
+
+had only earned 18.5 credits, which are not enough credits to graduate. He also noted
+certain inaccuracies in the Student Degree Certificate.
+22.
+
+On July 18, 2018, Mr. Johnston received a further email from Blue Umbrella
+
+attaching a copy of a document entitled "Complete Academic History", which purported
+to be the academic history of the student. By return email, he advised that he could only
+comment whether a degree had been granted, and that he would forward the email to
+the University's Transcript Centre.
+23.
+
+Mr. Christina Matteo, Academic Integrity Specialist, testified before the Panel that
+
+she compared the Student's official academic history to the document provided to Mr.
+Johnston by Blue Umbrella. She confirmed that the alterations to the Student's
+academic history set out in Schedule 1 to the Charges are accurate. The changes are
+
+7
+
+extensive and include changes to the Student's sessional and cumulative GPA, to
+individual course marks, to the courses enrolled in and to the amount of credits earned.
+PART 3 - DECISION ON CHARGES
+
+24.
+
+The Tribunal was satisfied that the Student was guilty of the offence in the first
+
+two charges. As a result, the University withdrew the third charge.
+25.
+
+Section B.1.3(a) of the Code provides that it is an offence to forge or alter an
+
+academic record or to utter, circulate or make use of a forged, altered or falsified
+record. It is the second half of this clause that is at issue. There was no evidence of who
+forged the degree, but that is not necessary evidence to establish the offence. It is clear
+that the Student circulated and made use of the forged degree in order to obtain
+employment. The Student therefore violated Section B.1.3(a) of the Code.
+26.
+
+The same is true of the Student's use of his purported Complete Academic
+
+History. The Complete Academic History was altered extensively to improve the
+Student's GPA and increase the amount of credits earned. The facts establish the
+second charge.
+PART 4 - SUBMISSIONS ON PENALTY
+
+27.
+
+Discipline Counsel submitted that the appropriate sanction for a forged degree is:
+(a)
+
+Immediate suspension from the University for a period of up to five years;
+
+8
+
+(b)
+
+that the Tribunal recommend to the President of the University that the
+President recommend to Governing Council that the Student be expelled
+from the University; and
+
+(c)
+
+the Tribunal report this case to the Provost who may publish a notice of
+the decision of this Tribunal with the Student's name withheld.
+
+28.
+
+Discipline Counsel provided the Tribunal with twelve cases involving forgery of
+
+an academic record or degree for submission to potential employers. In nine of the 12
+cases, the sanction for the forged documents was expulsion form the University. In two,
+the Tribunal ordered a 5 year suspension, but in one the sanction was overturned and
+expulsion ordered by the Appeal Board.
+PART 5 - THE DECISION ON PENALTY
+
+29.
+
+The Student used a forged degree and academic record in order to obtain
+
+employment through Blue Umbrella, an employment agency. These actions were a
+deliberate attempt by the Student not only to obtain the benefit of a degree he did not
+earn, but also to obtain the benefit of a much improved grade point average.
+30.
+
+The Panel accepts that the offence of a forged degree is amongst the most
+
+serious offence a student can commit
+
+Forged diplomas and academic records
+
+negatively impact the entire University community. They undermine the credibility and
+standing of the institution and of their peers who are attempting to legitimately use their
+degrees.
+
+9
+
+31.
+
+In this case, the Student chose not to participate. He appears to have actively
+
+avoided numerous attempts of service and notification by the University. There is
+therefore no evidence of mitigating circumstances. Absent compelling mitigation
+circumstances in the face of such a serious offence, these offences call for the penalty
+of expulsion.
+32.
+
+The Panel is satisfied that a recommendation of expulsion is the appropriate
+
+disposition in this case.
+PART 6 - TH E ORDER
+
+33.
+
+The Panel ordered as follows:
+(a)
+
+the Tribunal proceed in the absence of the Student;
+
+(b)
+
+the Student is immediately suspended from the University for a period of
+up to five years ;
+
+(c)
+
+the Tribunal recommend to the President of the University that the
+President recommend to governing council that the Student be expelled
+from the University; and
+
+(d)
+
+the Tribunal report this case to the Provost who may publish a notice of
+the decision of this Tribunal with the Student's name withheld.
+
+DATED at Toronto thi0,1'1aay of
+
+ac;vw ,
+
+2018.
+
+10
+
+Dena Varah, Co-Chair
+
+

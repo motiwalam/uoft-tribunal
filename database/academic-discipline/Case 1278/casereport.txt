@@ -1,0 +1,759 @@
+1
+
+Case No. 1278
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty made on October 12, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E N:
+UNIVERSITY OF TORONTO
+- and –
+H
+
+Z
+
+REASONS FOR DECISION
+Hearing Date: November 30, 2022, and January 9, 2023, via Zoom
+Panel Members:
+Cynthia Kuehl, Chair
+Professor George Cree, Faculty Panel Member
+Nik Khakhar, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Daniel Goldbloom, Counsel for the Student, Goldbloom Law
+H
+Z
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+
+-2-
+
+1.
+
+This hearing of the Trial Division of the University Tribunal was convened on November
+
+30, 2022, and continued on January 9, 2023, by Zoom, to consider charges of academic dishonesty
+(the “Charges”) brought by the University of Toronto (the “University”) against H
+
+Z
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”). The Student
+was informed of the Charges by letter dated October 12, 2021.
+The Charges
+2.
+
+At the material times, the Student was registered as a student in the Faculty of Arts &
+
+Science at the University.
+3.
+
+In the Charges, the Provost made the following two allegations:
+(i)
+
+On or about October 18 and 19, 2020, the Student knowingly used or
+possessed an unauthorized aid or obtained unauthorized assistance in
+Assessment #2 in ECO101H1F (20209) (the “Course”), contrary to section
+B.I.1(b) of the Code;
+
+(ii)
+
+In the alternative, on or about October 18 and 19, 2020, the Student
+knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation or otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind
+in connection with Assessment #2 in the Course, contrary to section B.1.3
+(b) of the Code.
+
+4.
+
+The Provost advised that it would withdraw Allegation 2 if findings were made on
+
+Allegation 1. Ultimately, Allegation 2 was withdrawn.
+5.
+
+Detailed particulars in support of the allegations were provided in the Charges.
+
+The Evidence
+(a)
+
+Summary of Issue and Finding
+
+6.
+
+The Student and the Provost provided a detailed Agreed Statement of Facts (“ASF”), which
+
+set out much of the background to the allegations, the result of which was that the hearing
+proceeded on a single issue only. That issue was whether the Student was, in fact, the person who
+participated in an online review session conducted during the time set aside for the completion of
+
+-3-
+
+an assignment in the Course. There was no dispute that, if the Provost established on a balance of
+probabilities that the Student did participate, then Allegation 1 would be established.
+7.
+
+The Tribunal found that the Provost had met its burden.
+
+(b)
+
+Evidence at the Hearing
+
+8.
+
+The Student was enrolled in the Course, taught by Professor Gazzale and Professor
+
+Farhoodi. The syllabus for the Course directed students to review the Code, which included a
+specific direction that students were not to receive any assistance on or during any assessment or
+activity that counted towards the course grade. In addition, students were required to sign
+academic integrity statements for the Course, which the Student signed.
+9.
+
+Assessment #2 in the Course was an asynchronous assignment, worth 10.5% of the final
+
+grade. It, therefore, fell within the scope of the direction in the Course, requiring that students not
+receive any assistance in respect of it.
+10.
+
+For Assessment #2, Professor Gazzale wrote 77 different questions, 40 of which were
+
+multiple choice and 37 required that students provide a numeric answer. They were organized into
+17 question pools, according to subject matter, each pool containing anywhere from 3 to 10
+questions. Quercus then randomly selected one or more questions from each pool and assigned
+those questions to a student. Each student ultimately received 23 questions.
+11.
+
+All students in the Course were required to write Assessment #2 on October 18 and 19,
+
+2020. As an asynchronous assignment, students were given 90 minutes from the time they chose
+to start to write the assessment and its completion. All assignments had to be completed between
+October 18, 2020, at 7:00 p.m. and October 19, 2020, at 7:00 p.m. (the “submission window”).
+12.
+
+Assessment #2 was open book and had very specific instructions that the students were not
+
+permitted to discuss the assessment with anyone while the submission window was open.
+13.
+
+After the close of the submission window, Professor Gazzale was alerted by another
+
+student in the Course that Easy EDU, a commercial tutoring service, had held a review session
+during the submission window during which Easy EDU provided solutions to questions that were
+near identical to the questions on Assessment #2 (the “Review Session”). The students (of which
+
+-4-
+
+there were 180) in attendance at the Review Session received a study package of 22 questions,
+each one of which corresponded directly to one of the questions that Professor Gazzale had written
+for Assessment #2, with very minor modifications that were inconsequential to the substantive
+questions being asked.
+14.
+
+By correlating the 22 questions in the study package to the assessment files for every
+
+student in the Course, Professor Gazzale was able to identify a student, Y.L., as being the one who
+had been assigned each of the 22 questions. Y.L. confirmed on October 22, 2020, that he had paid
+a tutor to check his answers during the submission window.
+15.
+
+In the interim, Professor Gazzale, as well as the Student Academic Integrity Office, the
+
+Office of the Governing Council, the Department Chair and several other professors received an
+email from another student, now writing on behalf of a group of students in the Course, and stating
+that they were concerned about academic integrity and Assessment #2. That student provided
+details about Easy EDU, including that it had promoted the Review Session and required payment.
+The student also provided a link to the YouTube video of the Review Session, which confirmed it
+was held on October 18, 2020, at 9:08 p.m., during the submission window. Repeated references
+were made to the actual test during the Review Session. The 22 questions that had been assigned
+to Y.L. were answered.
+16.
+
+The Review Session was held over Zoom. One of the names that appears in the Review
+
+Session video is the name of the Student (the “Student Zoom Account”). The name of the Student
+appears in the box on the Zoom platform in which participants are able to self-identify, and remains
+visible throughout the video. The Student is the only student with that name in the Course.
+17.
+
+The Student Zoom Account participated quite extensively in the Review Session by typing
+
+in a number of comments, some of which were in Mandarin, the translation of which were agreed
+to by the parties. The Tribunal was provided with a list of all the comments made by the Student
+Zoom Account. Most of the comments were directed at providing answers to the questions that
+were being taught by Easy EDU as part of the review for Assessment #2, and included:
+•
+
+comments about opportunity costs, marginal costs and marginal benefit;
+
+•
+
+comments about absolute advantage and comparative advantage;
+
+-5-
+
+•
+
+comments about absolute advantage alone; and
+
+•
+
+comments about surplus and willingness to pay.
+
+In addition, there was one instance where the Student Zoom Account typed the name of “Lee
+Bailey” in relation to a question about a professor of the University of Toronto Mississauga
+campus who taught ECO100. The Student had not had Professor Bailey as a professor and this
+singular comment was the focus of evidence and speculation at the hearing.
+18.
+
+The Student Academic Integrity Office scheduled a meeting with the Student to discuss
+
+the allegations that he had committed an academic offence in respect of Assessment #2. That
+meeting took place with Professor Graeme Hirst on July 9, 2021. The Student denied attending
+the Review Session and committing an academic offence. Rather, he said that a friend, X R had
+attended the session using the Student’s Zoom account on the Student’s gaming computer and
+without his knowledge. The Student and Mr. R were former roommates and the Student advised
+Prof. Hirst that he had loaned his gaming laptop to Mr. R.
+19.
+
+Mr. R also spoke to Prof. Hirst. Mr. R advised that he had been seeking employment with
+
+Easy EDU as a “TA” (a teaching assistant), and had used the Student’s gaming computer and
+account to attend the Review Session at the suggestion of Easy EDU that he attend a session as a
+trial.
+20.
+
+According to Easy EDU webpage submitted in evidence, Easy EDU tutors have “a strong
+
+understanding of the major courses of various departments in recent years, as well as the current
+status and niche of the entire major….All EZ Edu tutors have 3-5 years of teaching experience,
+with a cumulative teaching time of 800,000 hours”. There is no dispute that Mr. R does not meet
+this criteria.
+21.
+
+In addition, the Easy EDU webpage included job descriptions for course instructor,
+
+instructor assistant, internal assistant, and course consultant. An instructor assistant’s role, which
+was likely the one that corresponded most closely to TA, was to “assist course instructors in
+completing teaching tasks, answer and explain questions raised by students, and collect, organize
+and create course materials”. Mr. R’s evidence, however, was that he was told that he just had to
+attend sessions and mark papers. He admitted in cross-examination, however, that students paying
+
+-6-
+
+money for TA assistance would expect him also to be able to answer questions about the
+substantive material in the course.
+22.
+
+The Student admitted that he knew or ought to have known that attending the Review
+
+Session would have constituted obtaining unauthorized assistance and be contrary to the Code.
+23.
+
+The hearing proceeded, therefore, on the sole issue of whether it was the Student or Mr. R
+
+who attended the Review Session. If the Tribunal found that the University established, on a
+balance of probabilities, that it was the Student who had attended, then the academic offence in
+Allegation 1 would be established.
+24.
+
+In addition to the fact that the name of the Student appeared on the Zoom screen and
+
+therefore visible throughout the Review Session; that the Student was the only student with that
+name in the Course; and the Student Zoom Account participated extensively in answering the
+questions that would be posed on the test in a manner that the Tribunal found was consistent only
+with someone interested in and knowledgeable about the Course materials (i.e.., a student in the
+Course), the University also led evidence from Professor Gazzale as to similarities between the
+work that was presented during the Review Session and the rough work that was provided by the
+Student on Assessment #2. These similarities included:
+•
+
+the use of vertical lines to indicate absolute value, something that Prof. Gazzale did not
+teach in the Course;
+
+•
+
+the use of the acronym TB and the idea of total benefit, which Prof. Gazzale said in
+examination in chief that he did not introduce in the Course. On cross-examination,
+Professor Gazzale acknowledged that the language of “total benefit” did appear in one
+of the questions on the examination;
+
+•
+25.
+
+the use of the acronym E to denote elasticity.
+
+In addition, Professor Gazzale indicated that there was at least one question for which the
+
+Student got the right answer in a multiple choice format but did not draw a graph. A graph would,
+according to Professor Gazzale, be necessary to answer the question correctly (the suggestion
+being, unless the Student knew the answer from the Review Session).
+
+-7-
+
+26.
+
+The Student’s evidence on this point was that he had simply guessed between two options,
+
+having otherwise logically eliminated some of the other answers. There was no explanation as to
+why the Student had not even tried to use a graph. Of note, in a similar type question, the Student
+guessed the other option in an effort to at least get 50% on these questions.
+27.
+
+In addition, the Student explained that he had learned the symbol for absolute value in high
+
+school. He could not explain where he learned the concept of total benefit, although he said it
+could have been used in the Course, in other online study guides or from another student. Though
+counsel’s final submissions suggested using E would be obvious, there was no evidence on that
+point.
+28.
+
+In the singular and without the benefit of the overall context, any one of these explanations
+
+may have been plausible to the Tribunal. However, when reviewed together and in light of the
+striking similarity of the Student’s rough work to that prepared by Easy EDU in the Review
+Session, the Tribunal does not accept these explanations.
+29.
+
+The evidence of Professor Gazzale was challenged in respect of his interest in the outcome
+
+of this hearing as a result of the fact that he, together with the University, are currently involved
+in a lawsuit against Easy EDU for the copyright infringement of Professor Gazzale’s intellectual
+work. The Statement of Claim references the fact that there have been numerous charges of
+academic misconduct that arose from Easy EDU’s conduct. In cross-examination, Professor
+Gazzale denied that he was motivated by the lawsuit when giving his evidence. The outcome of
+this particular hearing would not affect the lawsuit itself, which was premised on Easy EDU’s use
+of his work. No student, including Y.L, was named as a defendant.
+30.
+
+Having reviewed the Statement of Claim, the Panel did not accept that Professor Gazzale’s
+
+evidence was tainted by the fact that he and the University have commenced this action. The
+evidence is that 180 students attended the Review Session. Given that the allegations do not relate
+to a particular finding of academic offence by any individual student, there does not appear to be
+a gain that would actually be generated as a result of a particular outcome in this hearing.
+31.
+
+Importantly, much of Professor Gazzale’s evidence consisted of a comparison between the
+
+Student’s work and the Review Session. While not looking for material that exonerated the
+Student, he admitted that not all similarities between the Student’s work on Assessment #2 and
+
+-8-
+
+Easy Edu’s tutoring could be attributed to the Student’s attendance at the Review Session. Rather,
+there would be answers that the Student could get right without producing rough work. While he
+did not accept the Student would just guess between two possibly right answers and therefore did
+not need to do rough work, the Panel did not find that this affected his overall credibility. Rather,
+his evidence was based on a comparison, which was visual and attached to his affidavit, of the
+rough work in particular between the Student’s work and that of Easy EDU.
+32.
+
+Professor Hirst also gave evidence with respect to his academic meeting. That included
+
+the disparity of the evidence between Mr. R and the Student at the hearing, compared to what he
+would have been advised. Overall, the Tribunal was less troubled by these minor discrepancies as
+much as the evidence of Mr. R at the hearing which, for reasons described below, was not accepted.
+33.
+
+Both the Student and Mr. R gave evidence. They were consistent with respect to how they
+
+had lived together in the summer of 2020 in a condominium, before the Student moved into
+residence in September 2020. Their evidence was that the Student left behind a gaming laptop so
+as not to be distracted from his work, which Mr. R continued to use after September 20202. They
+testified that they had an oral agreement that the gaming laptop would be sold to Mr. R, and
+produced some financial records of an e-transfer for $950 in November 2020 (i.e. after the Review
+Session). Their evidence was that this was repaid to Mr. R when he departed for China in
+December 2020 in cash so that he could use that cash to convert to Chinese Yen at the airport. Mr.
+R did not take the gaming laptop with him to China, leaving it instead in storage at the
+condominium. The Student later retrieved it from there.
+34.
+
+The Student denied that he participated in the Review Session. His evidence was that he
+
+found out in December 2020 that there was some concern of academic misconduct. He then
+contacted a number of his friends. When it was put to him in cross-examination that he did so to
+find out if they were also in trouble, like him, he acknowledged that it was for “something like
+that”. This did not include Mr. R, who was not in the Course. It was suggested to, but denied by
+him, that the Student was trying to find a friend who would agree to say it was them who
+participated so as to exonerate the Student.
+35.
+
+At some time in December 2020, he, Mr. R and another friend (who did not attend to give
+
+evidence) were out for dinner during which the Student disclosed to Mr. R that he was being
+investigated for academic misconduct. Mr. R then advised that he had been applying for a job
+
+-9-
+
+with Easy EDU as a TA. Though their evidence was not clear, the gist of it was that there was
+some question as to whether Mr. R had used the Student’s gaming laptop to attend an Easy EDU
+session, which they later confirmed was the case. This was the explanation, therefore, for why the
+Student’s name appeared on Zoom, even though it was Mr. R who had attended.
+36.
+
+Mr. R explained that he had completed part of ECO100 with Professor Lee Bailey, but then
+
+had dropped the course. He had no other economics background. However, he was trying to find
+a part-time job and his father suggested that he contact Easy EDU, because of some family
+connection with D
+
+M , who he understood was affiliated with the company. According to
+
+Mr. R, he got in touch with Mr. M
+
+in May or June and sent him his transcript. At that time, the
+
+transcript would have likely revealed that he had no economic courses (having dropped ECO100),
+three courses with a grade below 65, and his highest mark in Sociology (a 74). In respect of
+MAT136 (a course for which he had engaged in academic misconduct himself), it would, at best,
+not have been on the transcript or possibly would have been a zero or a F. However, according to
+Mr. R, as he had partially completed ECO100, Mr. M
+
+suggested that he could be an Economics
+
+TA. All of these discussions took place over We-Chat, the log for which has subsequently,
+according to Mr. R, been deleted, because he switched phones. He was not able to produce any
+other evidence of any of these discussions, nor did he provide particular details of how his family
+actually knew Mr. M .
+37.
+
+These initial discussions took place in May or June 2020. Mr. M
+
+then suggested that Mr.
+
+R could observe one of the courses as a trial, following which he could provide some feedback to
+them about the course. This would be an introduction to Easy EDU and part of the process towards
+possible employment as a TA.
+38.
+
+Mr. R then did not hear from Mr. M
+
+Session. He said he just assumed Mr. M
+
+until shortly before the October 2020 Review
+
+would get in touch with him and he did not want to
+
+bother him, so he never reached back out to Mr. M . In the meantime, he was still looking for
+part-time work.
+39.
+
+As requested by Mr. M , he then attended the Review Session. For reasons that he did not
+
+provide, he used the gaming laptop rather than this own. During the Review Session, he realized
+that he was logged in as the Student. He did not think it would be an issue, and said that he was
+not sure how to change the Zoom name. His evidence was that he was the one who entered in all
+
+- 10 -
+
+the comments onto the Session. He has no reason for his participation other than “for the heck of
+it”. He also said that he answered the question with respect to Professor Bailey as he knew him
+from ECO100. He denied ever telling the Student about Professor Bailey, who had never taught
+the Student. In cross-examination, however, he admitted that Professor Bailey was known at UTM
+(where the Student had attended) for being a hard grader. The Tribunal accepted this as an
+explanation for how the Student would have known the name of a professor that had taught his
+former roommate.
+40.
+
+He never did contact Easy EDU after that, because he was concerned that doing so may
+
+make the situation worse for the Student.
+41.
+
+He also confirmed the evidence of the Student with respect to the intention to purchase the
+
+gaming laptop, and the return of the funds.
+Panel’s Decision on Findings
+42.
+
+Having considered the ASF, the affidavit and oral evidence, the Tribunal found that the
+
+Student had committed an academic offence, in that he obtained unauthorized assistance in the
+Course contrary to section B.I.1(b) of the Code.
+43.
+
+The Tribunal was convinced on the balance of probabilities that the Student Zoom Account
+
+was the same person as the Student who is the subject of these charges. Only the Student was
+motivated to attend this session, and the Student was the only person with that name in the Course.
+The Tribunal was struck by the level of participation by the Student Zoom Account. That person
+clearly was interested in understanding the course content and participating in a manner that was
+educative in nature. The Tribunal also noted that it was on this assignment that the Student did
+best overall in the Course, by a significant margin. Though the Student’s explanation was that this
+was because it was multiple choice or numeric and did not require long essay questions, the
+Tribunal did not accept this explanation given all the evidence that pointed to the Student’s
+attendance at the Review Session.
+44.
+
+The Tribunal also noted that there were a number of similarities including specific
+
+idiosyncratic notations between the Review Session and the Student’s rough work. While the
+Student provided some explanation for those responses (i.e. he learned absolute value), he gave no
+evidence with respect to all the notations, including the use of “E” for elasticity. The appearance
+
+- 11 -
+
+of the rough work that was completed in the Review Session and that was completed by the Student
+on Assessment #2 could not be ignored by the Tribunal.
+45.
+
+In coming to its decision, the Tribunal considered all of the evidence, including that of Mr.
+
+R and the Student with respect to Mr. R’s explanation that he was the one who attended the Review
+Session. Put bluntly, Mr. R’s evidence was not credible, and at times bordering on the incredible.
+The Tribunal rejected his evidence on the following bases:
+(a)
+
+It made no sense that a person who wanted to obtain a job would wait from May or
+June 2020 until October 2020, without any contact, to follow up;
+
+(b)
+
+Mr. R’s academic transcript and his knowledge of economics made him unsuitable
+for the role of a teaching assistant in economics. Put simply, he was not qualified
+for the job that he purported to be trying to obtain;
+
+(c)
+
+If part of the job interview was to attend the course and provide feedback, he failed
+in two respects:
+(i)
+
+by not using his own computer which presumably had his own name on the
+Zoom platform (which he identified as “robinren”) or by not changing the
+Student’s name to his own while in the Review Session, he denied himself
+the opportunity for Easy EDU to know that he had attended the session as
+required by Mr. M
+
+There was no indication to Easy EDU, his prospective
+
+employer, that he was taking the course and observing, which was required
+as part of the job interview process;
+(ii)
+
+he ultimately provided no feedback whatsoever. Although Mr. R said he
+did not contact Easy EDU again because it may cause a problem for the
+Student, that explanation was not credible to the Panel. Mr. R and the
+Student both testified that Mr. R did not know of any problems for the
+Student relating to the Review Session until their dinner in December 2020,
+almost two months after the Review Session. It makes no sense if, as Mr.
+R claims, he was to attend the Review Session and provide feedback, that
+he did not do so at any point between October 18, 2020 and the dinner with
+the Student in December 2020.
+
+- 12 -
+
+(d)
+
+Whomever logged in participated extensively, in answering questions relative to
+the content of the Course. Though Mr. R said it was him, there was no evidence
+given by him as to how he would actually understand any of the content that was
+given, given he had never taken the course, nor had he completed ECO100. While
+there was a suggestion by counsel in submissions that the courses would have a lot
+of similar introductory concepts, there was no evidence to that effect;
+
+(e)
+
+There was no credible explanation for his participation. There was no requirement
+that he participate and the fact he was there to observe. The level of participation
+is that of somebody who would have wanted to be educated from the Course and to
+understand the concepts in the Review Session. It is important that this was not
+one or two notes, but an extensive amount of participation and back and forth with
+the Easy EDU tutor.
+
+46.
+
+The Tribunal rejected Mr. R’s evidence. In the absence of there being any explanation as
+
+to who else may have attended, the Tribunal is left with the evidence of the name of the Student
+on the Zoom Account, the participation of the Student Zoom Account in the Review Session, the
+fact that only students in the Course would be interested in the Review Session, the similarities
+between the rough work of the Student and the Review Session tutor, and the Student’s improved
+grade in Assessment #2. Taken together, this evidence is sufficient to establish Allegation 1.
+47.
+
+Having been advised of these findings, the University withdrew Allegation #2.
+
+Penalty
+48.
+
+The University and the Student provided a joint submission on penalty which provided for
+
+the following sanctions to be imposed on the Student:
+(a)
+
+a final grade of zero in ECO101 H1F in fall of 2020;
+
+(b)
+
+a suspension from the University for two years and four months commencing on
+January 1, 2023; and
+
+(c)
+
+a notation of the sanction on the Student’s academic record and transcript for four
+years from the date of this order until graduation, whichever comes first.
+
+- 13 -
+
+49.
+
+The parties also agreed that the case should be reported to the Provost for publication of a
+
+notice of the Tribunal’s decision and the sanctions imposed, with the Student’s name withheld.
+50.
+
+In circumstances of a joint submission of penalty, the Panel is to accept the joint submission
+
+unless, to do so, would bring the administration of justice into disrepute. That high threshold is
+simply not met in this case.
+51.
+
+The Tribunal considered the range of penalties that have been imposed in other cases where
+
+there have been allegations or unauthorized assistance or plagiarism. The University had provided
+a summary of cases, as well as 15 cases themselves that had set out the appropriate range in the
+circumstances. This included the case of University of Toronto v. X.Z (Case #1274, April 19,
+2022), in which another student who participated in this Review Session had been found guilty of
+unauthorized assistance and received a 2.5 years suspension.
+52.
+
+In addition, the Tribunal was directed to the decision of University of Toronto v. Y.Y. (Case
+
+#851, July 8, 2026), in which this Tribunal noted that, generally, the penalty for cheating during
+exams by receiving unauthorized aids includes a suspension of at least two years for a first offence.
+In this case, however, there is some jurisprudence, including the decision of X.Z., in which the
+Tribunal has noted that the use of a commercial provider, like here, justifies consequences over
+and above the typical two years suspension for unauthorized assistance. In other words, the use
+of a commercial provider is considered to be an aggravating factor.
+53.
+
+In this case, the Tribunal accepted the length of suspension, as being within the range and
+
+not reaching the threshold necessary to justify a more significant misconduct penalty. That said,
+the Tribunal was troubled by the fact that there was an attempt to cover up the Student’s
+misconduct in this case by involving another former student in an elaborate story. But for the joint
+submission on penalty, that may have yielded a different result. While the Tribunal accepts that
+the Student’s decision to defend himself is not (and should never be considered) an aggravating
+factor, the fact that another student was involved in creating this type of story was of grave concern
+to the Tribunal.
+54.
+
+In addition to the reasonable range of outcomes established by the cases, the Tribunal had
+
+regard to the factors set out in University of Toronto v. Mr. C. (Case #1976/77-3, November 5,
+1976) as follows:
+
+- 14 -
+
+(a)
+
+The character of the Student.
+
+This was a first offence by the Student. The Tribunal noted, in particular, that this was a
+situation where at least 180 students attended the EASY EDU session. That said, as noted
+above, the Tribunal was concerned that there was negative reflection of the character on
+the Student by the means by which he elected to defend himself in this hearing, namely by
+the creation of an elaborate story to explain his conduct.
+(b)
+
+The likelihood of repetition of the offence.
+
+The Student did not have a prior record of academic offences. Although the Student
+defended himself in this hearing, it was clear that the Student did understand the
+significance of the allegations made against him and, in particular, admitted and
+acknowledged that, if the person who attended the Review Session was him, that would be
+an academic offence. This type of recognition of what constitutes an offence is, in the view
+of the Tribunal, an important factor that reduces the likelihood of repetition.
+(c)
+
+The nature of the offence committed; and
+
+(d)
+
+Any extenuating or mitigating circumstances.
+
+As noted in X.Y., the University has to be able to trust that asynchronous testing will be
+completed with the same academic integrity as if the test was administered in person. This
+places significant responsibility on students to ensure that their academic performance is
+their own and that they not engage in unauthorized assistance. The type of warning that
+was provided by Professor Gazzale in this course could not have been more clear.
+The Student submitted that an additional mitigating factor is the fact that the Student is an
+international student and this decision may have an effect on his immigration status. The
+Tribunal accepts the advice of Counsel for the Provost that, in previous cases, the
+Discipline Appeals Board has made clear that one does not adjust the sanction based on
+immigration status. In any event, this factor would not have affected the Panel’s
+consideration of the joint submission on penalty, which was otherwise in the reasonable
+range of outcomes.
+
+- 15 -
+
+(e)
+
+The detriment to the University occasioned by the result.
+
+There is a real risk that the University’s integrity will be affected whenever there is a mass
+cheating incident such as this. It reflects poorly on the University and its safeguards in the
+asynchronous learning environment.
+(f)
+
+The need to deter others from committing a similar offence.
+
+Abuse of asynchronous/online testing is an ongoing issue at the University and, as
+exemplified by the cases presented to the Tribunal, has been of particular concern in the
+last several years. It is appropriate, particularly in these times but at all times, to send a
+very strong message to students that the use of unauthorized assistance is academic
+misconduct to be treated very seriously.
+55.
+
+In light of these circumstances and the cases, the Tribunal accepted the joint submission
+
+on penalty.
+56.
+
+Accordingly, at the conclusion of the hearing, the Tribunal made the following order:
+(i)
+
+THAT the Student is guilty of one count of unauthorized assistance,
+contrary to section B.I.1(b) of the Code of Behaviour and Academic
+Matters;
+
+(ii)
+
+THAT the following sanctions shall be imposed on the Student:
+(A)
+
+a final grade of zero in ECO1010H1F in fall 2020;
+
+(B)
+
+a suspension from the University for 2 years and 4 months
+commencing on January 1, 2023; and
+
+(C)
+
+a notation of the sanction on the Student’s academic record and
+transcript for four years from the date of this order until graduation,
+whichever comes first.
+
+(iii)
+
+THAT this case be reported to the Provost for publication of the notice of
+the Tribunal’s decision and the sanctions imposed, with the name of the
+Student withheld.
+
+- 16 -
+
+Dated at Toronto this 23rd day of March, 2023.
+
+Original signed by:
+Cynthia Kuehl, Chair
+On behalf of the Panel
+
+

@@ -1,0 +1,1071 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on June 27, 2013
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on
+Academic Matters, 1995,
+AND IN THE MATTER OF the University o/Toronto Act, 1971, S.0. 1971, c.
+56 as amended S.O. 1978, c. 88
+
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+
+-AND-
+
+Dates of Hearing: November 8, 2013 & January 24, 2014
+Members of the panel:
+Ms. Julie Rosenthal, Barrister and Solicitor, Chair
+Professor Markus Bussmann, Faculty of Applied Science and Engineering, Faculty Panel
+Member
+Mr. Adel Boulazreg, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland, Barristers
+Professor Janet Poole, Instructor for EAS209Hl: Approaches to East Asia
+Ms. Sara Osenton, Graduate Student, Department of East Asian Studies, Faculty of Arts
+and Science
+Dr. Lisa Smith, Academic Integrity Offi cer, Faculty of Arts and Science
+Professor Don Dewees, Dean's Designate, Faculty of Arts and Science
+No one appearing for the Student
+
+In Attendance:
+Ms. Sinead Cutt, Administrative Assistant, Appeals, Discipline and Faculty Grievances
+
+-2-
+
+"
+Reasons for Decision
+Introduction and Preliminary Matters
+
+1.
+
+The Trial Division of the University of Toronto Tribunal was convened on
+
+November 8, 2013 and then again on January 24, 2014 to consider a number charges
+advanced by the University against ~ ~ (the "Student") under the Code of
+Behaviour on Academic Matters.
+
+2.
+
+On the first day of the hearing, the Tribunal waited 15 minutes after the appointed
+
+time for the start of the hearing. Neither the Student nor any representative of hers
+arrived.
+3.
+
+In support of its request to proceed in the absence of the Student, the University
+
+introduced the affidavit evidence of Janice Patterson, a legal assistant to the Discipline
+Counsel who was acting in the matter. Ms. Patterson's evidence established that the
+Student was served with notice of the charges against her on June 27, 2013. Service was
+effected by emailing a copy of the charges, along with a covering letter to the email
+address the Student had provided to the University's Repository of Student Information
+(known informally as "ROSI").
+4.
+
+Ms. Patterson's evidence established that several additional emails relating to the
+
+scheduling of the hearing, including a copy of the Notice of Hearing, were sent to the
+Student at the same email address.
+5.
+
+Ms. Patterson's evidence was that she was not aware of the Student having
+
+responded to any of the foregoing emails.
+
+-36.
+
+The University also introduced the affidavit evidence of Natalie Ramtahal, the
+
+Coordinator, Appeals, Discipline and Faculty Grievances at the Office of the Governing
+Council.
+
+7.
+
+Ms. Ramtahal stated in her affidavit that, on June 27, 2013, she sent a letter to the
+
+Student referencing the letter that had enclosed a copy of the charges (which had been
+sent earlier that day by the Vice-Provost). Ms. Ramtahal's letter explained that a panel
+would be established to hear the matter and urged the Student to seek legal advice. The
+letter was sent by email and by courier to the email address and two street addresses,
+respectively, that the Student had provided to ROSI. According to ROSI, one of those
+addresses expired several weeks after the courier package was sent.
+
+8.
+
+Ms. Ramtahal testified that she sent further emails to the Student and further
+
+letters to the unexpired street address. Among other things, these emails and letters
+included a copy of the Notice of Hearing and a further copy of the charges. The Notice
+of Hearing was sent to the Student on September 10, 2013, almost two months before the
+hearing convened. A further reminder was sent to the Student by courier to the unexpired
+street address on the day before the hearing.
+
+9.
+
+Ms. Ramtahal did not receive any response to any of the foregoing
+
+correspondence.
+
+10.
+
+The Tribunal had to consider whether it was appropriate to proceed with the
+
+hearing in the Student's absence. Such a manner of proceeding- assuming that
+reasonable notice has been given - is authorized by section 7(1) of the Statutory Powers
+
+Procedure Act, R.S.O. 1990, c. S.22, which states as follows:
+
+-4Where notice of an oral hearing has been given to a party to a proceeding
+in accordance with this Act and the party does not attend at the hearing,
+the tribunal may proceed in the absence of the party and the party is not
+entitled to any further notice in the proceeding.
+11.
+
+In addition, Rule 17 of the Tribunal's Rules of Practice and Procedure states:
+
+Where notice of an oral hearing ... has been given to a person in
+accordance with this rule, and the person does not attend at or does not
+participate in the hearing, the panel may proceed in the absence of the
+person or without the person's participation and the person is not entitled
+to any further notice in the proceeding.
+12.
+
+The requirement to give reasonable notice is set out in section 6(1) of the
+
+Statutory Powers Procedure Act:
+
+The parties to a proceeding shall be given reasonable notice of the hearing
+by the tribunal.
+13.
+
+With respect to whether the Student was given reasonable notice, the Tribunal has
+
+considered Rule 9 of the Rules of Practice and Procedure which provides that service of
+a notice of hearing may be effected in a number of different manners, including, by
+sending a copy to the student's mailing address or email address contained in ROSI.
+Rule 9 states as follows:
+
+Charges, notice of hearing, disclosure, material for use on motions, orders,
+and reasons for decision may be served on a student or sent to a student:
+(b)
+by sending a copy of the document by courier to the student's
+mailing address contained in ROSI ... and service shall be effective on
+the day the document is delivered by courier;
+(c)
+by e-mailing a copy of the document to the student's e-mail
+address contained in ROSI ... and service shall be effective on the day the
+document is sent by e-mail.
+
+-514.
+
+In the present case, the Tribunal finds that service of the notice of hearing was
+
+validly effected on the Student, by virtue of the fact that the notice of hearing was sent
+both by e-mail to the Student's e-mail address contained in ROSI and by courier to the
+Student's mailing address contained in ROSI. We find that this constitutes effective
+service under the Rules of Practice and Procedure and meets the requirement of
+reasonable notice as set out in the Statutory Powers Procedure Act.
+
+15.
+
+In reaching this conclusion, we note that the University's Policy on Official
+
+Correspondence with Students imposes an obligation on students to advise the
+University, on the ROSI system, of a current and valid mailing address and a Universityissued email account. The Policy states as follows:
+
+Students are responsible for maintaining and advising the University, on
+the University's student information system (currently ROSI), of a current
+and valid postal address as well as the address for a University-issued
+electronic mail account that meets a standard of service set by the VicePresident and Provost.
+Failure to do so may result in a student missing important information and
+will not be considered an acceptable rationale for failing to receive official
+correspondence from the University.
+16.
+
+In addition, the Policy requires students to monitor and retrieve their mail and
+
+their e-mail. It states:
+
+Students are expected to monitor and retrieve their mail, including
+electronic messaging account[s] issued to them by the University, on a
+frequent and consistent basis.
+
+-6-
+
+17.
+
+Given that reasonable notice was given and that no response was received from
+
+the Student, the Tribunal found it to be appropriate to proceed with the hearing in the
+Student's absence.
+The Charges and the Alleged Misconduct
+
+18.
+
+The charges against the Student were as follows:
+(1)
+
+On or about February 15, 2013, you knowingly represented as your own
+an idea or expression of an idea and/or the work of another in a reading
+response that you submitted for academic credit in EAS209Hl (the
+"Course"), contrary to section B.1. l(d) of the Code.
+
+(2)
+
+In the alternative, on or about February 15, 2013, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with a reading response that you submitted in the Course, contrary to
+section B.I.3(b) of the Code.
+
+(3)
+
+On February 26, 2013, you knowingly possessed an unauthorized aid in a
+make-up quiz that you wrote in place of Tutorial Quiz #1 in the Course,
+contrary to section B.I.l(b) of the Code.
+
+(4)
+
+In the alternative, on February 26, 2013, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with a make-up quiz that you wrote in place of Tutorial Quiz #1 in the
+Course, contrary to section B.I.3(b) of the Code.
+
+-7-
+
+(5)
+
+On or about March 4, 2013, you knowingly obtained unauthorized
+assistance in connection with a partial draft essay that you submitted for
+academic credit in the Course, contrary to section B.I.l(b) of the Code.
+
+(6)
+
+On or about March 4, 2013, you knowingly represented as your own an
+idea or expression of an idea and/or the work of another in a partial draft
+essay that you submitted for academic credit in the Course, contrary to
+sectionB.I.l(d) ofthe Code.
+
+(7)
+
+In the alternative, on or about March 4, 2013, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with a partial draft essay that you submitted in the Course, contrary to
+section B.I.3(b) of the Code.
+
+(8)
+
+On or about March 19, 2013, you knowingly obtained unauthorized
+assistance in connection with an essay that you submitted for academic
+credit in the Course, contrary to section B.I.l(b) of the Code.
+
+(9)
+
+On or about March 19, 2013, you knowingly represented as your own an
+idea or expression of an idea and/or the work of another in an essay that
+you submitted for academic credit in the Course, contrary to section
+B.I.l(d) of the Code.
+
+(10)
+
+In the alternative, on or about March 19, 2013, you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with an essay that you submitted for academic credit in the Course,
+contrary to section B.I.3(b) of the Code.
+
+-819.
+
+The charges relate to four different acts of misconduct all of which are alleged to
+
+have occurred in one course, namely East Asian Studies 209H (referred to hereinafter as
+the "Course"). Charges #2, 4, 7 and 10 are advanced only in the alternative. Discipline
+Counsel indicated that those charges would be withdrawn if convictions were entered on
+the remaining charges.
+
+The Reading Response
+20.
+
+Professor Janet Poole, who taught the Course, testified at the hearing. She
+
+testified that the course work included three "reading responses". For each reading
+response, the students were required to relate specified assigned readings to certain
+designated themes and concepts. The students were specifically instructed that they were
+not permitted to use any outside sources in completing these assignments. The
+assignments were to be marked by the teaching assistants who were helping Professor
+Poole with the course.
+
+21.
+
+The teaching assistant responsible for grading the Student's work was named
+
+Kristin Shivak. In early March 2013, Ms. Shivak sent an email to Professor Poole
+relating to the Student's second reading response assignment. Ms. Shivak wrote that she
+had noticed some suspicious similarities between the Student's submitted work and a
+particular scholarly article available online.
+
+22.
+
+Upon further investigation, Professor Poole found that a number of phrases in the
+
+Student's assignment were identical to those in the scholarly article in question. The
+article was entered into evidence at the hearing. There were, indeed, several long phrases
+
+-9-
+
+and sentences that appeared to be copied almost verbatim from the article into the
+Student's reading response.
+
+23.
+
+Professor Poole also undertook her own research search and found a second
+
+scholarly article with two rather long sentences in its introductory paragraph that were
+virtually identical to the introductory sentences in the Student's assignment. This second
+scholarly article was also entered into evidence.
+The Make-Up Quiz
+24.
+
+Professor Poole explained that the Student e-mailed her, relatively early in the
+
+term, to say that she had missed the Course's first in-class quiz for health reasons and to
+arrange to write a make-up quiz, which was held on February 26, 2013. The make-up
+quiz was worth 10% of the Course's final grade. The students were not permitted to use
+any aids while writing the make-up quiz. Professor Poole was not supervising the
+students as they wrote the quiz. That job fell to Sarah Osenten, a graduate student in the
+East Asian Studies department.
+25.
+
+Ms. Osenten testified that the make-up quiz was held in a faculty boardroom.
+
+Only three students (including the Student) were writing the make-up quiz. All of the
+students were told to leave all of their belongings (with the exception of a pen) on the
+floor, against the wall, and to find a seat at the boardroom table placed in the middle of
+the room. Once seated at the table, the students were each given a test paper and two
+blank sheets of paper on which to write their answers.
+
+- 10 26.
+
+As she watched the students, Ms. Osenten noticed that the Student was keeping
+
+one of her hands in her lap, which struck Ms. Osenten as peculiar, because it made it
+difficult for the Student to keep her answer paper still as she wrote on it. After several
+minutes, Ms. Osenten looked away. When she looked back, it appeared to her that
+something had been placed underneath the Student's answer paper. Ms. Osenten asked
+the Student to give her whatever was under the answer paper. She testified that the
+Student then squealed and tried to pull all of her papers towards her.
+
+27.
+
+Ms. Osenten could see that there was an additional piece of paper, covered with
+
+type-written text in very small font, hidden underneath the Student's answer paper. Ms.
+Osenten seized the additional page, which was entered into evidence as an exhibit at the
+hearing. Professor Poole explained that the notes on this additional page related to
+various readings that were the subject of the make-up quiz.
+
+The Draft Essay and the Essay
+28.
+
+As part of the course work, the students were required to produce an essay of six
+
+to eight pages in length. Prior to submitting the final essay, the students were required to
+submit the essay's introductory paragraph and one further paragraph from the essay
+(collectively referred to hereinafter as the "draft essay"). The purpose of submitting this
+draft essay was to enable Professor Poole to verify that the students were "on the right
+track". The students were told that the essay was to be based on the course readings and
+that it was not to be a research paper.
+
+29.
+
+The Student submitted her draft essay, which Professor Poole reviewed. Certain
+
+aspects of the draft caught her attention and raised her suspicions. For example, a
+
+- 11 -
+
+number of the ideas expressed in the draft were not ideas that had been discussed in class.
+In addition, the draft used fairly complex terminology that, again, had not been discussed
+in class.
+30.
+
+The draft was submitted in MS Word format, which allowed Professor Poole to
+
+check its "document properties". Those properties showed the author of the draft as
+being a person named "Doug Manson", which was not the name of the Student. (This
+was in contrast to the "document properties" of the reading response, which showed the
+Student's name in the "author" field.)
+31.
+
+The Student subsequently submitted her final essay. Once again, certain aspects
+
+of the essay caught Professor Poole's attention and raised her suspicions. First, in order
+to complete the essay, the students were to choose three or four readings on which to base
+their work. The Student's essay focused on three readings that had not yet been covered
+in class. In Professor Poole's experience, this was very unusual. In addition, the writing
+style of the essay (which was marked by a number oflong, complex sentences using
+highly specialized vocabulary) stood in stark contrast to the writing done by the student
+on an in-class quiz (which was marked by very simple sentences, demonstrating no more
+than a basic knowledge of the English language).
+32.
+
+As with the draft, the essay was submitted in MS Word format. Professor Poole
+
+checked the "document properties" of the essay. Again, the properties showed the author
+of the essay as a person named "Doug Manson".
+33.
+
+The Tribunal notes that Discipline Counsel introduced evidence consisting of a
+
+"Linkedin" profile and a "Facebook" page, each of which is purports to relate to an
+
+- 12 individual named Doug Manson (whether the same Doug Manson, it is not known). The
+Linkedin profile simply indicates that Mr. Manson is a "salesman". The Facebook page
+indicates that Mr. Manson is an "Essay and Report Writer and Editor" and states that he
+is engaged in "Helping University and College Students with Essays and Reports".
+Discipline Counsel invited the Tribunal to conclude that the Mr. Manson associated with
+the Facebook page was the same Doug Manson indicated as the author on the "document
+properties" of the Student's draft essay and final essay. The Tribunal, however, declines
+to reach such a conclusion. In short, the evidence is not sufficient to connect the Mr.
+Manson of the Facebook Profile to the Mr. Manson of the document profiles. We have
+no way of knowing how common the name "Doug Manson" is. Without such evidence,
+or without something more to establish that the two people are one and the same, we
+simply cannot conclude that the Doug Manson associated with the Facebook page is in
+fact the same Doug Manson who is listed as the author of the Student's draft essay and
+final essay.
+
+Meeting with the Student at the Office ofStudent Academic Integrity
+34.
+
+On May 9, 2013, the Student attended at a meeting with Dr. Lisa Smith, an
+
+integrity officer at the University's Office of Student Academic Integrity, Professor
+Donald Dewees, the Dean's Designate, and Kasha Visutsky, another integrity officer at
+the Office of Student Academic Integrity.
+
+35.
+
+Both Dr. Smith and Professor Dewees testified with respect to what was said at
+
+that meeting. There were no conflicts between their respective testimony.
+
+- 13 36.
+
+With respect to the reading response, Dr. Smith testified that the Student admitted
+
+that she had used sources that she had found on the internet. The Student also admitted
+that the ideas contained in her reading response were not her own, but were rather those
+of the sources she had found on the internet. Professor Dewees testified that the Student
+admitted that she had knowingly represented as her own the ideas of another, consistent
+with the Code's definition of plagiarism.
+
+37.
+
+With respect to the make-up quiz, Dr. Smith testified that the Student admitted
+
+that she had the typed notes with her when she was writing the quiz. However, she
+insisted that she had not intended to use the notes and, therefore, did not have the intent
+to cheat.
+
+38.
+
+With respect to the essay, Dr. Smith asked the Student certain questions about the
+
+contents of the essay. The Student's answers revealed that she did not understand the
+meaning of some of the terms used in the essay. For example, she did not know the
+meaning of the word "utopian". As a further example, the Student did not know how
+many years there were in a century (another term used in the essay), and she admitted
+that she struggled with English (which was not her first language).
+
+39.
+
+Professor Dewees testified that, when asked about the process she followed for
+
+writing the essay, the Student was very vague. Professor Dewees found this telling, as, in
+his experience, students can typically describe the steps that they followed to complete an
+assignment in great detail.
+
+40.
+
+When pressed further, the Student admitted that she had benefited from what she
+
+termed "peer editing". The Student initially insisted that the "peer editor" (there was
+
+- 14 only one) did not actually edit her essay. Rather, she said that the "peer editor" had made
+comments, which she had then implemented. However, as the meeting wore on, the
+Student's story changed. She eventually admitted that the "editor" was responsible for at
+least 50% of the essay.
+
+41.
+
+The Student also admitted that the "editor" had helped with the two paragraphs
+
+submitted as the draft essay.
+
+42.
+
+In the end, the Student admitted that she had received unauthorized assistance in
+
+connection with the essay and with the draft essay and she admitted that she had
+understood that this type of assistance was not permitted in the Course.
+
+43.
+
+When asked who her peer editor was, the Student was not forthcoming. She was
+
+then asked whether she knew Doug Manson. She initially denied knowing him, but then
+admitted that she did, in fact, know him and that he had helped her with her essay. When
+asked whether she had paid Mr. Manson for his help, she insisted that she had not done
+so.
+
+Analysis - Consideration of the Charges
+44.
+
+The burden of proof is on the prosecutor, to show on "clear and convincing
+
+evidence" that the Student has committed the alleged offences. Code of Behaviour on
+
+Academic Matters, section C.II(a)(9).
+(a)
+
+The Offence Related to the Reading Response
+
+45.
+
+The charge related to the Student's reading response was brought under Section
+
+B.I.l(d) of the Code, which states as follows:
+
+- 15 It shall be an offence for a student knowingly ... to represent as one's
+own any idea or expression of an idea or work of another in any academic
+examination or term test or in connection with any other form of academic
+work, i.e. to commit plagiarism.
+
+46.
+
+As discussed above, the evidence establishes that that a number of phrases in the
+
+Student's assignment were identical to those in the two scholarly articles that were
+entered into evidence. Both articles were available online. Moreover, the Student
+admitted having committed the offence. She admitted that the ideas contained in her
+reading response were not her own ideas, but were rather the ideas expressed in sources
+that she had found on the internet. And she admitted that she had tried to pass those ideas
+off as her own.
+47.
+
+Accordingly, the Tribunal finds the Student guilty on the first charge, namely, that
+
+on or about February 15, 2013, she knowingly represented as her own an idea or
+expression of an idea and/or the work of another in a reading response that she submitted
+for academic credit in EAS209Hl, contrary to section B.l.l(d) of the Code.
+(b)
+
+The Offence Related to the Make-Up Quiz
+
+48.
+
+The charge related to the make-up quiz was brought under Section B.I. l(b) of the
+
+Code, which states as follows:
+
+It shall be an offence for a student knowingly ... to use or possess an
+unauthorized aid or aids or obtain unauthorized assistance in any academic
+examination or term test or in connection with any other form of academic
+work.
+
+49.
+
+As discussed above, the evidence establishes that the Student possessed a sheet
+
+containing notes relating to the assigned readings which were the subject of the quiz. The
+
+- 16 Student was not permitted to be in possession of such notes during the writing of the
+quiz. And, indeed, the Student admitted that she knew that such aids were not allowed.
+
+50.
+
+Accordingly, the Tribunal finds the Student guilty on the third charge, namely
+
+that, on February 26, 2013, she knowingly possessed an unauthorized aid in a make-up
+quiz that she wrote in place of Tutorial Quiz# 1 in the Course, contrary to section B.I.1 (b)
+of the Code.
+
+The Offences Related to the Draft Essay and the Essay
+51.
+
+Discipline Counsel sought convictions on two separate charges with respect to
+
+each of the draft essay and the essay itself. Specifically, for both the draft essay and the
+essay itself, Discipline Counsel sought convictions of a charge that the Student had
+knowingly obtained unauthorized assistance with respect to the assignment (contrary to
+section B .1.1 (b) of the Code) and that the Student had knowingly represented as her own
+the idea of another in the assignment, i.e. that the Student had committed plagiarism
+(contrary to section B.1.1 (d) of the Code).
+
+52.
+
+The offence of unauthorized assistance, as set out in section B.1.1 (b), is as
+
+follows:
+
+It shall be an offence for a student knowingly ... to use or possess an
+unauthorized aid or aids or obtain unauthorized assistance in any academic
+examination or term test or in connection with any other form of academic
+work.
+53.
+
+The offence of knowingly representing as one's own the ideas of another- i.e. the
+
+offence of plagiarism - is set out as follows in section B.I. l(d):
+
+- 17 It shall be an offence for a student knowingly ... to represent as one's
+own any idea or expression of an idea or work of another in any academic
+examination or term test or in connection with any other form of academic
+work, i.e. to commit plagiarism.
+
+54.
+
+The evidence was clear that, for both the draft essay and the final essay, the
+
+Student obtained the assistance of another person - namely, Doug Manson. In this
+respect, the Tribunal notes that the writing styles manifested in both the partial draft
+essay and the final essay differed markedly from the writing style shown in the Student's
+in-class test. The Tribunal also notes that the "document properties" of both the partial
+draft essay and the final essay reveal the author to be "Doug Manson". (By contrast, in
+the Student's second reading response, the author shown in the "document properties"
+was the Student herself.) In addition, the Tribunal relies upon the evidence of Professor
+Dewees, who testified that the Student did not know the meaning of some of the words
+used in her essay, and could not provide any details as to the process that she followed for
+writing the essay. Finally, there is the compelling evidence that the Student admitted that
+Mr. Manson had helped her with the draft essay and that he had written at least half of the
+final essay.
+
+55.
+
+Discipline Counsel asked the Tribunal to find that the Student had paid Mr.
+
+Manson for his assistance, that she had purchased the essay from Mr. Manson. Although
+there was no evidence that money had changed hands, Discipline Counsel argued that the
+Tribunal should draw the inference that the essay (and the draft essay) had been
+purchased from the following evidence:
+
+(a)
+
+the "document properties" which showed Mr. Manson as the author of the
+essay and the draft essay;
+
+- 18 (b)
+
+the type of language used in the assignments, which, according to
+Discipline Counsel "bore the hallmarks of a purchased essay"; and
+
+(c)
+
+the evidence of the Facebook page for a person named "Doug Manson",
+who apparently helps "university and college students with essays and
+reports".
+
+56.
+
+As discussed above, the Tribunal finds that there is insufficient evidence to
+
+establish that the "Doug Manson" who helped the Student with her essay and draft essay
+is the same as the Doug Manson whose Face book page was entered into evidence.
+57.
+
+With respect to the language of the essay and the draft essay, evidence was given
+
+by Professor Poole that the language in both the draft essay and the essay itself was
+similar to language that she had "encountered in purchased essays" in the past. However,
+Professor Poole's opinion as to the language in the Student's assignments does not
+provide a sufficient evidentiary basis for concluding that the Student paid Mr. Manson
+(or, indeed that she paid anyone) for the essay or the draft essay. We note that there is no
+evidence that Mr. Manson writes essays in exchange for payment. There is also no
+evidence of any payment occurring between the Student and Mr. Manson. The only
+evidence is that the Student repeatedly denied having purchased the essay when the
+proposition was put to her by Professor Dewees.
+58.
+
+For these reasons, the Tribunal finds that the evidence does not establish that
+
+either the draft essay or the essay was purchased.
+
+- 19 59.
+
+One final matter needs to be addressed. As noted above, the University sought
+
+convictions on two charges for each of the partial draft essay and the essay. More
+specifically, Discipline Counsel argued that, based upon the finding that both the draft
+essay and the essay contained work that was not the Student's own work, the requisite
+elements of the offences of both unauthorized assistance and plagiarism had been proven
+and that, accordingly, convictions should be entered on both charges. The Tribunal
+disagrees.
+60.
+
+First, it should be noted that Discipline Counsel advised that she was not aware of
+
+any other case wherein a student had been convicted both of obtaining unauthorized
+assistance and of plagiarism in circumstances where the student submitted work that was
+completed by another person. Given that the facts in the present case are hardly unique,
+the Tribunal thinks that this fact is telling.
+61.
+
+Second and more importantly, Appendix "A" of the Code provides a "more
+
+detailed account of plagiarism". Paragraph (p) of Appendix "A" states as follows:
+The present sense of plagiarism is contained in the original (1621)
+meaning in English: "the wrongful appropriation and purloining, and
+publication as one's own, of the ideas, or the expression of the ideas ... of
+another." [emphasis added]
+62.
+
+As we have emphasized in the preceding quote, the offence of plagiarism as
+
+defined in the Code consists, in part, of the "purloining" of another person's ideas.
+"Purloining" is, of course, a synonym for "stealing", taking without authorization.
+63.
+
+That the notion of theft or misappropriation lays at the heart of plagiarism is
+
+consistent with the common understanding of plagiarism, i.e. that it consists of the use of
+
+- 20 another's words ideas without due attribution through the use of citations. Discipline
+Counsel's reading of the offence of section B .I.1 (d) would give no effect to this central
+concept of stealing or theft (or to use the language of the Code, "purloining").
+
+64.
+
+Moreover, such a reading of the offence of plagiarism would broaden it to such a
+
+degree that it would encompass other, separately defined offences, rendering those other
+offences superfluous. For example, section B.I.l(c) of the Code makes it an offence to
+"personate another person, or to have another person personate, at any academic
+examination or term test or in connection with any other form of academic work". If
+Discipline Counsel's reading of plagiarism is correct, then a student who had someone
+"personate" him or her for the writing of a test, thereby committing a clear violation of
+B.I.l(c), would also have committed the offence of plagiarism, since the student would
+have represented as his or her own ideas the ideas of the person who actually wrote the
+test. Such a reading of section B.I. l(d) would thus make section B.I. l(c) superfluous.
+Basic rules of statutory interpretation caution against such a reading.
+
+65.
+
+Accordingly, we find that the offence of plagiarism, as defined in section B.I.l(d),
+
+includes the element of theft, i.e., of taking another's ideas or words without that person's
+permission.
+
+66.
+
+In the present case, as Discipline Counsel confirmed, there is no suggestion that
+
+the Student lacked permission from Doug Manson for the use of his ideas. On the
+contrary, the University's position is that Mr. Manson did, in fact, grant his permission to
+the Student to use his ideas and his work.
+
+- 21 -
+
+67.
+
+Given that there was no lack of permission (indeed, the University's position is
+
+that permission was affirmatively granted) for the Student's use of Mr. Manson's words
+and ideas, the Tribunal concludes that Student did not commit the offence of plagiarism
+when she submitted her draft essay and her essay.
+68.
+
+Before leaving this discussion, the Tribunal notes that Discipline Counsel referred
+
+us to one case where the student was convicted of plagiarism for having submitted work
+that was completed by another person. In that case (University ofToronto v.
+
+,aL1,
+
+Case No. 410; August 20 2007), the student had enlisted two friends to assist him with
+respect to various assignments. The assistance was so extensive that the friends did
+virtually all of the work themselves, although the assignments were, of course, submitted
+under the student's own name. In that case, the Tribunal convicted the student of the
+charge of plagiarism with respect to a number of the assignments in question. However,
+we note that the
+
+LI case does not contain any discussion on this issue. That is, the LI
+
+case does not contain any discussion as to whether a student who has submitted an essay
+that was largely written by another person (who consents to the student's use of his or her
+ideas) commits the offence of unauthorized assistance as opposed to the offence of
+plagiarism. Certainly, the
+
+LI case did not contain any consideration of the definition of
+
+"plagiarism" found in Appendix "A" of the Code.
+69.
+
+In the circumstances, the Tribunal does not find that there is anything in the
+
+II
+
+decision that would cause it to change its decision with respect to the meaning of section
+B.I. l (d) or with respect to whether the Student committed the offence of plagiarism.
+
+- 22 70.
+
+For all of these reasons, the Tribunal finds the Student guilty of the fifth and
+
+eighth charges, i.e. that she knowingly obtained unauthorized assistance in connection
+with a draft essay and in connection with an essay that she submitted for academic credit
+in the Course, contrary to section B.I. l(b) of the Code.
+71.
+
+Given that the second, fourth, seventh and tenth charges were advanced only in
+
+the alternative (and we note that Discipline Counsel made no submissions in respect
+thereto), the Tribunal refrains from considering those charges.
+Analysis - Penalty
+
+72.
+
+The penalty sought by the University was as follows:
+(1)
+
+that the Student be assigned a grade of zero in the Course;
+
+(2)
+
+that the Tribunal recommends to the President that he recommend to
+Governing Council that the Student be expelled from the University;
+
+(3)
+
+that, pending the decision of Governing Council, the Student be suspended
+for five years; and
+
+(4)
+
+that this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanctions imposed, with the name of
+the Student withheld.
+
+73.
+
+However, the foregoing penalty was only sought in the event that the Tribunal
+
+found that the Student had purchased the essay from Doug Manson. As discussed above,
+the Tribunal declined to make such a finding. Accordingly, in that circumstance, the
+penalty sought by the University was as follows:
+
+- 23 (1)
+
+that the Student be assigned a grade of zero in the Course;
+
+(2)
+
+that the Student be suspended for five years;
+
+(3)
+
+that a notation of this penalty be made on the Student's transcript and
+academic record until graduation; and
+
+(4)
+
+that this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanctions imposed, with the name of
+the Student withheld.
+
+74.
+
+In considering the appropriate sanction, the Tribunal has had reference to
+
+Appendix "C" of the Code, which sets out the Provost's Guidelines on Sanctions,
+Offences and Suggested Penalties for Students. Paragraph 2 of Appendix "C" provides
+the following guideline:
+
+For submitting work, where it forms a major fraction of the course, in
+whole from another person, the sanction recommended shall be suspension
+from the University for at least two years.
+75.
+
+In addition, paragraph 3 of Appendix "C" provides as follows:
+
+Where a student has been previously convicted under the Code and
+commits another offence, the recommended sanction shall be from
+suspension for two years to expulsion from the University.
+76.
+
+The Tribunal is also guided by the principles set out In the Matter of Mr. C. (Case
+
+No. 1976/77-3; November 5, 1976), which explained that the Tribunal should consider
+the following factors:
+
+(a)
+
+the character of the person charged;
+
+- 24 (b)
+
+the likelihood of repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the offence;
+
+(e)
+
+the detriment to the University occasioned by the offence; and
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+77.
+
+The Tribunal has considered all of these factors.
+
+78.
+
+With respect to the Student's character, it should be noted that the Student did
+
+take some responsibility for her actions, in that she readily admitted to having committed
+plagiarism in respect of the reading response. However, with regard to the draft essay
+and the final essay, the Student was not forthcoming. Initially, she asserted that she had
+merely obtained help from a "peer editor" and only conceded that Mr. Manson had
+written at least half of her essay when confronted with the fact that the essay's "document
+properties" listed Mr. Manson as the document's author. In addition, we note that the
+Student chose not to attend at the discipline hearing.
+
+79.
+
+With respect to the likelihood of repetition, we note that the Student previously
+
+committed the offence of plagiarism in the course LIN241HlS. That offence was
+committed in the winter term of2012 -just one year before the offences at issue in the
+within proceeding. It seems clear that the sanction imposed in that case (which was a
+grade of zero on the assignment in question) was not sufficient to deter the Student from
+re-offending. The Tribunal also notes that the Student committed four separate offences
+
+- 25 (arising from three separate instances of misconduct) in quick succession. All of this
+suggests a high likelihood of repetition.
+80.
+
+With respect to the nature of the offences, we note that we have found the Student
+
+guilty of one charge of plagiarism (among other offences). The seriousness of plagiarism
+is well-recognized in the decisions of this Tribunal. For example, the decision in The
+
+University ofToronto V.
+
+na-ccase No. 521; January 12, 2009), referred to "the
+
+seriousness of the offence of plagiarism", noting that it "undermines the relationship of
+trust which must exist between the University and its students". (at para. 29) Similar
+comments were made in the decision in The University of Toronto v.
+
+4 (Case No. 66 1;
+
+February 29 201 2).
+81.
+
+We are also mindful of the fact that at least one of the Student's offences required
+
+significant planning and deliberation. The cheat sheet that the Student brought to the
+make-up quiz would have required significant time to prepare. The Tribunal finds it
+unlikely that the sheet was merely study notes, given the extremely small font used and
+the fact that all of the notes were squeezed onto one piece of paper. Moreover, the
+Student must have planned how to bring the sheet with her to the table where she was to
+write the quiz.
+82.
+
+Certainly, none of the offences were the result of carelessness or spur-of-the-
+
+moment decisions.
+83.
+
+With respect to any extenuating circumstances surrounding the commission of the
+
+offences, because the Student did not attend at the hearing, we do not have the benefit of
+any evidence that she might have given as to any such extenuating circumstances.
+
+- 26 84.
+
+With respect to the detriment to the University occasioned by the offences, as we
+
+have already noted, plagiarism is seriously detrimental to the University as a whole. It
+undermines the foundation of academic integrity upon which the University, as a truthseeking institution, rests.
+
+85.
+
+Finally, with respect to the need to deter others from committing a similar
+
+offence, we agree with Discipline Counsel that we need to consider the kind of message
+that should be sent to the University community. The offences committed by the Student
+are all very serious and the penalty imposed should reflect that.
+
+86.
+
+We have reviewed a number of decisions in which the student was found guilty of
+
+plagiarism and, in some cases, unauthorized assistance. The cases reviewed include The
+
+University of Toronto v. ~ (Case No. 689; April 12 2013), The University of
+Toronto v.
+
+4 (Case No. 661; February 29 2012), The University ofToronto v. _ , _
+
+(Case No. 660; February 6 2012), and The University of Toronto v. ~
+(Case No. 625; February 13 2013). In all of those cases, the student had committed a
+prior academic offence. The penalties imposed ranged were remarkably consistent with
+two four-year suspensions being imposed and two five-year suspensions.
+
+87.
+
+Considering all of the foregoing, including the seriousness of the offences, the
+
+number of offences, the lack of any mitigating circumstances, and the risk of the Student
+re-offending, the Tribunal finds the appropriate penalty to be a five-year suspension.
+Given that the Student still has a number of credits to complete before graduation and in
+light of our fi ndings with respect to the likelihood of the Student committing another
+
+- 27 offence, we also fi nd it appropriate to order that a notation appear on the Student's
+transcript and academic record of this sanction until graduation.
+
+88.
+
+For all of these reasons, the Tribunal imposes the following sanction:
+
+(a)
+
+that the Student be assigned a grade of zero in the Course;
+
+(b)
+
+that the Student be suspended for five years;
+
+(c)
+
+that a notation of this penalty be made on the Student's transcript and
+academic record until graduation; and
+
+(d)
+
+that this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanctions imposed, with the name of
+the Student withheld.
+
+~
+
+Dated at Toronto, this '2~
+
+Julie Rosenthal, Co-Chair
+
+day of February, 2015.
+
+

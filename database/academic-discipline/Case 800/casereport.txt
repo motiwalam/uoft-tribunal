@@ -1,0 +1,293 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on March 18, 2015
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+-AND-
+
+REASONS FOR DECISION
+
+Date of Hearing: November 23, 2015
+Members of the Panel:
+Mr. John A. Keefe, Barrister and Solicitor, Chair
+Dr. Joel Kirsh, Faculty Panel Member
+Mr. Hayden Rodenkirchen, Student Panel Member
+Appearances:
+Robert A. Centa, Assistant Discipline Counsel, Paliare Roland Ban-isters
+Ms. Lauren Pearce, Articling Student, Paliare Roland BaiTisters
+Mr. Neil Wilson, Counsel for the Student, Stevenson Whelton MacDonald & Swan LLP
+Dr. Kristi Gourlay, Manager, Office of Student Academic Integrity, University of Toronto
+Mr. Martin Loeffler, Director, Infmmation Security and Enterprise Architecture,
+University of Toronto
+Associate Professor Karen Reid, Department of Computer Science, University of Toronto
+In Attendance:
+Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Krista Osbourne, Administrative Assistant Appeals, Discipline and Faculty Grievances
+
+2
+
+INTRODUCTION
+1.
+
+The trial division of the University of Tribunal was convened on Monday, November 23,
+2015, to consider charges under the University of Toronto Code of Behaviour on Academic
+
+Matters, 1995 (the "Code") laid against the student (the "Student") by letter dated March 18,
+2015, from Professor Sioban Nelson, Vice-Provost, Faculty & Academic Life. The charges
+are set out below:
+THE CHARGES
+
+2.
+
+The charges against the Student in the Notice of Hearing are as follows:
+
+Charges related to altering an academic record
+1.
+
+On or about October 26, 2014, you knowingly forged or in any
+other way altered or falsified an academic record, namely, the
+mark recorded for you on Assignment #1 in the Course CSC 369
+HlF (the "course"), or you uttered circulated or made use of that
+forged, altered or falsified academic record contrary to section
+B.I.3(a) of the Code.
+
+2.
+
+On or about October 27, 2014, you knowingly forged or in any
+other way altered or falsified an academic record, namely, the
+mark recorded for you on Assignment #1 in the Course, or you
+uttered circulated or made use of that forged, altered or falsified
+academic record contrary to section B.I.3(a) of the Code.
+
+3.
+
+On or about October 29, 2014, you knowingly forged or in any
+other way altered or falsified an academic record, namely, the
+mark recorded for you on Assignment #1 in the Course, or you
+uttered circulated or made use of that forged, altered or falsified
+academic record contrary to section B.I.3(a) of the Code.
+
+4.
+
+In the alternative to charges 1, 2, and 3, around November 9, or 10
+you engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in
+the Code, in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I(3)(b) of the Code.
+
+Charges related to Assignment #2 in the Course
+5.
+
+On or about November 9, 2014, you knowingly used or possessed
+an unauthorized aid or aids or obtained unauthorized assistance in
+connection with Assignment #2 in the Course by viewing the work
+of Spencer Christie, another student in the Court, contrary to
+section B.I.1 (b) of the Code.
+
+3
+
+6.
+
+On or about November 10, 2014, you knowingly represented the
+ideas of another, or the expressions of the ideas of another, as your
+own work in your answer to Assignment #2, which you submitted
+in partial completion of the requirements in the Course, contrary to
+section B.I. l (d) of the Code.
+
+7.
+
+In the alternative to charges 5 and 6, around November 9 or 10,
+you engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in
+the Code, in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.(3)(b) of the Code.
+
+THE PLEA
+3.
+
+The Student did not appear in person at the hearing, but he did appear through his counsel,
+Neil Wilson. Counsel for the Student indicated that he would not be entering a plea and
+would not be challenging the evidence. In effect, this was equivalent to a no contest plea.
+The hearing proceeded on the basis that the Univei·sity would nonetheless prove its case even
+though the Student would not be challenging the evidence.
+
+THE FACTS
+4.
+
+The Student was registered at the University of Toronto at the St. George Campus in the
+Faculty of Arts and Science, majoring in computer science. He was registered in CSC 369
+HIF (the "Course").
+
+The Course was being taught by Professor Karen Reid with the
+
+assistance of a teaching assistant Jacqueline Bermudez.
+5.
+
+In the fall term of 2014, the Student hacked into the University of Toronto's computer system
+and he gained access to Ms. Bermudez's computer account. He then used the account to
+change his mark in Assignment #1 from an incomplete grade to 20/40 on October 27, 2014
+and 33/40 on October 29, 2014. This conduct occmTed in the period from October 24 to
+October 29, 2014.
+
+6.
+
+With respect to Assignment #2, the Student hacked into the account of a fellow student Steven
+Christie and copied the work that had been submitted by him on Assignment #2 and submitted
+it as his own work. These events occuned between November 9, 2014 and November 10,
+2014.
+
+4
+
+7.
+
+During the hearing, we were presented with evidence from Professor Reid describing how
+these events were uncovered. We also heard evidence from Maiiin Loeffler, the Director of
+Information, Security, and Enterprise Architecture at the University of Toronto who described
+the investigation that was conducted which formed the basis for establishing that the Student
+had in fact hacked into the University's computer network and with specific details of the
+exact time of entry and the exact activity that was the subject matter of the charge. The
+evidence was quite overwhelming and it was not challenged by the Student.
+
+DECISION OF THE TRIBUNAL
+8.
+
+Based on the evidence presented at the hearing, we had no difficulty concluding that the
+offences had been made out by the University. Accordingly, we found the Student guilty on
+Counts 1, 2, and 3 relating to the altering of his academic record on Assignment #1. The
+University then withdrew Count 4. We also had no difficulty finding the Student guilty on
+Counts 5, and 6. The University then withdrew Count 7.
+
+SANCTIONS AND REASONS
+9.
+
+Following the finding of guilt on the Counts referred to above, the University and the Student,
+through his counsel, provided the Tribunal with an Agreed Statement of Facts and Joint
+Submission on Penalty.
+
+10.
+
+In the Agreed Statement of Facts and Joint Submission on Penalty, it was acknowledged that
+the Student has been suspended from the University under the Code of Student Conduct since
+December 5, 2014. This suspension related to the incident referred to above involving the
+Student gaining access to the University's computer system.
+
+11.
+
+In the Agreed Statement of Facts and Joint Submission on Penalty, the Student agreed to
+permanently withdraw from the University and not to seek admission or readmission to the
+University at any time in the future.
+
+12.
+
+The Joint Submission on Penalty, proposed the following sanctions:
+Joint Submission on Penalty:
+
+5
+
+5.
+
+The Provost and Mr. ~ l submit that, in all the
+circumstances of the case, the University Tribunal should
+impose the following sanctions on M r . ~ :
+(a)
+
+a final grade of zero in the Course CSC 369;
+
+(b)
+a suspension from University from the date the
+Tribunal makes its order until December 5, 2019; and
+(c)
+a permanent notation of the sanction on his
+academic record and transcript
+6.
+
+13.
+
+The pmiies submit that this case shall be reported to the
+Provost for publication of a notice of the decision of the
+Tribunal and the sanction imposed, with the name of the
+student withheld.
+
+The Tribunal then heard the submissions of counsel for the University and the Student and we
+were referred to a number of decisions dealing with the circumstances in which a Tribunal
+should accept or reject a joint submissions on penalty.
+
+14.
+
+The basic principles are as follows:
+(a)
+
+The Tribunal is not obliged or required to accept a joint submission on penalty. The
+Tribunal retains the obligation and responsibility to impose a fit sentence in the
+circumstances of every case including those where a joint submission on penalty has
+been proposed; 1
+
+(b)
+
+The companion obligation is that a joint submission on penalty may be rejected only in
+circumstances where to give effect to it would be contrary to the public interest or
+bring the administration of justice into disrepute. 2
+
+(c)
+
+A good expression of the test is that the Tribunal should only reject a joint submission
+on penalty if it concludes that it is unreasonable or "unconscionable" for it to be
+accepted. 3
+
+1 University of Toronto v. S. . ~ (2014) at para 16
+2
+
+R. v. Tsucism (2006) 216 O.A.C I 04 at paras 18
+
+3
+
+law Society of Upper Canada v. Stephen Alexander Cooper, 2009 ONLSAP 007 at para 19 - referred to and adopted in
+
+Sheran Fernando above.
+
+6
+
+15.
+
+The Tribunal concluded that it would accept the Joint Submission on Penalty based on these
+principles.
+
+16.
+
+An important aspect of our decision was the Student's agreement to permanently withdraw
+from the University and not seek admission or readmission to the University at any time in the
+future.
+
+ORDER
+
+17.
+
+Accordingly, the Tribunal makes the following order:
+(a)
+
+impose a final grade of zero in Course CSC 369;
+
+(b)
+
+a suspension from the University from the date the Tribunal makes its order until
+December 5, 2019; and
+
+(c)
+
+a permanent notation of the sanction on the Student's academic record and transcript;
+
+(d)
+
+That this case should be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed with the name of the
+Student withheld.
+
+Dated at Toronto, this ~ y of December, 2015.
+
+John
+
+

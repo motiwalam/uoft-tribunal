@@ -1,0 +1,623 @@
+Case No. 1074
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on April 30, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO (the “University”)
+- and X
+
+C
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: February 1, 2021, via Zoom
+Members of the Panel:
+Ms. Johanna Braden, Chair
+Professor Paul Kingston, Faculty Panel Member
+Mr. Alex Erickson, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein,
+LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk & Hearing Secretary, Appeals, Discipline, and
+Faculty Grievances
+
+Not in Attendance
+The Student
+
+2
+1.
+
+A panel of the Trial Division of the University Tribunal (the “Panel”) was convened
+on February 1, 2021 to consider charges brought by the University against the
+
+Student under the University of Toronto Code of Behaviour on Academic Matters,
+1995 (the “Code”).
+
+2.
+
+In accordance with an Order made by the Chair of this Panel on January 12, 2021,
+this hearing was held electronically via Zoom because of the danger posed to inperson hearings by the Covid-19 virus. The documents which eventually formed the
+record for this hearing were sent to the Panel electronically in advance of the
+hearing. Participants were able to hear one another throughout. The Panel was
+able to watch witnesses give their evidence so that their credibility could be fairly
+assessed.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+3.
+
+The hearing was scheduled to begin at 9:45 a.m. Neither the Student, nor anyone
+on the Student’s behalf, were logged onto the Zoom link at that time. The Panel
+waited until 10:00 a.m. to start the hearing. The University then requested that the
+Panel proceed with the hearing in the Student’s absence.
+
+4.
+
+Pursuant to Rule 16 of the University Tribunal Rules of Practice and Procedure (the
+“Rules”), notice of an electronic hearing must include the date, time, place and
+purpose of the hearing; a reference to the statutory authority under which the
+hearing will be held; information about the manner in which the hearing will be held;
+and a statement that if a person does not attend the hearing, the panel may proceed
+in the person’s absence. Rule 17 provides that where notice of an electronic
+hearing has been given to a person and that person does not attend the hearing,
+the Panel may proceed with the hearing in the party’s absence. The Rules conform
+to sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”), which set
+
+out the notice requirements.
+
+3
+5.
+
+Pursuant to Rule 9, a notice of hearing may be served on a student by various
+means, including by emailing a copy of the document to the student’s email address
+
+contained in the University’s Repository of Student Information (“ROSI”).
+
+6.
+
+The University’s Policy on Official Correspondence with Students dated September
+1, 2006 expressly states that students are responsible for maintaining on ROSI a
+current and valid mailing address and University-issued email account, and that
+“[f]ailure to do so may result in a student missing important information and will not
+be considered an acceptable rationale for failing to receive official correspondence
+from the University.” Students are expected to monitor and retrieve their email on
+a frequent and consistent basis. Students have the right to forward their Universityissued email account to another email account, but remain responsible for ensuring
+that all University email communications are received and read.
+
+7.
+
+The onus of proof is on the University to establish that it provided the Student with
+
+reasonable notice of the hearing in accordance with these Rules.
+
+8.
+
+In this case, the University provided evidence that the chronology relevant to
+service is as follows.
+
+(a)
+
+The Student was first registered with the University for the Fall term in 2014.
+Her contact information on ROSI shows only her University-issued email
+address, a Mississauga mailing address and a local telephone number.
+
+(b)
+
+At the end of the Winter term in 2017, the Student was placed on a one-year
+academic suspension. She has not enrolled in any classes at the University
+since then.
+
+(c)
+
+January 31, 2018 appears to be the last time the Student logged on to her
+ROSI-listed email address.
+
+(d)
+
+The incident giving rise to these charges took place August 23, 2019.
+
+4
+(e)
+
+On August 26 and August 29, 2019, the Assistant Registrar of Academic
+Standards and Petitions sent emails to the Student to discuss the incident.
+
+The emails were delivered to the Student’s email address, but the Student did
+not reply. The matter was therefore referred to the Academic Integrity Office.
+(f)
+
+The Academic Integrity Office sent emails about the incident to the Student on
+January 15, 20 and 21, 2020. The Student was advised that if she did not
+respond to the Academic Integrity Office, her case would be forwarded to the
+Tribunal for resolution. The Student did not respond. The matter was referred
+to the Tribunal.
+
+(g)
+
+On April 30, 2020 the Charges were sent to the Student’s ROSI-listed email
+address.
+
+(h)
+
+On November 9, 2020, further correspondence was sent to the Student’s email
+address, including a disclosure brief and a copy of the University’s Policy on
+Official Correspondence with Students.
+
+(i)
+
+Further emails about this matter were sent to the Student’s email address on
+November 30 and December 21, 2020 and January 4, January 5 and January
+12, 2021.
+
+(j)
+
+On January 12, 2021, an articling student working for Assistant Discipline
+Counsel attempted to reach the Student at the phone number listed in ROSI.
+She asked the individual who answered the phone to speak with the Student,
+and was advised that she had the incorrect phone number.
+
+(k)
+
+On January 14, 2021 the Notice of Electronic Hearing was sent to the
+Student’s email address.
+
+9.
+
+The evidence is that the Student did not receive any of the emails sent to her by
+
+the University about this incident.
+
+She has not received actual notice of the
+
+Charges, of the disclosure or of the Notice of Electronic Hearing. However, the
+
+5
+Rules do not require actual notice. The University can serve the Student, but
+cannot make the Student actually read what is served.
+
+10.
+
+This hearing took place in the midst of a global pandemic that has shut down many
+parts of the world. The Panel considered the possibility that there was a pandemicrelated reason preventing the Student from accessing her email and/or participating
+in this hearing. However, the Student apparently stopped accessing her email
+account altogether on January 31, 2018, which was long before the pandemic
+began.
+
+11.
+
+The University did not do everything it could have done to contact the Student (it
+did not, for example, attempt to contact her through the mailing address she
+provided on ROSI), but the University did take the steps it was required to under
+the Rules. The Panel was troubled by the absence of actual notice given to the
+Student, and was concerned that it has been almost four years since the Student
+
+was last enrolled in classes at the University. It may be that the Policy on Official
+Correspondence with Students could be clearer about the expectations of students
+once they leave the University. However, the Tribunal was satisfied it was more
+likely than not that the Student had made a deliberate choice some time ago to
+avoid her University-issued email and turn her back on any official communications
+from the University. That choice has consequences.
+
+12.
+
+Therefore, in light of the evidence and the submissions of Assistant Discipline
+Counsel, the Panel was satisfied that the Student had been given reasonable notice
+of the hearing in compliance with the notice requirements of the SPPA and the
+Rules. The Panel decided to hear the case on its merits in the absence of the
+Student. The hearing proceeded on the basis that the Student was deemed to deny
+the Charges alleged against her.
+
+The Charges
+13.
+
+The charges against the Student, with particulars, are as follows.
+
+6
+Charges
+1.
+
+In or about August 2019, you knowingly forged or in any other way altered
+
+or falsified an academic record, and/or uttered, circulated or made use of such
+forged, altered or falsified record, namely, a document which purported to be a
+Confirmation of Enrolment letter dated May 17, 2018 from the Office of the
+Registrar confirming that you were eligible to graduate with an Honours Bachelor
+of Commerce degree in June 2018, contrary to section B.I.3(a) of the Code.
+2.
+
+In the alternative, in or about August 2019, you knowingly engaged in a
+
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.3(b) of the Code, in connection with
+a purported Confirmation of Enrolment letter dated May 17, 2018 from the Office
+of the Registrar confirming that you were eligible to graduate with an Honours
+Bachelor of Commerce degree in June 2018.
+
+Particulars of charges
+
+3.
+
+At all material times, you have been a student at the University of Toronto
+
+Mississauga (“University”).
+4.
+
+In or about August 2019 you provided to the Canada Border Services
+
+Agency a document that purported to be a Confirmation of Enrolment letter dated
+May 17, 2018 from the Office of the Registrar confirming that you were eligible to
+graduate with an Honours Bachelor of Commerce degree in June 2018 (“Enrolment
+Letter”).
+
+7
+5.
+
+Contrary to the information contained in the Enrolment Letter:
+
+(a)
+
+you have not fulfilled the requirements for admission to a degree from the
+
+University,
+(b)
+
+you are not eligible to receive, did not request, and have not received a
+
+degree from the University, and
+(c)
+
+you did not receive the Enrolment Letter from the University.
+
+6.
+
+You provided the forged, altered and falsified Enrolment Letter knowing
+
+that it was forged, altered, and/or falsified when you circulated it by providing it to
+the Canada Border Services Agency.
+7.
+
+You had an obligation to provide accurate and truthful information and not
+
+to misrepresent your academic record. You had an obligation not to provide forged
+or falsified documents to the Canada Border Services Agency.
+
+The Evidence
+
+14.
+
+The University’s evidence was tendered through the affidavits of two witnesses,
+who were present via Zoom to give additional evidence as required.
+
+15.
+
+The first witness was Mr. Richard Levin, who until September 2020 had been the
+University’s Executive Director of Enrolment Services and University Registrar. His
+evidence was as follows.
+(a)
+
+On August 23, 2019, Mr. Levin received an email from Albert Tang, whom Mr.
+Levin described as an Intelligence Officer at the Canada Border Services
+Agency (“CBSA”). Mr. Tang’s email stated, “CBSA is currently conducting an
+investigation” and gave the Student’s name and date of birth. Mr. Tang asked
+for Mr. Levin’s assistance in verifying whether an attached document
+
+8
+purportedly issued by the University on May 17, 2018 (the “2018 Letter”) was
+“consistent with University of Toronto records as having been issued.”
+(b)
+
+Mr. Tang’s email also indicated that he had conducted a verification search
+though what Mr. Levin described as the Designated Learning Institution
+verification process, which is a process whereby Immigration, Refugees and
+Citizenship Canada sends the University’s Registrar’s Office a file of students
+with study permits to ensure those students are enrolled at the University. The
+Registrar’s Office then matches the file with their records and returns it. The
+Student’s file at the time referenced in the 2018 Letter was tagged “on
+probation”.
+
+(c)
+
+Mr. Levin looked at the 2018 Letter appended to Mr. Tang’s email. A copy of
+it was entered into evidence. It is dated May 17, 2018 and is printed on the
+letterhead of the Registrar of the University of Toronto Mississauga. It is
+addressed to the Student “for pickup”, with no address for the Student listed.
+
+The salutation is “To Whom it May Concern” and there is a “Re” line stating:
+“Eligibility to Graduate for [the Student]”. The body of the 2018 Letter purports
+to certify that the Student “has completed the requirements for an Honours
+Bachelor of Commerce degree which the Student has requested to have
+conferred at the June 2018 Convocation. The Student has completed the
+requirements for a Major Program in Marketing.” The 2018 Letter purports to
+be signed by Diane Crocker, Registrar and Director of Enrolment
+Management.
+(d)
+
+Mr. Levin checked the name and birthdate given to him by Mr. Tang against
+the University’s database, and only one student matched – the Student. By
+reviewing the 2018 Letter and the Student’s ROSI record, Mr. Levin quickly
+determined that the 2018 Letter was not an authentic document issued by the
+University. His reasons were as follows.
+(i)
+
+The Student had earned 2 credits and had a CGPA of 0.30;
+
+9
+(ii)
+
+The Student had not completed the requirements for an Honours
+Bachelor of Commerce degree, either at the time the 2018 Letter was
+
+allegedly written or subsequently;
+(iii)
+
+The Student had not requested to have an Honours Bachelor of
+Commerce degree conferred at the June 2018 Convocation ceremony;
+
+(iv)
+
+The Student had been suspended from the University at the time the
+2018 Letter was purportedly written; and
+
+(v)
+
+Diane Crocker, who purportedly signed the 2018 Letter, was not the
+Registrar and Director of Enrolment Management at the relevant time.
+
+(e)
+
+On August 23, 2019 Mr. Levin wrote to Mr. Tang via email and informed him
+that the letter received by the CBSA was not authentic. Mr. Levin’s email to
+Mr. Tang was copied to the University of Toronto Mississauga’s Registrar
+Office so that they could take further action in response to the letter.
+
+16.
+
+Once the Registrar’s Office received the email chain between Mr. Tang and Mr.
+Levin identifying the 2018 Letter as inauthentic, the matter was referred to Vladimir
+Soloviev, the Associate Registrar, Records, Registration and Graduation at the
+University of Toronto Mississauga. He was the second witness to appear at the
+hearing. Mr. Soloviev did not have any direct contact with Mr. Tang. He searched
+the University’s records and compared them with the 2018 Letter. Like Mr. Levin,
+Mr. Soloviev concluded that the 2018 Letter was not an authentic University
+document for many of the same reasons. On August 26, 2019, Mr. Soloviev passed
+his findings on to the Assistant Registrar of Academic Standards and the Manager
+of Academic Integrity and Affairs, which initiated this discipline process.
+
+Decision of the Panel on the Charges
+17.
+
+The University bears the burden of proving on a balance of probabilities that the
+
+Student knowingly forged or in any other way altered or falsified an academic
+record, and/or uttered, circulated or made use of such forged, altered or falsified
+
+10
+record. The requirement that the Student act “knowingly” is made out if the Student
+ought reasonably to have known that the academic record in question had been
+
+forged, altered or falsified. The evidence must be clear, cogent and convincing.
+18.
+
+The majority of the Panel found that the Student was guilty of uttering, circulating,
+and making use of a forged academic record. The 2018 Letter clearly meets the
+definition of an “academic record” as set out in Appendix A to the Code, and the
+record was clearly a fabrication. The Panel compared the 2018 Letter to the
+Student’s ROSI record, and there were multiple obvious and blatant discrepancies.
+The 2018 Letter was not issued by the University.
+
+19.
+
+There was no evidence about how the 2018 Letter was forged or created, so no
+finding could be made against the Student in that regard. However, the majority of
+the Panel concluded it was more likely than not that the Student “circulated, uttered
+and/or made use of” the document. The evidence to support this was not perfect.
+The evidence that the 2018 Letter was submitted to the CBSA was hearsay
+
+evidence from Mr. Levin about what Mr. Tang communicated to him. Without more
+detailed and specific evidence, the Panel was left to infer from the circumstances
+that the 2018 Letter was submitted to the CBSA some time in 2019 to gain some
+sort of immigration-related advantage. Given that the Student had apparently been
+living in Canada while attending the University, but had then been placed on
+academic suspension, and given that the Student was the only person in the
+University’s database matching the name and birthdate submitted by Mr. Tang for
+verification, the majority of the Panel found it was more likely than not that the
+Student was the person who had submitted the false 2018 Letter to the CBSA.
+20.
+
+Panel Member Erickson dissented. He agreed that the 2018 Letter was likely a
+falsified record, however, he could not find on a balance of probabilities that the
+Student had either falsified the record herself or uttered, circulated or made use of
+it. Panel Member Erickson’s reasons were as follows.
+(a)
+
+This Tribunal only has jurisdiction over academic offences committed by
+students (or faculty) of the University. Therefore, there must be clear evidence
+
+11
+showing that the Student created and/or sent the 2018 Letter. Many people
+have the technical skill to create such a document.
+(b)
+
+In this case, there was no evidence of when or how Mr. Tang received the
+2018 Letter, who purported to send it to him, the purpose the 2018 Letter was
+intended to serve, or anything else that would clearly tie the 2018 Letter to the
+Student.
+
+(c)
+
+Even assuming without clear evidence that the intent was to gain some sort of
+immigration-related benefit or advantage, it is possible that others connected
+to the Student were seeking this benefit or advantage without the Student’s
+participation.
+
+(d)
+
+Panel Member Erickson would expect the University to investigate more
+rigorously the source of fabricated documents that the University receives from
+third parties. No one at the University had any contact with Mr. Tang about
+this matter other than a few cursory emails, and no effort was made to find out
+
+more about how Mr. Tang received the document, who he received it from,
+how he received it, or anything else other than the mere fact of the document.
+(e)
+
+There was an absence of cogent evidence explaining how and why the CBSA
+received the 2018 Letter, and therefore Panel Member Erickson was unable
+to find it was more likely than not that the Student was guilty of any form of
+academic dishonesty.
+
+21.
+
+Accordingly, a majority of the Panel found the Student guilty of Charge 1. As
+Charge 2 was in the alternative, it was withdrawn by the University.
+
+Decision of the Panel on Penalty
+22.
+
+Although Panel Member Erickson dissented on whether the University had proven
+
+its case against the Student, he declared that he was able to participate in the
+penalty phase on the understanding that he should proceed as though he had found
+
+12
+the Student guilty. The University was advised of this, and the hearing proceeded
+to the penalty phase.
+23.
+
+The University sought the most serious sanction this Panel can order: an immediate
+suspension of up to five years, coupled with a recommendation to the President of
+the University that he recommend to the Governing Council that the Student be
+expelled.
+
+24.
+
+Since the academic dishonesty in this case does not relate to a specific course or
+courses, there was no rational basis for the Panel to impose grades of zero or to
+cancel credits. Rather, the Panel needed to decide what term of suspension to
+order, and whether to recommend expulsion
+
+25.
+
+The Panel considered the factors and principles relevant to sanction as set out by
+this Tribunal in University of Toronto and Mr. C. (Case No. 1976/77-3, November
+5, 1976).
+
+(a)
+
+The character of the Student: there were no other academic offences on
+the Student’s record. Her grades were very poor. She did not return from
+her year of academic suspension. She stopped checking her Universityissued email in January of 2018. The Student seems to have cut all ties
+with the University some time ago. The Student was not present to give
+any evidence of her character beyond what is revealed by the record before
+us. Since the Student had no actual notice of this hearing, nothing about
+the Student’s character could be inferred from her absence.
+
+(b)
+
+The likelihood of repetition of the offence: while this was the Student’s first
+offence, it was a momentous one. There is nothing in the record to suggest
+that the Student is remorseful or repentant. Again, not much weight can be
+placed upon this factor since the Student had no actual notice of this
+hearing.
+
+13
+(c)
+
+The nature of the offence committed: this was an act of flagrant and
+deliberate dishonesty.
+
+The Student submitted to the CBSA a letter
+
+pretending to be a statement from the University that she was ready to
+graduate, when nothing could have been further from the truth. Not only
+did the Student lie about her academic status, she falsely represented that
+she had completed her degree requirements.
+
+(d)
+
+Any extenuating circumstances: without the Student’s participation, there is
+no evidence of extenuating circumstances for the Panel to consider. This
+cannot be held against the Student, as she had no actual notice of the
+hearing.
+
+(e)
+
+The detriment to the University caused by the misconduct: third parties,
+including immigration authorities, need to be able to rely on records and
+letters issued by the University. Fraudulent records purporting to come from
+
+the University undermine the University’s credibility and reputation, and
+require the University to establish an elaborate system of checks and
+verifications.
+
+(f)
+
+The need for general deterrence: this is very a significant concern. Forged
+documents addressed “To Whom it May Concern” falsely purporting to be
+from the University can be circulated in multiple contexts, seeking multiple
+unearned benefits and advantages. Because these forgeries are sent to
+outside parties, they can be easy to fabricate and difficult to detect.
+
+It is
+
+very important for all students to realize that misrepresenting their University
+status to outside parties in such a fundamental way will have extremely
+serious consequences.
+
+26.
+
+Although the Panel is not bound by previous cases of this Tribunal, and while each
+
+case must be decided on its own facts, it is useful for like cases to be treated alike
+so that all parties can come to hearings with a reasonable expectation of what kind
+
+14
+of penalty they can expect based upon the findings. The Panel reviewed eight cases
+involving forgeries similar to this one. In seven of those cases, students were
+
+suspended for a term of up to five years with a recommendation of expulsion.
+27.
+
+The Student’s use of a forged letter that she passed on to the CBSA fundamentally
+broke trust with the University. Her actions were harmful to the University and to
+the students who depend upon a fair and efficient immigration system to live and
+study in Canada. In all the circumstances, the Panel determined that the most
+severe sanction was appropriate.
+
+Order
+28.
+
+This Panel of the Tribunal made an order as follows:
+
+1. THAT the hearing may proceed in the absence of the Student;
+2. THAT (with one Panel member dissenting) the Student is guilty of one count of
+knowingly forging or in any other way altering or falsifying an academic record,
+and/or uttering, circulating or making use of such forged, altered or falsified
+record, contrary to section B.I.3(a) of the Code;
+3. THAT the Student shall be immediately suspended from the University for a
+period not to exceed to five years;
+4. RECOMMENDING to the President of the University that he recommend to the
+Governing Council that the Student be expelled from the University; and
+5. THAT this case shall be reported to the Provost for publication of a notice of the
+
+decision of the Tribunal and the sanction or sanctions imposed, with the name
+of the Student withheld.
+
+15
+
+Dated at Toronto, this 3rd
+
+of May, 2021
+
+______________________________________
+Ms. Johanna Braden, Chair
+On behalf of the Panel
+
+

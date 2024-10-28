@@ -1,0 +1,460 @@
+Case No.: 1276
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on October 14, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- and -
+
+S
+
+P
+
+REASONS FOR DECISION
+
+Hearing Date: April 13, 2022, via Zoom
+
+Members of the Panel:
+Ms. Sana Halwani, Chair
+Dr. Wendy Rotenberg, Faculty Panel Member
+Ms. Samantha Chang, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals Discipline and Faculty Grievances
+Not in Attendance:
+Ms. S
+P
+
+I.
+
+Charges and Procedural History
+1. The Trial Division of the Tribunal held a hearing on April 13, 2022 to address the following
+charges brought by the University of Toronto (the “University”) against S
+
+P
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”):
+a. On or about November 3, 2020, you knowingly used or possessed an unauthorized
+aid or obtained unauthorized assistance in connection with Test 2 in CHM135H1
+(the “Course”), contrary to section B.I.1(b) of the Code.
+b. In the alternative, on or about November 3, 2020, you knowingly represented as
+your own an idea or expression of an idea or work of another in Test 2 in the
+Course, contrary to section B.I.1(d) of the Code.
+c. In the further alternative, on or about November 3, 2020, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with Test 2 in the
+Course, contrary to section B.I.3(b) of the Code.
+
+II.
+
+Notice
+2. The Student was not in attendance at the hearing and, as a result, Assistant Discipline
+Counsel addressed the issue of notice.
+3. On review of the evidence, and on considering the Statutory Powers and Procedures Act,
+Rules 9(b), 13, 14 and 17 of the University Tribunal’s Rules of Practice and Procedure,
+and the University’s Policy on Official Correspondence with Students, the Panel was
+satisfied that notice had been adequately provided to the Student and decided to proceed
+with the hearing despite her absence.
+4. The evidence of notice included three affidavits as follows:
+a. Affidavit of Samanthe Huang, an Administrative Assistant with the Appeals,
+Discipline and Faculty Grievances Office (“ADFG Office”), Office of the Governing
+Council, of the University, describing the steps taken by the ADFG to serve the
+Student with the charges and the Notice of Electronic Hearing for this matter and
+that no email bounce-backs were received;
+2
+
+b. Affidavit of Kimberly Blake, a legal assistant at Paliare Roland Rosenberg
+Rothstein LLP, confirming that the mail.utoronto.ca email address is the current
+contact information for the Student on ROSI, and showing all the efforts to contact
+the Student prior to the first hearing date including by email to both the Student’s
+utoronto and gmail accounts, by phone to the Student’s number listed in ROSI and
+by courier to the Student’s mailing and permanent address listed in ROSI; and
+c. Affidavit of Andrew Wagg, a member of the University’s Information Technology
+Services, providing evidence of the last time the Student’s ROSI email address
+had been accessed.
+5. Although the evidence provided did not go so far as to confirm conclusively that the
+Student had received the latest Notice of Hearing (because she never responded or
+acknowledged receipt), it is clear from the evidence that the Student was given reasonable
+notice under the Rules of Practice and Procedure. The University served the Student by
+email to both her official ROSI email and her known alternative email address, and by
+courier, as well as seeking to reach the Student by phone. The University took many steps
+beyond what is strictly required by the University’s Policy on Official Correspondence with
+Students. Further the courier confirmation suggests that the Student did in fact receive
+notice.
+6. As set out in Rule 17: “Where notice of an oral hearing, electronic hearing, or written
+hearing has been given to a person in accordance with this rule, and the person does not
+attend at or does not participate in the hearing, the panel may proceed in the absence of
+the person or without the person’s participation and the person is not entitled to any further
+notice in the proceeding.” This language was repeated in the Notice of Electronic Hearing
+emailed to the Student.
+7. On this basis, the Panel was of the view that reasonable notice had been provided under
+the Rules and was content to proceed with the hearing in the Student’s absence.
+
+III.
+
+Summary of Evidence
+8. The evidence of the University on the charges was presented by way of affidavit from:
+a. Kristine Quinlan, Assistant Professor, Teaching Stream, in the Department of
+Chemistry at the University, who was the course coordinator for the Course; and
+3
+
+b. Thomas Mackay, Manager, Student Success & Academic Advising in the
+
+Registrar & Academic Advising Office at Victoria College at the University, who
+until March 12, 2021, was the Director, Faculty Governance, Faculty of Arts
+and Science (the “Faculty”) and oversaw the Academic Integrity (“SAI”) team
+in the Faculty. SAI is the office at the Faculty of Arts and Science that is
+responsible for investigating allegations of academic misconduct and arranging
+for students who are facing such allegations to meet with the Dean or Dean’s
+Designate in accordance with the process set out in the Code.
+9. As the Student did not attend and was not represented at the hearing, the affiants were
+not cross-examined but would have been made available to the Panel if the Panel had
+any questions for them.
+10. The Student was a student in the Course in the Fall of 2020. The Course is a first-year
+course, designed to provide a foundation in physical chemistry for students who intend to
+follow a science program, primarily in the Life or Health Sciences. Due to the pandemic
+the Course was administered online, including the tests for the Course.
+11. Professor Quinlan provided evidence that the students in her course were made aware of
+the academic integrity expectations of the University, including that the use of
+unauthorized aids was a potential academic offence.
+12. The second test in the Course (“Test 2”) was administered online on November 3, 2020
+from 7:00 to 8:05 p.m. EST (the “Test Period”). The test was a multiple-choice test. The
+test instructions provided that Test 2 would take place from 7:00 to 8:00 p.m. To
+accommodate students who may have faced technical issues in initially accessing Test 2
+(e.g. a lag), the instructors accepted any tests that students submitted by 8:05 p.m.
+However, students only had a total of 60 minutes to complete Test 2 within the Test Period.
+13. Test 2 was open book, but the Course instructors and Professor Quinlan made clear to
+the students that they were not permitted to collaborate with one another during the test.
+In advance of Test 2, the Course instructors provided students with two information sheets
+about Test 2 on Quercus (the University’s online teaching and learning system). The first
+information sheet discussed what students were and were not permitted to consult during
+Test 2. The second information sheet clearly stated that students must complete Test 2
+independently.
+4
+
+14. The Student submitted Test 2 on November 4, 2020 at 8:00pm EST and submitted the
+answer “I confirm” to the following academic integrity statement:
+a. In writing and submitting this test, I confirm that my conduct during it will adhere to
+the University of Toronto Code on Behaviour on Academic Matters. I confirm that
+I will NOT act in such a way that would constitute cheating, misrepresentation, or
+unfairness, including but not limited to: using unauthorized assistance,
+impersonating another individual, and committing plagiarism. [Emphasis added]
+15. The Course instructors and Professor Quinlan found that several questions from Test 2
+were posted to a website called Chegg.com, which is a subscription-based website that
+allows students to post problems to the site, which are then answered by so-called
+“experts”. Subscribers are also able to access the questions and answers posted by others
+on the site. The Chegg.com website advertises that a “Chegg Study” subscription costs
+$14.95/month and will allow subscribers to “take a photo of your question and get an
+answer in as little as 30 mins” from an “expert”.
+16. Chegg.com has an “Honor Code”, in which it states that its services are not intended to
+be used for any sort of cheating or fraud. Chegg.com permits instructors to request an
+“honor code investigation” for alleged violations of its “code”
+17. SAI received notice from Professor Quinlan that a number of questions from Test 2 had
+been posted on Chegg.com during the Test Period. As a result, on November 5, 2020,
+Randy Boyagoda, Vice-Dean, Undergraduate at the Faculty of Arts & Science, submitted
+a request to Chegg.com for an investigation by the Chegg.com Honor Code Team. The
+University did not provide Chegg.com with the names of any of the students in the Course.
+18. As part of the SAI’s investigation into the alleged academic misconduct, the Faculty of Arts
+and Science obtained data from Chegg.com that showed that a subscriber with the email
+address s
+
+.p
+
+@gmail.com posted the following questions to Chegg.com on
+
+November 3, 2020 within the test window:
+a. s
+
+.p
+
+@gmail.com posted Question ID 60264312 at 7:03 PM EST (4:03
+
+PM PST);
+b. s
+
+.p
+
+@gmail.com posted Question ID 60264359 at 7:04 PM EST (4:04
+
+PM PST); and
+
+5
+
+c. s
+
+.p
+
+@gmail.com posted Question ID 60264523 at 7:05 PM EST (4:05
+
+PM PST).
+19. The data showed that answers were uploaded to Chegg.com at the following times on
+November 3, 2020:
+a. Question ID 60264312 was answered at 8:01 PM EST (5:01 PM PST);
+b. Question ID 60264359 was answered at 7:11 PM EST (4:11 PM PST); and
+c. Question ID 60264523 was answered at 8:10 PM EST (5:10 PM PST).
+20. Therefore, only one of the questions was answered in the Test Period.
+21. The
+s
+
+Student
+
+Web
+
+Services
+
+Activity
+
+Log
+
+(“SWS
+
+Activity
+
+Log”)
+
+shows
+
+that
+
+.p
+
+@gmail.com was the email address that the University had on record for
+
+the Student until January 15, 2021, when her email address on record was changed to
+her official University email address s
+
+.p
+
+@mail.utoronto.ca. The SWS Activity
+
+Log for the Student also shows that one of the IP addresses she used to log-into the Web
+Services was the same as the IP address of the subscriber who posted the questions to
+Chegg.com
+22. Further, the evidence showed that the subscriber s
+
+.p
+
+@gmail.com listed their
+
+affiliation as being from the College of Southern Nevada and the Student’s academic
+record shows that she received 3.50 transfer credits from the College of Southern Nevada.
+23. The Student answered the question that corresponds with Question ID 60264359
+(Question 2 on the blank Test 2) correctly, but she answered the questions that correspond
+with Question ID 60264312 (Question 7 on the blank Test 2) and Question ID 60264523
+(Question 14 on the blank Test 2) incorrectly.
+24. On the basis of this investigation, on November 15 and 18, 2020, Professor Quinlan
+emailed the Student at the email address s
+
+.p
+
+@gmail.com requesting a
+
+meeting to discuss suspected academic misconduct on Test 2. Professor Quinlan stated
+that she had received some information from Chegg.com and had concerns about the
+potential use of an unauthorized aid during Test 2. On November 18, 2020, the Student
+responded from this same email address.
+
+6
+
+25. On November 19, 2020, Professor Quinlan met with the Student over Zoom to discuss the
+matter. The matter was subsequently forwarded to the SAI office at the Faculty of Arts and
+Science.
+
+IV.
+
+Finding on Charges
+26. The first charge facing the Student is a charge that the Student used or possessed an
+unauthorized aid or obtained unauthorized assistance in connection with Test 2 in the
+Course. As is described below, the Panel found the Student guilty of this first charge, and
+the two alternative charges were withdrawn. Thus, only this first charge will be discussed.
+27. The burden is on the University to prove charges on a balance of probabilities.
+28. The Course syllabus was clear that although Test 2 was “open book” students were to
+complete the test independently and that the use of unauthorized aids during tests was a
+potential academic offence.
+29. There is therefore no question that the Student knew or ought to have known that use of
+a website like Chegg.com during the Test Period would be an academic offence. The
+primary question for the Panel therefore was whether the Student did in fact access
+Chegg.com during the Test Period.
+30. The evidence presented at the hearing and summarised above shows that it was more
+likely than not that it was the Student who posted questions from Test 2 and viewed
+answers on Chegg.com.
+31. The Chegg.com subscriber used the Student’s email address, from one of the Student’s
+IP addresses, to post questions from Test 2 during the Test Period, and to view answers.
+Further, of the three questions posted, the Student only answered correctly the one
+question that was answered during the Test Period.
+32. Following deliberation and based on the affidavit evidence and the documents in the
+University’s Book of Documents (re: Finding of Offence), the Panel concluded there was
+clear and convincing evidence, on a balance of probabilities, that the Student obtained
+unauthorized assistance in connection with Test 2 by posting questions to Chegg.com.
+33. Posting the questions is sufficient for a finding of guilt because attempts to commit the
+offences in the Code are themselves offences: “B.II.2 - Every member who, having an
+7
+
+intent to commit an offence under this Code, does or omits to do anything for the purpose
+of carrying out that intention (other than mere preparation to commit the offence) is guilty
+of an attempt to commit the offence and liable upon conviction to the same sanctions as
+if he or she had committed the offence.”
+34. In this case, there is also sufficient evidence to conclude that the Student obtained an
+answer to one of the posted questions, and thus actually obtained unauthorized
+assistance.
+35. The charge was therefore proven, and the Student was found guilty.
+36. On finding the Student guilty of the first charge, the two alternative charges were
+withdrawn.
+
+V.
+
+Finding on Penalty
+37. Once the Panel had made a determination on the charges, no additional evidence was
+provided as any evidence relevant to penalty had been previously provided.
+38. The University requested the following penalty for this offence:
+a. a final grade of zero in the course CHM135H1 in Fall 2020;
+b. a suspension from the University of Toronto from the date of this order for a period
+of 3 years; and
+c. a notation of the sanction on their academic record and transcript from the date of
+this order for a period of 4 years.
+39. The University also requested that this case be reported to the Provost for publication of
+a notice of the decision of the Tribunal and the sanction imposed, with the Student’s name
+withheld.
+40. To support this proposed penalty, Assistant Discipline Counsel made submissions on the
+following:
+a. The Provost’s Guidance on Sanctions
+b. The typical penalty for cases of unauthorized assistance; and
+
+8
+
+c. Relevant factors in determining the appropriate sanction.
+A.
+
+Provost’s Guidance
+
+41. The Provost’s Guidance states that the Provost will request that the Tribunal suspend a
+student for two years for any offence involving academic dishonesty, where a student has
+not committed a prior offence, as is the case with the Student. However, the Guidance
+also states that the Provost will request that the Tribunal recommend that a student be
+expelled where the student has submitted academic work that the student has purchased,
+in whole or in part, unless that student has demonstrated through her or his cooperation,
+or otherwise, that a lesser penalty is appropriate.
+42. Assistant Discipline Counsel presented this case as being in between those two situations.
+Although a typical first offence penalty is two years, this case has a significant aggravating
+factor of the use of Chegg.com which is a commercial service. The Student, however, did
+not purchase an entire essay, for which the Provost would seek expulsion.
+43. The three years of suspension requested by the Provost is in line with this Guidance.
+B.
+
+Similar Cases
+
+44. The three-year suspension is also in line with similar cases presented by Assistant
+Discipline Counsel. While the Panel is not bound by any of these decisions, they are
+helpful in assisting the Tribunal in treating like cases alike.
+45. The cases provided to us involved use of unauthorized aids including a number of cases
+involving Chegg.com. The cases varied with respect to whether the students had prior
+offences, whether they participated in the proceeding, and whether there was an Agreed
+Statement of Facts and/or a Joint Submission on Penalty. To summarize them briefly:
+a. Penalties ranged from two to three years for students with and without priors.
+b. When there was no commercial aspect proven—i.e. when there was no evidence
+that the student paid for a subscription themselves—the penalty tended to be on
+the lower two-year end of the range.
+c. Where there were priors, the penalty tended to be on the higher three-year end of
+the range.
+
+9
+
+46. Here, the Student did not have any priors but the commercial aspect was proven. As
+described in the University of Toronto v. S.E.C. (Case No.1215, January 13, 2022), this
+commercial aspect is an important consideration for penalty (at paras 72-73):
+Further, in today’s online world, it is easy for students to find new ways to
+access unauthorized assistance and so any sanction must denounce
+cheating on tests and deter others in order to protect the academic integrity
+of the University. Students must understand that this kind of misconduct will
+have serious repercussions, so that they will be dissuaded from the
+temptation to consider cheating.
+The Panel accepted the University’s submission that by using Chegg.com,
+a paid commercial subscription service, the Student committed a more
+serious form of academic misconduct, and that while normally the sanction
+for the first offence would be a two year suspension, the Panel was satisfied
+that the circumstances of this case combined with this aggravating factor
+while considering the range of sanctions provided by prior decisions of this
+Tribunal in similar circumstances, a three year suspension of the Student
+from the University was appropriate.
+C.
+
+Relevant Factors under Mr. C.
+
+47. Finally, Assistant Discipline Counsel made submissions on the factors to be considered in
+penalty as set out in the University of Toronto v. Mr. C. case (Case No.: 1976/77-3,
+November 5, 1976).
+48. The Student in this case has not participated at any stage of the process. The Student has
+therefore not shown any remorse, not presented any character evidence and not raised
+any mitigating or extenuating factors to warrant a more lenient sanction.
+49. The Panel did note that there was some evidence in the record of mitigating factors. In
+email correspondences with Professor Quinlan, the Student mentioned that she was
+experiencing family issues, mental health issues and hardships related to Covid. However,
+the Panel did not have any details of the situation, and the University was not able to test
+those statements because the Student did not attend. On that basis, the Panel gave the
+mitigating factors identified in the email limited weight.
+50. The Covid-19 pandemic was also presented as a factor that could create extenuating
+circumstances as this offence was committed in November 2020. The pandemic has
+certainly created more stress for all of us, including students, and the Panel did take that
+into account.
+
+10
+
+51. With respect to the likelihood of repetition of the offence, the Student has no prior
+academic offences but also did not express any remorse (as she did not appear). This
+factor was therefore treated as neutral.
+52. With respect to the nature of the offence, this offence is very serious because there is an
+element of deliberation and purposeful dishonesty in carrying it out. As stated by the Panel
+in the University of Toronto v. T.J (Case No. 1102, November 5, 2021) “the Covid-19
+pandemic has amplified the importance of trust. Online learning provides more
+opportunities for students to cheat. […] By cheating on his exam, the Student undermined
+the grades-based system of evaluation and broke the honour code that is essential to
+modern learning.”
+53. With respect to the need to deter others, we again echo the words of the Panel in the
+University of Toronto v. T.J. case:
+cheating on exams must always be denounced and deterred in order to
+protect the academic integrity of the University. In today’s online world, it is
+all too easy for students to find new outlets for unauthorized assistance.
+Students must understand that this kind of misconduct will have serious
+repercussions, so that they will be dissuaded from the temptation to cheat
+when under pressure.
+54. Taking all of these submissions into consideration, the Panel imposed the requested
+penalty.
+
+VI.
+
+Decision of the Panel
+
+55. At the conclusion of the hearing on penalty, the Panel conferred and made the following
+order:
+a. that the Student is guilty of one count of knowingly using or possessing an
+unauthorized aid or obtaining unauthorized assistance in connection with Test 2 in
+CHM135H1, contrary to section B.I.1(b) of the Code;
+b. that the following sanctions shall be imposed on the Student:
+i. a final grade of zero in the course CHM135H1 in Fall 2020;
+
+11
+
+ii. a suspension from the University of Toronto from the date of this order for
+a period of 3 years; and
+iii. a notation of the sanction on their academic record and transcript from the
+date of this order for a period of 4 years; and
+c. that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+DATED at Toronto, May 16, 2022
+
+Original signed by:
+_________________________________
+Ms. Sana Halwani, Chair
+On behalf of the Panel
+
+12
+
+

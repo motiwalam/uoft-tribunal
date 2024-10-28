@@ -1,0 +1,772 @@
+THE UNIVERSITY OF TORONTO
+THE GOVERNING COUNCIL
+Report #434 of the Academic Appeals Committee
+March 26, 2024
+To the Academic Board
+University of Toronto
+Your Committee reports that it held a hearing on November 23, 2023, at which the following
+members were present:
+Academic Appeal Committee Members:
+Professor Hamish Stewart, Senior Chair
+Professor David Zingg, Faculty Governor
+Seyedereza Massoum, Student Governor
+Hearing Secretary:
+Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+the “Student”)
+For the Rotman School of Management:
+Lily Harmer, Paliare Roland Rosenberg Rothstein LLP
+Joseph Berger, Paliare Roland Rosenberg Rothstein LLP
+Introduction
+The Student appeals from a decision of the Graduate Academic Appeals Board (GAAB), which
+dismissed an appeal from a decision of Professor Craig Doidge, Vice-Dean of the Rotman School
+of Management (the “Faculty”), accepting the recommendation of the Faculty’s Graduate
+Department Academic Appeals Committee (GDAAC) that he dismiss the Student’s appeal from
+the grade of B+ that the Student received in RSM1160 (the “Course”). A majority of your
+Committee dismisses the appeal. One member of your Committee would allow the appeal and
+substitute a notation of CR.
+All otherwise unspecified references in this decision are to the Student’s appeal materials.
+
+1
+
+Overview
+In September 2021, the Student was enrolled in the Course at the Faculty. He received a grade of
+B+ for the Course. The grade included three components: class participation, a group
+presentation, and a reaction paper. The grading scheme was as follows:
+•
+•
+•
+
+Class participation: 10%
+Group presentation: 45%
+Reaction paper: 45%
+
+The Student was assessed as follows (p. 383):
+•
+•
+•
+
+Class participation: 6/10
+Group presentation: 77% or 34.65/45
+Reaction paper: 36/45
+
+This assessment translated into a final mark of 76.65%, which the instructor rounded up to 77%.
+This grade is in the B+ range.
+The Student sought a review of the grade. The Faculty declined to provide a review of the first
+two components of the grade. The review process therefore involved a re-reading of the paper by
+an anonymous second reader. The second reader confirmed the grade for the reaction paper. The
+Student appealed the Course grade. The GDAAC recommended that his appeal be dismissed.
+The Vice-Dean accepted that recommendation. The Student’s further appeal to the GAAB was
+dismissed.
+The Student now appeals to your Committee. The remedies he seeks are as follows:
+•
+•
+•
+
+“a change in the grading basis for the Course from the letter grade scale to a pass-fail
+scale” (p. 33), or
+in the alternative, a grade based solely on the reaction paper, or
+in the further alternative, a substantive re-evaluation of all three components of his grade.
+
+Procedural matters
+The Chair of your Committee alone made decisions on the procedural matters discussed under
+this heading.
+The Faculty’s request to file revised materials
+The Student submitted his appeal materials on May 15, 2023. The Faculty’s response was
+submitted on July 17, 2023. In his reply, dated September 5, 2023, the Student, among other
+matters, pointed out two incomplete case citations in the Faculty’s submissions. The Faculty
+sought to file a revised version of its submissions to correct those errors. In a letter dated October
+15, 2023, the Student objected strenuously to the Faculty’s request, arguing that if your Chair
+2
+
+were to accept the revised versions of the Faculty’s materials, his position would be prejudiced
+and the hearing of the matter would be delayed by the need for the Faculty to provide a
+systematic comparison of the two versions of its submissions and by his to need reply to the
+revised revisions.
+The Chair was very surprised by the Student’s objection. In the Chair’s view, the incomplete
+citations in the Faculty’s original submissions were minor errors. Correcting them would in no
+way prejudice the Student’s ability to put forward his position. There was no need for a
+comparison of the two versions because there was no reason to think that counsel for the Faculty
+would have done anything other than correct the two minor errors that the Student had pointed
+out. If the Student was concerned that there might have been other changes, instead of requesting
+a detailed comparison of the two versions, the Student could have requested an assurance (in the
+form of an undertaking, if necessary) from the Faculty’s counsel that there were none. There is
+no doubt that such an assurance would have been given and that it would have been reasonable
+for the Chair and the Student to accept it. But the Chair was also of the view that the minor
+errors in the original version made little or no difference to the Faculty’s ability to put its position
+forward. The Chair therefore rejected the Faculty's request to file revised materials.
+The Student’s request to call witnesses
+On November 14, 2023, the Student wrote to the Senior Chair, requesting that the Senior Chair
+issue summonses pursuant to s. 10.1 and 12 of the Statutory Powers Procedure Act, R.S.O. 1990,
+c. S.22, compelling the following persons to appear at the hearing of his appeal: Professor
+Richard Powers, who was the course instructor in RSM1160; Professor Liao; and Professor
+Michael Ryall (a member of the Faculty). On November 15, 2023, counsel for the Faculty
+provided written submissions opposing the Student’s request. The Senior Chair denied the
+Student’s request and subsequently gave reasons for that decision (see Report #429).
+The admissibility of the SGS policy on “Re-reading & Retention of Examinations”
+The hearing was held on the afternoon of November 23, 2023. Towards the end of the hearing,
+during the Faculty’s oral submissions, reference was made to the SGS Re-Reading Policy,
+available at https://facultyandstaff.sgs.utoronto.ca/managing-student-records/retentionexaminations/. The text of this policy was not included in either party’s materials. Wondering
+whether the SGS Re-Reading Policy might have some bearing on the appeal, the Chair asked
+counsel for the Faculty where it could be found. Counsel promptly provided the link noted
+above. The Chair was not able to determine in the moment whether the SGS Re-Reading Policy
+was relevant to the issues in the appeal and so asked the parties to provide submissions on that
+question. On December19, 2023, the Student provided written submissions consisting of an
+introduction, two substantive points, and a conclusion. The Student included the SGS ReReading Policy as an exhibit to his submissions and described it as “Ambush Evidence.” The
+Chair read the Student’s submissions in early January and found that the Student’s first
+substantive point (concerning procedural fairness) was without merit. On January 10, 2024, he
+offered the Faculty an opportunity to reply to the Student’s second substantive point (concerning
+relevancy). On January 11, 2024 the Student wrote to the Chair, objecting to the Faculty’s having
+been given the opportunity to make submissions. On January 12, 2024, the Faculty provided its
+
+3
+
+response to the Student’s submissions of December 19, 2023. Your Chair concluded that the
+policy was of little relevance and that your Committee would not be significantly assisted by
+considering it. He therefore chose not to add it to the materials to be considered by your
+Committee during its deliberations. Written reasons for this decision were provided to the parties
+on February 5, 2024 (see Report #431).
+The Positions of the Parties
+The Student has characterized the issues to be decided by your Committee as follows (p. 7):
+(A) Were the prior decisions to uphold the Appellant’s failing class participation grade
+and presentation grade without a substantive re-evaluation into the Appellant's
+performance reasonable?
+(B) Were the prior decisions to uphold the Appellant's reaction paper grade reasonable?
+(C) Were the prior decisions made in a procedurally fair manner?
+Under issue (A), the Student makes five submissions:
+(i)
+
+(ii)
+
+(iii)
+(iv)
+
+(v)
+
+The Faculty’s policy concerning disputes about grades provides that “participation
+points or presentations are not subject to a re-read …” (p. 8). The Student submits
+that the GAAB’s decision to uphold this policy was unreasonable (pp. 8-13). The
+Faculty defends its policy (Faculty submissions, paras. 37-44).
+The Student submits that neither (a) the GDAAC nor (b) the GAAB conducted a
+substantive review of the participation and presentation components of his grade and
+that their refusal to do so was unreasonable (p. 14). The Faculty does not dispute the
+fact that the GAAB refused to conduct a substantive review, but submits that it was
+not required to do so, and indeed should not have done so. (Faculty submissions,
+paras. 45-47.)
+The Student submits that the participation grade awarded by the course instructor was
+unreasonable and unjustified (pp. 15-19) and
+that the presentation grade awarded by the course instructor was unreasonable (pp.
+19-21). With respect to these two points, the Faculty submits that your Committee
+“has no jurisdiction to consider the merits of the grades assigned with respect to the
+Participation or Presentation elements of [the Student’s] grade” (Faculty submissions,
+para. 48) and urges your Committee to defer to the GAAB’s finding that the Student
+had not demonstrated any procedural unfairness in the course instructor’s procedures
+for assigning or reviewing those grades (Faculty submissions, paras. 49-54).
+The Student submits that the grading scheme for the course violated the Faculty’s
+policies (pp. 21-22). The Faculty submits that the grading scheme for the Course was
+consistent with its policies (Faculty submissions, para. 52).
+
+Issue (B) concerns the third component of the Student’s grade, the reaction paper. For reasons
+that will be briefly spelled out below, on a grade appeal neither the GAAB (from whose decision
+the Student appeals) nor your Committee will consider the substantive academic merits of a
+
+4
+
+student’s work. Issue (B) therefore requires your Committee to review the fairness of the
+procedures by which the Student’s reaction paper was reassessed. The central allegation of
+unfairness in the Student’s written submissions is what he characterizes as a “lack of
+transparency,” namely, the Faculty’s refusal to disclose the identity of the second reader.
+Relatedly, he submits that “the Academic Director failed to provide the [Student] with an
+opportunity to object to the appointment of the Anonymous Regrader” (p. 28). The Faculty
+agrees that it failed to disclose the second reader’s identity and that it did not consult with the
+Student before selecting the second reader. The Faculty submits that its process “adhered to the
+provisions of the Faculty Policy providing for re-read requests” (Faculty’s submissions, para.
+56).
+Issue (C) involves several allegations of procedural unfairness that overlap to some extent with
+issues (A) and (B).
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+The Student submits that he was entitled to a high degree of procedural fairness in the
+academic appeal process (pp. 26-27). The Faculty’s position is that the Student
+received the degree of procedural fairness to which he was entitled (Faculty
+submissions, paras. 53, 59).
+The Student submits the course instructor impermissibly delegated his authority over
+grading the participation component of the grade to the teaching assistant (pp. 16-17
+and 27-28). The Faculty submits that the Student has not shown that the course
+instructor delegated his authority (Faculty submissions, para. 51).
+The Student submits that he was not consulted “when the instructor carried out his
+evaluation of the [Student’s] class participation” and when the Academic Director
+assigned the second reader (p. 28). The Faculty accepts that the Student was not
+consulted but submits that it acted in accordance with its policies (Faculty
+submissions, paras. 60-61).
+The Student submits that the conduct of (a) the course instructor and (b) the GAAB
+demonstrated reasonable apprehension of bias. The Faculty submits that neither the
+conduct of the course instructor nor the conduct of the hearing before the GAAB
+gives rise to a reasonable apprehension of bias (Faculty submissions, paras. 63-67).
+The Student submits that “the instructor’s assessment was procedurally unfair
+because of the inordinate delay in rendering his decision” (p. 32). The Faculty agrees
+that there was a delay in the Student’s receipt of his Course grade but submits that the
+delay did not create procedural unfairness (the Faculty’s submissions, paras. 73-77).
+
+Jurisdictional matters
+The matters under this heading were determined by the Chair of your Committee alone.
+The primary remedy sought by the Student is outside your Committee’s jurisdiction
+As noted above, the primary remedy sought by the Student is “a change in the grading basis for
+the Course from the letter grade scale to the pass-fail scale.” Your Chair originally interpreted
+
+5
+
+this as a request that the Student’s grade in RSM1160 should be changed from B+ to CR.
+Granting such a remedy is likely within the jurisdiction of your Committee. However, it appears
+from the Student’s written submissions (p. 33, para. 151), from his oral submissions at the
+hearing, from a letter to Professor Liao early in the appeal process (p. 52), and from the
+GDAAC’s recommendation (p. 182) that he is seeking something quite different, namely, that the
+grade of every student enrolled in RSM1160 in the Fall 2021 term be changed from a letter grade
+to CR or NCR. That is, every student who received a grade of B- or higher would be reassigned a
+grade of CR and every student (if any) who received a grade of less than B- would be reassigned
+a grade of NCR. The Student refers to your Committee’s Report #358, in which he says your
+Committee granted “this exact remedy”, demonstrating that your Committee “has full authority
+to change the grading basis of a course” (para. 152).
+If the Student is in fact seeking “a change in the grading basis for the Course from the letter
+grade scale to the pass-fail scale”, it is not only an “inappropriate” remedy, as the GDAAC
+rightly said (p. 182), but also outside the jurisdiction of your Committee. There are three reasons,
+each sufficient on its own, why that is so. First, your Committee’s primary function is “[t]o hear
+and consider appeals made by students against decisions of faculty, college or school councils (or
+committees thereof) in the application of academic regulations and requirements” (AAC Terms
+of Reference, Article 2.1). This function does not extend to modifying the grading scheme of a
+course. Second, changing the method of evaluation for a course may be done only in accordance
+with Article 1.3 of the University’s Assessment and Grading Practices Policy (the AGPP). The
+procedure described there is no longer available for a course offered in the Fall 2021 term. Third,
+the other students enrolled in RSM1160 are not parties to this appeal and it would be, to say the
+least, profoundly unfair for your Committee to purport to make an order that affected their
+grades.
+The Student’s reference to Report #358 does not assist him. In that case, your Committee
+changed the student appellant’s grade from B+ to CR but did not purport to change the grading
+basis of the course in which she was enrolled.
+Your Committee proceeded on the assumption that, although it did not have jurisdiction to grant
+the primary remedy sought by the Student, it did have jurisdiction to change his grade from B+
+to CR.
+Your Committee has no jurisdiction over the grading scheme for the Course
+Some of the Student’s submissions amount to an attack on the grading scheme for the Course
+(see in particular paras. 4, 149-151). Your Committee’s discussion of two of the Student’s
+specific objections to this scheme may be found below. However, the Chair holds that your
+Committee has no jurisdiction to allow a student’s appeal on the basis of that student’s
+dissatisfaction with the grading scheme for a course. As noted above, your Committee’s function
+is to hear appeals concerning “the application of academic regulations and requirements …” It is
+well-established that your Committee has no jurisdiction to modify or invalidate an academic
+regulation or requirement. For the purposes of a grade appeal, the academic regulation or
+requirement in question is the grading scheme for the course in which the student was enrolled.
+Therefore, your Committee cannot consider the validity or wisdom of the scheme but only its
+
+6
+
+application to the student appellant in the case at hand. So if, for example, your Committee were
+to agree with the Student that the methods used to evaluate students’ work in RSM1160 were
+“seriously flawed” or “unfair” or “problematic” (p. 33), that would not be a basis for allowing his
+appeal. It is not for your Committee to tell the Faculty, or any other division of the University,
+what grading schemes and methods of evaluation it may or may not use in evaluating its
+students.
+Your Committee will therefore not give effect to any of the Student’s submissions that the
+grading scheme for RSM1160 was unfair or unreasonable.
+The Student’s submission that the grading scheme for RSM1160 was not authorized by the
+Faculty’s own policies (submission A(v)) is another matter. The Chair is tentatively of the view
+that your Committee has no jurisdiction over this issue. However, the Faculty did not make that
+argument but instead urged your Committee to accept the GAAB’s holding that there was no
+inconsistency between its policies and the grading scheme for RSM1160 (Faculty submissions,
+paras. 52-54). Your Committee’s decision on this issue may be found below.
+The Student’s submissions concerning substantive review of his reaction paper are outside the
+jurisdiction of your Committee
+As submission A(ii)(b), the Student submits that the GAAB’s decision was unreasonable because
+it refused to conduct its own substantive review of his reaction paper (para. 107). He also invites
+your Committee to make its own judgment about the academic merits of his reaction paper
+(paras. 108-110).
+It is well-established that, on a grade appeal, your Committee will not consider the substantive
+academic merits of a student’s work. (See, for example, Report #415.) Instead, your Committee
+will consider whether the division in question reasonably applied its own policies and procedures
+concerning grading; if not, your Committee will provide a remedy. (See, for example, Report
+#413.) The same principles apply to proceedings before the GAAB. It is not your Committee’s
+role to reassess the academic merits of a student’s work and your Committee lacks the expertise
+to do so.
+Your Committee will therefore not give effect to any of the Student’s submissions to the effect
+that the original evaluation or the second reader’s evaluation of his reaction paper was
+substantively unreasonable.
+It is unnecessary to consider the Student’s submissions concerning the conduct of the appeal
+before the GAAB
+The Student makes a number of submissions (C(iv)(b)) concerning the conduct of the appeal by
+the GAAB: specifically, that the GAAB Chair suffered from reasonable apprehension of bias, or
+actual bias, because she had previously presided over some of his other appeals (para. 139); that
+one member of the panel may have been in an undisclosed conflict of interest (para. 139); and
+that the panel was actually biased against him (para. 142). If your Committee were to accept
+them, the proper remedy would be a new hearing before a differently constituted panel of the
+
+7
+
+GAAB. The Student has not sought that remedy. Therefore, the Chair of your Committee finds
+that it is unnecessary for your Committee to consider these submissions.
+The Chair adds that if the Student was concerned that the GAAB Chair might actually be, or
+reasonably appear to be, biased against him, or that a GAAB panel member was in a conflict of
+interest, or that the composition of the GAAB panel raised an apprehension of bias, he should
+have raised those issues with the GAAB Chair at the time of the hearing. It is too late to do so
+now.
+Majority Decision
+(A) Were the prior decisions to uphold the Appellant’s failing class participation grade and
+presentation grade without a substantive re-evaluation into the Appellant's performance
+reasonable?
+(A)(i)
+The Faculty refused to provide a reassessment, or “re-read” of the class participation and group
+presentation components of his grade. The basis for the refusal was that the Faculty’s policy
+concerning disputes about grades provides that “participation points or presentations are not
+subject to a reread …” (p. 8).
+As noted above, your Committee has no jurisdiction to modify or invalidate the policies of a
+division of the University. The Faculty’s refusal was in accordance with its policy. Normally, that
+would be sufficient to dismiss this argument. However, the Student argues that the policy in
+question is invalid, not because it is unreasonable or inherently flawed (though he also submits
+that it is), but because, in his submission, it is inconsistent with SGS policies, which provide that
+“Graduate students may appeal substantive or procedural academic matters …” (SGS
+Regulations, s. 10.1) and which take precedence over departmental policies. The Faculty submits
+that the SGS Regulations are consistent with the AGPP (Faculty submissions, para. 40).
+The Chair of your Committee is unsure whether an academic appeal is a suitable vehicle for a
+challenge to the validity of a divisional or departmental policy on the ground that it is
+inconsistent with another University policy. That is because, as noted above, your Committee
+does not have jurisdiction to modify or invalidate a divisional policy. However, the Faculty did
+not make this jurisdictional argument. Instead, the parties framed their arguments in terms of
+whether the Faculty’s policy was compliant with SGS policy, and your Committee dealt with this
+issue on that basis.
+Assuming for the sake of argument that your Committee could invalidate a policy on the ground
+that it was inconsistent with a policy that was higher in the hierarchy of University norms, a
+student would have to show that the impugned policy was, in light of the higher policy,
+unreasonable. That is because the standard of review on an academic appeal is reasonableness
+(Policy on Academic Appeals Within Divisions [PAAWD], article 2.ii). Your Committee also
+notes the preference for local decision-making in the PAAWD, which provides in article 3.i that
+
+8
+
+“Divisions should decide how best to implement this policy …”, suggesting that even if your
+Committee does have the power to invalidate a divisional policy for inconsistency with other
+University policies, that power would have to be exercised with great deference towards a
+division’s choices as to how to structure its own academic appeal processes.
+Article 2 of AGPP requires divisions to ensure that students have access to their written
+examinations and states that divisions “should provide, in addition to the customary re‐checking
+of grades, the opportunity for students to petition for the re‐reading of their examination where
+feasible …” Article 5 of AGPP requires every division to establish a procedure for the appeal of
+final grades. PAAWD provides general guidance to divisions concerning academic appeal
+processes. But AGPP and PAAWD do not require divisions to have any specific procedures for
+reviewing final grades, and they do not require divisions to have any particular procedures, or
+any procedures at all, for substantive review of individual components of course work such as
+grades assigned for class participation, group work, lab reports, reaction papers, in-class quizzes,
+etc. Consistent with AGPP and PAAWD, SGS provides for appeals of “substantive or procedural
+academic matters”, which includes final grades (SGS Regulations, s. 10.1). In light of AGPP, this
+policy should likely be read as requiring every division to establish a procedure for the rereading of examinations “where feasible.” It does not, however, specifically require re-reads or
+other forms of reassessment or any other form of evaluation. The Faculty’s appeal policy
+provides for re-reads of all written work (not just examinations). But it specifically states that
+“participation points or presentations are not subject to a re-read.” This exclusion is consistent
+with AGPP, PAAWD, and the SGS regulations. Substantive review of a grade does not
+necessarily require independent reassessment of every component of the grade. Your Committee
+notes that even the AGPP’s requirement that every division permit petitions for re-reading of
+examinations is qualified by the phrase “where feasible.” Even if your Committee were to read
+the relevant policies as implicitly requiring the reassessment of every component of a final grade
+(and we do not), that requirement would by analogy also be subject to feasibility. It is in general
+not feasible to reassess class participation and group presentations. The Faculty’s choice to
+exclude class participation and presentations from rereading on appeal is reasonable. Thus, even
+if the Faculty’s grade review procedures are subject to review by your Committee, your
+Committee would not modify them as urged by the Student.
+A(ii)
+As noted above, your Committee will not hear the Student’s submission that the GAAB failed to
+provide a substantive reconsideration of the Student’s participation and group presentation
+marks. Since the Faculty’s grade review and appeal policy does not require substantive
+reconsideration of class participation and group presentations, the GDAAC also made no error in
+declining to conduct a substantive review of those elements of the Student’s grade.
+If it had chosen to do so, the GDAAC could have conducted its own substantive review of the
+Student’s reaction paper to supplement the substantive review conducted by the second reader
+(as occurred in Report #415). It was the appropriate body with the expertise to do so. But it was
+not unreasonable for the GDAAC to rely on the second reader’s detailed assessment of the
+
+9
+
+reaction paper, read in light of the course instructor’s original explanation for the grade. There is
+no merit in this ground of appeal.
+A(iii)
+The Student submits that the participation grade awarded by the course instructor was
+unreasonable (pp. 15-19). To the extent that this submission seeks substantive review of that
+grade, for the reasons given above, your Committee will not consider it. The Student’s argument
+that the process of arriving at the grade was procedurally unfair is within your Committee’s
+jurisdiction and is discussed below.
+A(iv)
+The Student submits that the presentation grade awarded by the course instructor was
+unreasonable (pp. 19-21). To the extent that this submission seeks substantive review of that
+grade, for the reasons given above, your Committee will not consider it.
+However, the Student also has procedural objections to the grade. First, the Student submits that
+“the Instructor’s reasons [for awarding the grade] were not justifiable, intelligible, or
+transparent” (p. 19). Your Committee rejects this submission. The instructor’s reasons are clear
+and touch upon all aspects of the grading criteria for the group presentation (p. 37). Second, the
+Student submits that “the Instructor failed to consider [that] the [Student’s] group was at a
+serious disadvantage” because his group consisted of four rather than, as most other groups did,
+five or six persons. Your Committee rejects this submission. The Student has not offered
+anything beyond generalities to explain how the smaller group size would have disadvantaged
+him in particular. Nor is there any evidence that he, or the other members of the group, asked the
+course instructor to take this factor into consideration when evaluating the group presentation.
+Your Committee dismisses this ground of appeal.
+A(v)
+The Student submits that the grading scheme for the Course violated the Faculty’s policies (pp.
+21-22). He argues that “the Faculty policies dictate that the total weight of group work must not
+exceed 40% of the overall evaluation for any course” (p. 21). This submission depends entirely
+on a one-page internal Faculty document, titled “Course Syllabus Checklist” (p. 403).
+The Checklist is a guide for instructors as to how to prepare their course syllabus and upload it to
+Quercus. The Checklist begins by stating that “The course syllabus (or outline) is a contract
+between you and the students. As with all contracts, language matters and should be consistent to
+avoid misunderstandings and appeals.” The Chair of your Committee does not believe that a
+course syllabus is a “contract” in the common law sense. But your Committee nevertheless
+agrees with the spirit of the introduction to the Checklist: a course syllabus should clearly outline
+the course requirements, the evaluation scheme, and the instructor’s expectations of students, so
+that from the outset of the course students will have a good idea of what is expected of them. It is
+not suggested that the syllabus for RSM1160 failed to do that. Rather, the Student argues that the
+
+10
+
+grading scheme was invalid because it was inconsistent with the Checklist. One of the 15 points
+on the checklist reads in part as follows: “Couse Grade Components. No deliverables more
+than 80%; group work maximum 40%; class participation maximum 20% …” The Student
+submits that this point on the checklist is a strictly enforced policy of the Faculty and that the
+grading scheme for RSM1160 was invalid because it did not comply with this point (pp. 21-22).
+He supports this submission with email correspondence between himself and Caroline Pye,
+Assistant Director of Academic Services at the Faculty. Ms. Pye told him, “group work may
+comprise no more than 40% of a course grade. That is the process and I likely might have
+communicated this to [a] new instructor. Unfortunately, I cannot find a record of it. A deviation
+to exceed 40% requires Vide-Dean approval” (p. 405). Your Committee has been provided with
+no other material indicating that the 40% limit stated in the Checklist is a Faculty policy.
+By the Student’s reckoning, group work for the Course was weighted at 55%, counting both the
+group presentation and class participation (para, 92). Your Committee rejects the Student’s
+contention that individual class participation marks are “group work.” Participation points are
+assigned to individual students. Your Committee therefore finds that the weight for group work
+was 45%, as stated above. This weighting would still exceed what the Student says is the 40%
+limit. The Faculty submits that the grading scheme for the Course was consistent with its
+policies.
+This submission is an attack on the reasonableness of the grading scheme for the Course, which,
+as noted above, your Committee will not entertain; moreover, the Chair is unsure whether an
+academic appeal is a suitable vehicle for a challenge to the validity of a grading scheme.
+In any event, your Committee is satisfied that the grading scheme for the Course did not violate
+the Faculty’s policies. On the material before it, your Committee is not satisfied that the Faculty
+even has a policy limiting group work to 40% of a course grade. If the 40% limit stated in the
+Checklist does originate from a Faculty policy document, your Committee has not been provided
+with that document. It does not appear in the Faculty’s ehandbook for instructors (pp. 166-179).
+On the material before your Committee, if there is such a policy, it is best interpreted not as a
+strict limit but as a guideline for instructors. Your Committee accepts Professor Liao’s statement
+that the Checklist provides merely a “suggestion regarding maximum groupwork allocations”
+and that the MBA program “does not generally intervene if a faculty member uses their
+discretion to deviate from these guidelines, so long as the deviation is not significant” (p. 102).
+B. Were the prior decisions to uphold the Appellant's reaction paper grade reasonable?
+As part of the appeal process within the Faculty, the Student met with the course instructor on
+Zoom to discuss his reaction paper. Two weeks later, on February 7, 2022, the instructor emailed
+the Student some comments on the paper, concluding with the remark that “it was an A- paper”
+(p. 42). Your Committee finds that the instructor’s comments clearly identified the strengths and
+weaknesses of the paper. The instructor stated that the paper was “long on the story but not as indepth a discussion around the models and methods used in determining ethical v unethical
+behaviour”; he noted certain assertions that the Student made that were not well-supported; and
+he identified certain respects in which the A papers in the class were superior to the Student’s.
+
+11
+
+Your Committee finds that this feedback was more than sufficient to inform the Student of the
+instructor’s reasons for assigning the paper a grade of 36/45.
+The Student sought a re-read of his reaction paper. In a letter to Professor Liao, he disputed the
+instructor’s feedback (pp. 48-52). He repeats some of these points in his submissions to your
+Committee (pp. 24-25). This material has to do with the substantive academic merits of the
+Student’s paper and accordingly your Committee has not considered it.
+Professor Liao then sent the Student’s paper to another faculty member with expertise in business
+ethics, together with the Student’s statement and material from the course instructor concerning
+the evaluation of the reaction paper. On April 18, 2022, the Academic Director wrote to the
+Student, summarizing the second reader’s assessment of the paper and informing the Student that
+his grade would stand. The second reader found that the course instructor’s “assessment was, if
+anything, generous” and provided a detailed discussion of the strengths and weaknesses of the
+reaction paper (pp. 143-144). Your Committee finds that this discussion was more than sufficient
+to inform the Student of the second reader’s reasons for upholding the grade.
+To the extent that the Student’s submissions on the second reader’s report might be characterized
+as issues of procedural fairness, rather than matters of substantive academic merit, your
+Committee rejects them. The Student says, for example, that the second reader’s reasons “did not
+justify his assessment with reference to the grading outline that the instructor had provided in
+advance” (para. 112). Those criteria characterize A- papers as making “a good case for their
+opinion” and using “the facts [properly] to support their opinion”; an A- paper should be
+“convincing regardless of the position taken” (para. 112). But the second reader’s opinion refers
+to those very criteria. It finds that the grade of A- “was, if anything generous” exactly because
+the paper does not meet the criterion of making “a good case” for the Student’s opinion; instead,
+in the second reader’s view, it “simply makes a series of unsupported assertions” and provides no
+demonstration of the assertion that it begins with (p. 143).
+The Student submits that the process of choosing the second reader was unfair in that he was not
+informed of the identity of the second reader. As noted above, the second reading was conducted
+on a double-blind basis; that is, neither the Student nor the second reader were informed of the
+other’s identity. The Faculty continues to maintain the anonymity of the second reader’s identity;
+it has refused to disclose the name of the second reader to the Student (p. 23) and has not
+identified that person in its submissions your Committee. The Student believes that the second
+reader is Professor Michael Ryall (para. 103), and he argues that the Faculty is motivated to
+conceal his identity as the second reader because “Professor Ryall’s conception of business ethics
+and approach to teaching [RSM1160] is so irreconcilably different from the [course instructor’s]
+that it would be impossible for the Faculty to justify its choice of Professor Ryall” (para. 104,
+and see para. 105). He also maintains that procedural fairness required him to be consulted as to
+the choice of second reader (p. 28).
+This submission is so inextricably intertwined with the Student’s submissions on the substantive
+academic merits of his paper that it cannot succeed. It is not contested that the second reader,
+whoever that person was, had expertise in business ethics. To that extent, the second reader was
+qualified to serve a second reader. Whether that person’s approach to business ethics was or was
+
+12
+
+not “irreconcilably different” from the course instructors is a substantive question of academic
+merit that was appropriately considered by the GDAAC and by Professor Liao. It is a question of
+academic merit that your Committee will not consider. There is no merit in the Student’s
+submission that the choice of second reader was substantively unreasonable.
+The Student’s submissions concerning the procedure for choosing the second reader are
+considered below.
+(C)
+
+Were the prior decisions made in a procedurally fair manner?
+
+C(i)
+The Student submits that he was entitled to a high degree of procedural fairness in the academic
+appeal process (paras. 116-117). The Faculty does not contest that the Student is entitled to
+procedural fairness and submits that that the entire process was procedurally fair.
+The Student also submitted that he, in particular, was entitled to a high degree of procedural
+fairness in this appeal process because of the consequences of the B+ grade for him. The Student
+argued that the B+ grade in RSM1160 was “a shocking blemish on what would otherwise be an
+exemplary straight-A academic record”. He argued further that because of this “blemish”, “[h]e
+will likely be called to appear before a Character and Fitness Committee to explain his inferior
+performance in [RSM1160], and may need to take extra steps to demonstrate his ethics” (para.
+118). This submission is utterly without merit and does not assist the Student. B+ is not a
+“blemish” but a good grade. There is no prospect that any licensing authority would have the
+slightest concern about the character or fitness of a candidate for the bar who had received a
+good grade in business ethics.
+To the extent that Student’s argument is that the “blemish” arises from a contrast between the B+
+in RSM1160 and the rest of the Student’s academic record, and that the Student is therefore
+entitled to a high degree of procedural fairness, your Committee rejects it.1 The Student’s
+invocation of his academic record does not assist him. The degree of procedural fairness owed to
+a student in the appeal process does not depend on the student's academic record or academic
+standing. The relevant degree of procedural fairness is the same regardless of whether the student
+is a “straight A- student” or a student with a weak academic record.
+C(ii)
+The Student submits the course instructor impermissibly delegated his authority over grading the
+participation component of the grade to the teaching assistant (pp. 16-47 and 27-28). The Faculty
+Your Committee is not wholly persuaded by the Student’s description of himself as a “straight-A student.” Apart
+from the B+ in RSM1160, his grades in the Faculty of Management include A+, A, H (honours), and CR, while his
+grades in the Faculty of Law include HH (high honours), H, P (pass with merit), and CR. Your Committee was not
+provided with the Student’s undergraduate transcripts, which would have been irrelevant to the issues on appeal.
+But, for the reasons explained in the text, the quality of his transcript is in any event irrelevant.
+1
+
+13
+
+notes that the GAAB rejected the allegation of impermissible delegation and submits that your
+Committee should defer to that conclusion (Faculty submissions, paras. 50-53). Its position is, as
+Professor Doidge put it in his submissions to the GAAB, that in assessing class participation
+“[t]he Instructor complemented the TA’s records with his own qualitative assessment” (p. 324).
+Class participation accounted for 10% of the Course grade. The Student’s participation was
+assessed at 6/10. The record indicates that participation grades in the section of the Course in
+which the Student enrolled, the highest participation grade was 7/10 and that over both sections
+the range of grades for participation was between 5/10 and 9/10 (p. 387). The process for
+determining the participation grade was as follows. A teaching assistant (referred to in the
+materials as a “pilot” or “co-pilot”) kept track of the number of times each student made a
+comment in class. The teaching assistant’s discretion was limited to determining whether a
+student’s intervention amounted to a “comment” for the purposes of the Course (p. 27).2 The
+course instructor assigned the participation grade on the basis of the teaching assistant’s records
+and his own qualitative impressions. In an email to the Student, the course instructor stated that
+“Based on records kept by the TA, and my own comments, you had a total of 4 comments, none
+of which I had highlighted as insightful or added significantly to the topic and/or discission”; on
+this basis, he assigned a grade of 6/10, which he said “was the average for the class” (p. 38).
+The Student has three procedural objections to this process. First, he says that because the
+teaching assistant “was free to decide whether a contribution amounted to a comment …” the
+course instructor “clearly contravened faculty policies” by permitting the teaching assistant to
+exercise judgment. The policy in question is found in the Faculty’s ehandbook for instructors,
+which states (p. 176):
+Instructors must assume responsibility for all components of the final grades even when
+markers or teaching assistants have done some of the marking. This implies that markers
+and/or teaching assistants should only mark those questions where the marking requires
+no judgment by the marker.
+The Student says the grading procedures for the Course violated this policy. As he puts it, “It was
+procedurally unfair for the instructor to have the [teaching assistant] exercise any judgment at
+all” (para. 125).
+Your Committee rejects this submission. The “no judgment” limit in the policy explicitly applies
+to the assessment of written work, not to the assessment of class participation; it is therefore
+questionable whether it is applicable here. But, more fundamentally, there can be no decisionmaking without judgment. As the course instructor put it, the teaching assistant was required to
+determine whether an intervention by a student “amounted to a comment” for the purpose of the
+Course; if so, the teaching assistant would record it; if not, the teaching assistant would not
+record it. The teaching assistant therefore had to exercise this very basic level of judgment. As
+counsel for the Faculty put it in her oral submissions, if a student intervened to point out that the
+instructor or another student was on “mute,” or that the conversation was being disrupted by
+background noise, that intervention would not qualify as a “comment” for the purposes of the
+The source for this statement is said to be an “internal email.” That email does not appear in the documents filed in
+support of the Student’s submissions; however, the Faculty did not take issue with its existence.
+2
+
+14
+
+course, and the teaching assistant would be correct not to record it as such. Asking the teaching
+assistant to determine whether an intervention by a student “amounted to a comment” was
+unavoidable, reasonable, and fair.
+The Student’s second objection falls under issue A(iii) but is best considered here. The Student
+asks your Committee to infer (as he asked the GAAB and the GDAAC to infer) that the course
+instructor did not actually provide his own assessment of class participation but relied
+“exclusively on the qualitative metrics recorded by the [teaching assistant].” He asserts that there
+is “no evidence” that the course instructor made a qualitative assessment of class participation
+(para. 64). He notes that in responding to his freedom of information request, the Faculty
+produced no records of any notes or comments made by the instructor and asks your Committee
+to infer that no such records ever existed (para. 63). In the Student’s submission, this delegation
+of authority to the teaching assistant was procedurally unfair.
+Your Committee rejects this submission. Contrary to the Student’s assertion, there is evidence
+that the course instructor performed a qualitative evaluation. This evidence is the course
+instructor’s explanation of how he assigned the participation grades: in addition to the records
+kept by the teaching assistant, he relied on the Zoom chat log, which he looked at after each
+class, and on his recollection, which was fresh at the time, of how the class had progressed (p.
+27). If the course instructor made any written notes on class participation, which is not clear from
+the record, your Committee infers that they were made for the use of the course instructor at the
+time and were not, and were not intended to be, permanently retained. With respect to the
+Student in particular, the course instructor told him that “you had a total of 4 comments, none of
+which I had highlighted as insightful or adding significantly to the topic and/or discussion” (p.
+38). That judgment combines the teaching assistant’s metrics with a qualitative assessment. The
+record supports the Faculty’s position that class participation marks in RSM1160 were assigned
+in accordance with its policies.
+The Student’s third objection was raised under issue C(iii) but is more conveniently considered
+here. He submits that he was not consulted “when the instructor carried out his evaluation of
+[his] class participation” (p. 28). The Student notes that in some courses at the Faculty, students
+are permitted to submit “participation logs” to assist course instructors in assessing participation
+grades (see p. 416 for an example). Your Committee finds this submission to be utterly without
+merit.
+To the extent that this submission concerns the grading scheme for the Course (as para. 131
+suggests), your Committee will not consider it because, as indicated above, an academic appeal
+is not a suitable vehicle for challenging the grading scheme for a course. Course instructors may,
+if they choose, consider some form of self-evaluation, such as the participation logs referred to
+by the Student, in evaluating students’ work, but no University or Faculty policy requires that
+they do so.
+To the extent that this submission is a complaint that the course instructor did not give the
+Student an opportunity to make submissions concerning the evaluation of his class participation
+mark (as para. 133 suggests), your Committee rejects it. Students have no right to be consulted
+about or to participate in the evaluation process; in a course evaluated by written work, for
+
+15
+
+example, students have no right to make submissions as to what their grade should be or to
+participate in the course instructor’s reading and evaluation of the written work. If an individual
+student were to offer such submissions, a course instructor should not consider them because
+considering such submissions would be contrary to the instructor’s duty to evaluate work only on
+its academic merits and would be procedurally unfair to other students enrolled in the course.
+To the extent that the Student’s claim is that in January 2022, he offered his own records of class
+participation to the course instructor and that the course instructor refused to consider them (as
+para. 131 suggests), your Committee declines to consider it because it is a new issue. The
+Student did not raise this argument with the Academic Director, with the GDAAC, or with the
+GAAB (compare pp. 41-42, 46, 71-72, 196-99). The Student has never previously asserted that
+at the meeting of January 2022, he offered to provide his own records to the course instructor and
+that the course instructor refused to consider them. These facts do not appear in either the
+Student’s detailed description of the meeting (pp. 41-42) or in the course instructor’s brief
+recollection of the meeting (p. 388).
+To the extent that the Student’s point is that his grade was unfair because there is a conflict
+between his own recollection of his performance and the instructor’s (as para. 132 and his
+submission to the GAAB at p. 199 suggest), that is a question of substantive academic merit that
+your Committee will not consider.
+C(iii)
+The Student submits that he was denied procedural fairness because, when the Academic
+Director assigned the second reader, he was not consulted (p. 28). The Student points to a
+previous instance in which he was asked “whether he had any objections to the selection of a rereader” (para. 135). This submission is connected with the Student’s submission that he should
+have been informed of the identity of the second reader (para. 134). These facts are not in
+dispute. The Faculty accepts that the Student was not consulted but submits it acted in
+accordance with its policies.
+The Faculty’s appeal policies do not specify whether a student is or is not to be consulted about
+the identity of the second reader and is silent as to whether the re-reading process should be
+anonymized. The PAAWD is silent on this matter. The question, therefore, is whether, in
+applying its appeal policy, it was reasonable for the Faculty to select the second reader without
+consulting with the Student and to employ a double-blind process. Your Committee finds that it
+was. It is not contested that the second reader had expertise in the field of business ethics. The
+Student provided a vigorous response to the second reader’s report (pp. 74-75). Consultation and
+knowledge would have added nothing to the Student’s ability to respond. The Student’s
+knowledge of the second reader’s identity would, however, have created the possibility of
+irrelevant ad hominem attacks on the second reader’s qualifications and character, one of the
+types of mischief that a double-blind process is intended to avoid. Your Committee is hesitant to
+infer that a student would engage in such attacks, but notes that the Student is explicit in his
+intention to challenge the second reader’s credentials (para. 134) and that the Student has
+mounted an irrelevant attack on the character of the course instructor (para. 138), suggesting that
+the danger of this mischief was real in this case.
+
+16
+
+C(iv)
+The Student submits that the conduct of (a) the course instructor and (b) the GAAB
+demonstrated reasonable apprehension of bias.
+C(iv)(a)
+The topic chosen by the Student’s group for their presentation related to the “WE Charity
+scandal” involving the Liberal government led by Prime Minister Justin Trudeau. The Student
+submits that the course instructor was a “well-documented supporter of the Liberal Party…
+[who] has a demonstrated history of commenting publicly in favour of the Liberal Party [and
+who] in 2009, … passionately defended the Liberal government’s handling of a spending
+controversy” (para. 137). The Student submits that the course instructor should have alerted the
+Student’s group to his “political leanings” at the time they proposed their topic (para. 138) and
+suggests that the course instructor may have been biased in his evaluation of the group work
+(para. 137).
+It is not clear what remedy the Student thinks these allegations, if established, would support. In
+any event, your Committee rejects the allegation of reasonable apprehension of bias. The test for
+reasonable apprehension is well-established. The question is: “what would an informed person,
+viewing the matter realistically and practically—and having thought the matter through—
+conclude”?3 The reasonable person would interpret the material filed by the Student as showing
+the course instructor’s support for certain policy initiatives of the Liberal government. The
+reasonable person would not read it as “lavish[] praise” or “passion[ate] defence” of the
+government. None of it speaks to the WE Charity matter and so sheds no light on the course
+instructor’s attitude towards that incident.
+The supplementary material filed by the Student in his reply weakens rather than strengthens his
+claim of reasonable apprehension of bias. Accepting for the sake of argument that it is true (a
+point on which your Committee makes no finding), it suggests that the course instructor is
+acquainted with politicians affiliated with both the Liberal and Progressive Conservative parties
+and with the principal of a consulting firm that does work for public figures of any political
+persuasion. It is therefore of no assistance in establishing reasonable apprehension of bias based
+on the course instructor’s supposed partisanship.
+There is no merit in this submission.
+C(iv)(b)
+For the reasons given above, your Committee will not consider this submission.
+C(v)
+Committee for Justice and Liberty et al. v. National Energy Board et al., [1978] 1 S.C.R. 369, per DeGrandpré J.
+dissenting on other grounds.
+3
+
+17
+
+The Student submits that “the instructor’s assessment was procedurally unfair because of the
+inordinate delay in rendering his decision” (p. 32). The Faculty does not challenge the Student’s
+assertion that he received his grade after some time, but submits that the delay did not create
+procedural unfairness (Faculty submissions, para. 73).
+It is unfortunate that there was delay in the Student’s receipt of his Course grade. But your
+Committee agrees with the GAAB that there is no reason to think that in this respect the Student
+“was particularly disadvantaged in any way vis-a-vis other students” (p. 353). The Student
+submits that the delay compromised his ability to appeal his grade. The voluminous record and
+expensive submissions filed by the Student with respect to every aspect of his grade belie this
+submission.
+Dissenting decision
+As noted above, one member of your Committee would allow the appeal and substitute a
+notation of CR for the grade of B+. In this member’s view, the application of the grading scheme
+to the Student, and indeed to all the students in RSM1160, was unreasonable. This member finds
+that the cumulative effect of several problems in the administration of the grading scheme for the
+Course resulted in unfairness to the Student.
+The member is particularly concerned with the Student’s grade for class participation. Given the
+size of the class (140 students) and the short duration of the Course (8 hours), there was not
+enough time for sufficient participation by each student to enable a fair assessment of the quality
+and quantity of their participation. Moreover, the highest class participation grade in the
+Student’s section was 7/10, which is an inappropriate grade distribution given that 70% is the
+requirement to pass the Course and reflects the impossibility of fairly assessing class
+participation given the size of the class and the short duration of the Course.
+The member, while recognizing that your Committee has no jurisdiction over the grading
+practices of University divisions, makes the following two recommendations for the Faculty’s
+consideration.
+I. It is recommended that the Faculty adopt an upper limit on the percentage of a course grade
+that can come from group work where each member of the group receives the same grade. This
+should be limited by regulation, not guideline, and the limit should be well below 40%. For
+example, in the Faculty of Applied Science and Engineering the limit is 25%
+(https://engineering.calendar.utoronto.ca/academic-regulations#eleven).
+II. For courses such as the present one, i.e. courses whose number of contact hours and weight
+are below a suitable threshold for assigning a grade, it is recommended that the Faculty adopt a
+pass/fail approach with no grade assigned.
+Conclusion
+The appeal is dismissed.
+
+18
+
+

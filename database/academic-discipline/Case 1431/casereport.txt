@@ -1,0 +1,552 @@
+Case No.: 1431
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 4, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and Z
+
+Y L
+
+REASONS FOR DECISION
+
+Date of Hearing: March 6, 2023, via Zoom
+Members of the Panel:
+Sarah Whitmore, Chair
+Professor Paul Kingston, Faculty Panel Member
+Nik Khakhar, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Jonah Dutz, Representative for the Student, Downtown Legal Services
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+Z
+
+Y L
+
+\
+
+38465181.1
+
+2
+
+Introduction
+1.
+
+A hearing before the University Tribunal (the “Tribunal”) was convened on March 6, 2023,
+to consider the Charges (as defined below) against the Student, Z
+
+Y
+
+L
+
+(the
+
+“Student”).
+The Charges
+2.
+
+The charges against the Student (the “Charges”) are as follows:
+1.
+
+On or about the following dates, you knowingly obtained and/or provided unauthorized
+assistance in connection with the following term tests in ECO2201Y1 (the “Course”),
+contrary to section B.I.1(b) of the Code:
+
+2.
+
+(a)
+
+December 4, 2020 in connection with Term Test 2;
+
+(b)
+
+February 26, 2021 in connection with Term Test 3; and
+
+(c)
+
+April 12, 2021 in connection with Term Test 4.
+
+In the alternative to Charges #1(a) to (c), respectively, on or about the following dates, you
+knowingly represented as your own an idea or expression of an idea or work of another in
+connection with the following term tests in the Course, contrary to section B.I.1(d) of the
+Code:
+
+3.
+
+(a)
+
+December 4, 2020 in connection with Term Test 2;
+
+(b)
+
+February 26, 2021 in connection with Term Test 3; and
+
+(c)
+
+April 12, 2021 in connection with Term Test 4.
+
+In the further alternative to Charges #1(a) to (c) and #2(a) to (c), respectively, on or about
+the following dates, you knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in order to
+obtain academic credit or other academic advantage of any kind in connection with the
+following term tests in the Course, contrary to section B.I.3(b) of the Code:
+
+38465181.1
+
+(a)
+
+December 4, 2020 in connection with Term Test 2;
+
+(b)
+
+February 26, 2021 in connection with Term Test 3; and
+
+3
+
+(c)
+
+April 12, 2021 in connection with Term Test 4.
+
+Particulars
+3.
+
+The particulars of the offences charged are as follows:
+
+1.
+
+At all material times you were a student enrolled at the University of Toronto Faculty of Arts
+& Science.
+
+2.
+
+In Fall 2020 and Winter 2021, you enrolled in ECO220Y1Y: Introduction to Data Analysis
+and Applied Econometrics, which was taught by Professor Jennifer Murdock. Due to the
+pandemic, the Course was taught online.
+
+3.
+
+Students in the Course were required to write four term tests, each worth 12.5% of the
+Course mark. The term tests were administered online. Students had two hours to
+complete each term test.
+
+4.
+
+Students were required to complete their term tests independently and without the use of
+aids. They were not permitted to collaborate with one another or with others in completing
+the term tests.
+
+5.
+
+6.
+
+You submitted the following term tests on the following dates:
+(a)
+
+Term test 2 on December 4, 2020;
+
+(b)
+
+Term test 3 on February 26, 2021; and
+
+(c)
+
+Term test 4 on April 12, 2021 (collectively, the “Term Tests”).
+
+The answers that you gave in your Term Tests were substantially similar to the answers
+given by a number of other students in the Course.
+
+7.
+
+You knowingly obtained and/or provided unauthorized assistance in each of the Term
+Tests by collaborating with other students and/or test service providers and/or you used
+unauthorized aids to assist you to write the Term Tests. You knew that you were not
+permitted to collaborate or use unauthorized aids.
+
+8.
+
+You submitted each of the Term Tests:
+(a)
+
+38465181.1
+
+to obtain academic credit;
+
+4
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were not your
+own, but were the ideas, expressions of ideas or work of others; and
+
+(c)
+
+knowing that you did not properly reference those ideas, expressions of ideas or
+work.
+
+9.
+
+You knowingly submitted each of the Term Tests with the intention that the University of
+Toronto rely on it as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+
+Agreed Statement of Facts
+4.
+
+The hearing preceded on the basis of an Agreed Statement of Facts (the “ASF”), which
+was marked as Exhibit 1. The parties also presented a Joint Book of Documents (the
+“JBD”) that is referred to in the ASF, which was marked as Exhibit 2. A summary of the
+agreed facts follows.
+7.
+
+In Fall 2020 and Winter 2021, Jennifer Murdock taught ECO2201Y1: Introduction to Data
+
+Analysis and Applied Econometrics (the “course”). The course was administered online due to the
+pandemic. There were five sections in the course. Students registered for one of these five
+sections. Classes for these sections were held at different times of the day on Fridays. A copy of
+the syllabus is attached to the ASF at Tab D.
+
+8.
+
+Several students, including the student, B.L., D.Z., T.L., J.Q., and S.S., and S.L. enrolled
+
+in the course.
+
+9.
+
+Students in the course were required to write four term tests, each worth 12.5% of their
+
+final grade. Each test contained six open-ended questions, with a complete answer requiring some
+combination of writing, graphing, and/or quantitative analysis. Professor Murdock created several
+different versions of each term test to deter cheating. Students were assigned a particular version
+of a term test at random.
+
+10.
+
+The syllabus stated that students were prohibited from collaborating on the term tests:
+
+“[t]here is absolutely no collaboration allowed on Term Tests #1 to #4 or the short writing
+assignments. Your submissions must be entirely your own work.”
+
+38465181.1
+
+5
+
+11.
+
+Professor Murdock posted academic integrity instructions to Quercus for each term test,
+
+which stated academic integrity is a fundamental value of learning and scholarship at the University
+of Toronto and that students were prohibited from collaborating. Students were required to submit
+a signed academic integrity statement that stated they agreed to fully abide by the Code of
+Behaviour on Academic Matters for each term test. Each term test also stated that “[t]here is
+absolutely no collaboration and absolutely no communication until after we return your marked work
+to you.”
+
+Term test 2
+
+12.
+
+Term test 2 was administered online on December 4, 2020. Copies of the different versions
+
+of and solutions to the term test are attached to the ASF at Tab E.
+
+13.
+
+Students had 105 minutes to write the test and 15 minutes to scan and upload their test.
+
+Students from the first three sections of the course could choose to write their term tests at any
+time during the early test window (8:00 a.m. to 12:00 p.m. ET). Students in the other two sections
+of the course could choose to write their term tests at any time during the late test window (12:00
+p.m. to 5:00 p.m. ET). Copies of the test instructions that Professor Murdock posted to Quercus
+are attached to the ASF at Tab F.
+
+14.
+
+On December 4, 2020, several students, including the student and B.L. submitted term test
+
+2. Copies of their term tests are attached to the ASF at Tab G.
+
+Term test 3
+
+15.
+
+Term test 3 was administered online on February 26, 2021. Copies of the different versions
+
+of and solutions to the term test are attached to the ASF at Tab H.
+
+16.
+
+Students had 105 minutes to write the test and 15 minutes to scan and upload their test.
+
+Students could choose to write during the early test window (9:00 a.m. to 12:00 p.m. ET) or the late
+test window (11:00 a.m. to 5:00 p.m. ET). Copies of the test instructions that Professor Murdock
+posted to Quercus are attached to the ASF at Tab I.
+
+17.
+
+On February 26, 2021, several students, including the student, D.Z., T.L., J.Q., and S.S.
+
+submitted term test 3. Copies of their term tests are attached to the ASF at Tab J.
+
+The initial investigation
+
+38465181.1
+
+6
+
+18.
+
+On March 2, 2021, a teaching assistant for the course notified Professor Murdock that the
+
+same nonsensical phrase kept appearing in students’ answers in term test 3. Professor Murdock
+reviewed the unusual similarities, had serious concerns that students were collaborating, and
+decided to investigate the issue.
+
+19.
+
+From March to May 2021, the teaching team spent over 100 hours investigating the issue
+
+and found evidence of widespread collaboration. They discovered that a large number of students
+in the course gave highly similar answers on some or all of term tests 1, 2, and 3. Based on
+similarities between students’ answers, some students appeared to collaborate in small groups,
+while others appeared to be part of a larger network or group of students.
+
+20.
+
+Professor Murdock suspected that:
+a) the student obtained and/or provided unauthorized assistance on term test 2 because several
+of his answers were highly similar to B.L.’s answers; and
+b) the student obtained and/or provided unauthorized assistance on term test 3 because several
+of his answers were highly similar to answers submitted by D.Z., T.L., J.Q., and S.S.
+
+21.
+
+A chart that compares the student’s answers to B.L.’s answers for Term Test 2 is attached
+
+to the ASF at Tab K.
+
+22.
+
+A chart that compares the student’s answers to S.S.’s answers for Term Test 3 is attached
+
+to the ASF at Tab L.
+
+Term test 4
+
+23.
+
+Term test 4 was administered online on April 12, 2021. Copies of the different versions of
+
+the term test are attached to the ASF at Tab M.
+
+24.
+
+Students had 105 minutes to write the test and 15 minutes to scan and upload their test.
+
+All students had to write term test 4 during one window (9:55 a.m. to 12:10 p.m. ET). Copies of the
+test instructions that Professor Murdock posted to Quercus are attached to the ASF at Tab N.
+
+25.
+
+On April 12, 2021, several students, including the student and S.L. submitted term test 4.
+
+Copies of their term tests are attached to the ASF at Tab O.
+
+26.
+
+Professor Murdock suspected the student obtained and/or provided unauthorized
+
+assistance on term test 4 because several of his answers were highly similar to answers given by
+
+38465181.1
+
+7
+
+S.L. A chart that compares the student’s answers to S.L.’s answers for Term Test 4 is attached to
+the ASF at Tab P.
+
+Instructor Meeting
+
+27.
+
+On May 11, 2021, Professor Murdock met with the student to discuss her concerns that
+
+the student plagiarized and obtained and/or provided unauthorized assistance in term tests 2, 3,
+and 4.
+
+Dean’s Designate Meeting
+
+28.
+
+On February 4, 2022, the student sent the Student Academic Integrity office a letter in
+
+which he apologized for committing an academic offence in term test 3. A copy of this letter is
+attached to the ASF at Tab Q.
+
+29.
+
+On February 14, 2022, the student attended a meeting with Professor and Dean’s
+
+Designate Elizabeth Cowper. The student acknowledges that Professor Cowper gave the warning
+that is required by the Code. In the meeting, the student admitted to obtaining unauthorized
+assistance via WeChat in term tests 2, 3, and 4.
+
+Admissions and acknowledgements
+
+30.
+
+The student admits that:
+a) He obtained unauthorized assistance on term tests 2, 3, and 4; and
+b) He plagiarized in almost every question that he submitted for academic credit on term tests 2,
+3, and 4.
+
+31.
+
+The student admits that he knew or ought to have known that:
+
+a) He obtained unauthorized assistance on term tests 2, 3, and 4, contrary to section B.I.1(b) of
+the Code;
+b) He represented the ideas of another author, the expression of the ideas of the author, and
+the work of the author as his own on term tests 2, 3, and 4, contrary to section B.I.1(d) of the
+Code; and
+c) He engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit or
+other academic advantage of any kind on term tests 2, 3, and 4, contrary to section B.I.3(b) of
+the Code.
+
+38465181.1
+
+8
+
+Findings on Charges
+5.
+
+Following deliberations and based on the ASF and the JBD, the Panel concluded that the
+charges #1(a), #1(b), and #1(c) (as outlined in paragraph 2 above) had been proven with
+clear and convincing evidence on a balance of probabilities, and accepted the guilty plea
+of the Student in respect of those charges. The Panel was advised that if the Tribunal
+convicts the Student on charges #1(a), #1(b), and #1(c), the Provost will withdraw charges
+#2(a), #2(b), #2(c), #3(a), #3(b), and #3(c).
+
+Penalty
+
+6.
+
+The University and the Student submitted an Agreed Statement of Facts and Joint
+Submission on Penalty (the “JSP”), which was marked as Exhibit 3. In the JSP, the parties
+submitted that the Tribunal should impose the following sanctions on the Student:
+a) a final grade of zero in ECO220Y1 in Fall 2020 and Winter 2021;
+
+b) a four-year and four-month suspension from the University of Toronto,
+commencing on May 1, 2023; and
+
+c) a notation of the sanction on the Student’s academic record and transcript for a
+period of six years or until graduation, whichever comes first, beginning on March
+7, 2023, the date of the Tribunal’s Order.
+7.
+
+The parties also submitted that this case shall be reported to the Provost for publication
+of a notice of the decision of the Tribunal and the sanction imposed in the University
+newspapers, with the name of the Student withheld.
+
+8.
+
+Counsel for the University provided submissions on the high threshold required for a
+Tribunal to deviate from a joint submission on penalty. As set out in the Discipline Appeals
+Board decision in The University of Toronto and M. A. (Case No. 837, December 22,
+2016), a joint submission on penalty “may be rejected by a panel only in circumstances
+
+38465181.1
+
+9
+
+where to give effect to it would be contrary to the public interest or would bring the
+administration of justice into disrepute” (para 25).
+9.
+
+In the Panel’s view, the joint submission in this case is reasonable. In particular, the Panel
+took into consideration the seriousness of the offences and the fact that the offences were
+not the Student’s first offences. The Panel also noted the likelihood that the Student may
+commit another offence and the circumstances of the pandemic and the need for
+deterrence on the facts in this matter.
+
+10.
+
+As reflected in the JSP, the Student had previously been sanctioned for two prior offences:
+in one case plagiarism in Fall 2018 and in the other obtaining unauthorized assistance in
+Winter 2019. The timing of these prior offences is relevant and concerning as the Student
+had been sanctioned for the first offence prior to committing the second offence and had
+similarly been sanctioned for the second offence prior to committing the offences at issue
+in this matter. This suggests that the Student’s likelihood of committing a further offence
+is serious and must be factored into the penalty.
+
+11.
+
+Further, the circumstances of the pandemic and the heightened level of trust that the
+University was required to impart on students not to collaborate is relevant. The Student’s
+behaviour demonstrates a breach of that trust causing detriment to the University. In
+addition, the ASF demonstrates a widespread pattern of misconduct among many
+students in the course at issue, ECO220Y1, highlighting the need for deterrence.
+
+12.
+
+However, the Panel also considered a number of mitigating factors. The Student
+cooperated in the process and entered into the ASF and JSP, thereby showing insight and
+remorse. Moreover, the Student voluntarily gave an undertaking to attend academic
+workshops demonstrating his desire to rehabilitate his academic career at the University.
+The Panel also noted that through the undertaking, the Student appears to be desirous of
+developing the tools necessary to complete his degree at the University with integrity and
+success.
+
+13.
+
+Having regard to the above, and based on its review of similar cases presented by
+counsel, the Panel agreed that the recommended sanctions are appropriate in the
+circumstances, and made the following order:
+
+38465181.1
+
+10
+
+a) The Student is guilty of three counts of the academic offence of knowingly
+obtaining and/or providing unauthorized assistance, contrary to section B.I.1(b) of
+the Code of Behaviour on Academic Matters.
+
+b) The following sanctions shall be imposed on the Student:
+
+i.
+
+a final grade of zero in ECO220Y1 in Fall 2020 and Winter 2021;
+
+ii.
+
+a four-year and four-month suspension from the University of Toronto,
+commencing on May 1, 2023; and
+
+iii.
+
+a notation of the sanction on the Student’s academic record and transcript
+for a period of six years or until graduation, whichever comes first,
+beginning on March 7, 2023, the date of the Tribunal’s Order.
+
+c) This case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction or sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto, this 6 of June, 2023,
+
+Original signed by:
+__________________________________________
+Sarah Whitmore, Chair
+On behalf of the Panel
+
+38465181.1
+
+

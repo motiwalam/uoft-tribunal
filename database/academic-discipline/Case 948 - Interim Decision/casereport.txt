@@ -1,0 +1,432 @@
+Case No.: 948
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty file on September 14, 2017, and revised on June
+29, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+S
+
+(
+
+W
+
+INTERIM DECISION
+Hearing Date: September 12, 2018
+Members of the Panel:
+Mr. Nader R. Hasan, Co-Chair
+Professor Pascal van Lieshout, Faculty Panel Member
+Ms. Yusra Qasi, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland
+Ms. Lauren Pearce, Assistant Discipline Counsel, Paliare Roland
+Mr. Lorne Sabsay, Counsel for Ms. S
+(
+W
+, the Student
+Ms. Jennifer Jackson, Assistant to Mr. Lorne Sabsay, Counsel for the Student
+Ms. S
+(
+W
+, the Student (via Skype)
+Hearing Secretary:
+Ms. Krista Osbourne, Administrative Clerk & Hearing Secretary, Appeals, Discipline and
+Faculty Grievances, University of Toronto
+
+2
+
+[1] This is an academic discipline matter in which the Student, S
+
+(
+
+W
+
+(“the Student”), has been charged with academic misconduct. The charges were
+filed by the Provost of the University of Toronto (“the University”) against the Student
+under the University’s Code of Behaviour on Academic Matters, 1995 (“the Code”)
+on September 14, 2017. At the crux of the charges is the allegation that the Student
+submitted fraudulent transcripts to support her transfer application to the University.
+The Student vigorously denies those allegations. There is no dispute among the
+parties that fraudulent transcripts were submitted on the Student’s behalf. The only
+dispute is whether the Student was aware of the fraudulent nature of the transcripts.
+[2] These are the decisions in relation to motions brought at the hearing held on
+
+September 12, 2018.
+[3] The September 12, 2018 motions dealt with:
+
+(a)
+
+The Student’s motion to preclude the Provost’s witness, Mr. Yifan
+Liu, from testifying in these proceedings;
+
+(b)
+
+The Provost’s motions seeking an order declaring that:
+(i) the Judgment in Mr. Liu’s criminal trial, per Maxwell J., is
+admissible in the hearing on the merits of the charges against the
+Student;
+(ii) portions of the transcripts from Mr. Liu’s criminal trial, attached to
+the Provost’s Notice of Motion as Appendix “A” (the “Transcripts”)
+are admissible in the hearing on the merits of the charges against
+the Student; and
+(iii) the Transcripts are admissible for the purpose of impeaching Mr.
+Liu or the Student during their respective cross-examinations.
+
+3
+
+[4] Oral reasons dismissing the Student’s motion were delivered on September 12,
+
+2018. I advised the parties at that time that I may edit or supplement those
+reasons in writing.
+[5] I reserved on the Provost’s motions after reviewing the facta, motion records and
+
+hearing oral submissions from counsel for the parties. 1
+(A)
+
+The Motion to Preclude Mr. Liu from Testifying
+[6] The Provost intends to call as a witness Mr. Yifan Liu, the ex-boyfriend of the
+
+Student.
+
+Mr. Liu is expected to testify about the extent of the Student’s
+
+knowledge about the fraudulent transcripts. Mr. Sabsay, counsel to the Student,
+asserts that it would be a violation of the Student’s rights under the Canadian
+Charter of Rights and Freedoms (the “Charter”) to have Mr. Liu testify. He also
+submits it would violate her rights under the Ontario Human Rights Code. He
+asserts not only that a portion of Mr. Liu’s evidence should be excluded but that
+the Provost should be precluded from calling him altogether. He submits that
+allowing him to testify would amount to a violation of the Student’s Charter rights.
+[7] This motion presented a threshold issue of whether the Charter applies to
+
+university discipline proceedings.
+
+The Provost vigorously contests the
+
+application of the Charter to these proceedings.
+
+As I indicated in my oral
+
+reasons, it is not necessary to decide that issue because even if the Charter did
+apply, generally, the Student’s motion must be dismissed.
+[8] The Student’s motion is novel in almost every respect, which Mr. Sabsay
+
+appears to concede. There is no reasonable dispute that Mr. Liu’s evidence
+would be relevant, as his proposed evidence goes to the heart of the issues:
+whether the Student had knowledge of the fraudulent nature of the transcripts.
+[9] Mr. Sabsay provided no authority for the proposition that the Tribunal has the
+
+power to preclude a witness with relevant evidence from testifying because of the
+
+1
+
+Although these motions were argued before a full panel, the decision was made by the
+Chair alone, as these motions involve questions of law.
+
+4
+
+emotional impact that her or his testimony may have on another party. Nor am I
+aware of any such authority.
+[10]
+
+I note also that while Mr. Sabsay asserts that the Student would be
+
+traumatized by having Mr. Liu testify, Mr. Sabsay has not tendered any evidence
+in that regard (i.e., affidavit or viva voce evidence from a physician, from the
+Student or from any other person that would support the proposition that she
+would be traumatized).
+[11]
+
+Without an evidentiary foundation, it is difficult to contemplate how such
+
+extraordinary relief could be granted, or what measures might properly mitigate
+or limit the amount of emotion duress that the Student would face. Yet even if
+one were to assume that having Mr. Liu testify would be difficult or even
+traumatic for the Student, the Panel is not persuaded that having him testify
+would amount to a Charter rights violation or a Human Rights Code violation. At
+least not one that could not be accommodated in some way.
+[12]
+
+After the conclusion of my oral reasons, I invited Mr. Sabsay to seek
+
+alternative relief in the form of accommodation of the Student to deal with the
+anticipated emotional duress.
+
+Following the hearing, I was advised that the
+
+parties had agreed that the Student could be accommodated. Since the Student
+is appearing in these proceedings by way of Skype, the parties agree that Mr. Liu
+should testify immediately below the screen upon which the Student appears.
+Given the position of the camera, neither of Mr. Liu nor the Student would be
+able to see each other. This is a sensible approach.
+(B)
+
+Admissibility of the Judgment from Mr. Liu’s Criminal Trial
+[13]
+
+The Provost seeks admission of the Judgment from Mr. Liu’s criminal trial.
+
+The Provost is not asking the Tribunal to adopt Maxwell J.’s findings or analysis
+in relation to the Student’s credibility.
+
+Instead, the Provost is tendering the
+
+Judgment to provide the Tribunal with “contextual information that is relevant to
+these Tribunal Proceedings”.
+
+5
+
+[14]
+
+The Provost relies principally on the Supreme Court of Canada’s decision
+
+in British Columbia (Attorney General) v. Malik, 2 and on s. 15(1) of the Statutory
+Powers and Procedure Act (“SPPA”).
+[15]
+
+The Provost cites Malik for the proposition that a judgment in a prior civil
+
+or criminal case may be admissible as evidence in a subsequent proceeding,
+including administrative or disciplinary proceedings, as proof of its findings and
+conclusions.
+[16]
+
+Malik is of limited applicability. The primary finding and conclusion of
+
+Maxwell J.’s Judgment is that the Crown had not proven its case against Mr. Liu
+beyond a reasonable doubt and that Mr. Liu must be acquitted. Nobody disputes
+that this was the result of the criminal proceeding. (If that does become a
+contested issue of fact, then the Judgment can be admitted for that limited
+purpose.)
+[17]
+
+It is true that, in the context of rendering the Judgment, Maxwell J. did
+
+make adverse findings of credibility against the Student (and, to some extent, Mr.
+Liu). Generally, one trier of fact’s assessment of a witness’ credibility in one
+proceeding is not relevant to another tribunal’s assessment of that witness’
+credibility in a subsequent proceeding. 3
+
+It is for this Tribunal to independently
+
+assess and come to its own conclusions with respect to the Student’s credibility
+— a fact that the Provost appears to acknowledge. 4
+[18]
+
+The Provost states that it does not seek to rely on the Judgment for the
+
+findings on the Student’s credibility, but rather for “context”. Upon reviewing the
+Provost’s submissions and during oral argument, it was not clear to me what the
+Provost could mean by “context”. As the Supreme Court notes in Malik, to the
+extent that a party seeks to rely on a previous judgment, it must specify the
+purpose for which it is tendered, and that purpose must be a permissible one.
+
+2
+
+British Columbia (Attorney General) v. Malik, 2011 SCC 18.
+R. v. Ghorvei, 1999 CanLII 2475 at para. 31 (ON CA).
+4
+Factum of the Provost, para. 20.
+3
+
+6
+
+Tendering a judgment for “context” lacks the specificity to allow this Tribunal to
+make an informed decision as to whether the purported purpose is a permissible
+one.
+[19]
+
+I must also consider subsection 15(1) of the SPPA. That section provides
+
+in relevant part:
+15. (1) Subject to subsections (2) and (3), a tribunal may admit as
+evidence at a hearing, whether or not given or proven under oath or
+affirmation or admissible as evidence in a court,
+(a) any oral testimony; and
+(b) any document or other thing,
+relevant to the subject-matter of the proceeding and may act on such
+evidence, but the tribunal may exclude anything unduly repetitious.
+[20]
+
+Section 15(1) thus provides for the relaxation of the rules of evidence and
+
+gives greater scope to the admission of evidence by a tribunal.
+[21]
+
+The section is permissive; it affords a tribunal latitude in admitting
+
+evidence that may not be admissible in a criminal or civil proceeding.
+[22]
+
+While section 15(1) enlarges the ambit of admissible evidence, it is not
+
+without limitation. The evidence must be relevant to the proceeding. It must also
+not lead to unfairness. 5
+[23]
+
+In determining whether admission of the evidence could lead to
+
+unfairness, I can be guided by those rules of evidence that are aimed at ensuring
+fairness in legal proceedings. Under the rules of evidence, even where evidence
+is otherwise admissible, it can be excluded where its probative value is
+outweighed by its prejudicial effect. 6
+[24]
+
+The risk of prejudice here is significant. The criminal courts are expert in
+
+the evaluation of credibility of witnesses.
+5
+6
+
+Maxwell J. assessed and made
+
+Bartashunas v. Psychology Examiners, [1992] O.J. No. 1845 (Ont. Div. Cut.).
+R. v. Seaboyer, [1991] 2 S.C.R. 577.
+
+7
+
+negative credibility findings with respect to the Student. This Tribunal will be
+asked to perform a similar exercise. But Maxwell J.’s findings have the potential
+to overwhelm this Tribunal. Although the members of the Tribunal would no
+doubt direct themselves to not be unduly influenced by Maxwell J.’s findings,
+given the overlap between the issues, the risk of prejudice is high.
+[25]
+
+On the other side of the ledger, I must consider probative value. As noted
+
+above, one trier’s of fact’s assessment of a witness’ credibility is not relevant to a
+subsequent tribunal’s assessment of that witness’ credibility. It is for this Tribunal
+to independently assess and come to its own conclusions with respect to the
+Student’s credibility.
+[26]
+
+Given its slight probative value and its high potential for prejudice, the
+
+Judgment is inadmissible.
+(C)
+
+Admissibility of the Transcripts from Mr. Liu’s Criminal Trial
+
+[27]
+
+Different considerations apply with respect to the Provost’s motion to
+
+tender the Transcripts from Mr. Liu’s criminal trial. Although the Transcripts are
+hearsay for purposes of these proceedings, the Provost submits that they satisfy
+the “party admissions” and “statements against interest” exceptions to the rule
+against hearsay. I agree. It is established law that an out-of-court statement
+made by a party to a proceeding that is adverse to her or his interest in that
+proceeding may be tendered by an opposing party to prove the truth of the facts
+contained in the statement.
+[28]
+
+Even if I am wrong in the regard, I would admit the Transcripts under s.
+
+15(1) of the SPPA. In my view, the balancing of probative value and prejudicial
+effect with respect to the Transcripts is different from the Judgment.
+
+The
+
+probative value of admitting the Transcripts thus outweigh its prejudicial effects.
+
+8
+
+[29]
+
+Although Transcripts are hearsay statements, they contain the hallmarks
+
+of reliability. 7
+
+The Transcripts are the testimony from taken under oath and
+
+subject to cross-examination.
+
+The Transcripts therefore have the indicia of
+
+reliability. They are reliable evidence of what the witnesses did in fact say about
+matters that are directly relevant to these proceedings.
+[30]
+
+Further, as counsel for the Provost points out, the Student is not a
+
+compellable witness in these proceedings. She may or may not testify. If she
+chooses not to testify, then the Transcripts from Mr. Liu’s criminal trial would be
+the only evidence in these proceedings of what the Student has said about the
+nature and genesis of the fraudulent academic transcripts — a key issue in these
+proceedings.
+[31]
+
+In light of the foregoing, the risk that the admission of the Transcripts
+
+would result in unfairness is attenuated, and I may exercise my discretion under
+s. 15(1) to admit those statements.
+(D)
+
+Use of Transcripts for Impeachment Purposes
+[32]
+
+The Provost seeks an order that the Transcripts can be used for the
+
+purposes of impeaching the Student should she choose to testify.
+[33]
+
+It is well-established at common law and under the Ontario Evidence Act,8
+
+that parties may be cross-examined on their prior statements.
+
+A witness,
+
+including a respondent charged with misconduct (or even a criminal accused),
+can be cross-examined on prior statements.
+
+Cross-examination on a prior
+
+inconsistent statement may be used to impeach the credibility of the witness, or
+in an attempt to have the witness adopt the prior statement as true. 9
+
+7
+
+See R. v. Bradshaw, 2017 SCC 35 at paras. 26-58 (for discussion of factors to consider in
+determining whether out-of-court statements are sufficiently reliable to overcome hearsay
+dangers).
+8
+Evidence Act, R.S.O. 1990, c. E.23, s. 21.
+9
+R. v. Hill, [2015] O.J. No. 4758 at para. 43 (C.A.).
+
+9
+
+[34]
+
+There is no basis here for interfering with these long-established principles
+
+and none has been put forward.
+(E)
+
+Decision and Order
+[35]
+
+Ms. W
+
+’s motion to preclude Mr. Liu from testifying is dismissed.
+
+[36]
+
+The Provost’s motion is allowed in part:
+a. The Judgment is inadmissible.
+b. The Transcripts are admissible in the hearing on the merits of the charges
+against the Student.
+c. The Transcripts may be used for the purpose of cross-examination.
+
+Dated at Toronto, this 21st day of December, 2018
+
+Nader R. Hasan, Chair
+
+

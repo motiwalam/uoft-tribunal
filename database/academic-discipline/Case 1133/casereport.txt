@@ -1,0 +1,611 @@
+Case No. 1133
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on December 10, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am.
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and –
+Y
+
+L
+
+REASONS FOR DECISION
+
+Hearing Date: August 20, 2021, via Zoom
+Members of the Panel:
+Ms. Alexi Wood, Chair
+Dr. Pascal van Lieshout, Faculty Panel Member
+Ms. Julie Farmer, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals Discipline and
+Faculty Grievances
+Ms. Nadia Bruno, Special Projects Officer, Office of Appeals Discipline and Faculty
+Grievances
+Not In Attendance:
+Ms. Y
+
+L
+
+2
+A.
+
+OVERVIEW
+
+1.
+
+On August 20, 2021, a Panel of the University Tribunal convened by
+
+videoconference to hear the University of Toronto’s (the “University”) allegations that
+Y
+
+L
+
+(the “Student”) violated the Code of Behaviour on Academic Matters (the
+
+“Code”). By letter dated December 10, 2020, the charges against the Student were that:
+a.
+
+On or about April 16, 2020, the Student knowingly represented as her own an
+idea or expression of an idea or work of another in the final exam in MAT137Y1
+(Calculus!) (the “Course”), contrary to section B.I.1(d) of the Code.
+
+b.
+
+In the alternative, on or about April 16, 2020, the Student knowingly obtained
+unauthorized assistance in connection with the final exam in the Course, contrary
+to section B.I.1(b) of the Code.
+
+c.
+
+In the further alternative, on or about April 16, 2020, the Student knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with the
+final exam in the Course, contrary to section B.I.3(b) of the Code.
+
+d.
+
+The particulars related to the charges are as follows:
+
+(i)
+
+At all material times the Student was a student enrolled at the University
+of Toronto Faculty of Arts & Science.
+
+(ii)
+
+In Fall 2019 and Winter 2020, the Student enrolled in the Course.
+
+3
+(iii)
+
+Students in the Course were required to write a final exam, worth 20%
+of their final grades. Due to the Covid 19 pandemic, the final exam was
+administered as a 24-hour online exam. The only aids to which students
+were allowed to refer were their own notes, their own term work, course
+videos, all other official course materials, the textbook and
+WolframAlpha.
+
+(iv)
+
+On or about April 16, 2020, the Student submitted her final exam in the
+Course.
+
+(v)
+
+The Student submitted the final exam:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work
+
+which were not her own, but were the ideas, expressions of ideas or work
+of others, including the author(s) of answers that were posted on
+Chegg.com, which is a website that allows subscribers to post questions
+on the site and to view questions and answers posted on the site (the
+“Chegg Source”); and
+(c)
+
+knowing that she did not properly reference the ideas,
+
+expressions of ideas or work that she drew from the Chegg Source or
+from others.
+
+(vi)
+
+The Student knew that the Chegg Source was not an authorized source
+to which she was allowed to refer in completing the final exam.
+
+4
+(vii)
+
+The Student knowingly obtained unauthorized assistance from the
+Chegg Source or from others.
+
+(viii)
+
+The Student knowingly submitted her final exam with the intention that
+the University of Toronto rely on it as containing her own ideas or work
+in considering the appropriate academic credit to be assigned to her
+work.
+
+2.
+
+Assistant Discipline Counsel advised that if the Panel found that the Student
+
+committed the offence in paragraph 1(a), the University would withdraw the charges in
+paragraphs 1(b) and 1(c).
+3.
+
+The Student did not attend the hearing. After hearing the evidence called and
+
+submissions made by Assistant Discipline Counsel, the Panel found that the Student
+committed an offence contrary to section B.I.1(d) of the Code, in that the Student knowingly
+represented an idea or expression of an idea or work of another as her own.
+4.
+
+The Panel ordered that:
+a.
+
+the Student receive a final grade of zero in the course MAT137Y1 in Fall 2019
+and Winter 2020;
+
+b.
+
+the Student be suspended from the University of Toronto from August 20, 2021,
+for a period of 2 years, ending on August 19, 2023, to run concurrently with the
+Student’s academic suspension;
+
+c.
+
+a notation of the sanction appear on the Student’s academic record and transcript
+from August 20, 2021, for a period of 3 years, ending on August 19, 2024; and
+
+5
+d.
+
+the case be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+B.
+
+SERVICE
+
+5.
+
+Section 6 of the Statutory Powers Procedure Act (“SPPA”) 1 requires reasonable
+
+notice of the hearing be provided to the parties. Rule 9 of The University Tribunal Rules of
+Practice and Procedure (the “Rules”) provides for the methods of service of documents,
+including charges and notices of hearing. This includes personal service, sending a copy of
+the document by courier to the student’s mailing address contained in the Repository of
+Student Information (“ROSI”), or sending a copy of the document by email to the email
+address contained in ROSI.
+6.
+
+The University’s Policy on Official Correspondence with Students requires that
+
+students provide the University with their current postal and email address through ROSI.
+Students are expected to monitor and retrieve all mail, including emails, on a frequent and
+consistent basis.
+7.
+
+Section 7 of the SPPA and rule 17 of the Rules allow this tribunal to proceed in the
+
+absence of a student where notice has been given. When proceeding in the absence of a
+student, the University must demonstrate it took reasonable steps to notify the student of the
+charges and of the hearing. The University does not need to prove actual notice.2
+8.
+
+1
+2
+
+The Student was neither present nor represented.
+
+RSO 1990, c S.22
+The University of Toronto and O.E.R. (Case No 981, March 4, 2019) at para 37.
+
+6
+9.
+
+The University filed evidence regarding service and attempts to contact the Student.
+
+That evidence included:
+a.
+
+On December 10, 2020, the Office of the Vice-Provost, Faculty and
+Academic Life served the charges in this matter on the Student by email to
+the email address the Student provided in ROSI.
+
+b.
+
+On December 11, 2020, Nusaiba Khan, an Administrative Assistant with the
+Appeals, Discipline and Faculty Grievances Office (“ADFG Office”) served
+the Student with a letter containing the charges against her. Ms. Khan sent
+the letter by email to the email address the Student provided in ROSI.
+
+c.
+
+On June 22, 2021, Samanthe Huang, an Administrative Assistant with the
+ADFG Office emailed the Student and Assistant Discipline Counsel, advising
+that the hearing would proceed on August 20, 2021. The email invited the
+Student to make submissions on the form of proceeding by June 29, 2021.
+This email was sent to the email address the Student provided in ROSI.
+
+d.
+
+The Student did not respond to Ms. Huang’s email. On July 5, 2021, Ms.
+Huang emailed the Student and Assistant Discipline Counsel the Chair’s
+Order that the hearing proceed electronically on August 20, 2021. This email
+was sent to the email address the Student provided in ROSI.
+
+e.
+
+On July 6, 2021, Ms. Huang served the Student with the Notice of Electronic
+Hearing for the hearing on August 20, 2021. The email was sent to the email
+address the Student provided in ROSI.
+
+7
+f.
+
+On August 12, 2021, Kimberly Blake, Legal Assistant to Tina Lie, Assistant
+Discipline Counsel, called the phone number that the Student had provided
+in ROSI. Ms. Blake spoke to the Student. She advised the Student that there
+was a hearing scheduled for August 20, 2021, and advised the Student to
+check her mail.utoronto.ca email address. The Student said she would check
+her email address.
+
+10.
+
+None of the emails was returned and there was no bounce back received to any of
+
+the emails.
+11.
+
+The University also filed evidence from Andrew Wagg, an Incident Report Architect
+
+at Information Security, Information Technology Services at the University. Mr. Wagg
+stated that the Student’s mail.utoronto.ca email was last accessed on September 22, 2020,
+which is before any of the documents were served by email.
+12.
+
+The University is not required to provide actual notice, and this Panel finds that there
+
+was no actual notice provided. However, this Panel finds that the University has
+demonstrated that it took reasonable steps to notify the Student of the charges and of the
+hearing.
+13.
+
+The University emailed the Student the required documents to the email address in
+
+ROSI. Ms. Blake called the Student, told her about the hearing, and suggested the Student
+check her email account. While the Student is required to check her email account, the
+address was not accessed after September 2020, before the documents at issue were sent. In
+addition, while the Student was told of the hearing during a phone call, that is not service.
+The University did not serve the Student personally or by courier, which are the other two
+
+8
+options for service under the Rules. This Panel therefore cannot conclude that the Student
+had actual notice of the hearing. However, the University complied with the Rules and while
+it could have sent hard copies of the documents by courier to the mailing address on file, it
+took reasonable steps to notify the Student of the hearing.
+14.
+
+The Panel therefore determined it would proceed to hear the case on its merits in the
+
+Student’s absence.
+C.
+
+LIABILITY
+
+15.
+
+At all material times, the Student was a student registered at the University. As of
+
+the Winter 2021 term, the Student had earned 2 credits and had a GPA of 0.36.
+16.
+
+The Student started at the University in the fall of 2019. In March 2020, in response
+
+to the global Covid 19 pandemic, the University moved to online teaching and the University
+approved a credit / no credit scale for courses in the Winter 2020 term.
+17.
+
+In the Winter 2020 term, which is the term in which the Student took the Course, she
+
+received three “F” marks and one “D-” mark. In the Fall 2020 term, she received three “F”
+marks and two “IPR’s”. In the Winter 2021 term, she received all “F” marks and was
+academically suspended for one year.
+The Final Exam
+18.
+
+The University filed the affidavit of Asif Zaman, an Assistant Professor in the
+
+Department of Mathematics at the University. At the request of the Panel, Dr. Zaman also
+testified at the Hearing.
+
+9
+19.
+
+Dr. Zaman was the course coordinator for the Course. The Course is a first-year
+
+course and is a prerequisite for upper-level calculus courses. Students in the Course were
+reminded of the importance of academic integrity.
+20.
+
+As a result of the Covid 19 pandemic, the Course was moved online in March 2020.
+
+In addition, the nature of the assignments changed to reflect the virtual nature of the Course.
+21.
+
+The Course’s final exam was an online, open book exam, worth 20% of the final
+
+mark (the “Final Exam”). Students were given 24 hours to submit their answers. The
+instructions clearly stated that students were only allowed to refer to their own notes and
+term work, the course videos, all other official course materials, the textbook, and
+WolframAlpha. Students were expressly told that during the exam period they were not
+allowed to:
+
+22.
+
+a.
+
+use any other aid or resource (online or offline);
+
+b.
+
+post answers anywhere online or otherwise;
+
+c.
+
+use answers, solutions, term work or notes from anyone else; and
+
+d.
+
+have someone else write the exam for them.
+
+The Student submitted her answers to the Final Exam on April 16, 2020.
+
+Chegg.com
+23.
+
+Dr. Zaman provided evidence about Chegg.com. He testified that Chegg.com is a
+
+subscription-based website that allows students to post problems, which are then answered
+by so called “experts.”
+
+10
+24.
+
+Dr. Zaman also testified that instructors and teaching assistants found a number of
+
+the Final Exam questions posted on Chegg.com in the 24-hour period students were given
+to complete the Final Exam. Model answers to these problems were also posted on
+Chegg.com (the “Chegg Answers”).
+The Student’s Copied Answers
+25.
+
+Dr. Zaman testified that the Student’s answers to the final exam questions 15(a), (b),
+
+(c), 16(a) and (b) (the “Copied Answers”) were substantially similar to the Chegg Answers.
+26.
+
+Dr. Zaman testified that he found the Copied Answers suspicious and concluded that
+
+the Studentcopied them from Chegg.com. The Student’s answers to questions 15(a), 16(a)
+and 16(b) were correct, but the solution sets took the same steps as the Chegg Answers. Dr.
+Zaman’s evidence was that there were multiple ways to solve the problems. It was highly
+unlikely that the Student solved the problems using the exact same steps as those taken in
+the Chegg Answers.
+27.
+
+Dr. Zaman testified that while the answer to question 15(a) was correct, it contained
+
+a line in the middle of the solution that did not make sense in context. That line also appeared
+in the Chegg Answers.
+28.
+
+Dr. Zaman testified that the Student’s answer to 15(b) was incorrect and contained
+
+the same error as the Chegg Answers. The Student’s answer to 15(c) took the same steps as
+the Chegg Answers and also contained the same errors in solution.
+29.
+
+Dr. Zaman explained that while there are multiple ways to solve each problem, it
+
+would be incredibly unlikely for each step to match exactly line by line.
+
+11
+Finding of Liability
+30.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+
+and convincing evidence, that the Student committed the academic offence charged.
+31.
+
+The Panel reviewed the handwritten answers provided by the Student and compared
+
+them to the handwritten Chegg Answers. The handwritings did not match. The Panel
+therefore concludes that the Student was not the author of the Chegg Answers.
+32.
+
+The Panel concludes that the University has established that the Student copied the
+
+Copied Answers from Chegg.com and is guilty of academic misconduct as outlined in the
+charges at paragraph 1(a) of these Reasons. As a result of this finding, the University
+withdrew the charges outlined in paragraph 1(b) and 1(c) of these Reasons.
+D.
+
+PENALTY
+
+33.
+
+The University sought the following penalty:
+a.
+
+The Student receive a final grade of zero in the course MAT137Y1 in Fall
+2019 and Winter 2020;
+
+b.
+
+The Student be suspended from the University of Toronto from August 20,
+2021, for a period of 2 years, ending on August 19, 2023;
+
+c.
+
+A notation of the sanction appear on the Student’s academic record and
+transcript from August 20, 2021, for a period of 3 years, ending on August
+19, 2024; and
+
+12
+d.
+
+The case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+34.
+
+Assistant Discipline Counsel submitted that this penalty is in keeping with past
+
+decisions of this Tribunal and appropriately considers the six factors outlined in University
+of Toronto and Mr. C. (Case No 77-3, November 5, 1976) which are:
+
+35.
+
+a.
+
+the character of the person charged;
+
+b.
+
+the likelihood of a repetition of the offence;
+
+c.
+
+the nature of the offence committed;
+
+d.
+
+any extenuating circumstances surrounding the commission of the offence;
+
+e.
+
+the detriment to the University occasioned by the offence; and
+
+f.
+
+the need to deter others from committing a similar offence.
+
+While no evidence was filed on the issue of penalty, Assistant Discipline Counsel
+
+submitted that under the first three factors, the Student had not responded to any
+correspondence and had not participated in the proceedings. She submitted that there was no
+evidence before the Panel to demonstrate that the Student was willing to accept responsibility
+for her actions. Similarly, the Student had not provided any evidence regarding extenuating
+circumstances.
+
+13
+36.
+
+With respect to the last three factors, Assistant Discipline Counsel submitted that
+
+plagiarism is a serious offence “that strikes at the heart of academic integrity,”3 It requires a
+strong sanction that reflects the harm caused and conveys the seriousness of the misconduct
+to others.
+37.
+
+Assistant Discipline Counsel argued that the penalty sought is in keeping with similar
+
+cases of this Tribunal. In University of Toronto and D.K.,4 the student used an unauthorized
+aid in an exam and accessed Chegg.com. In that case, it was the student’s first offence and
+the student did not participate in the proceeding. The student received a zero in the course,
+a two-and-a-half-year suspension, and a notation was made on the student’s transcript to
+graduation.
+38.
+
+In University of Toronto and J.H.,5 the student plagiarized an assignment. It was the
+
+student’s first offence, and the student did not participate in the hearing. The student received
+a zero in the course, a two-year suspension, and a three-year notation.
+39.
+
+Assistant Discipline Counsel also submitted that the Panel ought to consider the
+
+commercial nature of Chegg.com as an aggravating factor in penalty.
+40.
+
+The Panel finds that while there is no evidence before it on which it can conclude
+
+that the student purchased the Chegg.com subscription, the Panel has found that the Student
+intended to and did access Chegg.com. At the time of the hearing, the Student was already
+on academic suspension, but chose not to participate in the hearing. Moreover, the Student
+did not contact Assistant Discipline Counsel or the ADFG Office even after she spoke with
+3
+
+See University of Toronto and D.K. (Case No 1119, July 21, 2021) at para 70.
+Case No 1119, July 21, 2021.
+5
+Case No 1077, November 2, 2020.
+4
+
+14
+Ms. Blake. She chose not to participate in the hearing and to forgo her opportunity to provide
+evidence on mitigation for penalty.
+41.
+
+That said, the Panel is mindful of the fact that these events occurred during the Covid
+
+19 global pandemic and that the Student is a foreign student. The Student has not accessed
+her mail.utoronto.com email account since September 2020. While there is no evidence
+before the Panel to explain this, the Panel is mindful of the fact that it was at that time six
+months into the ongoing global pandemic. The penalty sought is not at the high end of the
+range, and, in light of the surrounding circumstances, appropriately so.
+E.
+
+CONCLUSION
+
+42.
+
+This Panel orders that:
+a.
+
+the Student receive a final grade of zero in the course MAT137Y1 in Fall
+2019 and Winter 2020;
+
+b.
+
+the Student be suspended from the University of Toronto from August 20,
+2021, for a period of 2 years, ending on August 19, 2023 to run concurrently
+with the Student’s academic suspension;
+
+c.
+
+a notation of the sanction appear on the Student’s academic record and
+transcript from August 20, 2021, for a period of 3 years, ending on August
+19, 2024; and
+
+d.
+
+the case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+
+Dated at Toronto on this 29th day of November 2021.
+
+15
+
+Original signed by:
+______________________
+Ms. Alexi Wood, Chair
+On behalf of the Panel
+
+

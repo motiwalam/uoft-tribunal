@@ -1,0 +1,707 @@
+Case No.: 980
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+TRIAL DIVISION
+IN THE MATTER OF charges of academic dishonesty made on June 25, 2018
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and –
+V
+
+T
+
+(“the Student”)
+
+REASONS FOR DECISION
+Hearing Date: January 29, 2020
+Members of Panel:
+Ms. Lisa Talbot, Chair
+Professor Margaret MacNeill, Faculty Panel Member
+Mr. Jin Zhou, Student Panel Member
+Appearances
+Mr. Robert A. Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Krista Kennedy, Administrative Clerk and Hearing Secretary of the Office of Appeals,
+Discipline Faculty Grievances
+Not in Attendance:
+The Student
+
+-2THE CHARGES
+1.
+
+This matter arises out of charges of academic misconduct filed on June 25, 2018, by the
+
+Provost of the University of Toronto (the “Provost”) under the Code of Behaviour on Academic
+Matters (“Code”).
+2.
+
+The charges arise out of events that took place in the winter term of 2018 in two courses
+
+taught at the University: (i) the “Social Impact of Information Technology” (CSC D03) in which
+the Student was enrolled as a student; and (ii) “Principles of Programming Languages” (CSC
+C24) in which the Student was a teaching assistant.
+3.
+
+The charges are as follows.
+
+A.
+
+Charges relating to CSC D03
+1. On or about March 28, 2018, the Student knowingly had Chris Meng personate him
+when Mr. Meng submitted an in-class assignment in the Student’s name, contrary
+to section B.I.1(c) of the Code.
+2. On or about April 2, 2018, the Student knowingly had Chris Meng personate him
+when Mr. Meng submitted an in-class writing assignment in the Student’s name,
+contrary to section B.I.1(c) of the Code.
+3. In the alternative to each of the charges above the Student knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with an in-class writing assignment
+in Social Impact of IT, contrary to section B.I.3(b) of the Code.
+
+B.
+
+Charges relating to CSC C24
+4. On or about January 25, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Y.W., to obtain
+
+-3unauthorized assistance in connection with Lab 3 in Programming Languages,
+contrary to section B.I.1(b) of the Code.
+5. On or about February 1, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Y.W., to obtain
+unauthorized assistance in connection with Lab 4 in Programming Languages,
+contrary to section B.I.1(b) of the Code.
+6. On or about February 3, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Chiu Yuen, to obtain
+unauthorized assistance in connection with Assignment 1 in Programming
+Languages, contrary to section B.I.1(b) of the Code.
+7. On or about February 8, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Chiu Yuen, to obtain
+unauthorized assistance in connection with Lab 5 in Programming Languages,
+contrary to section B.I.1(b) of the Code.
+8. On or about February 8, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Y.W., to obtain
+unauthorized assistance in connection with Lab 5 in Programming Languages,
+contrary to section B.I.1(b) of the Code.
+9. On or about February 15, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Chiu Yuen, to obtain
+unauthorized assistance in connection with Lab 6 in Programming Languages,
+contrary to section B.I.1(b) of the Code.
+10. On or about February 17, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, Chiu Yuen, to obtain
+unauthorized assistance in connection with Assignment 2 in Programming
+Languages, contrary to section B.I.1(b) of the Code.
+
+-411. In the alternative to each of charges 4 to 10, the Student knowingly did or omitted
+to do something for the purpose of aiding or assisting one or more students to
+engage in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit or other academic advantage
+in Programming Languages, contrary to section B.I.3(b) of the Code.
+THE HEARING
+4.
+
+The Tribunal heard this matter on January 29, 2020. The hearing proceeding on an
+
+Agreed Statement of Facts, dated August 22, 2019, in which the Student pleaded guilty to all
+charges filed against him.
+5.
+
+The Student did not attend the hearing. In the Agreed Statement of Facts, the Student
+
+admitted that he received a copy of the charges filed by the Provost, and that he received
+reasonable notice of the hearing. The Panel accepted his consent, dated January 7, 2020 to
+proceed in his absence and to waive his right to any further notice of the proceedings.
+THE FACTS
+6.
+
+In the Agreed Statement of Facts, the Student admits to the following evidence, which the
+
+Panel accepts and finds as facts.
+A.
+
+Social Impact of Information Technology (Charges #1 to 3)
+
+7.
+
+In Winter 2018, the Student registered in CSC D03: Social Impact of Informational
+
+Technology (“Social Impact of IT”), which was taught by Professor Graeme Hirst. Social Impact
+of IT gives senior undergraduates in computer science programs some perspective on their
+studies including insight into the social consequences of the field, and the ethical dilemmas that
+computer professionals may face. The course helps students prepare for their transition from
+computer science students to computer professionals.
+
+-58.
+
+The final grade in Social Impact of IT comprised written assignments, in-class
+
+presentations, and participation. Professor Hirst expected students to attend all lectures. As the
+course outline explained:
+Attendance
+This is an inherently participatory class. You are expected to attend all lectures.
+Repeated absences without a legitimate reason are grounds for a substantial
+reduction of the final grade, typically 5 percentage points per class missed (that is,
+your class participation mark can be seriously negative). If you miss a class for
+unavoidable reasons such as illness, you should contact the instructor as soon as
+possible to explain.
+Feedback
+You are expected to provide feedback on all presentations held in the lectures and
+your tutorials. A sample feedback form can be found here. This feedback will count
+for part of your participation mark. Thoughtful and helpful comments are expected.
+9.
+
+Participation was worth 10% of the final grade in Social Impact of IT:
+This mark will be based on a combination of your attendance at lectures (as
+indicated by your use of the feedback forms) and your in-class and online
+participation (6% and 4% respectively).
+
+10.
+
+Professor Hirst emphasized the importance of ethical behaviour in the course outline and
+
+reminded students that they were expected to follow the Code:
+Ethical Behaviour and plagiarism
+We will debate many ethical issues in this course, but the University of Toronto
+Code of behaviour on academic matters and the Code of student conduct will not
+be among them; rather, these will be taken as given, and students will respect them
+and follow their precepts.
+Therefore:
+
+
+Undue collaboration in your papers and assignments is not permitted. You may
+use ideas and positions that are raised and discussed in class (with proper
+attribution, where appropriate). And you may discuss your work with other
+students outside class, indeed you should do so, but this is to stimulate your
+own thinking, not to substitute for it. What you hand in must be, in essence,
+your own work.
+
+-611.
+
+The Student attended lectures and submitted Presentation Feedback Forms on a regular
+
+basis.
+12.
+
+On March 28, 2018, the Student did not attend class because he had a doctor’s
+
+appointment. The Student asked Chris Xin Meng, another student in the class, to complete and
+submit Presentation Feedback Forms in the Student’s name and on his behalf.
+13.
+
+On April 2, 2018, the Student wished to pick up someone at the airport and he did not
+
+attend class. The Student again asked Mr. Meng to complete and submit Presentation Feedback
+Forms in the Student’s name and on his behalf.
+14.
+
+The Student admits that he knowingly had Mr. Meng personate him in connection with
+
+the five Presentation Feedback Forms submitted in his name on March 28 and April 2, 2018. The
+Student admits that he did so in order to obtain academic credit for work that he did not
+complete.
+B.
+
+Programming Languages (Charges #4 to 11)
+
+15.
+
+In Winter 2018, Professor Albert Lai taught CSC C24, Principles of Programming
+
+Languages (“Programming Languages”). The Student was a teaching assistant in Programming
+Languages in Winter 2018. Y.W. and Chiu Yuen were both students registered in Programming
+Languages during this term.
+16.
+
+The Course Information Sheet was included in evidence. The final grade in the course
+
+consisted of marks for coding exercises called Tutorial-labs (11 assigned, with the best 10 to
+count towards a total of 10% of the final grade in Programming Languages), five assignments
+(A1 to A5), a mid-term test, and a final exam.
+17.
+
+Additional information about Programming Languages was found on the course website,
+
+a copy of which was adduced into evidence.
+
+-718.
+
+Each week, the Student was responsible for running a two-hour tutorial. During most
+
+tutorials, the Student would present information to his class. The students would then do coding
+exercises based on “starters” provided by Professor Lai to the students. The Student was
+available to assist students as they worked on their exercises during the tutorial period. Students
+could complete their coding exercises during the tutorial, or they could submit their solutions by
+6:00 p.m. on the Friday of the same week that the tutorial took place.
+19.
+
+Professor Lai provided solutions for all of the coding exercises and assignments to the
+
+Teaching Assistants. Professor Lai provided teaching assistants with the instructor’s solutions to
+ensure that the teaching assistants understood the professor’s expectations, could accurately
+respond to student questions, and evaluate the students’ work. Professor Lai sent an email to the
+teaching assistants that attached the solutions in the form of computer code. There were many
+different ways to solve correctly the coding exercises and assignments. It is extremely unlikely
+that two students would submit identical solutions or that any solution, even an excellent
+solution, would be nearly identical to Professor Lai’s solutions.
+20.
+
+The Student received the instructor’s solutions for all of the coding exercises and
+
+assignments from Professor Lai. He knew that he was receiving those solutions in his capacity as
+a teaching assistant and for his authorized duties only. He knew that he was not permitted to
+give, show, or make the instructor’s solutions available to students in Programming Languages.
+He knew or ought to have known that doing so would breach the Code and violate his
+obligations as a tutorial assistant.
+Relationship between Mr. Yuen and the Student
+21.
+
+Mr. Yuen enrolled in Programming Languages during this term and was in the Student’s
+
+tutorial group. Mr. Yuen knew the Student personally before the term started and the Student
+was willing to help Mr. Yuen with the course when he had difficulties with the material. Mr.
+
+-8Yuen did not take the prerequisite to the course and had significant difficulty with the material
+and completing the coding exercises assigned by Professor Lai.
+22.
+
+As described below, Mr. Yuen received unauthorized assistance from the Student and
+
+such assistance was unauthorized and a breach of the Code.
+23.
+
+Mr. Yuen did not pay the Student for his assistance.
+Relationship between Y.W. and the Student
+
+24.
+
+Y.W. was a student in the course but was not a student in the Student’s tutorial group.
+
+25.
+
+Y.W. knew the Student personally before the term started. As described below, Y.W.
+
+received unauthorized assistance from the Student. Such assistance was unauthorized and a
+breach of the Code.
+26.
+
+Y.W. did not pay the Student for his assistance.
+Lab Week 3: Basic Scheme Exercises (Charge #4)
+
+27.
+
+For the coding exercise assigned during Lab Week 3, students were required to write four
+
+functions. Each function was worth one mark for correctness and there was one additional mark
+for style and layout.
+28.
+
+Professor Lai provided students with starter code for Lab Week 3, which was adduced
+
+into evidence and reviewed by the Panel.
+29.
+
+Professor Lai sent the same instructor’s solution for Lab Week 3 to the Student and all
+
+the other teaching assistants. The Panel reviewed the instructor’s solution, which was adduced
+into evidence.
+30.
+
+The Student sent Y.W. a copy of the Lab Week 3 solution by WeChat. Y.W. made some
+
+minor changes to the file that the Student sent to her and submitted it as her answer for the Lab
+Week 3 coding exercise. The Panel reviewed her submission, which was adduced into evidence.
+Y.W.’s submission was nearly identical to the instructor’s solution.
+
+-931.
+
+The Student admits that he knowingly provided his copy of the instructor’s solution to
+
+Y.W. to permit her to use the solution to assist her in completing her lab. The Student did not
+review or grade Y.W.’s completed lab.
+Lab Week 4: Intermediate Scheme exercises (Charge #5)
+32.
+
+For the coding exercise assigned during Lab Week 4, students were required to write
+
+three functions.
+33.
+
+Professor Lai provided students with starter code for Lab Week 4, which was adduced
+
+into evidence.
+34.
+
+Professor Lai sent the same instructor’s solution for Lab Week 4 to the Student and all
+
+the other teaching assistants. This was adduced into evidence.
+35.
+
+Mr. Yuen approached the Student for assistance during the tutorial. Despite providing
+
+him extra assistance, Mr. Yuen had difficulty completing the coding exercise and messaged the
+Student on WeChat to ask for assistance with the coding exercise. The Student responded by
+sending Mr. Yuen a solution by WeChat. Mr. Yuen made some minor changes to the file that the
+Student sent to him and submitted it as his answer for the Lab Week 4 coding exercise. The
+Panel reviewed Mr. Yuen’s submission. Mr. Yuen’s assignment was nearly identical to the
+instructor’s solution.
+36.
+
+The Student admits that he knowingly provided his copy of the instructor’s solution to
+
+Mr. Yuen to permit him to use the solution to assist him in completing his lab.
+Assignment 1 – February 3, 2018 (Charge #6)
+37.
+
+Assignment 1 in Programming Languages was due on February 3, 2018, and was worth
+
+6% of the course grade. A copy of the questions for Assignment 1, was adduced into evidence.
+38.
+Panel.
+
+Professor Lai sent students starter code for Assignment 1, which was reviewed by the
+
+- 10 39.
+
+Professor Lai sent the same instructor’s solution for Assignment 1 to the Student and all
+
+the other teaching assistants. This was reviewed by the Panel.
+40.
+
+Mr. Yuen tried to work on completing Assignment 1, but found that he did not
+
+understand how to answer the questions. Mr. Yuen saw the Student at school and asked the
+Student to help him. The Student showed Mr. Yuen a computer file containing the instructor’s
+solution. The Student tried to explain the assignment to Mr. Yuen, however he continued to have
+difficulty. Mr. Yuen asked the Student to provide him with the instructor’s solution, which he did
+by WeChat.
+41.
+
+Mr. Yuen submitted his answer to Assignment 1 on or about February 8, 2018. The Panel
+
+reviewed Mr. Yuen’s submission, which was adduced into evidence. It was nearly identical to
+the instructor’s solution.
+42.
+
+The Student admits that he knowingly provided his copy of the instructor’s solution to
+
+Mr. Yuen to permit him to use the solution to assist him in completing his assignment.
+Lab Week 5: Haskell exercises part A (Charges #7 and #8)
+43.
+
+For the coding exercise assigned during Lab Week 5, students were required to complete
+
+Haskell exercises.
+44.
+
+Professor Lai provided students with starter code for Lab Week 5, which the Panel
+
+reviewed.
+45.
+
+Professor Lai sent a unique instructor’s solution for Lab Week 5 to the Student. A copy
+
+of the instructor’s solution that Professor Lai sent to the Student was adduced into evidence and
+reviewed by the Panel. Professor Lai sent a different instructor’s solution to all of the other
+teaching assistants in the course. Some of the unique features contained in the instructor’s
+solution sent to the Student consisted of characters and spacing that were not visible.
+
+- 11 (a)
+46.
+
+Yuen
+
+Mr. Yuen messaged the Student on WeChat and asked for his assistance on Lab 5. The
+
+Student sent Mr. Yuen the instructor’s solution by WeChat.
+47.
+
+Mr. Yuen submitted an answer for the Lab Week 5 assignment, which was reviewed by
+
+the Panel.
+48.
+
+Mr. Yuen’s submission was nearly identical to the unique instructor’s solution provided
+
+to the Student and is different than the solution provided to the other teaching assistants. Mr.
+Yuen’s submission included the characters that were not visible, but were present in the unique
+instructor’s solution that Professor Lai gave to the Student.
+49.
+
+The Student graded Mr. Yuen’s submission and awarded it full marks. The Student’s role
+
+was to give the lab either 0 or 1 (full marks) based on the style of coding (not the correctness or
+logic of the program). The Student did not notice that Mr. Yuen had submitted a solution which
+was identical or nearly identical to the solution of Professor Lai.
+50.
+
+The Student admits that he knowingly provided his copy of the instructor’s solution to
+
+Mr. Yuen to permit him to use the solution to assist him in completing his assignment.
+(b) W.
+51.
+
+Y.W. contacted the Student and asked for his assistance. The Student sent the instructor’s
+
+solution to Y.W. by WeChat.
+52.
+
+Y.W. submitted an answer for the Lab Week 5 assignment. A copy of her submission was
+
+reviewed by the Panel. Y.W.’s submission was nearly identical to the unique instructor’s solution
+that Professor Lai provided to the Student and is different than the solution provided to all the
+other teaching assistants. Y.W.’s submission included the characters that were not visible, but
+were present in the unique instructor’s solution that Professor Lai gave to the Student.
+
+- 12 53.
+
+The Student admits that he knowingly provided his copy of the instructor’s solution to
+
+Y.W. to permit her to use the solution to assist her in completing her lab. The Student did not
+review of grade Y.W.’s completed lab.
+Lab Week 6: Haskell exercises part B (Charge #9)
+54.
+
+For the coding exercise assigned during Lab Week 6, students were required to complete
+
+further Haskell exercises.
+55.
+
+Professor Lai provided students with starter code for Lab Week 6.
+
+56.
+
+Professor Lai sent a unique instructor’s solution for Lab Week 6 to the Student. This was
+
+reviewed by the Panel. Professor Lai sent a different instructor’s solution to all of the other
+teaching assistants in the course. Some of the unique features contained in the instructor’s
+solution sent to the Student consisted of characters and spacing that were not visible.
+57.
+
+Mr. Yuen had difficulty completing the coding exercise and messaged the Student on
+
+WeChat to ask for assistance with the coding exercise. The Student responded by sending Mr.
+Yuen a solution by WeChat. Mr. Yuen made some minor changes to the file that the Student sent
+to him and submitted it as his answer for the Lab Week 6 coding exercise. It was nearly identical
+to the instructor’s solution.
+58.
+
+The Student admits that he knowingly provided his copy of the instructor’s solution to
+
+Mr. Yuen to permit him to use the solution to assist him in completing his assignment.
+Assignment 2 – February 17, 2018 (Charge #10)
+59.
+
+Assignment 2 in Programming Languages was due on February 17, 2018 and was worth
+
+6% of the course.
+60.
+
+Professor Lai provided students with starter code for Assignment 2.
+
+61.
+
+Professor Lai sent a unique instructor’s solution for Assignment 2 to the Student. This
+
+was reviewed by the Panel. The solution that Professor Lai sent to the Student was different from
+
+- 13 the solution he sent to all other teaching assistants in the course. Some of the unique features
+contained in the instructor’s solution sent to the Student consisted of characters and spacing that
+were not visible.
+62.
+
+Mr. Yuen submitted his answer to Assignment 2 on or about February 17, 2018. A copy
+
+of Mr. Yuen’s submission was adduced into evidence. It was nearly identical to the unique
+instructor’s solution provided to the Student and is different from the solution provided to the
+other teaching assistants. Mr. Yuen’s submission included the characters that were not visible,
+but were present in the unique instructor’s solution that Professor Lai gave to the Student.
+63.
+
+The Student admits that he knowingly provided the instructor’s solution for Assignment 2
+
+to Mr. Yuen to permit him to use the solution to assist him in completing the assignment.
+The Student learns he is suspected of committing academic offences
+64.
+
+In late February or March 2018, the Student learned that Professor Lai suspected that he
+
+may have committed academic offences with Mr. Yuen and Y.W..
+65.
+
+Y.W. spoke with the instructor and the Dean’s designate before speaking to the Student.
+
+She reported to the Student that she told the University’s representatives that she had looked at
+the Student’s computer screen while he had the answers open. She told the Student that she did
+not wish to get him in trouble because she felt sorry for putting him in this position. She told the
+Student that she would email the University a new story, in particular, that she surreptitiously
+accessed the Student’s email to obtain the instructor’s solutions because she had his UTORid.
+Y.W. asked the Student to tell the same story, and he agreed to do so.
+66.
+
+The Student admits that he then persuaded Mr. Yuen to lie to various university officials
+
+to align with Y.W.’s story. Mr. Yuen did lie to the university representatives by stating that he
+took photographs of the solutions when the Student showed them to him and that he received the
+lab answers from Y.W..
+
+- 14 Meeting with Dean’s Designate
+67.
+
+On April 24, 2018, the Student met with Professor Wanda Restivo, Dean’s Designate for
+
+Academic Integrity at the University of Toronto, Scarborough. During this meeting, the Student
+admitted that he committed the acts of academic misconduct in Social Impact as described
+above.
+DISPOSITION ON CHARGES
+68.
+
+On the basis of the facts set out above, as well as the documents provided in the Joint
+
+Book of Documents, the Tribunal determined that it was appropriate to accept the Student’s
+guilty pleas and entered the finding that the Student was guilty of charges 1, 2, 4 to 10.
+69.
+
+On the basis the Tribunal’s conviction of the Student on charges 1, 2, 4 -10, the Provost
+
+withdrew charges #3 and 11.
+DECISION ON PENALTY
+70.
+
+The Student and the University submitted a Joint Submission on Penalty in support of the
+
+following penalty:
+(a)
+
+the imposition of a final grade of zero in CSC D03;
+
+(b)
+
+the suspension of the Student from the University for five years;
+
+(c)
+
+a recommendation to the President that he recommend to the Governing Council
+that the Student be expelled from the University of Toronto; and
+
+(d)
+
+the reporting of this case to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the name of the student withheld.
+
+72.
+
+Although this matter was presented to the Panel by way of an Agreed Statement of Facts
+and Joint Submission on Penalty (both of which were submitted voluntarily by the Student
+after having been advised of his right to obtain independent legal advice and after having
+done so), we are still required to consider the C factors (Case No. 1976/77-3 November 5,
+
+- 15 1976) to support our decision on penalty: character of student, likelihood of repetition
+
+of the offence, nature of the offence committed, existence of extenuating
+circumstances, detriment to the University and general need for deterrence.
+Character
+73.
+
+With respect to the Student’s character, we know that he has no prior history of academic
+misconduct at the University. However, he violated the Code as a student, and engaged in
+an extraordinary breach of trust as a teaching assistant. His actions were not isolated, but
+repeated. The fact that the incidents occurred with two students and happened repeatedly
+indicates that the Student did not suffer a momentary lapse of judgment. The Student then
+actively concealed the true facts from the University. As the investigation proceeded, the
+Student lied to the Dean’s designate and proffered a fabricated set of facts. The Student has
+exhibited a disregard for the Code, which reveals a dishonesty in character. We note that
+the Student, to his credit, has proceeded at hearing by way of a guilty plea, an Agreed
+Statement of Facts and a Joint Submission on Penalty. This is evidence of his ultimate
+cooperation and possibly remorse, however, his cooperation came only after having
+engaged in a cover-up scheme and having been “caught”.
+The likelihood of a repetition of the offence
+
+74.
+
+The Panel hopes that the Student has learned from this experience and will never commit
+such ethical breaches again. The Student did ultimately confess to his dishonesty, but only
+after having engaged in a conspiracy to mislead the University. The fact that the Student
+originally conspired with the other students to avoid sanction suggests he would likely
+commit such an offence if he thought he would not get caught. Furthermore, his own
+academic dishonesty as a student, plus his academic dishonesty as a teaching assistant with
+two students, not just one, and on repeated occasions, also contributes to the likelihood that
+he would commit other offences.
+The nature of the offence committed
+
+75.
+
+The offences committed by the Student are serious. He admits that he knowingly had Mr.
+Meng personate him in order to obtain academic credit for work that he did not complete.
+He admits that he knowingly provided his copy of the instructor’s solutions to two students
+
+- 16 while serving as a teaching assistant. He also admits that he knew that he received those
+solutions in his capacity as a teaching assistant and for his authorized duties only. He knew
+that he was not permitted to give, show, or make the instructor’s solutions available to
+students. He admits that he knew or ought to have known that doing so would breach the
+Code and violate his obligations as a tutorial assistant. Yet he did so repeatedly, with two
+students. He was aware of what he was doing, and he was aware that his actions were in
+breach of the Code. He then deliberately misled the University in its investigation.
+The extenuating circumstances
+76.
+
+Extenuating circumstances may be mitigating factors or aggravating factors.
+
+77.
+
+In this case, the mitigating factors are that the Student entered into guilty pleas. He
+cooperated with the University by signing an Agreed Statement of Facts and agreeing to
+Joint Submissions on Penalty. This allowed for time and expense to be spared.
+
+78.
+
+The aggravating factors are that the Student knowingly committed multiple offences and
+engaged in a scheme to cover-up the true facts from the University. He could have stopped
+at any time but did not do so. The Student engaged in a gross breach of the trust placed in
+him as a teaching assistant.
+The need to deter others from committing a similar offence
+
+79.
+
+The University has an important interest in protecting the integrity of the institution. Such
+integrity is fundamental to the academic relationship. It is important that students are
+deterred from committing offences of academic dishonesty. It is important that teaching
+assistants, who are in a unique position of trust among the students at the University, be
+beyond reproach. Students must know that knowingly breaching the Code will not be
+tolerated. They must also know that they cannot seek to obtain unfair benefits from
+teaching assistants. Teaching assistants must understand that any violation of their position
+of trust will be treated with great severity.
+
+80.
+
+There is a very high threshold for departing from a joint submission on penalty requiring
+the Panel to find that the acceptance of same would be contrary to the public interest and
+bring the administration of justice in to disrepute.
+
+- 17 81.
+
+The Panel sees no reason to depart from the Joint Submission on Penalty. After considering
+all of the above factors, and the cases provided by the University, the Tribunal is satisfied
+that the suggested penalty in the Joint Submission on Penalty is appropriate.
+
+82.
+
+An Order was signed at the hearing by the Panel on the following terms:
+1. The Student shall receive a final grade of zero in the course CSCD03;
+2. The Student be suspended from the University of Toronto for five years from the date
+of this Order;
+3. A recommendation be made to the President of the University that he recommend to
+the Governing Council that the Student be expelled from the University, and
+4. This case shall be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+Dated on May 5th, 2020
+
+________________________
+Lisa Talbot
+Chair
+
+

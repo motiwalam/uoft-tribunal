@@ -1,0 +1,939 @@
+Case No.: 969
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on April 9, 2018
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and I
+
+R
+
+REASONS FOR DECISION
+Hearing Dates: August 16, 2018 and January 28, 2019
+Members of the Panel:
+Mr. R.S.M. Woods, Chair
+Professor Dionne Aleman, Faculty Panel Member
+Ms. Natasha Brien, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Hatim Kheir, Representative for the Student, Downtown Legal Services (August 16, 2018
+only)
+Hearing Secretary:
+Ms. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+Mr. I
+R
+, the Student
+
+-2THE CHARGES
+1.
+
+On April 9, 2018, the University of Toronto (the “University”) charged I
+
+R
+
+(the
+
+“Student”) with the following offences under the University of Toronto Code of Behaviour on
+Academic Matters, 1995 (the “Code”):
+1.
+On or about October 26, 2016, you knowingly represented as your own an
+idea or expression of an idea or work of another in an essay that you submitted in
+RLG312H5 (Method and Theory in the History of Religions) (“RLG312”),
+contrary to section B.i.1(d) of the Code.
+2.
+In the alternative, on or about October 26, 2016, you knowingly obtained
+unauthorized assistance in connection with an essay that you submitted in RLG312,
+contrary to section B.i.1(b) of the Code.
+3.
+In the further alternative, on or about October 26, 2016, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with an essay that you
+submitted in RLG312, contrary to section B.i.3(b) of the Code.
+4.
+On or about December 2, 2016, you knowingly represented as your own an
+idea or expression of an idea or work of another in a response (for November 18,
+2016) that you submitted in RLG314H5 (Religion and Gender) (“RLG314”),
+contrary to section B.i.1(d) of the Code.
+5.
+In the alternative, on or about December 2, 2016, you knowingly obtained
+unauthorized assistance in connection with a response (for November 18, 2016)
+that you submitted in RLG314, contrary to section B.i.1(b) of the Code.
+6.
+In the further alternative, on or about December 2, 2016, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with a response (for
+November 18, 2016) that you submitted in RLG314, contrary to section B.i.3(b) of
+the Code.
+7.
+On or about December 2, 2016, you knowingly represented as your own an
+idea or expression of an idea or work of another in a response (for November 25,
+2016) that you submitted in RLG314, contrary to section B.i.1(d) of the Code.
+8.
+In the alternative, on or about December 2, 2016, you knowingly obtained
+unauthorized assistance in connection with a response (for November 25, 2016)
+that you submitted in RLG314, contrary to section B.i.1(b) of the Code.
+
+-39.
+In the further alternative, on or about December 2, 2016, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with a response (for
+November 25, 2016) that you submitted in RLG314, contrary to section B.i.3(b) of
+the Code.
+10.
+On or about December 9, 2016, you knowingly represented as your own an
+idea or expression of an idea or work of another in a paper that you submitted in
+RLG314, contrary to section B.i.1(d) of the Code.
+11.
+In the alternative, on or about December 9, 2016, you knowingly obtained
+unauthorized assistance in connection with a paper that you submitted in RLG314,
+contrary to section B.i.1(b) of the Code.
+12.
+In the further alternative, on or about December 9, 2016, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with paper that you
+submitted in RLG314, contrary to section B.i.3(b) of the Code.
+13.
+On or about March 31, 2017, you knowingly represented as your own an
+idea or expression of an idea or work of another in a paper that you submitted in
+RLG450H5 (Ritual, Material Practice, and the Senses in South Asian Islam)
+(“RLG450”), contrary to section B.i.1(d) of the Code.
+14.
+In the alternative, on or about March 31, 2017, you knowingly obtained
+unauthorized assistance in connection with a paper that you submitted in RLG450,
+contrary to section B.i.1(b) of the Code.
+15.
+In the further alternative, on or about March 31, 2017, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with paper that you
+submitted in RLG450, contrary to section B.i.3(b) of the Code.
+THE HEARING
+2.
+
+The Tribunal heard this matter over the course of two days, August 16, 2018 and January
+
+28, 2019.
+3.
+
+The first day of hearings, August 16, 2018, was scheduled with the consent of the Student’s
+
+representative from Downtown Legal Services (“DLS”). At the Student’s request, he was to attend
+the hearing via Skype.
+
+-44.
+
+The Student’s representative attended the hearing, but the Student did not. The Student’s
+
+representative advised the Tribunal that he had been able to speak with the Student over Skype
+previously, but the Tribunal was unable to reach him on the day of the hearing. After a number of
+unsuccessful attempts to reach the Student via Skype, the Tribunal proceeded without him,
+although in the presence of his representative from DLS. It accepted into evidence an agreed
+statement of facts (the “Agreed Statement of Facts”) signed by the Student and was provided
+with a Joint Book of Authorities by counsel for the University and the Student’s representative. A
+copy of the Agreed Statement of Facts is attached as Schedule A to these reasons.
+5.
+
+Based on the Agreed Statement of Facts and the admissions of guilt in it, the Tribunal
+
+concluded that the student was guilty of some of the charges that the University had made against
+him. Given that the Student was not present in person or via Skype at the hearing, the Tribunal
+adjourned the sanctions hearing to October 29, 2018. To ensure that the sanctions hearing
+proceeded on that date, the Tribunal ordered that the hearing was peremptory on the Student.
+6.
+
+Unfortunately, as a result of the illness of a Tribunal member, the hearing could not proceed
+
+on October 29, 2018. By that point, DLS had withdrawn as the Student’s representative on the
+basis that it had been unable to contact him since August 16, 2018.
+7.
+
+The Tribunal Chair asked both the Student and counsel for the University for written
+
+submissions on whether any new date should also be made peremptory on the student. Counsel
+for the University provided submissions pointing out the Student’s failure to explain his absence
+on the original hearing date and failure to respond in a timely fashion to the University’s attempts
+to reach him, as well as the University’s interest in imposing a sanction without further delay. The
+Student did not provide any submissions, although he had responded to earlier emails. In those
+emails he had stated that he had planned to attend the sanctions hearing on October 29, 2018 in
+person, and asked that any future communications with him be via email and no other means of
+contact.
+8.
+
+Based on its availability, the Tribunal scheduled the resumed hearing for January 28, 2019.
+
+Notice of the new hearing date was provided to both counsel for the University and by email to
+the Student. In the circumstances, the Tribunal Chair decided that he would not make the sanctions
+hearing peremptory on the Student.
+
+-59.
+
+The Student did not attend the hearing on January 28, 2019 either in person or via Skype.
+
+As with the first day of the hearing, the Tribunal made multiple attempts to contact the Student by
+Skype, but was unable to do so.
+10.
+
+Counsel for the University provided the Tribunal with affidavits from Janice Patterson, an
+
+assistant at her law firm, as well as from Tracey Gameiro, Associate Director, Appeals, Discipline
+and Faculty Grievances, Office of the Governing Council of the University detailing the notice of
+the hearing provided to the Student. Based on that evidence, the Tribunal was satisfied that the
+Student had had notice of the resumed hearing and determined that it would proceed with the
+sanctions portion of the hearing. After hearing submissions on sanction from counsel for the
+University, the Tribunal imposed the sanction set out below.
+MERITS OF THE CHARGES
+Facts
+11.
+
+Based on the Agreed Statement of Facts, the Tribunal makes the following findings of fact.
+RLG312
+
+12.
+
+In Fall 2016, the Student enrolled in RLG312 (Method and Theory in the History of
+
+Religions) which was taught by Professor Barton Scott.
+Statement Regarding Academic Integrity
+13.
+
+The syllabus for RLG312 provided to students who took that course contained a statement
+
+stressing the importance of academic integrity. That statement read in part:
+University Statement on Academic Integrity
+Academic integrity is essential to the pursuit of learning and scholarship in a
+university, and to ensuring that a degree from the University of Toronto is a strong
+signal of each student’s individual academic achievement. As a result, the
+University treats cases of cheating and plagiarism very seriously. The University of
+Toronto’s
+Code
+of
+Behaviour
+on
+Academic
+Matters
+(www.governingcouncil.utoronto.ca/policies/behaveac.htm)
+outlines
+the
+behaviours that constitute academic dishonesty and the process for addressing
+academic offences. Potential offences include, but are not limited to:
+
+-6In papers and assignments:
+1. Using someone else’s ideas or words without appropriate
+acknowledgement.
+2. Submitting your own work in more than one course without the
+permission of the instructor.
+3. Making up sources and facts.
+4. Obtaining or providing unauthorized assistance on any assignment.
+The RLG 312 Essay
+14.
+
+Students in RLG312 were required to submit three essays, each worth 20% of their final
+
+grade. To help guard against plagiarism, students were required to submit their essays to Turnitin,
+an online database of publications, other student submissions and internet sources.
+15.
+
+On October 26, 2016, the Student submitted his second essay entitled “Ludwig Feuerbach’s
+
+theory of Religion” (the “RLG312 Essay”) to Turnitin. The Turnitin report returned a 48%
+similarity index with internet sources. In particular, the Turnitin report found that the RLG312
+Essay contained passages taken verbatim or nearly verbatim from an article by Kile Jones entitled
+“A Critique of Ludwig Feuerbach’s Philosophy of Religion” which was available online. That
+article was not cited in the text or bibliography of the RLG312 Essay.
+Meeting with Professor Scott to Discuss Misconduct Allegation
+16.
+
+The Student met with Professor Scott to discuss the allegation of academic misconduct
+
+involving the RLG312 Essay on November 9, 2016.
+RLG314
+17.
+
+In Fall 2016, the Student was also enrolled in RLG314H5 (Religion and Gender) which
+
+was taught by Dr. H. Ganapathy-Coleman.
+
+-7Statement Regarding Academic Integrity
+18.
+
+Students in RLG314 were given information about the University’s expectations regarding
+
+academic integrity. The course syllabus for RLG314 included language stressing the importance
+of academic integrity similar to that in the course syllabus for RLG312.
+Course Requirements
+19.
+
+Students in RLG314 were required to submit four response papers, each worth 6.66%, as
+
+well as two papers, each worth 25% of their final grades.
+The November 18 and 25 Response Papers
+20.
+
+During the term, the Student informed Dr. H. Ganapathy-Coleman of some difficulties that
+
+he was having after missing several classes. As a result, Dr. H. Ganapathy-Coleman gave the
+Student permission to submit his outstanding work at the end of the term.
+21.
+
+On December 2, 2016, the last day of classes in RLG314, the Student submitted two
+
+response papers (the “November 18 Response” and the “November 25 Response”). On review,
+Dr. H. Ganapathy-Coleman determined that the responses contained passages that were taken
+verbatim or nearly verbatim from online sources that were not cited.
+22.
+
+In particular, the Student’s November 18 Response contained passages that were taken
+
+verbatim or nearly verbatim from a review (the “November 18 Source”) by Nicki Waugh of
+Goddesses and the divine feminine: a western religious history available online (at
+http://bmcr.brynmawr.edu/2005/2005-12-16.html). The November 18 Source was not cited in the
+November 18 Response.
+23.
+
+The November 25 Response contained passages that were taken verbatim or nearly
+
+verbatim from two sources (collectively the “November 25 Sources”), a a summary of Is the
+Goddess a Feminist? The Politics of South Asian Goddesses from the Amazon.com website (at
+https://www.amazon.com/Goddess-Feminist-Politics-South-Goddessess/dp/081473619X and an
+article by Karen G. Ruffle entitled “May Fatimah Gather our Tears: The Mystical and Intercessory
+Powers of Fatimah al-Zahra in Indo-Persian, Shi-i Devotional Literature and Performance”.
+
+-8The Second Paper
+24.
+
+On December 9, 2016 (the deadline for the second paper), the Student submitted his second
+
+paper in RLG314 entitled “The Status of Women in the Societies of World Religion” (the
+“RLG314 Paper”) to Turnitin. The Turnitin report returned a 53% similarity index to sources in
+the Turnitin database. The Student’s RLG314 Paper contained passages that were taken verbatim
+or nearly verbatim from an article (the “RLG314 Source”) by Kamila Klingorova and Tomas
+Havlicek, “Religion and gender inequality: The status of women in the societies of world religions”
+that was available online (at https://content.sciendo.com/view/journals/mgr/23/2/article-p2.xml)
+(the “RLG314 Source”). The RLG314 Source was not cited in the RLG314 Paper.
+Meeting with Professor Ganapathy-Coleman to Discuss Misconduct Allegations
+25.
+
+The Student met with Dr. H. Ganapathy-Coleman to discuss the allegations of academic
+
+misconduct with respect to his assignments in RLG314 on December 16, 2016.
+RLG450
+26.
+
+In Winter 2017, the Student enrolled in RLG450H5 (Ritual, Material Practice, and the
+
+Senses in South Asian Islam) (“RLG450”), which was taught by Professor Karen Ruffle.
+Statement Regarding Academic Integrity
+27.
+
+Professor Ruffle’s syllabus for RLG450 included a detailed statement on the importance
+
+of academic integrity which reads, in part, as follows:
+Academic Integrity
+Academic integrity is fundamental to learning and scholarship at the University of
+Toronto and beyond. Participating honestly, respectfully, responsibly, and fairly in
+this academic community ensures that the U of T degree that you earn will be
+valued as a true indication of your individual academic achievement, and will
+continue to receive the respect and recognition it deserves. I am sympathetic to the
+many challenges today’s students face. Reasonable late penalties are given for
+assignments submitted after deadline in order to help you manage conflicting
+deadlines. Should you feel pressured to seek unauthorized assistance or plagiarize
+on work because of challenges you are facing, please speak to me or your College
+Registrar for guidance. I will grant extensions on deadlines for documented
+illnesses.
+
+-9Students are expected to know what constitutes AI: Familiarize yourself with the
+University of Toronto’s Code of Behaviour on Academic Matters
+(www.governingcouncil.utoronto.ca/policies/behaveac.htm). It is the rule-book for
+academic behaviour at the U of T. You can also find out more about academic
+integrity here: https://www.utm.utoronto.ca/academic-integrity/students. Potential
+offences include, but are not limited to
+In papers and assignments:
+
+
+Using someone else’s
+acknowledgement.
+
+
+
+Copying material word-for-word from a source (including lecture and study
+group notes) and not placing the words within quotation marks.
+
+
+
+Submitting your own work in more than one course without the permission
+of the instructor.
+
+
+
+Making up sources and facts.
+
+
+
+Including references to sources that you did not use.
+
+
+
+Obtaining or providing unauthorized assistance on any assignment
+including:
+
+ideas
+
+or
+
+words
+
+without
+
+appropriate
+
+o Working in groups on assignments that are supposed to be
+individual work;
+o Having someone rewrite or add material to your work while
+“editing;”
+o “Crowdsourcing” ideas and text via a Facebook/online study group
+without attribution.
+
+
+Lending your work to a classmate who submits it as his/her own without
+your permission.
+
+
+
+For guidance on how not to plagiarize, please visit the Writing Centre and
+refer to Margaret Proctor’s tip sheet on “Now Not to Plagiarize” (Appendix
+A). For more information: http://www.writing.utoronto.ca/advice/usingsources/how-not-to-plagiarize
+
+The RLG450 Paper
+28.
+
+Students in RLG450 were required to give a final presentation worth 15% and submit a
+
+final paper worth 25% of their final grades. Due to illness, the Student did not attend the class in
+which he was supposed to give his presentation. Professor Ruffle agreed to reallocate the
+weighting so that his final paper would be worth 40% of his final grade.
+
+- 10 29.
+
+On March 31, 2017, the Student submitted his final paper entitled “The Taj Mahal in India”
+
+(the “RLG450 Paper”) to Turnitin. Although the Turnitin report returned only a 9% similarity
+index to other sources, Professor Ruffle suspected that the Student may have made unauthorized
+use of sources. Professor Ruffle determined that the RLG450 Paper contained passages that
+appeared to have been taken from online sources without appropriate attribution, in particular, two
+articles (the “RLG Sources”): an article entitled “Taj Mahal” from the United Nations
+Educational,
+
+Scientific
+
+and
+
+Cultural
+
+Organization
+
+(UNESCO)
+
+website
+
+(at
+
+https://whc.unesco.org/en/list/252 ) and, an article entitled “The Taj Mahal is so special – let us
+tell you why” from the Imagine Travel website (at http://blog.imaginetravel.com/taj-mahaldefinitely-bucket-list/). The Student’s RLG450 Paper contained ideas that were taken from the
+RLG450 Sources, which were not cited in the RLG450 Paper.
+30.
+
+On March 31, 2017, Professor Ruffle sent the Student an email advising him that she had
+
+received his paper and asking him to meet with her. On April 1, 2017, the Student responded:
+Oh I definitely would’ve but I’ll be in states. One of my relative is unfortunately
+not well at all so I’ll have to be there but what’s it about maybe we can facetime or
+something?
+Also, I was about to email you actually I realized one of the references from the
+paper is missing. It’s this one
+Centre, UNESCO World Heritage. “Taj Mahal.” UNESCO World Heritage Centre.
+Web. http://whc.unesco.org/en/list/252
+I really apologize for this inconvenience there was a confusion. Sparavigna
+should’ve been replaced with the above reference in the second paragraph. But I
+used some of Sapravigna’s ideas in the essay too so it’s cited.
+Let me know what it’s about if we can maybe reschedule it or talk on email
+whichever way I convenient for you.
+The Meeting with Professor Ruffle to Discuss the Misconduct Allegations
+31.
+
+The Student met with Professor Ruffle to discuss the allegation of academic misconduct
+
+on April 17, 2017.
+
+- 11 The Dean’s Designate Meeting
+32.
+
+On July 17, 2017, the Student met Professor Michael Georges, Dean’s Designate, to discuss
+
+the alleged offences in RLG312, RLG314 and RLG450. Professor Georges gave the Student the
+warning that was required to be given under the Code.
+33.
+
+The Student attended the meeting with a representative from DLS. During the meeting,
+
+the Student read from a prepared statement in which he admitted to the offences alleged. In his
+statement, he also described the difficulties that he was experiencing in Fall 2016 and Winter 2017,
+including the illness of his grandfather (who subsequently passed away) and his own health
+challenges (for which he sought accommodations from the University). He claimed that the
+incidents of plagiarism were unintentional and were mistakes. He also relied on the fact that he
+had emailed Professor Ruffle with the omitted citation when he became aware of it
+34.
+
+At the meeting, the Student signed Admission of Guilt forms for the alleged offences in
+
+RLG312, RLG314 and RLG450.
+Admissions of Guilt
+35.
+
+In the Agreed Statement of Facts, the Student made a series of admissions with respect to
+
+the charges against him.
+36.
+
+In respect of the RLG312 Essay, in the Agreed Statement of Facts, the Student admitted
+
+that he knowingly:
+(a)
+
+included verbatim or nearly verbatim text and ideas in the RLG312 Essay that were
+taken from the RLG312 Source;
+
+(b)
+
+failed to attribute the verbatim or nearly verbatim text and ideas appropriately using
+citations, references or other appropriate means;
+
+(c)
+
+represented in the RLG312 Essay the ideas of another person, the expression of the
+ideas of another person, or the work of another person as his own; and
+
+(d)
+
+committed plagiarism, contrary to section B.i.1(d) of the Code.
+
+- 12 37.
+
+In respect of the RLG314 Paper, in the Agreed Statement of Facts, the Student admitted
+
+that he:
+(a)
+
+included verbatim or nearly verbatim text and ideas in the RLG314 Paper that were
+taken from the RLG314 Source;
+
+(b)
+
+failed to attribute the verbatim or nearly verbatim text and ideas appropriately using
+citations, references or other appropriate means;
+
+(c)
+
+represented in the RLG314 Paper the ideas of another person, the expression of the
+ideas of another person, or the work of another person as his own; and
+
+(d)
+
+committed plagiarism in the RLG314 Paper, contrary to section B.I.1(d) of the
+Code.
+
+38.
+
+In respect of the November 18 and November 25 Responses, in the Agreed Statement of
+
+Facts the Student admitted that he knowingly:
+(a)
+
+included verbatim or nearly verbatim text and ideas in the November 18 Response
+that were taken from the November 18 Source;
+
+(b)
+
+failed to attribute the verbatim or nearly verbatim text and ideas appropriately using
+citations, references or other appropriate means in the November 18 Response;
+
+(c)
+
+represented in the November 18 Response the ideas of another person, the
+expression of the ideas of another person, or the work of another person as his own;
+
+(d)
+
+included verbatim or nearly verbatim text and ideas in the November 25 Response
+that were taken from the November 25 Sources;
+
+(e)
+
+failed to attribute the verbatim or nearly verbatim text and ideas appropriately using
+citations, references or other appropriate means in the November 25 Response;
+
+(f)
+
+represented in the November 25 Response the ideas of another person, the
+expression of the ideas of another person, or the work of another person as his own;
+and
+
+- 13 (g)
+
+committed plagiarism, contrary to section B.i.1(d) of the Code in respect of both
+the November 18 Response and the November 25 Response.
+
+39.
+
+With respect to the RLG450 Paper, in the Agreed Statement of Facts, the Student admitted
+
+that he knowingly:
+(a)
+
+included verbatim or nearly verbatim text and ideas in the RLG450 Paper that were
+taken from the RLG450 Sources;
+
+(b)
+
+failed to attribute the verbatim or nearly verbatim text and ideas appropriately using
+citations, references or other appropriate means;
+
+(c)
+
+represented in the RLG450 Paper the ideas of another person, the expression of the
+ideas of another person, or the work of another person as his own; and
+
+(d)
+
+committed plagiarism, contrary to section B.i.1(d) of the Code.
+
+Decision on the Merits of the Charges
+40.
+
+Having reviewed the evidence and the very clear admissions of guilt made by the Student,
+
+we conclude that the Student is guilty of knowingly representing as his own an idea or expression
+of an idea or work of another contrary to section B.i.1(d) of the Code in respect of the RLG312
+Essay, the RLG314 Paper, the November 18 Response, the November 25 Response and the
+RLG450 Paper.
+41.
+
+As a result, the Tribunal finds the Student guilty of the following five charges:
+(a)
+
+that on or about October 26, 2016, the Student knowingly represented as his own
+an idea or expression of an idea or work of another in an essay that he submitted in
+RLG312, contrary to section B.i.1(d) of the Code.
+
+(b)
+
+that on or about December 2, 2016, the Student knowingly represented as his own
+an idea or expression of an idea or work of another in a response (for November
+18, 2016) that he submitted in RLG314, contrary to section B.I.1(d) of the Code;
+
+- 14 (c)
+
+that on or about December 2, 2016, the Student knowingly represented as his own
+an idea or expression of an idea or work of another in a response (for November
+25, 2016) that he submitted in RLG314, contrary to section B.i.1(d) of the Code;
+
+(d)
+
+that on or about December 9, 2016, the Student knowingly represented as his own
+an idea or expression of an idea or work of another in a paper that he submitted in
+RLG314, contrary to section B.i.1(d) of the Code; and
+
+(e)
+
+that on or about March 31, 2017, the Student knowingly represented as his own an
+idea or expression of an idea or work of another in a paper that he submitted in
+RLG450, contrary to section B.i.1(d) of the Code.
+
+42.
+
+In accordance with the Agreed Statement of Facts, the Provost has withdrawn all of the
+
+remaining charges.
+PENALTY
+Facts
+43.
+
+Although we adjourned the original hearing to permit the Student to lead evidence relating
+
+to the issue of penalty, the Student did not to attend the penalty phase hearing either in person or
+by Skype. As a result, the only evidence we had before us in respect of penalty was the Agreed
+Statement of Facts.
+Submissions
+44.
+
+Counsel for the University submitted that the Tribunal should make an order:
+(a)
+
+recording a grade of zero in each of RLG312 (Fall 2016), RLG314 (Fall 2016) and
+RLG450 (Winter 2017);
+
+(b)
+
+suspending the Student starting the date of our order and continuing until December
+31, 2022;
+
+(c)
+
+permanently recording the sanction on the Student’s academic record; and
+
+- 15 (d)
+45.
+
+allowing the decision to be published, with the Student’s name withheld.
+
+Counsel for the University submitted that the Student had committed a number of offences
+
+involving serious plagiarism and that therefore a suspension of almost four years and a permanent
+notation on the Student’s academic record was appropriate in the circumstances.
+46.
+
+Counsel for the University noted that the fact that the student had acknowledged his guilt
+
+at the meeting with the Dean’s designate, demonstrated some degree of remorse, and that he had
+agreed to the Agreed Statement of Facts, were all factors in his favour. Also in his favour was the
+fact that this series of offences were the first time the Student had been found guilty of academic
+misconduct. In this regard, counsel advised us that the University was treating the five offences
+as one concurrent first offence by the Student.
+47.
+
+Counsel noted that the number of incidents and failure to attend the hearing, and his
+
+suggestion to the Dean’s designate that the plagiarism was unintentional, counted against the
+Student. The Student’s plagiarism was extensive. It was not just a matter of some missing
+citations, but rather whole paragraphs. The degree of plagiarism in the RLG314 Paper was
+particularly bad. That paper was entirely plagiarized. The one article from which the Student
+appeared to have taken the entire paper was not even cited. The RLG 450 Paper was taken entirely
+from two uncited on-line sources. The Student raised the missing citation for one of those sources
+only after Professor Ruffle raised it with him.
+48.
+
+There were no extenuating circumstances. There was some suggestion that the Student
+
+had been ill, but no evidence was before the Tribunal to support that suggestion.
+49.
+
+Counsel for the University submitted that while the Student had no past history of academic
+
+offences, he had committed five offences between the end of October 2016 and March of 2017,
+most of them in the six weeks between the end of October and the middle of December 2016. The
+chronology of events was nevertheless troubling because some of the offences were committed
+after the Student had met with his instructor to discuss allegations of plagiarism, demonstrating
+that the meetings had not deterred him.
+50.
+
+The University submitted that the requested penalty was in line with the decisions of the
+
+Tribunal in other similar cases.
+
+- 16 Decision on Penalty
+51.
+
+As this Tribunal has stated repeatedly, plagiarism is a serious breach of the University’s
+
+standards of ethical behaviour which undermines both the relationship of trust between the
+University and its students, and the relationship between students themselves by undermining their
+trust in one another, and the integrity of the degrees for which they are studying.
+52.
+
+The easy access to multiple sources afforded by the internet has only exacerbated the
+
+problem by providing students with a wide array of source materials from which to choose, along
+with the possibility that precisely because there are so many sources one might be able to use one
+without discovery.
+53.
+
+The task for the Tribunal hearing a plagiarism case is to determine the appropriate penalty
+
+for the individual offender, while taking into consideration the seriousness of the offence and the
+need to deter others from it in the future.
+54.
+
+This Tribunal has set out the factors to be considered in imposing sanctions on students in
+
+plagiarism cases. One such case is The University of Toronto v N.A (Case No.: 661, February 29,
+2012) where the Tribunal described the factors this way:
+31 The Factors to be considered when determining penalty are well established:
+(i)
+
+the character of the person charged;
+
+(ii)
+
+the likelihood of a repetition of the offence;
+
+(iii)
+
+the nature of the offence committed;
+
+(iv)
+
+any extenuating circumstances surrounding commission of the
+offence;
+
+(v)
+
+the detriment to the University occasioned by the offence;
+
+(vi)
+
+the need to deter others from committing a similar offence.
+
+32 The Tribunal, in determining the appropriate penalty, should consider various
+factors in order to find a fit sentence for this offender, for this offence in this
+community. In doing so, fairness, balance and proportion must be balanced.
+33 There should be some measure of uniformity or proportionality so that there
+should be similar sentences imposed for offences committed in similar
+
+- 17 circumstances. The sentencing should preserve and ensure fairness by avoiding
+disproportionate sentences among similar sentencing processes so that there are
+not wide swings or inconsistencies between like offences and like offenders,
+recognizing that there is never a like offence or like offender.
+34 There should be a range of sentences for offences such as plagiarism with
+sentences within that range moving up or down within that range depending on
+aggravating or mitigating circumstances.
+55.
+
+Reviewing each of these factors in turn, and starting with the Student’s character, the
+
+Tribunal agrees with the University that the Student’s admission of guilt and cooperation in
+preparing and submitting the Agreed Statement of Facts are both positive factors, as is his
+cooperation in meeting with the Dean’s representative. Both the admission of the guilt and the
+agreement to the Agreed Statement of Facts demonstrate the Student’s acknowledgment that his
+acts were wrong and go some way towards facilitating the resolution of the charges. Another
+factor in the Student’s favour is the fact that this series of plagiarized papers amounted to a first
+offence under the Code. Against this, however, must be weighed the fact that the Student failed
+to attend in person at either session of the Hearing.
+56.
+
+Addressing the second factor, based on his past conduct, there is good reason to expect that
+
+the Student will reoffend unless he is given a significant penalty. Despite meeting with Professor
+Scott on November 9, 2016 to discuss the plagiarism in the RLG312 Essay, the Student submitted
+the November 18 and November 25 Responses on December 2, 2016, and the RLG314 Paper on
+December 9, 2016, all of which were heavily plagiarized. He met with Dr. H. Ganapathy-Coleman
+to discuss the plagiarized papers on December 16, 2016, and yet submitted another plagiarized
+paper, the RLG450 Paper in March 2017. Clearly, despite having been caught and spoken to by
+his professors, the Student was not prepared to cease his academic misconduct when warned about
+it and given the opportunity to continue his studies.
+57.
+
+In terms of the nature of the offence, as set out above, plagiarism is a serious academic
+
+offence. The plagiarism in this particular case was significant. As counsel for the University
+pointed out, this was not a case of missing citations, this was a case of whole paragraphs, even
+more or less whole articles, written by others being presented as the Student’s own work. Possibly
+worse, instead of stopping after he was caught the first or even the second time, the Student
+persisted in portraying the work of others as his own.
+
+- 18 58.
+
+The Tribunal finds no extenuating circumstances based on the evidence before it. We
+
+might have considered illness as an extenuating circumstance, but no evidence substantiating an
+illness was provided to us.
+59.
+
+Dealing with the last two factors, the Student’s actions reflect very poorly on the
+
+University. There is no issue that other students need to be deterred from such behaviour, a goal
+that only a serious penalty will achieve.
+60.
+
+The cases provided to us by counsel for the University indicate that a finding of guilt in a
+
+plagiarism case involving a paper in a course at the University warrant a penalty of a grade of zero
+in the course for which the student has submitted the plagiarized paper, a suspension of between
+three and five years, and a notation on the student’s academic record for a range of time between
+the same time as the suspension or up to two years more than that period, or graduation. The most
+serious sanctions have been imposed on students charged with multiple instances of plagiarism
+who have already previously been found guilty of submitting plagiarized work, and who did not
+agree to an agreed statement of facts and a joint submission on penalty.
+61.
+
+At the low end of the scale is University of Toronto v. H.M.E (Case No.: 941, February
+
+16, 2018). In that case, the student had submitted two papers, both of which were virtual copies
+of other papers, one a paper submitted by another student in the same course, the other a paper
+available on-line from a paper sharing site. The student had also lied about turning in a third paper
+in another course. The student had no prior record of academic misconduct and had cooperated
+with the investigation. The hearing had proceeded on the basis of an agreed statement of facts and
+a joint submission on penalty. The Tribunal noted the serious and deliberate nature of the offences
+and the detriment to the University, as well as the student’s admission of guilt and cooperation in
+the investigation, and lack of any prior record. Ultimately, the Tribunal accepted the joint
+submission on penalty and imposed a sanction consisting of a grade of zero in the three courses, a
+four-year suspension and a six year notation on the student’s academic record.
+62.
+
+At the high end of the scale is The University of Toronto v. N.A. (Case No.: 661, February
+
+29, 2012). In that case, the student was found to have submitted an essay for a second-year English
+course which contained words and phrases lifted directly from various websites. This was the
+fourth incident in which the student had plagiarised the work of others. She had received penalties
+
+- 19 of increasing severity for the previous offences, culminating in a twelve-month suspension. The
+offence before the Tribunal had taken place in the year following the period of the student’s
+suspension. Bearing in mind the number of prior offences, the student’s apparent lack of remorse,
+and failure to cooperate with the disciplinary process, the Tribunal imposed a final grade of zero
+in the course for which the plagiarized work had been submitted, a five year suspension and a
+notation on the student’s academic record of just under seven years.
+63.
+
+Taking into consideration all of the circumstances, we agree with the University that a
+
+grade of zero in all three of the courses in which the Student submitted plagiarized work and a
+suspension of just under four years is appropriate.
+64.
+
+We do not, however, believe that a permanent notation of the sanction on the Student’s
+
+academic record and transcript is appropriate. None of the cases cited to us, including ones where
+the conduct was much more egregious, have imposed such a sanction. Should the student return
+to the University and complete his studies, we believe that he should be able to move forward after
+graduation without a notation of our sanction on his academic record. We therefore order that the
+notation be from the date of our order up to the date of the Student’s graduation.
+65.
+
+The Tribunal therefore imposes the following penalty on the Student:
+(a)
+
+a final grade of zero in the course RLG312 in Fall 2016;
+
+(b)
+
+a final grade of zero in the course RLG314 in Fall 2016;
+
+(c)
+
+a final grade of zero in the course RLG450 in Winter 2017;
+
+(d)
+
+a suspension from the University from January 28, 2019, the date of the Tribunal’s
+original order, until December 31, 2022; and
+
+(e)
+
+a notation of the sanction on the Student’s academic record and transcript from the
+day the Tribunal makes its order until the Student’s graduation.
+
+66.
+
+The Tribunal further orders that this case be reported to the Provost of the University for
+
+publication of a notice of the Tribunal’s decision and the sanction imposed with the name of the
+Student withheld.
+
+

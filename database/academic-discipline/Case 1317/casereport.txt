@@ -1,0 +1,407 @@
+Case No. 1317
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF the revised charges of academic dishonesty made on May 12, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and X
+
+Z
+
+REASONS FOR DECISION
+Hearing Dates: May 27, 2022, via Zoom
+Members of the Panel:
+Ms. Dena Varah, Chair
+Professor Marc Laflamme, Faculty Panel Member
+Ms. Madison Kerr, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Not In Attendance:
+Mr. X
+Z
+
+2
+
+1.
+
+The Trial Division of the University of Toronto Tribunal was convened on May 27, 2022
+
+(the “Hearing Date”) to consider the charges brought by the University of Toronto (the
+“University”) against X
+
+Z
+
+(the “Student”).
+
+PART 1 - THE CHARGES
+2.
+
+The Student is charged with two offences under the University of Toronto Code of
+
+Behaviour on Academic Matters, 1995 (the “Code”):
+a)
+
+You knowingly forged or in any other way altered or falsified an academic record, and/or
+uttered, circulated or made use of such forged, altered or falsified record, namely, a
+document that purported to be a Transcript of Consolidated Academic Record from the
+University of Toronto bearing document number 0959322, contrary to section B.I.3(a) of
+the Code; and
+
+b)
+
+You knowingly falsified an academic record, and and/or uttered, circulated or made use of
+such a falsified record by falsely claiming to have graduated from the University of
+Toronto, contrary to section B.I.3(a) of the Code.
+
+3.
+
+Assistant Discipline Counsel advised that Charges 1 and 2 are in the alternative. That is,
+
+if the Student is found guilty of either Charge 1 or Charge 2 the other will be withdrawn.
+
+PART 2 - PROCEEDING IN THE ABSENCE OF THE STUDENT
+4.
+
+Assistant Discipline Counsel attended the Hearing Date and the Student did not.
+
+5.
+
+Assistant Discipline Counsel relied on the Affidavit of Ms. Samanthe Huang affirmed May
+
+19, 2022. Ms. Huang affirmed that she served the Student with a letter regarding the charges on
+January 11, 2022 to the email address that the Student had provided in Repository of Student
+
+3
+
+Information (“ROSI”).
+6.
+
+Ms. Huang also noted that she received an email that copied the Student from Assistant
+
+Discipline Counsel requesting to schedule an electronic hearing on May 27, 2022. Ms. Huang
+subsequently served the Student with that same Notice along with the copy of the letter regarding
+the charges.
+7.
+
+Ms. Huang did not receive any bounce back messages to any of her emails.
+
+8.
+
+Assistant Discipline Counsel also relied on the Affidavit of Ms. Sharon Hawley, an
+
+assistant at Paliare Roland Rosenberg Rothstein LLP. Ms. Hawley also sent various letters and
+other communications to the Student at the email address provided for in ROSI. Ms. Hawley also
+sent a letter on February 1, 2022 to the permanent address contained in the contact information in
+ROSI. ROSI contained a mailing address listed as being no longer current, meaning that the
+Student had either allowed the currency to lapse or had actively removed the address.
+9.
+
+Finally, Assistant Discipline Counsel tendered the Affidavit of Mr. Andrew Wagg affirmed
+
+May 12, 2022. Mr. Wagg is the Incident Report Architect, Information Technology Services of
+the University of Toronto. Mr. Wagg indicated that the last time someone accessed the email
+account listed in the Student’s account in ROSI was March 23, 2020.
+10.
+
+The Student did not answer any correspondence of the University.
+
+11.
+
+Although it does not appear that the Student accessed his email address, the Panel
+
+concluded that pursuant to the Statutory Power and Procedures Act and the University Tribunal’s
+Rules of Practice and Procedure, the Student received reasonable notice of the hearing date.
+
+4
+
+12.
+
+The University Tribunal’s Rules of Practice and Procedure provide that service is effected
+
+by sending a copy of the document to the Student’s mailing address contained in ROSI or by
+emailing a copy to the email address contained in ROSI.
+13.
+
+The Panel was therefore satisfied to proceed with this hearing in the absence of the Student.
+
+PART 3 - THE FACTS UNDERLYING THE CHARGE
+14.
+
+The Student first enrolled at the University of Toronto, Scarborough in the fall of 2015.
+
+He has earned four credits towards his degree.
+15.
+
+The last time the Student was enrolled in a class at the University of Toronto was in the
+
+2016 fall session. During this time, the Student earned four credits with an accumulative GPA .98.
+16.
+
+Assistant Discipline Counsel tendered the Affidavit evidence of Ms. Brenda Anderson
+
+affirmed May 18, 2022. Ms. Anderson is the Assistant Registrar, Client and Enrollment Services
+at the University of Toronto. As Ms. Anderson explained, the Registrar’s Office/Enrollment
+Services oversees student financial aid and awards, student accounts, client services, transcripts
+and student systems. The Transcript Centre is part of these services.
+17.
+
+On February 26, 2020 the Transcript Centre received an email from Pansy Xu, Admissions
+
+Officer at the University of New South Wales (“UNSW”), Sydney. Ms. Xu asked the Transcript
+Centre to verify 22 applications that UNSW had received from University of Toronto students.
+18.
+
+One of the transcripts that Ms. Xu asked the Transcript Centre to verify was a transcript of
+
+2019 with the following identifiable information:
+a) X
+
+Z
+
+;
+
+5
+
+b) Birth Day/Month:
+
+;
+
+c) Address:
+
+;
+
+d) Campus: University of Toronto, Scarborough;
+e) Student Number:
+f) Ontario Education Number (“OEN”).:
+
+(Defined herein as the “UNSW Application Transcript”)
+19.
+
+The UNSW Application Transcript also stated that the University of Toronto had conferred
+
+an Honours Bachelor of Arts on the Student in June 2019.
+20.
+
+On review, the Transcript Centre noted that the student number did not exist and that one
+
+of the course codes was inaccurately listed. It was also clear that the UNSW Application
+Transcript was not a true copy of the Student’s academic record and the University of Toronto had
+never conferred a degree on him.
+21.
+
+After receiving this information, Ms. Anderson searched ROSI for a student with personal
+
+information that matched the personal information in the UNSW Application Transcript.
+22.
+
+According to Ms. Anderson, the personal information in the UNSW Application Transcript
+
+matched only one student, being the Student. The name, date of birth, and campus in the UNSW
+Application Transcript all match the personal information in the Student’s ROSI records. The
+address in the UNSW Application Transcript matches the lapsed mailing address from the
+Student’s ROSI.
+23.
+
+The student number and OEN number are incorrect, but there is no student who matches
+
+both of those numbers. There is a student with the same OEN number, but there are no significant
+
+6
+
+similarities between that student’s academic record and the UNSW Application Transcript.
+24.
+
+The UNSW Application Transcript does not match the true transcript of the Student or
+
+accurately reflect his academic record. In particular:
+a)
+
+The true transcript reflects that the Student never received a degree from the
+University of Toronto, but the UNSW Application Transcript states that the
+University of Toronto conferred a degree on him in June 2019;
+
+b)
+
+The true transcript reflects the Student’s attendance at the University of Toronto
+from Fall 2015 to Fall 2016 but the UNSW Application Transcript has the Student
+attending the University of Toronto from Fall 2015 to Winter 2019;
+
+c)
+
+The true transcript states that the Student earned 4.00 credits with a cumulative
+GPA of .98. The UNSW Application Transcript states that he earned 21 credits and
+had a cumulative GPA of 2.77; and
+
+d)
+
+The courses in the two transcripts are different with the exception of the four
+courses the Student actually took. Even in those courses, the grades and marks are
+higher in the UNSW Application Transcript than in the true transcript.
+
+PART 4 - FINDINGS ON LIABILITY
+25.
+
+The panel accepts that the Student submitted or made use of the UNSW Application
+
+Transcript to gain admission to UNSW Sydney.
+26.
+
+The panel also accepts that the UNSW Application Transcript is a forged document. It
+
+purports to be an official document from the University of Toronto that accurately reflected the
+Student’s academic record but, in fact, bore no relationship to reality. The Student earned a paltry
+4.0 credits at the University of Toronto and never graduated. He submitted a transcript where he
+
+7
+
+allegedly earned 21.0 credits and obtained a degree from the University of Toronto. The only true
+portions of the transcript were the Student’s name and other identifying information (but for the
+Student and OEN numbers, which were also misrepresented).
+27.
+
+The Panel was satisfied that Charge 1 was amply supported by the underlying facts. As a
+
+result, Charge 2 was withdrawn.
+
+PART 5 - SUBMISSIONS ON PENALTY
+28.
+
+Assistant Discipline Counsel submitted that the appropriate sanction for a forged degree
+
+is:
+(a)
+
+Immediate suspension from the University for a period of up to five years;
+
+(b)
+
+that the Tribunal recommend to the President of the University that the President
+recommend to Governing Council that the Student be expelled from the University; and
+
+(c)
+
+the Tribunal report this case to the Provost who may publish a notice of the decision of this
+Tribunal with the Student’s name withheld.
+
+29.
+
+Assistant Discipline Counsel provided the Tribunal with a chart of 23 cases involving
+
+charges of falsified transcripts or other academic records. In all but two of the cases, the Tribunal
+recommended expulsion. In one of the cases, a degree had already been conferred and was
+cancelled as were 1.50 transfer credits (the University of Toronto and C.L. (Case No. 822, March
+22, 2016)). In the other, the University of Toronto and J. L. (Case No.959, September 19, 2018),
+there was a Joint Submission on Penalty providing for a five-year suspension and an undertaking
+by the Student not to re-apply to the University for readmission. The Tribunal in that case
+determined that it was reasonable to accept the Joint Submission of Penalty. It did note that
+
+8
+
+expulsion is a common penalty in cases of falsified academic records.
+
+PART 6 - THE DECISION ON PENALTY
+30.
+
+The University of Toronto v. Mr. C. Case No. 1976/77-3, November 5, 1976 decision sets
+
+out the factors to consider in penalty decisions:
+
+31.
+
+a)
+
+The character of the person charged;
+
+b)
+
+The likelihood of repetition of the offense;
+
+c)
+
+The nature of the offense committed;
+
+d)
+
+Any extenuating circumstances surrounding the commission of the offense;
+
+e)
+
+The detriment to the University occasioned by the offense; and
+
+f)
+
+The need to deter others from committing a similar offense.
+
+In this case, there is no evidence of the character of the person charged, the likelihood of
+
+repetition of the offence or extenuating circumstances. The Student did not participate in the
+process or provide any explanation with regard the use of the forged transcript. As a result, the
+Tribunal must focus on the nature of the offence, the detriment to the University and the need to
+deter others from committing a similar offence.
+32.
+
+On review of the Tribunal decisions presented by Assistant Discipline Counsel, it is clear
+
+that forgery of a transcript is amongst the most serious offences a student can commit. Forged
+transcripts and other academic records negatively impact the entire University community. They
+undermine the credibility and standing of the institution and of their peers who are attempting to
+
+9
+
+legitimately use their transcripts and degrees.
+33.
+
+The Student was attempting to use a forged transcript in order to obtain admission to the
+
+UNSW Sydney in Australia. These actions were a deliberate attempt by the Student to obtain the
+benefit of an academic record and degree that he did not earn. Admissions at UNSW Sydney did
+a spot check of a number of transcripts from the University. Had the Student’s transcript not been
+included in this batch, it is likely that the forgery would have slipped through undetected. This
+demonstrates the crucial need for general deterrence as these offences are committed with ease and
+often without detection.
+34.
+
+This Tribunal is therefore satisfied that the appropriate penalty is as requested by Assistant
+
+Discipline Counsel.
+
+PART 7 - THE PANEL ORDERED AS FOLLOWS:
+a)
+
+the Tribunal proceed in the absence of the Student;
+
+b)
+
+the Student is immediately suspended from the University for a period of up to five
+years from the date of the order or until Governing Council makes its decision on
+expulsion, whichever comes first, and that a corresponding notation be placed on
+his academic record and transcript;
+
+c)
+
+the Tribunal recommend to the President of the University that the President
+recommend to Governing Council that the Student be expelled from the University;
+and
+
+d)
+
+the Tribunal report this case to the Provost who may publish a notice of the decision
+of this Tribunal with the Student’s name withheld.
+
+10
+
+Dated at Toronto this 24th day of August, 2022
+
+Original signed by:
+________________________________________
+Dena Varah, Chair
+On behalf of the Panel
+
+

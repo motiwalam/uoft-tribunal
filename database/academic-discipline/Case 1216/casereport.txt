@@ -1,0 +1,484 @@
+Case No.: 1216
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on June 7, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c.
+88
+B E T W E E N:
+UNIVERSITY OF TORONTO (the “University”)
+- and –
+J
+
+P
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: August 17, 2021, via Zoom
+Members of the Panel:
+Mr. Simon Clements, Chair
+Professor Gabriele D’Eleuterio, Faculty Panel Member
+Ms. Parsa Mahmud, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Nick Di-Biase, Representative for the Student, Downtown Legal Services
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeals, Discipline & Faculty Grievances
+In Attendance:
+The Student
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on August 17, 2021 to consider the charges
+
+brought by the University against the Student under the Code of Behaviour on Academic Matters, 1995 (the
+“Code”).
+A.
+
+The Charge and Particulars
+
+2.
+
+By letter dated June 8, 2021 the Student was informed of the charges against him and the particulars
+
+of those charges.
+Charges
+1.
+
+On or about January 12, 2021, you knowingly forged or in any other way altered or falsified a
+document or evidence required by the University of Toronto, or uttered, circulated or made use
+of such forged, altered or falsified document, namely a request for academic accommodation
+or relief in PHY456H1F which you submitted in an email to Professor John Sipe, contrary to
+Section B.I.1(a) of the Code.
+
+2.
+
+In the alternative to charge 1, on or about January 12, 2021, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in order to obtain academic credit or other academic advantage of any kind, by
+submitting a request for academic accommodation or relief in PHY456H1F in an email to
+Professor John Sipe which contained false information and misrepresentations, contrary to
+Section B.I.3(b) of the Code.
+
+3.
+
+On or about January 12, 2021, you knowingly forged or in any other way altered or falsified a
+document or evidence required by the University of Toronto, or uttered, circulated or made use
+of such forged, altered or falsified document, namely a request for academic accommodation
+or relief in PHY489H1F which you submitted in an email to Professor Michael Luke, contrary
+to Section B.I.1(a) of the Code.
+
+4.
+
+In the alternative to charge 3, on or about January 12, 2021, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in order to obtain academic credit or other academic advantage of any kind, by
+submitting a request for academic accommodation or relief in PHY489H1F in an email to
+Professor Michael Luke which contained false information and misrepresentations, contrary to
+Section B.I.3(b) of the Code.
+
+3
+
+Particulars
+1.
+
+At all material times you were a student registered in the University of Toronto Faculty of Arts
+& Science.
+
+(i) PHY456
+2.
+
+In Fall 2020, you enrolled in PHY456H1F: Quantum Mechanics II (the “456 Course”), which
+was taught by Professor John Sipe.
+
+3.
+
+You completed the academic requirements for the 456 Course and received a failing grade of
+26/100.
+
+4.
+
+You sent an email to Professor Sipe on January 12, 2021 in which you provided details of your
+personal circumstances which you asked Professor Sipe to reconsider if there was any way that
+you could pass the 456 Course [“Sipe Email”].
+
+5.
+
+You explained to Professor Sipe in the [Sipe Email] that your mother had contracted the Covid
+virus and had not survived, that your father was hospitalized with the Covid virus; and that you
+were responsible to arrange your mother’s funeral.
+
+(ii) PHY489
+6.
+
+In Fall 2020 you enrolled in PHY489H1F: Introduction to High Energy Physics (the “489
+Course”), which was taught by Professor Michael Luke.
+
+7.
+
+You completed the academic requirements for the 489 Course and received a failing grade of
+32/100.
+
+8.
+
+You sent an email to Professor Luke on January 12, 2021 in which you provided details of your
+personal circumstances which you asked Professor Luke to reconsider if there was any way that
+you could pass the 489 Course [“Luke Email”].
+
+9.
+
+You explained to Professor Luke in the [Luke Email] that your mother had contracted the Covid
+virus and had not survived, that your father was hospitalized with the Covid virus; and that you
+were responsible to arrange your mother’s funeral.
+
+4
+
+(iii) False information
+10.
+
+The information that you provided to Professor Sipe in the [Sipe Email] and to Professor Luke
+in the [Luke Email] was false and misrepresented your personal situation. Your mother did not
+die while you were enrolled in the 456 Course and the 489 Course, your father was not
+hospitalized with Covid, and you were not required to arrange your mother’s funeral. You made
+that information up in an effort to obtain a passing grade in each of the 456 Course and the 489
+Course.
+
+11.
+
+You knowingly submitted the falsified [Sipe Email] and the falsified [Luke Email] which each
+fundamentally misrepresented your family circumstances:
+(a)
+
+understanding that the University of Toronto required legitimate and
+compelling personal circumstances to be presented in order to obtain the
+academic accommodation or relief you sought;
+
+(b)
+
+with the intention that the University of Toronto rely on each of the [Sipe
+Email] and the [Luke Email] in considering whether or not to provide you
+with the academic accommodation or relief you requested; and
+
+(c)
+
+in an attempt to obtain academic credit and/or other academic advantage.
+
+B.
+
+The Evidence
+
+3.
+
+The Student signed an Agreed Statement of Facts (“ASF”) on July30, 2021. In this ASF the Student
+
+admitted attending a meeting with the Dean’s Designate, Graham Hurst, on May 11, 2021. Professor Hurst
+administered the Dean’s warning pursuant to the requirement of the Code. The Student admitted that he
+had fabricated the story of his mother’s death from Covid-19 in an effort to obtain passing marks in each
+of the 456 Course and the 489 Course. He explained that he was experiencing stress at the time because his
+father had lost his job, his mother had hepatitis, and the time zone difference between South Korea and
+Toronto made it difficult to maintain healthy sleep patterns while attending class. The Student
+acknowledged what he had done, and apologized.
+4.
+
+In the ASF, the Student admits that he knowingly: (a) fabricated and falsified the information about
+
+his parents contracting Covid-19, his mother’s hospitalization and death, and the consequences of those
+events for him personally, which information was entirely false; (b) submitted each of the Sipe Email and
+
+5
+
+the Luke Email containing the falsified information as a document or evidence required by the University
+to support his request for academic accommodation in the 456 course and the 489 Course; (c) did so to
+deceive each of Professor Sipe and Professor Luke into thinking that he had suffered serious personal loss
+and stress from the impact of Covid-19 on his family so that they would be sympathetic to his requests to
+increase his grades to permit him to pass their respective courses.
+5.
+
+The Student admits that he falsified a document and evidence required by the University in the
+
+form of each of the Sipe Email and the Luke Email, and uttered, circulated and made use of each of these
+falsified documents when he sent them to his course instructors in PHY456 and PHY489, contrary to section
+B.I.1.(a) of the Code.
+6.
+
+The Student admits that he knowingly engaged in a form of cheating, academic dishonesty or
+
+misconduct, fraud or misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with the Sipe Email and the Luke Email,
+contrary to section B.I.3(b) of the Code.
+7.
+
+The Student acknowledged that he signed the ASF freely and voluntarily, knowing of the potential
+
+consequences he faced, and did so with the advice of counsel.
+
+C.
+
+Decision of the Tribunal
+
+8.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+
+convincing evidence, that the academic offence charged has been committed by the Student.
+9.
+
+The Student was charged with offences under both Section B.I.1 (a) and Section B.I.3(b) of the
+
+Code. Charges under Section B.I.1 (a) of Code relate to the use of a falsified document. Charges under
+Section B.I.3(b) of the Code relate to conduct amounting to academic dishonesty or misrepresentation.
+The Student has admitted that the two e-mails he sent to the Professors seeking accommodation were
+falsified documents, and also that the sending of those false e-mails amounted to academic dishonesty
+or misrepresentation.
+10.
+
+At the Hearing, Assistant Discipline Counsel advised that the Student pled guilty to charges 1
+
+and 3 under Section B.I.1 (a) of the Code. The Tribunal asked whether the Student was also prepared
+
+6
+
+to plead guilty to charges 2 and 4 under Section B.I.3(b) of the Code given the admissions made in the
+ASF. Counsel for the Student advised the Tribunal that the Student also pleads guilty to charges 2 and
+4 under Section B.I.3(b) of the Code. The Tribunal was advised by Assistant Discipline Counsel that
+the University preferred to proceed with the charges under Section B.I.1 (a) of the Code that the emails in question amounted to falsified documents. In support of this submission the Tribunal was
+provided with cases, including The University of Toronto and M.H. (Case No. 600, November 3, 2010)
+which concerned e-mails containing false statements and The University of Toronto and Y.F.L (Case
+No. 639, February 14, 2012) in which the student sent a Personal Statement in support of petitions to
+defer examinations and to withdraw from a course without penalty. In both cases the student pleaded
+guilty to the charges under Section B.I.1 (a) of the Code.
+11.
+
+The Tribunal questioned whether it was necessary to construe an e-mail as a falsified document
+
+under Section B.I.1 (a) of the Code when the e-mails clearly contained misrepresentations and sending
+the e-mails in a fraudulent attempt to obtain an accommodation amounted to academic dishonesty,
+which fit neatly within the academic offence set out in Section B.I.3(b) of the Code. Counsel for the
+Student provided the Tribunal with the case of The University of Toronto and N.R. (Case No. 714,
+October 11, 2013), another case in which a student had sent e-mails containing false information. The
+Tribunal there had asked a similar question at paragraph 11 of the Reasons for Decision, noting that
+“the documents themselves are not forged, altered or falsified. The information contained in the
+documents is false, fraudulent and a misrepresentation, but the documents themselves are not falsified.”
+Therefore, the question is which section of the Code is the more appropriate?
+12.
+
+Without having to decide whether an e-mail which contains misrepresentations meets the
+
+definition of a falsified document under Section B.I.1 (a) of the Code, the Tribunal determined that the
+conduct in this case fell squarely within that contemplated by Section B.I.3(b) of the Code.
+13.
+
+The Tribunal accordingly found that the Student knowingly engaged in a form of cheating,
+
+academic dishonesty or misconduct, fraud or misrepresentation in order to obtain academic credit or
+other academic advantage, by submitting a request for academic accommodation or relief in
+PHY456H1F and PHY489H1F in emails which contained false information and misrepresentations,
+contrary to Section B.I.3(b) of the Code. As a result of this finding on Charges 2 and 4, the University
+agreed to withdraw Charges 1 and 3.
+
+7
+
+D.
+
+Penalty
+
+14.
+
+The matter continued with a hearing on the appropriate sanctions.
+
+15.
+
+The parties submitted an Agreed Statement of Facts on Penalty as well as a Joint Submission
+
+on Penalty (“JSP”). First, the Student admitted to a prior offence. In the Fall 2018 term, two years
+prior to the subject offences, the Student was enrolled in PHY256, taught by Professor Steinberg. The
+Student admitted at a meeting with Professor Steinberg that he had copied his answer on an assignment
+from an internet source without attribution. The department imposed a sanction of a mark of 0 on the
+assignment which was worth 3% of the course mark.
+16.
+
+Additionally, the parties agreed to mitigating circumstances, including that at the time the Student
+
+committed the academic offences in question, the Student was under the stress of an impending conscription
+into the South Korean military. The Student had postponed his conscription date numerous times in the
+past, meaning that the Student knew he could not postpone the conscription date much longer.
+
+17.
+
+Further, the Student’s mother was experiencing medical complications at or around the time of
+
+the offence. In particular, the Student’s mother was hospitalized on several occasions due to abdominal
+issues. As a result, the Student’s mother underwent a procedure where a potentially cancerous
+adenomatous polyp was removed.
+18.
+
+Lastly, at the time of the offence, the Student’s father lost his employment, causing the family
+
+financial hardship.
+19.
+
+With respect to Penalty, the Provost and the Student made a joint submission, which outlined the
+
+following:
+1.
+
+The Provost and the Student submit that the appropriate penalty in all the
+
+circumstances of the case is that the University Tribunal impose the following sanctions
+on the Student:
+(i)
+
+a final grade of zero in each of the courses PHY489H1F and PHY456H1F
+in Fall 2020;
+
+8
+
+(ii)
+
+a suspension from the University for 3 years from the day the Tribunal
+makes its order; and
+
+(iii)
+
+a notation of the sanction on his academic record and transcript for 4 years
+from the day the Tribunal makes its order.
+
+2.
+
+That this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the name of
+the student withheld.
+
+20.
+
+Both Counsel made submissions on the high threshold required for a Tribunal to deviate from a
+
+JSP. As set out in the Discipline Appeals Board decision in The University of Toronto and S.F. (Case No.
+690,October 20, 2014), only truly unreasonable or "unconscionable" joint submissions should be rejected
+(para 22).
+
+21.
+
+In support of the reasonableness of the JSP, the Tribunal was asked to consider the University of
+
+Toronto and Mr. C. factors (Case No. 1976/77-3, November 5, 1976) long recognized as the leading
+decision on sentencing principles. These factors are:
+
+(a) the character of the person charged;
+(b) the likelihood of repetition of the offence;
+(c) the nature of the offence committed;
+(d) any extenuating circumstances surrounding the commission of the offence;
+(e) the detriment to the University by the offence; and
+(f) the need to deter others from committing a similar offence.
+
+22.
+
+With respect to character, it was noted that the Student has taken full responsibility for his
+
+conduct and has expressed his deep remorse. The Student admitted guilt at the Dean’s Meeting and has
+
+9
+
+cooperated throughout the discipline process. As a contrary factor, the Student committed three
+offences and in so doing undermined the University’s accommodation process.
+23.
+
+Regarding repetition, the Student had a prior offence, and this hearing involved three separate
+
+attempts at accommodation. However, the Student was near to graduation at the time, reducing the
+likelihood of repetition.
+24.
+
+The nature of the offence is serious. By taking advantage of the University’s accommodation
+
+process the Student potentially caused harm to other students who had legitimate need to take
+advantage of an accommodation. In that regard factor (e) is also relevant, the University should be able
+to trust students to take advantage of the accommodation process in good faith. The Student’s conduct
+undermined that trust. Counsel for the Student acknowledged that the University has a legitimate
+interest in sending a message that conduct such as this will not be tolerated.
+25.
+
+In terms of mitigating factors, the Student acknowledged his guilt, cooperated in the discipline
+
+process, and expressed deep remorse for his conduct. Counsel for the Student also noted that in the
+Fall of 2020, due to the COVID-19 Pandemic, learning at the University was entirely online. The
+Student was unable to enter Canada and had to take his courses online from South Korea, which was
+13 hours ahead of Toronto, causing the Student to have to attend class in the middle of the night.
+Combined with the stress of his impending military conscription, his mother’s health and his father’s
+unemployment, the Student was “not himself” at the time of committing these offences.
+26.
+
+ln the Tribunal’s view, the JSP in this case is reasonable. The authorities submitted by the
+
+University and the Student show that there has been a broad range of sanctions in similar situations ranging
+from a three-year suspension and four-year notation, up to expulsion. In particular, the Tribunal took into
+consideration the seriousness of the offence; there was no truth to the stories the Student invented and there
+was no basis for the Student to request that his marks be raised to a passing grade. Offences of this nature
+compromise the integrity of the academic accommodation process. The Tribunal also considered that this
+was not the Student's first offence. As reflected in the ASF, the Student had previously been sanctioned for
+copying his answer on an assignment from an internet source without attribution.
+27.
+
+However, there were also mitigating factors to consider. The Student had cooperated in the
+
+discipline process and had accepted responsibility for his conduct. The Student was experiencing a number
+
+10
+
+of stressors and, in the midst of the Pandemic, the Student was attempting to continue his studies by
+attending classes online in the middle of the night from South Korea. In this case, a penalty on the lenient
+end of the range is not unreasonable. It would not be against the public interest to give effect to the JSP.
+
+E.
+
+Conclusion
+
+28.
+
+The Tribunal deliberated and concluded that having regard to all the circumstances of this
+
+offence,
+1.
+
+THAT [the Student] is guilty of two counts of the academic offence of cheating, academic
+
+dishonesty or misconduct, fraud or misrepresentation in order to obtain academic credit or other
+academic advantage, contrary to section B.I.3(b) of the Code,
+2.
+
+THAT the following sanctions shall be imposed on [the Student]:
+(a)
+
+a final grade of zero in each of the courses PHY489H1F and PHY456H1F in Fall
+2020;
+
+(b)
+
+a suspension from the University for 3 years from the day the Tribunal makes its
+order; and
+
+(c)
+
+a notation of the sanction on his academic record and transcript for 4 years from
+the day the Tribunal makes its order.
+
+3.
+
+THAT this case shall be reported to the Provost for publication of a notice of the decision
+
+of the Tribunal and the sanction or sanctions imposed, with the name of the student withheld.
+
+Dated at Toronto this 2nd day of November 2021
+
+11
+
+Original signed by:
+_________________________________________________
+Simon Clements, Chair
+On behalf of the Panel
+
+

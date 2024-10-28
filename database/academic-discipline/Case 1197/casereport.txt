@@ -1,0 +1,497 @@
+Case No.: 1197
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on April 22, 2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and W
+
+K
+
+REASONS FOR DECISION
+Hearing Date: March 28, 2022, via Zoom
+Members of the Panel:
+Ms. Alexandra Clark, Chair
+Professor Glen Jones, Faculty Panel Member
+Ms. Madison Kerr, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. W
+K
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+
+2
+
+1.
+
+The Trial Division of the University Tribunal was convened on March 28, 2022, to
+
+consider charges brought by the University of Toronto (the “University”) against Mr. W
+K
+
+(the “Student”) under the University of Toronto Code of Behaviour on Academic Matters,
+
+1995 (the “Code”).
+The Charges and Particulars
+2.
+
+The Charges and Particulars alleged against the Student are as follows:
+1.
+
+In or about Fall 2020, you knowingly forged or in any other way altered or falsified an
+
+academic record, and/or uttered, circulated or made use of such forged, altered or falsified record,
+namely, a document which purported to be a degree certificate from the University of Toronto
+dated June 3, 2015, contrary to section B.I.3(a) of the Code.
+2.
+
+In addition and in the alternative, in or about Fall 2020, you knowingly engaged in a form
+
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any kind,
+contrary to section B.I.3(b) of the Code, in connection with a document which purported to be a
+degree certificate from the University of Toronto dated June 3, 2015.
+
+Particulars of charges
+1.
+
+You have been a registered student in the University of Toronto Mississauga since Fall
+
+2008. You have not graduated from the University of Toronto.
+2.
+
+You circulated and made use of a document that purported to be your degree certificate
+
+from the University of Toronto dated June 3, 2015, in support of an application for employment.
+3.
+
+You forged this document and falsely represented your academic history and status and/or
+
+you knew that this document was forged, altered, and/or falsified when you circulated or made
+use of it.
+4.
+
+You had an obligation to provide accurate and truthful information and not to misrepresent
+
+your academic record.
+
+The Student’s Plea
+
+3
+
+3.
+
+The Student was present at the hearing, and he admitted to Charge 1. This admission was
+
+reflected in a written Agreed Statement of Facts (“ASF”).
+The Evidence
+4.
+
+The key portions of the ASF are set out below.
+a)
+
+The Student first registered at the University of Toronto, Mississauga in Fall 2008.
+After the 2011 Winter term he was suspended for one year due to his low marks.
+As of March 9, 2021, he has accumulated 20.5 credits and a cumulative GPA of
+2.25.
+
+b)
+
+Mintz Global Screening (“Mintz”) is a company that provides background
+verification and screening solutions for its customers.
+
+c)
+
+On Friday, December 11, 2020, Nasira Siddika at Mintz sent an email to the Office
+of Convocation seeking confirmation that the Student had been conferred a
+Bachelor of Arts degree by the University in 2015. She provided the Student’s date
+of birth.
+
+d)
+
+The Office of Convocation reviewed the University of Toronto’s records and found
+the Student was the only student with the name and date of birth provided by Mintz.
+
+e)
+
+On December 15, 2020, the Office of Convocation responded to Ms. Siddika at
+Mintz that no degree had been granted to the Student by the University. Ms. Siddika
+subsequently provided a copy of a degree certificate from the University of Toronto
+for an Honours Bachelor of Arts dated June 3, 2015 and bearing the Student’s name
+(“Degree Certificate”). She asked the Office of Convocation to “re-check to verify
+information regarding graduation”. The Office of Convocation reviewed the
+University of Toronto’s records again but did not find any evidence that a degree
+had been conferred on the Student.
+
+f)
+
+On December 16, 2020, Samantha Smith, Assistant Director of the Office of
+Convocation, sent an email to Ms. Siddika advising her that she had no record that
+
+4
+
+the University of Toronto had conferred a degree on the Student. She further stated
+that the electronic copy of the Degree Certificate forwarded by Ms. Siddika was
+not a valid University of Toronto degree certificate.
+g)
+
+On December 16, 2020, Ms. Smith forwarded the emails from Ms. Siddika and the
+Degree Certificate to Michelle Kraus, Associate Registrar, Academic Standards,
+Financial Aid and Advising at the University of Toronto, and to Vladimir Soloviev,
+Associate Registrar, Records, Registration and Graduation, for further
+investigation.
+
+h)
+
+Mr. Soloviev reviewed the University of Toronto’s records. He determined that the
+Student had not yet graduated and the Degree Certificate was not legitimate. Mr.
+Soloviev reported his findings to Ms. Kraus and Ms. Smith.
+
+i)
+
+Ms. Kraus forwarded the Degree Certificate and related emails and information to
+the Office of the Dean.
+
+j)
+
+On February 4, 2021, Professor Michael Lettieri, Vice Dean’s office, sent a letter
+to the Student to advise him that he had received a report alleging that he had
+committed an academic offence by providing a falsified degree certificate to Mintz.
+Professor Lettieri asked the Student to attend a Dean’s meeting to discuss the
+allegations
+
+k)
+
+The Student attended a meeting with the Dean’s Designate, Professor Charles
+Elkabas, on February 17, 2021, via Zoom. Michelle Kraus was also in attendance.
+The Student admits that this meeting took place in a manner consistent with the
+requirements of the Code.
+
+l)
+
+At that meeting, when shown the Degree Certificate, the Student confirmed that his
+name was on the Degree Certificate but that he had not yet graduated from the
+University. He said the following:
+i.
+
+The Degree Certificate was a forged document;
+
+5
+
+ii.
+
+He took a photo of the degree certificate conferred by the University
+on his brother, without his brother’s knowledge, and using
+Photoshop, he replaced his brother’s name with his own name;
+
+iii.
+
+He was in a difficult financial situation. His father had lost his job
+and his mother and brother’s hours of work had been reduced, so he
+was looking for work. He applied for a full-time position at KPMG.
+The information he provided in his job application was “exaggerated
+a lot”. He was selected for the position. When Mintz asked for a
+copy of his degree he panicked and forged the Degree Certificate.
+
+iv.
+
+The Student apologized and expressed remorse for what he had
+done.
+
+Admissions
+m)
+
+The Student admits that he knowingly:
+i.
+
+misrepresented his academic status by altering and falsifying a copy of
+another person’s degree certificate to make it appear that it was his
+degree certificate and that he was a graduate of the University when he
+was not, in the form of the Degree Certificate; and
+
+ii.
+
+circulated that altered and falsified Degree Certificate as part of his
+application for employment.
+
+Decision of the Tribunal on the Charges
+5.
+
+The Provost tendered the ASFand a Joint Book of Documents, both of which were filed
+
+with the Student’s consent and which were marked together as an exhibit in the hearing. The
+contents of the Joint Book of Documents confirmed the contents of the ASF as summarized above.
+6.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+
+convincing evidence, that the academic offences charged have been committed by the Student.
+
+6
+
+7.
+
+In this case, the Student admitted to Charge 1, and the Tribunal confirmed with the Student
+
+that his admission was voluntary, informed and unequivocal. Further, the evidence contained in
+the ASF and accompanying documents clearly proved that the Student had knowingly forged a
+degree certificate and had made use of this forged document as part of a job application.
+8.
+
+In light of the Tribunal’s finding regarding Charge 1, Charge 2 was withdrawn by the
+
+Provost.
+Submissions on Penalty
+9.
+
+There was a joint submission on penalty, in which both parties requested that the Tribunal
+
+make an order including the following sanctions:
+a)
+
+a suspension from the University for five years from the date the Tribunal
+makes its order; and
+
+b)
+
+a notation of the offence on the Student’s academic record and transcript
+from the date of the Tribunal’s order until the Student’s graduation from the
+University.
+
+10.
+
+The parties also submitted that it would be appropriate for the Tribunal to report this case
+
+to the Provost for publication of a notice of the decision of the Tribunal and of the sanctions
+imposed, with the name of the Student withheld.
+Decision of the Tribunal on Penalty
+11.
+
+The Tribunal is aware of the value in respecting and deferring to joint submissions. While
+
+the Tribunal retains the discretion to reject joint submissions in appropriate cases, the fact that
+adversarial parties have agreed on the appropriate sanction is a strong indication that the
+appropriate balancing of interests has occurred.
+12.
+
+In this case, the Student tendered a book of documents relating to his personal
+
+circumstances at the time of the offence. We reviewed these documents and marked the book of
+
+7
+
+documents as further exhibit in the hearing. The Student also addressed the Tribunal, providing
+an explanation of those circumstances and expressing remorse for his actions.
+13.
+
+In summary, the Student represented that:
+(a)
+
+Both he and his family experienced significant financial hardship brought on by
+the COVID-19 pandemic. More specifically, his father was the main breadwinner
+of the family and was laid off from his job due to public health requirements, while
+his mother and siblings had their hours of work reduced;
+
+(b)
+
+The Student himself had been working in a health clinic affiliated with Shoppers’
+Drug Mart and was also laid off due to public health requirements;
+
+(c)
+
+The family members were forced to spend a great deal of time together in the
+family home during the public health lockdowns, magnifying pre-existing familial
+conflicts, particularly between the Student and his father;
+
+(d)
+
+The Student stated that he was frantic to find a new position which would allow
+him to move out of the family home and avoid further familial conflict;
+
+(e)
+
+He admitted that he had photographed and photoshopped a degree certificate
+belonging to his brother in order to support his application for a position with
+KPMG;
+
+(f)
+
+He stated that he was immediately remorseful for his actions and recognized that
+they were wrong. He stated that he is very close to achieving the final credits
+required to finish his degree and hopes to do so in the future.
+
+(g)
+
+The documents included in his book of documents included a letter from his
+father’s employer evidencing the layoff described above. A co-worker and friend
+of the Student’s at the clinic confirmed the clinic’s closure due to public health
+measures and testified to the Student’s work ethic and skill at his position. A social
+worker provided evidence of the Student’s difficult financial and emotional
+position within the family home. There was also a medical note attesting to the
+
+8
+
+fact that the Student had been under strain at the time of the offence and that his
+judgment was consequently impaired. The Provost did not oppose the tendering
+of this evidence.
+14.
+
+The Tribunal considered the factors and principles relevant to sanction set out by this
+
+Tribunal in University of Toronto and Mr. C (Case No. 1976/77-3, November 5, 1976). The most
+significant factors for the Tribunal were as follows.
+(a)
+
+The character of the Student: the Student admitted his offence when first
+confronted with it, entered into an agreed statement of facts and a joint submission
+on penalty with the Provost, attended and participated in the Tribunal’s hearing,
+and accepted responsibility for his actions. This is his first academic offence, and
+he is very close to completing his program. The Student tendered evidence that he
+has been trustworthy and hard working in his previous employment, and the
+Tribunal notes that he has shown persistence in pursuing his studies at the
+University even while working to support himself.
+
+(b)
+
+The likelihood of a repetition of the offence: the Student accepted that his actions
+in providing a forged degree certificate were profoundly wrong and indicated that
+he understood the seriousness of the offence. The Tribunal notes that the Student
+admitted to the offence at the first opportunity in his meeting with the Dean’s
+Designate, but remains concerned that the offence may not have come to light if
+the prospective employer had not employed a verification service to check on the
+Student’s academic qualifications.
+
+(c)
+
+The nature of the offence committed: all instances of academic dishonesty are
+serious, and the forging of an academic qualification is particularly serious. As
+many prior decisions of this Tribunal have noted, presenting a falsified degree
+certificate in order to secure employment is one of the most serious academic
+offences that a student can commit. As expressed in the decision of University of
+Toronto and Y.Z. (Case No. 687, July 16, 2013) “third parties need to be able to
+rely on degrees issued by the University. Graduates need to know that their
+degrees confer meaningful benefits that can’t be co-opted illegitimately.
+
+9
+
+Fraudulent degrees coming from the University undermine the University’s
+credibility and reputation, and require the University to establish an elaborate
+system of checks and verifications”.
+(d)
+
+Any extenuating circumstances surrounding the commission of the offence: as
+summarized above, the Student led evidence of a number of circumstances that he
+says led to the commission of the offence, including both economic and emotional
+pressures imposed by the earliest days of the COVID-19 pandemic. In particular,
+he presented evidence that he was desperate to secure new employment that would
+allow him to live independently and escape from a very difficult family situation.
+
+(e)
+
+The detriment to the University occasioned by the offence: as discussed above, the
+offence of forging a degree certificate from the University can devalue its
+reputation for academic excellence, and is profoundly unfair to all students who
+fully complete their degree programs.
+
+(d)
+
+The need to deter others from committing similar offences: deliberate dishonesty
+must always be denounced and deterred in order to protect the academic integrity
+of the University.
+
+15.
+
+In addition to the factors from the Mr. C. case, the Tribunal considered other cases of this
+
+Tribunal dealing with similar offences. The Provost submitted a Book of Authorities including
+sixteen decisions from this Tribunal regarding offences involving falsified documents such as
+transcripts and degree certificates. No two cases are identical, and the Tribunal is not bound by
+past decisions. However, the Tribunal strives to develop a consistent body of case law so that
+students are treated fairly and equitably.
+16.
+
+In this case, counsel for the Provost noted that a significant number of the decisions
+
+presented imposed a sanction of expulsion from the University. The authorities did, however,
+include at least two cases, namely University of Toronto and N.R (Case No. 714, October 11, 2013)
+and University of Toronto and Y.Z. (Case No. 687, July 16, 2013), both of which imposed a penalty
+of a 5 year suspension and a 7 year notation. Ms. Harmer was able to identify aggravating factors
+
+10
+
+in nearly all of the cases presented, including the fact that the accused students had not taken
+responsibility for their actions, or had committed more than one offence.
+17.
+
+The Tribunal was satisfied, however, that the facts of this case did not warrant expulsion,
+
+and that a 5 year suspension was an appropriate penalty on the facts of this case. The Tribunal
+was persuaded by the Student’s expressions of remorse, his acceptance of responsibility for his
+offence, and the significant difficulties that he was experiencing at the time of the offence.
+18.
+
+We did, however, have a number of questions for Provost’s counsel concerning the joint
+
+proposal for a notation on the Student’s academic record and transcript until his graduation from
+the University. Based on the authorities presented by the Provost, it appears that a 5 year
+suspension had generally been accompanied by a 7 year notation. When questioned about the
+difference here, where a notation “until graduation” was proposed, Provost’s counsel was not able
+to point to an express discussion of this issue in the existing case law. We believe, however, that
+one of the central purposes of the notation is to ensure that future professors and invigilators are
+aware of the Student’s disciplinary history and are able to provide appropriate scrutiny of the
+Student’s work. There is no desire, however, for this sanction to follow the Student for a lengthy
+period of time once he has served his suspension and then completed his studies. We also note
+that the Student is very close to completing his degree.
+19.
+
+In this case, and in light of this central purpose and of the significant mitigating factors that
+
+we have discussed above, we were prepared to agree that a notation “until graduation” was flexible
+and would fulfill the aims of the sanction. The joint submission therefore does not bring the
+administration of justice into disrepute and is not otherwise contrary to the public interest. It strikes
+a fair balance between the mitigating and aggravating factors.
+20.
+
+In all of the circumstances, the Tribunal is satisfied that the following order is appropriate:
+1.
+
+The Student is guilty of one count of knowingly forging or in any other way
+altering or falsifying an academic record, and/or uttering, circulating or making
+use of such forged, altered or falsified record, contrary to section B.I.3(a) of the
+Code.
+
+11
+
+2.
+
+The following sanctions shall be imposed on the Student:
+(i)
+
+a suspension from the University for five years from the date the
+Tribunal makes its order; and
+
+(ii)
+
+a notation of the offence on his academic record and transcript from
+the date of this order until his graduation from the University.
+
+3.
+
+That this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and of the sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto this 3rd day of May, 2022.
+
+Original signed by:
+______________________________
+Ms. Alexandra Clark, Chair
+On behalf of the Panel
+
+

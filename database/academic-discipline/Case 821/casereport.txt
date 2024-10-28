@@ -1,0 +1,418 @@
+UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on November 6, 2015
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.0. 1978, C. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO (the "University")
+-AND~ (the "Student")
+
+REASONS FOR DECISION
+Hearing Date: April 20, 2016
+Panel Members:
+Ms. Roslyn M. Tsao, Lawyer, Chair
+Professor Michael Saini, Faculty of Social Work, Faculty Panel Member
+Mr. David Kleinman, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel for University, Paliare Roland Barristers
+Ms. Lauren Pearce, Student-at-law, Paliare Roland Barristers
+Professor Michael Jones, Program Coordinator, Institute of Communication, Culture,
+Information & Technology
+Professor Rahul Sethi, Instructor for WRI363
+Professor Catherine Seguin, Dean's Designate, University of Toronto-Mississauga ("UTM")
+
+In Attendance:
+Ms. Lucy Gaspini, Manager, Academic Integrity and Affairs, UTM
+Ms. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+
+Not in Attendance:
+Ms. ~,Student
+
+2
+
+1.
+
+The Trial Division of the Tribunal heard this matter on April 20, 2016. The Student was
+charged on November 6, 2015 with the following charges:
+CCT360H5F Charges
+1) On or about October 14, 2014, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in your answers to a take home quiz
+("Quiz") that you submitted for academic credit in CCT360H5F ("Web Design"),
+contrary to section B.1.1 (d) of the Code.
+2) On or about October 14, 2014, you knowingly obtained unauthorized assistance in
+connection with the Quiz that you submitted for academic credit in Web Design,
+contrary to section B.l.l(b) of the Code.
+3) In the alternative, on or about October 14, 2014, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the Quiz that you submitted for academic
+credit in Web Design, contrary to section B.l.3(b) of the Code.
+WRI363H53 Charges
+4) On or about February 24, 2015, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in your submission for Assignment
+3 ("Assignment 3") that you submitted for academic credit in WRI363H53 ("The
+Story Behind the Data"), contrary to section B.l.l(d) of the Code.
+5) On or about April 7, 2015, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in your submission for Assignment
+1 ("Assignment 1") that you submitted for academic credit in The Story Behind the
+Data, contrary to section B.l.l(d) of the Code.
+6) On or about April 7, 2015, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in your submission for Assignment
+
+3
+2 ("Assignment 2") that you submitted for academic credit in The Story Behind the
+Data, contrary to section B.1.l(d) of the Code.
+7) In the alternative, on or about February 24, 2015, and April 7, 2015, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with the assignments
+that you submitted for academic credit in The Story Behind the Data, contrary to
+section B.l.3(b) of the Code.
+Hearing to Proceed in Absence of Student
+
+2.
+
+The Student did not attend at the Hearing. The Tribunal waited 15 minutes after the
+scheduled commencement of the Hearing to allow for the Student to appear.
+
+3.
+
+The University presented evidence to the Tribunal confirming the Student's ROSI
+Record, which set out her email address ("ROSI Email").
+
+4.
+
+On November 6, 2015, the University served the Student with the formal Charges dated
+November 6, 2015 by e-mail to her ROSI Email.
+
+5.
+
+On February 25, 2016, the University served the Student by email to her ROSI Email
+with the Notice of Hearing dated February 25, 2016 for the April 20, 2016 hearing date
+and on February 29, 2016 with the Revised Notice of Hearing confirming the April 20,
+2016 hearing date.
+
+6.
+
+There were no "bounce backs" of any of these three emails.
+
+7.
+
+On November 27, 2015, counsel for the University emailed the Student at her ROSI
+Email with a disclosure brief relating to the Charges. The Student responded to this
+email on December 9, 2015 asking for assistance on how to contact Downtown Legal
+Services.
+
+8.
+
+Although Mr. Centa and the Student had further email communication in December,
+2015 and in March and April, 2016, the Student did not ultimately indicate whether she
+intended to attend at the hearing.
+
+4
+9.
+
+As service of the Charges and Notice of Hearing was effected in accordance with
+Paragraph 9(c) of the Rules of Practice and Procedure, the Panel proceeded with the
+Hearing in the absence of the Student.
+
+Facts
+
+Evidence of Professor Michael Jones, Program Coordinator for the Institute of
+Communication, Culture, Information & Technology
+10.
+
+Professor Jones is the Program Coordinator for the Institute of Communication, Culture,
+Information
+
+&
+
+Technology
+
+("ICCIT")
+
+which
+
+oversees
+
+related
+
+communications/technology programs provided jointly by the University of Toronto at
+Mississauga and Sheridan College.
+11.
+
+Professor Jones is employed by Sheridan College and has been an instructor for 10 years
+in addition to his current Program Coordinator role. Professor Jones provides support to
+faculty and students and investigates academic integrity allegations.
+
+12.
+
+The Syllabus in Web Design outlined the evaluation methods and contained the usual
+instruction and warning against academic dishonesty. Assignments were to be submitted
+to Tumitin.com.
+
+13.
+
+Professor Jones had taught the Student twice before in two earlier courses but was not the
+instructor in Web Design in Fall 2014. Professor Nathwani was the instructor.
+
+14.
+
+There was a "take-home" Quiz submitted by the Student on October 14, 2014 through
+Tumitin.com. Professor Nathwani noted the very high Tumitin similarity index of 56%
+for the Student's Quiz and alerted Professor Jones for further investigation.
+
+15.
+
+Professor Jones googled passages of the Quiz and was able to identify a source website
+which had questions and answers for the same assignment for the Web Design course
+from 2011. Professor Jones compared the Quiz to the source website and concluded that
+the Student had plagiarized many passages, some verbatim and some with minor changes,
+for her Quiz. In particular, the Student even used the same URL example, IKEA, that
+was used in the 2011 website.
+
+5
+Evidence of Professor Rahul Sethi, Instructor of WR/363 - The Story Behind the Data:
+Communicating in World of Big Data
+16.
+
+Professor Sethi was the Instructor in The Story Behind Data course in Winter, 2015 term.
+He has been a sessional lecturer in courses related to professional writing and
+communications at ICCIT for approximately 6 years.
+
+17.
+
+The Story Behind Data is a course for communications students designed to teach them
+how to use, interpret and communicate information based on "large data".
+
+18.
+
+Professor Sethi had taught the Student twice before in his writing courses. Professor
+Sethi noted that English was a second language for the Student.
+
+19.
+
+There were 3 written assignments worth 40% and 2 infographics worth 20% in the course
+evaluation. These 5 assignments were undertaken throughout the term with rough drafts
+being submitted and critiqued during the term by Professor Sethi so that the Student
+could improve throughout the term until final submission of the assignments.
+
+The
+
+Student's entire portfolio of all 5 assignments (including rough drafts) was submitted at
+the end of the term for the instructor's grading ("Portfolio Assessment").
+20.
+
+With the Portfolio Assessment and ongoing feedback during the term on the rough drafts,
+Professor Sethi was able to work with the students and observe their overall proficiency
+by the end of the course.
+
+21.
+
+When Professor Sethi reviewed the Student's Portfolio of assignments, he was suspicious
+of her work. In particular, one of her infographics and two of her 3 writing assignments
+were "very good" and did not correspond to the quality of the Student's rough drafts.
+
+22.
+
+Professor Sethi's investigation into source material for the Student's assignments resulted
+in the following:
+(a)
+
+for one of the Student's infographics, Professor Sethi found an almost identical
+infographic on the web attributed to another author, Wishpond. The appearance,
+structure, colouring of the Student's version was identical to the Wishpond
+version except that any identification on the Wishpond version relating to
+
+6
+
+authorship or contact information had been removed/replaced with the Student's
+name;
+(b)
+
+for Assignment lh, Professor Sethi found two articles on the web which were
+clearly the source of a large portion of the Student's assignment. There were
+identical passages lifted from the two articles as well as similarly-worded
+passages. Even the title of the Student's assignment was copied from one of the
+source articles. The Student only referenced one source, which was a reference in
+one of the two source documents but not either of the two articles found by
+Professor Sethi;
+
+(c)
+
+for Assignment 2j, Professor Sethi found three reference articles/material which
+were clearly the source of the Student's almost entire assignment, including a
+detailed graphic which had no attribution in the Student's assignment. Again, the
+title of the Student's assignment was copied from one of the source materials; and
+
+(d)
+
+for all of the above assignments, Professor Sethi also reviewed the rough drafts to
+confirm that the final versions were very different from the rough drafts, as he
+recalled based on his work with the Student during the term. For example, the
+graphic in the final version of Assignment 2j was not in any of the rough drafts.
+In any event, the students were supposed to prepare original data visualizations in
+their assignments.
+
+Evidence of ProfessorCatherine Seguin, Dean's Designate at UTM
+
+23.
+
+Ms. Seguin has been the Dean's Designate for approximately 6 years at UTM. As the
+Dean's Designate, she reviews academic integrity files which are referred to the Dean's
+Office to determine whether there is sufficient evidence and if so, to request a meeting
+with the student.
+
+24.
+
+Ms. Seguin met with the Student in July 2015 about the allegations, with the Student
+participating by SKYPE from China.
+
+Ms. Seguin confirmed that she provided the
+
+standard Dean's warning to the Student to advise that the contents of the meeting could be
+used against her at any subsequent hearing.
+
+7
+
+25.
+
+The Student readily admitted that she had "cut and paste" from another source for the
+Quiz and explained that she was "stressed". The Student acknowledged her guilt to
+plagiarizing material for her Quiz in CCT360.
+
+26.
+
+The Student also readily admitted to having copied material for her WRI363 infographic
+and 2 assignments. There was notably, "no debate" from the Student as she admitted her
+guilt to plagiarizing for these WRI363 assignments.
+
+27.
+
+The meeting was short because the Student was forthright in her admitted guilt. The
+Student also advised Ms. Seguin that she had seen a doctor and had the support of her
+parents.
+
+28.
+
+Ms. Seguin advised that the matter had to be referred to the Tribunal because of a prior
+academic dishonesty sanction.
+
+Decision of the Tribunal
+29.
+
+A review of the Student's assignments against the source materials leaves the Tribunal
+with no doubt that the Student is guilty of all allegations of plagiarism. The evidence of
+Professor Sethi is particularly compelling given his ability to refer to the Student's rough
+drafts throughout the term and note the marked difference between those rough drafts and
+the final submitted assignments.
+
+30.
+
+The Student's admission of guilt at the Dean's Designate meeting also supports findings
+of guilt.
+
+31.
+
+Accordingly, the Panel finds the Student guilty of Charges 1, 4, 5 and 6.
+
+32.
+
+The University withdrew the alternate Charges 2, 3 and 7.
+
+Penalty
+
+33.
+
+The University sought the following penalty:
+(a)
+
+a final grade of zero in the courses CCT360H5F and WRI363H53;
+
+(b)
+
+a suspension from the University for 4 years from the date of this Order; and
+
+8
+(c)
+
+a notation of the sanction on the Student's academic record and transcript until 5
+years from the date of this Order.
+
+34.
+
+The Student has a prior record of academic misconduct.
+
+The Student admitted to
+
+plagiarizing an assignment submitted in CCT316 in Winter 2014 and was sanctioned by
+the Office of the Dean in June, 2014. The Dean's Office issued a letter dated June 25,
+2014 which sanctioned the Student with a zero in the assignment, a further reduction of
+10 marks from her final grade in the course and an annotation on her transcript for 9
+months from June 11, 2014 to March 11, 2015 relating to the academic misconduct.
+35.
+
+The Panel accepts the requested penalty by the University for the following reasons:
+(a)
+
+the Student had participated and been sanctioned in the discipline process fewer
+than 4 months earlier CCT360 (October, 2014);
+
+(b)
+
+the Student was in her third year of study at the University and had undertaken
+prior post-secondary studies at another institution;
+
+(c)
+
+the Charges relate to plagiarism over two courses and two terms and multiple
+assignments;
+
+(d)
+
+there were deliberate and deceitful acts undertaken by the Student in an attempt to
+hide the plagiarism from detection such as removing references to authorship on
+the infographic and replacing them with her own name and including a reference
+cited in the plagiarized source but not the plagiarized article itself; and
+
+(e)
+
+although the Student readily admitted her guilt at the Dean's Designate meeting,
+she did not follow through with counsel to plead guilty or an Agreed Statement of
+Facts which would have greatly reduced the Tribunal's time and resources.
+
+36.
+
+The Panel was most concerned about specific deterrence and the likelihood of repetition
+in this matter, given the Student's prior academic misconduct and the number of and
+breadth of the current misconduct.
+
+9
+
+37.
+
+The Panel, therefore, imposes the sanctions as set out in Paragraph 33 above and signed
+an Order to this effect at the conclusion of the Hearing.
+
+38.
+
+The Tribunal is to report this decision to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed in the University's newspapers, with
+the name of the Student withheld.
+
+Dated at Toronto, this
+
+4:iw
+
+n.
+2 'd
+
+~ - ,-C-h-ai_r_ _ _ __
+
+day of April, 2016
+
+

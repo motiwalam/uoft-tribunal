@@ -1,0 +1,477 @@
+Case No.: 991
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+TRIAL DIVISION
+
+IN THE MATTER OF charges of academic dishonesty made on October 30, 2018
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and –
+Y
+
+W ( the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Dates: January 29, 2020 and May 7, 2020 (via Zoom)
+Members of the Panel:
+Ms. Lisa Talbot, Chair
+Professor Margaret MacNeill, Faculty Member
+Mr. Jin Zhou, Student Member
+Appearances:
+Mr. Robert A. Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Megan Phiffer, Law Student, Paliare Roland Rosenberg Rothstein LLP
+Ms. Olivia Eng, Law Student, Paliare Roland Rosenberg Rothstein LLP
+Ms.
+, the Student
+
+-2THE CHARGES
+1.
+
+This matter arises out of charges of academic misconduct filed on October 30, 2018, by
+
+the Provost of the University of Toronto (the “Provost”) under the Code of Behaviour on
+Academic Matters (“Code”).
+2.
+
+The charges arise out of events that took place in the winter term of 2018 in the course
+
+“Principles of Programming Languages” (“Programming Languages” or “CSC C24”) in which
+Ms.
+
+(the “Student”) was registered.
+
+3.
+
+The charges are as follows.
+
+A.
+
+Charges
+1. On or about January 25, 2018, the Student knowingly used or possessed an
+unauthorized aid or aids or obtained unauthorized assistance in connection Lab 3
+in the course CSCC24, contrary to section B.I.1(b) of the Code.
+2. On or about February 1, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, C
+
+Y
+
+to obtain
+
+unauthorized assistance in connection with Lab 4 in Programing Languages,
+contrary to section B.I.1(b) of the Code.
+3. On or about February 3, 2018, the Student knowingly used or possessed an
+unauthorized aid or aids or obtained unauthorized assistance in connection with Lab
+5 in Programming Languages, contrary to section B.I. 1(b) of the Code.
+4. On or about February 8, 2018, the Student knowingly did or omitted to do
+something for the purpose of aiding or assisting a student, C
+
+Y
+
+to obtain
+
+unauthorized assistance in connection with Lab 5 in Programming Languages,
+contrary to section B.I.1(b) of the Code.
+5. On or about February 15, 2018, the Student did or omitted to do something for the
+purpose of aiding or assisting a student, C
+
+Y
+
+, to obtain unauthorized
+
+-3assistance in connection with Lab 6 in Programming Languages, contrary to section
+B.I.1(b) of the Code.
+6. In the alternative to each of charges 1 to 5, the Student knowingly did or omitted to
+do something to engage in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit or other academic
+advantage in Programming Languages, contrary to section B.I.3(b) of the Code.
+4.
+
+At the outset of the hearing, the Provost withdrew charges 2, 4 and 5.
+
+THE HEARING
+5.
+
+The Tribunal conducted a hearing on January 29, 2020. The Student did not attend. On
+
+reading the affidavit of service of Susan Murphy, sworn November 12, 2018, the affidavit of
+service of Nusaiba Khan affirmed December 18, 2019, the affidavit of Mike Wiseman, affirmed
+January 16, 2020, and the affidavit of Sharon Hawley, affirmed January 16, 2020, and in
+consideration of the Policy on Official Correspondence with Students approved May 1, 2006, the
+Tribunal found that the Student was served with the Charges and the Notice of Hearing dated
+December 13, 2019 and received reasonable notice of the hearing. The Tribunal ordered that the
+hearing proceed in her absence.
+6.
+
+At the January 29, 2020 hearing, the Tribunal found that the Student was guilty of two
+
+counts of the academic offence of knowingly obtaining unauthorized assistance, contrary to
+section B.I.1(b) of the Code, those being charges 1 and 3. The Panel also heard the Provost’s
+submissions on penalty.
+7.
+
+Although it was not required to do so, the Panel adjourned for 14 days so that the Student
+
+may receive a further opportunity to make submissions on penalty. The deadline to make a
+request to participate in a continuation hearing was February 13, 2020.
+8.
+
+On April 9, 2020, the Student contacted the office of the Governing Council, Appeals,
+
+Discipline and Faculty Grievances, requesting a further opportunity to attend before the Tribunal
+to make submissions on sanction only. Notwithstanding the deadline to make such request had
+passed, the request was granted and a continuation hearing took place on May 7, 2020 by
+
+-4videoconference.1 The sole purpose of the continuation hearing was to hear submissions in
+respect of penalty. The Student attended the continuation hearing on May 7, 2020 and had an
+opportunity to make her submissions to the Tribunal.
+9.
+
+The hearing of this matter followed the Panel’s hearing in the related matter of the
+
+University of Toronto and V.T. (Case No.: 980, May 5, 2020) in which it made certain findings
+of fact to which it refers herein.
+THE FACTS
+10.
+
+In Winter 2018, Professor Albert Lai taught CSC C24, Principles of Programming
+
+Languages (“Programming Languages”). V.T. was a teaching assistant in the course (the
+“Teaching Assistant”). The Student and C
+
+Y
+
+were both students registered in
+
+Programming Languages. The Student was not a member of the Teaching Assistant’s tutorial
+group.
+11.
+
+The Course Information Sheet was included in evidence. The final grade in the course
+
+consisted of marks for coding exercises called Tutorial-labs (11 assigned, with the best 10 to
+count towards a total of 10% of the final grade in Programming Languages), five assignments
+(A1 to A5), a mid-term test, and a final exam.
+12.
+
+Additional information about Programming Languages was found on the course website,
+
+a copy of which was adduced into evidence.
+13.
+
+Each week, the Teaching Assistant was responsible for running a two-hour tutorial.
+
+During most tutorials, the Teaching Assistant would present information to his class. The
+students would then do coding exercises based on “starters” provided by Professor Lai to the
+students. The Teaching Assistant was available to assist students as they worked on their
+exercises during the tutorial period. Students could complete their coding exercises during the
+tutorial, or they could submit their solutions by 6:00 p.m. on the Friday of the same week that the
+tutorial took place.
+14.
+
+Professor Lai provided solutions for all of the coding exercises and assignments to the
+
+teaching assistants. Professor Lai provided teaching assistants with the instructor’s solutions to
+ensure that the teaching assistants understood the professor’s expectations, could accurately
+
+The Tribunal notes that evidence was adduced at the continuation hearing that someone had accessed the Student’s
+UTorid account on March 3 and March 23.
+1
+
+-5respond to student questions, and evaluate the students’ work. Professor Lai sent an email to the
+teaching assistants that attached the solutions in the form of computer code. There were many
+different ways to solve the coding exercises and assignments correctly. The Tribunal accepts the
+evidence of Professor Lai that it is extremely unlikely that two students would submit identical
+solutions or that any solution, even an excellent solution, would be nearly identical to Professor
+Lai’s solutions.
+15.
+
+The Teaching Assistant received the instructor’s solutions for all of the coding exercises
+
+and assignments from Professor Lai.
+Relationship between the Student and the Teaching Assistant
+16.
+
+The Student knew the Teaching Assistant personally before the term started. As
+
+described below, the Student received unauthorized assistance from the Teaching Assistant. Such
+assistance was unauthorized and a breach of the Code.
+17.
+
+The Student did not pay the Teaching Assistant for his assistance.
+Lab Week 3: Basic Scheme Exercises (Charge #1)
+
+18.
+
+For the coding exercise assigned during Lab Week 3, students were required to write four
+
+functions. Each function was worth one mark for correctness and there was one additional mark
+for style and layout.
+19.
+
+Professor Lai provided students with starter code for Lab Week 3, which was adduced
+
+into evidence and reviewed by the Panel.
+20.
+
+Professor Lai sent the same instructor’s solution for Lab Week 3 to the Teaching
+
+Assistant and all the other teaching assistants. The Panel reviewed the instructor’s solution,
+which was adduced into evidence.
+21.
+
+The Teaching Assistant sent the Student a copy of the Lab Week 3 solution by WeChat.
+
+The Student made some minor changes to the file that the Teaching Assistant sent to her and
+submitted it as her answer for the Lab Week 3 coding exercise. The Panel reviewed her
+submission, which was adduced into evidence. The Student’s submission was nearly identical to
+the instructor’s solution.
+22.
+
+In the matter of the University of Toronto and V.T., supra, the Teaching Assistant
+
+admitted that he knowingly provided his copy of the instructor’s solution to the Student to permit
+
+-6her to use the solution to assist her in completing her lab. The Teaching Assistant did not review
+or grade the Student’s completed lab.
+Lab Week 5: Haskell exercises part A (Charge #3)
+23.
+
+For the coding exercise assigned during Lab Week 5, students were required to complete
+
+Haskell exercises.
+24.
+
+Professor Lai provided students with starter code for Lab Week 5, which the Panel
+
+reviewed.
+25.
+
+Professor Lai sent a unique instructor’s solution for Lab Week 5 to the Teaching
+
+Assistant. A copy of the instructor’s solution that Professor Lai sent to the Teaching Assistant
+was adduced into evidence and reviewed by the Panel. Professor Lai sent a different instructor’s
+solution to all of the other teaching assistants in the course. Some of the unique features
+contained in the instructor’s solution sent to the Teaching Assistant consisted of characters and
+spacing that were not visible.
+26.
+
+In the related matter of the University of Toronto and V.T., supra, the Tribunal found that
+
+Ms.
+
+contacted the Teaching Assistant and asked for his assistance; and that the Teaching
+
+Assistant sent the instructor’s solution to the Student by WeChat.
+27.
+
+The Student submitted an answer for the Lab Week 5 assignment. A copy of her
+
+submission was reviewed by the Panel. The Student’s submission was nearly identical to the
+unique instructor’s solution that Professor Lai provided to the Teaching Assistant and is different
+than the solution provided to all the other teaching assistants. The Student’s submission included
+the characters that were not visible, but were present in the unique instructor’s solution that
+Professor Lai gave to the Teaching Assistant.
+28.
+
+In the related matter of the University of Toronto and V.T., supra, this Tribunal found
+
+that the Teaching Assistant knowingly provided his copy of the instructor’s solution to the
+Student to permit her to use the solution to assist her in completing her lab. The Teaching
+Assistant did not review the grade the Student’s completed lab.
+The Teaching Assistant learns he is suspected of committing academic offences
+29.
+
+In late February or March 2018, the Teaching Assistant learned that Professor Lai
+
+suspected that he may have committed academic offences with Mr. Y
+
+and the Student.
+
+-730.
+
+The Student spoke with the instructor and the Dean’s designate before speaking to the
+
+Teaching Assistant. She reported to the Teaching Assistant that she told the University’s
+representatives that she had looked at the Teaching Assistant’s computer screen while he had the
+answers open. She told the Teaching Assistant that she did not wish to get him in trouble because
+she felt sorry for putting him in this position. She told the Teaching Assistant that she would
+email the University a new story, in particular, that she surreptitiously accessed the Teaching
+Assistant’s email to obtain the instructor’s solutions because she had his UTORid. The Student
+asked the Teaching Assistant to tell the same story, and he agreed to do so.
+31.
+
+The Teaching Assistant then persuaded Mr. Y
+
+align with the Student’s story. Mr. Y
+
+to lie to various university officials to
+
+did lie to the university representatives by stating that
+
+he took photographs of the solutions when the Teaching Assistant showed them to him and that
+he received the lab answers from the Student.
+DISPOSITION ON CHARGES
+32.
+
+On the basis of the facts set out above, as well as the evidence adduced in the Book of
+
+Documents, the Tribunal determined that the Student was guilty of charges 1 and 3.
+33.
+
+On that basis, the Tribunal’s conviction of Mr.
+
+the Student on charges 1 and 3, the
+
+Provost withdrew charge 2, 4, 5, and 6.
+DECISION ON PENALTY
+34.
+
+The University submitted that the following penalty should be imposed:
+a)
+
+the imposition of a final grade of zero in CSC C24;
+
+b)
+
+the suspension of the Student from the University for five years;
+
+c)
+
+a recommendation to the President that he recommend to the Governing Council
+that the Student be expelled from the University of Toronto; and
+
+d)
+
+the reporting of this case to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the name of the student withheld.
+
+35.
+
+The Student admitted that she engaged in misconduct and accepted the University’s
+proposed sanctions. Nonetheless, we are still required to consider the C. factors (Case No.:
+1976/77-3, November 5, 1976) to make an independent decision on penalty: character of
+
+-8student, likelihood of repetition of the offence, nature of the offence committed, existence
+of extenuating circumstances, detriment to the university and general need for deterrence.
+Character
+
+36.
+
+With respect to the Student’s character, we know what is revealed by the acts of misconduct
+found to have been committed. The Student was prepared on two occasions to take
+unauthorized assistance and to copy the instructor’s solutions. The Student was prepared
+to exploit her relationship with a Teaching Assistant to obtain unauthorized assistance in a
+course in which she was registered. The Student’s actions were not isolated, but repeated,
+indicating that the Student did not suffer a momentary lapse of judgment. The Student was
+prepared to mislead and lie repeatedly to the University about the misconduct when
+confronted. In her submissions, the Student admitted that she understood that what she did
+was wrong, but that she did it anyway. The Student also admitted that she was prepared to
+concoct a lie to the University in an attempt to exonerate the Teaching Assistant, whose
+own conduct was a breach of the Code. While her eventual admission of wrongdoing at the
+May hearing is to her credit, that must be balanced against her sustained lies to the
+University over many months, and the fact that her cooperation and remorse only came
+after conviction on the charges against her. Further, the Panel noted that the Student
+continued to downplay the gravity of her misconduct by pointing out that she chose to cheat
+on labs because that was not as serious as cheating on an exam. The Tribunal finds that the
+Student exhibited dishonesty and unethical character.
+The likelihood of a repetition of the offence
+
+37.
+
+The Panel hopes that the Student has learned from this experience and will never commit
+such ethical breaches again. The Panel notes that she ultimately admitted her misconduct,
+expressed remorse and indicated that she was prepared to accept the consequences. The
+Panel does note, however, that she did so only at the continuation hearing, after having
+engaged in a conspiracy to mislead the University over many months. The fact that the
+Student originally conspired with other students to avoid sanction for herself and for the
+Teaching Assistant suggests she would likely commit such an offence if she thought she
+would not get caught or to protect another student engaging in misconduct. The fact that
+
+-9the Student sees a distinction between cheating on a lab and cheating on an exam suggests
+she would likely cheat again if she thought it wasn’t “serious”. That she engaged in multiple
+breaches of the Code also contributes to the Tribunal’s view that there is a likelihood of
+the Student committing ethical breaches again.
+The nature of the offence committed
+38.
+
+The offences committed by the Student are serious. She was aware of what she was doing,
+and she was aware that her actions were in breach of the Code. She then deliberately misled
+the University in its investigation.
+The extenuating circumstances
+
+39.
+
+Extenuating circumstances may be mitigating factors or aggravating factors.
+
+40.
+
+In this case, the mitigating factors are that the Student ultimately admitted her misconduct
+and expressed remorse. Other mitigating factors offered by the Student – that she lied to
+protect a friend, and that she didn’t have time to do the labs herself because of other course
+work and examinations – we do not accept as such.
+
+41.
+
+The aggravating factors are that the Student knowingly committed multiple offences and
+engaged in a scheme to cover-up the true facts from the University.
+The need to deter others from committing a similar offence
+
+42.
+
+The University has an important interest in protecting the integrity of the institution. Such
+integrity is fundamental to the academic relationship. It is important that students are
+deterred from committing offences of academic dishonesty. Students must know that
+knowingly breaching the Code will not be tolerated. They must also know that they cannot
+seek to obtain unfair benefits from teaching assistants with whom they share a social
+network, or at all, and that doing so constitutes a breach of trust by everyone involved.
+
+43.
+
+After considering all of the above factors, and the cases provided by the University, the
+Tribunal is satisfied that the Provost’s suggested penalty is appropriate.
+
+- 10 44.
+
+An Order was signed at the hearing by the Panel on the following terms:
+a)
+
+the hearing on January 29, 2020, may proceed in the absence of the Student;
+
+b)
+
+the Student is found guilty of two counts of the academic offence of knowingly
+obtaining unauthorized assistance, contrary to section B.I.1(b) of the Code of
+Behaviour on Academic Matters;
+
+c)
+
+the Student shall receive a final grade of zero in the course CSCC24;
+
+d)
+
+that the Student be suspended from the University for up to five years from the date
+of this Order;
+
+e)
+
+to the President of the University that he recommend to the Governing Council that
+the Student be expelled from the University.
+
+f)
+
+this case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+
+All of which is hereby ordered this 6th day of July, 2020.
+
+____________________________
+
+Lisa Talbot
+Chair
+
+

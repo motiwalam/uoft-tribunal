@@ -1,0 +1,280 @@
+Case No.: 896
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on November 11, 2016,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University ofToronto Act, 1971, S.O. 1971, C. 56 as amended
+S.O. 1978, c. 88
+BETWEEN:
+UNIVERSITY OF TORONTO (the "University")
+-andR
+
+W
+
+(the "Student")
+
+REASONS FOR DECISION
+
+Hearing Date: February 22, 2017
+Panel Members:
+Ms. Michelle S. Henry, Lawyer, Borden Ladner Gervais LLP, Chair
+Dr. Maria Rozakis-Adcock, Faculty Panel Member
+Ms. Natasha Brien, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+In Attendance:
+Professor Michael Georges, Dean's Designate (via Skype)
+Ms. Lucy Gaspini, Manager, Academic Integrity & Affairs, Office of the Dean, University of
+Toronto, Mississauga
+Mr. Ted Flett, Student at Law, Borden Ladner Gervais LLP
+Ms. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Not in Attendance:
+The Student
+
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on February 22,
+2017, to consider charges of academic dishonesty brought by the University against the
+Student under the Code of Behaviour on Academic Matters, 1995 (the "Code"). The
+Student was informed of the charges by letter dated November 11, 2016, from Professor
+Sioban Nelson, Vice-Provost, Faculty & Academic Life.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+2. The hearing was scheduled to commence at 1:45 p.m. The Tribunal waited until 2:00
+p.m. before commencing the hearing. The Student did not appear at the hearing.
+3. Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act(the "Act"), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the "Rules"), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act
+and the party does not attend at the hearing, the Tribunal may proceed in the absence of
+the party, and the party is not entitled to any further notice in the proceeding. In this
+case, the University requested that the Tribunal proceed with the hearing in the absence
+of the Student.
+4. Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including by: sending a copy of the document by courier to the Student's mailing address
+contained in ROSI (the Repository of Student Information); or emailing a copy of the
+document to the student's email address contained in ROSI.
+5. The University's Policy on Official Correspondence with Students expressly states that
+students are responsible for maintaining on ROSI a current and valid postal address and a
+University-issued email account. The Policy also makes it clear that students are
+expected to monitor and retrieve their mail, including electronic messaging account(s)
+issued to them by the University, on a frequent and consistent basis.
+6. Counsel for the Provost also filed the Affidavit of Virginia Fletcher, a Law Clerk at
+Paliare Roland, sworn on February 21, 2017 ("Fletcher Affidavit"). The Fletcher
+Affidavit confirmed the steps taken to contact the Student. The University filed affidavit
+evidence demonstrating that, on November 11, 2016, the Student had been served with
+the charges by way of email to the Student at his Utoronto address, and by courier to the
+mailing address the Student had provided on ROSI. Further, the Student was provided
+with the Notice of Hearing dated January 4, 2017, by way of email to the Student at his
+Utoronto address and by courier to the mailing address the Student had provided on
+ROSI. A reminder email was also sent to the Student on February 16, 2017.
+7. Having reviewed the evidence and heard the submissions of counsel for the Provost, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+2
+
+accordance with the notice requirements set out in the Act and the Rules. The University
+has proven that it provided reasonable notice of the hearing to the Student. Accordingly,
+the Tribunal proceeded to hear the case on its merits in the absence of the Student.
+
+THE CHARGES AND PARTICULARS
+8. At all material times, the Student was a registered student at the University of Toronto
+Mississauga. The University alleges that the Student engaged in the following offences:
+I.
+
+On or about November 30, 2015, the Student knowingly represented as his own
+an idea or expression of an idea or work of another in an essay that he submitted
+in CIN101H5F (the "Course") entitled Narrative Structure as a Literary Style
+("Essay"), contrary to section B.I.1(d) of the Code.
+
+II.
+
+In the alternative to charge 1, on or about November 30, 2015, he knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with the Essay that
+he submitted in the Course, contrary to section B.I.3(b) of the Code.
+
+9. The Particulars for the charges are as follows:
+a) At all material times, the Student was enrolled at the University of Toronto
+Mississauga. In Fall 2015, the Student enrolled in the Course, which was taught
+by Professor Meghan Sutherland.
+b) Students in the Course were required to submit an essay assignment. On or about
+November 30, 2015, the Student submitted the Essay to complete this
+requirement.
+c) He submitted the Essay knowing that it contained ideas, the expression of ideas,
+and verbatim or nearly verbatim text from several publications and articles (the
+"Sources") which were not written by him.
+d) He knowingly represented the work of another person, or persons, who wrote the
+Sources as his own. He knowingly included in the Essay ideas and expressions
+that were not his own, but were the ideas and expressions of another person, or
+persons, who wrote the Sources, which he did not acknowledge in the Essay.
+
+3
+
+e) He knowingly submitted the Essay with the intention that the University of
+Toronto Mississauga rely on it as containing his own ideas, expressions of ideas
+or work in considering the appropriate academic credit to be assigned to his work.
+f) For the purposes of obtaining academic credit and/or other academic advantage,
+he knowingly committed plagiarism in the Essay.
+THE EVIDENCE
+10. The Tribunal received evidence of three witnesses on behalf of the Provost.
+1 1. Professor Meghan Sutherland provided evidence by way of Affidavit, sworn January 25,
+2017, as she was on sabbatical at the time of the hearing. The evidence of Professor
+Sutherland was as follows.
+a) In the 2015 Fall Semester, the Student was enrolled in CIN101H5F, An
+Introduction to Cinema Studies (the "Course"). The Course was taught by
+Professor Sutherland. The Course syllabus included the University's statements
+on academic honesty and plagiarism, and special tutorials were held to ensure that
+students understood the University's policy regarding plagiarism. The Student
+was required to submit an essay, worth 25% of his final grade, to turnitin.com by
+12:00 pm on November 30, 2015 (the "Final Paper").
+b) On November 30, 2015 at 5:36 a.m., the Student submitted the Final Paper to
+turnitin.com. A turnitin report revealed that the Student's essay had a 16%
+similarity index.
+c) Professor Sutherland compared the Final Paper against the internet source
+identified in the turnitin report which revealed that the essay contained several
+passages of text from the website www.examiner.com. The Student did not use
+quotation marks and did not attribute this text to any of the sources identified.
+d) A Google search conducted by Professor Sutherland revealed two additional
+internet sources from which substantial passages of text were taken without
+appropriate attribution. Words and phrases were moved around and substituted
+but many of the words and ideas are the same as represented on
+www.wikipedia.com and www.oprah.com. Professor Sutherland's Affidavit
+included printed evidence of the original internet source and the essay, indicating
+the similarities.
+e) Professor Sutherland issued a final grade of 45% for the Final Paper and a final
+course grade of 45%. She explained that, absent a plagiarism violation, the grade
+for the Student's Final Paper would be 45%, and his final course grade in the
+4
+
+Course. Professor Sutherland met with the Student on December 14, 2015 to
+discuss the Final Paper. The case was then forwarded to the Dean to address the
+academic misconduct.
+12. Professor Michael Georges, Dean's Designate, gave evidence regarding his meeting with
+the Student. He confirmed that he met with the Student on April 14, 2016, and the
+Student admitted to the plagiarism. A copy of the Student's Admission of Guilt was
+submitted into evidence.
+13. Ms. Lucy Gaspini, Manager, Academic Integrity & Affairs also provided evidence during
+the hearing regarding the Student's Academic History on ROSI and the Student
+Information Printouts.
+DECISION OF THE TRIBUNAL ON CHARGES
+14. Having considered all the evidence heard during the hearing and the Affidavit evidence,
+the Tribunal found that the Student knowingly represented the work of other persons as
+his own, and knowingly included in his essay ideas and expressions that were not his
+own, but were the ideas and expressions of other persons.
+15. The Student's admission of guilt at the Dean's Designate meeting also supports a finding
+of guilt.
+16. Consequently, the Tribunal finds that Charge 1 (as outlined in paragraph 81) above) had
+been proven with clear and convincing evidence on a balance of probabilities. The Panel
+was advised that if the Tribunal convicts the Student on Charge 1, outlined above in
+paragraph 811), the University would withdraw the alternative charge. The Panel
+therefore makes no findings with respect to Charge 2.
+PENALTY
+17. The University sought the following penalties:
+a) That the Student receive a final grade of zero in C1N101H5F in Fall 2015;
+b) That the Student be suspended from the University for a period of three years,
+commencing on February 22 and ending on February 21, 2020;
+c) That the sanction be recorded for a period offour years on the Student's academic
+record and transcript to the effect that he was sanctioned for academic
+misconduct, commencing on February 22, 2017 and ending on February 21, 2021;
+and,
+
+5
+
+d) That this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the Student's
+name withheld.
+18. The University led additional evidence with respect to sanctions. In particular, the
+University provided evidence that the Student had been found guilty of an academic
+offence regarding two separate courses.
+19. The first offence relates to a course, Mathematical and Computational Sciences, in which
+he was enrolled in Spring 2015 (STA258H5S). The Student admitted that he was guilty
+of possessing a cell phone in a quiz that was submitted for credit for the course.
+20. By letter dated April 29, 2015, Yael Karshon, Professor and Chair of the Department of
+Mathematical & Computational Sciences, advised the Student that he had imposed a
+mark of zero for the quiz as the sanction. The letter expressly advised the Student that
+"any subsequent allegations of academic misconduct are usually referred directly to the
+Office of the Dean or the Tribunal for investigation."
+21. The second offence relates to a course Economics, in which he was enrolled in Fall 2014
+("EC0100Y5Y"). The Student admitted that he was guilty of academic misconduct for
+plagiarizing an assignment which he submitted as his own work and for credit in the
+course.
+22. By letter dated November 16, 2015, Kelly Hannah-Moffat, Vice-Dean, Undergraduate,
+advised the Student that he was given a mark of zero for the quiz in question and an
+annotation on his transcript of"Mark Reduced in EC0100Y5Y,2014(9) due to academic
+misconduct", for 24 months,from November 2, 2015 to November 2, 2017.
+23. The letter recommended that the Student contact a staff member from the University's
+Robert Gillespie Academic Skills Centre to ensure that he has a strategy in place to help
+with his future academic work and goals. He was also warned that any subsequent
+allegations of offence are usually referred directly to the Tribunal for investigation.
+24. Counsel for the Provost noted that the Student had committed a prior offence just weeks
+before this more recent offence and was provided with letters indicating the serious
+consequences of future offences. Counsel further submitted that this present offence
+suggests that he had not learned from his prior mistakes. Further, his lack of participation
+in this disciplinary process demonstrates that he has not taken full responsibility for his
+misconduct.
+
+6
+
+DECISION OF THE TRIBUNAL ON PENALTY
+25. The Tribunal considered the principles and factors relevant to sanction set out in
+University ofToronto and Mr. C(Case No. 1976/77-3, November 5, 1976).
+a) The character of the Student: as the Student did not participate in the proceeding,
+there was no evidence before the Tribunal regarding the Student's character other
+than the facts relating to this offence and the prior offences.
+b) The likelihood of a repetition of the offence: the Student has a prior record of
+academic offences. Given the two recent prior offences, the Panel accepts the
+University's submission that the Student does not appear to have learned from his
+prior mistakes.
+c) The nature of the offence committed: As noted in a number of Tribunal decisions,
+including University of Toronto v. Y.G., (Case No 802, September 28, 2015),
+plagiarism is considered a very serious offence given its negative impact on
+academic integrity at the University. Plagiarism also undermines the relationship
+of trust between the University and its students. As such, it warrants a serious
+penalty.
+d) Any extenuating circumstances surrounding the commission of the offence: the
+Student did not participate in this hearing. Accordingly there is no evidence
+before the Tribunal of mitigating or extenuating circumstances.
+e) The detriment to the University occasioned by the offence: As noted above, such
+offences pose a serious concern and are detrimental to the academic integrity of
+the University.
+1) The need to deter others from committing a similar offence: this is an important
+factor in in plagiarism cases. Plagiarism is a constant threat to the University,
+especially given the increased access to and availability of online sources.
+26. As established in that case and other cases to follow, the determination of an appropriate
+penalty in every case by the Tribunal will depend on an assessment of these principles
+and factors in the individual circumstances of the case. However, the Discipline Appeals
+Board has stressed the importance of a general consistency in the approach of Tribunals
+to sanction, so that the students are treated fairly and equitably. (Discipline Appeal
+Board, University ofToronto v. D. S., Case No 451, August 24, 2007).
+27. A review of similar cases provided by Counsel to the University indicates that a student
+who commits plagiarism usually receives the sanction of a zero grade in the course. With
+respect to the length of the suspension, a three-year suspension is generally consistent
+7
+
+with the sanctions granted in similar circumstances where there is at least one prior
+offence, although there have been cases where a suspension of five years was
+administered.
+28. Having regard to the cases, the submissions of the University, and the relevant factors
+outlined above, the Panel agrees that the recommended sanctions are appropriate.
+29. At the conclusion of the hearing, the Panel made the following order:
+• That the hearing may proceed in the absence of the Student;
+• That the Student is guilty of one count of plagiarism, contrary to section B.I.1(d)
+of the Code ofBehaviour on Academic Matters;
+• That the Student receive a final grade of zero in CIN101H5F in Fall 2015;
+• That the Student be suspended from the University for a period of three years,
+commencing on February 22, 2017 and ending on February 21, 2020.
+• That the sanction be recorded for a period of four years on the Student's
+academic record and transcript to the effect that he was sanctioned for academic
+misconduct, commencing on February 22, 2017 and ending on February 21, 2021;
+and
+• That this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the name of
+the Student withheld.
+30. An Order was signed at the hearing by the Panel to this effect.
+
+DATED at Toronto, May17,2017.
+
+8
+
+

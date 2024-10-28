@@ -1,0 +1,827 @@
+Case No. 1563
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on October 26, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and Y
+
+Z
+
+REASONS FOR DECISION
+
+Hearing Date: April 17, 2024, via Zoom
+Members of the Panel:
+R. Seumas M. Woods, Chair
+Dr. Emily Nacol, Faculty Panel Member
+Samantha Chang, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, for the University
+Sonia Patel, Co-Counsel, for the University
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+Y
+Z
+
+-2The Charges
+1.
+
+On October 26, 2023, the University of Toronto (the “University”) laid the following
+
+charges (the “Charges”) against Y
+
+Z
+
+(the “Student”) under the Code of Behaviour on
+
+Academic Matters, 2019 (the “Code”):
+1.
+
+On or about December 17, 2021, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in connection with the final exam you submitted
+in MAT135H5: Differential Calculus (“MAT135”), contrary to section B.I.1(b) of the
+Code.
+
+2.
+
+In the alternative, on or about December 17, 2021, you knowingly represented as your own
+an idea or expression of an idea or the work of another in the final exam you submitted in
+MAT135, contrary to section B.I.1(d) of the Code.
+
+3.
+
+In the further alternative, on or about December 17, 2021, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the final exam you submitted in MAT135,
+contrary to section B.I.3(b) of the Code.
+
+4.
+
+On or about February 17, 2022, you knowingly had another person personate you during
+an online test in ENV100Y5 (“ENV100”), contrary to section B.I.1(c) of the Code.
+
+5.
+
+In the alternative, on or about February 17, 2022, you knowingly obtained unauthorized
+assistance during the online test in ENV100, contrary to section B.I.1(b) of the Code.
+
+6.
+
+In the further alternative, on or about February 17, 2022, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+
+-3described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with the final exam you submitted in ENV100, contrary to section
+B.1.3(b) of the Code.
+
+The Hearing
+2.
+
+The Tribunal heard the Charges on April 17, 2024 over Zoom. Counsel for the University
+
+was present at the start of the virtual hearing, but the Student was not.
+Ability to Proceed in the Student’s Absence
+3.
+
+As a result of the Student’s failure to attend the hearing, after waiting 15 minutes to ensure
+
+that the Student had the opportunity to attend the hearing, the Tribunal started by considering
+whether or not it could proceed in the Student’s absence. Counsel for the University, Ms. Patel,
+submitted that the University Tribunal’s Rules of Practice and Procedure (the “Rules”) entitled
+the Tribunal to proceed since the Student had been provided with adequate notice of the hearing.
+In support of that position, she provided the Tribunal with affidavits from Natalia Botelho and
+Andrew Wagg.
+4.
+
+Ms. Botelho is an assistant with Ms. Patel’s law firm. In her affidavit, Ms. Botelho
+
+provided information about the Student’s contact information and the efforts the University made
+to contact them based on that information. Ms. Botelho affirmed that:
+(a)
+
+during the course of a meeting between the Student and the Dean’s Designate,
+Professor Shay Fuchs, Professor Fuchs reminded the Student that they needed to
+check their email regularly for important emails, and that if there was something
+important, the Student needed to reply and could not ignore the emails;
+
+-4(b)
+
+on October 26, 2023, the Office of the Vice-Provost, Faculty and Academic Life,
+emailed the charges in this matter to the Student at the Student’s email address in
+the University’s Repository of Student Information (“ROSI”);
+
+(c)
+
+on November 1, 2023, counsel for the University emailed the Student, at the
+Student’s email address on ROSI, a disclosure letter and brief, and a copy of the
+University’s Policy on Official Correspondence with Students. That same day,
+counsel for the University also attempted to call the Student at the phone number
+given for them on ROSI but did not get through. When counsel’s assistant
+attempted to contact the Student at that number, she received an automated message
+stating that the call could not be completed as dialed;
+
+(d)
+
+on January 11, 2024, counsel for the University emailed the Student at the Student’s
+address on ROSI, asking about possible hearing dates. The Student responded to
+that email, stating that “I’m not at U of T anymore. I transferred. Therefore, I do
+not think it is necessary for me to attend this meeting, and I will not reply to all the
+following matters.”;
+
+(e)
+
+after counsel for the University asked for a hearing date, on March 8, 2024, the
+Office of Appeals, Discipline and Faculty Grievances (the “ADFG Office”)
+scheduled the hearing for April 17, 2024 at 5:15 p.m., notifying the Student about
+the hearing date by email sent to the Student’s address on ROSI that same day;
+
+(f)
+
+on March 10, 2024, counsel for the University emailed the Student, forwarding the
+ADFG Office’s email notifying the Student about the date of the hearing, and
+warning them about the Tribunal’s ability to proceed in the Student’s absence;
+
+-5(g)
+
+on April 5, 2024, counsel for the University emailed the Student copies of the
+affidavits on which the University intended to rely in respect of the merits of the
+Charges. Counsel asked the Student if they intended to cross-examine any of the
+affiants;
+
+(h)
+
+on April 9, 2024, Ms. Botelho did a Google search on the Student’s mailing address.
+She discovered that it was linked to the Kent School, a private high school.
+
+5.
+
+Mr. Wagg is the Manager, Incident Response at Information Security, Information
+
+Technology Services at the University. His affidavit evidence was that on March 25, 2024 he
+checked to determine the last time anyone had accessed the email account for the Student in ROSI.
+Mr. Wagg determined that the last time someone had accessed the email account was March 9,
+2024.
+6.
+
+Under rule 13(c) of the Rules, service of charges, notices of hearing and disclosure,
+
+amongst other things, may be served on a student by emailing a copy of the document to the
+students email address contained in ROSI.
+7.
+
+While direct evidence that the Student had personally accessed the email account identified
+
+as the Student’s email account in ROSI after the Charges and the initial Notice of Virtual Hearing
+were emailed to the Student would have established that the Student had had actual notice of both
+the Charges and the date of this hearing, the Rules do not require the University to establish actual
+notice. To the contrary, the Rules allow the University to provide students with documents by
+emailing them to the student at their email address in ROSI. Students are responsible for
+monitoring their account in ROSI. They fail to do so at their own risk.
+
+-68.
+
+In this case, the Student was notified of the Charges by email sent to the Student’s address
+
+on ROSI on October 26, 2023. Counsel for the University emailed the Student about possible
+hearing dates on January 11, 2024. The Student responded that same day, stating in his response
+that in his view he did not believe it necessary to attend the hearing because he was no longer at
+the University. The Student was specifically notified of the date of this hearing by emails sent to
+the Student’s email address in ROSI on March 8 and 10, 2024.
+9.
+
+Based on the evidence before us, we believe that the Student had actual notice of both the
+
+charges and the hearing based on the fact that he responded to the email counsel for the University
+sent to the Student’s ROSI email address on January 11, 2024, after the charges had been emailed
+to him, and Mr. Wagg’s evidence that someone accessed the Student’s email account on March 9,
+2024, the day after the ADFG Office emailed the Student notice of this hearing. While that in
+itself does not establish that the Student themselves accessed the account on that day, we infer that
+the person accessing the account was the Student, given the Student’s previous response to
+counsel’s January 11, 2024 email.
+10.
+
+Applying the Rules to the above evidence, the Student had notice of both the Charges and
+
+the date of this hearing. We could therefore proceed to hear and consider the University’s evidence
+in the Student’s absence under rule 17 of the Rules.
+Merits of the Charges
+11.
+
+In support of its position on the merits of the Charges, the University relied on three
+
+affidavits, the affidavits of Maria Wesslén, Monika Havelka and Shay Fuchs.
+Professor Wesslén’s Evidence
+
+-712.
+
+Professor Wesslén’s evidence dealt with the charges related to MAT135. Professor
+
+Wesslén is an Associate Professor, Teaching Stream, in the Department of Mathematical and
+Computation Science at the University of Toronto Mississauga (“UTM”). Professor Wesslén was
+the course coordinator for MAT135 in Fall 2021. MAT135 was an online course. The Student
+was a student in it.
+13.
+
+The syllabus for MAT135 included a section entitled “Academic Integrity” which
+
+reminded students that the Code continued to apply in the online learning environment. It set out
+examples of potential academic offences, including accessing unauthorized resources during
+assessments and posting test, essay, or exam questions to message boards or social media:
+With regard to remote learning and online courses, UTM wishes to remind students that
+they are expected to adhere to the Code of Behaviour on Academic Matters regardless of
+the course delivery method. By offering students the opportunity to learn remotely, UTM
+expects that students will maintain the same academic honesty and integrity that they would
+in a classroom setting. Potential academic offences in a digital context include, but are not
+limited to:
+•
+
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.)
+for assessments.
+
+•
+
+Using technological aids (e.g. software) beyond what is listed as permitted in
+an assessment.
+
+•
+
+Posting test, essay, or exam questions to message boards or social media.
+
+•
+
+Creating, accessing, and sharing assessment questions and answers in virtual
+“course groups.”
+
+•
+
+Working collaboratively, in-person or online, with others on assessments that
+are expected to be completed individually.
+
+All suspected cases of academic dishonesty will be investigated following procedures
+outlined in the Code of Behaviour on Academic Matters. If you have questions or concerns
+about what constitutes appropriate academic behaviour or appropriate research and citation
+methods, you are expected to seek out additional information on academic integrity from
+your instructor or from other institutional resources.
+
+14.
+
+Students in MAT135 were evaluated on the basis of, among other things, a final exam
+
+-8worth 34% of the final grade in the Course. The exam took place online. Students were required
+to upload their exam answers to Crowdmark in scan, photo, or PDF form. Students were permitted
+to use certain specified resources and websites when writing the exam. These authorized aids were
+limited to resources that had been posted on Quercus by the instructors or Teaching Assistants, a
+scientific or graphic calculator, the Course textbook, personal notes related to official Course
+material, and certain other websites (namely Crowdmark, DESMOS, Piazza, and Zoom). Students
+were prohibited from using any aids outside of these permitted resources.
+15.
+
+The exam coversheet included several reminders about academic integrity and the use of
+
+unauthorized aids. The coversheet reminded students that they “may be charged with an academic
+offence for possessing any unauthorized aids during the writing of an exam” and that if “during an
+exam, [they made] use of any unauthorized aid [they] may be charged with an academic offence.”
+The exam coversheet included a specific reminder that it was “NOT OK to use any online
+resources other than: Quercus, Crowdmark, OpenStax, Calculus Volume 1, DESMOS, Piazza
+(ONLY for making a private post to instructors), Zoom (ONLY for contacting the instructors)”
+(emphasis in original). It also reminded students that they were required to complete the exam
+independently. Students were instructed that it was “NOT OK to communicate with anyone other
+than the instructors during the test” (emphasis in original).
+16.
+
+Students writing the exam were required to complete a digital academic integrity
+
+declaration during the exam window. By signing the declaration, students affirmed that their
+conduct during the exam adhered to the Code and that they had not and would not act in such a
+way that would constitute cheating, misrepresentation, or unfairness, including but not limited to
+using unauthorized aids and assistance, impersonating another person, and committing plagiarism.
+The Student signed the declaration on December 17, 2021 at 12:39 p.m. and submitted their final
+
+-9exam on that same date.
+17.
+
+After the final exam window had closed, the instructor team for MAT135 became aware
+
+that some of the exam questions had been posted to Chegg.com (“Chegg”).
+
+Chegg is a
+
+subscription-based website that allows students to post questions which are then answered by
+“experts”. Chegg was not one of the permitted online resources for the exam.
+18.
+
+When Professor Wesslén was reviewing the Student’s final exam answers, she discovered
+
+that his answer to question 6 of the exam was strikingly similar to the Chegg solution for question
+6, but with certain words removed. In particular, Professor Wesslén noted that:
+(a)
+
+the Student’s answer and the Chegg solution used basically identical line breaks
+and structure. While the paragraph beginning “when bird is x km from…” was not
+in the Student’s answer, the rest of the answers were near identical. The line breaks
+in both answers appeared in the same places;
+
+(b)
+
+the diagrams in both answers faced the same way and used the point labels of A, B,
+and C. These letters were not given in the question and there was no need for any
+labels at all;
+
+(c)
+
+both answers placed the bird at point B, when it should have been at C;
+
+(d)
+
+both answers used “S” to represent distance, but S was not used in the question.
+This is unusual, as usually distance is shown with “D” or “d”;
+
+(e)
+
+both answers did identical “pre-work” before starting question 6(a). Most students
+began by writing (a) at the top of the page, but both the Student and the Chegg
+
+- 10 solution instead structured their answers by only beginning to directly answer (a)
+halfway down the page’
+(f)
+
+the solutions contained identical structure in situations where there were several
+correct ways to structure their solutions, including: (i) using x for multiplication;
+(ii) bringing up the 42 in the numerator, but not simplifying 7x42 as 296; and (iii)
+in the same step, simplifying 72+25 to 74;
+
+(g)
+
+both answers used very similar words in the last few lines. The Chegg solution
+included the word “at” which appeared to be scribbled out. The Student’s solution
+also included the “at”. Similarly, both used the word “so” to start the next line;
+and,
+
+(h)
+
+both answers used the same style of skipping conjunctions in the final sentence,
+“therefore distance not changing”, rather than the full sentence, “therefore the
+distance is not changing”.
+
+19.
+
+Taken as a whole, Professor Wesslén concluded that there were too many similarities
+
+between the Student’s answer and the Chegg solution to be a coincidence. On January 5, 2022,
+she therefore sent the Student an email outlining her concerns with the Student’s exam and inviting
+the Student to meet with her. She advised the Student that their “solution to Question 6 appears
+very similar to a solution found online.”
+20.
+
+The Student responded that the question had appeared in their tutoring class before, and
+
+that the teaching assistant had told the class how to solve the problem. Professor Wesslén advised
+the Student that someone from the Academic Integrity Unit would be in contact to set up a meeting
+
+- 11 and to provide information on the next steps.
+Professor Havelka’s Evidence
+21.
+
+Professor Havelka is an Associate Professor, Teaching Stream, in the Department of
+
+Geography, Geomatics and Environment at UTM. She was one of the instructors for ENV100.
+Like MAT135, ENV100 was an online course in which the Student was a student. Its syllabus
+included the same sections on academic integrity as the syllabus for MAT135.
+22.
+
+ENV100 was divided into three thematic modules. At the end of each module, students
+
+were required to complete a test. Each test was worth 10% of the final grade in the Course.
+23.
+
+The second test in ENV100 took place on February 17, 2022. The test was administered
+
+remotely, and students were expected to complete the test independently. Students were provided
+with a cover sheet for the test in advance so that they could prepare for the test. The cover sheet
+for the test included the following declaration and instructions about academic integrity:
+Academic Integrity
+The University of Toronto Mississauga and you, as a student, share a commitment to
+academic integrity.
+“In submitting this test, I confirm that my conduct adheres to the Code of Behaviour on
+Academic Matters. I confirm that I will NOT act in any way that would constitute
+cheating, misrepresentation, or unfairness, include but not limited to, using
+unauthorized aids and assistance; impersonating another person; communicating with
+anyone during the test for any reason other than logistical or technical problems; and
+committing plagiarism.”
+Aids Permitted:
+During the test, you may consult:
+•
+
+The course required textbook (Environment: The Science Behind the Stories
+by Withgott et al., 2017 – digital or print version);
+
+•
+
+Course lectures and lecture notes (posted on our Quercus site); and
+
+- 12 •
+
+Your own written notes on the lectures or readings (digital or print), as long
+as they only contain your own work, in your own words.
+
+Aids Not Permitted:
+•
+
+Do not access any external websites or apps – only our Quercus site, the
+textbook, the posted lecture notes, and your own writing notes.
+
+•
+
+Do not communicate with anyone during the test, either in person or
+electronically.
+
+•
+
+Do not copy-and-paste or quote directly from lecture notes, the textbook,
+or any other source; this will be an academic offence, even if you include
+a citation and quotation marks.
+
+We will be looking for YOUR thoughts, words, and ideas in response to these
+questions, not ideas from the textbook or notes. If you are reporting on your own
+understanding of the course material, in your own words, you should not need to cite a
+source. If you do refer specifically to information, data, or a figure from the textbook, you
+should include a proper in-text citation (such as Withgott et al., 2017, p. 34).
+USING ANY SOURCES OTHER THAN THE ALLOWED AIDS IS A SERIOUS
+ACADEMIC OFFENCE
+[Emphasis in original]
+
+24.
+
+The test included three scenario-based questions.
+
+Each scenario contained multiple
+
+questions. The questions were a mix of multiple choice and short answer questions. Students
+were only required to answer questions for two out of the three scenarios.
+25.
+
+The Student submitted their test on February 17, 2022, at 8 p.m. The marking Teaching
+
+Assistants flagged the Student’s test as a potential case of academic misconduct. Once the test
+was flagged, Professor Havelka and her co-instructor reviewed the test in greater detail. They
+discovered that the Student had answered most of the questions for Scenario 1 in a different
+language. Of the five questions for Scenario 1, only question 1, which was a multiple-choice
+question, was answered in English. As ENV100 was offered in English, students were not
+permitted to answer questions in any other languages. The Student therefore received no marks
+for questions 2 to 5 of Scenario 1.
+
+- 13 26.
+
+The Student also chose to answer questions for Scenario 2, which similarly consisted of
+
+one multiple choice question and four short answer questions. The Student answered all of the
+questions for Scenario 2 in English, but in doing so used wording that was unusually sophisticated.
+In some instances, this wording went beyond the scope of the Course material or what students in
+the Course (or in any first-year environmental science course at the University) would be expected
+to know. For example, question 4 of Scenario 2 asked the following question:
+The interviewer is particularly interested in forest fires. As a forest scientist, you know that
+boreal forest ecosystems are fire-adapted. What does this mean? Mention and briefly
+explain at least three aspects of fire adaptation in boreal forests. What does it mean when
+we say that forest fires can set up a positive feedback cycle, and is this a good thing? (4
+marks)
+
+27.
+
+The Student answered the question as follows:
+There are many kinds of soil fungi with powerful functions, including saprophytic fungi
+that feed on litter and ectomycorrhizal fungi that associate with white birch and Larix
+gmelinii. Moreover, the northern forest ecosystem has a strong ability to restore the flora.
+After the fire, with the increase of post fire recovery time, the composition of ectophytic
+colonies changes sharply and the diversity is also significantly improved.
+
+28.
+
+Professor Havelka’s evidence was that terms and details such as “ectophytic colonies” and
+
+“Larix gmelinii” (i.e., Gmeli larch) were not taught in ENV100 and were not covered in the Course
+textbook or notes. The instructors in that course did not discuss changes in the diversity of
+saprophytic or ectomycorrhizal fungi in relation to fire adaptation in boreal forests. The Student’s
+answer required sophisticated knowledge of boreal forest ecology beyond the scope of the Course
+and did not fundamentally answer the question about fire-adaptation in forests.
+
+Professor
+
+Havelka’s evidence was that she would expect a student with this type of sophisticated knowledge
+to know that their answer was not responsive to the question asked.
+
+- 14 29.
+
+Upon reviewing the Student’s test answers, she and her co-instructor searched the language
+
+online to determine whether it had been copied from an online source. While they did not find an
+exact match for the wording used in the Student’s test, they identified a news article titled “The
+post-fire ‘road to reconstruction’ of the subterranean fungal kingdom in the boreal forest” that
+contained similar wording. The news article was published on new.qq.com, which is a Chinese
+language news website. The English translation of the article included the following sentence
+which was similar to the Student’s answer for question 4 of Scenario 2: “Soil fungi are diverse
+and powerful, including saprophytic fungi that feed on litter, and ectomycorrhizal fungi that
+associate with birch and Xing’an larch” (emphasis added to show similarities).
+30.
+
+On March 2, 2022, Professor Havelka and her co-instructor emailed the Student to inform
+
+the Student that they suspected that the Student had obtained unauthorized assistance to complete
+the second test. They invited the Student to meet with them to discuss the allegation in greater
+detail or, if the Student did not wish to meet, to respond to the allegation in writing. The Student
+did not respond to the emails. Professor Havelka and her co-instructor therefore reported the
+matter to the Chair of the Department of Geology, Geomatics and Environment.
+Professor Fuchs’ Evidence
+31.
+
+Professor Fuchs is an Associate Professor, Teaching Stream, in the Department of
+
+Mathematical and Computational Sciences at UTM. He also serves as the Dean’s Designate for
+Academic Integrity. In his evidence, Professor Fuchs detailed the Academic Integrity Unit’s
+attempts to set up a meeting with the Student, and what happened at the meeting when it took place
+on October 4, 2022.
+
+- 15 32.
+
+After explaining the academic misconduct process, reminding them that they did not have
+
+to say anything at the meeting but that anything the Student did say would be recorded, and
+explaining the possible sanctions if the Student was found guilty of an academic offence, and the
+Student acknowledging that they understood, Professor Fuchs outlined the allegations.
+33.
+
+Addressing the allegations with respect to MAT135, Professor Fuchs said that a question
+
+that had been posted online looked similar to an answer on the Student’s final exam and that it
+appeared that the Student may have accessed it. The Student said that they had searched for the
+answer online, found it, and written it in their test. When Professor Fuchs asked the Student for
+the name of the website, the Student said that he was not sure because it was their friend who had
+searched for the answer, not them. The Student explained that the friend was their roommate who
+attended a different school. When Professor Fuchs asked whether the website was Chegg, the
+Student said yes. Professor Fuchs explained that in addition to copying a solution that was not
+their own, communicating with another person during the exam was itself an offence. Professor
+Fuchs asked the Student why he had communicated with his roommate during the exam and copied
+the answer from Chegg. The Student stated that they wanted to get a higher score on the final test
+and that when they could not solve the problem, they asked their friend to search for it.
+34.
+
+Professor Fuchs asked the Student about the ENV100 allegations. He explained that the
+
+instructor for the course had observed that the answer to one of the questions used complex
+sentences and that this answer was found online. Professor Fuchs told the Student that it seemed
+that they may have used phrases from a website as their own. The Student responded that ENV100
+was an online course and that they had asked someone else to attend the class for them. They said
+they had not attended the class. Professor Fuchs asked the Student to confirm that they had not
+written the test themselves and that someone else had completed it for them. The Student
+
+- 16 responded “yes”. Professor Fuchs informed the Student that this was a pretty severe academic
+offence and that they could not ask someone to do work and pretend it was the Student. He asked
+the Student how they pleaded. The Student said “guilty”.
+35.
+
+After returning from a short break during which the Student was put into the waiting room,
+
+the Student explained that there may have been something wrong with their earlier explanation.
+They explained that they had only asked their friend to do one question on the ENV100 test, not
+the whole test. I noted that the Student had said that someone had taken the whole course for them.
+The Student clarified that it was “just the test, not the class.” The Student went on to confirm that
+someone else had taken the test on their behalf and submitted it on their behalf.
+36.
+
+Professor Fuchs informed the Student that having someone else write their test for them
+
+was considered personation, a very serious offence, and indicated that due to the severity of the
+offence, he was unable to resolve the MAT135 and ENV100 cases and would be sending the cases
+to the Tribunal level for resolution. Professor Fuchs concluded the meeting by emphasizing the
+seriousness of the personation allegation in particular. Professor Fuchs advised the Student that it
+was very important that they consult a lawyer or law student and that they were eligible for free
+legal counsel through Downtown Legal Services. The Student indicated that they understood.
+Assessment and Conclusion
+37.
+
+Based on the evidence before the Tribunal the Student is guilty of charge one. We agree
+
+with Professor Wesslén that the similarities between the Student’s answer to question 6 of the final
+exam in MAT135 to the answer for that question on Chegg is not a coincidence. They are so
+similar because the Student must have used the answer posted on Chegg to complete the exam.
+Were we in any doubt that the Student had used the Chegg answer to complete their answer on the
+
+- 17 exam, that doubt would have been removed by the Student’s initial admission to Professor Fuchs
+that he had searched for the answer online, found it, and then written it in his answer on the exam.
+His subsequent statement that it was a friend who had looked up the answer and provided it does
+not alter the fact that the Student used an unauthorized aid or obtained unauthorize assistance in
+answering the question.
+38.
+
+Based on the evidence before the Tribunal the Student is also guilty of charge four of
+
+having someone personate the Student in writing the final exam in ENV100. We accept Professor
+Fuchs’ evidence that the Student admitted that they had committed the offence during the Dean’s
+Designate meeting between the Student and Professor Fuchs, that the Student had asked a friend
+to complete one question of the ENV100 test. We believe that in answering some of Professor
+Fuchs’ questions the Student may have been confused, but the Student’s admission that someone
+else had written the test for him did not change at any point during the meeting. The finding that
+someone else wrote the test is also consistent with Professor Havelka’s evidence about the
+sophisticated language in the answer to the second scenario in the test.
+39.
+
+Having concluded that the Student was guilty of the first and fourth charges, the University
+
+withdrew charges two, three, five and six.
+Sanction
+40.
+
+After the Tribunal accepted the Student’s guilty plea on the first of the charges, the hearing
+
+moved into the sanction phase. The University did not adduce any further evidence during this
+stage of the proceedings.
+
+- 18 41.
+
+Counsel for the University asked the Tribunal to make an order recommending to the
+
+President of the University that the President recommend to the Governing Council that the
+Student be expelled, that the Student be immediately suspended from the University for a period
+of up to five years or until the Governing Council makes its decision on expulsion, whichever
+came first, the Student receive final grades of zero in each of MAT135 and ENV100, and that the
+case be reported to the Provost for publication of a notice of the decision of the Tribunal and the
+sanctions imposed, with the name of the Student withheld.
+42.
+
+Counsel for the University submitted that personation in itself was a very serious offence,
+
+for which the typical penalty was a recommendation of expulsion. In support of that submission,
+she referred to a number of cases including University of Toronto and A.N, (Case No. 663, May 9,
+2013), University of Toronto and M.W. (Case No. 585, September 1, 2010), University of Toronto
+and Z.G. and M.J.S. (Cases No. 734 and 735, October 2, 2014) and University of Toronto and
+D.W. and H.L. (Cases No. 578 and 583, December 16, 2010). In all those cases the students were
+found guilty of having someone personate them, or themselves had personated a student on a test
+or examination. In each of those cases the Tribunal concluded that recommending expulsion was
+the appropriate penalty.
+43.
+
+Counsel for the University noted that there were cases in which the Tribunal had imposed
+
+the lesser sanction of a lengthy suspension, but in each of those cases there was one or more
+mitigating factors. Examples of such cases include University of Toronto and H.Z. (Case No.
+1475, July 17, 2023), University of Toronto and F.Z (Case No. 1243, December 20, 2022) and
+University of Toronto and P.L. (Case No. 1211, September 23, 2021). In each of those cases, the
+Student admitted their guilt at an early stage, cooperated with the disciplinary process, and offered
+
+- 19 some explanation and displayed some form of remorse for their actions. The Student did none of
+those things here.
+44.
+
+The factors this Tribunal must consider in deciding what sanction to impose are well
+
+established. The leading case is University of Toronto v Mr. C. (Case No. 1976/1977-3, November
+5, 1976) in which, sitting as a member of the Appellate Division of this Tribunal, former Supreme
+Court of Canada Justice Sopinka described them this way:
+What then are the principles that this Tribunal should follow in dealing with an appeal from
+sentence? First, in my opinion, punishment is not intended to be retribution to get even, as
+it were, with the student for what he has done. It must serve a useful function. The classical
+components of enlightened punishment are reformation, deterrence, and protection of the
+public. In applying these criteria, a tribunal should consider all of the following:
+
+45.
+
+(a)
+
+the character of the person charged;
+
+(b)
+
+the likelihood of a repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the
+offence;
+
+(e)
+
+the detriment to the University occasioned by the offence;
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+Considering each of the above factors, the sanction the University seeks is appropriate.
+(a)
+
+Character:
+
+The Student chose not to participate in the disciplinary process
+
+including the hearing before us. As such, the only evidence of character we have
+are the acts themselves and the Student’s decision not to participate in the
+disciplinary process. Both the acts and the decision not to participate tend to
+support a recommendation for expulsion rather than any lesser penalty.
+
+- 20 (b)
+
+Likelihood of Repetition: The fact that the Student had someone personate them
+in ENV100, only about a month after Professor Wesslén emailed the Student about
+her concerns with the Student’ answers to the test in MAT135, leads us to conclude
+that there is a high risk of repetition if we do not impose a significant sanction.
+
+(c)
+
+Nature of the Offence: Using an unauthorized aid to assist oneself in writing a test
+or exam is a serious offence. Personation is an even more serious offence, meriting
+a serious sanction.
+
+(d)
+
+Extenuating Circumstances:
+
+There is no evidence of any extenuating
+
+circumstances.
+(e)
+
+Detriment to the University: Honesty and integrity form part of the University’s
+core values. Few actions are more dishonest and display a lack of integrity than
+having someone take an examination for oneself. It cannot be tolerated. As such,
+this factor weighs in favour of a serious sanction.
+
+(f)
+
+Deterrence:
+
+A serious sanction will send the message to students that
+
+impersonation is not tolerated at the University. As such, as a matter of general
+deterrence, the Tribunal ought to impose a serious sanction, consistent with those
+imposed by past Tribunals.
+46.
+
+Taking all of the above into consideration, we have concluded that the penalty requested
+
+by counsel for the University is the appropriate sanction in this case.
+Order
+
+- 21 47.
+
+For the reasons set out above, the Tribunal orders that:
+(a)
+
+the hearing may proceed in the absence of the Student;
+
+(b)
+
+the Student is guilty of knowingly using or possessing an unauthorized aid or aids
+or obtaining unauthorized assistance in connection with the final exam in
+MAT135H5, contrary to section B.I.1(b) of the Code;
+
+(c)
+
+the Student is guilty of knowingly having someone personate them during an online
+test in ENV100Y5, contrary to section B.!.1(c) of the Code ;
+
+(d)
+
+the following sanctions shall be imposed on the Student:
+(i)
+
+the Tribunal recommends to the President of the University that the
+President recommend to the Governing Council that the Student be expelled
+from the University;
+
+(ii)
+
+the Student shall be immediately suspended from the University for a period
+of up to five years from April 17, 2024, or until the Governing Council
+makes its decision on expulsion, whichever comes first, and a
+corresponding notation shall be placed on the Student’s academic record
+and transcript;
+
+(iii)
+
+the Student shall receive a final grade of zero in MAT135H5; and
+
+(iv)
+
+the Student shall receive a final grade of zero in ENV100Y5;
+
+- 22 (e)
+
+the case be reported to the Provost for publication of a notice of the Tribunal’s
+decision and the sanctions imposed, with the Student’s name withheld.
+
+Dated at Toronto at this 16th day of August, 2024.
+Original signed by:
+_______________________
+Seumas Woods, Chair
+On behalf of the Panel
+
+

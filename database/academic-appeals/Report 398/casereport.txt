@@ -1,0 +1,779 @@
+THE UNIVERSITY OF TORONTO
+THE GOVERNING COUNCIL
+Report #398 of the Academic Appeals Committee
+July 10, 2018
+To the Academic Board
+University of Toronto
+Your Committee reports that it held a hearing on Wednesday, May 30, 2018 at which the following
+members were present:
+
+Panel:
+Mr. John Monahan, Chair
+Ms. Susan Froom, Student Governor
+Professor Ernest Lam, Faculty Governor
+
+Appearances:
+For the Student Appellant:
+Mr. Eric Sherkin, Counsel, Levine Sherkin Boussidan Barristers
+Ms. M.M., the Student
+For the Division, School of Graduate Studies (“SGS”):
+Mr. Robert A. Centa, Counsel, Paliare Roland
+Ms. Emily Home, Counsel, Paliare Roland
+Prof. Charmaine Williams, Acting Vice-Dean, Students, SGS
+Dr. Natasha Crowcroft, Instructor, Laboratory Medicine and Pathobiology, Dalla Lana School
+of Public Health
+Dr. Nancy Baxter, Associate Dean, Academic Affairs, Dalla Lana School of Public Health
+Hearing Secretary: Christopher Lang, Director, Office of the Appeals, Discipline Faculty
+Grievances
+
+I.
+
+Appeal
+
+The Student appeals a decision of the Graduate Academic Appeals Board (the “GAAB”) dated October
+12, 2017.
+In its decision, the GAAB had dismissed an appeal brought by M.M., a graduate student (“Student”) in
+the Dalla Lana School of Public Health (“School”), concerning a grade she had received on an
+
+2
+assignment in the course Scientific Overviews CHL5418 (“the Course”) and, as a result, in the course
+itself. One of the arguments put forward by the Student before the GAAB was that the mark that the
+impugned assignment had received - 70/100, or a B minus - reflected the application of a 10-point
+deduction for lateness, and that without such a penalty being applied, the paper had warranted a
+grade of at least an 80/100, or an A minus. The GAAB had found that the assignment in question had
+“received a mark of B- on its academic merits” and that “neither [the Tutor who originally marked
+the assignment] or [the Course co-Director who later marked the assignment] had ever applied the
+late penalty.”1 [NOTE: Where we refer in the footnotes to “submissions,” we are referring to the
+respective party’s factum, and where we refer to “materials,” we are referring to the respective
+party’s Book of Documents.]
+The Student had also raised a number of allegations in her appeal before the GAAB of possible
+conflicts of interest on the part of senior administrators of her program at the School who had been
+involved at various stages of either her assessment in the Course or her appeals concerning that
+assessment. The GAAB found that the Student had “(fallen) far short of showing that anyone involved
+in the Student’s case was in a conflict of interest and duty or might be said to have a reasonable
+apprehension of bias.”2 Accordingly, the GAAB had “nothing more to say about (that) aspect of the
+case.”3
+The Student filed a Notice of Appeal of the decision of the GAAB on or about January 17, 2018. At the
+time, the Student also requested a closed hearing “due to the nature of the appeal involving bias
+against (the Student).”4 Prior to the hearing, however, in a discussion with Counsel for both the
+Appellant and the Respondent, the former agreed to waive his client’s request for a closed hearing
+on the condition that his client would be referred to either by her initials or simply as “Student” in
+your Committee’s written decision.
+According to the Student’s written materials, the original basis of her appeal was that the Course coDirector and her Tutor had “falsified the grading process for the course in order to give (the Student)
+a final grade of B”, such a mark being “inconsistent with (the Student’s) record.”5 The initial remedies
+sought by the Student, as outlined in her written submissions, were the following:
+-
+
+-
+
+1
+
+“the return (sic) of [the Student’s] final grade to A”6;
+the ordering of a “new appeal process” should the Student’s grade for Course Assignment #4
+“not be restored to an A-” in recognition of the many alleged procedural irregularities in the
+current process7;
+the Student’s grade for participation changed from 4/5 to 5/58;
+
+Respondent’s materials at Tab 16, p. 5.
+Ibid.
+3
+Ibid.
+4
+Handwritten addendum to Appellant’s Notice of Appeal, January 17, 2018
+5
+Appellant’s submissions at Par. 1.
+6
+Ibid., at Par. 2.
+7
+Ibid., at Par. 69.
+8
+Ibid., at Par. 71.
+2
+
+3
+-
+
+-
+
+a regrading of the Policy Options section of the Course’s Assignment #4 by Dr. Susan Bondy,
+former head of the MPH Epidemiology program at the School that “would return [the
+Student’s] grade to A+ on the assignment”9; and
+changing the Student’s final grade for the Course to “A- at minimum.” 10
+
+Upon questioning by your Committee, the Student amended her pleadings at the hearing so as to
+eliminate certain of the remedies she had been seeking, and to consolidate and clarify others. More
+specifically, at the hearing the Student asked your Committee to allow this appeal and to grant her
+the following two remedies:
+(i)
+(ii)
+
+Return the 10 marks to Assignment #4 that the Student alleges were deducted for
+lateness; and
+Order a re-read of the Policy Options section of Assignment #4.
+
+For its part, the School has responded by submitting that the appeal should be dismissed because the
+Student’s final mark on Assignment #4 had no marks deducted from it for lateness, and because the
+Policy Options section of the Student’s Assignment #4 had already been read by two markers – both
+the tutor and the Course co-Director – who were largely in agreement on its relative strengths and
+deficiencies. Accordingly, there was no compelling reason to order yet another re-read.
+More generally, the School asserts that at all stages throughout the Course, the Student who brings
+this appeal, along with all other students in the Course, was treated fairly and without bias with
+respect to marking and assessment.
+
+II.
+
+The Facts
+
+The Student enrolled in the Masters of Public Health in Epidemiology program (the “Program”) on a
+part-time basis at the Dalla Lana School of Public Health in Fall 2014. At the time, the Student was
+already a two-time alumna of the University of Toronto, having previously received a Bachelor of
+Science degree in 1989 and a Masters of Science degree in 1993. In the meantime, the Student had
+gone on to a career that included both academic and non-academic positions related to her
+educational background in toxicology and pharmacology, including several years as an instructor
+with another local university. She testified before your Committee that her enrolment in the Program
+was intended to expand her knowledge and enhance her employability in the field of public health
+epidemiology specifically.
+The Course was offered in the Winter 2016 term, and the Student enrolled. The Course syllabus was
+provided to all students at or near the start of the term. It both outlined the marking scheme for the
+
+9
+10
+
+Ibid., at Par. 72.
+Ibid., at Par. 73.
+
+4
+course and set out the relevant deadlines. As outlined in a section of the Syllabus entitled
+“Evaluation”11, the marking breakdown for the Course was to be as follows12:
+Assignment #1:
+- A library search strategy on an assigned topic
+- 20% of final mark
+- Due by e-mail to tutors on or before February 1, 2016 by 11:59pm
+Assignment #2:
+- A group oral presentation and a one-page summary
+- 15% of final mark
+- Due February 11, 2016 in tutorial (attendance mandatory)
+Assignment #3:
+- A short answer assignment
+- 20% of final mark
+- Due by e-mail to course directors on or before March 24, 2016 by 11:59pm
+Assignment #4:
+- A final paper on the same topic as in Assignment #1
+- 40% of final mark
+- Due by e-mail to tutors on or before April 14, 2016 by 11:59pm
+Participation:
+- 5% of final mark
+- “Ongoing attendance at and contribution to tutorials, as assessed by tutors”
+Notably, as referenced above, the marking of the students’ work would be shared by the Course
+Directors – of which there were two, Professors Natasha Crowcroft (“Crowcroft”) and Liane
+Macdonald (“Macdonald”) – and by tutors whose other responsibilities included leading regular
+tutorials for a pre-assigned group of the students in the Course. Your Committee heard that there
+were approximately 35 students enrolled in the Course, and that they were divided into five (5)
+distinct tutorial groups. The Student whose work is the subject of the present appeal was one of
+around seven students put into Group A.
+The Syllabus indicates that the topic for both Assignment #1 and Assignment #4 would be “The
+impact of public health interventions to reduce hookah pipe use on health behaviours and outcomes.”
+The Syllabus also indicated that “A late penalty of 10% per day (would) be applied to all late
+assignment submissions.”
+
+11
+12
+
+Appellant’s materials at B21, “Evaluation”, page 9
+Ibid.
+
+5
+The Student failed Assignment #1, “which was worth 20% of the final mark and was marked by a
+tutor named Dr. Brent Moloughney. Dr. Moloughney later confirmed to the Student that her
+numerical mark on the paper had been “between 65-69”.13
+Dr. Moloughney provided extensive comments to the Student on the work she had submitted for
+Assignment #1. He pointed out where the Student’s work was good – for instance, her decision to
+perform a “literature scoping” and to “(describe) why (the) topic (of hookah smoking was) important
+as a health risk” – and also enumerated several stylistic and substantive concerns and
+recommendations regarding the paper. These ran the gamut from some basic items, such as the
+Student’s failure to include a title, name or date with the paper, to the inappropriate use of the firstperson throughout the assignment, to advice on the use of search terms, the use of Boolean logic, and
+the proper form for citations.14
+The Student told your Committee that she had not expected to do particularly well on Assignment
+#1, but that she was not worried in the least as there were still “80 marks available” to her in the
+Course. She had approached the initial assignment in the Course as somewhat of a learning
+opportunity, and she did not challenge the mark provided to her by Dr. Moloughney. The Student
+told your Committee that she “didn’t care” about getting a low mark on Assignment #1, because she
+“knew (she) would be okay.”
+The Student also told your Committee that she felt she had been able to improve upon her work for
+the balance of the term by reading Dr. Moloughney’s comments on Assignment #1 following his
+recommendations. Although she acknowledged that she “didn’t remember” all the ways in which she
+had benefited given the passage of time since early 2016, she did point to her enhanced
+understanding of Search and Boolean logic, how to use and cite references, and the appropriateness
+of arguing by analogy in policy papers, among other areas.
+Later, the Student received strong marks for Assignments #2 and #3. For the second assignment,
+which was a group assignment and was marked by a tutor, she and her group members received a
+mark of A- (80/100); for the third assignment, which was submitted to and marked by the Course
+Directors, she received a mark of A (88/100).
+During the course of the term, the final due date for Assignment #4 was extended for all students
+from April 14 to April 17. This change was communicated to all students in a lecture in early March
+2016; Professor Liane Macdonald, Course Co-Director, personally reminded the Student of this in an
+e-mail dated March 16, 2016.15
+The tutorial for Group A that was originally scheduled to be held on March 24, 2016 was postponed
+until March 31, 2016. All other tutorials groups were held on or about March 24, as originally
+indicated in the syllabus.
+13
+
+Appellant’s materials at B79.
+Respondent’s materials at Tab 7.
+15
+Ibid., at Tab 3.
+14
+
+6
+
+The Student submitted Assignment #4 to her Group’s tutor, Dr. Sarah Frise (“Frise”) and two other
+tutors, during the day on April 18, several hours after the deadline for its submission at 11:59pm on
+April 17. In a subsequent e-mail exchange that day, Frise wrote to the Student to confirm that the
+paper was late, and to advise that “(she believed) that the late submission will result in a 10% hit on
+your assignment grade based on the syllabus.”16 The Student replied as follows:
+Hi, Sarah:
+Yes, it took me a lot longer to do the tables and references than I thought it would, plus I had
+another exam and another assignment last week as well.
+I figured I better get the content complete and take the hit then (sic) hand in an incomplete
+paper.
+Thanks for all your help.
+(Student)17
+
+In answer to questioning by your Committee, the Student advised that she felt that the paper she had
+submitted for Assignment #4 could have warranted a mark as high as 90%. However, on or about
+May 24, 2016, Dr. Frise advised the Student via e-mail that her actual mark on Assignment #4 was a
+B-.18
+In that same exchange, Dr. Frise provided the Student first with a brief list of positive comments about
+the paper, and then with a far longer and much more comprehensive list of both substantive and
+stylistic “Points to Consider for Improvement.” The overall implication of this latter list was that
+these points related to areas of the assignment where the Student had lost marks. When read
+together by your Committee, the overall impression created by the two lists included in Dr. Frise’s email to the Student is that although the paper had some strong points, the Student had not submitted
+a paper that was deserving of a high mark.
+One of the comments provided by Dr. Frise to the Student was that the “top 3 [policy] options
+(identified by the Student in the Policy Options section of the paper) did not seem appropriate.”19
+The Student asked Dr. Frise to provide her with a section-by-section breakdown of how her paper
+had been marked. Dr. Frise responded that “We don’t routinely provide the marks by each section
+since you end up with an overall Grade average (vs. percentage). The marking rubric is really a guide
+16
+
+Appellant’s materials at A6.
+Ibid.
+18
+Ibid., at B53.
+19
+Ibid., at B82, par. 9.
+17
+
+7
+for us to provide some consistency between instructors and for you as students to understand how
+different sections are weighted.”20
+Much later, just prior to the Student’s appeal being heard by the GAAB in October 2017, Dr. Frise’s
+marking sheet for Assignment #4 was submitted as a supplement to the School’s materials. [As noted
+by the GAAB, Counsel for the Student “consented to (its inclusion) and, at the hearing, he did not
+contest its authenticity or reliability.”21] This marking sheet shows that Dr. Frise gave the Student a
+mark of 9 points out of a possible 15 on the “Policy Options” portion of her paper.22
+In her current appeal before your Committee, the Student asserts, in part, that “(she) lost
+approximately 15% on the assignment (#4) because Dr. Frise contradicted the instructions of (the
+Student’s) other tutor Dr. Moloughney with respect to the policy options section of the assignment.”23
+She goes on to describe how “Moloughney instructed the tutorial group on how to determine policy
+options/public health interventions…for hookah smoking based on argument by analogy.”24 She also
+states that the appropriateness of arguing by analogy in such circumstances was confirmed by the
+Course Co-Directors, Drs. Crowcroft and Macdonald.25 However, she asserts that Dr. Frise’s comment
+that the three policy options she had identified in her paper “did not seem appropriate” demonstrates
+an unwillingness to accept or credit the Student’s arguments by analogy26. It is this assertion that
+underlies the Student’s requested remedy of a re-read of the “Policy Options” portion of her paper by
+an objective third party.
+Dr. Crowcroft told your Committee that, as a matter of course, assignments that received low or
+borderline marks by tutors were marked in a “parallel” fashion by one of the Course Directors. In the
+current situation, Dr. Crowcroft told your Committee that at some point between the submission of
+the late paper by the Student on or about April 18, and Dr. Frise’s e-mail exchange with the Student
+of May 24, 2016, she had personally reviewed the Student’s paper and had determined it to merit an
+even lower mark than had Dr. Frise. That is why, on the master Grading Spreadsheet provided by the
+Respondents, on the page summarizing marks given for all students in the Course for Assignment #4,
+the mark for the Appellant in this case is listed as 60/100 after the application of a 10-point
+deduction, and a notation is added to the right of the line that reads, “Note: Currently under review
+& loses 10% for 1 day late.”27
+The Student asked Dr. Frise by e-mail on May 24 whether the B- that had been assigned her paper
+“(included) the 10% (she) indicated that (she was) going to remove for sending the paper in Monday
+
+20
+
+Ibid., at B81.
+Respondent’s materials, Tab 16, page 3.
+22
+Ibid., at, Tab 10.
+23
+Appellant’s submissions, I – OVERVIEW, at paragraph 13.
+24
+Ibid., II – FACTS, at paragraph 26.
+25
+Ibid., at paragraph 27.
+26
+Ibid.
+27
+Respondent’s materials, Tab 6, page 4.
+21
+
+8
+afternoon”. 28 Dr. Frise replied “Yes it does.”29 It is the combination of both an ambiguous question
+and an ambiguous response that is at the core of the subsequent confusion that has arisen over
+whether the promised deduction was applied to the final mark of 70/100 that the Student received
+for her paper.
+Not content with either her mark on Assignment #4 or with the final grade of “B” that she received
+in the Course, the Student met with Dr. Crowcroft, the Course Co-Director, to discuss her concerns at
+some point after her e-mail exchange with Dr. Frise of May 24 and either on or prior to June 3, 2016.
+On June 3, Dr. Crowcroft wrote an e-mail to the Student, in which she confirmed there would be no
+penalty for lateness applied to the Student’s final mark on Assignment #4. Dr. Crowcroft wrote:
+Thanks for meeting with me to discuss Assignment 4. Following our discussion, as agreed, I
+have reviewed the feedback from Sarah Frise, your assignment which I had parallel marked
+previously, and had a discussion with Sarah and Meghan. Overall I found Sarah’s feedback to
+be well constructed and balanced.
+… We had already double-marked any assignments that were in the lower range. The grade
+you had been given was significantly higher than the percentage I had assigned on marking
+in parallel…We had erred on the side of positive in accepting the Tutor’s grade whenever it
+was higher.
+On the other issue of the late deduction and the delayed Tutorial, I have accepted that we should
+remove the late deduction as you requested. This has been done. Because we had already
+reduced the amount of the deduction your final grade was unchanged, however.” [Emphasis
+added]30
+
+III.
+
+The Merits
+
+The Student and the Faculty both provided arguments regarding the substantive merits of the
+Student’s appeal.
+Both parties agreed that the School has a duty to ensure a fair process is instituted and is applied
+consistently. Demonstration of a lack of fairness in the process itself or in its application to the
+Student in question would warrant your Committee granting the present appeal.
+As acknowledged by both parties at the hearing, fairness would also dictate that the Student’s mark
+on Assignment #4 had been calculated using arithmetic that was correct. Your Committee agrees
+
+28
+
+Appellant’s materials at B52.
+Ibid.
+30
+Ibid., at B77.
+29
+
+9
+with that position, and, by extension, would also extend it to the calculation of the Student’s overall
+mark in the Course.
+(i)
+
+Allegations of Bias by Dr. Crowcroft against Student
+
+With respect to the calculation of her mark for Assignment #4, specifically, the Student told your
+Committee that her submission of that assignment several hours after the deadline for its submission
+at 11:59pm the evening before “gave an opportunity for Dr. Crowcroft to falsify the mark for the 4th
+paper.” The Student was then given the opportunity, and took it, to provide evidence to substantiate
+her assertion that Dr. Crowcroft was biased against her personally, and that such bias motivated her
+falsification of the Student’s mark.
+However, despite providing a lengthy description of perceived differences of opinion between herself
+and other academics about the use of certain textbooks in courses she had taught at another
+university, and the perceived professional and/or personal alliances between and among various
+academics and practitioners with whom the Student may or may not have had some degree of real
+or imagined rivalry, the Student failed utterly to provide your Committee with any compelling
+evidence to show any personal or professional bias on the part of Dr. Crowcroft towards the Student
+that might reasonably be expected to manifest itself in the unfair application of marking practices
+towards the Student or that might in any way substantiate the Student’s allegation that Dr. Crowcroft
+“falsified” her mark.
+Your Committee therefore dismisses this assertion entirely, and is focused, instead and exclusively,
+on seeking to ascertain whether, on its face, the School’s treatment of the Student with respect to the
+marking of her fourth assignment for the Course and in the calculation of her overall grade in the
+Course demonstrated unfairness towards her in the interpretation of application of the School’s
+relevant policies, practices or processes.
+
+(ii)
+
+Confusing Communications
+
+Your Committee is in agreement with the GAAB that the School could have done a better job of
+communicating with the Student regarding the application or non-application of the penalty for
+lateness.31 To its credit, the School itself acknowledges how its failure to communicate clearly
+contributed to the situation about which your Committee is now seized. As Counsel for the
+Respondent put it to your Committee, “Maybe if we had communicated differently or better, we
+wouldn’t be here today.” Indeed.
+That said, even the Student’s apparently simple question posed by e-mail to Dr. Frise – “Does this
+grade include the 10% you indicated that you were going to remove for sending the paper in Monday
+
+31
+
+Respondent’s materials at Tab 16.
+
+10
+afternoon?”32 – is not as simple or straightforward as it might initially appear. The question is
+complicated by the fact that a deduction from a grade operates by removing points from that grade.
+In other words, its “presence” is noted by the absence of something else. Therefore, asking if a
+deduction is “included” could conceivably be interpreted to mean, on the one hand, “has a deduction
+already been applied such that my mark has been made lower as a result?”, or, on the other hand, to
+mean “does the mark you have given still include the marks that will eventually be removed once the
+deduction has been applied?”.
+Adding to this inherent complication where deductions are concerned, Dr. Frise replied somewhat
+enigmatically to the Student’s question, “Yes it does.”33 It is the combination of both an ambiguous
+question and an ambiguous response that is at the core of the subsequent confusion that has arisen
+over whether the deduction was applied to the final mark of 70/100 that the Student received for her
+paper.
+As the Respondent notes, “(the Student) could have been inquiring (i) whether her mark ‘included’
+the deduction, that is, that the deduction had been applied, or (ii) whether her mark ‘included’ the
+10% she had been warned would be removed.” The Respondent then goes on to assert that,
+“Regardless of what Dr. Frise intended to convey (in reply to the Student’s question), the fact remains
+that (the Student’s) paper was awarded a mark of B- before any deductions took place, as
+demonstrated on the master grade spreadsheet.”34
+Counsel for the Respondent put it even more succinctly in making oral submissions before your
+Committee. The paper submitted by the Student appellant for Assignment #4 was “never, ever, ever”
+assessed a grade of any more than 70%.
+Your Committee agrees, because there was no compelling evidence submitted by either party to
+suggest otherwise.
+
+(iii)
+
+Calculating the Student’s Final Course Grade
+
+Before the Student’s grade of 70/100 for Assignment #4 was finalized, just as Dr. Frise had originally
+determined it to be, it appears to have also been assessed a 60/100, and then a 63/100 at different
+points in the narrative. For instance, according to the summary page of the Master Grading
+Spreadsheet for the Course provided by the School35, the Student’s “Total weighted (adjusted)”
+Course mark was 73/100 for the Course when Assignment #4 was given only a 7-point deduction for
+lateness instead of a 10-point deduction. That is because a 10-point deduction for lateness resulted
+in a mark of 60/100 on the paper, or 24/40, while a mere 7-point deduction for lateness resulted in
+a mark of 63/100 on the paper, or 25/40. When added to the Student’s marks for the other
+
+32
+
+Appellant’s materials, B52.
+Ibid.
+34
+Respondent’s submissions at par. 35.
+35
+Respondent’s materials at Tab 6
+33
+
+11
+constitutive elements of the overall grade for the Course, the 7-point deduction pushes the Student’s
+overall mark from a B- to a B36:
+i.e.
+-
+
+Assignment #1: 13/20
+Assignment #2: 13/15
+Assignment #3: 17.5/20
+Assignment #4: 25/40 (NB: 63/100 = 25/40)
+Participation:
+4/5
+TOTAL:
+73/100 (weighted)
+Course Grade:
+
+“B”
+
+However, while the final grade of “B” never changed, the numerical grade underlying it did change as
+a result of a subsequent decision by Dr. Crowcroft. As noted above, the Student met with Crowcroft
+in the latter’s office on or about June 3, 2016 and, ostensibly because of the concerns raised by the
+Student about the delay in her group’s final tutorial session to March 31, Crowcroft agreed to remove
+the entire penalty for lateness from the Student’s mark on the paper37; as a result, instead of receiving
+63/100, it received 70/100. This was the same mark that Frise had originally accorded to the paper,
+as seen on that tutor’s marking rubric for Assignment #4.38
+Part of the frustration of the Student is in trying to understand how, if a penalty that was at one point
+applied was later removed, how her final letter grade in the Course did not change. This appears to
+your Committee to be a simple function of arithmetic.
+When converted to a mark out of 40 (since Assignment #4 was worth 40% of the overall grade in the
+Course), 70/100 is the equivalent of 28/40, which adds three (3) additional percentage points to the
+Student’s overall course grade.. That is, 73 + 3 = 76.
+Because at the University of Toronto the range for a “B” for graduate students is from 73% to 76%39,
+the Student’s final course grade remained a “B” even when the 7-point deduction that had earlier
+been applied to her paper was subsequently removed by Dr. Crowcroft. This would explain why Dr.
+Crowcroft advised both the Student and Dr. Baxter that no change in the Student’s final course grade
+resulted from the “removal” of the lateness penalty from the Student’s Assignment #4.40 That is, the
+final Course grade was a “B” (or 73%) when a 7% lateness penalty was applied to Assignment #4,
+and it was still a “B” (or 76%) when the lateness penalty was removed and the paper’s original mark
+of 70/100 restored.
+36
+
+See comment by Dr. Liane Macdonald in Respondent’s materials, Tab 6, page 6, cell AC20.
+Appellant’s materials at B77.
+38
+Respondent’s materials at Tab 10.
+39
+Ibid., at Tab 5, page 3 of 9.
+40
+See, for instance, Dr. Crowcroft’s e-mail to Dr. Baxter at Respondent’s materials, Tab 17.
+37
+
+12
+
+(iv)
+
+Policy Options
+
+Your Committee rejects out of hand the Student’s assertion in her written submissions that the
+Student lost 15% of all potential marks (out of 100) on the Policy Options portion of her Assignment
+#4.41 It is abundantly clear from both the marking rubric used by Dr. Frise to assess the Student’s
+work on Assignment #4 and from the master grading spreadsheet used by the Course Co-Directors
+that the Student was awarded 9 points out of a possible 15 points for the “Policy Options” section of
+her Assignment #4.42 There was no credible evidence shown to your Committee to contradict these
+documents, and certainly none that show the Student receiving a mark of 0/15 for the Policy Options
+section of her paper. The Student’s assertion to that effect in her written submissions is therefore
+both inaccurate and misleading.
+Moreover, as your Committee raised with the Student at the hearing, even if there were an inclination
+to submit the Policy Options section of Assignment #4 to another reviewer, a simple mathematical
+calculation confirms that there are not enough additional marks available to cause the Student’s final
+mark to rise to the levels that she believes it deserves.
+That is, the Student received 9 marks out of 15 on the Policy Options section of her assignment. If
+upon a re-read she were to receive an absolutely perfect mark of 15/15- something accomplished by
+only three of the Student’s 38 classmates - that would account for only 6 more marks out of 100 on
+the assignment, or 76 out of 100, which would in turn translate as 30.4 points out of 40. In that
+instance, the Student’s course mark would only rise to a B+, still falling short of the Student’s
+assertion that your Committee “must [change the Student’s final grade for the Course] to A- at
+minimum,”43 “return [the Student’s] final grade to A”44, or order the re-grading of the Policy Options
+section by Dr. Susan Bondy so as to “return (the Student’s) grade to A+ on the assignment.”45
+ie.
+-
+
+Assignment #1: 13/20
+Assignment #2: 12/15
+Assignment #3: 18/20
+Assignment #4: 30/40
+Participation:
+4/5
+TOTAL:
+78/100
+Course Grade:
+
+41
+
+“B+”
+
+Appellant’s submissions, I-OVERVIEW, at par.13 and 14.
+Respondent’s materials at Tabs 10 and 6, respectively.
+43
+Appellant’s submissions, CONCLUSION, at par. 73.
+44
+Ibid., I-OVERVIEW, at par. 2.
+45
+Ibid., CONCLUSION, at par. 72.
+42
+
+13
+
+But beyond the fact that the end result desired by the Student from a re-read of the “Policy Options”
+section of her paper is not mathematically attainable, your Committee would question its ability to
+order such a re-marking in any event in the absence of any compelling evidence of unfairness in the
+application of the School’s marking policies, practices and procedures. In the current instance, your
+Committee did not read or hear any compelling evidence pointing to such unfairness.
+Rather, your Committee heard that the Student, like all students in the Course whose marks for any
+assignment were on the lower end, had her paper “parallel” marked by Dr. Crowcroft. Your
+Committee also heard that, in instances where a parallel marker arrived at a lower mark than that
+calculated by the original marker, the higher mark would take precedence, as it did in this instance.
+Finally, your Committee both heard from Dr. Crowcroft and saw the notations made on the master
+Grading Spreadsheet by Dr. Macdonald indicating the School’s practice of weighting marks and
+exercising positive discretion in favour of raising students’ marks from one letter grade to another
+wherever reasonable and feasible to do so. As noted above, this practice worked to the benefit of the
+Student when her not-yet-final mark of 72 in the Course was raised to 73 by the reduction of the 10%
+lateness penalty to only 7%, before Dr. Crowcroft ultimately agreed to remove the deduction
+altogether and the Student’s numerical mark increased to 76. Though still a “B”, it is a strong “B” that
+shows the School applying its marking procedures to the Student in a way that was both fair and
+favorable to students.
+
+(v)
+
+Participation Mark
+
+Although the amended remedies being sought by the Student do not include a request for a
+reconsideration of her “Participation” mark, that mark bears mentioning in passing here nonetheless
+because the Student argued before your Committee that she deserved a perfect participation mark
+for the Course of 5/5, instead of the 4 marks out of 5 that she had been given. She asserted this was
+because she had attended all of the lectures and tutorials associated with the Course, and was an
+“extensive contributor” throughout.
+Were the Student’s participation mark to be increased from 4/5 to 5/5 as the Student had originally
+sought in her appeal, her overall mark in the Course would go from 76/100 to 77/100, which would
+also imply that her letter grade would increase from a B to a B+. (NB: B+ for graduate students is a
+mark from 77/100 to 79/100, inclusive.46)
+However, in reviewing the Master Grade Spreadsheet for the Course, it can be seen that of all the
+students in the Course, only one received a perfect participation mark of 5 out of 5 while four received
+marks of 4.5 out of 5, and everybody else in the course received the same 4 marks out of 5 that the
+Student had received. 47 There is certainly nothing on the face of that distribution of participation
+46
+47
+
+Respondent’s materials at Tab 5, p. 3.
+Ibid., at Tab 6.
+
+14
+marks to indicate that the Student was being treated unfairly and, in the absence of any other
+evidence to corroborate such an assertion, your Committee finds that the participation mark she
+received was a reasonable one.
+Therefore, even if the Student were still seeking the originally-requested remedy of a perfect mark
+of 5/5 for participation, which she is not, your Committee would decline to award it.
+
+(vi)
+
+Adverse Impact of Delayed Tutorial
+
+The Student made written submissions48 and spoke about her concerns relating to the re-scheduling
+of her final tutorial session from March 17 to March 24, including the degree to which that
+postponement had adversely impacted her completion and submission of Assignment #4. Your
+Committee asked several questions of the Student about this issue. In doing so, your Committee was
+seeking to ascertain whether the delay of the final tutorial was unreasonable or had constituted
+unfairness towards the Student appellant when compared to other students in the Course.
+Your Committee asked the Student whether she believed that she would have written a better paper
+if the tutorial had not been delayed. The Student replied that she would have done better because it
+would have given her an earlier opportunity to obtain clearer instructions and to ask any questions
+of her tutorial leader(s). However, your Committee takes note of the following:
+
+48
+49
+
+-
+
+The Student confirmed that she had received, read and relied upon the syllabus for the Course
+at the beginning of the term that had provided her with the topic for her final paper, informed
+her that the final paper would be based upon the same topic as the first paper, advised her
+that both Assignments #1 and #2 would be “building blocks” for Assignment #4, and given
+her detailed timelines for the completion of her work. Students were therefore in a position
+to begin thinking about and preparing for the timely completion of Assignment #4 long before
+the final tutorial was held;
+
+-
+
+When in her written materials the Student asserts that “(she) had 6.5 days less to write
+assignment #4 than the rest of the class,”49 it overstates the facts by implying that the Student
+appellant was treated differently than all other students in the Course. In actuality, by her
+own testimony before your Committee, the Student confirms that she was one of seven (7)
+students in Tutorial Group A whose final tutorial was re-scheduled. No evidence was
+submitted to indicate how the rescheduled tutorial did or did not impact those other
+students.
+
+-
+
+No evidence was presented to show that the Student had requested a specific exemption or
+extension in response to the rescheduling of the tutorial;
+
+Appellant’s submissions, I – OVERVIEW, par. 4 & 5
+Ibid., II – FACTS, section sub-heading
+
+15
+-
+
+The Student confirmed at your hearing that she had enjoyed both formal and informal access
+to both Course Directors and tutors throughout the span of the entire Course, and found
+“everyone very open to discussion.” In fact, even when she submitted her late paper on April
+18, the Student wrote to the responsible tutors:
+“Thanks for the tutorials. They were very helpful.”50
+At no time in that e-mail exchange did the Student refer to the delayed date for group “A”’s
+final tutorial as having interfered with her ability to complete the assignment in either a
+timely fashion or to the best of her abilities.
+From the point of view of the School, Dr. Baxter, the Associate Dean of Academic Affairs for
+the School, confirmed that the Student had ongoing access to her tutors throughout the span
+of the Course. In her submission to the Graduate Academic Appeals Board on April 11,
+2017, she wrote:
+“(The Student) had access to her group Tutors and to Liane Macdonald (the course
+co-director) and Natasha Crowcroft…. (The Student) spoke with Liane Macdonald
+and Tutors about the assignment during the course. Thus, the change in the date of
+the tutorial did not materially disadvantage this student – students in her tutorial
+group had the same amount of time to complete Assignment #4 as all other students
+in the course and they had access to feedback throughout.”51
+
+-
+
+In spite of having found the tutors to be “helpful” and approachable, the Student testified to
+your Committee that she had not availed herself of the opportunity to engage with any of her
+tutors about Assignment #4 outside of the formal tutorials.
+
+-
+
+The School told your Committee that there is no policy constraining an instructor’s
+reasonable delay of a tutorial session and that, had the Student requested a specific extension
+in her deadline because of her detrimental reliance on the original timing of the final tutorial,
+it would have been considered. Again, in the event, no evidence of any such request having
+been made was presented to your Committee.
+
+For all these reasons, your Committee does not find that, on its face, the delay in holding the final
+tutorial for group A, constituted either unreasonable or unfair treatment of the Student.
+
+IV.
+
+The Decision
+
+In considering this appeal, your Committee has asked itself whether the relevant policies and
+practices of the School have been applied fairly in this instance. The relevant policies and practices,
+50
+51
+
+Appellant’s materials at A6.
+Ibid., at B72.
+
+16
+though largely unwritten, are those pertaining to the assessment and marking of students’ Course
+assignments and their overall success in the Course itself. Your Committee neither heard nor saw
+evidence to indicate that they had been applied inconsistently, unfairly or with partiality.
+However, as acknowledged by both parties at the hearing, fairness would dictate that the Student’s
+mark on Assignment #4 had been calculated using arithmetic that was correct. Your Committee
+agrees with that position, and, by extension, would also extend it to the calculation of the Student’s
+overall mark in the Course.
+On that point, your Committee notes that the Master Grading Spreadsheet provided by the School
+shows that the Student earned the following marks during the Course:
+-
+
+Assignment #1: 66/100 or 13/20
+Assignment #2: 80/100 or 13/15
+Assignment #3: 88/100 or 18/20
+Assignment #4: 63/100 or 25/40
+Participation:
+4/5
+TOTAL:
+73/100
+
+However, given Dr. Crowcroft’s subsequent agreement with the Student not to apply any deduction
+for lateness to her paper for Assignment #4, as outlined above, the mark for Assignment #4 was
+returned to 70/100 – the same mark originally given it by Dr. Frise. As a result, the amended
+calculation of the Student’s final mark in the Course was as follows:
+-
+
+Assignment #1: 66/100 or 13/20
+Assignment #2: 80/100 or 13/15
+Assignment #3: 88/100 or 18/20
+Assignment #4: 70/100 or 28/40
+Participation:
+4/5
+TOTAL:
+76/100
+
+This was confirmed in the School’s written submissions to your Committee, where it writes:
+When Prof. Crowcroft removed the 7% late penalty applied to (the Student’s) Assignment,
+her mark on the Assignment returned to the 70% she earned on the assignment. As a result,
+(the Student’s) final grade increased from 73% to 76%. This means (the Student’s) final
+grade in the Course remained a B.52
+Therefore, if there were any inclination on the part of your Committee to “return” ten (10) points to
+the Student’s Assignment #4 that she asserts were taken off unfairly for lateness, or if there were any
+inclination to submit the Policy Options section of that same assignment to another marker for
+
+52
+
+Respondent’s submissions, at par. 37.
+
+17
+consideration with the result that it received a higher mark than it had originally, any subsequent
+recalculation of the Student’s final mark would have to start from a base mark of 76/100.
+As it happens, your Committee is not inclined to take either of these steps.
+First, your Committee is convinced that, though the language used by the School to communicate with
+the Student concerning the application or the non-application of the lateness penalty could have been
+clearer, the preponderance of evidence considered by your Committee is that the Student’s
+Assignment #4 had never deserved a mark higher than 70/100. The evidence also shows that no
+penalty for lateness was ultimately factored into the School’s calculation of the Student’s final mark
+on either Assignment #4 or for the Course as a whole. Moreover, because Dr. Crowcroft agreed not
+to include any deduction for lateness in the calculation of the Student’s final mark on Assignment #4,
+there are no points to be “returned” to it.
+Second, the Policy Options section of the Student’s Assignment #4 was already marked twice: first by
+Dr. Frise, the designated tutor, and second by Professor Crowcroft, the Course Co-Director. Your
+Committee sees no justification for the paper being marked by a third person in order, as the Student
+proposes, to “return (sic) (the Student’s) grade to A+ on the assignment.” There was no evidence
+presented to your Committee to substantiate the suggestion that the assignment had ever been
+assessed at anything above a B- level.
+In summary, the Student earned a mark of 70/100, or a low B-, on her paper for Assignment #4, and
+a final mark of 76/100, or a high B, in the Course overall. In the absence of any reason to impugn the
+legitimacy or fairness of either these marks or the procedures used to arrive at them, your Committee
+dismisses the appeal on its merits.
+
+

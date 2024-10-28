@@ -1,0 +1,1001 @@
+Case No.: 1321
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on January 12, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- AND Y
+
+S
+
+REASONS FOR DECISION
+
+Date of Hearing: November 15, 2023, via Zoom
+Members of the Panel:
+Sarah Whitmore, Chair
+Professor Dionne Aleman, Faculty Panel Member
+Ben Kitching, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ryan Shah, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Y
+
+S
+
+\
+
+40839768.1
+39688914.1
+
+2
+
+A. Charges
+1.
+
+On November 15, 2023, this Panel of the University Tribunal held a hearing to
+consider the charges brought by the University of Toronto (the “University”) against
+Y
+
+S
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 2019
+
+(the “Code”).
+2.
+
+Those charges were detailed in a letter to the Student dated January 12, 2022, as
+follows:
+1.
+
+On or about the following dates, you knowingly represented as your own an idea or
+expression of an idea or work of another in connection with the following homework
+assignments in MAT301H1 (the “Course”), contrary to section B.I.1(d) of the Code:
+a) On May 15, 2020 in connection with Homework 1;
+b) On May 29, 2020 in connection with Homework 2;
+c) On June 15, 2020 in connection with Homework 3;
+d) On July 17, 2020 in connection with Homework 4;
+e) On July 31, 2020 in connection with Homework 5; and
+f)
+
+On August 17, 2020 in connection with Homework 6.
+
+2. In the alternative to charges #1(a) to (f), respectively, on or about the following dates, you
+knowingly obtained unauthorized assistance in connection with the following homework
+assignments in the Course, contrary to section B.I.1(b) of the Code:
+a) On May 15, 2020 in connection with Homework 1;
+b) On May 29, 2020 in connection with Homework 2;
+c) On June 15, 2020 in connection with Homework 3;
+d) On July 17, 2020 in connection with Homework 4;
+e) On July 31, 2020 in connection with Homework 5; and
+
+39688914.1
+40839768.1
+
+3
+
+f)
+
+On August 17, 2020 in connection with Homework 6.
+
+3. In the further alternative to Charges #1(a) to (f) and #2(a) to (f), respectively, on or about
+the following dates, you knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in order to
+obtain academic credit or other academic advantage of any kind in connection with the
+following homework assignments in the Course, contrary to section B.I.3(b) of the Code:
+a) On May 15, 2020 in connection with Homework 1;
+b) On May 29, 2020 in connection with Homework 2;
+c) On June 15, 2020 in connection with Homework 3;
+d) On July 17, 2020 in connection with Homework 4;
+e) On July 31, 2020 in connection with Homework 5; and
+f)
+
+On August 17, 2020 in connection with Homework 6.
+
+4. On or about the following dates, you knowingly obtained unauthorized assistance in
+connection with the following quizzes that you submitted in the Course, contrary to section
+B.I.1(b) of the Code:
+a) On May 7, 2020 in connection with Quiz 1;
+b) On May 14, 2020 in connection with Quiz 3;
+c) On May 19, 2020 in connection with Quiz 4;
+d) On May 21, 2020 in connection with Quiz 5;
+e) On May 25, 2020 in connection with Quiz 6;
+f)
+
+On May 28, 2020 in connection with Quiz 7;
+
+g) On June 1, 2020 in connection with Quiz 8;
+h) On June 4, 2020 in connection with Quiz 9;
+
+39688914.1
+40839768.1
+
+4
+
+i)
+
+On June 8, 2020 in connection with Quiz 10;
+
+j)
+
+On June 11, 2020 in connection with Quiz 11;
+
+k) On June 15, 2020 in connection with Quiz 12;
+l)
+
+On July 9, 2020 in connection with Quiz 13;
+
+m) On July 13, 2020 in connection with Quiz 14;
+n) On July 16, 2020 in connection with Quiz 15;
+o) On July 20, 2020 in connection with Quiz 16;
+p) On July 23, 2020 in connection with Quiz 17;
+q) On July 27, 2020 in connection with Quiz 18;
+r) On July 30, 2020 in connection with Quiz 19;
+s) On August 4, 2020 in connection with Quiz 20;
+t)
+
+On August 6, 2020 in connection with Quiz 21;
+
+u) On August 10, 2020 in connection with Quiz 22;
+v) On August 13, 2020 in connection with Quiz 23; and
+w) On August 17, 2020 in connection with Quiz 24.
+5. In the alternative to Charges #4(a) to (w), respectively, on or about the following dates,
+you knowingly represented as your own an idea or expression of an idea or work of
+another in connection with the following quizzes that you submitted in the Course,
+contrary to section B.I.1(d) of the Code:
+a) On May 7, 2020 in connection with Quiz 1;
+b) On May 14, 2020 in connection with Quiz 3;
+c) On May 19, 2020 in connection with Quiz 4;
+
+39688914.1
+40839768.1
+
+5
+
+d) On May 21, 2020 in connection with Quiz 5;
+e) On May 25, 2020 in connection with Quiz 6;
+f)
+
+On May 28, 2020 in connection with Quiz 7;
+
+g) On June 1, 2020 in connection with Quiz 8;
+h) On June 4, 2020 in connection with Quiz 9;
+i)
+
+On June 8, 2020 in connection with Quiz 10;
+
+j)
+
+On June 11, 2020 in connection with Quiz 11;
+
+k) On June 15, 2020 in connection with Quiz 12;
+l)
+
+On July 9, 2020 in connection with Quiz 13;
+
+m) On July 13, 2020 in connection with Quiz 14;
+n) On July 16, 2020 in connection with Quiz 15;
+o) On July 20, 2020 in connection with Quiz 16;
+p) On July 23, 2020 in connection with Quiz 17;
+q) On July 27, 2020 in connection with Quiz 18;
+r) On July 30, 2020 in connection with Quiz 19;
+s) On August 4, 2020 in connection with Quiz 20;
+t)
+
+On August 6, 2020 in connection with Quiz 21;
+
+u) On August 10, 2020 in connection with Quiz 22;
+v) On August 13, 2020 in connection with Quiz 23; and
+w) On August 17, 2020 in connection with Quiz 24.
+
+39688914.1
+40839768.1
+
+6
+
+6. In the further alternative to Charges #4(a) to (w) and #5(a) to (w), respectively, on or
+about the following dates, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the
+Code in order to obtain academic credit or other academic advantage of any kind in
+connection with the following quizzes that you submitted in the Course, contrary to
+section B.I.3(b) of the Code:
+a) On May 7, 2020 in connection with Quiz 1;
+b) On May 14, 2020 in connection with Quiz 3;
+c) On May 19, 2020 in connection with Quiz 4;
+d) On May 21, 2020 in connection with Quiz 5;
+e) On May 25, 2020 in connection with Quiz 6;
+f)
+
+On May 28, 2020 in connection with Quiz 7;
+
+g) On June 1, 2020 in connection with Quiz 8;
+h) On June 4, 2020 in connection with Quiz 9;
+i)
+
+On June 8, 2020 in connection with Quiz 10;
+
+j)
+
+On June 11, 2020 in connection with Quiz 11;
+
+k) On June 15, 2020 in connection with Quiz 12;
+l)
+
+On July 9, 2020 in connection with Quiz 13;
+
+m) On July 13, 2020 in connection with Quiz 14;
+n) On July 16, 2020 in connection with Quiz 15;
+o) On July 20, 2020 in connection with Quiz 16;
+p) On July 23, 2020 in connection with Quiz 17;
+q) On July 27, 2020 in connection with Quiz 18;
+
+39688914.1
+40839768.1
+
+7
+
+r) On July 30, 2020 in connection with Quiz 19;
+s) On August 4, 2020 in connection with Quiz 20;
+t)
+
+On August 6, 2020 in connection with Quiz 21;
+
+u) On August 10, 2020 in connection with Quiz 22;
+v) On August 13, 2020 in connection with Quiz 23; and
+w) On August 17, 2020 in connection with Quiz 24.
+7. On or about August 24, 2020, you knowingly represented as your own an idea or
+expression of an idea or work of another in a test in the Course, contrary to section
+B.I.1(d) of the Code.
+8. In the alternative to Charge #7, on or about August 24, 2020, you knowingly obtained
+unauthorized assistance in a test in the Course, contrary to section B.I.1(b) of the
+Code.
+9. In the further alternative to Charges #7 and #8, on or about August 24, 2020, you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with a test in the
+Course, contrary to section B.I.3(b) of the Code.
+
+3.
+
+At the time of the Charges, the Student was an undergraduate at the University of
+Toronto, in the Faculty of Arts and Science.
+
+4.
+
+The Student did not attend the hearing. They were not represented by counsel.
+The Tribunal called the hearing to order on November 15, 2023, at the scheduled
+9:45 AM start time, through Zoom.
+
+B. Notice and Hearing in the Student’s Absence
+5.
+
+As the Student did not attend the hearing, counsel for the Provost asked the
+Tribunal to find that the Student had been provided with reasonable notice of the
+hearing, and that the hearing should proceed in the Student’s absence, under rule
+
+39688914.1
+40839768.1
+
+8
+
+21 of the Tribunal’s Rules of Practice and Procedure (“Rules”), and section 7 of
+the Statutory Powers Procedure Act, R.S.O. 1990, c. S. 22 (the “Act”).
+6.
+
+Rules 17 and 21 and sections 6 and 7 require that the Provost provide the Student
+with adequate notice of the hearing before the Panel proceeds in the Student’s
+absence. These provisions do not require the Provost to prove that the Student
+actually received the notice. Rather, they require that the Provost establish that the
+University took reasonable steps to notify the Student of the charges against them
+and of the hearing. As explained below, we concluded that it did so.
+(i) Rules relating to Service
+
+7.
+
+The University’s Policy on Official Correspondence with Students requires
+students enrolled at the University to maintain a current and valid postal address
+and an address for a University-issued email account in their ROSI records, to
+update their records when this information changes, and to monitor and retrieve
+their mail and email on a frequent and consistent basis.
+
+8.
+
+Rule 13 of the Tribunal’s Rules states that charges, notices of hearings, disclosure
+and other materials may be served on students by a variety of means, including by
+personal service, by sending a copy of the document by courier to the student’s
+mailing address contained in ROSI, by sending a copy of the document to the
+student’s e-mail address contained in ROSI, or by any other means authorized by
+the University’s Policy on Official Correspondence with Students.
+
+9.
+
+A long period of time has elapsed between when this matter was first brought to
+the Student’s attention and the hearing of this matter. Over the course of the more
+than two-year period, up until May 2023, the Student was active in corresponding
+with the Student Academic Integrity office (“SAI”) in the Faculty of Arts and Science
+and with Assistant Discipline Counsel (but often only on, or very close to, a
+deadline provided by either SAI or Assistant Discipline Counsel). The Student was
+provided with many opportunities to participate in the scheduling of the hearing in
+this matter, including various indulgences either because the Student was out of
+
+39688914.1
+40839768.1
+
+9
+
+the country or because the Student was attempting to obtain counsel. Ultimately,
+as set out below, the Student ceased all correspondence with Assistant Discipline
+Counsel in May 2023.
+10.
+
+As a preliminary matter, we observe that the long period of time between when the
+matter was first brought to the Student’s attention and the hearing was, in part, due
+to the Student’s failure to send responding correspondence to SAI or Assistant
+Discipline Counsel. As noted above, the Student often failed to respond to
+correspondence from the University unless a strict date for response was provided.
+However, we also note that there were long periods of time where Assistant
+Discipline Counsel did not actively seek to continue to move this matter forward.
+For example, while Assistant Discipline Counsel emailed the Student a disclosure
+letter and disclosure brief on March 25, 2022 it was not until July 6, 2022 that
+Assistant Discipline Counsel next communicated with the Student to schedule a
+hearing date. As another example, Assistant Discipline Counsel and the Student
+exchanged emails in September 2022 relating to the Student seeking
+representation from Downtown Legal Services (“DLS”). On September 25, 2022,
+the Student emailed Assistant Discipline Counsel to advise that she had not yet
+heard back from DLS but would contact them on Monday. Notwithstanding the
+Student’s failure to follow up with Assistant Discipline Counsel, there was no
+further communication by Assistant Discipline Counsel to the Student until
+February 1, 2023, when Assistant Discipline Counsel emailed the Student
+requesting her availability for a hearing in this matter. We did not find that these
+long periods of delay in Assistant Discipline Counsel’s correspondence with the
+Student resulted in an absence of reasonable notice, but we do encourage
+Assistant Discipline Counsel to be mindful of continuing to move matters forward
+more diligently in the future.
+
+11.
+
+This matter was first brought to the Student’s attention on June 7, 2021, when she
+was sent an email from SAI inviting her to attend a meeting with a Dean’s
+Designate on June 21, 2021, to discuss the allegations that she had committed
+academic offences in the Course. The Student advised on June 16, 2021, by email
+
+39688914.1
+40839768.1
+
+10
+
+that she would not be able to attend the meeting because she was not in Canada
+and had work. The meeting was then rescheduled for August 19, 2021. The
+Student again requested that the meeting be rescheduled by email on August 5,
+2021, because she was not in Canada. SAI responded to the Student on August
+16, 2021, advising that there would be one final opportunity for a meeting with the
+Dean’s Designate in this matter, which would be scheduled in September 2021.
+12.
+
+The final meeting with the Dean’s Designate opportunity in this matter was
+scheduled for November 18, 2021. SAI advised the Student of this final opportunity
+by email on September 24, 2021. SAI’s September 24, 2021, email advised the
+Student that if the Student did not respond by October 4, 2021 to confirm her
+attendance the case against the Student would be forwarded to the Vice-Provost
+for review. The Student did not respond by the deadline of October 4, 2021. As a
+result, on November 15, 2021, SAI sent the Student an email advising that the
+case against the Student was being forwarded to the Vice-Provost’s office. While
+the Student corresponded by email with SAI on November 17, 2021, the case
+against the Student had already been forwarded to the Vice-Provost’s Office. This
+was reasonable in the circumstances.
+
+13.
+
+On January 22, 2022, the Student was served with the letter detailing the Charges
+by e-mail sent by the Office of the Vice-Provost, Faculty and Academic Life to
+c
+
+.s
+
+@mail.utoronto.ca, which was the e-mail address on file for the
+
+Student in the University’s Repository of Student Information (“ROSI”). This was
+the e-mail address that SAI used for its correspondence with the Student (and the
+e-mail address the Student responded to SAI with). Later, on January 22, 2022,
+the Appeals, Discipline and Faculty Grievances Office (the “ADFG Office”) sent the
+Student an e-mail with the Charges, a copy of the Code, the Rules, and a pamphlet
+with information on DLS, a legal aid clinic staffed by students at the University of
+Toronto Faculty of Law.
+14.
+
+On February 2, 2022, Assistant Discipline Counsel sent an e-mail to the Student
+at c
+
+39688914.1
+40839768.1
+
+.s
+
+@mail.utoronto.ca to introduce herself. This is the e-mail address
+
+11
+
+that Assistant Discipline Counsel used at all times to correspond with the Student,
+subject to an exception noted below. The Student did not respond. On March 25,
+2022, Assistant Discipline Counsel sent the Student a disclosure letter and
+disclosure brief. The Student did not respond.
+15.
+
+On July 6, 2022, Assistant Discipline Counsel first emailed the Student to
+coordinate scheduling a hearing in this matter. She requested a response from the
+Student by July 13, 2022, failing which she would proceed to schedule the hearing
+for a date that was convenient to the University and its witnesses. The Student
+responded by e-mail using the e-mail address c
+
+.s
+
+@mail.utoronto.ca
+
+indicating that she was available to attend a hearing on August 19, 2022 at 1:45
+PM. The Student used this e-mail address to correspond with Assistant Discipline
+Counsel in all cases, subject to an exception noted below. The Student also asked
+in this email to speak with Assistant Discipline Counsel.
+16.
+
+The Student and Assistant Discipline Counsel had a without prejudice phone call
+on July 13, 2022, where Assistant Discipline Counsel agreed to refrain from
+scheduling a hearing until the Student had an opportunity to retain counsel. In
+August and September 2022, Assistant Discipline Counsel and the Student
+exchanged emails relating to the Student’s attempt to contact DLS. On September
+25, 2022, the Student advised Assistant Discipline Counsel that she had not yet
+heard from DLS but would contact them on Monday. The Student then failed to
+respond to Assistant Discipline Counsel. Assistant Discipline Counsel then did not
+contact the Student again for a period of four and a half months and only e-mailed
+the Student again on February 1, 2023. There was no explanation in the evidence
+for this delay.
+
+17.
+
+In her February 1, 2023, e-mail to the Student, Assistant Discipline Counsel
+requested a response from the Student by February 8, 2023, failing which she
+would proceed to schedule the hearing for a date that was convenient to the
+University and its witnesses. On February 6, 2023, the Student e-mailed Assistant
+Discipline Counsel advising, in part: “I’m a little bit confused now. My lawyer said
+
+39688914.1
+40839768.1
+
+12
+
+the case was been [sic] done. There’s no hearing. Didn’t he contact you? I sent
+you an email at the end of October about his information.” Later, on February 6,
+2023, the Student forwarded to Assistant Discipline Counsel a copy of an email
+that the Student purportedly sent to Assistant Discipline Counsel on October 25,
+2022. Unlike the other e-mails that the Student sent to Assistant Discipline
+Counsel, this email was from
+
+@qq.com and read, in part: “Still no [sic]
+
+heard back from the Downtown Legal Services. I found another person who can
+help me with my case. His name is Thomas Yang from Maple Master Service.”
+18.
+
+The e-mail address used in the Student’s October 25, 2022 e-mail to Assistant
+Discipline Counsel was tinalie@paliareroland.com however Assistant Discipline
+Counsel’s e-mail address is tina.lie@paliareroland.com. Evidence from a law clerk
+at Paliare Roland Rosenberg Rothstein LLP indicates that emails sent to
+tinalie@paliareroland.com return a bounce back undeliverable message. The law
+clerk also gave evidence that she had been advised by Ms. Lie that she did not
+receive the October 25, 2022 e-mail. We accept this evidence and find that
+Assistant Discipline Counsel did not receive the October 25, 2022 e-mail.
+
+19.
+
+In February 2023 and March 2023, Assistant Discipline Counsel and the Student
+continued to exchange e-mails relating to the Student’s representative. Through
+those e-mails, the Student advised that her representative Thomas Yang had
+attempted to contact Assistant Discipline Counsel.
+
+20.
+
+On April 26, 2023, Assistant Discipline Counsel tried calling the phone number the
+Student provided for her representative Thomas Yang but the phone number was
+not in service. Assistant Discipline Counsel e-mailed the Student later that day to
+advise of this development. She requested a response from the Student by May
+3, 2023, failing which she would proceed to schedule the hearing for a date that
+was convenient to the University and its witnesses.
+
+21.
+
+On May 1, 2023, the Student e-mailed Assistant Discipline Counsel advising: “Just
+talked with Thomas, he said he will sent [sic] you a copy of how he talked with
+school tribunal office the result from the office of my case immediately.” On May 5,
+
+39688914.1
+40839768.1
+
+13
+
+2023, Assistant Discipline Counsel e-mailed the Student to advise “Your case
+remains outstanding so we need to proceed to schedule the hearing” since she
+had not heard from Thomas Yang. She asked the Student for her availability for a
+hearing in the matter and advised that if the Student did not respond by May 10,
+2023, she would proceed to schedule the hearing for a date that was convenient
+to the University and its witnesses.
+22.
+
+On May 10, 2023, the Student responded to Assistant Discipline Counsel advising
+that she had not been able to speak with Thomas Yang, because she was not in
+Canada and due to time zone differences. The Student asked a number of
+questions about the hearing. Assistant Discipline Counsel waited a month to
+respond to these questions about the Tribunal’s processes and again asked the
+Student for her availability for a hearing. The Student did not respond and ceased
+all correspondence with Assistant Discipline Counsel at that time.
+
+23.
+
+On August 22, 2023, Assistant Discipline Counsel e-mailed the Student to advise
+that they could not proceed to a hearing that summer but provided new hearing
+dates. She requested a response from the Student by August 29, 2023, failing
+which she would proceed to schedule the hearing for a date that was convenient
+to the University and its witnesses. The Student did not respond.
+
+24.
+
+On September 27, 2023, Assistant Discipline Counsel e-mailed the Student to
+advise that she would schedule a hearing for November 15, 2023, at 9:45 AM.
+Assistant Discipline Counsel advised that if the Student did not attend, the hearing
+may proceed in her absence. Later, on September 27, 2023, Assistant Discipline
+Counsel e-mailed the ADFG Office requesting that a notice of virtual hearing be
+issued for November 15, 2023, at 9:45 AM. The Student was copied on this e-mail.
+The ADFG Office sent the Student an e-mail attaching the first Notice of Virtual
+Hearing on September 27, 2023.
+
+25.
+
+Assistant Discipline Counsel made additional attempts to contact and serve the
+Student as follows:
+
+39688914.1
+40839768.1
+
+14
+
+a) On October 20, 2023, Assistant Discipline Counsel attempted to
+call the Student at the phone number in ROSI but the call went to
+voicemail and Assistant Discipline Counsel left a message
+requesting a return call.
+b) On October 27, 2023, a law clerk at Paliare Roland e-mailed the
+Student a letter from Assistant Discipline Counsel providing
+information about the hearing along with the September 27, 2023
+e-mail to the Student from the ADFG Office, the Charges, and
+Assistant Discipline Counsel’s March 25, 2022 disclosure letter.
+c) On October 27, 2023, Assistant Discipline Counsel attempted to
+courier a package to the Student at the Student’s mailing address
+in ROSI. The courier package contained the October 27, 2023
+letter, the September 27, 2023 e-mail to the Student from the
+ADFG Office, the Charges, and Assistant Discipline Counsel’s
+March 25, 2022 disclosure letter. The courier company advised
+Paliare Roland that the package was signed for by the concierge
+of the building at the Student’s mailing address in ROSI.
+d) On October 27, 2023, Assistant Discipline Counsel again
+attempted to call the Student at the phone number in ROSI but the
+call went to voicemail and Assistant Discipline Counsel left a
+message requesting a return call. The voicemail also advised the
+Student to check her e-mail as Assistant Discipline Counsel had
+been trying to get in touch with her to discuss the hearing.
+e) On October 31, 2023, Assistant Discipline Counsel e-mailed the
+Student copies of the affidavits of the Provost’s witnesses advising
+that the Provost would rely on them at the hearing.
+
+39688914.1
+40839768.1
+
+15
+
+f) On November 2, 2023, Assistant Discipline Counsel again
+attempted to call the Student at the phone number in ROSI but
+received a message that the call could not be completed.
+g) On November 3, 2023, Assistant Discipline Counsel e-mailed the
+Student
+
+a
+
+copy
+
+of
+
+the
+
+October
+
+27,
+
+2023
+
+letter
+
+to
+
+@qq.com and also sent the Student copies of the
+September 27, 2023 ADFG Office e-mail, the Charges, and the
+March 25, 2022 disclosure letter.
+3.
+
+The University filed an affidavit by an employee of its Information Technology
+Services department, indicating that the University e-mail account was last
+accessed on November 3, 2023, which was well after all of the attempts to provide
+the Student with notice by e-mail were made (except the attempt at notice to the
+other e-mail address used by the Student noted above in paragraph 25(g)).
+
+26.
+
+Whether or not the Student actually received the notice provided is not the question
+we need to answer. The Student has an obligation to keep her information up to
+date in ROSI and to check her e-mail. The Student’s failure to do so, or the failure
+to respond, does not affect the validity of notice, which was reasonably provided
+in this case in accordance with the Tribunal’s Rules. The Student was active in
+corresponding with SAI and with Assistant Discipline Counsel until May 2023 at
+which point she ceased her correspondence without any explanation. We find this
+was a choice with consequences and therefore the Tribunal ordered that the
+hearing should proceed in the Student’s absence.
+
+27.
+
+As a Panel, we also turned our minds to the question of whether or not Assistant
+Discipline Counsel was obligated under the Law Society of Ontario’s Rules of
+Professional Conduct to cease communicating directly with the Student after
+February 6, 2023, when the Student advised that she was represented by Thomas
+Yang. We accept Assistant Discipline Counsel’s evidence that she unsuccessfully
+attempted to contact Thomas Yang by telephone using the phone number provided
+by the Student and that she searched the Law Society of Ontario’s Lawyer and
+
+39688914.1
+40839768.1
+
+16
+
+Paralegal directory and did not receive any indication that Mr. Yang was a lawyer
+or paralegal. She also googled “Maple Master Service” and was not able to find
+anything relevant. We are satisfied that Assistant Discipline Counsel met any
+obligations owed under the Rules of Professional Conduct in the circumstances.
+We make no findings in respect of whether Thomas Yang was a fiction.
+C. Liability
+28.
+
+The following summarizes our reasons for concluding that the Student violated the
+Code and therefore committed an offence.
+
+29.
+
+The Student was enrolled in MAT301H1Y (the “Course”) in the summer of 2020.
+The instructors for the Course were Matt Olechnowicz and Shuyang Shen.
+
+30.
+
+The Course is a third-year undergraduate level math course about group theory, a
+branch of abstract algebra. The Course was taught online due to the COVID-19
+pandemic.
+
+31.
+
+The Course syllabus brought the Code to students’ attention and outlined
+behaviours that constitute academic misconduct. Matt Olechnowicz advised
+students of academic integrity during the first lecture in the Course.
+
+32.
+
+The grading scheme for the Course required that students submit several
+assessments for credit, including:
+a) Six homework assignments. Each homework assignment was
+worth 8% of the final mark in the Course, with each student’s lowest
+scoring homework assignment being dropped;
+b) 24 quizzes. Each quiz was worth 1% of the final mark in the Course,
+with only the 20 highest quiz scores counting towards a student’s
+final mark; and
+c) A final test. This was a take-home, open book examination that was
+worth 15% of the final mark in the Course. As part of the final test,
+
+39688914.1
+40839768.1
+
+17
+
+the Student completed and signed an academic integrity
+declaration that read, in part: “I vow to complete this exam
+individually, neither accessing nor requesting access to any
+unauthorized aid, and neither providing assistance to nor seeking
+assistance from any other individual.” The first page of the test
+advised students that it was to be written individually.
+33.
+
+Students were required to complete each of these assessments independently.
+
+34.
+
+In this case, our review of the evidence establishes on a balance of probabilities
+that the Student had access to a subscription-based website called Chegg. Chegg
+allows students to post problems to the site, which are then answered by so-called
+“experts”. Subscribers are able to access the questions and answers posted by
+others on the site.
+i. Homework Assignments (1-3, 5-6)
+
+35.
+
+The Panel has reviewed the evidence and concluded that the Student is guilty on
+a balance of probabilities for plagiarism contrary to section B.I.1(d) of the Code in
+respect of homework assignments (1-3 and 5-6).
+
+36.
+
+The Student’s answers to these homework assignments contain highly similar
+answers that were posted on Chegg in response to questions from assignments in
+the course (the “Chegg Answers”) in that the Student’s answers are highly similar
+in structure, notation and method. There were also many suspicious similarities
+between the Student’s answers in these homework assignments and the Chegg
+Answers. The Provost provided evidence of comparisons between the Student’s
+answers and the Chegg Answers for these homework assignments (at Exhibits G,
+K, O, U, and Y to Matt Olechnowicz’s affidavit), which establish, on a balance of
+probabilities, that the Student knowingly represented as their own an idea or
+expression of an idea or work of another, contrary to section B.I.1(d) of the Code.
+ii. Homework Assignment (4)
+
+39688914.1
+40839768.1
+
+18
+
+37.
+
+The Panel has reviewed the evidence and concluded that the Student is guilty on
+a balance of probabilities for obtaining unauthorized assistance contrary to section
+B.I.1(b) of the Code in respect of homework assignment (4).
+
+38.
+
+While there were no suspicious similarities between the Student’s answers in this
+homework assignment and the Chegg Answers, the evidence establishes on a
+balance of probabilities that the Student viewed several Chegg Answers before the
+Student submitted homework assignment (4). In so doing, we find the Student
+knowingly obtained assistance in connection with homework assignment (4), even
+if she did not incorporate any of the Chegg Answers into her own answers, contrary
+to section B.I.1(b) of the Code.
+iii. Quizzes (1, 3-24)
+
+39.
+
+On September 10, 2020, Matt Olechnowicz met with another student enrolled in
+the Course (“D.Z.”) to discuss an allegation that he had committed academic
+offences on assessments in the Course. During that meeting, D.Z. claimed that he
+had copied his answers to homework assignment (4) from the Student. The
+answers did not match, so Mr. Olechnowicz suspected that D.Z. was not being
+honest. Mr. Olechnowicz remained concerned that D.Z. and the Student may have
+improperly collaborated on other assessments in the Course, so he compared all
+of D.Z.’s assessments to those of the Student.
+
+40.
+
+The results of Mr. Olechnowicz’s review indicated the following unusual similarities
+between the quizzes (1, 3-24) of the Student’s and the quizzes (1, 3-24) of D.Z.:
+a) the vast majority of both students’ quizzes were submitted at very
+similar times within the 24-hour submission window (a chart of
+these similarities is set out at Exhibit VV to Matt Olechnowicz’s
+affidavit);
+b) the vast majority of both students’ quizzes obtained similar scores,
+often submitting the same incorrect answers – both students
+
+39688914.1
+40839768.1
+
+19
+
+obtained an identical score and submitted identical incorrect
+answers for quizzes 6, 8, 12, 13, 15, 16, 18, and 22;
+c) on quizzes 8, 13, 14, 15, 16, 19, 20, 22, and 23 the students
+completed difficult questions almost instantaneously; and
+d) D.Z. later admitted to collaborating on the quizzes with the Student.
+41.
+
+In respect of this evidence, we noted that the only evidence tendered by the
+Provost in connection with quizzes 1 and 21 was the admission by D.Z. as to his
+collaboration with the Student. None of the other suspicious circumstantial
+evidence existed in respect of quizzes 1 and 21.
+
+42.
+
+The Panel has reviewed the above evidence and concluded that the Student is
+guilty on a balance of probabilities for unauthorized assistance contrary to section
+B.I.1(b) of the Code in respect of quizzes (3-20, 22-24). There was no
+circumstantial evidence to establish any unauthorized assistance in respect of
+quizzes (1, 21) and therefore the Panel concluded that the Student was not guilty
+on a balance of probabilities for unauthorized assistance contrary to section
+B.I.1(b) of the Code in respect of quizzes (1, 21).
+iv. Final test
+
+43.
+
+The final test was posted on August 20, 2020, and was due on August 24, 2020.
+We find the Student guilty on a balance of probabilities for plagiarism contrary to
+section B.I.1(d) of the Code.
+
+44.
+
+The Student’s answers to numerous questions on the final test contain unusual
+similarities to Chegg Answers to the same questions. The Provost provided
+evidence of comparisons between the Student’s answers and the Chegg Answers
+for the final test (at Exhibit DD to Matt Olechnowicz’s affidavit), which establish, on
+a balance of probabilities, that the Student knowingly represented as their own an
+idea or expression of an idea or work of another, contrary to section B.I.1(d) of the
+Code.
+
+39688914.1
+40839768.1
+
+20
+
+D. Sanction
+
+46.
+
+The Provost sought an order imposing the following sanctions on the Student:
+a) a final grade of zero in MAT301H1Y;
+b) a suspension from the University for four years from the date of the
+Tribunal’s order;
+c) a notation of the sanction on the Student’s academic record and
+transcript for five years from the date of the Tribunal’s order; and
+d) the case be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the name of
+the Student withheld.
+
+47.
+
+In determining the sanction, the Tribunal has considered the factors set out in the
+decision University of Toronto and Mr. C. (Case No. 1976/77-3, November 5,
+1976). This is the leading decision on sentencing principles. We discuss below
+some of the important factors we think are relevant to the Student’s circumstances
+in this case and that weigh in our determination on the appropriate sanction.
+
+48.
+
+Counsel for the Provost submitted a book of authorities and referred to several
+cases in argument in addition to the Mr. C. case. In particular, we were taken to
+the cases of University of Toronto and B.S. (Case No. 697, January 17, 2014),
+University of Toronto and S.P. (Case No. 1276, May 16, 2022), and University of
+Toronto and S.E.C. (Case No. 1215, January 13, 2022), in which the students were
+found to have committed similar academic offences to the Student in this case.
+
+49.
+
+Here, the Student did not participate in a Dean’s Designate meeting, nor did she
+attend the hearing. While the Student is under no obligation to participate or attend,
+her failure to do so is relevant because we are left without any evidence of remorse.
+
+39688914.1
+40839768.1
+
+21
+
+Nor is there any evidence that the Student has attempted to take responsibility for
+her conduct. While a decision not to participate at a hearing is not necessarily an
+aggravating factor, we find that in the circumstances we have no evidence that a
+more lenient sanction should be imposed in this matter on the basis of the
+Student’s character. Because the Student did not attend the hearing, there was no
+evidence of any mitigating circumstances in this matter.
+50.
+
+On the issue of whether the Student attempted to delay or frustrate this matter, we
+do not accept Assistant Discipline Counsel’s submissions that the evidence
+establishes such an aggravating factor. While the pattern of correspondence with
+the Student and SAI as well as Assistant Discipline Counsel demonstrates that the
+Student either failed to respond or would only respond shortly before, or on, a
+deadline provided by SAI or Assistant Discipline Counsel, we do not accept that
+this pattern establishes that the Student was expressly attempting to delay or
+frustrate this matter. Moreover, we have not made any findings on whether
+Thomas Yang was fictitious and while we accept that Assistant Discipline Counsel
+did not receive the October 25, 2022 email sent to tinalie@paliareroland.com, we
+also find that there was an unexplained and unreasonably lengthy delay on
+Assistant Discipline Counsel’s part in attempting to communicate with the Student
+between September 2022 and February 2023.
+
+51.
+
+In respect of aggravating factors that were established on the evidence, we find
+that there is a likelihood of repetition given the number of offences in this matter
+and that very significant time and resources were required to prepare for the
+hearing in this matter as a result of the Student’s failure to participate at virtually
+all stages in the process.
+
+52.
+
+As a final matter, the Panel considered the sanction imposed on D.Z. While he was
+alleged to have committed many of the same offences as the Student, he did not
+receive a suspension. D.Z. participated in a Dean’s Designate meeting on
+February 23, 2022, and admitted guilt in respect of certain offences with which he
+was charged. At that meeting, he was sanctioned with a final grade of zero in the
+
+39688914.1
+40839768.1
+
+22
+
+Course and a notation on his academic record and transcript from February 23,
+2022, until April 30, 2023.
+53.
+
+We considered a recent case of the Discipline Appeals Board in University of
+Toronto and X.M. (Case No. 1388, September 12, 2023) where the Discipline
+Appeals Board explained certain principles that ought to apply in sanctioning two
+(or more) students who are found guilty of the same offences. In the X.M. decision,
+the Discipline Appeals Board acknowledged that “a sanction imposed at the end
+of a contested hearing will almost always be more serious, frequently significantly
+so, than the sanction that would have been imposed had a student acknowledged
+the offence immediately.” However, the Discipline Appeals Board also explained
+the importance of ensuring “a rational relationship, connected to the reasons for
+imposing a more serious sanction, between the sanctions imposed on a student
+who immediately admits an offence, and one who unsuccessfully contests it.”
+
+54.
+
+In the circumstances of this case, particularly where the Panel did not accept the
+Provost’s submissions on certain aggravating factors, having regard to the
+sanction imposed on D.Z. and based on its review of similar cases presented by
+Assistant Discipline Counsel, which are not binding on us but are useful in ensuring
+that the Tribunal renders decisions that are consistent, the Panel made the
+following order:
+a) The Student is guilty of:
+
+i.
+
+knowingly representing as their own an idea or expression of an idea
+or work of another in five homework assignments and a final test that
+they submitted in MAT301H1Y, contrary to section B.I.1(d) of the
+Code; and
+
+ii.
+
+knowingly obtaining unauthorized assistance in one homework
+assignment (4) and 21 quizzes (3-20, 22-24) they submitted in
+
+39688914.1
+40839768.1
+
+23
+
+MAT301H1Y, contrary to section B.I.1(b) of the Code.
+
+b) The following sanctions shall be imposed on the Student:
+
+i.
+
+a final grade of zero in the course MAT301H1Y in summer 2020;
+
+ii.
+
+a suspension from the University of Toronto for a period of three
+years, commencing on November 15, 2023, the date of the
+Tribunal’s Order; and
+
+iii.
+
+a notation of the sanction on the Student’s academic record and
+transcript for a period of four years commencing on November 15,
+2023, the date of the Tribunal’s Order.
+
+c) This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the name of the
+Student withheld.
+Dated at Toronto, this 27th day of February 2024,
+
+Original signed by:
+__________________________________________
+Sarah Whitmore, Chair
+On behalf of the Panel
+
+39688914.1
+40839768.1
+
+

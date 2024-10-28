@@ -1,0 +1,406 @@
+Case No. 1262
+
+THE DISCIPLINE APPEALS BOARD OF THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on September 20, 2021
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am.
+S.O. 1978, c. 88
+BETWEEN:
+UNIVERSITY OF TORONTO
+-ANDG
+
+L
+
+REASONS FOR DECISION ON MOTION
+
+Date: March 14, 2022, via Zoom and written submissions in May 2022
+Chair:
+Ms. Lisa Brownstone, Associate Chair
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein
+LLP (as he then was*)
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and
+Faculty Grievances
+Not In Attendance:
+Ms. G
+L
+*The Honourable Justice Robert Centa was appointed as a Judge of the Superior Court
+of Justice of Ontario.
+
+-2-
+
+A. Introduction
+[1]
+
+The Provost asks that Ms. G
+L ’s (the “Student”) appeal be dismissed
+summarily and without a formal hearing because it is “frivolous, vexatious or
+without foundation” under section E.7(a) of the Code of Behaviour on Academic
+Matters.
+
+[2]
+
+For the reasons that follow, I conclude that I have jurisdiction to dismiss the appeal,
+and to do so following a written hearing. I further conclude that the appeal is
+frivolous, vexatious and without foundation and should be dismissed.
+
+B. Background
+[3]
+
+The Student was enrolled in a calculus course in the Department of Mathematics,
+MAT135 (the “Course”), in the summer of 2020. The Course requirements included
+an assignment that was required to be completed independently, without external
+assistance, between June 1 and June 8, 2020.
+
+[4]
+
+The Student submitted an answer on one of the assignment questions that was
+virtually identical to an answer submitted by another student (Mr. C.). An
+investigation revealed that the answer provided by both students was very similar
+to an answer posted on a website called “Chegg.com”, a website that, for a fee,
+permits students to provide questions that will be answered by an “expert”.
+
+[5]
+
+As the investigation proceeded, Mr. C. acknowledged that he had worked with
+another student in securing the answer from Chegg.com but maintained that he
+did not remember the identify of that student.
+
+[6]
+
+The Student Academic Integrity (“SAI”) office attempted to engage with the Student
+about this matter. Although she was provided three opportunities to meet with the
+Dean’s designate to discuss the allegations, she did not attend any of those
+meetings, and engaged in very little communication with the SAI. Allegations were
+subsequently referred to the Tribunal for hearing.
+
+[7]
+
+The Tribunal convened on December 9, 2021. Although it found that the Student
+had received proper notice of the proceedings, it granted a short adjournment and
+directed Assistant Discipline Counsel to advise the Student that although an
+adjournment was granted, it would likely be the final chance to respond to the
+allegations, and if the Student failed to attend the next hearing without reasonable
+excuse, the matter would likely proceed. In addition, Assistant Discipline Counsel
+was directed to provide the Student with contact information for potential pro bono
+counsel, to ask the Student if there were any dates in 2022 when she was not
+available, and to advise the Student that, should she fail to provide a date, a
+hearing date would be selected without regard to her schedule.
+
+[8]
+
+After receiving the above information, the Student did engage briefly with Assistant
+Discipline Counsel. Soon, however, she failed to join a Zoom call initiated at a time
+she had said she was free, and then failed to respond to other messages.
+
+-3-
+
+[9]
+
+Therefore, on January 4, 2022, a Notice of Electronic Hearing was issued to the
+Student for a hearing that would occur on January 11, 2022. The Tribunal
+reconvened on that date, the Student did not attend, and the hearing proceeded in
+her absence.
+
+[10]
+
+The Tribunal found that the Student was guilty of unauthorized assistance and
+plagiarism and imposed a sanction of a final grade of zero in the Course, a
+suspension from the University from the date of the Order until December 31,
+2023, and a notation of the sanction on the Student’s academic record and
+transcript for three (3) years from the date of the Order.
+
+[11]
+
+The next day, the Appeals, Discipline and Faculty Grievances Office (the “ADFG”)
+sent the Student a hearing outcome letter and the Tribunal’s Order. Several days
+later, the Student emailed Assistant Discipline Counsel about her case and on
+February 3, 2022, she filed a Notice of Appeal. She indicated that the grounds for
+her appeal were that she was not in attendance and was not represented at the
+hearing.
+
+[12]
+
+On February 22, 2022, the Tribunal released its Reasons for Decision. It found that
+the Student was fully aware of the timing, subject-matter and evidence to be
+tendered against her in the proceedings, and was also fully aware of the
+consequences of non-attendance at the hearing. It provided reasons for its finding
+that she had either copied her answer to question 5 of the assignment directly from
+Chegg.com or had copied her answer from Mr. C.’s answer. In either event, the
+Student had engaged in academic misconduct.
+
+[13]
+
+That same day, Assistant Discipline Counsel requested a timetable for the
+exchange of materials on her appeal. Once again, a period of non-responsiveness
+from the Student ensued.
+
+[14]
+
+I was assigned by the Senior Chair to hear this matter. I issued two Directions to
+ensure the appeal proceeded in a timely fashion: the first Direction on March 16,
+2022, required the Student to provide materials in support of her appeal on or
+before April 22, 2022, failing which the Provost was permitted to serve and file
+written materials in support of a motion to dismiss her appeal on or before May 6,
+2022. The Direction specifically also provided that should either the Student or the
+Provost wish to alter any of the dates in advance of any of the dates, I would be
+available for a further Proceedings Management Conference.
+
+[15]
+
+The Student made two attempts to email the ADFG Office: first on April 3, 2022,
+asking about the March 14, 2022 case conference; and then on April 21, 2022,
+asking what she needed to provide by the due date (the next day). The ADFG duly
+and promptly responded.
+
+[16]
+
+On the due date (April 22), the Student sent a brief email setting out her explanation
+of what had happened with respect to the underlying misconduct, which I shall
+refer to in more detail later in these reasons (“the explanatory email”).
+
+-4-
+
+[17]
+
+On April 26, 2022, the ADFG Office asked the parties to provide their availability
+for another Proceedings Management Conference. Again, the Student did not
+respond. I then issued a second Direction on April 29, 2022, indicating that since
+the Student had not submitted complete appeal materials, had not requested a
+change to the timetable outlined in the March 16, 2022 Direction, and had not
+responded to the ADFG’s attempt to set another Proceedings Management
+Conference, the Provost could move for dismissal of the appeal. The Provost did
+so move, in accordance with the March 16, 2022 Direction, for an “in writing”
+Dismissal Order. The Student, of course, was given an opportunity to respond to
+that in writing motion.
+
+[18]
+
+No response was received from the Student. During the summer, while the Motion
+for Dismissal was under reserve, the Student sent a few emails to counsel and the
+ADFG. Again, those emails were unresponsive to the issues at hand. Other than
+the explanatory email referred to above, the Student’s emails were unresponsive
+to the requirements and issues and form no part of this decision.
+
+C.
+
+The Issues
+
+[19]
+
+The first issue on this motion is whether the Tribunal, as a single member, has
+jurisdiction to entertain the Provost’s Motion to Dismiss. If the Tribunal has
+jurisdiction, the second issue is whether the Student’s appeal should be dismissed
+on grounds that, as asserted, it is frivolous, vexatious or without foundation.
+
+[20]
+
+In terms of jurisdiction, I have the benefit of an unusually similar case recently
+decided by Associate Chair Michell (University of Toronto and R.S. (Case No.
+1100, February 8, 2022) (Appeal Motion)(“R.S.”)).
+
+[21]
+
+In R.S., the Discipline Appeals Board of the Tribunal considered the two issues this
+motion raises at issue in this motion. The first issue is whether a single member of
+the Board has jurisdiction to hear and decide the motion; the second, if jurisdiction
+is found, was the student’s appeal frivolous, vexatious or without foundation?
+
+I) The Single Member’s Jurisdiction
+[22]
+
+I agree with the conclusion in R.S. that the Tribunal has jurisdiction to hear this
+appeal, sitting as a single member. Specifically, the Statutory Powers Procedure
+Act, R.S.O. 1992, c. S.22 (“SPPA”) applies to appeals to the Discipline Appeals
+Board from decisions of the Tribunal’s Trial Division, and section 4.2.1(1) of the
+SPPA, permits a single member of the Discipline Appeals Board to decide a
+motion.
+
+[23]
+
+Historically, university discipline tribunals were arguably not the sort of tribunals to
+which the SPPA would directly apply; the relationship between student and
+University as it relates to academic matters has been characterized as contractual,
+as opposed to statutory. However, the courts have long distinguished between
+procedural and substantive matters in this regard and have been willing to
+intervene on procedural matters. (See, for example, Re Polten and Governing
+
+-5-
+
+Council of University of Toronto (1976), 8 O.R. (2d) 749 (Divisional Court); 1975
+CanLII 709). In the case before me, the specific provisions adopted by the
+University lead me to conclude that the SPPA applies.
+[24]
+
+The University has codified the relationship between the student and the
+University, when it comes to academic matters, in the Code of Behaviour on
+Academic Matters issued by the University’s Governing Council (the “Code”),
+section C.II(a).7 of the Code provides:
+The procedures of the Tribunal shall conform to the requirements of the Statutory
+Powers Procedure Act... as amended from time to time.
+
+[25]
+
+Section C.II.(a). 11 of the Code provides: The Divisions of the Tribunal are:
+(a)
+
+Trial; and
+
+(b)
+
+Appeal.
+
+[26]
+
+Thus, the University itself has determined that SPPA procedures are to apply to
+these hearings and appeals. I do not view the fact that the University chose to use
+the language “conform” rather than “apply” to be a material distinction – the
+University has expressly elected to import the SPPA into its Code. I am confident
+that the language distinction between “conform” and “apply” would not aid the
+University should it attempt not to comply with the SPPA. Thus although the
+Provost, in written argument, relied on R.S. for the proposition that the Tribunal
+“behaves as though the SPPA applies”, I read that decision, and section C.II.(a).7,
+as going farther than that - the University has chosen to have the procedures
+established in the SPPA apply and has so advised the student by the inclusion of
+section C.II.(a)7.
+
+[27]
+
+Section 4.2.1(1) of the SPPA provides:
+The chair of a tribunal may decide that a proceeding be heard by a panel of
+one person and assign the person to hear the proceeding unless there is a
+statutory requirement in another Act that the proceeding be heard by a panel
+of more than one person.
+
+[28]
+
+I agree with the observation in R.S. (para. 51) that there is no statutory provision
+to the contrary. Given that there is no conflicting statutory requirement in any Act,
+I conclude that section 4.2.1(1) of the SPPA applies and I may hear this motion.
+
+II) Is the Appeal frivolous, vexatious and without foundation?
+[29]
+
+Section E.7(a) of the Code gives the Discipline Appeals Board the power “to
+dismiss an appeal summarily and without formal hearing if it determines that the
+appeal is frivolous, vexatious or without foundation.” I agree with the reasons and
+conclusions in R.S. that a written hearing complies with this provision – it is a way
+
+-6-
+
+(although not the only way) in which to determine a matter summarily and without
+formal hearing.
+[30]
+
+An appeal can be classified as frivolous or vexatious if the student takes no steps
+to move the appeal forward and fails to engage with the process or comply with
+Directions. While a motivation to appeal may have existed initially, and may still
+exist in some intangible sense, the failure to engage in the process or to be
+responsive to the Tribunal’s, ADFG’s and counsel’s attempts to move the matter
+forward can render the appeal frivolous or vexatious.
+
+[31]
+
+Whether the appeal is without foundation is concerned with the merits of the
+appeal. While it can be difficult to opine on the merits of an appeal in the absence
+of the full participation of the student, there will be circumstances, such as the one
+that exists here, where such a determination can be made.
+
+[32]
+
+In this case, I agree that the appeal is both vexatious and without foundation.
+
+[33]
+
+The Student has engaged in a pattern of non-responsiveness and failure to engage
+with the process, including the following:
+
+[34]
+
+(a)
+
+the Student was afforded three opportunities to meet with the SAI office and
+did not do so;
+
+(b)
+
+She had ample notice of the hearing and repeatedly chose not to engage
+when required to do so;
+
+(c)
+
+The Tribunal provided the Student with one adjournment of its own accord,
+when she did not appear on the first hearing date;
+
+(d)
+
+The Tribunal that heard the matter made careful and reasonable conclusions
+that adequate notice had been provided to the Student;
+
+(e)
+
+The Student has not offered any explanation nor has ever suggested that she
+did not receive notice of the hearing dates. Choosing not to be at the hearing
+does not create a ground of appeal when proper notice has been given, as
+was found to have been done here.
+
+(f)
+
+The Student has taken no steps to advance her appeal. She did not
+participate in the Proceedings Management Conference, did not seek a
+change to the schedule even though this was specifically offered to her, nor
+does she appear to have made any meaningful contact with pro bono counsel
+or Downtown Legal Services as suggested.
+
+While her subjective desire to appeal may exist, that is insufficient to overcome the
+frivolous and vexatious nature of her conduct in failing to pursue the appeal.
+Failure to take any steps to advance one’s appeal does, in my view, render the
+appeal frivolous and vexatious.
+
+-7-
+
+[35]
+
+Further, I find that the appeal is without foundation. As the Provost notes in its
+submissions, even taking the matter at its highest and assuming the Student could
+convince an appellate panel that this is an exceptional circumstance warranting
+the introduction of fresh evidence on her appeal (and there is certainly no indication
+whatsoever that this is so), the Student’s own statements to the ADFG sent in the
+explanatory email referred to above indicated that she improperly used external
+aids in the assignment. Her statement to the ADFG, made in order to advance her
+appeal, was that she did not use Chegg.com but rather received assistance from
+her brother. The instructors in the course had specifically advised the students that
+“assignments must be done independently”; and that “[t]he solutions you submit
+for your assignments must be the result of your work only and no one else’s.”
+Therefore, even were she permitted to put forward her version of her events, she
+has acknowledged that she violated the assignment’s requirements to do the work
+independently. I agree with the Tribunal’s conclusion that the misconduct was
+proven without the Provost having to definitively prove the method of misconduct
+(whether the Student copied the answer directly from Chegg.com or from Mr. C. or even from her brother) as long as the elements of the offence were made out,
+which they were here. (See also University of Toronto and Ms. B. – Case No.
+2003/04-1, April 7, 2004).
+
+[36]
+
+Further, Mr. C.’s evidence regarding Chegg.com, that he had collaborated with
+another student whose identity he could not recall, is very strong and was accepted
+by the Tribunal. When combined with the evidence that Mr. C.’s answer and the
+Student’s answer were virtually identical, the appeal demonstrates itself to be
+without foundation.
+
+[37]
+
+Therefore, I grant the Provost’s motion and dismiss the Student’s appeal
+summarily and without formal hearing as frivolous, vexatious or without foundation
+in accordance with section E.7(a) of the Code.
+
+Dated on this 29th day of August, 2022
+
+Original signed by:
+Ms. Lisa Brownstone
+Associate Chair
+
+

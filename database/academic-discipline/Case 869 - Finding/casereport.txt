@@ -1,0 +1,709 @@
+Case No.: 869
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 25, 2016,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+C. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+DECISION AND REASONS FOR DECISION
+
+Hearing Date: February 21, 2017
+Members of the Panel:
+Ms. Johanna Braden, Barrister and Solicitor, Chair
+Professor Faye Mishna, Faculty Panel Member
+Mr. Eric Bryce, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland, Barristers
+Ms. Eva Mak, Barrister and Solicitor, Counsel for the Student
+Dr. Martha Harris, former Academic Integrity Officer, Office of Student Academic
+Integrity, F a c u ~ n d Science
+Ms. H■the Student
+
+-
+
+LIi,
+
+In Attendance:
+Ms. Tracey Gameiro, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+
+2
+
+1.
+
+The Trial Division of the University Tribunal was convened on February 21, 2017,
+to consider charges brought by the University of Toronto ("the University") against
+Ms. H■-
+
+-
+
+LIi ("the Student") under the University of Toronto Code
+
+of Behaviour on Academic Matters, 1995 ("the Code").
+
+The Charges and Particulars
+2.
+
+The Charges and Particulars alleged against the Student are as follows.
+A.
+
+Charges
+
+1. On or about December 21, 2015, you knowingly forged, or in any other way
+altered or falsified a document or evidence required by the University, namely, a
+document titled "Final Exam MAT223H1 F", and/or you knowingly uttered, circulated
+or made use of such forged, altered and falsified document in connection with the
+final exam in MAT223H1 F, contrary to section B.1.1 (a) of the Code.
+
+2. On or about December 21, 2015, you knowingly used or possessed an
+unauthorized aid or obtained unauthorized assistance in connection with the final
+exam in MAT223H1F, contrary to section B.l.1(b) of the Code.
+
+3. In the alternative, on or about December 21, 2015, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the final exam in MAT223H1 F,
+contrary to section B.l.3(b) of the Code.
+
+B.
+
+Particulars
+
+The particulars related to charges 1 to 3 are as follows:
+(a)
+
+At all material times, you were a registered student at the University of
+
+Toronto. In the Fall 2015 term you enrolled in MAT223H1 F (the "Course").
+
+3
+
+(b)
+
+Students in the Course were required to write a final exam on December 21,
+
+2015 ("Exam"). You attended the Exam on that date.
+
+(c)
+
+You did not write the Exam; instead, you knowingly and surreptitiously
+
+brought a document titled "Final Exam MAT223H1F Linear Algebra I" ("L■ Exam")
+to the Exam and submitted that document as your exam paper for academic credit
+in the Course as if it was the Exam.
+
+(d)
+
+The L■ Exam was not the same as the Exam, but rather consisted of an
+
+amalgam of questions from previous exams written in past terms in the Course.
+
+(e)
+
+You knowingly forged, altered and falsified the L■ Exam, or had someone do
+
+so on your behalf, in order to bring the L■ Exam into the exam room on December
+21,. 2015; you did so to use and possess the L■ Exam as an unauthorized aid to
+assist you to obtain an academic advantage in the Exam.
+
+The Student's Position
+3.
+
+The Student was present and represented by counsel. The Student denied the
+charges.
+
+The hearing proceeded on the basis that the University bore the
+
+burden of proving the charges on the balance of probabilities.
+Overview
+4.
+
+In the Fall 2015 term, the University offered a course in Linear Algebra I (the
+"Course").
+
+The Course had approximately 1,500 students.
+
+exam worth 40% of the Course grade.
+seven Course instructors.
+
+There was a final
+
+The final exams were marked by the
+
+While marking the final exams, one of the Course
+
+instructors noticed that one of the exams was different than all the others. It was
+different in texture and appearance, the language used on the front instruction
+
+,,
+
+4
+
+page was different and - most significantly - the questions were different. The
+different exam had been submitted by the Student.
+5.
+
+At the hearing, the Student admitted that the exam she submitted was different
+than the exam written by all the other students in the Course.
+
+However, she
+
+maintained that she simply attended the final examination, wrote the exam that
+had been placed on the desk before her, and turned it in. She said she had no
+knowledge as to how or why her exam was different from all the others. Her
+position was that someone else must have tampered with the exams somehow.
+The Student testified that she learned only after-the-fact that the Course exam
+was different than the one she wrote.
+
+She said that the University could not
+
+prove that she had knowingly written a falsified exam.
+6.
+
+Having deliberated carefully, and having considered all the evidence, the
+Tribunal finds that the evidence is sufficiently clear, cogent and convincing to
+discharge the burden of proof on the University and find that the Student has
+committed academic misconduct.
+
+The Evidence
+
+7.
+
+The University tendered the evidence of six witnesses: Beverly Lewis, the
+Examinations Supervisor with knowledge of the process for the assembly,
+printing and delivery of the Course exam; Professor Mary Pugh, the Associate
+Chair for the University's Mathematics Department; Haggai Nuchi, a Course
+instructor and one of the exam invigilators whose evidence was presented
+through affidavit; Max Klambauer, the second exam invigilator; Trefor Bazett, the
+Course instructor who first discovered the discrepancies and whose evidence
+was submitted through affidavit; and Dr. Martha Harris, who testified about
+events that transpired with the Student after the exam was written. The Student
+testified on her own behalf. A summary of the most relevant evidence is as
+follows.
+
+5
+
+(a)
+8.
+
+The Student
+
+The Student began her post-secondary education at the International College of
+Manitoba, where she took Grade 12 courses and some university-level courses.
+She had a grade average of 4.3 out of 4.5. She then transferred to the Faculty of
+Arts and Science at the University. Her first term at the University was the Fall of
+2015. She intends to switch her major from Sexual Diversity to Criminology, and
+hopes to graduate in April of 2018.
+
+9.
+
+The Course was an elective for the Student. It aligned with her interests, and
+she had done very well on an algebra course at the International College of
+Manitoba. The Student took the Course on a CrediUNo Credit basis, meaning
+that her transcript would not reflect a course grade but would only show whether
+she passed or not. She testified that her goat was only to pass the Course, and
+not necessarily to do well in the Course. Going into the final exam, her grade
+was around 48%.
+
+The Student's understanding, supported by the mark
+
+breakdown in the Course syllabus, was that if the Student passed the exam with
+a grade of 50%, she would pass the Course and obtain a Credit notation on her
+transcript.
+(b)
+10.
+
+The Course and the Exam
+
+The Course is the first Linear Algebra course that undergraduate University
+students can take.
+
+Typically about 1,600 students enroll in the Course, and
+
+about 1,300 remain in the Course. The Course was taught by seven instructors,
+including the Course Coordinator, Professor Uppat. Professor Uppal was unable
+to testify at the hearing. Evidence about the Course and the final examination
+came from other witnesses with knowledge of the matters.
+
+6
+
+11 .
+
+Professor Uppal was ultimately responsible for writing the questions for the final
+exam. By way of email dated November 23, 2015, Professor Uppal sent a draft
+of the final exam to the other Course instructors, seeking their input.
+
+The
+
+covering email warned the other Course instructors: "Guard it with your life!" The
+protocol in place in the department was that once the final version of the exam
+was ready, it was to be given to the Associate Chair for the Mathematics
+Department, Professor Mary Pugh.
+
+Professor Pugh did not specifically recall
+
+reviewing the Course exam in advance of the examination, but she believed that
+Professor Uppal would have followed the standard protocol and sent it to her in
+advance.
+12.
+
+Beverly Lewis has been the Examinations Supervisor at the Faculty of Arts and
+Science Office of the Faculty Registrar and University Transcript Centre since at
+least 1987. She gave evidence that the usual procedure for examinations is as
+follows.
+(a)
+
+The Exams Office receives final examinations delivered by each
+department. The Mathematics Department asks the Exams Office staff to
+sign for any exams they deliver to the Exams Office for their own records.
+
+(b)
+
+The Exams Office places an order with the University printer for the
+number of exams required for each exam . The University printer is a
+private company that has offices on the University campus and that
+primarily services the University.
+
+(c)
+
+The Exams Office hand delivers the exam to the University printer, which
+is in the same building as the Exams Office.
+
+(d)
+
+The University printer hand delivers the printed exams to the Exams Office
+in sealed boxes.
+
+7
+
+(e)
+
+Exams Office staff organize the sealed boxes and open boxes to remove
+any exams required for students who are writing an exam at an alternate
+location, such as AccessAbility Services. Once any required exams are
+removed from a box, the box is closed. Exams Office staff all sign a
+confidentiality policy.
+
+(f)
+
+Exams are kept in a locked storage room or vault in the Exams Office. The
+Exams Office has a security system. Exams are removed from the vault
+just before they are transported to the exam location.
+
+(g)
+
+In instances of smaller exams, the Chief Presiding Officer for the exam will
+pick up the printed exams from the locked storage room and hand deliver
+the exams to the exam room. In instances of larger exams, such as the
+Course Exam, the University's Facility Services department will deliver the
+exams from the locked storage room to the exam rooms, or to other
+locked storage rooms.
+
+13.
+
+As to the Course exam specifically, Ms. Lewis testified that the Registrar's office
+placed an order with the University printer on December 9, 2015 for 1,524
+exams. It would typically take somewhere between two days and one week for
+the printed exams to then be delivered by the University printer to the Exams
+Office. Although she did not recall the Course exam specifically, she believes
+that the usual protocol would have been followed. In light of the number of
+examination papers for the Course, they probably would have been delivered to
+the examination rooms by University campus security personnel. She believes
+the printed exams would have been in sealed boxes, although she cannot recall
+this exam specifically.
+
+14.
+
+The Course exam was written on December 21, 2015. Course students were
+divided into different examination rooms depending on their last name. The room
+where the Student wrote the Course exam had about 200 other students present.
+
+8
+
+15.
+
+The December, 2015 exam period was the start of a pilot project where students
+were allowed to bring their coats and bags with them to their desks while writing
+their exam to avoid theft and loss. The Student was aware prior to writing the
+Course exam that she would be allowed to have her belongings with her at her
+desk.
+
+16.
+
+In the room where the Student wrote the Course exam on December 21, 2015,
+there were two invigilators and a Chief Presiding Officer. Nothing was permitted
+on any desks other than pencils, pens and a pencil case (which would generally
+be checked). Coats were mostly hung on the backs of students' seats, and coats
+were not checked. Students had their bags with them at their desks, and bags
+were not checked.
+
+17.
+
+The two exam invigilators gave evidence at the hearing, one in person and one
+through affidavit. They both gave evidence that the exam appeared uneventful
+and nothing out of the ordinary took place that they saw. The evidence of the
+two invigilators differed in minor respects. Mr. Klambauer testified that when he
+arrived at the examination room, the exams were already on the students' desks.
+Professor Nuchi recalled that he and Mr. Klambauer put the exams on the
+students' desks together. Once the exam was over, both invigilators agreed that
+the exams were physically counted to ensure that the correct number had been
+collected. Mr. Klambauer recalls that, after the count was completed, Professor
+Nuchi took custody of the exams and left the examination room.
+
+Professor
+
+Nuchi's evidence was that he and Mr. Klambauer both took the completed
+examinations to Professor Uppal's office.
+
+18.
+
+In any event, there is no debate that the completed exams were counted, were
+delivered to Professor Uppal, and were distributed among the seven Course
+instructors for marking.
+
+Each Course instructor was assigned a different
+
+question to mark across all exams.
+
+9
+
+(c)
+
+19.
+
+The Differences in the Two Exams
+
+Professor Bazett was the first instructor to mark the Student's exam. He quickly
+noticed it was not like the others.
+
+20.
+
+It is obvious that the exam the Student wrote (the "Student's Exam") was not the
+exam prepared by Professor Uppal for the Course, and was not the exam that
+the other 1,500-plus students wrote (the "Course Exam"). For example:
+(a)
+
+The print and font are different.
+
+(b)
+
+The front page of the Course Exam is different in multiple ways from the
+front page of the Student's Exam, including the date ("December 2015"
+versus "December 21, 2015"), the duration ("3 hours" versus "180
+minutes") and the details of the instructions given.
+
+(c)
+
+The Course Exam is 13 pages, with 74 possible marks. The Student's
+Exam is 12 pages, with 75 possible marks.
+
+(d)
+21.
+
+Most notably, the questions are different.
+
+Professor Bazett's evidence was that, while the questions on the Student's Exam
+were clearly not those used on the Course Exam, they were reasonable
+questions that could have been on the exam. He and Professor Uppal reviewed
+some of the past exams given in previous terms of the Course that were
+available online. They noticed that the questions in the Student's Exam matched
+questions from some of those past exams. Copies of past exams were part of
+the record before the Tribunal, and they show as follows.
+(a)
+
+In many respects, the front page of the Student's Exam resembles the
+front page of the April 2015 exam.
+
+10
+
+(b)
+
+Questions 1, 2, 3 from Part 1 and questions 2 and 5 from Part 2 were the
+same as questions from the April 2015 exam .
+
+(c)
+
+Questions 4-10 from Part 1 and question 6 from Part 2 were the same as
+questions from the December 2014 exam.
+
+(d)
+
+Questions 1, 3 and 4 from Part 1 were the same as questions from the
+June 2015 exam.
+
+22.
+
+In other words, it is clear that the Student's Exam was a carefully crafted
+fabrication, deliberately designed to resemble a real Course exam without being
+a real Course exam. Professor Pugh called it a "Franken-exam" - one created
+by cobbling together different parts of old exams. A typo from one of the old
+exams was carried over in the Student's Exam ("subsapce" instead of
+"subspace"), suggesting that the Student's Exam had been made through a "cut
+and paste" of old exams.
+
+23.
+
+The Student's Exam was graded.
+
+Had it been the actual Course Exam, she
+
+would have received 58 out of 75 marks, or 77%.
+(d)
+24.
+
+The Student's Explanation
+
+Everyone agreed this was a highly unusual case. Ms. Lewis, who has worked in
+the Exams Office since 1984, was not aware of another instance in the last 30
+years where a student attending a final exam received an exam paper that was
+different from the exam written by all of the other students in a course.
+
+25.
+
+The Student was asked to meet with Professor Pugh. Professor Pugh testified
+that she was expecting the Student to admit to some form of academic
+misconduct, because she couldn't fathom how this could have happened
+otherwise. Professor Pugh was sufficiently alarmed by the unusual nature of this
+case that she had someone from the University's Student Crisis team attend the
+
+11
+
+meeting, to provide support to the Student if needed. The Student did not admit
+to any misconduct, and said that she had simply written the examination that was
+on the desk in front of her. She explained the marked improvement in her grade
+on the final exam compared to the midterm exams was because she had studied
+hard for the final exam.
+26.
+
+The Student's evidence at the hearing was that she had been disappointed in her
+midterm marks for the Course, but wasn't especially worried because she only
+needed to pass to get the Credit notation on her transcript. She knew she didn't
+need to get much more than 50% on her final exam to pass the Course.
+
+27.
+
+The Stud~nt said she studied for the final exam for about 12 hours the day before
+the exam, and that was all. She did not study with anyone else. She did not look
+at past exams as part of her studying. She did not give details of what her 12
+hours of studying involved.
+
+28.
+
+The Student testified that on the day of the exam, she went to her assigned
+examination room, sat down at a desk where an examination was waiting for her,
+took out her pencil case, hung up her jacket, and wrote the exam. She had no
+idea the exam she wrote was not the same as all the others. She still has no
+idea how that came to pass. She has never cheated, neither before nor since.
+She was told that sanctions for students who admitted misconduct at a meeting
+with the Dean's Designate were typically more lenient than sanctions imposed by
+this Tribunal following findings of academic misconduct, but still she did not admit
+to having done anything wrong because, in her view, she hadn't.
+Decision and Reasons for Decision of the Tribunal on the Charges
+
+29.
+
+The onus is on the University to establish on the balance of probabilities, using
+clear and convincing evidence, that one or more of the academic offences
+charged has been committed by the Student.
+
+Counsel for the University
+
+submitted that there was ample evidence for the Tribunal to find that the Student
+
+12
+
+was guilty of one or more of the charges. Counsel for the Student submitted that
+the evidence was simply insufficient to sustain such a serious allegation,
+particularly given the Student's denial.
+30.
+
+There was no issue that the Student's Exam was not the Course Exam.
+Somehow, out of more than 1,500 examination papers handed out on December
+21, 2015, one examination paper was a carefully doctored fabrication. This could
+not be an administrative error.
+
+This was not a case where the wrong exam
+
+simply made its way to the wrong desk in an examination room. If the Student's
+Exam had been an exact replica of a previous examination, or had been an
+examination for a different course entirely, then administrative error might have
+been one possibility.
+
+But this was a deliberately fabricated document,
+
+intentionally masquerading as the Course Exam.
+31.
+
+The Student's counsel submitted that it was not for the Student to explain how
+the fake examination came to be on her desk. This is true, and the University
+bears the burden of proof throughout.
+
+But the Tribunal is entitled to draw
+
+inferences from proven facts. Based on the proven facts, there are really only
+two possibilities. One is that the Student brought the fake examination into the
+room herself.
+
+The other possibility is that some unknown person decided for
+
+some unknown reason to concoct a fake examination paper, bypassed the
+security measures in place, and managed to sneak that fake examination into the
+more than 1,500 real examinations where it would be written by some
+unsuspecting random student. Under this second possibility, the Student is just
+the innocent victim of someone else's bizarre prank.
+32.
+
+If both scenarios were equally likely, the University would not be able to prove its
+case.
+
+However, the Tribunal finds that one scenario is manifestly more likely
+
+than not. The prospect of someone else having fabricated the exam and placed
+it in advance into the large pile of real exams is remote and fanciful. The security
+for the examinations was not perfect, in that various people had access to the
+examinations at different times. Someone working for the University printer could
+
+13
+
+have snuck the fake examination into the stack of printed exams before they
+were delivered to the University. Someone working at the University as a cleaner
+or a chief presiding officer or in the Exams Office could have accessed the
+printed examinations after they were delivered to the locked room and removed
+one real exam and replaced it with the fake one.
+
+Someone transporting the
+
+examinations from the locked room to the examination room could also have
+done this.
+
+But the prospect of the fake examination making its way to the
+
+Student's desk by anyone's hand other than the Student's is simply not realistic.
+Of all the possible explanations, the only one that is more likely than not is that
+the Student brought the fake examination paper with her when she wrote the
+exam on December 21, 2015. As students were allowed to have their coats,
+bags and other belongings at their desk (something the Student was aware she
+would be allowed to do), it would not have been too difficult for her to swap the
+real examination for the fake one.
+33.
+
+The Tribunal is mindful that in coming to this conclusion, we have disbelieved the
+evidence the Student gave at the hearing under solemn affirmation.
+
+In
+
+evaluating the Student's credibility, the Tribunal found that her evidence was not
+always consistent or clear. For example, the Student gave different reasons as
+to why she said she did not look at past examinations as part of her 12 hours of
+studying.
+(a)
+
+At one point the Student said she didn't bother to look at old exams
+because she only cared if she passed the Course or not. This is at odds
+with her telling Professor Pugh that the reason she'd done so well on the
+final exam was that she'd studied hard.
+
+(b)
+
+At another point she testified that Professor Uppal had said that studying
+past exams would not be useful because the course syllabus had
+changed. She could not explain why she did so well answering questions
+that had been taken from three different past exams, if the course content
+
+14
+
+for the Course she had studied for was so different from what had been
+taught in past years.
+(c)
+
+The Student also said that Professor Uppal wouldn't provide past exams
+to the class. This does not fit with the evidence that past exams are
+available online, and did not need to be "provided" by any particular
+professor.
+
+34.
+
+These inconsistencies undermined the Student's credibility. Primarily, however,
+the Tribunal's assessment of the Student's credibility rests on the essential
+implausibility of the idea that anyone other than the Student would have
+smuggled the fake examination into the examination room.
+
+The Charges
+
+35.
+
+For the reasons given above, the Tribunal finds that, on or about December 21,
+2015, the Student knowingly used or possessed an unauthorized aid and obtained
+unauthorized assistance in connection with the final exam in MAT223H 1F, contrary
+to section B.1.1 (b) of the Code, as alleged in Charge 2.
+
+49.
+
+Charge 1 is somewhat more complicated. It alleges that the Student knowingly
+forged, or in any other way altered or falsified the exam, and/or that the Student
+knowingly uttered, circulated or made use of such forged, altered or falsified
+document.
+
+There is no evidence that the Student herself created the fake
+
+examination. The Student certainly "uttered, circulated or made use" of the fake
+examination by submitting it to be marked. The issue for Charge 1 is whether the
+Student knew or ought reasonably to have known that the exam she submitted
+was a fabrication rather than the actual examination.
+50.
+
+The Panel considered the possibility that the Student obtained the fake
+examination from someone else and believed she had obtained the actual
+Course examination in advance of the exam.
+
+It is possible she reasonably
+
+15
+
+believed she had been able to get an actual copy of the Course examination.
+Certainly someone went to considerable trouble to make the fake exam look like
+a real one.
+51 .
+
+If the Student actually believed the exam she obtained in advance was the real
+Course exam, it is hard to understand why the Student would have brought the
+examination into the exam room with her, where she risked the possibility of
+being caught when she exchanged exams.
+
+On the other hand, it is hard to
+
+understand how any student could submit an exam she knows to be fabricated,
+and not expect to be caught. This is one of those cases where the Tribunal will
+never know what really happened. On the evidence led, the Tribunal cannot say
+it is more likely than not that the Student knew or ought reasonably to have
+known that the exam she submitted was a forgery. Charge 1 will be dismissed.
+52 .
+
+That the Tribunal is dismissing Charge 1 is not to the Student's credit. Whether
+she wrongly believed that she had obtained an advance copy of the real exam, or
+whether she knowingly submitted a fake exam, her culpability does not change.
+It is cheating either way.
+
+53.
+
+Counsel for the University indicated that if the Tribunal made a finding on either
+Charge 1 or Charge 2, the University would seek to withdraw Charge 3, which is
+alleged in the alternative.
+
+54.
+
+The Tribunal will convene as soon as reasonably possible for the penalty
+hearing.
+
+Dated at Toronto this 1st day of May, 2017
+
+Jo~ann: Braden
+
+

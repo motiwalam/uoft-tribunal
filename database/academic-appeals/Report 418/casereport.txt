@@ -1,0 +1,596 @@
+UNIVERSITY OF TORONTO
+GOVERNING COUNCIL
+Report # 418 of the Academic Appeals Committee
+February 8, 2022
+To the Academic Board
+University of Toronto.
+Your Committee held an electronic hearing by Zoom, on December 14, 2021, at which the
+following members were present.
+Academic Appeal Committee Members:
+Professor Andrew Green, Chair
+Professor Jan Mahrt-Smith, Faculty Governor
+Mr. Evan Kanter, Student Governor
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+M.M. (the “Student”)
+Ms. Julia Wilkes, Adair Goldblatt Bieber LLP
+Ms. Marlie Earle, Adair Goldblatt Bieber LLP
+For the School of Graduate Studies:
+Mr. Robert Centa, Paliare Roland Rothstein Rosenberg LLP
+Ms. Deniz Samadi, Paliare Roland Rothstein Rosenberg LLP
+
+Overview
+The Student seeks reconsideration of a decision of a prior panel of the Academic Appeals
+Committee (“AAC”). In Report 398 dated July 10, 2018 (the “AAC Decision”) the Panel
+dismissed the Student’s appeal of a decision by the Graduate Academic Appeals Board (the
+“GAAB”) dated October 12, 2017. This reconsideration request provides your Committee with
+its first opportunity to consider whether it has the authority to reconsider prior decisions.
+In 2016, the Student was enrolled in Scientific Overviews CHL5418 (the “Course”) as part of the
+Masters of Public Health in Epidemiology program at the Dalla Lana School of Public Health.
+Among other things, the Student disputed a mark that was assigned for an assignment in the Course
+and its impact on her final mark. She appealed to the Graduate Department Academic Appeal
+Committee and the GAAB, both of which dismissed her appeal. She then appealed to the AAC
+which dismissed her appeal in the Decision in 2018.
+
+2
+In 2019, the Student filed a Freedom of Information and Protection of Privacy Act (“FIPPA”)
+request for emails held by the University of Toronto relevant to her mark in the Course. Based on
+the almost 4000 pages produced by this FIPPA request, the Student contacted the University’s
+Office of Appeals, Discipline and Faculty Grievances (“ADFG”) concerning reconsideration of
+the Decision by the AAC in 2020. In 2021, the Student submitted her request for reconsideration
+to the ADFG. She argued that the material from the FIPPA request provided evidence that the
+grades she received for the Course were unreliable and that certain members of the School of
+Public Health had deliberately withheld documents and/or misled both the GAAB and the prior
+panel of the AAC. She sought a re-calculation of the marks on two assignments, which would
+alter her final mark, and a removal of the Decision from the ADFG website.
+Your Committee dismisses this request for reconsideration. While it finds that the AAC may in
+certain very limited circumstances reconsider its prior decisions, the facts in this case do not permit
+such reconsideration.
+
+The Facts
+In 2016, the Student was enrolled in the Course. Students were evaluated through four assignments
+and a participation grade. The Student received a failing grade on her first assignment, an A on
+assignments 2 and 3 and four out of five for participation. Her grade on the fourth assignment is
+key to the appeal before the prior panel and to this request for reconsideration (although the Student
+also in this request raises issues about the first assignment).
+At the centre of the dispute around the grade for assignment 4 is the question of the application of
+a late penalty. The Student submitted assignment 4 several hours after the deadline. The syllabus
+for the Course indicated that “A late penalty of 10% per day [would] be applied to all late
+assignment submissions.” One of the tutors for her group, Dr. Sarah Frise, emailed her to confirm
+the paper was late and the Student acknowledged it was late.1
+Dr. Frise marked the Student’s assignment 4. In an email on April 24, 2016, to Professor Liane
+Macdonald, one of the two course instructors, Dr. Frise stated that “Overall, I gave her a 70% but
+being late by one day, we end up with 60% (10% deduction)”.2 On April 29, 2016, Professor
+Natasha Crowcroft, the other course instructor, wrote to Professor Macdonald about the Student’s
+paper stating “I would have given her a failing grade but that is largely because it really wasn’t
+made clear enough how the tobacco literature was relevant, and that affected the way I read
+everything and hence the marking. Everything is built on the research question, as you know. I
+think in view of Sarah’s comments and yours we may have to err on the side of just passing her.
+A fail on the basis of being one day late is, I agree, a little harsh.”3
+
+1
+
+April 18, 2016 email from the Student to Sarah Frise, School of Graduate Studies Book of Documents (SGS
+BOD), p. 83.
+2
+Written submissions of the Student (Student Submissions), p. 95. This document was produced as part of the
+FIPPA request.
+3
+SGS BOD, p. 152. This document appears to have been produced through the FIPPA request.
+
+3
+Then, on May 9, 2016, Professor Macdonald wrote to Professor Crowcroft indicating that she had
+done “a final review of our course marks distribution”.4 She stated that given they had not reduced
+the marks by 10% for other students who had submitted their assignments late, she reduced all late
+deductions to 7% from 10% and that “for the other student ([the Student]), this bumped her from
+a B- to B (72 to 73).”
+On May 19, 2016, Professor Crowcroft wrote to Dr. Frise stating:
+For [the Student], I parallel marked her assignment and agreed her assignment was not
+good. My grade was actually lower, so we accepted the 70% or B- grade. In addition,
+there was a 10% late deduction that would have meant a clear fail. Liane and I
+discussed because late assignments are problematic with respect to failing the whole
+course. For the final overall grade we reduced the impact of the late deduction slightly
+so that she passes the course overall with a B. I suggest you feedback [sic] a B- and
+don’t mention the late deduction as that is up to Liane and I to apply (as an aside, in
+future years we will reduce the late reduction because in retrospect we found that 10%
+is a little excessive).5
+On May 24, 2016, Dr. Frise informed the Student that she had received a B- on Assignment 4,
+listing some positive comments as well as “Points to Consider for Improvement”. 6 The Student
+emailed Dr. Frise on May 24, 2016 asking “Does this grade include the 10% you indicated that
+you were going to remove for sending the paper in Monday afternoon?” Dr. Frise replied “Yes it
+does.”7
+Also on May 24, 2016 the Student emailed Dr. Frise asking for a breakdown of the marks for
+assignment 4. Dr. Frise asked Professor Crowcroft her thoughts and Professor Crowcroft stated
+that “we haven’t usually given the percentage grades because it is not in the students interest – it
+gives us less wiggle room when putting the grades together for the final mark. Would it be possible
+to give her more information on the sections where the most marks were lost without giving the
+actual grades?”8 On May 24, 2016, Dr. Frise responded to the Student that “We don’t routinely
+provide the marks by each section since you end up with an overall Grade average (vs.
+percentage).”9
+On May 27, 2016, the Student met with Professor Crowcroft to discuss her concerns with her
+grade. In an email that day to Dr. Frise and others (copying Professor Macdonald), Professor
+Crowcroft summarized the discussions.10 She noted that the Student raised the issue of the removal
+of the late deduction. Professor Crowcroft wrote “I let her know that it had already been reduced
+from a 10% deduction in the process of generating the final weighted mark, but I would see what
+could be done. However, I did not tell her that this would not change her overall grade as she
+
+4
+
+Student Submissions, p. 42. This document appears to have been produced through the FIPPA request.
+Student Submissions, p. 43. This document appears to have been produced through the FIPPA request.
+6
+SGS BOD, pp. 190-1.
+7
+Student Submissions, p. 20.
+8
+SGS BOD, p 180. This document appears to have been produced through the FIPPA request.
+9
+Student Submissions, p 51.
+10
+SGS BOD, p. 179.
+5
+
+4
+would have a 76% which is still a B. It also may not be possible depending on the implications
+for other students.” She also stated:
+I also warned her that when I remarked her paper I have her an even lower mark but
+we went with the tutor’s mark because they were marking all the scripts and had a
+better sense of the literature. But if she is challenging the marks this marking might
+also need to be taken into consideration. These are some of the comments I had (not
+shared with her). Overall this was not a Masters level piece of work. It was confusing
+in places, unclear, overly ambitious and more complex than it needed to be. I didn’t
+find an executive summary and the one page summary was double spaced which didn’t
+follow the instructions, and there were problems with the table format. I gave her 61%
+without even taking off the late mark, which is a clear fail.
+Professor Crowcroft emailed the Student on June 3, 2016, confirming the meeting.11 She stated:
+I have reviewed the feedback from Sarah Frise, your assignment which I had parallel
+marked previously, and had a discussion with Sarah and Megan. Overall I found
+Sarah’s feedback to be well constructed and balanced.
+… We had already double-marked any assignments that were in the lower range. The
+grade you had been given was significantly higher than the percentage I had assigned
+on marking in parallel… We had erred on the side of positive in accepting the Tutor’s
+grade whenever it was higher.
+On the other issue of the late deduction and the delayed Tutorial, I have accepted that
+we should remove the late deduction as you requested. This has been done. Because
+we had already reduced the amount of the deduction your final grade was unchanged,
+however.
+On July 15, 2016, Professor Crowcroft wrote to Professor Nancy Krieger, Head of the Division of
+Epidemiology, who had been contacted by the Student about her mark. Professor Crowcroft stated
+“Her first request has already happened, as she should know that. The late deduction was removed
+but this did not make any difference to her letter grade. On the other request, because Sarah had
+given her a low mark I duplicate marked as we did for all the marginal students. Unfortunately I
+gave her a failing grade. This was not on the basis of the issue that she discusses but because it
+was a bad assignment, poorly written, constructed and argued. I would be happy to change her
+grade to an average of Sarah and my grades if she wants to include the second opinion, but then
+she would fail the assignment.”12 Professor Kreiger subsequently emailed the Student indicating
+she felt the grades “were fair and justified”.13
+The Student appealed the grade to the GDAAC, citing the failure to return the 10% late penalty on
+Assignment 4 and “marks lost due to lack of agreement between tutorial assistants.”14 The
+11
+
+SGS BOD, p. 187.
+SGS BOD, p. 188. This document may have been produced through the FIPPA request.
+13
+July 15, 2016 Email from Nancy Kreiger to the Student, Student Submissions p. 27.
+14
+GDAAC Report, Student Submissions, p. 28.
+12
+
+5
+GDAAC found that the 10% penalty had already been removed and that there were no marks to
+be returned to the Student as Assignment 4 was double marked and would have been a failure but
+the Student was given the passing grade.
+The Student then appealed to the GAAB. At the GAAB, the Student was represented by counsel.
+Shortly before the GAAB hearing in September 2017, the SGS provided an excel spreadsheet
+“showing that the various components of the mark for the assignment, on their academic merit,
+added up to 70.”15 The Student’s counsel consented to its inclusion and “did not contest its
+authenticity or reliability”.16 On the merits, however, it noted that “assignment #4 received a mark
+of B- on its academic merits and that neither Dr. Frise nor Professor Crowcroft ever applied a late
+penalty.” The GAAB found that the communications with the Student were confusing but “the
+GAAB accepts the School’s position that its confusing communications with the Student did not
+transform the quality of the Student’s work from B- to A. Accordingly, the mark of B- stands.”17
+The GAAB also dismissed claims by the Student of conflicts of interest or bias.
+The Student then appealed to the AAC, resulting in the prior 2018 decision of the AAC that is the
+subject of this reconsideration request. As with the GAAB, the AAC noted that there was a failure
+in communication. It noted there was an ambiguity in the May 24, 2016 email response by Dr.
+Frise saying “yes it does” in response to an ambiguous question about whether the B- includes the
+late penalty. The AAC found, however, that there is no compelling evidence that Assignment 4
+ever received a grade of more than 70%. It then proceeded through a careful discussion of the
+various iterations of the application of the late penalty, including its initial application then
+reduction and finally removal. It noted that the final mark provided to the Student was “a simple
+function of arithmetic” and went through the various calculations to show why the grade remained
+a B after the late penalty was removed. In terms of relevant polices and practices, it stated that it
+“neither heard nor saw evidence to indicate that they had been applied inconsistently, unfairly or
+with partiality”.18 The panel found “that, though the language used by the School to communicate
+with the Student concerning the application or the non-application of the lateness penalty could
+have been clearer, the preponderance of evidence considered by your Committee is that the
+Student’s Assignment #4 had never deserved a mark higher than 70/100.”19 It also dismissed
+allegations by the Student of bias by Professor Crowcroft against the Student, the marking of the
+Policy Options portion of the assignment and the effect of a delayed tutorial. This decision was
+released and provided to Governing Council.
+In early 2019 the Student, dissatisfied with the result at the AAC, submitted a FIPPA request for
+information relevant to her grade in the Course. She received approximately 4000 pages, mostly
+by March 2019.20 Some of the FIPPA materials are referenced above and the materials will be
+discussed in more detail below. Based on this material, the Student seeks reconsideration of this
+Decision by your Committee.
+
+15
+
+GAAB Report dated October 12, 2017, p. 3.
+GAAB Report dated October 12, 2017, p. 3.
+17
+GAAB Report dated October 12, 2017, p. 5.
+18
+AAC Report 398 dated July 10, 2018, p. 16.
+19
+AAC Report 398 dated July 10, 2018, p. 17.
+20
+SGS Submissions, para. 38.
+16
+
+6
+Issues
+Three issues were raised in this request for reconsideration:
+•
+•
+•
+
+Does the AAC have the jurisdiction to reconsider its prior decisions and, if so, should it do
+so in this case?
+If the panel decides that it should reconsider the Decision, should it decline to do so because
+of delay?
+If the panel decides it should reconsider this decision and that there is no unreasonable
+delay, should it allow the Student’s appeal on its merits?
+
+Jurisdiction to Reconsider Decisions
+The first issue has two parts. First, does the AAC ever have the power to reconsider its prior
+decisions and if so, in what circumstances? This issue of jurisdiction is a question of law that is
+decided by the Chair of the AAC panel.21 Second, if the AAC does have jurisdiction to reconsider
+its prior decisions in certain circumstances, should the panel do so in this case? As this aspect
+involves consideration of the facts of this case, it is decided in part by the panel as a whole. We
+will deal with these two parts in turn.
+Can the AAC ever reconsider its decisions and, if so, in what circumstances?
+Whether the AAC can reconsider its prior decisions rests on the application of the legal principle
+of functus officio. With certain exceptions, an administrative tribunal, such as the AAC, which
+makes a final decision is functus officio – that is, its work is done and it cannot change or reconsider
+its decision. The principle rests on the need for finality in decision making. Such finality provides
+certainty for the parties, allows reliance on the decision, limits the burden on the administrative
+system as a whole by placing an end point to a matter and allows a stable basis for judicial review
+or appeal.22 In the administrative law context, there still may be recourse to the courts through
+judicial review or, if applicable, statutory rights of appeal but an administrative tribunal (with
+certain exceptions) cannot change its decision.
+The leading decision on the application of functus officio to administrative decision-makers, such
+as the AAC, is the Supreme Court of Canada’s decision in Chandler v. Alberta Association of
+Architects (Chandler).23 Justice Sopinka, writing for the majority, found that functus officio does
+apply to administrative tribunals:
+[T]here is a sound policy reason for recognizing the finality of proceedings before
+administrative tribunals. As a general rule, once such a tribunal has reached a final
+decision in respect to the matter that is before it in accordance with its enabling statute,
+that decision cannot be revisited because the tribunal has changed its mind, made an
+error within jurisdiction or because there has been a change of circumstances. It can
+21
+
+Terms of Reference Academic Appeals Committee (February 17, 2011), section 3.1.4.
+Anna SP Wong, “Doctrine of Functus Officio: The Changing Face of Finality’s Old Guard” (2020) 98 The
+Canadian Bar Review 543.
+23
+Chandler v. Alberta Association of Architects, [1989] 2 S.C.R. 848.
+22
+
+7
+only do so if authorized by statute or if there has been a slip or error within the
+exceptions enunciated in Paper Machinery Ltd. V. J. O. Ross Engineering Corp.,
+supra.24
+To take account of the fact that the principle was being applied in the administrative law context
+as opposed to in court proceedings, Sopinka J. held that the doctrine must be applied flexibly:
+To this extent, the principle of functus officio applies. It is based, however, on the
+policy ground which favours finality of proceedings rather than the rule which was
+developed with respect to formal judgments of a court whose decision was subject to
+a full appeal. For this reason I am of the opinion that its application must be more
+flexible and less formalistic in respect to the decisions of administrative tribunals
+which are subject to appeal only on a point of law. Justice may require the reopening
+of administrative proceedings in order to provide relief which would otherwise be
+available on appeal.25
+The principle of functus officio then applies to administrative tribunals such as the AAC based on
+the need for finality of proceedings but must be applied flexibly. Unfortunately, courts have
+struggled in attempting to clarify the nature of such flexibility. There are two clear exceptions to
+the functus officio principle outlined in the Paper Machinery Ltd. decision cited by the Supreme
+Court:
+•
+•
+
+that the tribunal has made a “slip” in its decision such as a minor error in wording; and
+that the tribunal made an error in expressing its “manifest intention”.26
+
+Beyond these two exceptions, functus officio generally applies unless there is an explicit or implicit
+statutory power of reconsideration.27 A first question, then, in relation to the AAC is whether it
+has either an explicit or implicit power to reconsider its prior decisions. Both parties properly
+agree that there is no such power. Ontario’s Statutory Powers Procedure Act provides that a
+tribunal may review its decisions where it considers it advisable and its rules permit such review.28
+The AAC gets its authority under bylaws of the University of Toronto’s Governing Council as
+well as its Terms of Reference (“TOR”).29 Neither the relevant bylaw nor the TOR provide the
+AAC with an explicit power of reconsideration. Moreover, the TOR do not contain any procedures
+relating to reconsideration and emphasize that the AAC is the final decision-maker on appeals that
+have already gone through appeals processes of different divisions.30 Further, the TOR explicitly
+reference the application of the Statutory Powers Procedure Act yet do not contain any rules
+relating to reconsideration.31
+
+24
+
+Chandler, para. 76.
+Chandler, para. 77.
+26
+Chandler, para. 75.
+27
+Jacobs Catalytic Ltd. v. I.B.E.W., Local 353, 2009 ONCA 749 [Jacobs] at para. 33.
+28
+Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 21.2(1).
+29
+University of Toronto Governing Council By-Law Number 2, s. 29(b) and Terms of Reference Academic Appeals
+Committee (February 17, 2011) (AAC Terms of Reference).
+30
+ACC Terms of Reference, s. 2.1.
+31
+AAC Terms of Reference, s. 3.1.9.
+25
+
+8
+The Student argues that in applying functus officio flexibly in the administrative law context, courts
+have extended the exceptions in certain circumstances. First, the Student points out that in the
+context of court proceedings, courts have made an exception for fraud on the tribunal.32 The
+Student argues that such an exception to functus officio is appropriate also in the administrative
+law context. The decisions cited do not find such a fraud exception in the context of an
+administrative tribunal.33 Moreover, as the Federal Court of Appeal has stated, there should be a
+reluctance to find new exceptions to the functus officio rules.34 While there may be instances in
+which a tribunal (and a court) may wish to extend the exceptions to include fraud, it is unnecessary
+to decide this issue in this case. Even if such a fraud exception exists, as we will discuss in the
+next section there is no evidence of fraud in this case.
+Second, the Student points to a broader exception to the application of functus officio relating to a
+denial of “natural justice” or perhaps unfairness more generally. The Supreme Court in Chandler
+stated that a tribunal must “start afresh” where “the error which renders the decision a nullity is
+one that taints the whole proceeding” and cited cases which “involve a denial of natural justice
+which vitiated the whole proceeding.”35 The Student raised an Ontario Human Rights Tribunal
+decision and a Nova Scotia Supreme Court decision as references for tribunals obtaining the power
+of reconsideration where there was a breach of procedural fairness.36
+However, the case law seems somewhat unclear on this point. In particular, in two recent decisions
+of the Ontario Court of Appeal, the Court found that there was no power of reconsideration even
+though the contexts encompassed potential breaches of procedural fairness. In Jacobs, the Court,
+faced with an issue relating to the provision of reasons, found that there was no power of
+reconsideration, noting that “[b]eyond clerical or mathematical errors, or an error in expressing the
+tribunal’s intention, functus officio generally applies except where varied by statute. There is no
+suggestion in this case of a slip or error. Therefore the Board’s jurisdiction to revisit its reasons
+must be through the authorization of the LRA.”37 Fairness encompasses the provision of reasons.
+More recently, in Stanley v. Office of the Independent Police Review Director, the Ontario Court
+of Appeal held the Independent Police Review Director had no common law power of
+reconsideration, even though the Divisional Court had found that there was a breach of procedural
+
+32
+
+Berge v. College of Audiologists and Speech Language Pathologists of Ontario, 2019 ONSC 3351 (Berge) and
+Kennedy v. College of Veterinarians of Ontario, 2021 ONSC 578 (Div Ct) (Kennedy).
+33
+Berge centred on fraud in relation to court proceedings, although the Court, in obiter, did state that fraud on a
+tribunal should result in a motion to the tribunal (para. 22) . In Kennedy, the Court explicitly noted that it was not
+deciding whether such an exception applied to tribunals (para. 18).
+34
+Canadian Association of Film Distributors and Exporters v. Society for Reproduction Rights of Authors,
+Composers and Publishers in Canada (SODRAC) Inc., 2014 FCA 235 at para. 74.
+35
+Chandler, para. 81.
+36
+Stephens v. Lynx Industries Inc., 2006 HRTO 31 and St. George’s Lawn Tennis Club v. Halifax (Regional
+Municipality), 2007 NSSC 26. The Student also points to two BC decisions in which the courts found a power of
+reconsideration even absent a breach of procedural fairness (Zutter v. British Columbia (Council of Human Rights),
+[1995] B.C.J. No. 626 and Stenner v. British Columbia (Superintendent of Motor Vehicles), 2015 BCSC 2318).
+More recently, however, in a second judicial review the BC Supreme Court held that in the context of Stenner, there
+was no power of reconsideration (Stenner v. British Columbia (Superintendent of Motor Vehicles), 2016 BCSC
+1690.
+37
+Jacobs, at 33.
+
+9
+fairness.38 Part of the reason for the Court’s position may be that the courts have broadened the
+ability of parties to seek judicial review on the basis of procedural fairness from the time of
+Chandler.39 It is interesting to note that even the language of Chandler (regarding “natural justice”
+as opposed to fairness) is outdated in relation to judicial review on procedural grounds. The
+balance between finality and fairness may then lean more in terms of finality at the tribunal level
+as there is greater opportunity for review by the courts. In particular, in the case of the AAC,
+which sits at the end of an appeal process that spans multiple levels, it allows for a final resolution
+of appeals that gives parties certainty and provides a limit on the resources for any single appeal.
+Parties can seek judicial review of these decisions on both procedural and substantive grounds. In
+any event, as with the potential exception to functus officio for fraud, even assuming such an
+avenue for finding the power of reconsideration exists, we find (as we discuss further below) that
+there was no breach of procedural fairness in this case warranting reconsideration.
+In summary, the AAC has no express statutory power to reconsider its prior decisions. It has a
+very limited common law power to reconsider decisions where there is a minor error that amounts
+to a “slip” or where the tribunal has made an error in expressing its intent. The Student has raised
+broader exceptions to functus officio relating to fraud and breaches of natural justice. While the
+caselaw is unclear on these exceptions, it is unnecessary to decide whether they exist as even
+assuming that they do, they do not apply on the facts of this case.
+Should the AAC reconsider the Decision?
+The Student is not alleging either that the AAC made a “slip” in this case or that it failed to express
+its manifest intent. Further, as noted above, the AAC does not have statutory authority to
+reconsider its decisions. As a result, we need only consider whether it is possible that the AAC
+has the power to reconsider its decision in this case because there was a fraud on the AAC or a
+breach of natural justice.
+In terms of fraud, assuming such an exception exists, we find that there is no evidence of fraud in
+this case. Based on the materials from the FIPPA request, the Student argues that prior to the
+appeals, Dr. Frise, Professor Baxter and Professor Crowcroft “deliberately planned how to
+misrepresent key information using the excel grading sheet for assignment #4”, that Professor
+Baxter (before the GAAB) and Professors Baxter and Crowcroft (before the AAC) “deliberately
+misled the decision makers by withholding the facts regarding the 10% deduction on assignment
+#4” and that the use of assignment 1 to justify the mark on assignment 4 was “misleading”.40
+On the basis of the record including the material from the FIPPA request submitted with this
+request for reconsideration, your Committee finds no evidence supporting the allegations of fraud.
+There is no evidence of any intent to mislead either the GAAB or the prior panel of the AAC. One
+issue raised in the Student’s materials is that Professor Baxter misled the GAAB by withholding
+facts about the 10% deduction. Professor Baxter notes in an email that she was mistaken at the
+38
+
+Stanley v. Office of the Independent Police Review Director, 2020 ONCA 252 (Stanley).
+See Knight v. Indian Head School Board Division No. 19, [1990] 1 SCR 653 and Baker v. Canada (Minister of
+Citizenship and Immigration), [1999] 2 SCR 817. In Chandler, part of the concern seemed to rest on the lack of
+potential options for review absent reconsideration.
+40
+Student Submissions para. 13.
+39
+
+10
+GAAB hearing about whether a late penalty had been applied.41 This mistake made its way into
+the GAAB report as the panel stated that no late penalty had ever been applied. However,
+Professor Baxter in the contemporaneous email noted that she had been mistaken, as opposed to
+deliberately misleading. Further, even if there was a factual issue before the GAAB, it was
+clarified by the time of the AAC panel decision, as the AAC panel clearly goes through all the
+additions and removals of the late penalty related to assignment 4. At best it was a mistake before
+GAAB and the evidence suggests it did not exist at the time of the AAC hearing.
+The Student also points to an email from Dr. Frise prior to the GAAB hearing where Dr. Frise asks
+Professor Crowcroft: “Nancy – can you use the marking sheet to argue that in fact when I stated
+that the B- ‘includes the 10% late reduction’ was that I had personally already ‘waived’ it and had
+determined that I would make the B- inclusive whereas if I hadn’t waived it, it would have been a
+fail from the start.”42 There is no evidence that Professor Baxter or Professor Crowcroft attempted
+to mislead either tribunal on this issue. Professor Baxter replies “The marking sheet is [sic]
+provides compelling documentation justifying the mark she received. As stated in my response to
+the GAAB appeal, her mark was a B- on assignment #4 because the quality of her work was
+poor.”43 Further, the grading spreadsheet was provided and accepted at both the GAAB and AAC
+hearings and there is no evidence it was manipulated beyond an allegation by the Student before
+this panel that the Student does not trust it. There is no evidence either Professor Baxter or
+Professor Crowcroft tried to find some different explanation or sought to commit fraud on the
+tribunal. In fact, the overwhelming evidence, including that from the FIPPA request, supports the
+main findings of both the GAAB and the AAC that the paper was never assessed at higher than a
+70 and supports a finding that the School was placing evidence to this effect before the tribunals.
+The Student further argues that Professor Baxter and possibly Professor Crowcroft misled the
+GAAB and the AAC about the email exchange between the Student and Dr. Frise on May 24,
+2016, concerning whether the grade includes the late penalty. The Student claims the GAAB and
+the prior panel of the AAC were misled into believing that the email was ambiguous when in fact
+the evidence shows that the Student took it exactly as Dr. Frise intended it to be taken. On May
+15, 2017, Dr. Frise emailed Professors Crowcroft and Baxter prior to the GAAB hearing stating
+“You will see that her original mark was 70% and in fact although I informed her that the Bincluded the late deduction I was being quite kind to her because she should have received a failed
+grade. All in all she was given a mark way above what she ever deserved for this paper. So in
+trying to give her a break, she thinks she deserved a higher grade than she received.”44
+The GAAB notes that the communication was “confusing” and the School agreed. The AAC
+agreed that the communications could have been clearer. It is not clear what was argued before the
+GAAB or the prior panel of the AAC, although it is clear the SGS pointed out the ambiguity in Dr.
+Frise’s response. The statement was ambiguous, regardless of what Dr. Frise intended to convey.
+However, it is clear that by the time of the AAC, the communication was a live issue. The SGS
+had provided evidence concerning the grades. It noted the stages of application and removal of
+the late penalty as well as the results of the double marking. While the AAC panel noted that the
+41
+
+October 16, 2017 Email from Baxter to Crowcroft, Student Submissions p 40.
+May 15, 2017 Email from Frise to Crowcroft and Baxter, Student Submissions p 52.
+43
+May 15, 2017 Email from Baxter to Crowcroft and Frise, Student Submissions p 52.
+44
+Student Submissions, p. 53.
+42
+
+11
+communications could have been clearer, it rested its decision on the fact that there was no
+evidence that a higher grade had ever been given. It quoted a statement from the SGS submissions
+that “regardless of what Dr. Frise intended to convey (in reply to the Student’s question), the fact
+remains that [the Student’s] paper was awarded a mark of B- before any deductions took place, as
+demonstrated on the master grade spreadsheet.” The panel agreed with this statement. It found
+that there was no evidence that a higher mark was ever actually awarded. None of the evidence
+from the FIPPA request points to an intent to deceive the tribunal.
+In terms of the exception for breaches of natural justice, assuming there continues to be such an
+exception following Jacobs and Stanley, we also find that the proposed exception does not apply
+in this case. The FIPPA request turned up a range of documents that were not disclosed as part of
+the hearing process. However, the test for fairness is not whether anything more could be
+disclosed. The purpose of fairness is to ensure “administrative decisions are made using a fair and
+open procedure, appropriate to the decision being made and its statutory, institutional, and social
+context, with an opportunity for those affected by the decision to put forward their views and
+evidence fully and have them considered by the decision-maker.”45
+In this case, by the time the Student is before the AAC, she has all the documents necessary to
+make her case. She was provided with the Excel spreadsheet prior to the GAAB hearing and had
+been informed about Dr. Frise’s initial grade and the subsequent double grading. Moreover, by
+the time of the initial AAC hearing, the SGS had clarified its prior mistake in communicating
+unclearly about the late penalty. None of the material provided under the FIPPA request changes
+any of the basic facts and in fact only more strongly supports the conclusions of the prior panel of
+the AAC – that the paper was never provided a mark higher than 70 and that the 10% late penalty
+had been applied and then reduced to 7% and then waived entirely. The undisclosed documents
+inure to the benefit of the SGS, not the Student and in any event your Committee did not find any
+insufficiencies in disclosure by the time of the AAC hearing to warrant reconsideration.
+The facts do show that Dr. Frise’s email on May 24, 2016, was misleading. That unfortunate fact
+has led to considerable time and expense for both the Student and the University. However, all of
+the contemporaneous documents that were produced as a result of the FIPPA request, both before
+and after the May 24, 2016, email exchange, point to the fact that Dr. Frise and the course
+instructors viewed the paper as poorly done and that 70% was the highest mark it could receive.
+If there were any disclosure problems at the time of GAAB (such as the mistake relating to
+communicating the late penalty), they were resolved by the time of the AAC hearing (as shown by
+the detailed discussion of the marks and the late submission adjustment). There is no indication
+of any documents that the SGS could have produced that would have aided the Student in her
+appeal. No document pointed to her paper ever being assessed more than a 70 or changed the
+discussion of the late penalty in the AAC Report. The best that could be said was that the material
+made it crystal clear that at the time of the May 24, 2016 email, Dr. Frise knew that the paper was
+receiving a 70 before the 10% was removed (and then added back).
+The Student in her submissions also points to issues about wiggle room that the instructors
+maintain as well as the fact that the instructors double marked the assignments. However, the
+Student knew during the appeal process that students only receive letter grades for assignments
+45
+
+Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, at para. 22.
+
+12
+and that her assignments were double marked. These issues either could have been or were raised
+prior to the FIPPA request.
+There was clearly confusing communication on May 24, 2016, and a lack of provision of the
+spreadsheet prior to the GAAB hearing. However, the FIPPA materials only support the
+conclusion that the Student received the necessary materials to make her case. While there may
+be cases where a breach of fairness is so egregious that it gives rise to a power of reconsideration
+(which, as noted above, is not at all clear given recent caselaw), this is not such a case. Moreover,
+as noted above, fairness can clearly be raised on a judicial review application.
+Finally, the Student points to an email from the ADFG as a ground for allowing reconsideration.
+In response to a request for a meeting, Christopher Lang, the Director of ADFG, emailed to the
+Student on February 5, 2020 that “if you have received new information that you believe might
+have affected the outcome of your appeal, you can request a rehearing. If you decide to go that
+route, you need to provide my office with the material that forms the basis for your request and an
+explanation of why it might justify a rehearing. The Senior Chair would then consider the request,
+and if necessary, ask the division for a response, and then would decide whether a rehearing should
+be ordered.”46 He reiterated this statement in an email dated July 9, 2020, including that he had
+been in contact with the Senior Chair, adding that “When your lawyer makes submissions, and if
+you are successful regarding being granted a rehearing, your lawyer [can request removal of the
+prior decision from the website]… Given your concerns, I would strongly recommend your lawyer
+make their submissions soon.”47
+The Student states that “as a matter of fairness, [the Student] ought to be given the opportunity to
+seek reconsideration of the decision” as she was “advised” by Mr. Lang “that she could seek
+reconsideration. She expended significant effort, time, and resources to do so”.48 At best the
+emails from Mr. Lang would be relevant to consideration of delay in seeking reconsideration. It
+does not give rise to a promise, or legitimate expectation, of reconsideration. Mr. Lang stated that
+her request for reconsideration would be heard and your Committee has heard the request. Given
+that we do not need to address delay in this case because of our findings concerning the first issue,
+we do not need to consider the impact of these emails.
+Conclusion
+Your Committee therefore finds that there is no power for the AAC to reconsider its prior decision
+in this case. Given that your Committee finds that this case does not fit within the very limited
+circumstances permitting reconsideration, it is unnecessary to deal with the other two issues (delay
+and the merits of this appeal). However, your Committee has two further points it wishes to raise.
+First, this entire set of appeals and the request for reconsideration could have been avoided with
+better communication with the Student. Most clearly, it was not helpful that the Student was left
+with an erroneous impression about her actual mark on assignment 4 after communicating with
+her tutor. Moreover, it did not help the resolution of the concerns that the School did not provide
+the Student with a breakdown of her grades until right before the GAAB hearing – well after the
+46
+
+SGS BOD p. 266.
+SGS BOD p. 263.
+48
+Student’s Submissions, p. 5.
+47
+
+13
+Student initiated informal and formal requests for resolution at the divisional level. The Student
+has been unnecessarily stressed and both the Student and the University expended considerable
+time and expense in addressing the issue. The School should ensure steps are taken to provide
+students with timely and accurate information about their grades when they are appealed.
+Moreover, consideration should be given to provide clarity to University-wide policies on
+disclosure by divisions in academic appeals.
+Second, this request was the first time that the AAC has addressed the issue of its power of
+reconsideration. Rather than address requests on an ad hoc basis, it would be helpful for the AAC
+and the Governing Council to explicitly consider its position on reconsiderations. It may well
+decide that the AAC’s jurisdiction to reconsider decisions should be minimal due to the multilevels of appeal in the process and the resources involved in relaxing finality. However, in fairness
+to students it should do so consciously. To determine whether the TOR should be clarified in this
+regard, your Committee therefore recommends that the governance process be engaged, which
+could include holding a policy meeting of the AAC.
+
+

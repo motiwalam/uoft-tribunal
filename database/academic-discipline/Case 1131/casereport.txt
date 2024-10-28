@@ -1,0 +1,604 @@
+Case No. 1131
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic misconduct filed on December 7, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+
+B E T W E N:
+UNIVERSITY OF TORONTO (the “University”)
+- and W
+
+K
+
+S
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Hearing Date: April 5, 2021, via Zoom
+Members of the Panel:
+Ms. Cynthia Kuehl, Chair
+Professor Ian Crandall, Faculty Panel Member
+Ms. Alice Zhu, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Sonia Patel, Articling Student, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of the Appeals, Discipline and Faculty Grievances
+Not in Attendance:
+The Student
+
+-21.
+
+The hearing of the Trial Division of the University Tribunal convened on April 5,
+2021, via Zoom, to consider charges of academic dishonesty brought by the
+University against the Student under the Code of Behaviour and Academic
+Matters, 1995 (the “Code”). The Student was informed of the charges by letter
+dated December 7, 2020 from Professor Heather Boon, Vice Provost, Faculty and
+Academic Life.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to commence at 5:45 p.m. The Panel waited until
+6:00 p.m. before commencing the Hearing. The Student did not appear.
+
+3.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”)
+and Rule 17 of the University Tribunal Rules of Practice and Procedure (the
+“Rules”), a tribunal may proceed in the absence of a party provided that
+reasonable notice of an oral hearing has been given to the party in accordance
+with the Act and the Rules. Where a party does not attend the hearing and
+reasonable notice has been given, a party is not entitled to further notice.
+
+4.
+
+Pursuant to Rule 9 of the Rules, a Notice of Hearing may be served on a student
+by various means, including by: sending a copy of the document by courier to the
+student’s mailing address contained in the Repository of Student Information
+(“ROSI”) or emailing a copy of the document to the student’s email address in
+ROSI.
+
+Students are responsible for maintaining a current and valid mailing
+
+address and University-issued email account on ROSI and are expected to
+retrieve mail and email on a frequent and consistent basis.
+5.
+
+In this case, the Provost requested that the Panel proceed in the absence of the
+Student. For the reasons that follow, the Panel granted this request.
+
+6.
+
+In support of its request, counsel for the Provost filed two affidavits. The affidavit
+of Justine Cox confirmed that a letter with the charges was served on the Student
+on December 7, 2020. The Panel was satisfied that, by this delivery, the Student
+was aware of the particulars of the allegations against him.
+
+7.
+
+The affidavit of Sonia Patel affirmed March 26, 2021 set out the numerous steps
+to contact the Student through email at the address provided in ROSI, by
+
+-3telephone and by LinkedIn. These communications indicated that counsel for the
+Provost wanted to review the process for the hearing and to discuss dates.
+Importantly, the affidavit evidence also established that service of the disclosure
+brief was effected on February 8, 2021; service of the Notice of Electronic Hearing
+was effected on March 22, 2021; and service of the affidavits to be used at the
+Hearing was effected on March 26, 2021. The Panel noted that the Student’s
+online student portal was last accessed on March 4, 2021 and his email last
+accessed on March 23, 2021, after the date on which the Notice of Electronic
+Hearing was delivered.
+8.
+
+In light of this evidence, the Panel was satisfied that the Student received the
+Notice of Electronic Hearing advising him that the hearing was scheduled for April
+5, 2021, and that reasonable notice had been provided in accordance with the
+Rules and the Act. The Panel further noted that, given the Student’s failure to
+respond to any communications from counsel for the Provost despite reasonable
+notice of the charges and of the Hearing being provided, there was no reason not
+to proceed in the absence of the Student in accordance with section 7(3) of the
+Act. Accordingly, the Panel proceeded to hear the case on its merits in the
+absence of the Student.
+
+The Charges
+9.
+
+At the material times, the Student was a registered student at the University of
+Toronto, Mississauga.
+
+10.
+
+In the Charges, the Provost made the following seven allegations:
+(i)
+
+On or about October 25, 2018, the Student knowingly represented as his own
+idea, and/or the work of another in his Op-Ed assignment that he submitted
+in partial completion of the requirements for POL200Y5Y, contrary to section
+B.I.1(d) of the Code.
+
+(ii) On or about November 11, 2018, the Student knowingly represented as his
+own an idea, and/or the work of another in a Policy Brief assignment that he
+submitted in partial completion of the requirements for POL208Y5Y, contrary
+to section B.I.1.(d) of the Code.
+(iii) On or about November 11, 2018, the Student knowingly submitted academic
+work containing a purported statement of fact or reference to a source which
+has been concocted in a Policy Brief assignment that he submitted in partial
+completion of the requirements for POL208Y5Y, contrary to section B.I.1(f) of
+the Code.
+
+-4(iv) On or about May 15, 2019, the Student knowingly forged or in any other way
+altered or falsified a document or evidence required by the University of
+Toronto, or uttered, circulated or made use of such forged, altered or falsified
+document, namely a Verification of Student Illness or Injury form dated April
+5, 2019, which he submitted in support of his request for academic
+accommodation or relief in POL200Y5Y, contrary to Section B.I.1(a) of the
+Code.
+(v) On or about May 15, 2019, the student knowingly forged or in any other way
+altered or falsified a document or evidence required by the University of
+Toronto, or uttered, circulated or made use of such forged, altered or falsified
+document, namely a Verification of Student Illness or Injury form dated April
+18, 2019, which he submitted in support of his request for academic
+accommodation or relief in POL208Y5Y, contrary to Section B.I.1.(a) of the
+Code.
+(vi) On or about May 15, 2019, the student knowingly forged or in any other way
+altered or falsified a document or evidence by the University of Toronto, or
+uttered, circulated or made use of such forged, altered or falsified document,
+namely a Verification of Student Illness or Injury form dated April 25, 2019,
+which he submitted in support of his request for academic accommodation or
+relief in POL214Y5Y, contrary to Section B.I.1.(a) of the Code.
+(vii) In addition and in the alternative to paragraphs 1 through 6 above, the student
+knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in order to
+obtain academic credit or other academic advantage of any kind, in
+connection with:
+(a) the submission of his Op-Ed assignment in POL200Y5Y on or about
+October 25, 2018;
+(b) the submission of his Policy Brief assignment in POL208Y5Y on or
+about November 11, 2018;
+(c) the submission of a forged, altered or falsified document, namely a
+Verification of Student Illness or Injury form dated April 5, 2019, in
+support of his request for academic accommodation or relief in POL
+200Y5Y on or about May 15, 2019, contrary to Section B.I.3.(b) of the
+Code;
+(d) the submission of a forged, altered or falsified document, namely a
+Verification of Student Illness or Injury form dated April 18, 2019, in
+support of his request for academic accommodation or relief in
+POL208Y5Y on or about May 15, 2019, contrary to Section B.I.3(b) of
+the Code; and
+(e) the submission of a forged, altered or falsified document, namely a
+Verification of Student Illness or Injury form dated April 25, 2019, in
+support of his request for academic accommodation or relief in
+POL214Y5Y on or about May 15, 2019, contrary to Section B.I.3.(b) of
+the Code.
+
+-511.
+
+The Provost advised that it would withdraw allegation seven if findings were made
+on allegations one to six. Ultimately, allegation seven was withdrawn.
+
+12.
+
+Detailed particulars in support of the allegations was provided in the Charges.
+
+The Evidence
+13.
+
+The Panel received affidavit evidence from Emily Nacol, Assistant Professor in
+the Department of Political Science of the University of Toronto, Mississauga, and
+Professor for POL200Y5Y; Noel Anderson, Assistant Professor in the Department
+of Political Science of the University of Toronto, Mississauga, and Professor for
+POL208Y5Y; and Michelle Kraus, Associate Registrar, Academic Standards,
+Financial Aid and Advising of the Office of the Registrar of the University of
+Toronto, Mississauga. Professor Nacol, Professor Anderson and Ms. Kraus were
+affirmed and made available to the Panel to ask follow up questions on their
+affidavit evidence.
+
+14.
+
+Professor Nacol’s evidence focused on the Op-Ed assignment. She explained in
+her affidavit that, at the beginning of the course, she emphasized the importance
+of academic integrity, noting that a significant section of the POL200Y5Y syllabus
+specifically addressed academic honesty and plagiarism. Examples of plagiarism
+and warnings to the students as to what constitutes plagiarism were provided.
+
+15.
+
+According to Professor Nacol, the Student submitted his Op-Ed assignment,
+which was worth 15% of his mark, via TURNITIN. Professor Nacol acknowledged
+that TURNITIN is a blunt instrument for detecting plagiarism and is used as an
+initial screen only. Where the TURNITIN originality report has a high similarity
+index to other sources in the TURNITIN database, she reviews the citations
+herself. In this case, she discovered that three full lines of the three-page Op-Ed
+assignment were nearly identical to the first lines of an online essay. The Student
+had not paraphrased the information, used quotation marks, or cited to the source.
+Her affidavit attached a copy of the Op-Ed assignment as well as the source
+document, with highlighting to show the degree of overlap.
+
+16.
+
+Professor Anderson similarly emphasized to students the importance of academic
+integrity in his syllabus for POL208Y5Y. Like his colleague, he provided warnings
+about plagiarism, including examples of it.
+
+-617.
+
+Professor Anderson explained that the Policy Brief assignment was due
+November 6, 2018 and was worth 10% of his mark. Students were specifically
+instructed to cite “any and all sources consulted, using a consistent citation style.”
+Upon submission of the Student’s Policy Brief assignment via TURNITIN, the
+TURNITIN originality report indicated a 57% similarity index to other sources in
+the TURNITIN database. The Student quoted verbatim from secondary sources
+but did not use quotation marks; copied text from secondary sources near
+verbatim (i.e., by only changing a few words); and included a quotation on page
+4 of the Policy Brief assignment purportedly from a slideshow done by Professor
+Anderson that does not appear in the slideshow itself.
+
+18.
+
+Professor Anderson’s affidavit (the “Anderson affidavit”) included the two articles
+that had matching texts, as well as a highlighted copy of the Policy Brief
+assignment in support of the allegations of plagiarism. In his oral evidence,
+Professor Anderson also noted that the Student had cited source material in some
+of the footnotes (e.g. footnotes 9 and 10) but those citations were different than
+other material that Professor Anderson had identified as the likely source of the
+content. By way of example, the Student cited to Brzezinski, 2014 on the first page
+of his paper, whereas Professor Anderson traced the language in the paper to an
+article by Houda (Exhibit E to the Anderson affidavit). Houda does not cite
+Brzezinski.
+
+This happened a few times in the paper.
+
+From this, the
+
+Provostalleged that the Student had concocted those references, that is the
+Student made up the source altogether. Professor Anderson, however, testified
+that he did not check the secondary sources that were cited by the Student to see
+if they were in fact made up. Professor Anderson met with the Student, but this
+issue was not raised with him.
+19.
+
+Finally, the affidavit of Michelle Kraus provided detailed evidence with respect to
+the process to obtain Verification of Student Illness or Injury forms (“VOI”). Ms.
+Kraus explained that illness can be an acceptable reason for missing a final exam,
+and accommodations can be made if a petition and VOI are submitted.
+Documentation must be submitted in support of the VOI to demonstrate that a
+physician was consulted on the day of the missing examination or immediately
+thereafter i.e. the next day.
+
+-720.
+
+Ms. Kraus indicated that the Student wrote one final exam in April 2019 and
+submitted six petitions/VOIs to defer four other final exams as follows:
+(a)
+
+A VOI for POL355Y, which was signed by Dr. Ramton Samie, seeking to
+defer the Student’s exam due to the illness. This VOI appeared to be valid
+and was accepted;
+
+(b)
+
+A petition to defer the exam in POL208Y due to illness, which was
+submitted on April 21, 2019 without supporting documentation. It was
+granted on condition that the supporting documentation would be
+provided;
+
+(c)
+
+A petition to defer the exam in POL200Y due to illness, again submitted
+without supporting documentation and granted on condition that the
+documentation would be provided;
+
+(d)
+
+A petition to defer the POL214Y exam due to illness, again submitted
+without any supporting documentation and granted on condition that the
+documentation would be provided;
+
+(e)
+
+A second deferral of the POL355Y exam, which was subsequently
+cancelled; and
+
+(f)
+
+A petition for a second deferral of the POL208Y exam, together with a VOI
+dated April 30, 2019 signed by Dr. Samie. That petition was also granted
+allowing the student to write a second deferred exam during the August
+special deferred exam period.
+
+21.
+
+On May 15, 2019, three additional VOIs were submitted to the Office of the
+Registrar in an envelope bearing the Student’s handwritten name, his student
+number and the date. These VOIs purported to be the supporting documentation
+for the conditional deferrals. These VOIs indicated that the Student had met with
+Dr. Keith Wong on April 5, 18, and 25, 2019 and contained what was purported
+to be Dr. Wong’s signature and stamp from St. Michael’s Hospital.
+
+22.
+
+Upon investigation by the University, it was determined that the registration
+number for Dr. Wong listed on the VOIs actually belonged to another physician,
+Dr. Tony Zhong. When Dr. Zhong’s office was contacted, they confirmed that Dr.
+
+-8Zhong does not practice at St. Michael’s Hospital and accordingly would not have
+met with the Student at that Hospital on those dates. The Hospital could not find
+anything under the Student’s name, in the absence of a health card number.
+23.
+
+At a meeting held with the Student and the Dean’s Designate for Academic
+Integrity at UTM at which Ms. Kraus attended, the Student admitted that he had
+plagiarised the Op-Ed assignment and signed an Academic Integrity form
+admitting that he was guilty of committing an academic offence. He also admitted
+to plagiarising the Policy Brief assignment, and signed an Academic Integrity form
+admitting he was guilty of committing an academic offence.
+
+24.
+
+The Student denied that he had submitted to the Office of the Registrar the VOIs
+purportedly signed by Dr. Wong. He claimed not to know how the Wong VOIs
+were delivered to the Office of the Registrar. He could not explain why anyone
+would submit medical notes with his name, student number and exam dates, or
+how they would even have that personal information. He claimed that the only
+VOIs he ever submitted were from Dr. Samie. Of note, however, those VOIs were
+not in support of his petitions to defer POL208Y, POL200Y or POL214Y and no
+other supporting documentation was submitted in support of those deferrals.
+
+Decision of the Tribunal on Charges
+25.
+
+Having considered all the evidence heard during the hearing and the affidavit
+evidence, the Panel found the Student committed academic offences, in that he
+represented as his own an idea and/or the work of another in both the Op-Ed
+assignment and the Policy Brief assignment. The Panel noted that the Student
+had admitted that he had engaged in plagiarism.
+
+26.
+
+The Panel, however, was not satisfied that the Provost had demonstrated on a
+balance of probabilities that a reference to a source in the Policy Brief assignment
+had been concocted. While the Panel agrees that the Student cited a different
+source for the ideas cited than the articles identified by Professor Anderson, the
+Panel is troubled by the fact that no one checked the sources cited by the Student
+to ensure that the same or similar information was not contained in that material
+as well. For an allegation of concoction to be proven on a balance of probabilities,
+the Provost needed to demonstrate that the source that was cited could not be
+valid.
+
+Thus, while there were other clear instances of plagiarism that were
+
+-9established and for which the Student had made admissions, the separate
+allegation of concoction was not sufficiently proven.
+27.
+
+As a result, the Panel found that the Provost had established allegations 1 and 2,
+but not allegation 3.
+
+28.
+
+The totality of the evidence supported findings in respect of allegations 4, 5 and
+6, namely that the Student made use of forged, altered or falsified documents in
+support of his request for exam deferral from the three courses, contrary to section
+B.I.1.(a) of the Code.
+
+29.
+
+In particular, the Panel accepted that the Wong VOIs were not signed by Dr. Wong
+nor by Dr. Zhong, and were likely falsified. While the Panel understands that, had
+the Student attended the hearing, he would have likely denied that he had
+delivered the Wong VOIs to the Registrar’s office (as that is what he advised at
+the Dean’s hearing), there is simply no one else who would have had the
+necessary information or motivation to do so. It is important to note that the
+requests for deferrals had been conditionally granted pending receipt of relevant
+documentation. If the Wong VOIs were not submitted by the Student, then the
+Student failed to ever support the required documentation for his petitions. The
+Panel does not accept that to be a likely situation; rather, it is a more likely and
+reasonable inference that the Student had falsified those documents in support of
+his deferral request.
+
+30.
+
+Accordingly, the Panel found that the Provost had established allegation 4, 5 and
+6.
+
+31.
+
+Having been advised of these findings, the University withdrew allegation 7.
+
+32.
+
+The Provost sought the following penalties:
+
+Penalty
+
+(a)
+
+A final grade of zero in POL200Y5Y, POL208Y5Y, and POL214Y5Y, in
+the 2018-2019 term;
+
+(b)
+
+A suspension from the University for five years from the date of this order;
+and
+
+- 10 (c)
+
+A notation of the sanction on the student’s academic record and transcript
+for six years from the date of this order.
+
+33.
+
+The University also sought as part of the order that the case be reported to the
+Provost for publication of a notice of the decision of the Tribunal and the sanctions
+imposed, with the name of the Student withheld.
+
+34.
+
+The Provost called no further evidence in support of the penalty.
+
+Decision of the Tribunal and Penalty
+35.
+
+The Panel heard submissions regarding the appropriateness of the penalty and
+reviewed relevant past decisions of the Tribunal submitted by the University. It
+carefully considered the factors set out in University of Toronto and Mr.C. (File
+Number 1976/77-3; dated November 5, 1976), as follows:
+(a)
+
+The character of the Student
+
+As the Student did not participate in the proceeding, there is no evidence before
+the Panel regarding the Student’s character other than the facts relating to this
+offence. Those facts were concerning, given that these were multiple incidences
+of plagiarism, as well as falsification of documentation.
+(b)
+
+The likelihood of a repetition of the offence
+
+The Student did not have a prior record of academic offices.
+
+However, the
+
+offences were not isolated incidents. Given the Student did not attend the hearing,
+the Panel is unable to make any further findings regarding the likelihood of
+repetition of offence in the future.
+(c)
+
+The nature of the offence committed
+
+The Panel noted that the very serious and deliberate nature of these offences, and
+the detriment to the University as well as the broader community. The University
+must be able to trust that its students are submitting legitimate documentation in
+support of accommodation and late withdrawal requests. When students abuse
+that trust, they risk the ability of other students, in future, to obtain that type of
+accommodation.
+(d)
+
+Any extenuating circumstances surrounding the commission of the
+offence
+
+- 11 There is no evidence before the Panel of mitigating extenuating circumstances.
+While the Student did admit guilt with respect to the plagiarism charges, there was
+no explanation as to why he engaged in that conduct.
+(e)
+
+The detriment to the University occasioned by the offence
+
+The Panel accepts that not only was the University’s trust in students harmed, but
+its placement in the broader community is affected in these circumstances. Here,
+the Student implicated two medical professionals, including Dr. Zhong whose
+name has been previously used in similar cases.
+
+This has the effect of
+
+undermining the integrity of those medical professionals, and is profoundly unfair
+to them. It denigrates the relationship that the University has with the greater
+community, and undermines the procedure that the University has for assessing
+and granting accommodations.
+(f)
+
+The need to deter others from committing a similar offence
+
+General deterrence is an important factor in these cases. Given the number of
+relevant cases, it is apparent that the misuse and falsification of VOIs is an ongoing
+issue at the University for which there must be deterrence. It is also recognized
+that plagiarism strikes at the heart of academic integrity. Accordingly, it is
+appropriate to send a strong message to students that this type of misconduct will
+be treated very seriously.
+36.
+
+The determination of an appropriate penalty depends on the assessment of the
+principles and factors in light of the individual circumstances in this case. There
+should also be a general consistency in the approach of a Panel to sanction, so
+that students are treated fairly and equitably. Accordingly, the Panel carefully
+considered the reasonable range of penalty dispositions as set out in the various
+authorities put before it by the University.
+
+37.
+
+The University noted that the starting point for penalty is a two-year suspension
+plus a three-year notation. However, the chart of cases provided by the University
+demonstrates that, where there has been repeated conduct with multiple charges,
+as here, the penalty will be much more significant.
+
+38.
+
+Having regard to the cases presented by the University and its submissions, as
+well as the relevant factors outlined above, the Panel agreed that a mark of zero,
+
+- 12 significant length of suspension and a notation of the sanction on the academic
+record and transcript were all appropriate. The Panel recognized the various
+serious nature of the offences and the number of them. However, as this was the
+student’s first offence, the Panel concluded that applying the maximum period of
+suspension of five years was not appropriate and would not be consistent with
+the outcomes in the authorities presented.
+39.
+
+Accordingly, the Panel concluded that the suspension from the University should
+be for a period of four years, with a notation on the academic record for five years.
+Such a lengthy suspension should have the effect of sending a clear message
+that this type of conduct will not be tolerated, while recognizing that this was the
+Student’s first (and hopefully, only) time before this Tribunal.
+
+40.
+
+Accordingly, at the conclusion of the hearing, the Panel made the following order:
+
+(i)
+
+THAT the hearing may proceed in the absence of the Student.
+
+(ii)
+
+THAT the Student is guilty of:
+(a)
+
+two counts of plagiarism, contrary to section B.I.1.(d) of the Code; and
+
+(b)
+
+three counts of knowingly forging, altering, or falsifying a document or
+evidence required by the University, or uttering, circulating, or making use
+of any such forged, altered, or falsified document, contrary to section
+B.I.1.(a) of the Code.
+
+(iii)
+
+THAT the following sanctions shall be imposed on the Student:
+(a)
+
+a final grade of zero in POL200Y5Y, POL208Y5Y, and POL214Y5Y, in
+the 2018-2019 term;
+
+(b)
+
+a suspension from the University for four years from the date of this order;
+and
+
+(c)
+
+a notation of this sanction on the Student’s academic record and transcript
+for five years from the date of this order.
+
+(iv)
+
+THAT this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+- 13 Dated at Toronto this 24th day of June, 2021.
+
+Original signed by:
+
+_________________________________
+Ms. Cynthia Kuehl, Chair
+On behalf of the Panel
+
+

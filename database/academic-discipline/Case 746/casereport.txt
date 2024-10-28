@@ -1,0 +1,727 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 7, 2014,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971 , c. 56 as
+amended S.O. 1978, c. 88
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+REASONS FOR DECISION
+
+Hearing Date: Friday, December 12, 2014
+Members of the Panel:
+Mr. Bernard Fishbein, Chair
+Professor Michael Saini, Faculty Panel Member
+Ms. Susan Mazzatto, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Discipline Counsel, Paliare Roland Barristers
+In Attendance:
+Professor Raymond Grinnell, Senior Lecturer, Department of Computer and
+Mathematical Sciences
+Ms. Nikki Alber, Graduate Student, Department of Biological Sciences
+Professor Wayne Dowler, Dean's Designate, University of Toronto Scarborough
+Not in Attendance:
+Ms. ~ ~
+. the Student
+Ms. Natalie Ramtahal, Coordinator, Appeals, Discipline and Faculty Grievances
+
+2
+
+[1]
+
+The student,
+
+'9 •
+
+("the Student") was charged with violations of the
+
+University of Toronto ("the University") Code of Behaviour on Academic Matters, 1995
+(the "Code") as follows:
+1.
+
+On February 27, 2013, you knowingly used or possessed an
+
+unauthorized aid in the Midterm Test in MATA33 (the "Course"), contrary
+to section B.1.1.(b) of the Code.
+2.
+
+In the alternative, on February 27, 2013, you knowing ly engaged in
+
+a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with the Midterm Test in the Course, contrary to section B.1.3.(b) of the
+Code.
+Particulars of the offences charged are as follows:
+
+3.
+
+At all material times you were a student at the University of Toronto
+
+Scarborough.
+
+In Winter 2013, you enrolled in the Course, which was
+
+taught by Dr. Raymond Grinnell and Dr. Eric Moore.
+4.
+
+On February 27, 2013, you wrote the Midterm Test in the Course
+
+(the "Test"), which was worth 30% of your final grade in the Course.
+5.
+
+During the Test, you were permitted to possess and use a standard
+
+calculator that did
+
+not perform any graphing, matrix operations,
+
+numerical/symbolic differentiation or integration functions . You were not
+permitted to have any other aids.
+6.
+
+During the Test, you knowing ly used and/or possessed a Casio
+fx-99 1ES PLUS calculator (the "Calculator'').
+
+7.
+
+The Calculator was unauthorized because:
+
+3
+
+a)
+
+the
+
+Calculator
+
+could
+
+perform
+
+functions
+
+that
+
+were
+
+unauthorized, including matrix operations; and
+b)
+
+the back of the Calculator and the inside of the Calculator's
+case contained handwritten notes of formulas. The formulas
+were relevant to the Course.
+
+8.
+
+You knew that:
+a)
+
+you were not permitted to use or possess a calculator that
+could
+
+perform
+
+any
+
+graphing,
+
+matrix
+
+operations,
+
+numerical/symbolic differentiation or integration functions
+during the Test; and
+b)
+
+the
+
+Calculator could
+
+perform
+
+some
+
+or all
+
+of these
+
+unauthorized functions.
+9.
+
+You knew that:
+a)
+
+you were not permitted to have any notes or formulas during
+the Test; and
+
+b)
+
+the back of the Calculator and the inside of the Calculator's
+case contained handwritten notes of formulas relevant to the
+Course.
+
+10.
+
+You used and/or possessed the Calculator during the Test for the
+
+purpose of obtaining academic credit or an academic advantage.
+[2]
+
+A Notice of Hearing was sent by email and courier to the Student advising of a
+
+hearing date of Friday, December 12, 2014 at 9:45 a.m. in the Boardroom (Rm. 209),
+Simcoe Hall at the University.
+
+The Panel of the Tribunal waited for approximately
+
+25 minutes but the Student failed to attend.
+
+In fact, the Student did not attend
+
+4
+
+throughout the course of the hearing and had never responded at all to the University
+since the incident which led to these Charges.
+
+Whether the University Could Proceed in the Absence of the Student
+[3]
+
+The University filed the Policy on Official Correspondence with Students
+
+(the "Policy") which provides:
+"The University and its divisions may use the postal mail system and/or
+electronic message services (e.g.,, electronic mail and other computerbased on-line correspondence systems) as mechanisms for delivering
+official correspondence to students.
+
+Postal Addresses and Electronic Mail Accounts
+Students are responsible for maintaining and advising the University, on
+the University's student information system (currently ROSI), of a current
+and valid postal address as well as the address for a University-issued
+electronic mail account that meets a standard of service set by the VicePresident and Provost.
+
+5
+
+Students' rights and responsibilities regarding retrieval of official
+correspondence
+
+Students are expected to monitor and retrieve their mail, including
+electronic messaging account[s] issued to them by the University, on a
+frequent and consistent basis. Students have the responsibility to
+recognize that certain communications may be time-critical. Students have
+the right to forward their University-issued electronic mail account to
+another electronic mail service provider address but remain responsible
+for ensuring that all University electronic message communication sent to
+the official University-issued account is received and read .
+"
+
+[4]
+
+The University also filed an affidavit of Janice Patterson, a law clerk in the office
+
+of the University Discipline Counsel. It attached the ROSI account of the Student. The
+ROSI account indicated an address of
+("the ROSI address") which was effective from 2012-08-13 to 2015-08-31 , as well as
+another address in China. It also indicated a phone number ("the ROSI phone number")
+and the University email address for the Student ("the ROSI email"). The ROSI account
+also indicated that the Student had only successfully completed two half-credits in her
+three terms at the University and had not been enrolled in the University since the end
+of the Winter term of 2013.
+[5]
+
+The Charges had been emailed to the Student's ROSI email on January 9, 201 4
+
+twice (the second time was required because a page had been missing in the first
+
+6
+
+transmission). A full disclosure package (which also included the Charges and the
+University's Policy on correspondence) was sent to the Student's ROSI address by
+courier.
+
+It was not returned but the courier records indicated it was accepted by
+
+someone named "~
+
+". A disclosure package was also sent by email to the ROSI
+
+email. In addition, Ms. Patterson attempted to telephone the ROSI phone number to
+contact the Student but only reached people that could not speak English. As well,
+there were various emails to the ROSI email from the Discipline Counsel (who at the
+time had carriage of this matter) to the Student proposing various dates and asking for
+hearings and meetings and asking her to respond. She never did .
+[6]
+
+None of these emails that were sent to the Student's ROSI email ever
+
+"bounced back" to the University as undeliverable.
+
+This includes, as well, various
+
+emails and letters from the University to the Student attempting to arrange various
+meetings prior to the laying of the Charges as well as the email of January 10, 2014
+setting out the Charges and the email of November 6, 2014 setting out the time of the
+hearing. In addition, those were also sent by courier to the ROSI address and were
+either left on the porch or in the mailbox and were not returned.
+[7]
+
+In addition, the University filed further affidavits of unsuccessful attempts to serve
+
+the Student with all of the documents at the ROSI address and a further search of the
+Ministry of Transportation records which indicated that the Student's ROSI address was
+the same and had not been changed on her driver's license.
+
+7
+
+(a)
+
+The University's Submissions
+
+[8]
+
+In all the circumstances, the University submitted that the Student had chosen
+
+not to cooperate or respond in any way and the Panel ought to proceed to deal with the
+Charges in the Student's absence.
+
+This was true as far back as the Winter 2013
+
+semester when the Student was still enrolled and when the incidents occurred.
+[9]
+
+The University pointed out that the Notice of Hearing clearly stated:
+
+"If you do not attend, the hearing may take place without you and you will
+not be entitled to further notice in the proceeding."
+
+[10]
+
+The Tribunal's Rules of Practice and Procedure clearly envisaged:
+
+"9.
+
+Charges, notices of hearing, disclosure, material for use on
+
+motions, orders, and reasons for decision may be served on a student or
+sent to a student:
+
+(b)
+
+by sending a copy of the document by courier to the
+student's mailing address contained in ROSI, or . . . and
+service shall be effective on the day the document is
+delivered by the courier;
+
+(c)
+
+by e-mailing a copy of the document to the student's e-mail
+
+address contained in ROSI, or ...
+
+and service shall be
+
+effective on the day the document is sent by e-mail;
+
+,,
+That was done here. Moreover, section 14 of the Tribunal's Rules required
+notice of an oral hearing to include:
+
+8
+
+"(c) a statement that if a person notified does not attend at the
+hearing, the panel may proceed in the person's absence and
+the person will not be entitled to any further notice in the
+proceeding.
+"
+
+The Notice of Hearing in this case complied with the requirements of Rule 14.
+[11]
+
+Lastly, Rule 17 clearly provided:
+"17.
+
+Where notice of an oral hearing, ... has been given to a person in
+
+accordance with this rule, and the person does not attend at or does not
+participate in the hearing, the panel may proceed in the absence of the
+person or without the person's participation and the person is not entitled
+to any further notice in the proceeding."
+(b)
+
+Decision
+
+[12]
+
+After considering the submissions of the University and the circumstances of this
+
+case, the Panel unanimously ruled to proceed in the absence of the Student.
+
+II
+
+The Charges Against the Student
+
+[13]
+
+The Charges arose out of the Midterm Test in MATA33H3 (Calculus for
+
+Management II) (the "Course") which was administered on February 27, 2013.
+
+Throughout the Course and in the specific instructions for the Midterm Test, students
+were advised that only "standard" calculators were permitted -
+
+calculators that could
+
+perform graphing, matrix operations, numerical/symbolic differentiation or integration
+functions were not "legal calculators". The Student was found not only in possession of
+
+9
+
+an illegal calculator during the course of the Midterm Test, but upon examination, both
+the case and back of the calculator had equations and formulas written on them that
+were relevant to the Course and knowledge of which was being tested on the Midterm
+Test.
+
+The University presented the evidence of two witnesses, Ms. Nikki Alber and
+
+Professor Raymond Grinnell, who both gave their testimony after affirming.
+(a)
+
+Ms. Alber
+
+[14]
+
+Nikki Alber was a PhD student in Biology and also served as an invigilator at the
+
+University for exams and tests. She was also a member of the Exam Support Team at
+the University's Scarborough Campus.
+
+At the time of the incidents leading to the
+
+Charges, Ms. Alber had invigilated at least 50 different exams and midterm tests.
+[15]
+
+Ms. Alber was one of the invigilators in one of the rooms for the Midterm Test in
+
+the Course on February 27, 2013.
+
+In the room that she was invigilating with
+
+Professor Eric Moore, there were approximately 80 students. Professor Moore was one
+of the teachers of the Course. The exam was being conducted in at least one (if not
+two) other room where the professor in charge of the Course, Professor Grinnell, was
+invig ilating.
+[16]
+
+At the commencement of the Midterm Test, written instructions were handed out.
+
+Those instructions provided, inter a/ia:
+3. You may use at most one hand-held calculator during the test.
+However, your calculator cannot perform any of: graphing, matrix
+operations, numerical/symbolic differentiation or integration. Calculators
+will be checked during the writing of the test. If you are found to have a
+
+10
+calculator that performs any of the operations above (whether you know
+how to use them or not), you will be asked to turn it off and put it beneath
+your seat for the rest of the test. Calculator borrowing or sharing is not
+allowed.
+4. The following are forbidden at your test writing space either by intent or
+by accident:
+
+cell-phones,
+
+smart phones,
+
+laptops,
+
+I-pods,
+
+MP-3s,
+
+Blackberrys, or other electronic devices that are not a standard hand-held
+calculator, scrap paper, notes, and textbooks.
+[17]
+
+In addition, Ms. Alber announced out loud prior to the commencement of the
+
+Midterm Test that students were prohibited from having both illegal calculators and
+notes. After the test had begun and taking a head count and a quick walk-through,
+Ms. Alber began a person-to-person check of each student at each desk. She checked
+their ID and their student card and their calculators. For each calculator, she would
+check to see whether it was illegal (by checking to see if it had buttons to perform the
+illegal operations) as well as looking on the back of the calculator and its case to make
+sure that it had no improper notes. She did this for the Student and discovered not only
+an illegal calculator, but extensive notes and formulas both on the back of the calculator
+and on the case.
+
+Ms. Alber explained that the calculator was "illegal" because it
+
+automatically performed the functions, which the students were being tested upon in the
+Midterm Test.
+[18]
+
+Ms. Alber then questioned the Student about the notes. The Student said the
+
+notes were not for this Course. The calculator was turned on. Ms. Alber confiscated
+the calculator.
+
+Ms. Alber then immediately advised Professor Moore of what had
+
+transpired and then found Professor Grinnell in the other room where he was invigilating
+
+11
+and advised him of what had transpired. The Student was allowed to complete the
+balance of the exam.
+(b)
+
+Professor Grinnell
+
+[19]
+
+Professor Grinnell also gave testimony. He has been teaching at the University
+
+for eleven and a half years in the Department of Computer & Mathematical Sciences at
+the University's Scarborough Campus. He was the senior instructor for the Course. He
+had taught the Course perhaps ten times before over the previous seven years.
+[20]
+
+Professor Grinnell identified the Course Information Policies ("CIP") for the
+
+Course, which indicated the method of evaluation of the Course (including the Midterm
+Test worth 30% of the Course mark) and the rules and policies of the Course including
+the policy with respect to illegal calculators.
+homepage.
+
+The GIP was posted on the Course's
+
+In addition to the CIP, the homepage had the Course syllabus (the
+
+academic content of a course), weekly assignments, the answer sheets, past exams,
+midterms and Notices of other information that might arise during the Course.
+Accordingly, it would be expected that students in the Course would regularly visit the
+homepage.
+[21]
+
+There were approximately 550 students in the Course. The Midterm Test was
+
+written in February 2013 in two or three different exam rooms. All students wrote the
+same Midterm Test.
+[22]
+
+Professor Grinnell pointed to the CIP, which clearly explained the types of illegal
+
+functions not allowed on calculators to be used for the Midterm Test. Professor Grinnell
+
+12
+explained that the reason for this was so that calculators would not be used to perform
+what the students were being taught and being evaluated on, thereby defeating the
+purpose of the Midterm Test. In addition to the GIP, Professor Grinnell said students
+would be informed of this repeatedly in lectures. Professor Grinnell also pointed out
+that the same rules would apply in Calculus for Management I (MATA32), which was a
+prerequisite to the Course.
+[23]
+
+Professor Grinnell also pointed out that the Information Sheet was not only
+
+distributed at the outset of the Midterm Test but was also posted on the homepage and
+also specifically addressed the question of illegal calculators.
+[24]
+
+Professor Grinnell did not know the Student before the Midterm Test. However,
+
+her use of the illegal calculator was brought to his attention by the invigilator during the·
+Midterm Test, Nikki Alber, who showed him the calculator. It was clear from the buttons
+alone that it was an illegal calculator because those buttons performed all of the
+prohibited functions.
+
+In addition, Professor Grinnell identified a page on the internet
+
+from Casio, the manufacturer of the particular calculator, which lists all of the illegal
+functions that the calculator performs. Professor Grinnell also identified the user guide
+for the calculator, which also gave lengthy and explicit instructions on how to perform all
+of the prohibited functions.
+
+[25]
+
+Professor Grinnell also reviewed the notes and formulas that were on the back of
+
+the calculator and on the calculator case. He indicated that when first presented with it,
+he had to reflect for a moment because he had never previously encountered such a
+blatant example of illegal aids or "cheat sheets".
+
+Ms. Alber then directed Professor
+
+13
+
+Grinnell to where the student was sitting during the Midterm Test. Professor Grinnell
+went over and wrote down the Student's name from either her student identification
+card, which was on her desk or from the exam paper. He then advised the Student that
+she was using a forbidden calculator and that it would be confiscated. He advised her
+that she should complete the exam.
+[26]
+
+Professor Grinnell had no further contact with the Student and then reported the
+
+incident to the appropriate channels which ultimately led to the initiation of the Charges
+against the Student under the Code.
+
+When asked why the illegal calculator was
+
+confiscated and not merely turned off and placed under the Student's desk as was
+indicated in the instructions to the Midterm Test, Professor Grinnell said it was simply a
+case of the severity of the infraction. Not only was the calculator illegal, but he had
+never seen an example of such blatant and copious improper notes or cheat sheets
+written onto a calculator or a calculator case.
+
+(c)
+
+Submissions of the University
+
+[27]
+
+The University submitted that all of the elements of a violation of section B.1.1.(b)
+
+of the Code had been made out -
+
+that the Student had knowingly used or possessed
+
+an unauthorized aid in the Course. Not only was the Student in possession of an illegal
+calculator but also a "jawdropping" amount of improper notes during the course of the
+Midterm Test.
+
+In the circumstances, the Student not only had to know that the
+
+calculator was illegal, but that this was clearly so.
+
+In any event, there could be no
+
+possible explanation for the use of the improper notes present on the back and on the
+case of the calculator. The Student had seen fit not to participate in any way in these
+
+14
+
+hearings and other than her remark to Ms. Alber that the notes were for another course
+(which in any event would not have in any way made them proper), there was no
+possible explanation or justification for their presence during the Midterm Test, in blatant
+violation of the clearly-understood instructions for the Midterm exam.
+
+(d)
+
+Decision
+
+[28]
+
+After considering the evidence and submissions of the University ballot, the
+
+Panel ruled unanimously that the University had established a violation of section
+B. I. 1. (b) of the Code in that the Student had knowingly used or possessed an
+unauthorized aid in the Course.
+
+In light of this ruling, the University withdrew its
+
+allegation made in the alternative that the Student violated section B.1.3.(b) of the Code
+in that she knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in order to
+obtain academic credit or other academic advantage of any kind in connection with the
+Course.
+
+Ill
+
+Penalty
+
+(a)
+
+University's Submissions
+
+[29]
+
+In the circumstances, the University sought a penalty of:
+a)
+
+a grade of O in the Course for the Student;
+
+b)
+
+a suspension of the Student from the University for two years from
+the date of the hearing;
+
+15
+
+c)
+
+a notation on the Student's transcript for three years from the date
+of this hearing; and
+
+d)
+
+a publication of the outcome of this case with the name of the
+Student withheld.
+
+[30]
+
+Although a first offence by the Student, the University asserted that there were
+
+no particular mitigating circumstances here. The Student had failed to cooperate or
+engage with the process at all, making the process all the more difficult for the
+University. There was nothing salient or relevant offered by the Student at any point in
+time to mitigate or explain her conduct.
+[31]
+
+In the University's view, a two-year suspension was what had evolved in the
+
+Tribunal's
+
+jurisprudence
+
+as
+
+the
+
+standard
+
+or ordinary
+
+suspension
+
+in
+
+similar
+
+circumstances and, although conceding that sanction was in the discretion of this Panel
+pursuant to section C.ii.(b) of the Code, this was still the most appropriate sanction in
+these circumstances.
+
+Conduct of this sort was serious, a significant threat to the
+
+integrity of the evaluation processes of the University and warranted a message of
+general deterrence to the University community at large. The University referred us to
+several other Tribunal cases in similar, if not identical, circumstances where such (or
+greater) sanctions had been imposed.
+
+(b)
+
+Decision
+
+(32]
+
+It was the unanimous ruling of this Panel to impose the sanctions sought by the
+
+University. However, the Panel wished to observe that in view of the instructions on the
+Midterm Test (that the use of illegal calculators would result only in the Student being
+
+16
+
+asked to turn it off and put it beneath the seat for the rest of the Midterm Test), but for
+the additional and completely unjustified use of the extensive notes and formulas written
+and apparently sought to be hidden on the back of the calculator and the calculator
+case, a lesser sanction might likely have been imposed.
+
+Dated at Toronto, this ('-tf~ay of January, 2015
+
+Mr. Bernard Fishbein, Chair
+
+

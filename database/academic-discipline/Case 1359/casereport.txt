@@ -1,0 +1,304 @@
+Case No.: 1359
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 2, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and H
+
+C
+
+REASONS FOR DECISION
+
+Hearing Date: September 16, 2022, via Zoom
+Members of the Panel:
+Ira Parghi, Chair
+Professor Paul Kingston, Faculty Panel Member
+Lauren Membreno-Lepore, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Arshia Harmani, Downtown Legal Services, for the Student
+H
+C
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+
+I.
+
+Introduction
+1. The Trial Division of the University Tribunal was convened via videoconference on September 16,
+2022 to consider charges brought against H
+C (the “Student”) by the University of Toronto
+(“the University”) pursuant to the University of Toronto Code of Behavior on Academic Matters,
+1995 (“the Code”) on May 2, 2022. The charges alleged that, on or about November 26, 2020, the
+Student knowingly represented as their own an idea or expression of an idea, and/or the work of
+another, in an essay submitted in course ANT253H1.
+2. The charges were as follows:
+1.
+
+On or about November 26, 2020, you knowingly represented as your own an idea or expression of
+an idea, and/or the work of another in an essay titled “Sexuality & Ideological Language
+Applications” (“Essay”) which you submitted in partial completion of the requirements of
+ANT253H1: Language & Society 2020(9) (the “Course”), contrary to section B.I.1(d) of the Code.
+
+2.
+
+In the alternative, you knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code to obtain academic
+credit or other academic advantage of any kind in the Course in connection with your Essay, contrary
+to section B.I.3(b) of the Code.
+
+3. The particulars for the charges were as follows:
+
+II.
+
+1.
+
+At all material times, you were a registered student in the University of Toronto Faculty of Arts &
+Science. In Fall 2020, you registered in the Course, which was taught by Professor Dylan Clark.
+
+2.
+
+One of the requirements of the Course was to submit an essay, which was worth 15% of your final
+grade in the Course.
+
+3.
+
+You submitted the Essay on November 26, 2020, to fulfil this requirement.
+
+4.
+
+You purchased the Essay from a third party and then knowingly submitted it in your name. You did
+no meaningful academic work on the Essay before you submitted it.
+
+5.
+
+You knowingly included the ideas, and/or the expression of ideas, and/or the words of another in
+the Essay you submitted.
+
+6.
+
+In the Essay that you submitted, you knowingly represented the work of other persons as your own,
+and you knowingly included ideas and expressions that were not your own but were the
+unacknowledged ideas and expressions of other persons.
+
+7.
+
+For the purposes of obtaining academic credit and/or other academic advantage, you knowingly
+committed plagiarism.
+
+Liability
+4. The Provost of the University and the Student filed a joint Book of Documents (Re: Finding of
+Offence), which included an Agreed Statement of Facts (“ASF”) that was signed by the Student on
+September 6, 2022. The University and the Student agreed that each of the documents contained in
+the joint Book of Documents could be admitted into evidence before the Tribunal for all purposes,
+including for the truth of the document’s contents, without further need to prove the document, and
+that, if a document indicates that it was sent or received by someone, that is prima facie proof that
+the document was sent and received as indicated.
+
+2
+
+5. The relevant facts in this matter, as set forth in the ASF, are reproduced here (with references to
+underlying documentation removed):
+The Student’s Academic history
+The Student first registered as a student at the University of Toronto, Faculty of Arts & Science in
+Fall 2017. As of June 27, 2022 she had earned 20.0 credits with a cumulative GPA of 2.56.
+The Course
+In Fall 2020, the Student enrolled in ANT253H1: Language and Society (the “Course”), taught by
+Professor Dylan Clark.
+The Course syllabus contained a section on plagiarism. It clearly stated that answers on exams and
+assignments must be a student’s own work done independently. It advised students that Course
+essays were to be submitted to Quercus which would upload them to Turnitin.com.
+Students in the Course were required to submit, among other assessments, a written assignment
+worth 15% of the Course mark. The assignment instructions contained a detailed section on
+plagiarism.
+The Student submitted her assignment, called “Sexuality and Ideological Language Applications”
+on November 26, 2020 (“Essay”), through Turnitin.com. Turnitin flagged a similarity index of
+31%. Twenty-seven percent of the matches identified by Turnitin were to other student papers
+submitted at other educational institutions.
+Professor Clark suspected that the Student had purchased the Essay for a number of reasons,
+including:
+(a)
+
+its close match to papers submitted elsewhere by other students;
+
+(b)
+
+many citations were missing;
+
+(c)
+
+quotes that were referenced were not relevant to the content of the Essay;
+
+(d)
+
+although the Essay attempted a high-level analysis it demonstrated no understanding of the
+Course content; and
+
+(e)
+
+the Essay had almost nothing to do with linguistic anthropology or the assignment; rather,
+its discussion of the Bible and the Marquis de Sade was blatantly off topic.
+
+The Student had a meeting through the exchange of emails with Professor Clark on December 8,
+2020, after which Professor Clark forwarded the Student’s file to Student Academic Integrity.
+Dean’s meeting
+The Student attended a meeting with Arti Dhand, Dean’s Designate, on August 10, 2021. The
+Student acknowledges that Prof. Dhand provided her with the required warnings under the Code.
+The Student admitted during the meeting that she had not written the Essay but rather had purchased
+it from an online source because she wanted a better grade. She admitted that by her actions in
+purchasing the Essay she committed academic misconduct in the Course.
+
+3
+
+Acknowledgements and admissions
+The Student admits that she purchased the Essay from an online source, and that she did so to
+improve her grade in the Course.
+The Student admits that she did no meaningful academic work on the Essay.
+The Student admits that in the Essay she knew or ought to have known that she was representing
+the ideas of another author, the expression of the ideas of the author, and the work of the author as
+her own. The Student admits that she knew or ought to have known that she was committing
+plagiarism contrary to section B.I.1(d) of the Code.
+The Student admits that she knew or ought to have known that she engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind in connection with the
+Essay, contrary to section B.I.3(b) of the Code.
+The Student acknowledges that she is signing this ASF freely and voluntarily, knowing of the
+potential consequences she faces, and does so with the advice of counsel or having waived the right
+to obtain counsel.
+6. The onus on the University was to establish on a balance of probabilities, through clear and
+convincing evidence, that the Student had committed an academic offence.
+7. As noted above, the Student was charged under section B.I.1(d) of the Code with knowingly
+representing as her own an idea or expression of an idea, and/or the work of another. Additionally,
+the Student was charged, in the alternative, under section B.I.3(b) of the Code with knowingly
+engaging in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code to obtain academic credit or other academic advantage of any kind.
+8. Upon review of the ASF (including the Student’s admissions contained in the ASF) and the
+documents provided in the joint Book of Documents (Re: Finding of Offence), and upon hearing
+the submissions of counsel, the Tribunal was satisfied on the balance of probabilities that, in the
+Essay, the Student knowingly represented as her own an idea or expression of an idea, and/or the
+work of another. The Tribunal therefore accepted the Student’s guilty plea in respect of the offence
+under section B.I.1(d) of the Code.
+9. In light of the Tribunal’s finding on this charge, the second charge, relating to other forms of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise described
+in the Code contrary to section B.I.3(b) of the Code, was withdrawn by the University.
+III.
+
+Penalty
+10. The Provost of the University and the Student filed a Joint Book of Documents (Re: Sanction),
+which included a Joint Submission on Penalty (“JSP”). The JSP was signed by the Student on
+September 7, 2022. The JSP requested that the sanction in this matter be as follows:
+a. a final grade of zero in the course ANT253H1 (2020(9));
+b. The Student will be suspended from the University of Toronto for a period of four years
+from May 1, 2022 to April 30, 2026; and
+
+4
+
+c. a notation of the sanction on her academic record and transcript for five years from the date
+of the Tribunal’s order to April 30, 2027.
+11. The JSP also indicated that the parties agree that it is appropriate for this case to be reported to the
+Provost for publication of a notice of the decision of the Tribunal and the sanction imposed in the
+University of Toronto newspapers, with the name of the Student withheld.
+12. The JSP contained an acknowledgement from the Student that she had signed the JSP freely and
+voluntarily, knowing of the potential consequences she faced.
+13. The Student provided affidavit evidence on the issue of penalty. The affidavit outlined various
+personal difficulties that the Student was experiencing at the time she committed the offence. These
+included the losses of both her and her father’s jobs due to COVID, her parents’ separation, and
+mental health issues for which she had sought care during the fall of 2020. In her affidavit, the
+Student acknowledged the wrongfulness of her actions and voiced regret and remorse for them.
+She further indicated that she has been and will continue to seek professional help for her mental
+health issues.
+14. Both counsel for the University and counsel for the Student made oral submissions with respect to
+penalty.
+15. When a JSP is filed, as here, the Tribunal is not bound to follow it when determining the sanction
+in the case before it. However, the case law is clear that a JSP should be disregarded by the Tribunal
+only where giving effect to the sanction would be contrary to the public interest or would bring the
+administration of justice into disrepute (see, e.g, University of Toronto and Y.W. (Case No. 1155,
+June 17, 2019), University of Toronto and P.H.Q. (Case No. 982, May 8, 2019)).
+16. In the circumstances of this case, for the reasons outlined below, the Tribunal had no concern that
+proceeding in accordance with the JSP would be contrary to the public interest or bring the
+administration of justice into disrepute.
+17. In support of the JSP, the Tribunal was directed by the parties to a number of prior decisions of the
+Tribunal. Some of these decisions involved students who had committed similar offences to the
+one in this case, but, unlike the Student, did not submit ASFs or JSPs or otherwise cooperate in the
+process. In all of these cases, expulsion was recommended (e.g. University of Toronto and J.W.
+(Case No. 1082, August 23, 2019), University of Toronto and Z.Z. (Case No. 862, August 23,
+2016)). The Tribunal was also directed to cases that, like this one, involved students who had
+purchased essays, had no prior offences, and had submitted ASFs and JSPs. In these cases, the
+penalties were either somewhat more onerous than the one sought here (a suspension of five years
+rather than four, and a notation on the transcript for six years rather than five) (e.g. University of
+Toronto and C.L. (Case No. 1293, June 17, 2022), University of Toronto and L.S. (Case No. 1310,
+April 18, 2022)), or the same as the one sought here (University of Toronto and S.G. (Case No.
+1092, March 1, 2022)). The Tribunal noted that the jurisprudence establishes a well-defined range
+of penalties for cases like this one, and determined that the JSP proposed here fell within that range.
+18. The Tribunal also considered the principles and factors relevant to sanction as articulated in
+University of Toronto and Mr. C. (Case No. 1976/77-3, November 5, 1976). The Tribunal
+determined that these factors supported the imposition of the JSP. In this regard, the Tribunal
+observed the following:
+a. The offence is serious in nature and causes great detriment to the University and its
+students. A number of Tribunal decisions (e.g. University of Toronto and Y.G. (Case No.
+5
+
+802, September 28, 2015) have observed that plagiarism corrodes academic integrity at the
+University and undermines the relationship of trust between the University and its students.
+For these reasons, plagiarism is considered in the cases to be a very serious offence that
+warrants a serious penalty.
+b. There is a strong need to deter others from committing a similar offence, for many of the
+reasons noted above. This type of offence poses a grave threat to the integrity of the
+University’s processes for evaluating students, is profoundly unfair to other students, and
+jeopardizes the University’s reputation.
+c. At the time she committed the offence, the Student was experiencing mental health issues
+and several personal and family challenges, some of which were brought on or exacerbated
+by the COVID pandemic. The Student had sought professional help for her mental health
+issues but had discontinued her medication prior to starting the course.
+d. The Student pleaded guilty early on in the process (at the Dean’s meeting), thus
+demonstrating insight into her behaviour and remorse for her actions. Her affidavit
+evidence underscored her wish to take responsibility for her actions and her regret and
+remorse for them. It also indicated that she has been seeking professional help for her
+mental health issues and will continue to do so.
+19. The Tribunal was satisfied that these various factors were appropriately reflected in the JSP and
+that, in all of the circumstances, the appropriate penalty was the one submitted by the parties in the
+JSP.
+IV.
+
+Order
+20. At the conclusion of the hearing, the Tribunal made the following order:
+THAT Ms.
+
+is guilty of one count of plagiarism, contrary to section B.1.1(d) of the Code.
+
+THAT the following sanctions shall be imposed on Ms. C
+
+:
+
+(a)
+
+a final grade of zero in the course ANT253H1 (2020(9));
+
+(b)
+
+a suspension from the University of Toronto for a period of four years from May 1, 2022
+to April 30, 2026; and
+
+(c)
+
+a notation of the sanction on her academic record and transcript for five years from the date
+of the Tribunal’s order to April 30, 2027.
+
+THAT this case shall be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction or sanctions imposed, with the name of the student withheld.
+
+6
+
+Dated at Toronto, this 27th day of October, 2022.
+
+Original signed by:
+Ira Parghi, Chair
+On behalf of the Panel
+
+7
+
+

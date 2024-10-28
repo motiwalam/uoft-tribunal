@@ -1,0 +1,422 @@
+Case No.: 1549
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 5, 2023
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+Z
+
+C
+
+REASONS FOR DECISION
+
+Hearing Date: July 24, 2024, via Zoom
+Members of the Panel:
+Alexandra Clark, Chair
+Professor Marvin Zuker, Faculty Panel Member
+David Lio, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Coordinator and Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Z
+C
+
+2
+A.
+
+Charges
+
+1.
+
+On July 24, 2024, this panel of the University Tribunal held a hearing to consider the
+
+charges brought by the University of Toronto (the “University”) against Z
+
+C
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”).
+2.
+
+Those charges were originally set out in a letter to the Student dated October 5, 2023, as
+
+follows:
+1.
+
+On or about April 18, 2023, you knowingly used or possessed an unauthorized aid or aids
+and/or obtained unauthorized assistance in connection with the final exam in ECO102H1S,
+contrary to section B.I.1(b) of the Code (“Count 1”);
+
+2.
+
+On or about April 18, 2023, you knowingly represented as your own an idea or expression
+of an idea or work of another in connection with the final exam in ECO102H1S, contrary
+to section B.I.1(d) of the Code (“Count 2”); and
+
+3.
+
+In the alternative, on or about April 18, 2023, you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in
+connection with the final exam in ECO102H1S, contrary to section B.I.3(b) of the Code
+(“Count 3”).
+
+3.
+
+The Student was enrolled as a student at the University of Toronto at the time of the events
+
+discussed in these reasons. He appeared in person via videoconference at the initial hearing date
+in this matter on July 9, 2024. Unfortunately, on that date two of the assigned panel members
+could not attend the hearing, and so the matter was adjourned to the present hearing date.
+4.
+
+At the outset of the hearing, Assistant Discipline Counsel informed the Panel that the
+
+Student had contacted him and informed him that he was too ill to participate in the hearing.
+Assistant Discipline Counsel tendered a document titled “Consent” signed by the Student. This
+
+3
+document contained a request that the University Tribunal proceed with the hearing in his absence,
+and confirmed his understanding that the Tribunal might find that he had committed acts of
+academic misconduct and might impose sanctions on him.
+
+He also acknowledged his
+
+understanding that the Tribunal was not bound by the terms of the Joint Submission on Penalty to
+be tendered in the hearing, and he affirmed that he had signed the document voluntarily. On the
+basis of these statements and the Student’s prior appearance before the Tribunal, the Panel was
+willing to proceed in the absence of the Student.
+B.
+
+Evidence Tendered
+
+5.
+
+The Provost tendered an Agreed Statement of Facts executed by the Student and by
+
+Assistant Discipline Counsel on June 14, 2024 (the “ASF”) and an attached Book of Documents
+(the “Book of Documents”). The summary of events set out below is drawn from the ASF and the
+Book of Documents.
+6.
+
+In Winter 2023, the Student enrolled in the course ECO102H1S: Principles of
+
+Microeconomics, (the “Course”) which was taught by Professor Nathanael Vellekoop.
+7.
+
+The Course syllabus contained a section on academic integrity that stated in part:
+
+“Academic integrity is one of the cornerstones of the University of Toronto. It is critically
+important both to maintain our community which honors the values of honesty, trust, respect,
+fairness and responsibility, and to protect you, the students within this community, and the value
+of the degree towards which you are all working so diligently.” The Course syllabus provided
+examples of academic offences and contained a hyperlink to the Code.
+8.
+
+The Student received and reviewed a copy of the Course syllabus at the start of the
+
+semester.
+
+4
+9.
+
+Students in the Course were required to write a final exam, which was worth 45% of their
+
+final grade (the “Final Exam”).
+10.
+
+The front page of the Final Exam contained a warning about academic integrity that stated
+
+in part: “As a student, you help create a fair and inclusive writing environment. If you possess an
+unauthorized aid during an exam, you will be charged with an academic offence.”
+11.
+
+The Final Exam was administered in person on April 18, 2023, and the Student wrote the
+
+Final Exam on that date.
+12.
+
+On April 18, 2023, at approximately 2:20 p.m., Lahouari Taleb, a Chief Presiding Officer,
+
+heard a voice when he passed by the Student, but the voice stopped when he turned back and
+approached the Student.
+13.
+
+Later that day, at approximately 3:00 p.m., Carlie Manners, another Chief Presiding
+
+Officer, saw the Student holding something up to his ear. When she approached the Student, she
+saw the Student disconnect a device from his sleeve and shirt and put it in his jacket pocket. She
+asked the Student to see the device, and, in the process, the Student revealed that he was also
+wearing a smart watch. The Student insisted that he was not cheating.
+14.
+
+Later, when she went to take the Student’s student card, she asked the Student to empty his
+
+pockets and found that the Student had a cellphone concealed in them. She noted that the device
+she had previously found on the Student was an “EDIMAEG Hero 800 Amplifier” which is a
+Bluetooth device that connects to miniature earpieces. She took photographs of the smartwatch
+and of the EDIMAEG Hero 800 Amplifier.
+
+5
+15.
+
+Later that day, Mr. Taleb and Ms. Manners filled out an “Alleged Academic Misconduct
+
+Report Form” that detailed what they had observed during the Final Exam.
+16.
+
+Later that day, the Student signed a “Possession of an Unauthorized Aid During a Final
+
+Exam Form” in which he admitted to possessing a cellphone and a smartwatch during the Final
+Exam.
+17.
+
+In August of 2023, the Student Academic Integrity office invited the Student to attend a
+
+Dean’s Designate meeting to discuss the allegations with respect to the Final Exam. On September
+7, 2023, the Student attended a meeting with Professor Stefana Gargova, a Dean’s Designate for
+Academic Integrity, and Laurie O’Handley, an Academic Integrity Specialist, to discuss the Final
+Exam allegations. At the start of the meeting, Professor Gargova stated that the Student had
+allegedly used an unauthorized aid on the Final Exam. Professor Gargova gave the Student the
+warning that is required by the Code, and the Student confirmed that he had read the Code before
+attending the meeting.
+18.
+
+Professor Gargova asked the Student to explain what happened on the date of the Final
+
+Exam. In response, the Student stated that: he admitted to an offence; he was very nervous at the
+time of the Final Exam; he had borrowed some electronics like a cellphone and a smartwatch; he
+forgot to take the cellphone out of his pocket before starting the Final Exam; and he knew that this
+was against the rules.
+19.
+
+Professor Gargova stated that the allegation report set out that the Chief Presiding Officer
+
+had heard a noise playing, had seen that the Student was holding something to his ear, and had
+seen the Student disconnect a device from his sleeve and shirt and put it in his jacket pocket.
+Professor Gargova asked the Student to tell her what the device was. Professor Gargova stated
+
+6
+that her office had pictures of the device, that it did not seem that he just forgot to put something
+away, and that there was something more to it.
+20.
+
+In response, the Student stated that: he had used a Bluetooth device to communicate with
+
+someone from an agency who gave him answers to questions on the Final Exam; he had found the
+agency on WeChat (a social media application); the agency had told him that they could provide
+him with the answers to the Final Exam; the agency had contacted him just before the Final Exam;
+and he had paid the agency $1000 for this service.
+21.
+
+Professor Gargova asked the Student whether he was aware that the University had
+
+academic support resources available to assist him. The Student acknowledged that he knew about
+the University’s resources, and stated that the Course was hard, that the agency told him that this
+was a way to get a high mark in the Course, and that he would not do it again in the future.
+22.
+
+Ms. O’Handley then asked the Student for additional details about the devices and the
+
+agency. In response, the Student stated that: he had emailed the agency; the agency had sent a
+person by car to deliver the devices to him; he had never met the delivery person before; he had
+met the delivery person close to his home on April 16, 2023; the delivery person had given him
+the devices and had showed him how to use the devices; and he had paid the agency through
+WeChat.
+23.
+
+At the end of the meeting, Professor Gargova informed the Student that the matter would
+
+be forwarded to the Vice-Provost’s office for further action.
+24.
+
+The Student admits that: he paid an agency $1000 to provide him with answers to the Final
+
+Exam; he sent images of the entire Final Exam to a tutor from the agency; he wore miniature
+
+7
+earpieces during the Final Exam; he received answers to questions 1(a)-(e) on the Final Exam from
+the tutor via the miniature earpieces; he used the tutor’s answers to questions 1(a)-(e) on the Final
+Exam; an Invigilator confiscated the miniature earpieces from him before he could receive any
+further answers from the tutor; and he intended to perform no meaningful academic work on the
+Final Exam.
+25.
+
+The Student admits that he knowingly used or possessed an unauthorized aid or aids and/or
+
+obtained unauthorized assistance in connection with the Final Exam, contrary to section B.I.1(b)
+of the Code.
+26.
+
+Based on the facts and admissions summarized above, we were persuaded on a balance of
+
+probabilities that the Student had obtained unauthorized assistance in connection with the Final
+Exam, and we made a finding of guilt on Count 1. In light of this finding, the Provost withdrew
+Count 2 and Count 3. The Panel next considered the issue of the appropriate sanction in light of
+the finding of guilt on Count 1.
+C.
+
+Sanction
+
+27.
+
+Assistant Discipline Counsel indicated that the parties had reached a joint position
+
+regarding sanction, and that they agreed that the proposed sanctions in this matter were:
+(a)
+
+a final grade of zero in the Course;
+
+(b)
+
+a suspension from the University of Toronto for a period of five years from the date
+of the Tribunal’s order;
+
+(c)
+
+a notation of the sanction on his academic record and transcript for a period of seven
+years from the date of the Tribunal’s order; and
+
+(d)
+
+that the case be reported to the Provost for publication of a notice of the decision
+
+8
+of the University Tribunal and the sanctions imposed, with the name of the Student
+withheld.
+28.
+
+These proposed sanctions were contained in a Joint Submission on Penalty signed by the
+
+Student. Assistant Discipline Counsel next submitted a Book of Authorities, including a chart
+summarizing the sanctions imposed in the cases submitted. We found that these authorities
+provided a useful summary of the sanctions that are normally imposed by the Tribunal in cases
+involving findings that a student has paid to have someone impersonate or assist them in a test or
+final exam. Most helpfully, the brief referenced several cases which involved the use of a hidden
+camera and earpiece.
+29.
+
+We are conscious that the Tribunal, in determining the appropriate sanction in a given case,
+
+should generally consider the factors set out in the decision of the University of Toronto and Mr.
+C. (Case No. 1976/77-3, November 5, 1976), namely (a) the character of the person charged; (b)
+the likelihood of a repetition of the offence; (c) the nature of the offence committed; (d) any
+extenuating circumstances surrounding the commission of the offence; (e) the detriment to the
+University occasioned by the offence; and (f) the need to deter others from committing a similar
+offence.
+30.
+
+In addition, we recognise that we were presented with a joint position on sanction, which
+
+means that while we are not required to accept the proposed sanctions, we should only reject them
+when we feel that they are so inappropriate that they would bring the administration of justice into
+disrepute.
+31.
+
+We therefore considered the recent case of the University of Toronto and Q.C. (Case No.
+
+1505, November 24, 2023) (“Q.C.”), a case involving the use of a miniature camera and earpieces
+
+9
+on two occasions, and noted the presence of a five-year suspension and a six-year notation, in
+addition to a mark of zero in the course. Likewise, in the recent case of the University of Toronto
+and X.Z. (Case No. 1541, April 18, 2024) a penalty of a five-year suspension and six-year notation
+in addition to a mark of zero in the course were imposed. In the case of the University of Toronto
+and T.D. (Case No. 1560, June 3, 2024), the sanctions imposed were a five-year suspension, a
+seven-year notation, and a mark of zero in the course. In addition, in that case, the Student
+provided a voluntary undertaking to withdraw from the University and to never re-apply for
+admission.
+32.
+
+We are aware that in the case of the University of Toronto and S.Y. (Case No. 1539, May
+
+17, 2024), heard on February 27, 2024, the use of a miniature camera and earpiece resulted in an
+order of expulsion, but in that case the student had used the aids in two exams, and had a prior
+offence of receiving unauthorized assistance. That student also did not cooperate with the
+disciplinary process and did not attend the hearing. In addition, the recent case of the University
+of Toronto and X.S. (Case No.1559, February 16, 2024 (Direction)), provides an example where a
+camera and earpieces were used in an exam, and a proposed joint position of a five-year
+suspension, seven-year notation and a final grade of zero was sent back to the parties to receive
+further written submissions concerning whether expulsion might be a more appropriate remedy.
+33.
+
+Assistant Discipline Counsel also pointed to a number of cases involving the offence of
+
+personation in a test or examination, including: University of Toronto and H.Z. (Case No. 1475,
+July 17, 2023) University of Toronto and S.J. (Case No. 1423, January 3, 2023), University of
+Toronto and F.Z. (Case No. 1243, December 20, 2022) and University of Toronto and P.L. (Case
+No. 1211, September 23, 2021). We found these cases to be helpful since there are clear parallels
+between a student paying someone to impersonate them in a test or exam, and the use of a hidden
+
+10
+camera and earpiece to obtain real-time assistance in a test or exam. These personation cases all
+involved an early admission of guilt and cooperation with the discipline process, and all resulted
+in sanctions very similar to the ones proposed in this case.
+34.
+
+There is no doubt that the use of a camera and earpieces in a test or exam, particularly when
+
+coupled with paid assistance, is an egregious violation of the Code which represents a serious form
+of cheating. We agree with the panel in the Q.C. case, which was the first reported discipline
+decision of this type, when they wrote:
+With respect to the detriment to the University and the need for deterrence, obtaining
+unauthorized assistance on a test, generally, is an extremely serious offence that harms the
+institution and the academic process. It is a serious breach of academic integrity and can
+be seen as an attempt to defraud the University. Obtaining real-time assistance using a
+hidden camera and earpieces is taking things to a new level, one that has only been possible
+in recent years as technology once reserved to spy novels has become readily available to
+anyone. […] The associated penalty for what occurred here must act as a general deterrent
+against this kind of surreptitious behaviour. Accordingly, it is important to send a strong
+message to the community that this will not be tolerated.
+35.
+
+We are mindful, however, of the very high test for imposing a sanction beyond what is
+
+contemplated in a joint position, and we feel that the sanctions proposed in this case are within the
+bounds of those imposed in comparable cases. While it would have been helpful to hear directly
+from the Student in the hearing, we acknowledge that he has admitted his guilt and cooperated
+with the discipline process.
+36.
+
+At the conclusion of the hearing, and for the reasons outlined above, we therefore signed
+
+an order imposing the following sanctions on the Student:
+(a)
+
+a final grade of zero in the Course;
+
+(b)
+
+a suspension from the University of Toronto for a period of five years from the date
+of the Tribunal’s order; and
+
+11
+(c)
+
+a notation of the sanction on his academic record and transcript for a period of
+seven years from the date of the Tribunal’s order.
+
+We also added the standard requirement that this case be reported to the Provost for publication of
+a notice of the decision of the University Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto, this 24th day of September, 2024
+
+Original signed by:
+___________________________________
+Alexandra Clark, Chair
+On behalf of the Panel
+
+

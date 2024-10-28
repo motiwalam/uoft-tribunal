@@ -1,0 +1,310 @@
+Case No.: 989
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on November 27, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+- and Z
+
+Q
+
+REASONS FOR DECISION
+
+Hearing Date: February 20, 2019
+Members of the Panel:
+Ms. Sana Halwani, Chair
+Professor Georges Farhat, Faculty Panel Member
+Ms. Shirley Deng, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Osbourne, Administrative Clerk & Hearing Secretary, Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Mr. Z
+Q
+the Student
+
+Charges and Procedural History
+1.
+
+The Trial Division of the Tribunal held a hearing on February 20, 2019 to address the
+following charge brought by the University of Toronto (the “University”) against Z
+
+Q
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”):
+a. You knowingly forged or in any other way altered or falsified an academic record,
+and/or uttered, circulated or made use of such forged, altered or falsified record,
+namely, a document which purported to be a degree certificate from the
+University of Toronto dated April 10, 2015, contrary to section B.i.3(a) of the
+Code.
+I.
+
+Notice
+
+2.
+
+The Student was not in attendance at the hearing and, as a result, Mr. Centa addressed
+the issue of notice. An affidavit of Lucy Gaspini, Director of Academic Success and
+Integrity at the University of Toronto-Mississauga (“UTM”), was presented that outlined the
+various efforts to make contact with the Student to discuss how a fraudulent University of
+Toronto diploma bearing his name came to be circulated. Ms. Gaspini’s evidence was as
+follows:
+a. On September 14, 2017, Michelle Kraus, Assistant Registrar with the UTM’s
+Office of the Registrar, attempted to contact the Student at his University of
+Toronto email address to discuss a diploma received by the University. On
+October 3, 2017, Ms. Kraus sent the Student a follow-up email requesting that he
+respond to her initial email. Ms. Kraus did not received a response to either of
+her emails and requested that Ms. Gaspini’s office take carriage of the
+investigation.
+b. On March 13, March 19 and March 22, 2018, Alexandra Di Blasio, Academic
+Integrity Assistant, emailed the Student inviting him to discuss the diploma at a
+meeting with a Dean’s representative on April 3, 2018. After receiving no
+response to her emails, Ms. Di Blasio emailed the Student on March 23, 2018
+informing him that his meeting on April 3, 2018 was cancelled due to his failure to
+respond. Ms. Di Blasio did not receive a response to any of her emails.
+
+2
+
+c. On June 26, 2018, Muhammad Siddiqui, Academic Integrity Assistant, emailed
+the Student requesting that he respond to emails from UTM and informing him
+that UTM had placed two holds on his record. Mr. Siddiqui did not receive a
+response to his email.
+3.
+
+The Panel was also provided with the Affidavits of Service of Melissa Clark, for the Notice
+of Hearing and Revised Notice of Hearing. Ms. Clark’s evidence was that she served the
+Student with these Notices by email to the email address provided to the University in
+ROSI on January 16 and February 13, 2019, respectively. She also attempted to serve
+the Student with the original Notice by courier to the address provided by the Student on
+ROSI on January 17 and 18, 2019 but there was no answer at the residence.
+
+4.
+
+Upon review of the evidence, and upon considering Rules 9(b), 13, 14 and 17 of the
+University Tribunal Rules of Practice and Procedure, the Panel was satisfied that notice
+had been adequately provided to the Student and decided to proceed with the hearing
+despite his absence.
+
+II.
+
+Summary of Evidence
+
+5.
+
+The evidence of the University on the charge was presented by way of affidavit of Silvia
+Rosatone, Director at the University of Toronto’s Office of Convocation. The Office of
+
+Convocation is responsible for the logistical details of University of Toronto
+convocation ceremonies. The office is also responsible for the reissue of degrees and
+diplomas, issuing certification of degree letters, as well as the verification of the
+graduation status of University of Toronto alumni.
+6.
+
+The Student was a registered student at UTM, and had registered for a handful of courses
+between 2011 and 2013, but never fulfilled his graduation requirements and never
+received a degree from the University of Toronto.
+
+7.
+
+In August 2017, Auradata Inc. (“Auradata”) contacted the Office of Convocation
+
+seeking to verify a degree parchment purportedly issued by the University of Toronto.
+8.
+
+Auradata offers degree verification services for graduates of Canadian post-secondary
+institutions. Auradata’s clients are primarily employers, human resource professionals,
+
+3
+
+recruiters, education institutions, and credit grantors seeking confirmation of a
+candidate or student's accreditation.
+9.
+
+Auradata submits Confirmation of Degree requests on behalf of its clients based on
+information that has been provided to its clients by a job candidate or student. If there
+is no corresponding record at the University of Toronto, Auradata will alert its clients.
+
+10.
+
+The University accepts third-party requests to confirm degrees through its
+Confirmation of Degree Website. The form on the website requests that third parties
+provide as much information as possible about the graduate including: given name,
+surname, month and day of birth, year of graduation. Requesters are required to
+provide their first and last name, an e-mail address, and to pay a fee for the search
+results.
+
+11.
+
+On August 15, 2017, an Auradata representative submitted a Confirmation of Degree
+request for a job applicant with the Student’s name. Terry Johnston, then the Assistant
+Director at the Office of Convocation, responded to Auradata on August 16, 2017
+confirming that the University of Toronto did not grant a degree to a student with that
+name.
+
+12.
+
+On August 24, 2017, Auradata emailed Mr. Johnston and requested that he again
+verify whether a job applicant with the Student’s name and birthdate received a
+degree from the University of Toronto. In support of her request, Auradata provided
+Mr. Johnston with the birthdate of the job applicant and attached what purported to be
+a copy of a degree parchment that was allegedly issued by the University of Toronto
+on April 10, 2015.
+
+13.
+
+Mr. Johnston replied to Auradata that same day and indicated that the degree
+parchment was not authentic. The Student’s ROSI record shows that the Student did
+not receive a degree from the University of Toronto on April 10, 2015, or on any other
+date.
+
+14.
+
+When the Panel questioned whether it was possible that an individual other than the
+Student could have submitted the record to Auradata, the Panel was advised by Mr.
+Centa that the University only has one record matching that name and birthdate. On
+4
+
+that basis, Mr. Centa made submissions that it was overwhelmingly more likely that
+the Student was responsible for submitting the record to Auradata, rather than an
+imposter or other third party.
+III.
+
+Finding on Charges
+
+15.
+
+Following deliberation and based on the affidavit evidence and the documents in the
+University’s Book of Documents, the Panel concluded there was clear and convincing
+evidence that, on a balance of probabilities, that
+a. the record submitted to Auradata, namely a document which purported to be a
+degree certificate from the University of Toronto dated April 10, 2015, was
+falsified; and
+b. that the Student had made use of the falsified degree certificate.
+
+16.
+
+Although the Panel could not know whether the Student had himself falsified the certificate
+(as he could have elicited the help of another person), it was clear that the Student had
+circulated or made use of the falsified record. The charge was therefore proven, and the
+Panel found the Student guilty.
+
+IV.
+
+Finding on Penalty
+
+17.
+
+Appendix C of the Code states that, absent exceptional circumstances, the Provost will
+request that the Tribunal recommend a student be expelled where the student has forged
+or falsified an academic record, including a transcript or unofficial report of grades.
+
+18.
+
+Accordingly, the University requested the following penalty
+a. A recommendation to the President to recommend to the Governing Council that
+the Student be expelled;
+b. An immediate suspension of up to five years pending the decision on expulsion;
+and
+c. Reporting the case to the Provost for publication of a notice of the decision of
+
+the Tribunal and the sanctions imposed, with the name of the student
+withheld. .
+5
+
+19.
+
+Mr. Centa provided the Panel with a series of similar cases to consider. While the Panel
+is not bound by any of these decisions, they are helpful in assisting the Tribunal in treating
+like cases alike.
+
+20.
+
+Aside from the Mr. C. case (Case No.: 1976/77-3, November 5, 1976), which sets out the
+factors to be considered in penalty, all of the cases provided to us by Mr. Centa involved a
+falsified academic record.
+
+In all of these cases not involving a Joint Submission on
+
+Penalty (“JSP”), an expulsion was recommended.
+21.
+
+In addition, even in some cases where a JSP was submitted, the Panel still recommended
+expulsion. This result is a function of the seriousness of the offence of forging academic
+records, and the detrimental impact this kind of behaviour has on the reputation and
+integrity of the University. As stated in University of Toronto and Ms. R.W. (Case No.: 502,
+April 18, 2008),
+Members of the public, other degree-granting institutions, companies and other
+employers rely on transcripts and degree certificates for what they represent. …
+The falsification of documents not only undermines the credibility of the
+University but also all other students who achieve their degrees legitimately. 1
+
+22.
+
+Mr. Centa relied in particular on the recent case of A.P. (Case No.: 913, January 16,
+2018). In that case, the Student admitted the offence quickly and cooperated in the
+hearing including by cooperating in the submission of an Agreed Statement of Facts. The
+Student also provided evidence of mitigating circumstances. Despite this cooperation and
+participation, the Panel in A.P. recommended expulsion. The comments of the Panel in
+that case on (i) the serious nature of the offence, (ii) the importance of general deterrence,
+and (iii) the harm to the University occasioned by such offences, are all directly applicable
+here (see para. 39).
+
+23.
+
+Unlike in that case, the Student in this case has not participated at any stage of the
+process. The Student has therefore not shown any remorse, not presented any character
+evidence and not raised any mitigating factors to warrant a more lenient sanction. Indeed,
+the Student has seemingly not been engaged in any way with the University since 2013.
+
+1
+
+University of Toronto and Ms. R.W.(Case No.: 502, April 18, 2008) at para 16.
+
+6
+
+24.
+
+The general approach of the Tribunal has been to impose a recommendation of expulsion
+when the offence is as serious as the use of a falsified degree and when there are no
+mitigating circumstances.
+
+25.
+
+The Panel also considered the fact that this is the Student’s first offence. However, given
+the seriousness of the offence and the complete lack of engagement in the discipline
+process, the Panel decided that a recommendation of expulsion was appropriate in this
+case and consistent with the previous decisions of this Tribunal. As such, the Panel
+accepted the University’s recommendations on penalty.
+
+V.
+
+Decision of the Panel
+
+26.
+
+At the conclusion of the hearing on penalty, the Panel conferred and made the following
+order:
+a. The Student is guilty of 1 count of knowingly forging, altering, or falsifying, an
+academic record, or uttering, circulating, or making use of such an academic
+record, contrary to section B.i.3(a) of the Code of Behaviour on Academic
+Matters;
+b. The Student shall immediately be suspended from the University for a period of
+up to five years;
+c. The Tribunal recommends to the President of the University that he recommend
+to the Governing Council that the Student be expelled from the University; and
+d. This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the Student
+withheld.
+
+DATED at Toronto, May 1, 2019
+
+Sana Halwani, Chair
+7
+
+

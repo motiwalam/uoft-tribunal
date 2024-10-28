@@ -1,0 +1,851 @@
+Case No.: 841
+THE DISCIPLINE APPEALS BOARD
+UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 7, 2016
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995;
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c.56 as amended
+S.O. 1978, c. 88
+THE UNIVERSITY OF TORONTO
+Appellant
+
+-
+
+L
+
+- and S
+Respondent
+
+REASONS ON APPEAL
+Hearing date: October 16, 2017
+Panel Members:
+Mr. Ronald G. Slaght
+
+Chair
+
+Professor Elizabeth Peter
+
+Faculty Panel Member
+
+Mr. Sean McGowan
+
+Student Panel Member
+
+Ms. Alena Zelinka
+
+Student Panel Member
+
+Appearances:
+Ms. Tina Lie
+
+Counsel for the Provost, Paliare Roland Barristers
+
+Mr. Robert Sniderman
+(DLS)
+
+Counsel for the Respondent
+
+In Attendance:
+
+-
+
+Ms. L
+
+S
+
+Ms. Lucy Gaspini,
+
+Respondent
+Manager, Academic Success & Integrity, Office of the Dean, UTM
+
+2
+
+INTRODUCTION
+[1]
+
+This matter comes before the Discipline Appeals Board by way of appeal by the Provost
+
+from the Decision of a trial panel of the University Tribunal at a hearing held November 29, 2016.
+The Respondent, ~ ~ , who was not represented at the hearing, was charged with
+plagiarism offences under ss. B.i. l.( d), B.i. l.(b) and B.i.3 .(b) of the Code of Behaviour on
+
+Academic Matters (the Code), arising out of an essay she submitted in April 2015 in a second-year
+political theory course at the University of Toronto, Mississauga.
+
+[2]
+
+At the conclusion of the hearing, after deliberations, the Chair (Shaun Laubman) gave oral
+
+reasons, recounting the nature of the Panel' s deliberations, what had been considered, views about
+the burden of proof, whether the similarities between the papers as well as the additional evidence
+presented were sufficient to establish the Charges, and that there was some disagreement amongst
+the Panel members whether the similarities could arise from the nature of the particular assignment
+and the set up for the process for this particular assignment or whether those similarities were the
+result of M s . ~ knowing and representing another other student's ideas (S.D.) as her own.
+
+[3]
+
+The Chair reported that while the Decision was not unanimous, a majority found the
+
+Charges had not been proven on a balance of probabilities and the minority, while agreeing that the
+charge under s. B.i. l .(b) had not been proven, had decided the other Charges had been made out by
+the University. The Chair advised that more detailed reasons would follow. 1
+
+[4]
+
+The Tribunal released its Reasons for Decision on March 13, 2017.
+
+Professor Hirst were in the majority and Mr. Lim wrote dissenting reasons.
+
+1
+
+Transcript of Proceedings, pp. 164-167.
+
+The Chair and
+
+3
+[5]
+
+On this appeal, the Provost seeks an Order setting aside the Decision of the Tribunal and
+
+entering a guilty verdict under Charge one or alternatively Charge three. At the appeal, Ms. Lie
+advised that counsel had consulted and that the Order now being sought by the parties, of course
+subject to this Appeal Board's discretion, was that if the appeal were allowed, that the Appeal
+Board Panel order a new hearing into the Charges.
+
+[6]
+
+Following argument on the appeal, and after our own deliberations, we advised the parties
+
+that the University's appeal was dismissed, and that our Reasons would follow. These are our
+Reasons.
+
+JURISDICTION AND STANDARD OF REVIEW
+[7]
+
+The Code provides that the Provost may take an appeal from an acquittal of a student at
+
+trial, upon a question which is not one of fact alone. As has often been noted in Appeals Board
+decisions, the Code gives the Appeals Board very broad powers on appeal. The Code provides in
+relevant part that:
+The Discipline Appeals Board shall have power. .. (c) ... to affirm, reverse,
+quash, vary or modify the verdict, penalty or sanction appealed from and
+substitute any verdict, penalty or sanction that could have been given or
+imposed at trial.2
+
+[8]
+
+In its decisions over the years, the Appeals Board has introduced and adhered to a level of
+
+deference to decisions of trial panels. An appeals panel will not substitute the decision it would
+have made on the evidence, for that of the panel below. The Appeals Board's primary concern is
+to ensure principled and consistent decision making in the application of administrative law
+principles and in the interpretation and application of the body of the University Tribunal and
+
+2
+
+Code, s.E7(c).
+
+4
+
+Appeals Board cases. Where there are errors of law and significant errors of fact the Appeals
+Board will however exercise its authority.
+[9]
+
+Of particular relevance in this matter, the Appeal Boards, notwithstanding its broad
+
+jurisdiction, gives deference to trial panels over issues of credibility, where, of course, a trial panel,
+exercising one of its important functions, has the benefit of seeing the witnesses in person and
+measuring the quality and veracity of their evidence. 3
+[10]
+
+The Provost did not address the Standard of Review in its materials filed on the appeal.
+
+Ms. Lie submitted orally however that the University's main submission, that the Tribunal erred
+by assessing the evidence in a piecemeal fashion, rather than considering the evidence in its
+totality and in the context of all the evidence, constitutes an error of law, thus reviewable by this
+Appeals Board on a correctness standard. Secondly, Ms. Lie submitted that the majority had erred
+in its application of the standard of proof, putting the Provost to a higher standard of proof rather
+than a balance of probabilities, also an issue oflaw.
+[11]
+
+The other issues raised by the Provost, that the majority decision below had given too much
+
+emphasis to differences in the two papers and that the Tribunal had erred in its consideration of
+some evidence, primarily that of the Provost's witness, Emma Planinc, are less obviously
+characterized as issues of law. Ms. Lie submitted they were fundamental mischaracterizations of
+the evidence or reviewable by the appeals panel as palpable and overriding errors, when
+considered with the mistakes in law said by the Provost to have been made by the majority.
+
+3
+
+See e.g. MK. v. University of Toronto, Case No. 634, Book of Authorities of the Appellant, Tab I; University of
+Toronto v. A.L., Case No. 606, Book of Authorities of the Appellant, Tab 8.
+
+5
+
+[12]
+
+For the Respondent, Mr. Sniderman acknowledged the Appeals Board's jurisdiction with
+
+respect to errors of law but took the position that the University's position on this appeal mostly
+sought a review by the Appeals Board of what were essentially questions of fact, including issues
+of credibility, and that on Appeals Board jurisprudence, we should not engage in such an exercise.
+
+FACTS
+
+[13]
+
+The Charges involved an essay assignment, the second essay assignment in the Course, of
+
+an 8 to 10 page paper to be written on one of three assigned topics. The students were expressly
+discouraged from relying on sources other than the assigned texts for the course. 4
+[14]
+
+Of particular importance to the majority and to this Appeals Board, the essay assignment
+
+was designed to incorporate a peer review component. Students were to meet in small groups to
+review and comment on the drafts prepared by their peers. Students were to submit their final
+paper for grading following this peer review process. 5
+[ 15]
+
+The Provost's allegation was that Ms. ~ plagiarized from a draft essay submitted by
+
+another student, S.D. S.D. was one of the three students who participated in the peer review
+process, with Ms. ~ and Y.L.
+[ 16]
+
+The peer review process, as originally contemplated, included participation by the head
+
+teaching assistant for the course, Emma Planinc, who was the Provost's sole witness at the hearing.
+There was however a teaching assistant's strike and the peer review process became optional, but,
+if a student did participate they received an extra grade of 5%. Students were to select their own
+peer review partners and were expected to organize and exchange draft papers amongst
+
+4
+
+Reasons for Decision of the Majority (Majority Reasons), Appeal Book and Compendium (ABC) p. 9, para. 6.
+'Majority Reasons, ABC, p. 9, para. 7.
+
+6
+
+themselves. 6 Students were to use comments received from their peers to prepare and submit a
+final paper. There would no teaching assistant involvement in the peer review process.
+
+[17]
+
+While there were three topics from which to choose, all the essays were to effect
+
+comparisons between the works of two authors whose works formed part of the course curriculum,
+including Topic B:
+
+Both Aquinas and Machiavelli argue that one must study "nature" in order
+to understand politics - but with very different results. Explain their
+different understandings of nature and what it teaches the student of
+political science. Whom do you find more persuasive?7
+
+[18]
+
+The evidence established that M s . ~ in mid-March had submitted a draft of a paper
+
+on Topic A to the course teaching assistant, Ms. Planinc. As part of peer review, S.D. sent her
+draft essay, on Topic B, to Ms. ~ and Y.L. for review on March 28, 2015 and received from
+Ms. ~ her comments on the morning of March 31, 2015. Later that evening, the draft Ms.
+~ sent to her fellow students was not on Topic A, rather, it was on Topic B, the same topic
+
+chosen by S.D. Ms. ~ advised Ms. Planinc on the same evening that she had changed
+topics from Topic A to a topic comparing the ideas of Aquinas and Machiavelli and attached that
+draft to Ms. Planinc with the comment that it was being peer reviewed.
+
+[19]
+
+The allegation of the Provost was that Ms. ~ plagiarized from the draft essay
+
+submitted by S.D., which she had in her possession as a peer reviewer, changed topics and that the
+similarities between Ms. ~ : ' s final essay and S.D.'s draft essay, in the thesis and the ideas
+
+6
+
+7
+
+Majority Reasons, ACB, p. 9-10, paras. 8-11.
+Factum of the University of Toronto, p. 5, para. 18(b).
+
+7
+
+expressed, were both unique and creative, which no other student had come up with, and were acts
+of plagiarism by Ms. - : .
+[20]
+
+8
+
+The Tribunal had before it the various drafts and final papers that had been submitted by
+
+the peer group to Ms. Planinc during the course of their work leading to the final submissions on
+April 1, 2015. This included S. D.'s draft paper and Ms. -
+
+' s final paper, which included
+
+the peer review sheets with the comments that S.D. and Y.L. had made on the student's paper.
+[21]
+
+Ms. Planinc had annotated and marked with a highlighter those portions of S.D.'s draft and
+
+the final version of Ms. -
+
+' s paper to indicate those parts of the two essays that she believed
+
+to be strikingly similar and evidence of plagiarism of the one by the other.9
+[22]
+
+Ms. Planinc, who graded 80 of approximately 200 papers in the course, testified she was
+
+instantly struck by the similarities between Ms. - : ' s essay and that of S.D. She then,
+subsequently, learned from the peer review sheets that Ms. -
+
+had participated in a peer
+
+review with S.D. and that Ms. ~ therefore had access to the rough draft of S.D. 's essay. 10
+[23]
+
+At the hearing, Ms. Planinc in her evidence went through the papers, giving evidence about
+
+the similarities that she had identified and discussing the annotations and highlighting that she
+made on the two essays, including the use of section headings in both papers, the introductions and
+theses of the papers and that the conclusions had similar concepts.
+[24]
+
+Ms. ~ was self-represented at the hearing, and did not cross-examine Ms. Plancic
+
+on her evidence, but the Panel did explore various aspects of Ms. Planinc' s evidence.
+
+8
+
+Majority Reasons, ABC, p. 11, paras. 18-21 .
+Majority Reasons, ABC, p. 12, paras. 22-23.
+10
+Evidence ofE. Planinc, Transcript, ABC, Tab 11, pp. 72-73.
+
+9
+
+8
+[25]
+
+Ms. ~ gave evidence in her defence and was cross-examined on her evidence.
+
+[26]
+
+In her evidence, she explained her reasons for switching topics and the reason for her use of
+
+subject headings. S.D. had suggested using them during the peer review process. S.D. had raised
+no concerns regarding the content of her paper when she reviewed it and she explained to the
+Tribunal what she was attempting to achieve with her paper.
+[27]
+
+She provided explanations and, using examples, maintained that the ideas expressed in the
+
+two were different and her own. 11
+
+DECISION OF THE TRIBUNAL
+Credibility
+
+[28]
+
+At the outset of its analysis, the majority set out the principal allegations of the University.
+
+It recognized the major thrust of the University's case lay in areas of similarity between Ms.
+
+- ' s paper and S.D.'s draft and that the thrust of Ms. Planinc's testimony was to review
+those similarities, with the aid of the comparative documents she had created with highlighting, to
+assist in that analysis.
+[29]
+
+An important element of the Decision was the Panel's assessment of the only two
+
+witnesses at the hearing, Ms. Planinc and Ms. - : . The Panel had difficulty with Ms.
+Planinc's evidence and concluded that she was overreaching in her evidence and too aligned with
+the prosecution. The majority concluded that Ms. Planinc was not open to looking more broadly at
+
+11
+
+Evidence of L.
+
+,, Transcript, November 29, 2016, pp. 98-146.
+
+9
+
+the issues, rather than simply stressing the similarities between the papers. The majority did not
+agree with some of the highlighting comparisons that Ms. Planinc reviewed in her evidence. 12
+
+[30]
+
+In contrast, the Panel generally accepted the evidence of Ms. ~ and found that her
+
+evidence was not undermined on cross-examination and had been consistent since when she was
+first confronted with the allegations.
+
+It is evident that the Panel preferred Ms. - : ' s
+
+explanations for the similarities between the papers and accepted her evidence that the ideas
+represented in the paper were her own, rather than accept the criticisms that Ms. Planinc advanced
+. her ev1'dence. 13
+m
+
+Similarities
+
+[31]
+
+In its Reasons, the majority conducted a detailed review and analysis of eight alleged
+
+similarities between Ms. - : ' s essay and S.D.'s draft paper identified and reviewed by Ms.
+Planinc in her evidence with the assistance of the highlighted and annotated aids. In the Reasons
+of the majority, each alleged similarity was identified, the highlighting and other evidence was
+discussed, and the Panel drew conclusions and inferences with respect to each of the claimed
+similarities as it proceeded through the list presented by the Provost.
+[32]
+
+In some cases (three out of eight) the majority made a specific reference to plagiarism in
+
+conclusive terms, that the particular alleged similarity was not, in its view, evidence or persuasive
+evidence of plagiarism. For example, in its discussion of the first alleged similarity, which the
+Panel dealt with in considerable detail and analysis over four substantive paragraphs, the majority
+said the following:
+
+12
+13
+
+Majority Reasons, ABC, p. 15, paras. 42-43; p. 17, paras. 47-48; p. 19, para. 52, p.24, para. 65.
+Majority Reasons, ABC, p. 13, paras. 29-35; p. 15, paras. 39-41; p. 18, para. 50; p. 26, para. 75.
+
+10
+48.
+For these reasons, we do not see the highlighted language in the
+introductory paragraphs for the two papers as constituting persuasive
+evidence of plagiarism. 14
+
+[33]
+
+The Provost on this appeal places considerable emphasis on this language in support of its
+
+submission that the majority erred by approaching the evidence on a piecemeal basis, rather than
+considering the evidence as a whole, including the overall effect of the eight alleged similarities,
+and that the majority misunderstood the burden of proof and applied a higher standard of proof to
+the Provost.
+[34]
+
+It also is the case, however, that no reference at all to the burden of proof or the persuasive
+
+effect or not of the evidence was made by the Tribunal in five of its eight reviews of the alleged
+similarities.
+[35]
+
+In the course of discussing each similarity, the majority grappled with the allegations, not
+
+just that the text of the papers were similar but also that the ideas expressed were borrowed by Ms.
+~ from S.D.'s draft.
+
+[36]
+
+The majority was not persuaded in respect of any of the allegations.
+
+The Tribunal dealt with the alleged similarities in the fashion that the University had
+
+presented its case, namely Ms. Planinc went through each of the eight and gave her evidence in
+respect of them and the Tribunal in dealing with this evidence also went through the eight and gave
+its analysis of all the evidence in respect of each, including that of Ms. Planinc, that of Ms.
+~ and other evidence, together with its conclusions with respect to each one ofthem.
+
+[37]
+
+15
+
+In a following section entitled, Absence of Clear and Concise Evidence of Plagiarism, the
+
+majority went on to discuss the evidence generally as it related to the allegations of plagiarism.
+
+14
+15
+
+Majority Reasons, ABC, p. 17, para. 48.
+Majority Reasons, ABC, p. 15, paras. 44-63.
+
+11
+
+The Panel noted that the texts themselves were not in evidence and thus it was unable to determine
+for itself the probabilities that more than one student could use particular quotes from the texts,
+given the focus of the assigned question. The Tribunal pointed out again that the only evidence it
+had was the evidence of Ms. Planinc, with which it expressed some difficulties and that it had no
+"independent'' evidence of the range of theses in the papers written on Topic B, and that Ms.
+Planinc had reviewed only 80 of the 200 submissions.
+[38]
+
+The majority also considered it significant that having had the benefit of the written
+
+comments of the peer reviewers, the reviewers were complimentary of Ms. - : ' s essay and
+neither of them identified or indicated any concern regarding similarities between the two papers.
+There was specific evidence that S.D. had not seen any issue with Ms. - : ' s essay and the
+Tribunal placed some weight on this, balanced against the evidence of Ms. Planinc.
+[39]
+
+The majority also reviewed the evidence and the papers for differences between the papers,
+
+not just the similarities. Ms. Planinc apparently had not done this and the majority considered it
+significant to review the excerpts and even common elements with a view to determining on an
+overall basis whether the ideas expressed in the papers, arising from the use of similar materials,
+were the same or were they different, an analysis that the majority considered useful in its overall
+. . of the papers. 16
+exammat10n
+
+[40]
+
+The majority also found, over the hotly contested common use of the phrase, "torrential
+
+rivers" in the two papers, that this commonality was not a product of the student's plagiarism but
+
+16
+
+Majority Reasons, ABC, p. 19, para. 52.
+
+12
+rather an expected by-product of the common assigned readings and limited scope of the essay
+topic addressed by both papers. 17
+
+[41]
+
+The Tribunal also considered it significant that the entire exercise was carried out under the
+
+altered peer review process, where the students were encouraged to review each other's papers, to
+make comments and that students could incorporate comments and suggestions of their peers into
+their final papers. This fact was clearly of significance to the majority. In its summation, the
+majority said the following:
+
+80.
+The fact that the peer review process encouraged students to
+incorporate comments from their peers also made it impossible to
+conclude on a balance of probabilities that the Student had obtained
+unauthorized assistance with her Essay. 18
+
+[42]
+
+The majority expressed its ultimate conclusion in the following language:
+
+79.
+After careful and thorough consideration of the documentary and
+oral evidence presented during the hearing, a majority of the Tribunal
+determined that the University had not met the requisite burden of proof.
+We could not say that it was more likely than not that the Student had
+knowingly represented as her own ideas or expressions taken from S.D.'s
+paper. 19
+
+The Dissent
+[43]
+
+Mr. Lim agreed with aspects of the majority decision, including, for example, that the two
+
+students had the same thesis was not the product of plagiarism and that M s . ~ and S.D.'s
+idea for their particular thesis topic could well have arisen independently. 20
+
+17
+
+Majority Reasons, ABC, p. 20, paras. 52 and 53.
+Majority Reasons, ABC, p. 27, para. 80.
+19
+Majority Reasons, ABC, p. 27, para. 79.
+20
+Dissent, ABC, p. 28, paras. 83-88.
+18
+
+13
+[44]
+
+The minority opinion also agreed that M s . ~ must be acquitted of the Charge under
+
+Section B.i.1.(b) of the offence of obtaining "unauthorized assistance" in the preparation of her
+paper, as had the majority.
+
+[45]
+
+The minority said this in that respect:
+
+13 7. Section B.i.1.(b) makes it an academic offence for a student to obtain
+unauthorized assistance. I simply cannot find that the assistance the
+Student received from S.D. was unauthorized. Not only did the University
+sanction the peer-review process, but students were incentivized to
+participate in it by receiving extra credit. I think it would be unjust to
+punish the Student for taking part in the peer-review process which
+facilitated the assistance she received.
+
+[46]
+
+The dissent ultimately however found that the University had proven on a balance of
+
+probabilities that there were plagiarized elements in Ms. ~ : ' s essay. Mr. Lim concluded that
+aspects of the two essays were too strikingly similar to have arisen by chance or as a product of the
+chosen essay topic. The dissent put some emphasis on the fact that Ms. ~ had retained a
+copy of the draft essay that she is alleged to have copied from. There were ideas and expressions
+of ideas in the paper, the dissent concluded, that were those of S.D. 21
+
+PROVOST ISSUES AND DISPOSITION
+[4 7]
+
+The Provost raises four issues on appeal but in its materials and oral submissions, Ms. Lie
+
+concentrated on the first of these: that the majority erred in law in assessing the evidence on a
+"piecemeal" basis rather than considering the evidence as a whole, in reaching its decision to
+dismiss the Charges. Essentially, the Provost argues that the majority considered each of the
+alleged similarities on a standalone basis, concluding that each instance did not, on its own,
+
+21
+
+Dissent, ABC, pp. 41-42, paras. 134-136.
+
+14
+constitute persuasive evidence of plagiarism and in so doing failed to examine the similarities and
+the essay in question in its totality and in the context of the other evidence.
+
+[48]
+
+The Provost relies on authorities in the criminal law context, R. v. Knezevic 22 and R. v.
+
+Morin,
+
+23
+
+the Supreme Court of Canada decision which established the principle that individual
+
+facts do not necessarily establish guilt but a link in the chain of ultimate proof.
+
+[49]
+
+We of course accept the principal from these cases but the issue at hand is whether the
+
+majority decision ran afoul of the principal in this matter. Each case will have its own context and
+elements of the alleged offence.
+
+[50]
+
+In the course of the argument, Ms. Lie conceded that if this Appeals Board was satisfied
+
+that the Panel did assess the cumulative effect of the evidence, then it committed no error of law.
+
+[51]
+
+We are unable to give effect to the Provost's submission. In our view, the criticism of the
+
+majority's approach to its assessment of the similarities, dealing with each one as it came up in the
+evidence is misplaced. This was an allegation of plagiarism, and the University presented its
+evidence in that same way, taking its only witness, Ms. Planinc, through her own compilation of
+highlights and annotations and reviewing each of the eight alleged similarities one by one, or, in
+piecemeal fashion. It is, in our view, not a fair criticism of the Panel if it approached its analysis of
+these eight alleged similarities in the same fashion, at first instance, before, as we find it did,
+setting its conclusions and the allegations generally into the context of the other evidence, making
+findings on all the evidence. This led the majority, cumulatively, to conclude that the University
+had not met its burden of proof on clear and convincing evidence on a balance of probabilities.
+
+22
+23
+
+R. v. Knezic, 2016 ONCA 914, Provost Book of Authorities, Tab 2.
+R. v. Morin, [1988] 2 S.C.R. 345, Provost Book of Authorities, Tab 4.
+
+15
+[52]
+
+Specifically as to the three instances out of eight, where the majority concluded that it was
+
+not satisfied that the particular allegation amounted to evidence of plagiarism, we find it difficult
+to accept this criticism in the context of this case, as it was the University putting forward these
+individual similarities, making the allegation that in each instance the evidence did amount to
+evidence of plagiarism.
+[53]
+
+In making these statements, including the one that I have referred to at paragraph 32 above,
+
+and like statements, the majority was commenting on the particular evidence, but not on the overall
+burden of proof, which it proceeded to do in multiple other sections of its reasons.
+[54]
+
+We also have some difficulty with the concept that, having reviewed each of the eight
+
+similarities and finding none of them compelling, in respect of all eight taken together, the
+majority would have somehow concluded they did overall amount to plagiarism from SD's draft.
+[55]
+
+The Provost also argues that the majority either discounted or ignored other evidence,
+
+which the Provost relied upon in its case, for example the repeated complaint to us that the Panel
+ignored the fact that Ms. ~ had access to S.D.'s draft for three days before she circulated
+her revised draft and submitted her paper. There are other such references to evidence, made by
+the Provost in the course of its submissions.
+[56]
+
+We find no merit in this argument. First, it is for the Panel to sift through the evidence and
+
+assess its significance in the overall picture in coming to its findings. The majority was well aware
+of the timing evidence and referred to it at least twice in its Reasons 24 but the significance of that
+evidence fell away in the majority's conclusion that there were some coincidences in the
+
+24
+
+Majority Reasons, ABC p. 12, para. 24; p. 14, para. 37.
+
+16
+
+similarities but that overall, the student's ideas were her own and that the peer review process
+would lead to a necessary mixing of comments and ideas, for which the majority was not prepared
+to find the student responsible.
+[57]
+
+All of these findings were open to the Panel to make on this evidence, and it is not a fair
+
+criticism of the Tribunal to complain that in making its decision the majority did not place the
+same emphasis or meaning on particular pieces of evidence that the prosecution thought it should
+or wished it had.
+
+Focus on the Differences Rather Than the Similarities
+
+[58]
+
+The Provost maintains that the majority erred because it focussed on the differences in the
+
+two papers under consideration rather than the similarities. The Provost argues that Ms. ~
+committed plagiarism if any idea contained in her paper was the idea or the expression of the ideas
+of the work of S.D. In focussing on the differences, the Provost argues that the Panel misdirected
+itself on the essential question before it. We find no merit in this submission, mostly on a plain
+reading of the majority's decision. The majority did not focus on the differences between the
+papers, but rather, as it was asked to do by the prosecutor, focussed on the alleged similarities.
+[59]
+
+We accept, as the dissent pointed out, that plagiarism may result if the foundational ideas in
+
+two works are the same even if the expression of the ideas in both papers differ. This might, in a
+given case be a nice question to consider, but in our view, the majority decision when read as a
+whole dealt with differences in an acceptable manner. The majority's discussion of differences
+was in the context of looking at the two papers as a whole. In its assessment, it concluded that the
+similarities in language resulted in the expression of different ideas in the two papers by the two
+students.
+
+17
+
+[60]
+
+For example ... "Moreover, the Student uses the quotation about "torrential rivers" to make
+
+a different point from S.D. 's. " 25 And, another example ... "(S.D.' s text uses the word "religion" in
+quite a different context)." 26
+
+[61]
+
+The majority' s use and analysis of the differences was in the context of examining the ideas
+
+expressed in the papers and in assessing the similarities and what the Panel was prepared to take
+from them. All of this was open for the Panel on the evidence and we are not prepared to interfere
+with the findings and analysis that resulted from the majority's review.
+
+[62]
+
+It is also noteworthy that in its conclusory section, the majority made no reference to
+
+"differences" at all , but rather concluded that the similarities that existed were more likely the
+natural product of the fact that students were writing on the same essay topic and relying on the
+same source material, in the context of a peer review process. 27
+
+Misapplication of the Standard of Proof
+[63]
+
+The Provost argues that although the majority gave lip service to the requisite standard of
+
+proof - the balance of probabilities, and whether it was more likely than not that the plagiarism
+occurred, which the majority did refer to on at least four separate places in its Reasons. The
+Provost argues that the majority "appeared to put the Provost to a higher evidentiary standard."28
+
+[64]
+
+The Provost relies on two main submissions for this argument including that the majority
+
+stated in the course of its Reasons that "the evidence against the Student was entirely
+
+25
+
+Majority Reasons, ABC, p. 19, para. 52.
+Majority Reasons, ABC, p. 23, para. 63.
+27
+Majority Reasons, ABC, p. 27, para. 80.
+28
+Factum of the University of Toronto, p. 26, para. 75 .
+26
+
+18
+circumstantial in our view" 29 We do not agree that in using this characterization, including in the
+context of the paragraph where it was used, that the majority is elevating the standard of proof to
+something more than the actual prosecution's burden.
+[65]
+
+It is entirely common for triers of fact to describe the nature of the evidence at some point
+
+in the course ofreasons as circumstantial, if it is in fact circumstantial, as this evidence was. If this
+serves as a reminder that the burden of proof rests on the Provost in these cases and that the
+standard is to meet a reasonable level of clear cogent evidence on the way through, then that is
+entirely appropriate.
+[66]
+
+There are some additional points. Reading the decision as a whole, including the Panel's
+
+reference to having no direct evidence, which is also a matter of complaint by the Provost, it is
+clear that the majority was commenting that this case of alleged plagiarism was not of the "cut and
+paste" variety but rather was of a more nuanced and difficult nature. The Decision would have to
+result from inferences from the evidence.
+[67]
+
+In the course of its Reasons, the majority commented that among other things, it did not
+
+have the texts that were under consideration, it did not hear from the other students involved in the
+peer review process, it did not have access to any papers not reviewed by Ms. Planinc and, whether
+another Panel would have felt the same, this Panel believed these pieces of "direct" evidence
+would have been helpful.
+
+29
+
+Majority Reasons, ABC, p. 14, para. 37.
+
+19
+
+[68]
+
+When taken with the very clear references to the correct standard of proof in various
+
+paragraphs of the majority's decision, we are unable to conclude that this Panel did not do exactly
+what it said it did, namely, apply the correct standard of proof.
+
+Ms. Planinc's Evidence
+[69]
+
+The fourth submission the Provost makes on this appeal is an argument that the majority
+
+erred in not accepting Ms. Planinc's evidence, that she followed the process set out in the Code and
+that Ms. Planinc in all respects testified in an honest and straight-forward manner, and her
+evidence ought to have been accepted.
+[70]
+
+As we have said, the assessment of the evidence in this respect is for the trial Panel and not
+
+for this Appeals Board. We have carefully reviewed Ms. Planinc's evidence and can find nothing
+to suggest that she betrayed any bias or conducted herself in her investigation and evidence in
+anything other than a proper manner. At the same time however, it was open to the Tribunal to
+assess her evidence in the overall context of the case, as it did, and we are in no position to
+substitute our own views when it comes to assessing credibility or the relative weight to be given
+to the evidence of witnesses.
+CONCLUSION
+
+[71]
+
+For these reasons, we are of the view that this Appeal must be dismissed.
+
+Dated at Toronto:
+
+October 31, 2017
+
+Ronald G. Slaght, Q.C.
+Chair, for the Appeals Board Panel
+
+

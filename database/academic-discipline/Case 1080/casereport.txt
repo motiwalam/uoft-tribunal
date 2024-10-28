@@ -1,0 +1,313 @@
+Case No.: 1080
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic misconduct filed on April 27, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and X
+
+T
+
+(The “Student”)
+
+REASONS FOR DECISION
+Hearing Date: July 6, 2020, via Zoom
+Panel Members:
+Ms. Erin Dann, Chair
+Professor Margaret MacNeill, Faculty Panel Member
+Ms. Alena Zelinka, Student Panel Member
+Appearances:
+Mr. Robert A. Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Hearings Secretary, Office of the Appeals, Discipline and Faculty
+Grievances, University of Toronto
+Not in Attendance:
+The Student
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on July 6, 2020, by
+Zoom, to consider charges of academic dishonesty brought by the University against the
+Student, under the Code of Behaviour on Academic Matters, 1995 (the “Code”). The
+Student was informed of the charges by letter dated April 27, 2020, from Professor Heather
+Boon, Vice-Provost, Faculty & Academic Life.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+2. The hearing was scheduled to commence at 1:45 p.m. The Tribunal waited until 2:00 p.m.
+before commencing the hearing. The Student did not appear at the hearing.
+3. Pursuant to Sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act
+and the party does not attend at the hearing, the Tribunal may proceed in the absence of the
+party, and the party is not entitled to any further notice in the proceeding. In this case, the
+University requested that the Tribunal proceed with the hearing in the absence of the
+Student.
+4. Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including by: sending a copy of the document by courier to the Student’s mailing address
+contained in the Repository of Student Information (“ROSI”); or emailing a copy of the
+document to the student’s email address contained in ROSI.
+5. The University’s Policy on Official Correspondence with Students expressly states that
+students are responsible for maintaining on ROSI a current and valid postal address and a
+University-issued email account. The Policy also makes it clear that students are expected
+to monitor and retrieve their mail, including electronic messaging account(s) issued to them
+by the University, on a frequent and consistent basis.
+6. Counsel for the Provost filed various affidavits setting out the measures taken regarding
+service on the Student. The affidavit of Nusaiba Khan confirmed that on June 24, 2020
+she served the Student with a Notice of Electronic Hearing by email to
+@mail.utoronto.ca which was the email address he provided to the University
+of Toronto in ROSI.
+7. Two affidavits of Sharon Hawley, legal assistant for the Assistant Disciple Counsel, were
+also filed; one sworn on June 25, 2020 and the other on July 3, 2020. These affidavits
+confirm that the Student was served by e-mail on April 28, 2020 with the letter regarding
+the charges that were filed against him, together with copies of the charges, the Code of
+Behaviour on Academic Matters, the Rules of Practice and Procedure and a pamphlet for
+
+2
+
+Downtown Legal Services. That email, along with the emails referred to below, was sent
+to the address contained in ROSI.
+8. Ms. Hawley’s affidavits further confirm the following:
+a. On June 1, 2020, Ms. Hawley sent the Student an email, on behalf of Mr. Centa,
+containing the link to the disclosure brief prepared by the University. The email
+advised the Student that a hearing would be scheduled without further consultation
+if he did not respond by June 8, 2020.
+b. On June 10, 2020, Mr. Centa sent an email to the Student to advise that a hearing
+would be scheduled for July and asking the Student to contact him to discuss the
+case immediately.
+9. Finally, the affidavit of Mike Wiseman, Associate Director, Strategic Initiatives,
+Information Security at the University, sworn on June 4, 2020 was also filed. The evidence
+of Mr. Wiseman was as follows:
+a. Information Security provides many services to the University of Toronto,
+including management of the email accounts used by students. To access
+an email account, one needs to input both the user’s login id and the
+password for that account. Data logs automatically record the last time
+someone accessed a particular university-issued email account.
+b. On June 24, 2020, at the request of Mr. Centa, Mr. Wiseman checked the
+data logs to determine the last time someone accessed the Student’s email
+account. He determined that the last time someone accessed this e-mail
+account was on June 15, 2020 at 6:39 a.m.
+10. Ms. Hawley’s July 3, 2020 affidavit confirms that Mr. Wiseman checked the data logs
+again on July 3, 2020. He determined that the last time someone accessed the Student’s
+email account was July 1, 2020 at 4:09 p.m.
+11. Based on the evidence contained in the Hawley and Wiseman affidavits, it appears the
+Student, at minimum, accessed his utoronto email account on June 15, 2020 and July 1,
+2020 and ought to have seen the Notice of Hearing and the various correspondence from
+the University and from Assistant Discipline Counsel.
+12. Having reviewed the evidence and heard the submissions of counsel for the Provost, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+accordance with the notice requirements set out in the Act and the Rules. The Panel is
+satisfied that he received the Notice of Hearing advising him that the hearing was scheduled
+for July 6, 2020. The University has proven that it provided reasonable notice of the
+3
+
+hearing to the Student. Accordingly, the Tribunal proceeded to hear the case on its merits
+in the absence of the Student.
+THE CHARGES
+13. At all material times, the Student was a registered student at the University in the Faculty
+of Arts & Science.
+14. The University alleged that the Student, on or about December 18, 2019, knowingly altered
+or falsified a document or evidence required by the University of Toronto, or uttered,
+circulated or made use of any such altered or falsified document, namely, a University of
+Toronto Verification of Student Illness or Injury Form (“VOI”), dated December 10, 2019,
+which he submitted in support of his petition for a late withdrawal from course
+HMB321H1S (the “Course”) contrary to section B.I.1(a) of the Code.
+15. The University alleged, in the alternative, that the Student knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation in order to obtain
+academic credit or other academic advantage of any kind, which violated section B.I.3(b)
+of the Code.
+16. The particulars of the charges were as follows:
+a. In the Winter 2019, the Student was registered in the Course;
+
+b. On December 18, 2019, the Student submitted a petition for late withdrawal from
+the Course.
+c. In support of his petition, the Student provided a VOI dated December 10, 2019,
+which was purportedly signed by Dr. Zhong Toni.
+d. The Student knew that the VOI submitted was forged, altered or contained false
+information when he submitted it.
+e. The Student knowingly submitted the VOI described above:
+i. understanding that the University of Toronto required evidence to be
+presented in order to obtain the academic accommodation sought.
+ii. with the intention that the University of Toronto rely on it in considering
+whether or not to provide the Student with the academic accommodations
+you requested; and
+iii. in an attempt to obtain an academic advantage.
+
+4
+
+THE EVIDENCE
+17. The Tribunal received affidavit and viva voce evidence from Justina Lee, who in 2019 was
+the Assistant Registrar, New College, at the University of Toronto. Her evidence was as
+follows:
+18. In Winter 2019, the Student was registered in HMB321 (“the Course”) and received a grade
+of D-. At the end of the Winter 2019 term, the Student had earned an annual GPA of 1.61
+and a cumulative GPA of 1.26. As a result of his low annual GPA, the Student was
+suspended from the University for three years.
+19. Ms. Lee met with the Student on December 16, 2019. He asked her about petitioning to lift
+this suspension and seeking permission for late withdrawal from his courses in the Winter
+2019 term. The Student told Ms. Lee that he had written all his exams despite health issues
+during the April 2019 exam period. He reported seeing a doctor during the exam period
+but said he had not obtained documentation of that meeting at the time.
+20. On December 18, 2019, the Student submitted a petition for late withdrawal from the
+Course. If the Student received permission to withdraw from the Course without academic
+penalty, his annual GPA for the 2018-2019 year would have increased to 1.71. This would
+allow him to avoid the three-year suspension and to continue studies on academic
+probation.
+21. In support of the petition, the Student submitted a photocopy of a Verification of Student
+Illness and Injury form (the “VOI”). The VOI submitted is dated December 10, 2019 but
+lists a visit date of April 14, 2019. The form indicates that the Student was seriously
+incapacitated from April 13 to April 20, 2019. The VOI has a signature and stamp of
+Dr. Toni Zhong. It also contains a business stamp for Toronto General Hospital.
+22. Ms. Lee believed the VOI form was fraudulent. She recognized the business stamp as
+having appeared on a fraudulent VOI form submitted the previous year. Notably, the
+business stamp on the VOI submitted by the Student contains an incorrect postal code for
+the hospital, namely: M5G ZC4 (underlining added). This, of course, is not the correct
+lettering and numbering convention for Canadian postal codes. Ms. Lee testified that the
+same error appeared on the fraudulent VOI submitted the previous year.
+23. Ms. Lee contacted the assistant to Dr. Toni Zhong at Toronto General Hospital by fax on
+December 18, 2019. She received a fax back later the same day. The handwritten note on
+the return fax states, “NOT A PATIENT OF DR. TONI ZHONG.” The note is
+accompanied by the stamp of Dr. Toni Zhong. This stamp is different from the one that
+appears on the VOI submitted by the Student.
+
+5
+
+24. Copies of the VOI, Ms. Lee’s fax to Dr. Zhong’s office and the responding fax were all
+included as exhibits to Ms. Lee’s affidavit.
+25. Ms. Lee referred the matter to Laura Ferlito, Associate Director, Academic Integrity &
+Petitions at the University of Toronto and recommended that the petition be refused, and
+the matter investigated by the Office of Student Academic Integrity (“OSAI”).
+26. The Tribunal received the affidavit of Ms. Ferlito. Ms. Ferlito met with the Student on
+February 6, 2020 to discuss his petition and the information she had received from Ms. Lee.
+Following her meeting with the Student, Ms. Ferlito emailed the OSAI and provided a
+summary of the information received from Ms. Lee and the content of her conversation
+with the Student.
+27. Finally, the Tribunal received the affidavit of Christina Di Matteo, an Academic Integrity
+Specialist at the OSAI. On March 5, 2020, Ms. Di Matteo and Professor William Ju, the
+Dean’s Designate for the Faculty of Arts & Science, met with the Student.
+28. Professor Ju read the relevant portions of the Code of Behaviour on Academic Matters to
+the Student and specifically warned the Student that anything he said during that meeting
+could be received in evidence against him at the Tribunal.
+29. The Student explained that he had been experiencing health problems during the April
+2019 exam period but chose not to postpone his exams because he did not want to further
+delay his academic progress. The Student said he met with a doctor in April before the
+HMB321 exam, but it was not an official appointment. He explained that the doctor was a
+friend of his parents and he met with her in the lobby of the hospital. According to the
+Student, the doctor did not conduct any kind of physical exam. The Student said he had
+arranged the meeting with the doctor by text message but no longer had the messages on
+his phone.
+30. The Student said that the doctor mailed him the VOI form in December 2019 when he
+decided to apply for the late withdrawal. He could not explain why the doctor’s office
+would say he was not a patient. He speculated that perhaps the doctor had not taken the
+visit seriously and thought she was simply doing a favour by filling out the form.
+31. Finally, the Student maintained that the VOI he submitted was an authentic document
+signed by a real doctor he met at Toronto General Hospital.
+32. As noted above, the Student did not attend the hearing.
+
+6
+
+DECISION OF THE TRIBUNAL ON CHARGES
+33. Having considered all the evidence heard during the hearing and the affidavit evidence, the
+Tribunal found that the Student knowingly made use of a forged, altered or falsified
+document in support of his request for late withdrawal from the Course, contrary to section
+B.I.1.(a) of the Code.
+34. The totality of the evidence made clear to the Panel that the VOI dated December 10, 2019
+was not completed, signed or stamped by Dr. Toni Zhong despite the Student’s assertions
+otherwise. In support of its finding that the VOI was forged, altered or falsified, the Panel
+notes, in particular, that the business stamp on the VOI contained the same error in the
+postal code as on a stamp previously affixed to a fraudulent VOI; that Dr. Zhong’s office
+confirmed that the Student was not a patient; and that Dr. Zhong’s authentic stamp differed
+from that affixed to the VOI submitted by the Student. The Student’s claim that the doctor
+met him in the lobby of the hospital in April 2019, did not perform any physical
+examination and was prepared to complete a VOI in December of 2019, in respect of the
+April visit, was not credible.
+35. Consequently, the Tribunal finds that the Charge #1 (as outlined in paragraph 14) above
+had been proven with clear and convincing evidence on a balance of probabilities.
+Accordingly, the Tribunal entered a finding of guilt with respect to the Charge.
+36. The Panel was advised that if the Tribunal convicted the Student on Charge #1, the
+University would withdraw Charge #2 (the alternative charge) and that charge was so
+withdrawn.
+PENALTY
+37. The University sought the following penalties:
+a. a final grade of zero in the course HMB321H1S;
+b. a suspension from the University of Toronto from the date of this order for a period
+of two years; and
+c. a notation of the sanction on his academic record and transcript from the date of
+this order for a period of three years; and
+d. that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+38. The Provost called no further evidence.
+
+7
+
+DECISION OF THE TRIBUNAL ON PENALTY
+39. The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and C. (File No. 1976/77-3; dated November 5,
+1976).
+a. The character of the Student. As the Student did not participate in the
+proceeding, there was no evidence before the Tribunal regarding the Student’s
+character other than the facts relating to this offence.
+b. The likelihood of a repetition of the offence. The Student did not have a prior
+record of academic offences and the offence here appears to be an isolated incident.
+Given the Student did not attend the hearing, the Panel was unable to make any
+further findings regarding the likelihood of a repetition of this offence.
+c. The nature of the offence committed. The Panel took into consideration the
+serious and deliberate nature of the offence and the detriment to the University.
+Given the size of the University, and the fact that the University is unable to verify
+every medical note submitted by students, the University must be able to trust that
+the students are submitting legitimate documentation in support of accommodation
+and late withdrawal requests.
+d. Any extenuating circumstances surrounding the commission of the offence.
+The Student did not participate in this hearing. Accordingly there is little evidence
+before the Tribunal of mitigating or extenuating circumstances. The Panel does note
+that in his petition for late withdrawal and in his meetings with Ms. Ferlito and Ms.
+Di Matteo, the Student expressed feeling significant stress and anxiety about the
+delay in his studies caused by his suspension.
+e. The detriment to the University occasioned by the offence. The Panel accepts
+the University’s concerns that the Student’s conduct implicated medical
+professionals and undermined the integrity of those charged with providing those
+medical notes, as well as the University’s procedure for assessing and granting
+accommodations to its students.
+f. The need to deter others from committing a similar offence. General deterrence
+is an important factor in these cases. The Panel accepts that the University and the
+Tribunal must send a strong message to other students that such misconduct is
+considered a serious offence.
+
+8
+
+40. The determination of an appropriate penalty in every case by the Tribunal will depend on
+an assessment of these principles and factors in the individual circumstances of the case.
+However, the Discipline Appeals Board has stressed the importance of a general
+consistency in the approach of Tribunals to sanction, so that the students are treated fairly
+and equitably.
+41. Having regard to the cases presented by the University, the submissions of the University,
+and the relevant factors outlined above, the Panel agrees that the recommended sanctions
+are appropriate.
+42. Accordingly, at the conclusion of the hearing, the Panel made the following Order:
+a. The hearing proceed in the absence of the Student.
+b. The Student is guilty of one count of knowingly forging or in any other way altering
+or falsifying a document or evidence required by the University of Toronto, or
+uttering, circulating or making use of such forged, altered or falsified document,
+contrary to section B.I.1.(a) of the Code;
+c. The following sanctions shall be imposed on Mr. T
+
+:
+
+i) a final grade of zero in the course HMB321H1S;
+ii) a suspension from the University of Toronto from the date of this order for a
+period of two years; and
+iii) a notation of the sanction on his academic record and transcript from the date
+of this order for a period of three years; and
+d. This case be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanction imposed, with the Student’s name withheld.
+DATED at Toronto, September 29, 2020.
+
+_______________________________________
+Erin Dann, Chair
+
+9
+
+

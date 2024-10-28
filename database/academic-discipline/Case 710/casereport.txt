@@ -1,0 +1,965 @@
+UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on March 11, 2013
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO (the "University")
+- and~ ~ (the "Student")
+REASONS FOR DECISION
+
+Hearing Date: Wednesday, September 17, 2014
+Panel Members:
+Ms. Roslyn M. Tsao, Barrister and Solicitor, Chair
+Dr. Maria Rozakis-Adcock, Faculty of Medicine, Faculty Panel Member
+Ms. Alice Zhu, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel for University, Paliare Roland Barristers
+Professor Eleanor Irwin, Dean's Designate, University of Toronto Scarborough
+Professor Dan Riggs, Instructor BIOB11H: Molecular Aspects of Cellular and Genetic
+Processes, Department of Biological Sciences, University of Toronto Scarborough
+In Attendance:
+Mr. ~ ~.the Student
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+
+2
+
+1.
+
+The Trial division of the Tribunal heard this matter on September 17, 2014. The Student
+was charged on March 11, 2013 of the following:
+(a)
+
+Charge #1 - On or about April 17, 2012, the Student knowingly forged or in any
+other way altered or falsified a document or evidence required by the University,
+or knowingly uttered, circulated or made use of any such forged, altered or
+falsified document, namely, his Scantron answer form in the final exam in
+BIOBl 1H3, contrary to section B.I.l(a) of the Code.
+
+(b)
+
+Charge #2 - In the alternative, on or about April 17, 2012, the Student knowingly
+forged or in any other way altered or falsified an academic record, namely, his
+Scantron answer form in the final exam in BIOB11H3, or he uttered, circulated or
+made use of such forged, altered or falsified record contrary to section B.I.3(a) of
+the Code.
+
+(c)
+
+Charge #3 - In the further alternative, on or about April 17, 2012, the Student
+knowingly engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit or other academic
+advantage of any kind, by altering or falsifying his Scantron answer form in the
+final exam in BIOB11H3, contrary to section B.I.3(b) of the Code.
+
+2.
+
+The Student attended at the Hearing and entered a pleaded "not guilty" to all charges.
+
+Review of Evidence
+
+3.
+
+The University tendered two witnesses:
+
+Professor Dan Riggs and Dean's Designate,
+
+Professor Eleanor Irwin.
+
+Professor Dan Riggs- Course Instructor
+4.
+
+Professor Riggs was the course instructor for BIO B11H3S (the "Course") in the Winter
+2013 term. Professor Riggs has taught for 25 years and is presently in the Department of
+Biological Sciences, Scarborough Campus.
+
+5.
+
+The Course was a 2nd year course with approximately 400 students.
+examination for the Course was April 17, 2012.
+
+The final
+
+3
+6.
+
+Professor Riggs acknowledged that, given the class size, he would not have known the
+students in the Course by face or by name. However, Professor Riggs did come to know
+the Student following the final examination as described further below.
+
+7.
+
+Professor Riggs clearly and plainly outlined the usual protocol he follows and followed
+for the examination in question:
+(a)
+
+the examination would typically be sat in a large gymnasium which would likely
+have been partitioned for another course's class;
+
+(b)
+
+he and the invigilators would set up the desks before the arrival of the students by
+placing 3 documents on each desk:
+
+(c)
+
+(i)
+
+test booklet (with multiple choice questions);
+
+(ii)
+
+numbered Candidate form; and
+
+(iii)
+
+Scantron answer form.
+
+when the students arrived, they would take a number and find the desk with the
+corresponding Candidate Form. This provides an assurance ofrandom seating;
+
+(d)
+
+about a half hour into the examination, the invigilators begin to circulate to check
+the students' Student Card/identification, have the student sign the Candidate form
+in their presence and compare the signature to the Student Card. This process
+takes about 30-45 minutes with 1-2 invigilators for the 400 students; and
+
+(e)
+
+at the end of the examination, he and the invigilators count booklets, Scantron
+answer forms and Candidate Forms to confirm that the number of each
+corresponds to the number of students who sat the examination based on their
+head count.
+
+8.
+
+Professor Riggs confirmed that the number of "sets" of examination materials matched
+with the number of students in the room in this case. Professor Riggs also confirmed that
+no student left or requested to leave the examination to his recollection.
+
+4
+
+9.
+
+The marking of the examination took place on the Friday following the examination,
+April 20th, and by the following Monday or Tuesday, the-grades for the Course would
+have been posted to ROSI.
+
+10.
+
+On the Tuesday following the examination, the Student attended at Professor Riggs office
+late in the day. The Student stated that he received a grade from the examination but that
+this was not possible as he had not written the examination.
+
+11.
+
+The Student advised Professor Riggs that he attended at the examination, signed a
+Candidate Fonn but had to leave because he felt ill. There was, indeed, a completed and
+signed Candidate form for the Student (Exhibit 4).
+
+12.
+
+The following day, Professor Riggs met with his course coordinator, Sean Ramrattan,
+about this matter. They looked at the Candidate forms, the Scantron answer forms and,
+upon counting them, found that the number of Candidate forms matched the number of
+Scantron answer forms collected after the examination. Upon further review of the actual
+Candidate forms and Scantron answer forms, Professor Riggs could not find an exact
+Scantron Answer form with the Student's name and student number. Rather, there was
+one Scantron form with a name and number which did not match any Candidate form
+(the "Orphan Scantron") (Exhibit "5").
+
+13.
+
+Professor Riggs noticed anomalies on the Orphan Scantron:
+
+"t-1111;
+
+(a)
+
+The printed "last name" was
+
+(b)
+
+The column of bubbles below the "r" and the "i" in the last name had erased letter
+bubbles which corresponded to the Student's actual last name and further, under
+the fifth column, there was an erased letter bubble that again corresponded to the
+Student's actual last name;
+
+(c)
+
+The printed "first name" was "S.
+
+;
+
+(d)
+
+The bubbles below the "first name" had no bubble completed under the "m" but
+there was a filled letter bubble (not erased) under the fifth column which
+
+5
+corresponded to the Student's actual first name (even though there was no printed
+letter above) 1;
+(e)
+
+the way that the nines ("9") and "o" letters were printed were similar to those
+characters on the Student's Candidate form; and
+
+(f)
+
+100 multiple answer bubbles were filled in.
+
+14.
+
+There was no student in the Course named "slllN■'.
+
+15.
+
+Professor Riggs explained that the Scantron answer forms are matched to Candidate
+fonns manually based on the name fields because, based on prior experience, students
+are "sloppy" in completing their student numbers accurately. In this case, although the
+completed student number on the Orphan Scantron did not match the Student's number
+on his Candidate fonn, the course coordinator told Professor Riggs that they attributed
+the Orphan Scantron to the Student given that there was a match for all of other sets of
+fonns and the name was close.
+
+16.
+
+Professor Riggs was not pleased that a grade was assigned to the Student based on a
+Scantron form that did not match his name. However, there was no extra Scantron
+answer form, no unmatched Candidate foxm and, therefore, the conclusion that the
+Orphan Scantron belonged to the Student was not unreasonable.
+
+17.
+
+Furthe1more, no other student raised an issue about a missing grade on the Course
+examination.
+
+18.
+
+After reviewing the Candidate fo1m and Orphan Scantron, Professor Riggs emailed the
+Student to ask to meet again. The Student responded that he was not in Toronto and was
+"ill", staying in Montreal.
+
+Professor Riggs n01mally required a meeting to discuss
+
+misconduct but attempted to accommodate the Student by further emailing to advise that
+he had evidence of identity misconduct.
+
+1
+
+As the published decision herein will not reveal the Student's full name, suffice to say, the letter bubbles that
+appear to have been erased or remained correlate to the St1.1dent's name.
+
+6
+
+19.
+
+Professor Riggs indicated that no meeting took place with the Student and that, without
+satisfactory response for the Student, he referred the matter to the Dean's Designate.
+
+20.
+
+Professor Riggs was asked to confirm whether anyone had approached him during the
+examination to advise of illness. Professor Riggs testified that he was not aware that
+anyone had approached the other invigilators or himself on that basis during that
+examination.
+
+21.
+
+Professor Riggs also confirmed that he did not interact with the Student during the
+examination that he was aware of.
+
+Professor Eleanor Irwin - Dean's Designate
+22.
+
+Professor Irwin is the Dean's Designate and is responsible for meeting with students who
+are alleged to have committed an academic offence.
+
+23.
+
+In the given case, she had sent 4 possible dates for a meeting with the Student. She and
+the Student eventually met on September 26, 2012.
+
+24.
+
+Professor Irwin confirmed that the Student's transcript to date indicated that he had been
+registered at the University starting in Fall 2011 until the end of the Winter 2012 term.
+He was in good standing and earned 3 credits at the University and had 5 credits
+transferred from Dawson College.
+
+The Student is not currently enrolled at the
+
+University.
+25.
+
+During the September 26, 2012 Dean's Designate meeting, Professor Irwin confirmed
+that she reviewed, as per usual, the relevant provisions of the Code, the allegations, the
+Dean's Warning by both reading the formal warning and explaining it in lay terms, that
+the Student was entitled to get advice and to attend with a representative. Further, the
+Student was told that he was not required to give any statement or admissions but that if
+he did, they were admissible at any subsequent process. Professor Irwin also confirmed
+to the Student that she could impose sanctions, could refer the matter to the Tribunal and
+any statements made by the Student at the meeting could be referred to.
+
+7
+
+26.
+
+Professor Irwin then proceeded to show the Student the documents (Scantron answer
+form and Candidate fonn), review Professor Riggs' allegations and that she believed that
+the Student had filled in the Scantron with his name and answered the questions, then
+erased his name and the corresponding bubbles before leaving the examination.
+
+27.
+
+The Student denied that he had done that.
+
+He said that he had attended at the
+
+examination but then left "almost immediately" as he felt ill.
+
+He confirmed that he
+
+completed the Candidate form, his name and student number on his Scantron answer
+form but left these documents on his desk when he left.
+28.
+
+The Student told Professor Irwin that he had been sick and told her that he had a very
+serious illness and indicated that he would not be back to the University "ever again",
+ostensibly because of this illness. Professor Irwin acknowledged that she was, in fact,
+concerned about the Student's condition at that time because he did not look well.
+
+29.
+
+As per usual course, Professor Irwin explained to the Student that the matter would be
+referred to the Provost and Vice-Provost and she attempted to guide him about the
+importance of "good medical evidence" if he was not well.
+
+There was no medical
+
+evidence provided to Professor Irwin at this meeting.
+30.
+
+Professor Irwin emailed the Student 2 days latter to remind him that she was going to
+send the file to the Tribunal but that she wanted to include his medical information.
+Professor Irwin confirmed what the Student had told her about his health and added that
+Professor Riggs had told her that the Student had told him that he was undergoing
+chemotherapy:
+Dear Mr. [Student]
+I met with you on September 26 in the matter of an alleged academic
+offence. At that meeting you said that you were in ve,y poor health, so
+poor that you would not be returning to your studies. I have learned
+fi·om Prof Riggs that you told him you were undergoing chemotherapy.
+In order for me to understand the situation, please send me a medical
+certificate confirming your statements about your health . ..
+
+8
+31.
+
+The Student replied: I am going to send you the certificate that you asked for as soon as
+possible.
+
+32.
+
+The Student did not send such a medical certificate and after two months, on November
+28, 2012, Professor Irwin emailed the Student again to advise that she would be sending
+the file to the Vice-Provost without any medical certificate.
+
+33.
+
+On December 3, 2012, Professor Irwin received an email from the Student's email
+address but purportedly penned by the Student's girlfriend, Ms. Beauchamp.
+
+In this
+
+email, Ms. Beauchamp refers to a number of very specific events following the Dean's
+Designate Meeting:
+(a)
+
+that the Student collapsed at home on October 2nd and "was taken to the hospital
+for "necessary treatments and since then his condition is getting worse";
+
+(b)
+
+that she had been checking the Student's emails since then because "he only needs
+to rest at this point as told by his oncologist";
+
+(c)
+
+that the Student had "briefly" told her to send Professor Irwin a medical certificate
+confirming his condition and that she has been trying to do so "but his oncologist
+has been on leave since September and he will be back in early January because
+he is currently conducting research in Europe."; and
+
+(d)
+
+that she has been "asking from the hospital for the certificate but they are insisting
+that his oncologist is the one that needs to sign the certificate in order to be valid".
+
+34.
+
+Professor Irwin immediately responded to Ms. Beauchamp's email to confirm the mailing
+address to which the medical certificate could be sent.
+
+35.
+
+On February 17, 2013, Ms. Beauchamp emailed Professor Irwin to explain that the
+documents which she had sent were "rejected by the post office" due to a misspelled
+address, that she had resent them and to expect them later that week.
+
+9
+
+36.
+
+However, by March 1, 2013, Professor Irwin had still not received the medical certificate
+and, again, emailed the Student to advise that she had sent the file to the Vice-Provost to
+lay charges.
+
+37.
+
+Shortly thereafter, Professor Irwin received a letter by Xpress post with a handwritten
+medical note dated March 1, 2013 from a walk-in clinic in Montreal stating:
+To whom it may concern
+This Patient has been suffering fi'om severe anxiety, secondary to
+financial issues in Iran and illness. It is recommended that he takes 2
+Semester (sic) offfor his medical condition. he may return in summer.
+Dr. Raymond Rezaie MD, CCFP Lie No. 1064724
+
+38.
+
+To state the obvious, this medical note was not from an oncologist, a hospital nor referred
+to physical illness as the primary ailment.
+
+There was no reference to the Student's
+
+medical condition from the September 2012 to December 2013 period or before that, in
+relation, to the offence date.
+39.
+
+Finally, a print out of the Student's four Petitions filed at the University was introduced
+through Professor Irwin (Exhibit 11).
+
+For the April, 2012 examination period, the
+
+Student filed the following two Petitions:
+(a)
+
+Petition submitted on April 20, 2012 seeking deferral of examinations m
+PSYA02H3S and the Course based on the Student's Statement:
+I missed my final exams due to severe sickness and not being able to
+attend in the exams that was approved by two physicians. required
+documentation will be provided. (emphasis added)
+
+Referenced with this Petition is a Medical Certificate dated April 19, 2012
+indicating that the Student had a headache, nausea and diarrhea since "yesterday"
+and that the problem was "acute" 2 and had started on April 18, 2012 and that the
+student attended at the opening of the clinic on April 19th and required "frequent
+trips to washroom interrupting exam".
+
+2 As opposed to "chronic" problem for the student.
+
+10
+(b)
+
+Petition submitted April 27, 2012 seeking a deferral of the examination m
+STAB22H3 based on the Student's Statement:
+due to severe sickness and not being to write the exam with a valid utsc
+medical certificate
+
+Referenced with this Petition are Medical Certificates dated April 17, 2012 (date
+of the Course examination) and April 27, 2012 3 . The April 17, 2012 Certificate
+indicates that the Student had an "acute" problem of diarrhea for 3-5 days and that
+"pt states could not sit exams". The April 27, 2012 Certificate states that the
+Student reported the onset of gastrointestinal illness on April 26th 2012 and that
+the "acute" problem" will not pennit a student to sit for prolonged periods & may
+require he visit the bathroom".
+
+The Student's Evidence
+40.
+
+The Student was affirmed and testified to the following:
+(a)
+
+On the day of the examination in the Course, he attended at the examination and
+filled in the Scantron form with his name as well as the Candidate form.
+
+(b)
+
+Usually, there was a 15-45 minute wait before the Candidate form was signed
+with the invigilator. However, he was given seat number 57 in the first row and
+was attended to relatively early on. He presented his student card and signed the
+Candidate form.
+
+(c)
+
+After about 19 minutes, he had a very bad stomach ache.
+
+(d)
+
+He also stated that he was suffering from depression and anxiety.
+
+(e)
+
+He read the first seven questions and answered them but then he felt very sick and
+had to stand and then leave the examination.
+
+3 In the photocopy of Exhibit 11, the April 17, 2012 Medical Certificate is attached to the April 20, 2012 Petition but
+
+from the face of the Petitions, this April li11 Certificate was submitted with the later April 27, 2012 Petition. Not
+much turns on this but it is mentioned for completeness.
+
+11
+(f)
+
+The invigilators were all at the back of the room, talking, he did not let any of
+them know that he was leaving.
+
+(g)
+
+He stated that, if he had wanted to cheat, he would have taken the Scantron form
+with him and certainly would not have used a name that was so close to his own
+name on the Scantron form.
+
+(h)
+
+When the marks were released (the following Tuesday according to Professor
+Riggs), he was very surprised to have received a mark since he had not finished
+his questions 4 •
+
+(i)
+
+He went to speak to Professor Riggs to explain that he could not have gotten a
+mark since he did not write the examination.
+
+(i)
+
+He went back to Montreal after speaking to Professor Riggs.
+
+(k)
+
+Ten years ago, the Student had a case of stomach cancer and a benign tumour was
+removed at that time. He had had chemotherapy then and, during the period in
+question, he thought that the cancer had returned as he was having gastrointestinal problems. However, after two months, the doctors "cleared him".
+
+(1)
+
+He did not attend University last year because of his gastro-intestinal problems as
+per the medical note.
+
+(m)
+
+He has never received a grade less than a "B" and other professors, close to him,
+would vouch for him.
+
+(n)
+
+During the mid-terms, he saw students exchanging Scantron answer forms.
+
+(o)
+
+His girlfriend was "not accurate" in her email by saying that his "oncologist had
+cleared him". The incident relating to his collapse arose from his depression and
+attempted suicide at that time but she did not want to tell the University about that
+(nor did he).
+
+4
+
+There was no evidence ever put before the Panel about the Student's grade on the Course examination.
+
+12
+(p)
+
+Since that time, he has not taken any course and has a full-time job. He does not
+think that he can come back to school because of his full-time job.
+
+(q)
+
+He attended at the hearing because he does not want to be accused of something
+he did not do and was prepared to undergo a polygraph test.
+
+41.
+
+Upon cross-examination by Ms. Harmer, the following admissions were obtained:
+(a)
+
+It was approximately 20 minutes after the examination started when the
+
+invigilators started to go around to collect Candidates fonns. He filled out his
+name on the Scantron and completed 8 answers to questions. It was another 1520 minutes after the start of collection of Candidates forms that they reached his
+desk and, by that time, he had completed around 6 answers 5 . He then worked on
+the examination for another 7-10 minutes to answer 2 more questions;
+(b)
+
+He was in the examination room for a total of a half hour;
+
+(c)
+
+On the Orphan Scantron (Exhibit 5), he confirmed that the answer bubbles for the
+first 8 questions did not appear have been changed but he did not know how the
+balance of the 100 answer bubbles were completed or where "x" notations on
+some of the answer bubbles came from;
+
+(d)
+
+The Student left his papers on the desk, "everything", because he thought he
+would be accused of cheating if he took his Scantron answer form.
+
+Had he
+
+wanted to cheat, he would have done a better job to erase things and again, would
+not have chosen a name so close to his own;
+(e)
+
+He went to see Professor Riggs after the marks were posted because he "was
+surprised that he had a mark";
+
+5 Although the
+
+Student was very confident about the timing of matters, and the sequence of events during his
+testimony in "chief'', upon cross-examination, the Student was markedly more hesitant at times and seemed to be
+trying to craft the "right" answer to the question.
+
+13
+(f)
+
+He filed a Petition to defer the examination in the Course within the 3 day time
+period on April 20;
+
+(g)
+
+The Student stated that he filed the Petition after the marks were posted 6 ;
+
+(h)
+
+He lead Professor Irwin to believe that he was seriously ill at the Dean's
+Designate meeting but he never sent Professor Irwin any medical evidence
+because he was having medical tests done to determine whether he had cancer;
+
+(i)
+
+He was under the care of a doctor at the time (following the Dean's Designate
+meeting on September 26, 2012). This doctor was Dr. Rezaie, his family doctor
+not an oncologist. The Student stated that his family doctor wanted to be "sure"
+about whether he had cancer or not before referring him to a specialist;
+
+(i)
+
+He was "out of commission" and could not function during this period because of
+these medical tests and because of depression too;
+
+(k)
+
+Until December, 2012, he continued in this state of uncertainty about the
+recurrence of cancer. As a result, he could not get a medical note although he
+asked for a note. The doctor said that he did not want to provide a note because
+there was no diagnosis;
+
+(1)
+
+When asked why he did not get a note to confirm that he was undergoing tests for
+cancer, he replied that he did get such a note which was the note sent by his
+girlfriend;
+
+(m)
+
+When confronted with the fact that the note which his girlfriend sent was dated
+March 1, 2013 and made no mention of cancer, the Student responded that he did
+not ask for a note to advise about medical tests - he asked for a note that he had
+cancer - but they could not provide because there was no diagnosis;
+
+6 However, Professor Riggs' evidence was the marks were not posted until the following Tuesday, after April 20 th •
+
+14
+(n)
+
+He was not seeing a psychologist/psychiatrist after the September, 2012 period
+but he did see a psychiatrist in May 2014 as referred to by his family doctor;
+
+(o)
+
+His family doctor diagnosed him with depression 2 years ago (around May 2012)
+and prescribed medication but that he did not get a note to this effect because he
+was embarrassed;
+
+(p)
+
+For the next 2 years, although his family doctor tried to assist him with
+depression, he lied to the family doctor and said he was feeling fine;
+
+(q)
+
+In reviewing Ms. Beauchamp's December 3, 2012 email (Exhibit 9B) with the
+Student, the Student stated that he wanted her to tell the truth but that he did not
+see the email at the time it was sent. Ms. Harmer identified with the Student, the
+inaccuracies in the email, namely:
+(i)
+
+in December 2012, he was not and had not been seeing any oncologist,
+only his family doctor;
+
+(ii)
+
+there was no oncologist who was on leave and, at first, the Student stated
+that his family doctor was away for several months but then confirmed
+that his family doctor had not been on leave as at December, 2012;
+
+(iii)
+
+that no doctor, in fact, had been away on leave, no doctor was coming
+back in January and no doctor had been doing research in Europe;
+
+(iv)
+
+that he did not know why Ms. Beauchamp referred to a "hospital" since he
+was attended to at the family clinic ("CLSC"); and
+
+(v)
+
+that most of the email was not true but that Ms. Beauchamp was trying to
+buy time as he had attempted suicide.
+
+(r)
+
+No one else was aware that the Student had attempted suicide;
+
+(s)
+
+The Student was questioned about the March, 2103 cover note and medical note
+finally sent to Professor Irwin (Exhibit 10). The Student stated that the cover note
+
+15
+was written by his girlfriend and not him, even though it referred to "my
+physician".
+(t)
+
+When asked why the medical note mentions "financial issues in Iran" and nothing
+about cancer tests, the Student stated that he "didn't ask [the doctor] to say so".
+
+(u)
+
+Ms. Harmer also explored the events surrounding the adjournment of the earlier
+scheduled hearing date for this matter on August 15, 2014. The Student emailed
+the University at 11 :20 a.m. on the day before the schedule hearing advising that
+he "was supposed to fly to Toronto today for the scheduled meeting tomorrow
+morning but it has been a 2 days I have been having a persistent fever" and had
+been asked by his doctor not to leave town.
+
+Ms. Harmer requested medical
+
+confirmation by reply email of 11 :41 a.m.. The Student did not respond until just
+after midnight on the 15 th and Ms. Hanner replied at 7:48 a.m. asking for the note
+before the 9:45 a.m. hearing time.
+The hearing convened as scheduled in the absence of the Student and it is obvious
+that Ms. Harmer fairly set out the Student's request for the adjournment and
+provided the email exchange regarding same to the Panel. An Order was made
+adjourning the hearing to September 1?1\ peremptory to the Student and requiring
+the Student to provide "clear evidence that he purchased an airline ticket for
+today's hearing, and clear evidence from a qualified doctor that he was advised by
+the doctor to not travel to the hearing today". The Order further stated that if the
+Student failed to provide both pieces of evidence that this Panel would be entitled
+to consider such failure to abide by the Order to assess the Student's credibility.
+The Order was duly provided to the Student.
+Two days before the Hearing, Ms. Harmer emailed the Student requesting the two
+pieces of evidence required under the Order (long overdue). The Student sent an
+email on the day before the hearing stating that the Student had intended to buy
+the airline ticket from Montreal on August 15 th (we note that his original email
+indicated that he was going to fly "today" being August 14) because of better
+pricing, even though he lived in Ottawa. He also attached a medical note dated
+
+16
+August 15, 2014 from a doctor, not his regular family doctor, which stated simply
+"Medical leave For 15/08/14" and not from August 14th , the day when he
+requested the adjournment.
+On cross-examination, the Student stated that he did not realize that there was a
+10 day time frame to provide the medical note and that he was "preoccupied about
+work in Ottawa."
+42.
+
+The Panel posed the following questions to the Student:
+(a)
+
+When asked whether he saw a doctor on the same day as the Course examination,
+the Student stated that he saw a doctor in the morning of April 17, 2012 to obtain
+his medical note submitted with the Petition. When asked, why he nevertheless
+went to sit the examination if he had seen the doctor in the morning, he advised
+that he wanted to try the exam. It is noted that the Medical Certificate for April
+17, 2012 (Exhibit 11) states that "pt states could not sit exam" which would seem
+to be referring to the examinations in past tense.
+
+(b)
+
+In reviewing the email exchange between Professor Irwin and the Student of
+September 28/October 1, 2012 (Exhibit 9A) (see Paragraphs 29 and 30 above),
+the Student was asked why he responded to Professor Irwin's request for a
+medical certificate to confirm his statements about his health, including a
+reference to Professor Riggs that he was undergoing chemotherapy by stating that
+he was "going to send [her] the certificate that [she] asked for as soon as
+possible". In particular, the Student was asked why, at no time, did he set the
+record straight if he never did undergo chemotherapy or had a diagnosis of cancer.
+The Student responded that he thought there was a "possibility of chemo" so he
+did not want to say for sure that he was not undergoing such treatment.
+
+(c)
+
+The Student was then asked whether he understood the distinction between
+"missing" his examination versus "leaving early". The Student confirmed that he
+understood the difference. The Student was referred to his Petition for a deferral
+
+17
+of his examinations (see Paragraph 38(1) above) in the Course and another course
+wherein he stated:
+I missed my final exams due to severe sickness and not being able to
+attend in the exams that was approved by two physicians. required (sic)
+documentation will be provided.
+
+The Student was asked why he stated that he "missed" his exams since he clearly
+attended, signed in, but left early. He responded that he considered that, because
+he did not finish, he had "missed" the examination.
+The Student was then directed to the second part of his statement about "not being
+able to attend" which could not be taken to equate to "missing" the examination.
+The Student had no response.
+43.
+
+Ms. Harmer had redirect arising from the Panel's questions and asked why the Student
+would have been surprised to have received a score because he had answered 8 questions.
+At which point, the Student's answer was quite surprising as he stated "But I erased my
+name and answers."
+
+Decision of the Tribunal
+
+44.
+
+For the reasons below, the Panel is satisfied it is more likely than not that the Student
+committed the offence set out in Charge #1 namely, the alteration of the Scantron answer
+form for the Course examination contrary to Section B.I.1 (a) of the Code.
+
+45.
+
+There was some discussion raised by the University as to whether the Scantron answer
+form is a "document or evidence required by the University" so as to fall under the rubric
+of Section B.I.l(a) of the Code. We are of the view that a Scantron answer form is
+included in scope of this section (as has been applied in other Decisions) and, in any
+event, if we are mistaken, we would find the Student guilty of Charge #3 pursuant to
+Section B.I.3(b) of the Code.
+
+46.
+
+Charges #2 and #3 were withdrawn by the University based on the finding of guilt for
+Charge #1.
+
+18
+
+47.
+
+When considering the preamble to Section B of the Code, we note that the purpose of the
+prosecuting offences is to ensure that "conditions which might enable cheating,
+misrepresentation or unfairness not be tolerated".
+
+48.
+
+With this in mind, we have concluded based on a clear and compelling evidence, that the
+Student altered his Scantron answer form with the goal of having no examination score
+entered for him although he attended at the examination and completed 100 answers.
+Although we need not determine the exact motive or mechanics of the Student's whole
+plan, we do accept the University's theory that, had the Student been successful in having
+his Scantron answer form "disappear" because of a non-existent name and student
+number, he might have been granted a deferral in order to re-write the examination at a
+later date pursuant to his Petition request at an advantage.
+
+49.
+
+Unfortunately, the Candidate forms and Scantron answer forms were manually matched
+together with the result that a score (that the Student must not have liked) was attributed
+to him.
+
+Perhaps the Student believed that if there was no Scantron answer form
+
+corresponding to his name, that it would be irrelevant that there was a Candidate form for
+him.
+50.
+
+The Petition that the Student filed after the examination but before the scores were
+published are consistent with the Student attempting to represent that he missed the
+examination due to illness as opposed to attending and then leaving because of illness.
+At this hearing, the Student was forced to take an alternate position, that he attended but
+had to leave, as his Candidate form was obviously completed and witnessed at the time.
+The resulting inconsistency between his evidence at the hearing and his Petition
+statement and his "surprise" at having received a score on the examination even though
+he testified that he completed some 8 questions leads us to conclude that the Student was
+attempting to create a "condition which might enable cheating, misrepresentation or
+unfairness" by erasing his name from the Orphan Scantron.
+
+51.
+
+The post-incident communications, failures to provide medical certificates that would
+corroborate the Student's statements to University officials and the clearly misleading
+communications about cancer, though not directly related to the incident, permit this
+
+19
+
+Panel to doubt the Student's credibility where his evidence differs from the other
+witnesses.
+Penalty
+
+52.
+
+The University recommended the following penalty:
+(a)
+
+The Student to receive final grade of zero in the Course;
+
+(b)
+
+The Student to be suspended by the University from September 17, 2014 until
+September 16, 2016; and
+
+(c)
+
+The sanction to be recorded on the Student's academic record and transcript until
+September 16, 201 7.
+
+53.
+
+The Panel obtained some current information relating to the Student. The Student is
+employed full-time at Harry Rosen in Ottawa and cannot re-attend university for financial
+reasons at this time. He has seen a psychiatrist twice in Ottawa in June, 2014 but is no
+longer seeing her.
+
+54.
+
+The University had no evidence to tender but confirmed that this was the Student's first
+offence.
+
+55.
+
+After considering other decisions in somewhat similar circumstances and that this was a
+first offence for the Student, we are of the view that the University's recommended
+penalty is in a reasonable range.
+
+56.
+
+Accordingly, the Penalty set out in Paragraph 52 above is ordered by the Panel.
+
+57.
+
+The Tribunal shall report this decision to the Provost for publication of a Notice of this
+decision and the sanction in the University newspaper, with the Student's name withheld.
+
+58.
+
+An Order with the penalty was signed by the Panel at the hearing.
+
+20
+Dated at Toronto, this
+
+day of October, 2014.
+
+. TSAO
+Co-Chair
+
+

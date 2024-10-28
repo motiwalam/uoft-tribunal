@@ -1,0 +1,840 @@
+Case No. 1377
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 26, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and J
+
+Y
+
+Reasons for Decision
+
+Hearing Date: July 18, 2023, via Zoom
+Members of the Panel:
+Cheryl Woodin, Chair
+Dr. Pascal van Lieshout, Faculty Panel Member
+Karim Wanes, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Joseph Berger, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Coordinator & Hearing Secretary, Office of Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+J
+Y
+
+Introduction
+1.
+
+The Trial Division of the University Tribunal was convened on July 18, 2023, by
+Zoom, to consider charges of academic dishonesty (the “Charges”) brought by the
+University of Toronto (the “University”) against J
+
+Y
+
+(the “Student”)
+
+under the University of Toronto’s Code of Behaviour on Academic Matters, 2019
+(the “Code”).
+Preliminary Issue: Proceeding in the absence of the Student.
+2.
+
+The hearing was commenced at 9:45 a.m. on July 18, 2023. The Student did not
+attend the hearing by Zoom and was not represented. Assistant Discipline Counsel
+advised that neither the Student nor a representative of the Student had responded
+to the Notice of Electronic Hearing.
+
+3.
+
+Assistant Discipline Counsel requested that the Panel proceed in the absence of
+the Student and made submissions to support this request.
+
+4.
+
+The onus of proof is on the University to establish that it provided the Student with
+reasonable notice of the hearing in accordance with the University Tribunal’s Rules
+of Practice and Procedure (“Rules”).
+
+5.
+
+The University filed evidence from two witnesses to support service: Andrew Wagg
+(“Mr. Wagg”), a Manager, Incident Response, at Information Security, Information
+Technology Services at the University; and Kimberly Blake, a legal assistant at the
+law firm of Paliare Roland Rosenberg Rothstein LLP. These witnesses provided
+their evidence by way of affidavits which were accepted by the Panel pursuant to
+
+2
+
+Rule 70 of the Rules. Mr. Wagg also answered questions posed by the Panel
+during the course of the hearing.
+6.
+
+The relevant substance of the evidence of these two witnesses is as follows.
+
+Evidence of Ms. Blake, legal assistant at Paliare Roland, Assistant Discipline
+Counsel to University of Toronto
+7.
+
+Both the University of Toronto Mississauga (“UTM”) itself and Assistant Discipline
+Counsel to the University made several attempts to contact the Student using
+contact information (including phone number, email address, mailing address and
+permanent address) that was available from the University’s Repository of Student
+Information (“ROSI”).
+
+8.
+
+The Student had, at one point, actively used this email account to correspond with
+his Professor. He remains a student at the University as he has not withdrawn
+though he is not currently paying tuition. He was last enrolled in courses during the
+summer of 2021.
+
+9.
+
+From February 14, 2022, to March 2, 2022, UTM attempted to schedule a meeting
+between the Student and a Dean’s Designate for Academic Integrity to discuss the
+allegations of academic misconduct using the email address available for the
+Student in ROSI.
+
+10.
+
+On May 26, 2022, the Office of Appeals, Discipline and Faculty Grievances (the
+“ADFG Office”) served the Student with a letter regarding the charges that were
+filed against him, together with copies of the charges, the Code of Behaviour on
+
+3
+
+Academic Matters, the Rules of Practice and Procedure and a pamphlet for
+Downtown Legal Services, again by email.
+11.
+
+On August 31, 2022, Ms. Lie sent the Student an email to introduce herself. Ms. Lie
+advised that important documents and correspondence would be sent to the
+Student’s email address. On March 27, 2023, Ms. Lie emailed the Student a
+disclosure letter and a disclosure brief (together with another copy of the charges).
+
+12.
+
+On April 26, 2023, Ms. Lie emailed the Student about scheduling a hearing date.
+Ms. Lie advised that if she did not hear back by May 3, 2023, she would request a
+hearing date be scheduled. The Student did not respond. On May 5, 2023, Ms. Lie
+emailed the Student advising that she would request a hearing be scheduled for
+July 18, 2023 at 9:45 a.m. and the ADFG Office served the Student with a Notice
+of Electronic Hearing for that date. The email from the ADFG Office advised the
+Student that the hearing would be conducted using the Zoom videoconferencing
+platform and provided the Student with the coordinates to access the
+videoconference. A Revised Notice of Electronic Hearing was served on
+July 12, 2023.
+
+13.
+
+On July 11, 2023, Joseph Berger, an associate lawyer at Paliare Roland working
+with Ms. Lie, emailed the Student a copy of the affidavits of the Provost’s witnesses
+upon which the University would rely.
+
+14.
+
+No responses or any “bounce back” messages were received.
+
+4
+
+15.
+
+Further attempts to contact the Student were made by telephone using the number
+that was listed in ROSI, as well as by attempting courier delivery of information
+regarding this hearing to the street address listed in ROSI. Neither of these efforts
+was successful. Neither the telephone number nor the street address for the
+Student were correct.
+
+Evidence of Mr. Wagg, Manager, Incident Response, Information Security,
+Information Technology Services
+16.
+
+Information Technology Services is responsible for management of the email
+accounts used by students.
+
+17.
+
+Mr. Wagg determined that the last time there was activity on the email account
+j
+
+.y
+
+@mail.utoronto.ca was on December 27, 2022 at 3:25 a.m., local
+
+Toronto time. Mr. Wagg confirmed that someone would have entered his email
+account and password at that time though we do not have any more information
+about what activity occurred at that time. While the audit log also showed regular
+log-ons to this email account, with the last one occurring on July 7, 2023, at
+9:28 a.m., no additional activity was recorded at those times. The log-on activity
+may be indicative of automated log-ons or email forwarding activity.
+18.
+
+The University requested that the Tribunal proceed with this hearing in the absence
+of the Student.
+
+19.
+
+The Statutory Powers Procedure Act (the “Act”), at sections 6(1) and 7(3) sates:
+6(1) The parties to a proceeding shall be given reasonable notice of a hearing by
+the tribunal.” …
+[…]
+
+5
+
+7(3) “Where notice of an electronic hearing has been given to a party to a
+proceeding in accordance with [the Act] and the party neither acts under clause
+6 (5) (c), if applicable, nor participates in the hearing in accordance with the notice,
+the tribunal may proceed without the party’s participation and the party is not
+entitled to any further notice in the proceeding.
+
+20.
+
+According to the Rules, service can be completed “by e-mailing a copy of the
+document to the student’s e-mail address contained in ROSI”… “and service shall
+be effective on the day the document is sent by e-mail”.
+
+21.
+
+A notice of an electronic hearing must include the date, time, place and purpose
+of the hearing; a reference to the statutory authority under which the hearing will
+be held; information about the manner in which the hearing will be held; and a
+statement that if a person does not attend the hearing, the Panel may proceed in
+the person’s absence.
+
+22.
+
+Where notice of an electronic hearing has been given to a person and that person
+does not attend the hearing, the Panel may proceed with the hearing in the party’s
+absence.
+
+23.
+
+The University’s Policy on Official Correspondence with Students (the “Policy”),
+expressly states that “[s]tudents are responsible for maintaining and advising the
+University, on … ROSI, of a current and valid postal address as well as the address
+for a University-issued [email] account”, and are “expected to monitor and retrieve
+their mail… on a frequent and consistent basis… Failure to do so may result in a
+student missing important information and will not be considered an acceptable
+rationale for failing to receive official correspondence from the University.”
+
+6
+
+24.
+
+The onus of proof is on the University to demonstrate that it provided a student
+with reasonable notice of the hearing.
+
+25.
+
+While there is no evidence of actual notice, the University made considerable
+efforts to contact the Student and the Panel agrees that the University took the
+steps it was required to under the Rules.
+
+26.
+
+The evidence shows the Office of the Vice-Provost, Faculty and Academic Life,
+and the ADFG Office, sent the Student individual and separate correspondence
+serving him with the charges against him.
+
+27.
+
+Ms. Lie sent her first email as Assistant Discipline Counsel to the University of
+Toronto, to the Student on August 31, 2022. The evidence shows the last time
+someone entered his email and password, accessing his University of Toronto email account was on December 27, 2022. This confirmed access occurring
+seven (7) months after receiving the initial service emails references above.
+
+28.
+
+The evidence shows that the ADFG Office and Ms. Lie continued to make attempts
+to contact the Student via email, telephone and via courier on multiple occasions.
+
+29.
+
+As set out in the Policy, it is the responsibility of a student to ensure the telephone,
+email and mailing address in ROSI are current. It is also the responsibility of a
+student to ensure they are receiving all communications from the University by
+accessing the University of Toronto email account, or opting to forward their
+University of Toronto e-mail account to their personal account, if necessary. There
+
+7
+
+is no way to know if the Student has forwarded his University of Toronto email
+account in this case.
+30.
+
+In light of the evidence and the submissions of Assistant Discipline Counsel, the
+Panel was satisfied that the Student had been given reasonable notice of the
+hearing in compliance with the Act and the Rules. The Panel decided to hear the
+case in the absence of the Student.
+
+The Charges and Particulars
+31.
+
+The Charges and Particulars alleged against the Student are as follows:
+Charges relating to ENG110H5F 2020(9)
+1)
+
+On or about December 7, 2020, the Student knowingly represented as his own
+the idea or expression of an idea, and/or the work of another in respect of an
+essay that the Student submitted in ENG110H5F 2020(9) (“ENG 110”), contrary
+to section B.I.1(d) of the Code.
+
+2)
+
+In the alternative, to the charge above, on or about December 7, 2020, the
+Student knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind in the
+Course, contrary to section B.I.3(b) of the Code.
+
+Charges relating to MAT232H5 2021(5)
+32.
+
+The following charges relate to two different fact patterns. Charge 5 is in the
+alternative to charges 3 and 4.
+8
+
+3)
+
+On or about June 5, 2021, the Student knowingly possessed an unauthorized aid
+or obtained unauthorized assistance in respect of Assignment 1 in MAT232H5,
+2021(5) (“MAT 232”), contrary to section B.I.1(b) of the Code.
+
+4)
+
+On or about August 19, 2021, the Student knowingly possessed an unauthorized
+aid or obtained unauthorized assistance during the final examination in MAT 232,
+contrary to section B.I.1(b) of the Code.
+
+5)
+
+In the alternative to charges (3) and (4), the Student knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with coursework in MAT 232,
+contrary to section B.I.3(b) of the Code.
+
+The particulars for charges 1 and 2 are as follows:
+33.
+
+In Fall 2020, the Student enrolled in the ENG 110 Course, which was taught by
+Professor Chester Scoville.
+
+34.
+
+On December 7, 2020, the Student submitted an essay, which was worth 30% of
+the final grade in the ENG 110 Course.
+
+35.
+
+The Student knowingly included in the essay verbatim and nearly verbatim text
+from sources without appropriate attribution.
+
+36.
+
+In connection with the essay, the Student knowingly engaged in a form of cheating,
+academic dishonesty, or misconduct in order to obtain an academic advantage.
+The particulars for charges 3, 4, 5 are as follows:
+9
+
+37.
+
+On or about June 5, 2021, the Student knowingly possessed an unauthorized aid
+or obtained unauthorized assistance in respect of Assignment 1 in MAT232H5,
+2021(5) (“MAT 232”), contrary to section B.I.1(b) of the Code.
+
+38.
+
+In Summer 2021, the Student enrolled in MAT 232, which was taught by Professor
+Ehsaan Hossain.
+
+39.
+
+On June 5, 2021, the Student submitted his answer to Assignment 1, which was
+worth 5% of the final grade in MAT 232. The Student knew that he was required to
+write up his own solution independently and that the Student was not permitted to
+copy someone else’s solution or to copy from a solution manual or website. In
+completing Assignment 1, the Student knowingly obtained unauthorized
+assistance from one or more other persons from an external website.
+
+40.
+
+On August 19, 2021, the Student submitted his answers to the final examination,
+which was worth 34% of the grade in MAT 232. The Student knew that he was
+required to complete the final examination independently and that the Student was
+not permitted to discuss the examination with anyone, or to access or copy
+solutions from other persons or websites. In completing the final examination, the
+Student knowingly obtained unauthorized assistance from one or more other
+persons or from an external website.
+
+41.
+
+In connection with each of Assignment 1 and the final examination, the Student
+knowingly engaged in a form of cheating, academic dishonesty, or misconduct in
+order to obtain an academic advantage in MAT 232.
+
+10
+
+Summary of Evidence:
+42.
+
+The University submitted the affidavit evidence of three witnesses: Professor
+Chester Scoville (“Professor Scoville”), affirmed on July 11, 2023; Professor
+Ehsaan Hossain (“Professor Hossain”), affirmed on July 7, 2023; and Lisa
+Devereaux (“Ms. Devereaux”), affirmed on July 10, 2023, all of which were
+accepted by the Panel pursuant to rule 70 of the Rules.
+
+The Evidence in Relation to ENG 110 Charges
+43.
+
+Professor Scoville is an Associate Professor in the Department of English and
+Drama, at UTM. In the Fall 2020, he was the instructor for the course ENG110H5F:
+Narrative (the “Course”).
+
+44.
+
+The Student was enrolled in the Course.
+
+45.
+
+Students in the Course were evaluated based on the results of tutorial
+participation, an academic integrity quiz, a short response assignment, a close
+reading exercise, a close reading quiz, and a final paper.
+
+46.
+
+Students in the Course were told about the importance of academic integrity.
+Under the heading “Academic Integrity”, the course outline provided a link to the
+University of Toronto’s Code of Behaviour on Academic Matters and noted that
+students were expected to adhere to it.
+
+47.
+
+Student were required to submit a Final Paper in the Course (the “Final Paper”) on
+December 7, 2020. The Final Paper was required to be five to seven pages in
+
+11
+
+length and explore a narrative concept in two texts. It had a marking weight of 30%
+of the final grade in the course.
+48.
+
+The Student submitted his Final Paper on December 7, 2020. The Teaching
+Assistant marking the Student’s Final Paper flagged it for review because some of
+the text included in the Student’s Final Paper appeared dissimilar from the work
+previously submitted by the Student in the Course.
+
+49.
+
+Professor Scoville reviewed the Student’s Final Paper and found that it included
+passages that appeared verbatim or virtually verbatim on three online sources
+which were not cited anywhere in the Student’s Final Paper.
+
+50.
+
+Professor Scoville met with the Student to discuss an allegation of plagiarism in
+the Final Paper. The matter was then forwarded to UTM’s Department of English
+and Drama and ultimately to the Office of the Vice Principal Academic and Dean
+at UTM.
+
+The Evidence in Relation to MAT 232 Charges
+51.
+
+Professor Hossain is an Assistant Professor, Teaching Stream in the Department
+of Mathematical and Computational Sciences at UTM. In Summer 2021, he was
+the instructor for the course MAT232H5Y: Calculus of Several Variables (the
+“Course”).
+
+52.
+
+The Student was enrolled in the Course.
+
+12
+
+53.
+
+Students in the Course were evaluated based on the results of eleven quizzes
+(with grades counted from the best 10 quiz results counting towards each student’s
+mark), four written assignments, three term tests and a final exam.
+
+54.
+
+Students in the Course were told about the importance of academic integrity.
+Under the heading “Academic Integrity” (on page 3), the course outline noted that
+honesty and fairness are fundamental to the University of Toronto’s mission. The
+course outline specified that plagiarism is a form of academic fraud and is treated
+very seriously. Students were provided with a link to a document entitled “How not
+to plagiarize” and told they were expected to read it. Students were also advised
+that they were expected to be familiar with the University of Toronto’s Code of
+Behaviour on Academic Matters and advised where they could access it.
+
+Assignment 1
+55.
+
+Assignment 1 in the Course (“Assignment 1”) was due on May 29, 2021, at
+11:59 p.m. It was worth 5% of the Student’s grade. Students submitted their
+answers to Assignment 1 using an online platform called “Crowdmark”.
+Assignment 1 consisted of two problem questions.
+
+56.
+
+On June 5, 2021, the Student submitted their answers to Assignment 1. The
+Student’s Assignment 1 answers were flagged by a Teaching Assistant for being
+suspiciously similar to the Assignment 1 submissions of four other students in the
+Course, L.L., H.L., Y.X., and X.W.
+
+13
+
+57.
+
+Professor Hossein reviewed the Student’s Assignment 1, and that of the four other
+students, L.L., H.L., Y.X., and X.W., and identified many suspicious similarities in
+their Assignment 1 submissions, particularly in respect of questions 1(c), and 2(a),
+(b) and (c). By way of example, the students had solved the problems using the
+same steps and in the same order and with the same level of detail even though
+they could have been answered in different ways and presented their answers in
+similar ways. The students had also skipped the same steps, in the same places,
+in ways that were different from how other members of the class had approached
+the work. In some cases, the students had also used terminology that Professor
+Hossein had not used in class and which he found to be distinctive and unusual.
+
+58.
+
+Professor Hossein determined that the degree of similarities between the students’
+answers made it unlikely the similarities were merely coincidental.
+
+59.
+
+Ms. Devereaux is the Director of Academic Success and Integrity, Office of the
+Vice Principal Academic and Dean, at UTM. She gave evidence that in addition to
+the Student, students L.L., H.L., X.W. and Y.X. in MAT 232 (referred to by their
+initials) were alleged to have committed academic misconduct and that all of the
+academic discipline matters involving these students, with the exception of H.L.,
+had resolved because the students had admitted to using an “unauthorized aid”.
+
+60.
+
+This was the second academic offence for all three students. All three students
+were given a sanction of a grade of zero in MAT 232, a suspension from attending
+the University of Toronto for a period of four months, and a notation of the sanction
+on their academic record for 24 months.
+14
+
+The Final Exam
+61.
+
+The Final Exam in MAT 232 (the “Final Exam”) was distributed online on
+August 19, 2021 from 1:00 p.m. to 4:00 p.m. Students submitted their answers
+using “Crowdmark”.
+
+62.
+
+The Student submitted his answers to the Final Exam on August 19, 2021 and
+received a grade of 27/40.
+
+63.
+
+In grading the Student’s Final Exam answers, Professor Hossein noticed
+similarities between the Final Exam answers to Question 5 submitted by the
+Student and another student in the Course, Y.W.
+
+64.
+
+Question 5 on the Final Exam was worth a total of 6 points. The Student received
+a grade of 4.5/6 on Question 5 of the Final exam. Y.W. received a grade of 5/6 on
+Question 5 of the Final exam.
+
+65.
+
+Professor Hossain considered similarities between the Student’s Final Exam
+answers to Question 5 and Y.W.’s Final Exam answers to Question 5 to be
+suspicious for the reasons that: (i) both students used the term “range”; the use of
+this term is unusual and Professor Hossein would not have expected to see this
+term used in the answer; and (ii) the first line identified in the blue square in both
+students’ answers showed a particular mathematical expression which both
+students used in an identical manner, which is highly unusual and distinctive.
+
+66.
+
+In addition, certain portions of both students’ exam answers were virtually identical
+in that the algebraic steps the students used were the same, in the same order,
+15
+
+and presented in the same way, even though there were multiple ways the
+question could be approached.
+67.
+
+The totality of the similarities Professor Hossein observed between the students’
+answers on this question of the Final Exam made it unlikely that they were merely
+coincidental.
+
+68.
+
+The allegations of academic misconduct against Y.W. were resolved at the
+divisional level. Y.W. admitted to committing the offence of unauthorized
+assistance on the Final Exam. This was Y.W.’s second academic offence. Y.W.
+was given a sanction of a grade of zero in MAT 232, and a notation of the sanction
+on their academic record until graduation.
+
+69.
+
+There were a number of efforts made in February and March 2022 at the Office of
+the Dean at UTM to attempt to address the allegations of academic misconduct in
+the courses ENG 110 and MAT 232. The Student did not respond to any of them.
+The UTM subsequently forwarded this matter to the Office of the Vice Provost.
+
+Decision of the Tribunal
+70.
+
+The University must establish on a balance of probabilities through clear and
+convincing evidence that an academic offence has been committed by the Student.
+
+71.
+
+In this case the Tribunal is satisfied that there is clear and convincing evidence in
+respect of charge 1, meaning that on or about December 7, 2020, the Student
+knowingly represented as his own the idea or expression of an idea, and/or the
+
+16
+
+work of another in respect of an essay that the Student submitted in ENG 110,
+contrary to section B.I.1(d) of the Code.
+72.
+
+Specifically, the evidence establishes that the Student was made aware that it
+would be an academic offence to represent the work of someone else as his
+own. In this case, the wording of significant passages of his Final Paper were
+essentially identical to sources that were clearly not cited in the Student’s work.
+The Panel reviewed these particular passages, which were replicated in the
+affidavit evidence of Professor Scoville, and determined that there was simply no
+ambiguity in respect of the evidence presented regarding this offence. Specific
+and significant passages containing the ideas of others were incorporated by the
+Student into his own work without attribution.
+
+73.
+
+The Tribunal is also satisfied that there is clear and convincing evidence in
+respect of charge 4, meaning that on or about August 19, 2021, the Student
+knowingly possessed an unauthorized aid or obtained unauthorized assistance
+during the final examination in MAT 232, contrary to section B.I.1(b) of the Code.
+
+74.
+
+The Tribunal is not satisfied that there is clear and convincing evidence in
+respect of charge 3 relating to allegations with respect to the assignment that
+was submitted on June 5, 2021.
+
+75.
+
+While in the case of both the Final Exam and Assignment 1 there was evidence
+that the Student had produced answers which appeared very similar to answers
+produced by another student or students in the MAT 232 course, in the case of
+Assignment 1 the Tribunal finds that the answers in issue could have been
+17
+
+completed based upon a collaborative approach which was not prohibited by either
+the course outline or the University of Toronto’s Code of Behaviour on Academic
+Matters and which was encouraged in at least part of the Course Outline.
+76.
+
+Professor Hossein gave evidence that, based on the similarities in answers
+provided by four students, he concluded that “either all five students had
+collaborated as a group on Assignment 1 or had all independently received the
+same work from some common source (such as an online source or a private
+tutor)”.
+
+77.
+
+Group collaboration on assignments is not prohibited by the Course Outline.
+Instead, it says as follows:
+Collaboration with peers. You are encouraged to work together on the
+material related to the course, including discussing the assignment
+problems. However, you must write up your own solutions independently.
+It is an academic offence to copy someone’s solution, or to let someone
+copy yours. It is an academic offence to copy from a solution manual or a
+website. Please see the links below concerning UTM’s code of behaviour
+and academic honesty.
+
+78.
+
+In its submissions to the Panel the University points to the statement that “you must
+write up your own solutions independently” to say that students may not rely on a
+single “scribe” to produce answers for four different students.
+
+79.
+
+But in this case the answers were not identical – they were instead similar, which
+suggests that it was not a “one scribe” approach.
+
+80.
+
+The Tribunal accepts that it is possible that each of the students copied from a
+third source. This would be an academic offence which is addressed directly in the
+
+18
+
+Course Outline, but it is equally possible that the students collaborated and then
+produced similar, though not identical, solutions. This is not prohibited in the
+Course Outline. It is encouraged.
+81.
+
+Professor Hossain agreed that a joint solution is possible and that some diversity
+in answer and genuine collaboration is also possible, though he gave evidence
+that if he does not see the collaborative process he would assume that the work
+product is not the result of collaboration.
+
+82.
+
+The Tribunal recognizes and agrees that collaboration does not include permitting
+one student to do the work which others then copy. The Tribunal also recognizes
+the policy with respect to Academic Integrity provides that “the work that you
+submit must be your own and cannot contain anyone else’s work or ideas without
+proper attribution”.
+
+83.
+
+In this case though the Tribunal determined that because it was possible on the
+evidence before us that the students’ similar answers were the product of genuine
+collaboration and not impermissible copying of a source, greater clarity would be
+required in the language in the Course Outline regarding the ability to collaborate
+with one’s peers for the Tribunal to conclude that the Student had committed an
+academic offence. In order for collaboration to qualify as an academic offence, the
+Course Outline should have provided that while students are “encouraged to work
+together on the material related to the course”, if they do so they must disclose or
+identify that collaboration in their work product. Clarity in regards to how
+collaboration on assignments and the University’s policy with respect to Academic
+19
+
+Integrity fit together would have resulted in a different outcome in respect of this
+charge.
+84.
+
+For these reasons, there is no clear and convincing evidence that the Student
+committed an offence in relation to Assignment 1.
+
+85.
+
+There is, however, no similar ambiguity or doubt in relation to the evidence
+regarding conduct that occurred in connection with the Final Exam.
+
+86.
+
+The unchallenged evidence establishes that the Student and another student in
+the class produced answers on the Final Exam that were suspiciously similar
+because they used unusual but identical language, highly unusual and distinctive
+expressions in an identical manner and followed the same steps in the same order
+to produce answers when there were multiple ways the answer could be produced.
+
+87.
+
+The Final Exam is written individually. Significantly, no collaboration is permitted
+or encouraged, as was the case for assignments. For these reasons, the Tribunal
+finds that there is clear and convincing evidence of an offence in relation to the 4th
+charge arising from the Student’s Final Exam.
+
+88.
+
+Because charges 1 and 4 were made out, charges 2 and 5 were withdrawn by the
+University.
+
+The Evidence Related to Penalty
+89.
+
+Counsel for the University submitted that the proper sanctions to be imposed on
+the Student should be:
+
+20
+
+1) a final grade of zero in the course ENG110H5F in Fall 2020;
+2) a final grade of zero in the course MAT232H5 in Summer 2021;
+3) suspension from the University of Toronto for a period of three (3) years
+from the date of the Tribunal’s order;
+4) recording of a sanction on the Student’s academic record and transcript for
+a period of four (4) years from the date of the Tribunal’s order; and
+5) that the case be reported to the Provost, with the Student’s name withheld,
+for publication of a notice of the decision of the Tribunal and the sanctions
+imposed.
+90.
+
+The sanctions sought by the University are specifically provided for in the Code of
+Behaviour on Academic Matters. The Panel was referred in particular to
+Appendix “C” which provides guidance to students facing a hearing at the Tribunal
+as to what should be expected in terms of penalty. The penalties sought here are
+exactly what follows from the facts of this matter. This is not a binding document
+but it does establish the student’s reasonable expectations as a matter of fact.
+
+91.
+
+The relevant facts with respect to sanction include the nature of the offences
+(plagiarism – which has a deliberate and intentional element to it) and the fact that
+there are two separate findings of misconduct.
+
+92.
+
+In this case the Student does not have a prior offence, but has committed two
+separate offences. This is not a “one-time” error in judgment. The Student has not
+
+21
+
+been responsive to the University’s attempts to address any of the allegations
+before this Tribunal. The University could have prosecuted these two offences
+separately. It is therefore appropriate to consider this as if the Student had a prior
+offence.
+93.
+
+They are also consistent with sanctions that have been ordered in respect of
+similar fact patterns. To establish this the University provided the Panel with a Book
+of Authorities containing a number of prior decisions of this Tribunal and a chart
+summarizing them.
+
+94.
+
+This Tribunal has been asked to consider and apply the sentencing factors set out
+in the University of Toronto and Mr. C. (Case No. 1976/77-3, November 5, 1976)
+and has done so.
+
+95.
+
+A more recent application of these factors in a factually similar scenario occurs in
+University of Toronto and T.W. (Case No. 721, October 9, 2014). We have
+considered that case as well.
+
+96.
+
+For the reasons set out above we accept the University’s proposal with regards to
+sanction and have ordered as follows:
+1) a final grade of zero in the course ENG110H5F in Fall 2020;
+2) a final grade of zero in the course MAT232H5 in Summer 2021;
+3) the Student will be suspended from the University of Toronto for a period of
+three (3) years from the date of the Tribunal’s order; and
+
+22
+
+4) A sanction will be recorded on the Student’s academic record and transcript
+for a period of four (4) years from the date of the Tribunal’s order.
+97.
+
+And that the case be reported to the Provost, with the Student’s name withheld,
+for publication of a notice of the decision of the Tribunal and the sanctions imposed.
+
+98.
+
+An Order dated July 18, 2023, was signed by the Panel to this effect.
+
+Dated at Toronto this 26th day of February, 2024
+
+Original signed by:
+_____________________________
+Cheryl Woodin, Chair
+On behalf of the Panel
+
+23
+
+

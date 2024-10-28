@@ -1,0 +1,622 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER of charges of academic dishonesty made on June 27, 20 I I
+AND IN THE MATTER OF the University of Toronto Code ofBehavio11ro11 Academic Maflers, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+C. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO (the "University")
+- and -
+
+~ ~ (the "Student")
+
+Hearing Date: November 23, 2011
+Panel Members:
+
+Ms. Roslyn M. Tsao, Barrister and Solicitor, Chair
+Professor Annette Sanger, Faculty of Music, Faculty Panel Member
+Ms. Amy Gullage, Student Panel Member
+
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel for University, Paliare Roland Banisters
+Dr. Michael Ratcliffe, Faculty of Medicine, Department of Immunology
+Dr. James Carlyle, Faculty of Medicine, Department of Immunology
+Mr. M ~ , the Student
+
+In Attendance:
+Ms. Jane Alderdice, Director of Quality Assessment and Governance, School of Graduate
+Studies
+Professor Berry Smith, Dean's Designate, Vice-Dean of Graduate Studies
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+
+2
+Reasons for Decision
+Delivered ht' Ms, Roslyn M. T.ww
+
+1.
+
+The Trial division of the Tribunal heard this matter on November 23, 201 I. The Student
+was charged on June 27, 2011 of the following:
+(a)
+
+In or about Fall and Winter 2011, the Student knowingly submitted academic
+,,,ork containing a purported statement of fact which had been concocted, contrary
+to section 8.1. l(f) of the Code;
+
+(b)
+
+In the alternative, in or about Fall 2010 and Winter 2011, the Student knowingly
+engaged in a fonn of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit or other academic advantage
+of any kind, which violated section B.I.3(b) of the Code.
+
+Decision of the Tribunal
+
+2.
+
+The University bears the onus of proving the elements of the offence, namely, submission
+of concocted statements of fact or material, based "on clear and convincing evidence11
+(Code: s. C.II.(a) 9.).
+
+3.
+
+Section 8.1. of the Code requires the University to prove that student "knowingly"
+committed the offence, with the term "knowingly" deemed to include situations where
+the student "ought reasonably to have known" that the offence was committed.
+
+4.
+
+The Student's defence to the allegations is essentially that he was guilty of "sloppiness"
+and inattention but not of knowingly committing the offence and/or that the material
+submitted was never going to be counted toward his academic work or used for further
+publication. The Student also raised the defence of "double jeopardy" which is discussed
+below.
+
+5.
+
+The preponderance of evidence, including the Student's own testimony, convinces us that
+the Student knowingly submitted the concocted material and if we are wrong on this, we
+find that the Student ought reasonably to have known that he was submitting concocted
+material.
+
+3
+Summary of Evidence
+
+6.
+
+Witnesses were excluded during the hearing.
+
+7.
+
+The Student was, at the material time, a Ph.D. student in the Department of Immunology.
+Dr. Carlyle testified that he met the Student in 2008 and discussed the Student's project
+with him.
+
+In the following Spring, 2009, the Student approached Dr. Carlyle as he
+
+wanted to leave his current lab (Laboratory Medicine & Pathobiology) and supervisor,
+Dr. Li Zhang, (also of the University of Toronto) and was looking for suggestions for a
+new supervisor.
+8.
+
+Dr. Carlyle proposed himself as a supervisor and the Student agreed to work with him.
+However, Dr. Carlyle was with the Department of Immunology which required the
+Student to transfer departments.
+
+The Student fonnally transferred depaiiments m
+
+September, 2009, bringing his research project from Dr. Zhang's lab to Dr. Carlyle's.
+9.
+
+The Student acknowledges that during his time in Dr. Carlyle's lab, he attended lab
+meetings and made one presentation (October 2009) to faculty and students ("student
+seminar" format), one presentation (November 2009) to his Supervisory Committee
+Meeting and one presentation (January, 2011) to the lab. The Student used Powerpoint
+slide presentations on each occasion.
+
+10.
+
+Dr. Carlyle testified that in the Spring of 2010, he started to have concerns about the
+Student's work. In particular, Dr. Carlyle cited:
+
+11.
+
+(a)
+
+Inconsistencies during presentations,
+
+(h)
+
+Some "flip-flopping" by Student,
+
+(c)
+
+Mis-labelling issues; and
+
+(d)
+
+Duplication of images.
+
+Dr. Carlyle tried to assist the Student to "troubleshoot" and as he did so, he noted that
+experiments were not working from the data. Dr. Carlyle found further issues such as
+mis-labelling of vectors, scale issues of vectors and wrong identification. Dr. Carlyle
+
+4
+stated that he stopped troubleshooting because his concerns about the validity of the
+Student's results had increased to a significant level by October, 2010.
+12.
+
+Dr. Carlyle testified that the Student was undecided about whether he wanted to stay in
+the lab or leave, changing his mind three (3) times before December, 20 I 0. Dr. Carlyle
+recalls that the Student was going to withdraw before the Christmas holidays but in the
+New Year, the Student indicated that he wanted to stay.
+
+13.
+
+Dr. Carlyle requested and received electronic copies of three (3) Powerpoint slide
+presentations from the Student.
+
+14.
+
+In January, 2011, after the lab presentation, Dr. Carlyle approached Dr. Ratcliffe, the
+senior chair at Sunnybrook Research Institute, seeking his review of the Student's three
+(3) Powerpoint slide presentations.
+
+The electronic copies of the presentations were
+
+provided to Dr. Ratcliffe to review.
+15.
+
+Dr. Ratcliffe carefully examined the images and graphs as presented in the Powerpoint
+presentations and came to the conclusion that several slides contained concocted images
+and data. In particular, Dr. Ratcliffe directed the Panel to seven (7) slides in the three (3)
+presentations which formed Exhibit 7. This subset of slides will be referred to as the
+"Problem Slides".
+
+16.
+
+Dr. Ratcliffe has demonstrated to the Panel in a clear and convincing manner that the
+Problem Slides contained concocted material:
+(a)
+
+Problem Slide I:
+the dot airnys in purportedly different experiments were identical (Dr. Ratcliffe
+acknowledged that these e1rnrs are less serious and could have been a mistake).
+The Student could not provide the data for the results and provided no lab notes as
+there should have been in standard practice to Dr. Ratcliffe at the time of
+investigation.
+
+5
+(b)
+
+Problem Slide 2:
+images that were of purportedly different mice were identical to other images and
+were shown with different exposures;
+
+(c)
+
+Problem Slide 3:
+a number of images for purportedly different groups of mice with different
+treatments and at different points in time of the experiment were identical and
+again shown with different exposures;
+
+there was also very deliberate
+
+manipulation of the images evident when the panels of the slide were
+"ungrouped" in the soft version which pointed away from simple carelessness or
+sloppy cutting/pasting;
+(d)
+
+Problem Slides 4 and 5:
+should have been different as they purportedly showed 2 different proteins but
+were the identical image (the same defect on plate was evident on both images).
+Dr. Ratcliffe acknowledged that this could have occull'ed by mistake;
+
+(e)
+
+Problem Slides 6 and 7:
+identical images were used for 2 purportedly different dates of the experiment.
+The date stamp identifiers from the 8 images are the same for both Slides 6 and 7.
+However, the scale that was used was diffe1·ent in each slide which made the
+colour appearance of the images diffel'Cnt. 1
+
+17.
+
+Dr. Ratcliffe testified that the Student ought to have had a complete set of lab notes with
+respect to the experiment depicted in the Problem Slides, in particular slides 6 and 7, was
+very complicated.
+
+18.
+
+The Student did not provide lab notes or the raw data to support the Problem Slides when
+requested by Ors. Ratcliffe and Carlyle. Dr. Ratcliffe met with the Student on January
+
+1 In attempting to recreate the experiment with the Student, Drs. Ratcliffe and Carlyle confirmed with a time lime
+with Student of the experiment based .on the images provided. This experiment would have required specialized
+operator/imaging (FACS sorting) which most likely would have been at the Sunnybrook Facility. However, based
+on the purported timeline, the F ACS sorting would have had to have occurred over the Christmas holidays when the
+facility was closed. When confronted with this, the Student then indicated that he used the facility at MARS. Dr.
+Ratcliffe confirmed with the MARS facility that the FACS sorting for this experiment was not performed there
+either.
+
+6
+24 th and 26111, 2011.
+
+The January 26th date was made to accommodate the Student's
+
+request to meet at Sunnybrook where his notes were kept.
+
+There were also 2 more
+
+meetings in April, 2011 with Dr. Ratcliffe, Professor Berry S1nith and the Student to
+discuss the academic misconduct allegations.
+19.
+
+After these meetings, there had been nothing provided by the Student vis-a-vis notes,
+data, explanation which satisfied Dr. Ratcliffe or Dr. Carlyle that there had been no
+academic offence committed.
+
+20.
+
+On cross-examination, Dr. Ratcliffe and Dr. Carlyle both agreed that there had been
+discussion about the use of the Student's prior research results from Dr. Zhang's lab.
+Both also stated that it was conveyed to the Student that his previous research results
+could be used toward his Ph.D. work with Dr. Carlyle if they could be reproduced in his
+lab. The Student's position was that he was told that his previous work could not be used
+toward his current Ph.D work with Dr. Carlyle and, therefore, all were aware that it was
+not really being considered. The Panel finds the Student's version of these discussions
+implausible.
+
+21.
+
+The Student also identified and introduced a Canadian Insitute of Health Research
+(CIHR) Grant Proposal dated September 15, 2009 from Dr. Carlyle which acknowledged
+and referenced the Student's earlier data and Problem Slides from his work at Dr. Zhang's
+lab. The Student appeared to be taking the position that Dr. Carlyle could not take issue
+with the Student's earlier research results and Problem Slides since he included them in
+this grant proposal. Firstly, by September, 2009, the Student had only just transferred to
+Dr. Carlyle's lab and Dr. Carlyle could not have been aware of the problems with the
+Problem Slides. Secondly, the mere reference in the Grant Proposal to the Student's
+earlier work was not somehow an endorsement as to the integrity of such earlier work or
+the Problem Slides.
+
+The Student was questioned later by the Panel regarding his
+
+involvement in this proposal grant (discussed below).
+22.
+
+The Student testified and was the only defence witness.
+
+7
+23.
+
+The Student provided the Panel with various documents which were separated by Tabs
+A-I (Exhibit 8).
+
+24.
+
+The Student referred to Dr. Carlyle's letter of April 19, 20 IO to CIHR seeking
+reinstatement of the Student's candidacy for the Vanier Canada Graduate Scholarship
+(which had been withdrawn due to administrative en-or). The letter is, indeed, a glowing
+review of the Student by Dr. Carlyle. Unf011unately, Dr. Carlyle appears to no longer
+hold such an opinion.
+
+25.
+
+The Student briefly described that he is a practising physician in America and that though
+he left the University of Toronto a long time ago, he has returned to defend himself:
+
+26.
+
+Interestingly, the Student, himself, provided copies of letters of June 26, 2009 of Dr.
+Richard Hegele, the Chair at the time of the Laboratory Medicine & Pathobiology which
+was the Student's lab at the time under Dr. Zhang. These 2 letters (the "Hegele Letters")
+related to an incident wherein the journal Immunity had expressed concern about data
+fabrication or falsification in the Student's submitted manuscript about his research with
+Dr. Zhang. The experiments and data in the manuscript constituted the same research
+that the Student carried over to Dr. Carlyle's lab. The Hegele Letters were copied to the
+Student. Though the Hegele letters exonerate Professor Li and the Student from data
+fabrication or falsification, Dr. Hegele cautions:
+
+"... b) More attention needs to be paid to manuscript preparation, especially the
+authors' understanding of the relationship between original data and figure
+content. In addition, careful proofreading is required to ensure there are no
+errors that could be inte,preted by the reviewer or reader as data duplication,
+near-duplication or other irregularities.
+c)
+Some of the data submitted in the manuscript were generated by a single
+successful experiment that fo/101,ved a number of earlier failed experiments.
+Diligence must be paid to the reproducibility and robustness of data to ensure
+they truly support the inte1pretations and conclusions stated in the manuscript.
+d)
+It was clear [the Student] was the on(v person who understood the
+underlying experimental basis of the data in its entirety reported in the Immuni() 1
+manuscript. There needs to be more redundancy in terms of who knows and
+
+8
+
+understands the data, as this will promote accountability among the authors and
+prevent vulnerability of the project. 2 ... "
+
+27.
+
+Although the Student introduced the Hegele Letters in his own defence, we find them to
+have had the opposite effect in that they clearly show that the Student had notice of the
+concerns about the Problern Slides prior to his submission anew of identical or similar
+material to Dr. Carlyle's lab.
+
+This was an important consideration to the Panel in
+
+determining this matter.
+28.
+
+The Student addressed each of the Problem Slides to provide his explanation and defence
+(in the following order):
+Problem Slide #
+
+Student's Exhibit/Explanation
+
+2
+
+Exhibit 8-C - The Student provided purpmied source images
+with date stamps for the experiment and indicated that he should
+have used a different image in one of the panels. He provided
+the purported source image for a panel but acknowledged that
+the exposure used in the slide may have been changed.
+The Student's point:
+
+that he had source images for the
+
+experiments depicted in Problem Slide 2 but had cut and pasted
+the wrong image into one panel and changed the exposure for
+another panel.
+The Student could not explain why the source images had 5 mice
+per image as opposed to the only 3 mice in the slides.
+1
+
+Exhibit 8-D - For the eight (8) dot graphs which are on the
+Problem Slide, there were two sets of duplicates. The Student
+provided purported source dot graphs to show that he had source
+data but had "dragged and dropped" in error because the raw
+data looked "very similar".
+
+The Panel notes that Dr. Ratcliffe
+
+2 Ironically, the Student read this caution as being congratulatory of him rather than critical.
+
+9
+testified that the Student did not provide any source data or lab
+notes when the issue was originally discussed and investigated.
+4/5
+
+Exhibit 8-G - The Student provided purported source gels and
+indicated that the duplication in the Problem Slide was a "simple
+copy and paste" en-or. However, the label on the source slide
+which was supposedly duplicated in eirnr did not even
+correspond to either label in the 2 Problem Slides. In short, the
+Student could not provide the Panel with any cogent or apparent
+explanation as to how the "copy and paste" error occurred in any
+rational sense.
+
+The Panel was very concerned about how
+
+lackadaisical the Student was about the fact that there were
+differing labels between the 2 Problem Slides and the purported
+source slide and that there was, therefore, no way to know which
+label accurately described the slide presented.
+6/7
+
+Exhibit 8-H - The Student acknowledged that the Problem
+Slides were the same though presented for 2 different days (Day
+
+12 and Day 15). The Student could not provide Day 15 source
+nnages.
+
+Furthermore, the date stamps on the images did not
+
+support the experiment "Day" as set out on the purp01ted source
+data. For example, where the Student provided images which
+were purp01tedly taken on Day 6, the purp01ied Day 12 images
+for that expetiment had date stamps that were not even 6 days
+after the Day 6 date stamps.
+
+When confronted with this
+
+discrepancy, the Student suddenly explained that there was a
+whole set of other mice being used with a different stai1 date
+whose images might explain this discrepancy. The Panel finds
+this evidence to be fabricated given that there is no mention
+whatsoever of other mice in the experiment and the images
+clearly lead one to believe that there were only 4 original mice,
+
+10
+
+2 of which died over time.
+3
+
+Exhibit 8-F - The Student provided a number of separate images
+taken at different experiment "Days" (which were date labelled
+by imaging machine).
+
+During cross-examination, the Student
+
+did not deny Dr. Ratcliffe's conclusions about duplicated images
+being used on the Problem Slide to represent different "Days"
+(with different exposures) nor his conclusions about cutting and
+pasting that was perfonned in particular panels (ie., in a panel
+showing an image of 4 mice, there were 2 groups of 2 mice
+pasted together or one group of 3 mice pasted with 1 mouse).
+The Student explained that when he imaged the mice, he would
+not necessarily separate the mice into their experimental/control
+groups and image the group together given that the mice were
+mixed up in one cage but identifiable by ear-tags.
+Although the Student may be of the view that he had source
+images for the Problem Slide, the fact is that multiple images
+were cut and paste or duplicated (with different exposures) to
+give the impression that there was a complete set of data for the
+controlled experiment. The purported source images provided
+do not assist that Panel at all to detennine whether there was
+ever any complete set of data for the controlled experiment as
+presented in Problem Slide 3.
+
+29.
+
+The Student also attempted to claim that the results of his experiments were "negative"
+(ie., that the process being tested did not show positive effects on the mice). The Student
+took pains to state that the mice at the end of the experimental process had not been
+"cleared" of the disease and that, therefore, this was a negative result. The Student
+discounted that his presentations, in particular Problem Slide 3, strongly suggested that
+his experimental treatment resulted in a 65+ day lifespan for the mice versus only a 13
+
+11
+day lifespan for the control group. The Student was also asked to direct the Panel to
+anything in the 3 presentations at issue that cautioned that his research had "negative"
+results. He could not.
+30.
+
+The Panel wanted to review the CIHR Grant Proposal of Dr. Carlyle with the Student.
+The Student had already pointed out that the Problem Slides and results from his earlier
+research with Dr. Zhang were referenced in the Grant Proposal. When questioned, the
+Student at first confi1111ed that he, of course, had reviewed the proposal. Then, when
+asked whether anything in the Grant Proposal suggested that his results were "negative"
+as he now asserts, he acknowledged that there was nothing to that effect and then added
+that he did not write the proposal, Dr. Carlyle did. The Student further contradicted his
+earlier response by then saying that he had not reviewed the proposal.
+
+31.
+
+During the cross-examination of the Student, the Student's Linkedln profile (Exhibit 9)
+was put to the Student regarding material inaccuracies about his educational history and
+training in Toronto contained therein.
+
+The Student got upset, did not deny the
+
+inaccuracies and stated that he could "choose" to put in what he wanted and denied hiding
+anything.
+32.
+
+The Student's email to Mr. Centa of September 3, 2011 (Exhibit l 0) regarding the
+hearing date was also put to the Student as it, without a doubt to the Panel, contained
+statements designed to mislead Mr. Centa about his ability to attend the hearing. The
+Student acknowledged that the email was sent from a server in Massachusetts even
+though the content of the email gives the impression that he was sending it from
+Afghanistan where he states he was living. When confronted with the origin of the email
+server, the Student claimed that he sent the email to his wife who was in Massachusetts to
+send to Mr. Centa. Apart from the fact that there would be no reason to "relay" the email
+through his wife, the content of the email represents that he lives in Afghanistan with his
+Wife3• When challenged that his email is very clear about his wife being with him in
+
+3 Excerpt from email from the Student to Mr. Centa:
+
+" ... Currently we live in Afghanistan. Since June of this year we have no access to U of T e•mail or mail or
+anything. We lost a child in Canada ad (sic) my wife health deterred (sic} significantly
+
+12
+
+Afghanistan, the Student claimed that the "we" in the email referred to himself and his 2
+children and not his wife. Based on the plain reading of the email, the Panel finds the
+Student's email and explanation at hearing to be misleading and untrue. The Student was
+noticeably agitated during this area of questioning.
+
+Reasons for Decision
+33.
+
+The University's position was that the Student deliberately concocted and presented the
+Problem Slides and alternatively, knew or ought reasonably to have known that the
+Problem Slides contained concocted misrepresentations. It was submitted that the effort
+required to create Problem Slide 3, in particular, demonstrated deliberateness.
+
+34.
+
+The Student's position was that he may have been "sloppy" but he knew that the material
+would never be published because the research was "negative" at the end of the day.
+
+Credibility ofStudent
+
+35.
+
+The Panel was particularly concerned about the Student's ever-shifting explanations when
+pressed on inconsistencies in his evidence. For example, when it was pointed out that
+labelling on his explanatory evidence did not even seem to support his position (ie., date
+stamps did not conform with his stated date of experiment), the Student recalibrated the
+range of his explanations from his labelling being "wrong" (human etrnr) to there being a
+whole other set of subject mice which had not been referred to at any time prior.
+
+36.
+
+One of the Student's pillars of his defence was that he did not "concoct" the underlying
+results/experiment of the Problem Slides and he attempted to provide the earlier lab data
+results and images to demonstrate this.
+
+Unfortunately, this material only provided
+
+evidence of the source of the Student's "cut and pasted" material but did not satisfactorily
+explain how the material misrepresentation of the experiment's results could be due
+merely to "sloppiness" and inattention.
+
+This political case against me, affect my life and life ofmy family. We left Canada for good.
+Currently, my wife is under treatment, she is fetal (sic) state of her life. We cannot come to Canada at all from
+Afghanistan ... "
+
+13
+3 7.
+
+As mentioned, the Student's other pillar of his defence was that the presentations of the
+Problem Slides showed that his experiment had a "negative" or unsuccessful result and,
+as such, was not going to be useful, published research. In essence, the Student's position
+at the hearing was that he was not using the Problem S1ides to make the results of his
+research appear positive or successful in nature.
+
+The Panel find that this ex-post
+
+rationalization to be without any credible foundation.
+38.
+
+Even without an understanding of the scientific undeqJinnings of the Student's research,
+we can, as a Panel, find that Problem Slide 3 was absolutely presented to demonstrate
+positive research findings in his experimental group. In contrast to the control group of
+mice on the slide who all died by Day 13, the experimental group were still alive after
+Day 65. It strains credulity to believe that the intention of the Student in presenting this
+slide would be that the experimental group, as compared to the control group, faired
+poorly or negatively or even neutrally in comparison. In addition, even the title of the
+Slide employed a comparative term of "ameliorate" in describing the "disease outcome of
+the recipient 11 •
+
+39.
+
+After considering the evidence as a whole and given our conclusions about the Student's
+credibility, the Panel finds that the Student knowingly submitted the concocted Problem
+Slides.
+
+40.
+
+We note that the Student was also indignant that this hearing was about the same material
+that the Hegele Letters had addressed (and, in his view, exonerated him). The Student
+pleaded a "double jeopardy" defence.
+
+The Problem Slides that were submitted
+
+to Professor Carlyle, etc in the 3 presentations anew were based on the same/similar data
+which was the subject matter of the Hegele Letters. The academic dishonesty rnles are
+not somehow relaxed if one re-submits offending material even if the material was the
+subject of an investigation in the past. The fact that the Student was already warned by
+the Hegele Letters about his research supports a finding that the Student ought reasonably
+to have known that the offence was committed based on the extended definition of
+"knowingly" in the Code.
+
+14
+Penalty
+
+41.
+
+The Panel will receive submissions regarding Penalty in writing. The University will
+provide its submissions to the Student/Tribunal within 30 days of this Decision; the
+Student will have 30 days to provide his reply submissions to the University/Tribunal.
+
+Dated at Toronto, th is 14th day of December, 2011 .
+
+Co-Chair
+
+

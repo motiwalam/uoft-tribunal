@@ -1,0 +1,491 @@
+Case No.: 1057
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 8, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO (the “University”)
+- and A
+
+I
+
+(the “Student”)
+
+REASONS FOR DECISION
+
+Date of Hearing: April 1, 2021, via Zoom
+Members of the Panel:
+Ms. Sabrina A. Bandali, Chair
+Professor Ken Derry, Faculty Panel Member
+Ms. Alice Zhu, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Stuart Leary, Downtown Legal Services, for the Student
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and
+Faculty Grievances
+In Attendance:
+The Student
+
+\
+
+2
+
+Introduction
+1.
+
+A hearing before the Trial Division of the University Tribunal (the “Tribunal”) was
+
+convened on April 1, 2021 to consider charges brought by the University against the
+Student under the University of Toronto’s Code of Behaviour on Academic Matters, 1995
+(the "Code").
+The Charges
+2.
+
+3.
+
+The charges against the Student (the “Charges”) are as follows:
+(a)
+
+On August 15, 2019, you knowingly falsified a document or evidence required by
+the University of Toronto (“University”), namely, you wrote a false name and
+address on your examination booklet during the final examination in MAT223H1F
+(the “Course”), or you knowingly uttered, circulated or made use of that forged,
+altered or falsified evidence, contrary to section B.I.1(a) of the Code (“Charge No.
+1”).
+
+(b)
+
+In addition and in the alternative, on August 15, 2019, you knowingly forged or in
+any other way altered or falsified an academic record, namely, your examination
+booklet for the final examination in the Course, or you knowingly uttered, circulated
+or made use of that forged, altered or falsified academic record, contrary to section
+B.I.3(a) of the Code (“Charge No. 2”).
+
+(c)
+
+In the further alternative, on or about August 15, 2019, you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+in order to obtain academic credit or other academic advantage of any kind, by
+writing a false name and address on your examination booklet during the mid-term
+examination in the Course, contrary to section B.I.3(b) of the Code (“Charge No.
+3”).
+
+Particulars of the Charges are as follows:
+(a)
+
+At all material times you were a student in the Faculty of Arts & Science at the
+University of Toronto and were registered in the Course in the Fall 2018 term.
+
+(b)
+
+You were granted permission to write a deferred exam in the Course. You elected
+to do so on August 15, 2019, when a final examination was held in the Course for
+the 2019 Summer term.
+
+(c)
+
+You attended the final examination. You knowingly wrote “Christina Huang” and
+“Christina.Huang” and “Huangch” on the cover of your examination booklet instead
+of your own name and email address and UTORid. You then submitted the
+examination booklet with the incorrect name and email address and UTORid on
+the cover of the book.
+
+3
+
+(d)
+
+You knowingly submitted the examination booklet in an attempt to obtain an
+academic advantage.
+
+Agreed Statement of Facts
+4.
+
+The hearing proceeded on the basis of an Agreed Statement of Facts (the “ASF”).
+
+The key portions are summarized here.
+The Student's Academic History
+5.
+
+The Student first registered as a student at the University of Toronto in the John
+
+H. Daniels Faculty of Architecture, Landscape and Design in the Fall 2015 term. At all
+material times, she remained a student at the University.
+6.
+
+As of February 22, 2021, the Student had earned 20 credits and had a CGPA of
+
+2.62.
+MAT223H1
+7.
+
+In Fall 2018 the Student enrolled in MAT223H1: Linear Algebra ("Course"). She
+
+did not write either of the two mid-terms in the Course. As a result, the Student was
+required to write a final exam in the Course which was worth 90% of her final Course
+mark.
+8.
+
+The Student did not write the final exam during the Fall 2018 term but obtained
+
+permission to write a deferred exam at a later date.
+9.
+
+In the 2019 Summer term the Course was taught by Professor Omar Kidwai.
+
+Professor Kidwai was not the Course instructor in the Fall 2018 term when the Student
+was enrolled in the Course. The Student was not enrolled in the Course during the 2019
+Summer term.
+
+4
+
+10.
+
+On August 14, 2019 the Student sent two emails to Professor Kidwai. The first
+
+informed him that she would be writing his final exam in the Course the following day with
+the students who were enrolled in the Course at that time, and asked him questions about
+the Course content. The second requested access to the Course content.
+11.
+
+The final exam in the Course in the 2019 Summer term was written on August 15,
+
+2019 ("Exam" or "MAT223 Exam").
+12.
+
+Students who attended the Exam were required to sign an attendance sheet
+
+("Exam Attendee List").
+13.
+
+The Student entered her name and UTORid and signature by hand on the Exam
+
+Attendee List (page 33 of the Joint Book of Documents (“JBD”)) under the last name on
+the typewritten class list. Her name did not appear on the typewritten class list because
+she was not enrolled in the Course during that 2019 Summer term, but was writing a
+deferred exam at that time for credit in the Course held in the Fall 2018 term.
+14.
+
+Ninety-four students were counted writing the Exam in the room, ninety-four
+
+signatures were collected on the Exam Attendee List, and ninety-four exams were
+collected on August 15, 2019. Each Exam paper consisted of 22 pages.
+15.
+
+At the end of the Exam, Professor Kidwai and the Course Teaching Assistants
+
+(“TAs”) collected the exam papers and scanned them directly to Professor Kidwai's Gmail
+account. Ninety-four exams from the MAT223 Exam were scanned at that time.
+16.
+
+Between August 15 and 17, 2019, Professor Kidwai uploaded the scanned
+
+MAT223 Exams to the Crowdmark online grading system. By August 17, 2019 he had
+uploaded a total of 2,068 pages to Crowdmark for grading. He subsequently uploaded an
+additional 198 pages from nine exams, which had been written separately through
+Accessibility Services.
+
+5
+
+17.
+
+In total, Professor Kidwai uploaded a total of 2,266 pages from a total of 103 exam
+
+booklets to Crowdmark. He and the TAs proceeded to mark these exam papers.
+18.
+
+On August 30, 2019, Professor Kidwai received another email from the Student in
+
+which she asked when she could expect to receive her grade for the MAT223 Exam.
+19.
+
+Professor Kidwai had no record of having received an exam from the Student on
+
+August 15, 2019. He had no physical exam paper with her name on it, no exam in
+Crowdmark with her name on it, and no marks recorded for an exam in her name.
+20.
+
+On September 6, 2019, the Student wrote to Professor Kidwai to describe in detail
+
+where she was sitting during the MAT223 Exam, and to explain that she had added her
+name to the bottom of the Exam Attendee List.
+21.
+
+Despite numerous checks, Professor Kidwai was unable to find an exam with the
+
+Student's name on it. Professor Kidwai identified one exam paper that had the name
+Christina Huang on its front cover ("Huang Exam"). There was no student named
+Christina Huang in his class. No one named Christina Huang was enrolled in MAT223H1
+at any time in 2018 or 2019. No one named Christina Huang signed the Exam Attendee
+List and that name did not appear on the list of students eligible to write a deferred exam
+in the Course.
+22.
+
+The Huang Exam was almost blank, except for the name, email address and
+
+UTORid entries on the front page in blue ink ("Identifying Entries"), and one handwritten
+answer in pencil at question 3(a). The Huang Exam received a mark of zero. The section
+of the front page of the Huang Exam containing the Identifying Entries contained erased
+writing under the Identifying Entries ("Erased Entries").
+23.
+
+After the Student informed Professor Kidwai that she had written the Exam, he
+
+counted the number of exam papers again and checked the hard copies of the exam
+papers to see if there was an exam with her name on it. He double-checked that the
+number of exams collected from the Exam room on August 15 matched the number of
+
+6
+
+signatures on the Exam Attendee List, and that the uploaded Crowdmark page numbers
+matched the total number of exams collected. Professor Kidwai could not find anything to
+suggest that the Student handed in an exam paper with her name on it during the Exam.
+24.
+
+The following additional searches were made to try to find an exam with the
+
+Student's name on it:
+a)
+
+On or about September 11, 2019, Pascal Massinon, an Exams Assistant at
+
+the Office of the Faculty Registrar, reviewed all of the exams contained in the box
+holding all of the physical MAT223 Exam papers. He was unable to find one with
+the Student's name on it.
+b)
+
+On or about September 20, 2019, Pascal Massinon reported that a review
+
+of the Quercus database showed no results for anyone named Christina Huang
+having been enrolled in the Course in Summer 2019, and no results for the email
+address christina.huang@mail.utoronto.ca as written on the front of the Huang
+Exam.
+
+Similarly,
+
+no
+
+results
+
+were
+
+returned
+
+for
+
+the
+
+email
+
+address
+
+christian.huang@mail.utoronto.ca.
+25.
+
+The Student attended a meeting with the Dean's Designate on November 19,
+
+2019, to discuss the allegation that she submitted the Huang Exam in lieu of an exam
+paper in her own name. She denied having done so.
+26.
+
+The Student now admits that she:
+a)
+
+attended the Exam on August 15, 2019, at which she signed the Exam
+
+Attendee List and wrote her name, student number and official utoronto email
+address on the first page of the midterm examination booklet;
+b)
+
+was unable to answer the Exam questions;
+
+7
+
+c)
+
+erased and crossed out her own name, email address and student number
+
+to make them illegible, and replaced those with the fictitious name Christina
+Huang, a scribbled out student number, and a fictitious email address
+Christina.huang@mail.utoronto.ca;
+d)
+
+submitted the Huang Exam booklet with the Identifying Entries containing
+
+an incorrect name, email address and student number on its cover at the
+completion of the examination. She did not submit an Exam with her name and
+identifying information on it;
+e)
+
+submitted the Huang Exam to make it appear that she had not written it;
+
+and
+f)
+
+made her assertions to Professor Kidwai that she was expecting to receive
+
+a mark for her Exam to support the fiction that she had submitted an Exam booklet
+with her name and other identifying information on it, knowing that there was no
+Exam in Professor Kidwai's possession containing her name or other identifying
+information, and knowing that she was not entitled to a mark for the Exam.
+27.
+
+The Student admits that, by submitting the Huang Exam bearing the fictitious
+
+name, email address and student number she knowingly:
+a)
+
+falsified evidence required by the University of Toronto, and circulated or
+
+made use of that falsified evidence, contrary to section B.I.1(a) of the Code;
+b)
+
+falsified an academic record and circulated and made use of that academic
+
+record, contrary to s. B.I.3(a) of the Code; and
+c)
+
+engaged in a form of cheating, academic dishonesty or misconduct, or
+
+made a misrepresentation in order to obtain an academic advantage, contrary to
+section B.I.3(b) of the Code.
+
+8
+
+Decision of the Panel on the Charges
+28.
+
+The onus is on the University to establish on the balance of probabilities, using
+
+clear and convincing evidence, that one or more of the academic offences charged has
+been committed by the Student.
+29.
+
+In this case, the Student admitted and pled guilty to all three Charges. The Panel
+
+was satisfied that the Student’s admissions were voluntary, informed and unequivocal.
+Further, the evidence contained in the ASF and supporting documentation provided a
+clear evidentiary basis for a finding of guilt.
+30.
+
+Following deliberations and based on the ASF and its supporting documentation,
+
+the Panel concluded that Charge No. 1 had been proven with clear and convincing
+evidence on a balance of probabilities, and accepted the guilty plea of the Student in
+respect of that charge. The Panel was advised at the hearing that if the Student is
+convicted on Charge No. 1, the University would withdraw the alternative Charge Nos. 2
+and 3.
+Submissions on Penalty
+31.
+
+The University submitted that the Tribunal should impose the following sanctions
+
+on the Student:
+a) a final grade of zero in MAT223H1F (Fall 2018);
+b) a suspension from the University from the date of the order for two years
+from April 1, 2021 to March 31, 2023;
+c) a notation of the sanction on the Student's academic record and transcript
+from the date of the order for three years from April 1, 2021 to March 31,
+2024; and
+d) that this case be reported to the Provost of the University of Toronto (the
+"Provost") for publication of a notice of the decision of the Tribunal and the
+sanction imposed, with the name of the Student withheld.
+
+9
+
+32.
+
+The University acknowledged that the Student had cooperated and attended the
+
+hearing, and that she took responsibility for her actions through her guilty plea. The
+Student had no prior offences. The University submitted, however, that it is a serious
+matter to suggest an exam was lost, as it is an attempt to undermine the integrity of the
+professor whose was responsible for the administration of the exam.
+33.
+
+The Student submitted that the Tribunal should impose the following sanctions on
+
+the Student:
+a) a final grade of zero in MAT223H1F (Fall 2018);
+b) a suspension from the University from the date of the order for one year,
+i.e. from April 1, 2021 to March 31, 2022;
+c) a notation of the sanction on the Student's academic record and transcript
+from the date of the order for two years, i.e. from April 1, 2021 to March 31,
+2023; and
+d) that this case be reported to the Provost of the University of Toronto (the
+"Provost") for publication of a notice of the decision of the Tribunal and the
+sanction imposed, with the name of the Student withheld.
+34.
+
+The Student submitted that there was no evidence that the conduct was pre-
+
+planned and that the Student had no prior offences or disciplinary matters. The Student
+has accepted that it was wrong. In the Student's view, there is little risk of repetition
+because the Student has completed enough credits to graduate. The nature of the offence
+was not on the severe end of the spectrum and no real person was implicated by the
+Student's use of a fictitious name.
+Decision of the Panel on Penalty
+35.
+
+The Panel considered the factors and principles relevant to sanction set out by this
+
+Tribunal in University of Toronto and Mr. C (Case No. 1976/77-3, November 5, 1976),
+namely the character of the Student, the likelihood of repetition of the offence, the nature
+of the offence committed, any extenuating circumstances surrounding the commission of
+
+10
+
+the offence, the detriment to the University occasioned by the offence, and the need to
+deter others from committing similar offences (page 12).
+36.
+
+In this case, the Panel considered in particular the serious nature of the offence,
+
+the lack of extenuating circumstances, and the need for general deterrence. Balanced
+against these factors are the Student's cooperation in the process and entry into the ASF.
+She admitted guilt, expressed that she is remorseful for her actions, and attended the
+hearing, which reflects the Student's character and demonstrates that she is taking
+responsibility for her actions. She had no prior offences. The Panel was advised that the
+Student has completed her requirements to graduate, and so the likelihood of repetition
+is low.
+37.
+
+Having regard to the above, and based on its review of the cases presented by
+
+counsel, the Panel agreed that sanctions within the range defined by the parties'
+respective submissions would be reasonable in the circumstances, and made the
+following order:
+a) The Student is guilty of one count of knowingly falsifying a document or
+evidence required by the University of Toronto, contrary to section B.I.1(a)
+of the Code.
+b) The following sanctions shall be imposed on the Student:
+i.
+
+a final grade of zero in the course MAT223H1F (Fall 2018);
+
+ii.
+
+a suspension from the University from April 1, 2021 to January 1,
+2023; and
+
+iii.
+
+a notation of the sanction on his academic record and transcript from
+April 1, 2021 to January 1, 2024.
+
+c) This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto, this 29th of June, 2021,
+
+11
+
+__________________________________________
+Sabrina A. Bandali, Chair
+On behalf of the Panel
+
+

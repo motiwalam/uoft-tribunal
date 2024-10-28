@@ -1,0 +1,328 @@
+Case No.: 1126
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty filed on November 25, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c.56 as amended S.O.
+1978, c. 88
+
+B E T W E E N:
+UNIVERSITY OF TORONTO (the “University”)
+– AND –
+K
+
+Z
+
+(the “Student”)
+
+Hearing Date: June 15, 2021, via Zoom
+Members of the Panel:
+Mr. Dean F. Embry, Chair
+Professor Mike Evans, Faculty Panel Member
+Ms. Syeda Hasan, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Nadia Bruno, Special Projects Officer, Appeal, Discipline and Faculty Grievances
+Not in Attendance:
+The Student
+
+I.
+
+CHARGES
+
+1.
+
+The Trial Division of the Tribunal held a hearing on June 15, 2021 to address the following charges
+brought by (the University against the Student under the Code of Behaviour on Academic Matters
+(the “Code”):
+1. On or about March 21, 2020, you knowingly represented as your own an idea or expression of
+an idea or work of another in Test 4 in MAT137Y1 (the “Course”), contrary to section B.I.1(d)
+of the Code.
+2. In the alternative, on or about March 21, 2020, you knowingly obtained unauthorized assistance
+in connection with Test 4 in the Course, contrary to section B.I.1(b) of the Code.
+3. In the further alternative, on or about March 21, 2020, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind in connection with Test 4 in the Course, contrary to section B.I.3(b) of the Code.
+4. On or about April 16, 2020, you knowingly represented as your own an idea or expression of
+an idea or work of another in the final exam in the Course, contrary to section B.I.1(d) of the
+Code.
+5. In the alternative, on or about April 16, 2020, you knowingly obtained unauthorized assistance
+in connection with the final exam in the Course, contrary to section B.I.1(b) of the Code.
+
+6. In the further alternative, on or about April 16, 2020, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind in connection with the final exam in the Course, contrary to section B.I.3(b) of the Code.
+
+II.
+
+PRELIMINARY ISSUE: Proceeding in the Absence of the Student
+
+2.
+
+The Student was neither present nor represented. The University filed evidence that the Student
+was served with the charges by email at the email address provided by the Student to the University
+of Toronto in ROSI on November 25, 2020.
+
+3.
+
+Further, the University filed evidence that on May 12, 2021 the Student was served with the Notice
+of Electronic Hearing, again via the email address provided in ROSI.
+1
+
+4.
+
+It should be noted that both the scheduling of the hearing and the hearing itself took place during
+the COVID-19 pandemic. On April 27, 2021, due to the physical restrictions necessitated by that
+pandemic, Assistant Discipline Counsel requested that the hearing proceed electronically. The
+Student was advised of this request by email and was given a deadline of May 12, 2021 to provide
+submissions in relation to this request. No reply from the Student was ever received and the hearing
+was ordered and scheduled to proceed electronically as above.
+
+5.
+
+In addition to the above, the University filed evidence demonstrating that efforts were made to
+ensure the Student was aware of the hearing and in a position to attend. In addition to the service
+of documents outlined above, correspondence via email was sent to the Student which included
+invitations for discussion, efforts to arrange scheduling, disclosure of material and reminders of the
+hearing. All went unanswered.
+
+6.
+
+Given the above, the Panel found that the Student was provided with reasonable notice and proper
+service as contemplated by sections 14 and 9 of the Tribunal’s Rules of Practice and Procedure
+(the “Rules”). As such, the hearing proceeded in the Student’s absence.
+
+II.
+
+SUMMARY OF FACTS/PARTICULARS
+
+7.
+
+The Panel received affidavit evidence from Professor Asif Zaman who while not in attendance at
+the hearing was available to answer any questions should they arise.
+
+8.
+
+At all material times the Student was enrolled in “MAT137Y – Calculus!”. The allegations against
+the student related to two components of that course: Test 4 and the Final Exam. Counts 1-3 outlined
+above relate to Test 4. The remaining counts relate to the Final Exam. The allegations in relation
+to the two components of the course are broadly the same and it is ultimately alleged that the Student
+submitted answers in relation to both of these components that were not her own.
+
+9.
+
+Both Test 4 and the Final Exam were conducted as 24-hour open book exams. Test 4 took place on
+March 19, 2020 and the Final Exam took place on April 15, 2020. The rules in relation to both of
+these exams contained the following:
+•
+
+Do NOT use any other aid or resource (online or offline) other than those authorized above.
+
+•
+
+Do NOT communicate with any person about the test other than a MAT137 teaching team
+member.
+
+2
+
+10.
+
+•
+
+Do NOT post answers anywhere online or otherwise.
+
+•
+
+Do NOT use the answers, solutions, term work, or notes of anyone else.
+
+•
+
+Do NOT have someone else write the exam for you.
+
+After the exams in question were submitted the instructors and teaching assistants in the Course
+found a number of questions and answers from both Test 4 and the Final Exam on Chegg.com.
+Chegg.com is a subscription-based website that allows students to post problems to the site. A copy
+of the website was attached as an exhibit to the affidavit of Professor Asif Zaman. The website
+advertises that a subscription is $14.95 a month and that subscribers can “take a photo of your
+question and get an answer in as little as 30 minutes.” It is clear that Chegg.com can and is used by
+students to cheat on assignments and exams.
+
+11.
+
+Specifically, in relation to the exams described above it was discovered that someone had posted
+questions from Test 4 and the Final Exam to Chegg.com during the 24-hour period of those exams.
+Further, answers for those questions were also posted on Chegg.com during those periods and in
+response to the questions being posted.
+
+12.
+
+An examination of the answers provided by the Student and those posted on Chegg.com revealed
+striking similarities. The differences between the answers provided by the Student and those posted
+on Chegg were largely cosmetic in nature. Contrastingly, the similarities were highly unusual and
+were unlikely to have happened by chance. For example, the manner in which the problems were
+solved and the steps taken in those solutions were the same and unusual. Further there appeared to
+be steps that were taken but that were missing from each set of answers. Both sets of answers,
+however, were missing the same steps. Finally, both sets of answer contained what Professor Zaman
+characterized as “nonsensical” portions. Again, both sets of answers contained the same
+nonsensical portions.
+
+III.
+
+ARGUMENT OF THE UNIVERSITY
+
+13.
+
+The University argues that given the myriad of different ways a student could solve the problems
+on the exams the only way to explain the similarities between the Student’s answers and those
+posted to Chegg.com is that the Student took the answers from Chegg.com or was given the answers
+by someone who had accessed them from Chegg.com. In doing so, the University argues, the
+Student committed the offences charged.
+
+3
+
+IV.
+
+FINDINGS OF THE PANEL
+
+14.
+
+The Panel agrees that similarities between the answers of the Student and those found on
+Chegg.com show, on a balance of probabilities, that the Student somehow came into possession of
+the answers posted on Chegg.com and copied them in order to formulate the answers she ultimately
+submitted.
+
+15.
+
+It must be noted that the evidence does not show that the Student was the one who posted the
+questions on Chegg.com or that she received the answers from Chegg.com. Indeed, there is no
+evidence that the Student has a subscription to Chegg.com. All that can be said is that the Student
+directly or indirectly came into possession of those answers and improperly relied on them.
+
+16.
+
+Given the above, the Panel finds the Student guilty of two counts of knowingly representing an idea
+or expression of an idea or work of another as his own, contrary to section B.I.1.(d) of the Code.
+
+V.
+
+SANCTION
+
+17.
+
+The University submitted that an appropriate sanction was a mark of zero in the course, a threeyear suspension and a four-year notation of the sanction. The University provided thorough and
+helpful authorities of similar cases to justify this sanction and asked the Panel to consider the nature
+of the offence as well as the character of the Student.
+
+18.
+
+The Code contains the “Provost’s Guidance on Sanctions” in Appendix “C”. Section B.8(b)
+provides that at the Tribunal level “absent exception circumstances, the Provost will request that
+the Tribunal…suspend a student for two years for any offence involving academic dishonesty,
+where a student has not committed any prior offences”.
+
+19.
+
+In the present case the University points to a number of factors that they say call for a higher
+sanction than that contemplated in the Code. Namely, the University notes that the Student failed
+to participate in the process before this Tribunal. The University argues that this non-participation
+goes to the character of the Student and that there is no evidence of remorse, mitigating
+circumstances or any acknowledgement on the Student’s part that this sort of behavior will not be
+repeated. Further, the University notes, there was a financial or commercial aspect to these offences
+that elevates their seriousness. Finally, the University notes that the behavior in this matter was
+repeated, having taken place in relation to two different tests on March 21 and April 16, 2020.
+
+4
+
+20.
+
+The Panel disagrees that the Student’s non-participation can be used as an aggravating factor.
+Without knowing the reasons that motivate the Student’s non-participation the Panel is unable to
+come to any conclusion regarding the Student’s character based on that non-participation. While a
+failure to participate robs the Student of the ability to present evidence of remorse or mitigating
+factors that may reduce a sanction, the non-presentation of that evidence is not itself an aggravating
+factor that can be used to increase sanction.
+
+21.
+
+Similarly, while it may be true that a Student’s assurance that the behavior in question will not be
+repeated may act as a mitigating factor there is no onus on a Student to provide such assurances
+such that an absence is an aggravating factor. Even in the absence of assurances from the Student
+it cannot be assumed that future offences are more likely simply because the present offences
+occurred.
+
+22.
+
+With regard to the “commercial aspect” of the offences, as above, on the evidence we are unable to
+conclude that the Student was a subscriber to Chegg.com or that she was aware that the answers
+she used were gotten from that site. As such, the commercial nature of the site, disconnected from
+the proven conduct of the Student, cannot be used as an aggravating factor.
+
+23.
+
+Finally, although the behavior in question was repeated, two factors must be kept in mind. Although
+teaching staff reached out to the Student prior to the second offence there is no evidence that she
+reviewed this correspondence. Therefore, it has not been shown that the Student repeated the
+behavior after being notified that it was unacceptable. Second, it must be noted that both offences
+took place in the initial weeks of the COVID-19 pandemic as lockdowns swept Ontario. It is
+reasonable to assume that the global upheaval during those weeks had a negative effect on the
+Student. In those circumstances we do not feel the repeated nature of the behavior during this period
+is a significant aggravating factor.
+
+24.
+
+However, given the nature of the offence and in the absence of any mitigating factors we find that
+a substantial sanction is an appropriate one. Plagiarism strikes at the very heart of academic
+integrity and therefore attracts a significant sanction. Therefore, a final grade of zero, two-year
+suspension and three-year notation is appropriate.
+
+VI.
+
+ORDER OF THE PANEL
+
+25.
+
+At the conclusion of the hearing, the Panel conferred and made the following order:
+
+5
+
+1.
+
+THAT the Student is guilty of two counts of knowingly representing an idea or expression of an
+idea or work of another as her own, contrary to section B.I.1.(d) of the Code;
+
+2.
+
+THAT the following sanctions shall be imposed on the Student:
+
+(a)
+
+a final grade of zero in the course MAT137Y1;
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for a period of two
+years, ending on June 15, 2023; and
+
+(c)
+
+a notation of the sanction on her academic record and transcript from the date of this order for
+a period of three years, ending on June 15, 2024; and
+
+3.
+
+THAT this case be reported to the Provost for publication of a notice of the decision of the
+
+Tribunal and the sanction imposed, with the Student’s name withheld.
+
+Dated at Toronto, this 13th September, 2021
+
+Dean Embry, Chair
+On behalf of the Panel
+
+6
+
+

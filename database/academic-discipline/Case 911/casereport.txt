@@ -1,0 +1,389 @@
+Case No.: 911
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 6, 2017,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and Y
+
+S
+
+1111 -
+
+REASONS FOR DECISION
+Hearing Date: August 3, 2017
+Members of the Panel:
+Mr. Shaun Laubman, Lawyer, Chair
+Professor Richard B. Day, Faculty Panel Member
+Ms. Sophie Barnett, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Barristers
+In Attendance:
+Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary, Office of the Appeals,
+Discipline and Faculty Grievances, University of Toronto
+Mr. David Jones, Technology Assistant, Information Commons
+Professor Esme Fuller-Thomson, Factor-Inwentash, Faculty of Social Work
+Professor Luc De Nil, Vice-Dean, Students, School of Graduate Studies
+
+--
+
+Not in Attendance:
+Ms. Y
+S
+, the Student
+
+2
+
+1. The Trial Division of the University Tribunal heard this matter on August 3, 2017.
+2. The Student was charged as follows:
+a. In or around August 2015, you knowingly represented as your own an idea
+or expression of an idea or work of another in a draft introduction that you
+submitted to Professor Esme Fuller-Thomson, contrary to section B.I.1(d)
+of the Code.
+b. In the alternative, in or around August 2015, you knowingly obtained
+unauthorized assistance in connection with a draft introduction that you
+submitted to Professor Esme Fuller-Thomson, contrary to section B.I.1(b)
+of the Code.
+c. In the further alternative, in or around August 2015, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with
+a draft introduction that you submitted to Professor Esme Fuller-Thomson,
+contrary to section B.I.3(b) of the Code. (collectively the “Charges”)
+PROCEEDING IN THE STUDENT’S ABSENCE
+3. The Student did not attend the proceeding. As a result, as a preliminary matter, the
+Tribunal had to decide whether to proceed in the Student’s absence.
+4. The University presented evidence of the considerable efforts that were made to notify
+the Student of the Charges and the Hearing date and time. The efforts included:
+a. Serving the Charges by email on January 6, 2017 to the email address listed
+on the Student’s ROSI account;
+
+3
+
+b. Serving a disclosure package and another copy of the Charges on March
+2, 2017, by email and by courier to the address listed in the Student’s ROSI
+account;
+c. Sending multiple emails to the Student’s utoronto email account and two
+other personal accounts that had been used by the Student and her spouse.
+The emails were for the purposes of scheduling the Hearing; and
+d. Attempting to reach the Student by phone at the number listed in her ROSI
+account.
+5. Notably, the University’s evidence showed that a courier package that included the
+Charges and Notice of Hearing was sent to the Student’s address in Israel and signed
+for by a person with the same first initial and last name as the Student. Also, the
+University established that the Student’s utoronto email account was last accessed on
+July 16, 2017. This was after numerous emails regarding the Charges and the
+Hearing had been sent by the University to that email account.
+6. The Student elected not to respond to any of these communications.
+7. Based on the evidence presented, the Tribunal was satisfied that the University had
+discharged its obligation to provide proper notice to the Student regarding the Charges
+against her and the Hearing scheduled for August 3, 2017. Therefore, the Tribunal
+determined that it would proceed with the Hearing in the Student’s absence.
+UNIVERSITY’S EVIDENCE ON THE CHARGES
+8. The Student enrolled in the University’s School of Graduate Studies in the Fall of 2014
+to do a Ph.D. focussing on Type One diabetes and mental health risk.
+9. The Student asked Professor Fuller-Thomson (the “Professor”) to be her thesis
+supervisor. They knew one another from when the Student was enrolled in the
+Master’s program.
+
+4
+
+10. Once the Student graduated with a Master’s degree in 2005, she and the Professor
+worked together and published a joint paper on mental health issues and arthritis in
+2009.
+11. After completing her first year of the Ph.D. program, the Student worked as a research
+assistant for the Professor. At the time, the Professor was working with another
+academic on a research paper related to parental incarceration and diabetes. The
+objective was to ultimately have the paper published.
+12. In the summer of 2015, the Professor asked the Student to draft an introduction for
+the proposed paper. The Student submitted the draft work to the Professor in August
+2015.
+13. The project then stalled and nothing happened with the draft introduction until early
+2016.
+14. By February 2016, work on the proposed research paper began again. The Professor
+submitted the two and a half page draft introduction that the Student had prepared to
+Turnitin – the program used by the University to check for and prevent plagiarism.
+15. The Turnitin results showed that the introduction was heavily drawn from source
+material. For the most part, citations were provided to the source material, however,
+there were two issues with how the work was referenced. First, much of the text was
+copied verbatim from source material. The source material was properly cited in the
+draft but quotation marks were not placed around the text to show that it was directly
+copied. Second, in a number of instances, the Student did not cite the primary source
+of the material but instead cited the secondary sources that were cited in the primary
+source. For example, instead of citing the source that the text was copied from, the
+Student had cited the reference that was provided for that text in the source.
+16. The issue, in both the Professor’s and the University’s views, was that the Student, a
+Ph.D. candidate, would have known how to properly reference sources given her
+years of academic training. That the Student failed to use quotation marks and did
+not cite the primary source in all instances was “disturbing” according to the Professor.
+
+5
+
+17. Both the Professor and the University also stressed the serious consequences that
+could have resulted to the Professor’s professional reputation had the plagiarism in
+the draft introduction not been caught.
+18. After discovering the plagiarism, the Professor immediately brought it to the Student’s
+attention and expressed her disappointment.
+
+In her response, the Student was
+
+apologetic and wrote “I obviously have no basic understanding of how to work and
+what simple matters of plagiarism and copywrite are.” [sic] The Student expressed
+doubts about whether she was qualified to continue in the Ph.D. program.
+19. In her evidence at the Hearing, the Professor said she was initially unsure how to deal
+with the issue. She said she was unsure whether the Student had committed an
+academic offence since the work was done in Student’s capacity as a research
+assistant and was not submitted for academic credit. However, after giving it some
+thought, the Professor determined that she was uncomfortable continuing to supervise
+the Student’s work and she wanted to ensure that some form of note or caution was
+placed in the Student’s file about the incident.
+20. The Professor informed the School of Graduate Studies (“SGS”), where a decision
+was made that the Student’s work did constitute an academic offence under the Code
+of Behaviour on Academic Matters (the “Code”) and the matter should be pursued
+further.
+21. On July 7, 2016, SGS wrote to the Student to schedule a Dean’s meeting to discuss
+the incident.
+22. The Student responded and advised that she was dealing with a serious medical
+issue. She then withdrew from the Ph.D. program, effective August 4, 2016.
+23. Despite further attempts by the University to schedule a Dean’s meeting, no such
+meeting occurred.
+24. The University now seeks a conviction pursuant to the Code for plagiarism.
+
+6
+
+JURISDICTION
+25. As a preliminary matter, the Tribunal has to decide whether it has jurisdiction to convict
+the Student. The issue is, plainly, whether the Code applies with respect to a draft
+introduction submitted by a research assistant for use in a paper being prepared for
+publication.
+26. The University submits that it does. The Tribunal agrees.
+27. The first question that must be answered is whether the Code can apply when the
+work at issue was done by the student in the role of a research assistant.
+28. The University relied on the decision of In the matter of the University of Toronto and
+A.A. (Case No. 528, January 14, 2009). That case involved charges against a student
+who was working as a teaching assistant. While working as a teaching assistant, the
+student inflated the mark for an exam written by his brother. The student was charged
+under the Code. He challenged the jurisdiction of the University Tribunal and argued
+that the impugned conduct should be addressed by a labour arbitrator under the
+collective agreement that governed his work as a teaching assistant. He argued that
+the Code did not apply because the charges did not relate to his conduct as a student
+at the University.
+29. The Tribunal in A.A. supra, determined that it had jurisdiction over the charges in that
+case. In analyzing the extent to which the Code applied when the student’s conduct
+did not arise when they were acting qua student, the Tribunal held:
+Mr. [A] is a student of the University of Toronto because he is enrolled in
+a course of study. By enrolling in the university, a student agrees to abide
+by the rules that apply to members of the university community including
+the rules about academic integrity found in the Code. Mr. [A] is a student
+of the university whether or not he is actually attending a class or studying
+for an exam because being a student of the university is his status and is
+not a position, like teaching assistant, that he fills from time to time. He
+was therefore still a student even when he was working as a teaching
+
+7
+
+assistant. In fact, he could not have worked as a teaching assistant
+unless he was a student. As a result of Mr. [A]’s status as a student, he
+is bound to his obligations to the university community at all times
+including those times when he is working as a teaching assistant. Those
+obligations include a commitment to academic integrity.
+30. The decision in A.A., supra is informative for this case. There is no doubt that the
+Student falls under the definition of “student” in the Code. Moreover, as was the case
+in A.A., she could not have been a research assistant unless she was a student at the
+University.
+31. The next issue with respect to jurisdiction is whether the draft introduction that the
+Student prepared is covered by the Code.
+32. This is not a typical case, where the work at issue was an assignment or exam
+submitted for academic credit. However, the relevant provisions of the Code also
+apply to “any other form of academic work”. Therefore, for the Code to apply, the
+Student’s draft introduction must fit under the definition of “academic work” in the
+Code.
+33. The Tribunal is satisfied that the Student’s draft work does fit within the broad definition
+of “academic work”. The wording of the definition makes clear the intent to cover a
+broad range of work product.
+34. Therefore, since the Student’s conduct qua research assistant does fall under the
+Code and the draft introduction does constitute “academic work”, the Tribunal does
+have jurisdiction with respect to the Charges.
+DECISION ON THE CHARGES
+35. The Tribunal is satisfied on the evidence presented by the University that the Charge
+of plagiarism pursuant to section B.I.1(d) of the Code was made out. With a conviction
+on the first Charge, the University did not seek convictions on the remaining two
+Charges.
+
+8
+
+36. While there was some evidence, found in her emails to the Professor when the
+allegation of plagiarism was first raised, that the Student may not have understood
+that what she submitted was plagiarism, this is no defence.
+37. The Code expressly applies an objective standard for offences that depend on the
+student “knowingly” committing the offence. Therefore, even if the Student did not
+actually know that she was committing the offence of plagiarism, she ought to have
+known that her citation style was deficient.
+38. The evidence that the Student may not have appreciated that her form of citation was
+not acceptable is more relevant to the issue of the appropriate penalty than it is to
+whether she was guilty of the Charges.
+39. Similarly, while the University acknowledged that some of the impugned text, in
+particular where the Student had properly cited a reference but failed to use quotation
+marks, was a less serious form of plagiarism, this does not impact on the issue of
+liability. Again, this consideration is more relevant to the issue of the appropriate
+penalty.
+40. For all of these reasons, the Tribunal found that the Student is guilty of the first Charge
+pursuant to section B.I.1(d) of the Code.
+
+PENALTY
+41. The University sought the following sanctions against the Student:
+a. A suspension of 3 years;
+b. A notation on her academic record for 4 years; and
+c. That this case be reported to the Provost, with the Student’s name withheld,
+for publication .
+42. In support of its proposed sanctions, the University relied on the following factors:
+
+9
+
+a. The Student had committed a prior offence in the Fall of 2014. The Tribunal
+was provided with a letter dated April 1, 2015 from Professor Luc De Nil
+(who gave evidence at the Hearing) confirming that the Student had
+admitted to the offence of using an unauthorized aid in the form of
+unauthorized collaboration on an assignment with two other doctoral
+students. The sanctions of a grade of zero for the assignment and a written
+reprimand in the Student’s file were imposed;
+b. In connection with the prior offence, the Student was warned in writing that
+“if you commit a second offence while you are a student at the University of
+Toronto, it will be treated much more severely.”
+c. Plagiarism must be treated as a serious offence;
+d. The plagiarism at issue had the potential to impact on the Professor’s
+reputation and career if it had gone undetected. This was an aggravating
+factor in the University’s submissions; and
+e. There was no direct character evidence or evidence of extenuating
+circumstances due to the Student’s lack of participation.
+43. The University also submitted that a 3 year suspension had become the standard for
+a second offence in plagiarism cases. It provided the Tribunal with a number of cases
+where a suspension of 3 years or more for plagiarism was imposed.
+44. The Tribunal accepts that plagiarism is a most serious offence and that general
+deterrence is one of the criteria that the Tribunal must have in mind when fashioning
+a sanction that is appropriate and reasonable.
+45. It is well-established that the Tribunal must consider a range of factors when fixing the
+appropriate sanction in a given case. In the case of Mr. C (Case No.: 1976/77-3,
+November 5, 1976), Sopinka Q.C. described the factors that a tribunal must consider
+when determining the appropriate penalty. These factors have been consistently
+adopted by tribunals over the years:
+
+10
+
+a. The character of the person charged;
+b. The likelihood of a repetition of the offence;
+c. The nature of the offence committed;
+d. Any extenuating circumstances surrounding the commission of the offence;
+e. The detriment to the University occasioned by the offence; and
+f. The need to deter others from committing a similar offence.
+46. The Tribunal is also guided by the language from the decision in University of Toronto
+and B.S. (Case 697, January 17, 2014) in which the tribunal recognized that it was to
+approach “the issue of an appropriate sanction without fettering its discretion based
+on any ‘starting point’ or ‘minimum’ penalty in such cases and must fashion a sanction
+based on the individual circumstances of this case.” In other words, imposing an
+appropriate penalty is a matter of exercising discretion and applying the factors from
+Mr. C, supra to the facts of a particular case. As described by the Discipline Appeal
+Board in D.S. (Case 451, August 24, 2007), “[t]here is no matrix, formula, or chart, in
+which a Tribunal can determine that one particular act, must receive one particular
+sanction.”
+47. That guidance is particularly instructive in this case, which involved unique facts and
+an act of plagiarism that was not readily comparable to the acts in the cases relied
+upon by the University.
+48. Taking into consideration the direction from cases such as Mr. C, B.S. and D.S., as
+well as the University’s submissions and the evidence and circumstances of this case,
+the Tribunal weighed the following factors:
+a. Plagiarism is well-recognized as a serious offence and deserving of a strong
+sanction. However, this case is not one of the more egregious examples of
+plagiarism. The evidence was unclear as to whether the Student actually
+knew that her style of referencing amounted to plagiarism. If she did intend
+
+11
+
+to plagiarise then it was a particularly poor form of plagiarism given that, for
+the most part, the Student referenced the source material but failed to
+include quotation marks or she referenced the underlying source instead of
+the primary source that she drew from.
+
+The University quite rightly
+
+acknowledged that the plagiarism in this case was less serious than
+instances when no source at all is referenced;
+b. The Student’s immediate reaction when the Professor raised her concerns
+and accused her of plagiarism was to apologize profusely and admit that
+she perhaps was not qualified for the Ph.D. program as she did not
+understand the requirements and expectations;
+c. The Student had a prior offence. This is an aggravating factor that the
+Tribunal took into account but did not find that it tipped the balance
+significantly. Little evidence regarding the prior offence was presented at
+the Hearing other than it did not involve plagiarism and the Student
+apparently admitted to it and was sanctioned at an early stage. She was
+also warned about the consequences being more serious in the event of a
+second offence;
+d. The University emphasized the fact that the plagiarism at issue could have
+detrimentally impacted the Professor had it not been identified and had the
+draft introduction been included in the final paper without editing or
+reference checking. The Tribunal does consider this an aggravating factor
+albeit one that is muted somewhat by the fact the evidence was unclear as
+to whether the Student had actual knowledge and the submission was a
+first draft so further editing and reference checking would have been
+expected;
+e. The Student withdrew from the Ph.D. program. There was some evidence
+that she did so due to severe health issues although this evidence was
+indirect and not subject to testing;
+
+12
+
+f. The only character evidence that the Tribunal had was the Professor’s
+evidence that she considered the Student to be a “strong student” from the
+period when she received her Master’s degree. This was not a factor in the
+Tribunal’s decision; and
+g. The Student’s withdrawal from the Ph.D. program would remain on her
+academic record permanently. In theory, she could re-apply to enter the
+Ph.D. program but any such application would be treated as a new
+application. The Tribunal views the likelihood of the Student re-applying for
+the Ph.D. program as low in the circumstances. Similarly, the likelihood of
+the Student repeating the offence is low since her studies have been
+discontinued.
+49. Having regard to all of the circumstances, the Tribunal determined that the appropriate
+sanction is a 2 year suspension, a 3 year notation on the Student’s academic record
+and publication by the Provost.
+50. This is a serious penalty that accounts for the fact that the Student has been found
+guilty of plagiarism and this is her second offence, even though the first one was
+unrelated. It also represents a significant increase in severity from the sanction
+imposed on the Student following her first offence.
+51. By the same token, the Tribunal did not feel that it would be appropriate to have the
+sanction match those cases where there was clear evidence of an intention to deceive
+by a student.
+52. Therefore, the Tribunal ordered the following:
+a. THAT the Student is guilty of one count of knowingly representing as her
+own an idea or expression of an idea or work of another in any academic
+examination or term test or in connection with any other form of academic
+work, contrary to section B.I.1(d) of the Code.
+b. THAT the following sanctions shall be imposed on the Student:
+
+13
+
+i. a suspension from the University of Toronto from the day the Tribunal
+makes its order for two years, from August 3, 2017 to August 2, 2019;
+ii. a notation of the sanction on her academic record and transcript from
+the day the Tribunal makes its order for three years, from August 3,
+2017 to August 2, 2020.
+c. THAT this case be reported to the Provost, with the Student's name
+withheld, for publication of a notice of the decision of the Tribunal and the
+sanctions imposed.
+
+Dated at Toronto, this
+
+~
+
+Z day of November, 2017
+
+Shaun Laubman, Co-Chair
+
+--
+
+

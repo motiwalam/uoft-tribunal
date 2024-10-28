@@ -1,0 +1,913 @@
+-r
+
+UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on February 27, 2014
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University ofToron.to Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+
+BETWEEN:
+. .
+
+UNIVERSITY OF TORONTO (the "University")
+-AND-
+
+lV9 ~ (the "Student")
+REASONS FOR DECISION
+Hearing Date: December 17, 2014
+Panel Members:
+Ms. Roslyn M. Tsao, Lawyer, Chair
+Professor Ernest Lam, Faculty of Dentistry, Faculty Panel Member
+Mr. Simon Czajkowski, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel for University, Paliare Roland Barristers
+Dr. Brian Harrington, Instructor for CSCA08H3: Introduction to Computer Programming
+Professor Eleanor Irwin, Dean's Designate for Academic Integrity at University of Toronto
+Scarborough
+Professor Wayne Dowler, Dean's Designate for Academic Integrity at the University of Toronto
+Scarborough
+No one appearing for the Student
+In Attendance:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Gtievances
+
+2
+1.
+
+The Trial Division of the Tribunal heard this matter on December 17, 2014. The Student
+was charged on February 27, 2014 as follows:
+(a)
+
+On or about October 19, 2012, you knowingly obtained unauthorized assistance
+in connection with Assignment #1 in CSCA08H3 (Introduction to Computer
+Programming) (the "Course"), contrary to section B.I1.(b) of the Code.
+
+(b)
+
+In the alternative, on or about October 19, 2012, you knowingly represented as
+your own an idea or expression of an idea or work of another in connection with
+Assignment #1 in the Course, contrary to section B.I1.(d) of the Code.
+
+(c)
+
+In the further alternative, on or about October 19, 2012, you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with
+Assignment #1 in the Course, contrary to section B.I3.(b) of the Code.
+
+(d)
+
+On or about November 30, 2012, you knowingly obtained unauthorized assistance
+in connection with Assignment #2 in the Course, contrary to section B.I1.(b) of
+the Code.
+
+(e)
+
+In the alternative, on or about November 30, 2012, you knowingly represented as
+your own an idea or expression of an idea or work of another in connection with
+Assignment #2 in the Course, contrary to section B.I1.(d) of the Code.
+
+(f)
+
+In the further alternative, on or about November 30, 2012, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with
+Assignment #2 in the Course, contrary to section B.1.3. (b) of the Code.
+
+Absence of Student from Hearing
+
+2.
+
+The Student did not attend at the Hearing. The Tribunal waited 15 minutes after the
+scheduled commencement of the Hearing to allow for the Student to appear.
+
+3
+3.
+
+The University presented evidence to the Tribunal confirming proper service of the
+Charges dated February 27, 2014 and Notice of Hearing dated November 11, 2014
+(which contained the requisite warning for non-attendance) in accordance with Rule 9
+(Part 3) of the Rules ofPractice and Procedure ("RPP") by:
+e-mailing a copy of the Charges to the Student's e-mail address contained in the
+Student's ROSI record on February 28, 2014;
+sending a letter from counsel, enclosing a disclosure letter and brief relating to the
+matter, by e-mail to the Student and by courier to the Student's address as
+contained in the Student's ROSI record on May 21, 2014;
+e-mailing the Student on November 10, 2014 to advise him of the hearing date of
+December 17, 2014; and
+sending the formal Notice of Hearing issued on November 11, 2014 by courier to
+the Student's address on December 11, 2014 and leaving same with an adult
+member of the household, who advised that the Student was not home at the time
+but that she would give the package to the Student.
+
+4.
+
+It is noted that there were a number of efforts to contact the Student by telephone at his
+
+ROSI contact telephone number and by email between May 21, 2014 and December 10,
+2014. The emails did not "bounce back" on any occasion.
+5.
+
+Accordingly, the Hearing proceeded in the absence of the Student.
+
+Facts
+
+6.
+
+The University tendered three (3) witnesses: Dr. Brian Harrington, Professor Eleanor
+Irwin and Professor Wayne Dowler.
+
+Evidence of Dr. Harrington
+7.
+
+Dr. Harrington was in his first year of teaching at the time of question at the University of
+Toronto, Scarborough campus.
+
+The Course, an introductory first year course, was
+
+4
+
+intended for computer science students who had no pnor expenence with writing
+computer code.
+8.
+
+There were 500 students in the fall 2012 Course with 15 Teaching Assistants ("TAs") to
+run the labs/tutorials. There were two hour weekly sessions for the students to work with
+theTAs.
+
+9.
+
+The Course evaluation comprised 9 labs, 4 exercises, 2 assignments, a midterm test and a
+final exam.
+
+10.
+
+With respect to the Assignments, the Course Information Sheet stated:
+You are permitted, and in fact encouraged, to work with a partner on
+assignments. We also encourage you to change partners between
+assignments. You must register your partnership before you start
+working together on the assignment (see the assignments webpage for
+how). We expect that partners working together will use a teamprogramming approach similar to the one used in labs. Splitting the
+work and performing the tasks separately will not help prepare you for
+the tests and final exam. In extreme cases, you may wish to dissolve your
+partnership. To dissolve your partnership, you must contact the course
+instructor and your partner by email and be prepared to meet with the
+coordinator during office hours.
+
+11.
+
+The Course Information Sheet further addressed cheating as follows:
+Please don't cheat. We want you to succeed and are here to help. Here
+are a couple ofgeneral guidelines to help you avoid plagiarism:
+
+12.
+
+•
+
+Never look at another group's assignment solution, whether it is
+on paper or on the computer screen. Never show another
+student (other than your partner) your assignment solution. This
+applies to all drafts of a solution and to incomplete solutions.
+
+•
+
+The easiest way to avoid plagiarism is to only discuss the piece
+of work with your partner, the TAs, and the course instructor.
+
+Dr. Harrington explained his use of MoSS (Measurement of Software Similarity)
+Software to review the computer code submitted by students for their assignments in the
+detection of misconduct.
+
+13.
+
+The MoSS Software compares the submitted samples of code (i.e., assignments from the
+entire class for a particular assignment) against each other (not against external samples).
+
+5
+MoSS will identify lines/sections of code in one student's (or permitted partnership's)
+submission that are statistically similar to other submitted code. MoSS will also give a
+percentage of the whole assignment that appears to be potentially "plagiarized" or unduly
+similar to other submitted assignments. The MoSS software also ignores similarities to
+base code that may have formed part of the assignment for all students.
+14.
+
+In response to a question from the Panel, Dr. Harrington noted that a percentage in the
+range of 10 - 20% of similarity would be expected in an assignment and that higher
+percentages would raise suspicion.
+
+15.
+
+Dr. Harrington also explained that he individually reviews those assignments identified
+by MoSS to independently determine whether to allege any misconduct.
+
+16.
+
+The computer language being used in the Course was "Python" which is a very "openended", free-hand programming language. Dr. Harrington analogized coding in Python
+to be like writing prose in that there are many ways to do the same thing.
+
+Assignment #1
+17.
+
+For Assignment #1, all submitted assignments from the students in the Course (from all
+three campuses) were analyzed by MoSS.
+
+18.
+
+The MoSS software detected that the Student's assignment/computer code was
+substantially similar (approximately 75%) to the assignment/computer code of another
+student, Mr. [L].
+
+19.
+
+For Assignment #1, Dr. Harrington recalled that there were approximately 20-30
+students, in total, who were identified by the MoSS software. As was and is his practice,
+Dr. Harrington would have emailed any students with suspicious assignments (within a
+week of the assignment) to request that the student come to speak to him about alleged
+misconduct in his/her assignment.
+
+20.
+
+As the Student and Mr. [L] had not registered as partners for Assignment #1, the level of
+similarity in their computer code could not have been random in Dr. Harrington's view.
+
+6
+21.
+
+Dr. Harrington did not retain a copy of the email sent to the Student or a sample of such
+email for the Course in question to provide at the hearing. However, he stated that his
+email would have been in the nature and tone to encourage the student to come see him
+"first" and explain the situation. Dr. Harrington did not believe that his email would have
+said that the matter will be escalated to a higher level if there was no response.
+
+22.
+
+In the event that a student did not respond, Dr. Harrington would refer the matter to
+Professor Nick Cheng, Chair's Designate, Department of Computer and Mathematical
+Sciences, for further action.
+
+23.
+
+Dr. Harrington advised that all students except the Student, Mr. [L] and one other pair of
+students responded to his email.
+
+Those students who responded and met with him
+
+received a zero on the assignment if it was their first offence (as was likely the case given
+that the Course was a first year course), they admitted guilt and they accepted this
+penalty. These students were also given a stem warning during their meetings with him.
+24.
+
+To date, in his three years of teaching, Dr. Harrington confirmed that all students whom
+he has emailed after determining that the MoSS software has identified misconduct, and
+who have come to speak with him, have all admitted their guilt. The Panel views this
+fact as confirmation that the MoSS software provides a reliable identification of
+misconduct.
+
+25.
+
+The four students who did not respond to Dr. Harrington's email after Assignment #1
+would have had a "GWR" on their transcript until the matter was resolved.
+
+These
+
+students would also be referred to the Chair's Designate for follow up.
+26.
+
+However, in the meantime, these students were still able to see the TA's scores for their
+assignments on the MarkUs (computer blackboard-type) system and would not know that
+there was no grade nor that their actual pending grade was "GWR".
+
+7
+
+Assignment #2
+27.
+
+For Assignment #2, the MoSS software identified significantly fewer susp1c10us
+assignments. Dr. Harrington recalls that there were approximately 3-5 pairs, being 6-10
+students, who were flagged.
+
+28.
+
+The MoSS software identified that the Student's Assignment #2 was suspiciously similar
+to that submitted by a partnership between Mr. [L] and Mr. [Y] ("L/Y partnership").
+
+29.
+
+Dr. Harrington recalled that a student or students had come to see him before Assignment
+#2 was submitted to ask whether a group of three students would be permitted. Dr.
+Harrington recalls advising that only groups of two were permitted and had to be
+registered on the MarkUs system in advance. He would have told the group of three
+students or their representative that all prior work together would have to be destroyed
+and that any resulting group or student would need to "start again". When asked, Dr.
+Harrington could not recall whether the student/students who came to see him were any
+of the Student or Mr. [L] or Mr. [Y].
+
+30.
+
+In Assignment #2, the Student only completed code for 2 of the 5 "functions". The
+MoSS software demonstrated (and is plainly evident upon examination) that the code for
+these 2 functions was near identical for these same 2 functions in the L/Y partnership
+assignment. Naturally, there was no match between the Student's assignment for the
+remaining 3 functions to those in the L/Y partnership because the Student did not
+complete those parts of the assignment.
+
+31.
+
+Again, Dr. Harrington sent out an email after Assignment #2 to students identified by
+MoSS. Dr. Harrington also forwarded the names of the Student and Mr. [L] to Professor
+Nick Cheng, Chair's Designate, Department of Computer and Mathematical Sciences,
+with an indication that these two students had already been identified after Assignment
+#1 and did not respond to him at that time.
+
+32.
+
+After that point, the investigation relating to the Student, Mr. [L] and Mr. [Y] was
+addressed by Professor Cheng.
+
+8
+33.
+
+The Student did not write the final examination in the Course. Mr. [L] and Mr. [Y] did
+write the final examination.
+
+Evidence of Professor M.E. Irwin, Dean's Designate
+34.
+
+Professor Irwin, as the Dean's Designate, became involved upon referral from Professor
+Nick Cheng, Chair's Designate, Department of Computer and Mathematical Sciences, to
+address allegations that Mr. [L] had committed two academic offences. Professor Cheng
+had spoken to Mr. [L] about the allegations.
+
+35.
+
+A matter can be addressed at the departmental level only if the matter involves a first
+offence, the work in question is worth 10% or less of the course, the student admits to the
+offence and the penalty sought is, at most, a zero on the offending assignment.
+
+36.
+
+In the case of Mr. [L], Mr. [L]'s misconduct involved two incidents and, therefore, could
+not be addressed at the departmental level. The alleged misconduct was:
+(a)
+
+that Mr. [L] failed to register as a pair in Assignment #1 though he worked on the
+assignment with the Student; and
+
+(b)
+
+that Mr. [L] had worked together with Mr. [Y] and the Student, forming a group
+of three students for Assignment #2; that one or all of them went to tell Dr.
+Harrington that they were working as a group of three; that Dr. Harrington then
+told them that they had to stop working as a group of three and were to discard
+everything they had done and start again on their assignment; that, nevertheless,
+Mr. [L] did not discard the earlier work product in contravention of the direction
+in the Course outline and of Dr. Harrington.
+
+3 7.
+
+Mr. [L] admitted and accepted that he had committed the above misconduct on both
+assignments.
+
+38.
+
+It is noted that Professor Irwin was told by Mr. [L] that the three students worked
+
+together on Assignment #2 before dissolving the group.
+
+9
+
+39.
+
+By letter dated May 8, 2013 to Mr. [L], Professor Irwin confirmed his acceptance of the
+above misconduct and that such misconduct constituted an offence under Section
+B.I.1.(b) of the Code, being the use of unauthorized aid.
+
+40.
+
+As she had not had the chance to speak to Mr. [L] "earlier" (ie., after Assignment #1),
+Professor Irwin treated the two offences as "concurrent" and imposed a sanction of a zero
+on each assignment.
+
+Evidence of Professor W. Dowler, Dean's Designate
+41.
+
+Professor Dowler, as (the other) Dean's Designate, became involved upon referral from
+Professor Nick Cheng to address allegations that Mr. [Y] had committed an academic
+offence. Professor Cheng interviewed Mr. [Y] with respect to the offence.
+
+42.
+
+The matter of Mr. [Y]'s misconduct in Assignment #2 was referred to the Dean's
+Designate even though the assignment comprised only 10% of the Course grade and
+could have been dealt with at the departmental level because this student refused to admit
+guilt to Mr. Cheng.
+
+43.
+
+At the Dean's Designate meeting, Mr. [Y] would not initially admit guilt and did not
+believe that he had committed an offence in Assignment #2.
+
+44.
+
+Professor Dowler reviewed the MoSS evidence with Mr. [Y] and the student agreed that
+the Assignment #2 which he submitted with Mr. [L] was similar to that submitted by the
+Student. However, Mr. [Y], in his own "articulate" defence, felt that it was unfair that he
+and Mr. [L] had to destroy their earlier work because it was his position that the Student
+(who left the three party group) did not do anything and that he and Mr. [L] "did the work
+in good faith".
+
+45.
+
+Professor Dowler emphasized to Mr. [Y] that the misconduct consisted of the
+collaboration with a third party in violation of clear instructions and the Course outline
+and that he, thereby, was a party to an offence.
+
+46.
+
+Mr. [Y] ultimately accepted the logic of Professor Dowling's analysis and "very
+reluctantly" agreed that he had committed an offence in that regard.
+
+10
+
+47.
+
+Professor Dowler obtained Mr. [Y)'s acceptance that he should not have collaborated
+with a third person and further should have destroyed any earlier work product before
+starting again.
+
+48.
+
+By letter dated April 18, 2013 to Mr. [Y], Professor Dowling confirmed his acceptance of
+the above-described misconduct.
+
+We note that Mr. [Y] did not accept that he had
+
+committed plagiarism as his position was that he and Mr. [L] had worked on the
+assignment and that the Student had not contributed.
+49.
+
+Professor Dowler gave Mr. [Y] an admittedly light sanction amounting to one-half of the
+value of the assignment, being a 5% penalty on Assignment #2, after having some
+sympathy for Mr. [Y]'s circumstances.
+
+Decision of the Tribunal
+
+50.
+
+The Panel finds that the Student is guilty of an academic offence under section B.I.1 (b) of
+the Code for knowingly obtaining unauthorized assistance in Assignments #1 and #2 of
+the Course.
+
+51.
+
+It is clear and compelling from the MoSS software output and Dr. Harrington's evidence
+
+regarding his review of the Student's code as compared to the other students' code, that
+there was collaboration between the groups of students. In Assignment #1, the Student
+failed to register as a partnership in violation of the Course outline. In Assignment #2,
+the Student obviously collaborated with the other two students, as his 2 completed
+functions of computer code were near identical to the LN partnership.
+52.
+
+The statements from the other two students during the Dean's Designate meetings were
+additional evidence in support of the MoSS software findings that the Student
+collaborated with Mr. [L] in Assignment #1, and with Mr. [L] and Mr. [Y] in Assignment
+#2.
+
+53.
+
+We agree with both Professor Irwin's and Professor Dowler's characterization of the
+students' misconduct as being a failure to register as a partnership in Assignment #1 and a
+
+11
+failure to discard the earlier work of the group of three students m completing
+Assignment #2.
+54.
+
+We apply this same analysis to characterize the misconduct of the Student and, therefore,
+find the Student guilty of obtaining unauthorized assistance.
+
+55.
+
+For the reasons below relating to the reliability of the hearsay evidence of Mr. [L] and
+Mr. [Y] tendered by the University, we make it clear that the MoSS evidence as
+introduced by Dr. Harrington is more than sufficient to form the basis for our finding of
+misconduct against the Student.
+
+Plagiarism Not Established
+56.
+
+The Panel does not find that the University has met its onus in establishing that the
+Student has committed plagiarism (as would necessarily have to be characterized as being
+the representation of the work in the Assignments as the Student's own when it was
+based on the work of the other students).
+
+57.
+
+The Panel raised its concern as to how we were to treat the statements made by Mr. [L]
+and Mr. [Y] where they may form an independent and uncorroborated basis for alleged
+misconduct. We are prepared to accept the hearsay evidence of the Dean's Designates
+relating to the context and disposition of these other two students where it is not the sole
+basis of the case against the Student. However, we are not prepared to accept such
+hearsay where it is the only evidence against the Student to establish plagiarism.
+
+58.
+
+University counsel acknowledged that the statements of Mr. [Y] were hearsay and also
+confirmed, in closing submissions, that she was not tendering Mr. [Y]'s statements to
+establish that the Student contributed nothing to Assignment #2, which could presumably
+ground a finding of plagiarism.
+
+Rather, the University was relying on the hearsay
+
+statements as evidence of collaboration.
+
+12
+59.
+
+University counsel referred the Panel to the [R] 1 Decision in support of the University's
+proposition that the hearsay statements of another student during a Dean's Designate
+meeting are reliable. In [R], as in the case here, the Tribunal found that the hearsay
+statements of the other student were "additional evidence supporting our finding that the
+Student obtained and provided unauthorized assistance during the midterm test". In [R],
+as in the case here, there was other independent evidence to establish that the student had
+obtained unauthorized assistance. As such, we do not find it necessary to rely on the
+hearsay evidence to make our findings of guilt.
+
+We do not, likewise, find that the
+
+contradictory hearsay evidence can establish plagiarism.
+60.
+
+In order to discharge its burden of establishing plagiarism in this case, it was incumbent
+upon the University to call one or both of the other students involved in the "group" for
+Assignment #1 and/or Assignment #2 who would testify that the Student copied their
+original source material. The hearsay evidence of Mr. [L] and Mr. [Y], as tendered
+through the Dean's Designates, actually contradict each other with respect to the
+Student's contribution to the computer code in Assignment #2.
+
+Furthermore, this
+
+evidence was not tested under oath and there may well have been a motive for Mr. [Y] to
+minimize the Student's participation given his initial firm denial of any misconduct on
+his part.
+61.
+
+In particular, Mr. [L]'s statements, as conveyed by the Dean's Designate as hearsay
+evidence, indicated that the Student did participate in Assignment #1 and #2 until he
+exited the group, whereas Mr. [Y]'s statements, again conveyed to the Panel as hearsay
+evidence, indicated that the Student did not do anything in Assignment #2. The Panel did
+not have to reconcile this contradiction nor decide as to one version over the other given
+that all of this evidence was hearsay.
+
+1 R.
+
+Case #708; June 6, 2014
+
+13
+62.
+
+The Panel also notes that in Counsel's letter dated May 21, 2014 outlining its
+"Anticipated Evidence" to the Student2, the evidence for Professor Dowler was
+anticipated to be:
+Professor Dowler is expected to testify that on April 15, 2013, he met
+with Mr. [Y]. During their meeting, Mr. [YJ advised that he and Mr. [L}
+had worked on Assignment #2 in a group of three. He and Mr. Liang
+learned that they could only work on the assignment in pairs, but still
+submitted the assignment that they had worked on in the group of
+three. At the meeting, Mr. [YJ admitted that he had committed an
+academic offence in connection with Assignment #2. (emphasis added)
+
+63.
+
+Furthermore, the "Anticipated Evidence" of Professor Irwin was stated to be:
+Professor Irwin is expected to testify that on May 8, 2013, she met with
+Mr. [L]. During their meeting, Mr. [L} explained that for Assignment
+#1, you and he worked together but did not register as partners. Mr. [L}
+also explained that for Assignment #2, Mr. [L}, Mr. [YJ and you worked
+together. Although he was told by Dr. Harrington that he could only
+submit the assignment in pairs (and not as a group of three), he and Mr.
+[YJ submitted the Assignment #2 that he and Mr. [YJ had worked on
+with you. At the meeting, Mr. [L} admitted that he had committed an
+academic offence in connection with both Assignment #1 and Assignment
+#2. (emphasis added)
+
+64.
+
+The University confirmed that neither Mr. [L] nor Mr. [Y] had been summonsed to testify
+at the within hearing.
+
+65.
+
+As such, we find that the Student would not have been alerted to the position raised at the
+hearing that Mr. [Y]'s statements to Professor Dowler were in the nature that the Student
+did not contribute anything to Assignment #2.
+
+66.
+
+Without clear and convincing evidence that the Student plagiarized the work of Mr. [L]
+or of Mr. [Y], the Panel cannot find the Student guilty of the plagiarism charges.
+
+67.
+
+The University withdrew the alternative charges.
+
+Penalty
+
+68.
+
+2
+
+The University sought the following penalty:
+
+Exhibit 3, Tab C
+
+14
+(a)
+
+a zero in the Course;
+
+(b)
+
+a two (2) year suspension from the University commencing the date of the Order;
+and
+
+(c)
+
+a two (2) year notation of the sanction on the Student's academic record and
+transcript.
+
+69.
+
+The Student has no prior record of academic misconduct and has not registered at the
+University since withdrawing from all courses in the 2013 Winter term (the term after the
+Course). The Student did not attend to write the final examination in the Course.
+
+70.
+
+The University urged the Panel to consider this case to be akin to a plagiarism case such
+that a two-year suspension would be appropriate. With respect, the Panel is unable to
+accede to this recommendation for a number of reasons.
+
+71.
+
+Firstly, for the reasons cited above, the University has not made out the requisite
+requirements for plagiarism.
+
+72.
+
+Secondly, at its highest, the Panel is of the view that the Student's misconduct comprises:
+(a)
+
+in the case of Assignment #1, a failure to register as a partnership as required by
+Course rules; and
+
+(b)
+
+in the case of Assignment #2, a collaboration among three (3) students instead of
+the two (2) student limit and the subsequent failure to destroy all collaborated
+code and start again.
+
+73.
+
+Thirdly, the rationale for the University in seeking a two (2) year suspension in light of
+the sanctions given to the two other students (zero on both assignments in the case of Mr.
+[L] and a 5% penalty on Assignment #2 in the case of Mr. [Y]) is that the Student:
+(a)
+
+failed to attend at the Decanal level to address the charges;
+
+(b)
+
+failed to respond to the University prior to Hearing;
+
+15
+(c)
+
+failed to attend at the Hearing,
+
+with the cumulative effect being that the Student has failed to acknowledge his offence
+and exhibit remorse. The University counsel has invited the Panel to find this to be the
+"most significant" distinguishing factor between the Student's case and the other two
+students.
+74.
+
+In the C.A.M. Decision3, the Discipline Appeals Board ("DAB") considered the
+"escalation of penalty" from the sanction that would have been imposed had the student
+not changed his guilty plea at the departmental level. The Dean's Designate had imposed
+the penalty of a zero in the course and no official recording of sanction on his transcript
+though his name was to be placed in the offence database as a second offender. The
+student later withdrew his admission of guilt after receiving the notice of penalty,
+necessitating a Tribunal hearing.
+
+75.
+
+In C.A.M., the student was found guilty after a fully contested hearing and the Tribunal
+recommended expulsion. On appeal by the student, the majority of the DAB accepted
+that the student's conduct at the hearing warranted a significant escalation in penalty
+based on application of the ~
+
+factors as opposed to there being some separate
+
+aggravating factor based on whether the student triggered a hearing:
+A student who acknowledges his or her fault and accepts the penalty
+reflects significantly on the assessment of the student's character,
+remorse and the likelihood of repetition of the offence. In other words,
+the more serious penalties imposed are a result of the application of the
+~
+actors, not as an arbitrary penalty for the Student seeking a
+hearing. (emphasis added)4
+
+76.
+
+Furthermore, the DAB held:
+However, it is important that the sanction imposed upon conviction at the
+end of a contested hearing bear a rational relationship to the sanction
+previously established for an admission of the offence having regard to
+the impact of the conduct of the hearing on the factors that legitimately
+affect the sanctioning process. In noting this, we are not deferring to the
+
+3
+4
+
+C.A.M Decision (D.A.B.), Case #684; June 3, 2014
+Ibid, paragraph 56
+
+16
+decisions at the decanal level, but holding the University to a consistent
+position in its dealings with the Student and in its assessment of the
+nature ofthe offence he committed. (emphasis added). 5
+
+77.
+
+In this case, we have the benefit of not one, but two Dean's Designates addressing the
+same or similar matrix of facts and imposing sanctions at the Decanal level.
+
+78.
+
+With this in mind, the Panel must still consider the ~ factors in determining sanction
+with the understanding that the Student's failure to participate in the process may warrant
+an augmented or escalated penalty from what might have been imposed had the Student
+participated at the Decanal level, if available.
+
+79.
+
+The Panel applies the ~
+(a)
+
+factors to this case as follows:
+
+character of the person charged
+
+We agree that, after the notable efforts by the Professor, Dean's office and Provost
+to contact the Student to review the matter, the Student's failure to respond tends
+to demonstrate a lack of acknowledgment and responsibility.
+(b)
+
+likelihood ofrepetition of the offence
+
+The University agreed that the offences herein were to be treated together as a
+"first offence" even though they were discrete instances. We agree with this as the
+Student did not have a warning/sanction conveyed to him (albeit because he did
+not respond to Dr. Harrington's first email) before Assignment #2. This is how
+Professor Irwin considered Mr. [L]'s case as well.
+Given that the offence consists of the conduct set out at paragraph 72 above, the
+Panel is not convinced that the Student will commit the same conduct once
+aprised of this decision. However, it is again noted that the Student, in failing to
+respond to Dr. Harrington's first email regarding Assignment # 1 has demonstrated
+a lack of responsibility which could well lead to his ignoring of what he might
+
+5
+
+Ibid, at paragraph 57.
+
+17
+view to be technicalities. It is noted that Mr. [L], the other student involved in
+Assignment #1, likewise, had not spoken to Dr. Harrington after Assignment #1
+when sanctioned.
+
+(c)
+
+the nature of the offence committed
+The misconduct in this case, as outlined above, is not akin to plagiarism.
+For Assignment #1, collaboration in groups of two was permitted in the Course
+and there is no evidence that the Student did not do the work. Accordingly, the
+misconduct was a failure to register as a group and is not as serious as other
+misconduct.
+For Assignment #2, the group of three (3) students, including the Student ought to
+have discarded all work that the group had created and started again. However,
+there is no tested evidence that the Student did not do the work on the parts of the
+assignment that he did hand in and, therefore, the act of plagiarism was not
+proven.
+
+All three (3) students committed this same misconduct in failing to
+
+discard the previous code.
+(d)
+
+any extenuating circumstances surrounding the commission of the offence
+The Panel has no evidence relating to this factor to consider.
+
+(e)
+
+the detriment to the University occasioned by the offence
+see (c) above
+
+(f)
+
+the need to deter others from committing a similar offence
+It is trite to find that there is a need to deter others from committing similar
+offences, or any offences, for that matter. In sanctioning this Student, the Panel
+must be mindful that there is a spectrum of available sanctions between those
+
+18
+given to Mr. [L] and Mr. [Y] at the Decanal level and the two (2) year suspension
+that the University recommends.
+80.
+
+The University tendered the [R] decision6 in support of its recommended two (2) year
+suspension. hi [R], the student did not attend at the hearing. Mr. [R] was found guilty of
+obtaining unauthorized assistance from Mr. [I] by communicating with him or copying
+from his paper during a midterm test.
+
+Mr. [I] attended a meeting with the Dean's
+
+Designate and admitted guilt and was sanctioned with a final grade of 40% in the course
+and a notation on his transcript for 12 months.
+
+In contrast, the Tribunal imposed a
+
+sanction on Mr. [R] of a zero in the course, a two (2) year and five (5) month suspension
+and a notation for four (4) years.
+81.
+
+It is notable in [R] that the University sought a two (2) year six (6) month suspension
+which the Tribunal found justification to reduce by one month to enable the student to reenroll an academic tenn earlier, if the student wished to do so, displaying some
+compassion to [R] even though he did not attend the hearing.
+
+82.
+
+It is also noted that in the case of [R], R had a prior offence whereas the Student does not.
+
+83.
+
+The University rightly acknowledged that the Panel is not fettered in its discretion by any
+minimum sanction in these circumstances.
+
+84.
+
+We are of the view that the misconduct in [R] is distinguishable in that collaboration in
+groups of two was, at least, permitted by the Course, whereas copying or communicating
+during a midterm test was clearly not permitted in [R].
+
+85.
+
+After the above consideration of the ~ factors and the University's submissions, the
+Panel imposes the following sanction:
+(a)
+
+6
+
+a zero in the Course;
+
+Case #708; June 6, 2014
+
+19
+(b)
+
+a six (6) month suspension from the University commencing the date of the
+Order; and
+
+(c)
+
+a two (2) year notation of the sanction on the Student's academic record and
+transcript.
+
+86.
+
+This sanction is "rationally connected" 7 to the penalty given to the other two students at
+the Decanal level, with an augmentation arising from the Student's failure to engage in
+the disciplinary process.
+
+87.
+
+The Panel signed an Order to this effect at the conclusion of the hearing.
+
+88.
+
+The Tribunal is to report this decision to the Provost for publication of a notice of the
+decision of the Tribunal and of the sanctions imposed in the University's newspapers,
+with the name of the Student withheld.
+
+Dated at Toronto, this
+
+7
+
+day of March, 2015
+
+See C.A.M (Case #684; June 3, 2014), atparagraph65 (D.A.B.)
+
+

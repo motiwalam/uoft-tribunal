@@ -1,0 +1,616 @@
+Case No.: 952
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty filed on November 13, 2017
+AND IN THE MATTER OF the University of Toronto Code ofBehaviour on Academic Matters,
+1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+and
+
+REASONS FOR DECISION
+Hearing Date: April 4, 2018
+Members of the Panel:
+Mr. Paul Michell, Chair
+Professor Bruno Magliocchetti, Faculty Panel Member
+Mr. David Kleinman, Student Panel Member
+Appearances:
+Ms. Lily I. Harmer, Assistant Discipline Counsel for the University, Paliare Roland Barristers
+
+In Attendance:
+Ms. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+Ms. Nisha Panchal, Student Conduct & Academic Integrity Officer, Office of the Dean & Vice
+Principal Academic, University of Toronto Scarborough
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Not In Attendance:
+Ms.
+Student
+
+YIIIIII Jt,
+
+2
+
+A.
+
+Charges
+
+1.
+
+On April 4, 2018, this panel of the University Tribunal held a hearing to consider the
+
+charges brought by the University of Toronto against
+
+YIIIIII XI (the "Student") under the Code
+
+of Behaviour on Academic Matters, 1995.
+
+2.
+
+Those charges were detailed in a letter to the Student dated November 13, 2017, as
+
+follows:
+
+3.
+
+1.
+
+On or about April 4, 2015, you did knowingly forge or in any other way alter or
+falsify an academic record, and/or did utter, circulate or make use of such forged,
+altered or falsified record, whether the record be in print or electronic form,
+namely an official transcript from Simon Fraser University submitted with an
+application for admission to the University, contrary to section B.I.3(a) of the
+Code.
+
+2.
+
+In the alternative to paragraph 1, on or about April 4, 2015, you did knowingly
+engage in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code, in order to obtain
+academic credit or other academic advantage of any kind, by submitting an
+Official Transcript from Simon Fraser University submitted with an application
+for admission to the University which was forged, altered or falsified, contrary
+to section B.1.3(b) of the Code .
+
+3.
+
+On or about September 30, 2015, you did knowingly forge or in any other way
+alter or falsify an academic record, and/or did utter, circulate or make use of such
+forged , altered or falsified record, whether the record be in print or electronic
+form, namely an official transcript from Simon Fraser University submitted to
+the University with a request for a transfer credit assessment, contrary to section
+B.I.3(a) of the Code.
+
+4.
+
+In the alternative to paragraph 3, on or about September 30, 2015, you did
+knowingly engage in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code, in order to obtain
+academic credit or other academic advantage of any kind, by submitting an
+official transcript from Simon Fraser University with a request for a transfer
+credit assessment by the University which was forged, altered or falsified,
+contrary to section B.l.3(b) of the Code.
+
+The Student is an undergraduate at the University of Toronto Scarborough ("UTSC").
+
+3
+4.
+
+The Student did not attend the hearing. She was not represented by counsel. The Tribunal
+
+called the hearing to order at the scheduled 5 :45 p.m. start time. As the Student was not present,
+we waited for 15 minutes. The Student did not appear by 6:00 p.m. or afterward.
+
+B.
+
+Notice and Hearing in the Student's Absence
+
+5.
+
+At that point, the Provost asked the Tribunal to find that the Student had been provided
+
+with proper notice of the hearing, and that the hearing should proceed in the Student's absence.
+
+6.
+
+The Provost led evidence that the University sent a notice of hearing dated February 16,
+
+2018, and charges dated November 13, 2017 to the University email account provided by the
+Student and registered in ROSI (the "Account"). The charges were also sent by courier to the
+Student's postal address registered in ROSI. We discuss that evidence in more detail below.
+
+7.
+
+After the University became concerned in September 2016 that the Student may have
+
+committed academic offences (due to events described in the Liability section below), Ms. Nisha
+Panchal (Student Conduct & Academic Integrity Officer, Office of the Dean & Vice Principal
+Academic, UTSC) sent an email on September 27, 2016 to the Account, attaching a letter from
+Professor Eleanor Irwin, Dean's Designate, and an Information Sheet.
+
+8.
+
+The letter advised the Student of possible academic offences, and asked her to arrange a
+
+meeting with Academic Integrity. The Student did not schedule a meeting.
+
+9.
+
+Ms. Panchal followed up on October 31, 2006 by an email to the Account, advising that
+
+if the Student did not set up a meeting with Academic Integrity within one week, her file would
+be sent to the Vice Provost for consideration. The Student did not attend a Dean's meeting. On
+November 15, 2016, Ms. Panchal emailed a letter to the Account from Professor Douglas A.
+
+4
+
+Bors, advising the Student that her file was being sent to the Vice-Provost with the request that
+she lay charges against the Student.
+10.
+
+The University's Policy on Official Correspondence with Students requires students
+
+enrolled at the University to maintain a current and valid postal address and an address for a
+University-issued email account in their ROSI records, to update their records when this
+information changes, and to monitor and retrieve their mail and email on a frequent and
+consistent basis.
+11.
+
+When the University sent the charges and related material to the Account on November
+
+13, 2017, it received no bounceback to the email. However, a courier package with the same
+contents sent to the Student's address was returned: the concierge at the apartment building
+advised that it was an "incorrect address." When the University sent a follow up email to the
+Student (both at her Account, and at another email account), it received no bouncebacks and no
+response. A subsequent email in February 2018 proposing hearing dates met the same fate.
+12.
+
+The University sent the notice of hearing to the Student on February 16, 2018 at her
+
+Account. In March, it also sent copies of the affidavits of Ms. Panchal and Ms. Onorati (whose
+evidence we discuss below) to her Account. Again, no bouncebacks were received.
+13.
+
+The University made additional efforts, through telephone number searches, phone calls,
+
+and social media searches and messaging, to contact the Student. It received no response.
+14.
+
+The Provost led evidence that the Student last accessed the Account on July 18, 2017.
+
+15.
+
+The Student has not responded to any of these efforts to contact her, nor contacted
+
+counsel for the Provost.
+
+5
+16.
+
+In light of this evidence, the Tribunal found that the University had provided the Student
+
+with reasonable notice of the hearing and the charges made against her in accordance with rules
+9, 13 and 14 of the Tribunal's Rules of Practice and Procedure and section 6 of the Statutory
+Powers Procedure Act. The Tribunal ordered that the hearing should proceed in the Student's
+
+absence, as rule 17 of the Rules and section 7 of the Act provide.
+
+17.
+
+The panel is in no position to determine whether the Student had actual notice of the
+
+hearing or the charges against her: the evidence that she has not accessed her Account since July
+2017 would suggest that she did not. But there is no need for us to do so: the University is
+entitled to rely on its Policy, discussed above, in communicating with students. Students who do
+not comply with the Policy by failing to provide accurate and up-to-date contact information, or
+to monitor and retrieve their mail and email on a frequent and consistent basis, run the risk that
+important steps may be taken in their absence. What the panel must decide is whether the
+University took reasonable steps to notify the Student of the charges against her and of the
+hearing. We are satisfied that it did, and that it complied with the Rules and the Act in doing so.
+Indeed, the University's efforts exceed what was required of it.
+
+C.
+
+Affidavit Evidence
+
+18.
+
+The Provost sought to enter two affidavits into evidence: an affidavit of Lynda Onorati
+
+affirmed February 27, 20 I 8, and an affidavit of Virginia Fletcher sworn April 4, 2018. On
+reviewing the affidavits, the Tribunal concluded that this was an appropriate case in which to
+admit evidence by way of affidavit, as rule 61 of the Rules permits. In the Student's absence, the
+affiants would not be subject to cross-examination. We did advise Ms. Harmer that if the panel
+had questions about the affidavit evidence that she was not in a position to address, that the
+affiants might need to attend the hearing, but this did not prove necessary.
+
+6
+
+19.
+
+The panel also notes that there was evidence that the Provost had provided a copy of Ms.
+
+Onorati's affidavit on which it sought to rely to the Student's Account several weeks before the
+hearing, and Ms. Fletcher's affidavit on the day of the hearing (since it had only been sworn earlier
+that day), but had received no response from the Student.
+D.
+
+Liability
+
+20.
+
+In April 2015, the Student applied for admission to the University as a transfer
+
+undergraduate student. In support of her application, the Student submitted what purported to be
+an official transcript of her academic record from Simon Fraser University ("SFU") in British
+Columbia.
+21.
+
+In June 2015, in reliance on her application and the SFU transcript, the Student was
+
+admitted to the University. She began classes in September 2015.
+22.
+
+In late September 2015, the Student sought to transfer credits through a request for
+
+transfer credit assessment for all of the courses reflected in her SFU transcript. The Student's
+request relied on the same SFU transcript she had submitted in support of her application for
+admission to the University.
+23.
+
+In October 2015, on the basis of the SFU transcript, the University granted 9.5 academic
+
+credits to the Student. This represented almost all of the courses on the SFU transcript.
+24.
+
+In Fall 2015, the Student registered for two courses at UTSC, but failed both. In Winter
+
+2016, she registered for three courses, failing two and passing one with a weak ("D") grade.
+
+7
+25.
+
+In Fall 2016, the Student registered for classes, but as we note below, withdrew from
+
+them in October 2016. By the end of Winter 2016, she had earned only 0.50 credits at UTSC for
+the single course she had passed, with a cumulative GP A of 0.20.
+
+26.
+
+In September 2016, Neil Neebar, Associate Registrar at University of Toronto
+
+Mississauga, contacted Ms. Onorati regarding the authenticity of a transcript that appeared to be
+from SFU and had been submitted by a UTM student.
+
+27.
+
+This led Ms. Onorati to contact SFU about six transfer students from SFU, including the
+
+Student. Ms. Onorati contacted Rella Ng, Associate Registrar at SFU, and asked her to check the
+authenticity of the SFU transcripts for the six transfer students, which Ms. Onorati emailed to
+Ms. Ng after their telephone call.
+
+28.
+
+Several days later, Ms. Ng responded by email, advising that none of the six transcripts
+
+(including the Student's) had been issued by SFU. She pointed out various discrepancies in each
+of the six transcripts. In the case of the Student's transcript, Ms. Ng noted that:
+•
+
+the student number on the Student's transcript was identical to that on the transcript
+of one of the other students
+
+•
+
+the Student's transcript was signed by someone who was no longer at SFU as of
+the date of the transcript
+
+•
+
+the signature line on the transcript did not identify the signor's name and position,
+while legitimate SFU transcripts contain this information.
+
+29.
+
+Ms. Ng also confirmed that the Student had never enrolled at SFU.
+
+30.
+
+There were other grounds for concern. A comparison between the transcript submitted by
+
+the Student and the transcripts submitted by the other five students that Ms. Onorati had
+
+8
+identified show substantial similarities between the Student's transcript and those of two of the
+five other students, S.W. and Z.Z. (We discuss Z.Z. briefly in the Sanction section of our reasons
+below). For the first four semesters, each of these students' transcripts showed the same course
+codes, description, and grades. The only differences in the first four semesters were the semester
+date headings, which were slightly different because each student was shown has having taken
+these courses in different years and semesters (the Student was recorded as starting the four
+semesters in 2013 Fall; S.W. in 2012 Fall; and Z.Z. in 2012 Winter).
+
+31.
+
+Ms. Ng's email led Ms. Onorati to examine the Student's history in more detail. She
+
+learned that the Student had previously applied for admission to the University in 2014 as an
+Ontario high school student, but had been refused admission. Ms. Onorati reviewed the academic
+history that the Student had provided in support of her 2014 and 2015 applications to the
+University. That history showed that the Student had attended four academic institutions (SFU,
+plus three different Ontario high schools) in Fall 2013.
+
+32.
+
+The Tribunal deliberated to consider this evidence. Our conclusion was that the evidence
+
+was overwhelming that the SFU transcript was a forgery. The evidence from Ms. Ng is itself
+conclusive. The substantial and implausible overlaps in courses and grades with two other
+students over four semesters are strong additional evidence. Ms. Onorati's evidence about the
+Student's supposed attendance at multiple institutions at the same time is suspicious, but given
+the other evidence it was unnecessary for us to rely on that evidence in making our finding.
+
+33.
+
+In our view, the inevitable conclusion from the evidence before us was that the Student
+
+either knowingly forged the SFU transcript herself, or more likely in light of evidence of the
+similarities between her transcript and that of two other students, obtained the assistance of one
+
+9
+or more third parties in forging it. In either case, she then knowingly submitted it to the
+University to seek admission, and later, to obtain transfer credits from the University. It does not
+matter whether she was the forger, given the language of the charges and the Code. Knowingly
+uttering, circulating or making use of a forged or falsified transcript is treated as severely as
+knowingly forging or falsifying a transcript. We are satisfied that the Student knowingly
+submitted a forged transcript in support of her application for admission to the University, and
+relied on it in seeking transfer credits from the University after she had been admitted. We found
+the Student guilty on the first and third charges.
+
+34.
+
+In light of our findings on the first and third charges, the Provost withdrew the second
+
+and fourth charges.
+
+E.
+
+Sanction
+
+35.
+
+The Provost sought an order imposing the following sanctions on the Student:
+(a)
+
+she be suspended from the University for up to five years, commencing April 4,
+2018;
+
+(b)
+
+the Tribunal recommend to the President of the University that she recommend to
+the Governing Council that the Student be expelled from the University;
+
+(c)
+
+the 9 .5 transfer credits assessed and granted as if earned by the Student from Simon
+Fraser University be cancelled and removed from the Student's academic record;
+
+(d)
+
+a permanent notation be placed on the Student's academic record and transcript;
+and
+
+(e)
+
+the decision be reported to the Provost, for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the Student's name withheld.
+
+10
+36.
+
+Counsel for the Provost submitted a book of authorities, and referred to several cases in
+
+argument. We refer to several of those cases below.
+
+37.
+
+After deliberation, we accepted the Provost's submissions on penalty, and signed the
+
+Provost's draft order. These are the panel's reasons for that decision.
+
+38.
+
+One sanction sought by the Provost concerned the cancellation of academic credits that
+
+the Student had been granted on the basis of the forged transcript. The panel was satisfied on the
+evidence that this was an appropriate remedy in the circumstances, and that it was open to us to
+order that relief under section C.ii(b)(i)(ii) of the Code. We raised the issue of whether it would
+be open to the panel to revoke the Student's admission to the University on the basis that it had
+been granted in reliance on a forged transcript. However, Ms. Harmer indicated that the Provost
+did not seek this sanction here, and that the Provost did not seek the cancelation of the academic
+credits that had been granted to the Student for the one course that she had passed at the
+University after her admission. So that issue, which does not appear to us to be squarely
+addressed by the Code, will wait for another day.
+
+39.
+
+In imposing a penalty for forgery or falsification of an academic record, we have
+
+considered several principles, which I recently outlined in JZ. [Case No. 928; June 5, 2017] at
+paras. 18-21:
+•
+
+Forgery or falsification of academic records is among the most serious academic
+offences
+
+•
+
+Forgery may be difficult to detect, so that deterrence is a significant consideration
+
+•
+
+By its nature, forgery is only rarely the product of negligence or inadvertence. More
+commonly, it is the product of planning and knowing participation.
+
+11
+40.
+
+These principles lead to the conclusion, which has been repeatedly voiced in recent
+
+decisions, that the usual sanction for forgery or falsification of academic transcripts is a
+recommendation of expulsion: A.B. [Case No. 917; June 13, 2017] at para. 18; JF. [Case No.
+915; May 29, 2017] at para. 14; JZ., at para. 22.
+
+41.
+
+That conclusion does not depend upon whether the forged transcript purports to be a
+
+University document or, to use the language in JZ. at para. 23, an "incoming" transcript from
+another academic institution that a student submits in support of an application for admission,
+transfer, academic credit, or another academic purpose. A student who obtained admission to the
+University on the basis of a forged transcript does so on false pretences. Not only does such
+conduct harm the University; it also harms a legitimate applicant whose spot the cheating student
+took: MM. [Case No. 496; April 30, 2009] at para. 13.
+
+42.
+
+As we observed above, the Student did not attend the hearing. Indeed, the evidence is that
+
+she has failed to play any role in (or respond to) the discipline process. There was thus no
+evidence before us of any possible explanation or mitigating circumstances that might exist.
+There was no evidence before us as to whether the Student had any prior record of academic
+offences, and so we proceeded on the assumption that these were the Student's first offences.
+
+43.
+
+Ms. Harmer advised us that the Provost had also instituted proceedings against Z.Z., one
+
+of the other students referred to above who had been granted admission to the University on the
+basis of what the University later came to believe was a forged SFU transcript. Another panel of
+the Tribunal heard the charges against Z.Z. [Case No. 958; April 17, 2018] on March 21, 2018,
+found him guilty of one count of forgery, and recommended that the President of the University
+
+12
+recommend to the Governing Council that Z.Z. be expelled. As of the date of the Student's
+hearing before us, the panel that heard Z.Z.'s case had not yet released its reasons for decision.
+44.
+
+We considered the panel's order in Z.Z. and believe that the sanctions ordered here are
+
+consistent with it. After the hearing in this case, Z.Z. panel released reasons for decision on April
+17, 2018, which we have reviewed and consider persuasive.
+45.
+
+Ultimately, there is nothing here to dissuade us from imposing the usual sanctions for
+
+these serious offences.
+46.
+
+For these reasons, the Tribunal accepted the Provost's submissions on sanction, and
+
+signed an order at the hearing imposing the following sanctions on the Student:
+(a)
+
+she be suspended from the University for up to five years, commencing April 4,
+2018;
+
+(b)
+
+the Tribunal recommends to the President of the University that he recommend to
+the Governing Council that the Student be expelled from the University;
+
+(c)
+
+the 9 .5 transfer credits assessed and granted as if earned by the Student from Simon
+Fraser University in the following courses be cancelled and removed from the
+Student's academic record:
+(i)
+
+MATA30H3 (Calculus for Biological and Physical Sciences);
+
+(ii)
+
+MGEB31 H3 (Public Decision Making);
+
+(iii)
+
+STAB22H3 (Statistics I);
+
+(iv)
+
+EESA (Geohazards);
+
+(v)
+
+ENGA (Intro to Fiction);
+
+13
+
+(vi)
+
+ENGB (Medieval Literature;
+
+(vii)
+
+HISA (Canada Since Confederation);
+
+(viii)
+
+HUMA (Academic Writing);
+
+(ix)
+
+HUMA (Intro to Humanities);
+
+(x)
+
+MDSA (Systems of Media);
+
+(xi)
+
+MGEA (Intro to Microeconomics);
+
+(xii)
+
+MGEA (Intro to Macroeconomics);
+
+(xiii)
+
+MGEB (Economic Thought);
+
+(xiv)
+
+MGEB (Labour Economics)
+
+(xv)
+
+MGEB (Pre-Industrial Period);
+
+(xvi)
+
+MGEB (Money and Banking);
+
+(xvii) MGEB (Environmental Economics);
+(xviii) PHLA (Critical Thinking); and
+(xix)
+(d)
+
+PSYB (Research Methods);
+
+a permanent notation be placed on the Student's academic record and transcript;
+and
+
+(e)
+
+the decision be reported to the Provost, for publication of a notice of the decision
+of the Tribunal and the sanctions imposed, with the Student's name withheld.
+
+Dated at Toronto, this 19th day of April, 2018.
+
+&1z;.
+Paul Michell, Chm~
+
+

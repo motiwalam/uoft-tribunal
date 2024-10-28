@@ -1,0 +1,608 @@
+Case No.: 1262
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+IN THE MATTER OF charges of academic dishonesty filed on September 20, 2021
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+and
+G
+
+L
+
+REASONS FOR DECISION
+Hearing Date: January 11, 2022, via Zoom
+Members of the Panel:
+Ms. Alexandra Clark, Chair
+Professor Richard Day, Faculty Panel Member
+Ms. Alena Zelinka, Student Panel Member
+Appearances:
+Mr. Robert Centa, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Ms. G
+L
+
+2
+A.
+
+Charges
+
+1.
+
+On January 11, 2022, this panel of the University Tribunal held a hearing to consider the
+
+charges brought by the University of Toronto (the “University”) against G
+
+L
+
+(the
+
+“Student”) under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+2.
+
+Those charges were set out in a letter to the Student dated September 20, 2021, as
+
+follows:
+
+3.
+
+1.
+
+On or about June 8, 2020, you knowingly used or possessed an unauthorized aid or
+obtained unauthorized assistance during assignment #8 in MAT135H1F (20205) (the
+“Course”), contrary to section B.I.1(b) of the Code.
+
+2.
+
+On or about June 8, 2020, you knowingly represented as your own an idea or
+expression of an idea, and/or the work of another in assignment #8 in the Course
+contrary to section B.I.1(d) of the Code.
+
+3.
+
+In the alternative to each of the above charges, on or about June 8, 2020, you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code in order to obtain academic
+credit or other academic advantage of any kind in connection with in assignment #8
+in the Course, contrary to section B.I.3(b) of the Code.
+
+The conduct in question occurred in a course in the Faculty of Arts and Science at the
+
+University of Toronto.
+4.
+
+The Student did not attend the hearing. She was not represented by counsel. The
+
+Tribunal called the hearing to order at the scheduled 5:15 p.m. start time. As the Student was not
+present, we waited for 30 minutes. The Student did not appear by 5:45 p.m. when we began the
+hearing, nor did she join at any time before the hearing concluded over two hours later.
+B.
+
+Notice and Hearing in the Student’s Absence
+
+5.
+
+At the outset of the hearing, Assistant Discipline Counsel asked the Tribunal to find that
+
+the Student had been provided with proper notice of the hearing, and that the hearing should
+proceed in the Student’s absence.
+
+3
+6.
+
+The Provost led evidence that there had been an initial hearing in this matter on
+
+December 9, 2021 before a differently constituted panel (the “Initial Hearing”). That panel
+expressly found that the Student had been properly served with notice of the Initial Hearing, but
+decided to grant a short adjournment in order to give her one final chance to address the
+allegations. The panel’s endorsement reads:
+[1] Provost’s counsel has properly served the Student with materials. The Student has
+received proper notice of today’s proceedings, but has not appeared. There is perhaps a
+record justifying proceeding in the Student’s absence.
+[2] It is disappointing that the Student has not attended despite receiving notice. It is in
+the Student’s interest to engage in this process. Her non-attendance is disrespectful to the
+Tribunal and all of the people who work hard to ensure a fair process for the Student.
+[3] However, the Panel is uncomfortable proceeding in the Student’s absence given that
+we know virtually nothing about her personal circumstances. That, combined, with the
+Student’s limited engagement with Mr. Centa on December 6, 2021, gives the Panel
+sufficient pause about proceeding in the Student’s absence.
+[4] Provost’s counsel, in the finest traditions of that office, has agreed that there should
+be an adjournment to give the Student a final opportunity to respond to these allegations
+or attempt to resolve this matter.
+[5] Accordingly, the Panel grants a short adjournment, with a date to be set on the earliest
+date available to the parties.
+[6] Additionally, the Panel directs Provost’s counsel to communicate the following to the
+Student:
+a)
+
+That although an adjournment was granted today, this will likely be the
+Student’s final chance to respond to these allegations. If the student fails
+to attend at the next hearing date without reasonable excuse, the matter is
+likely to proceed in her absence;
+
+b)
+
+That the Student be given contact information for potential pro bono
+counsel, including contact information for Downtown Legal Services;
+
+c)
+
+That the Student be asked if there are any dates in 2022 when she is not
+available, but she should also be advised that if she does not respond with
+her unavailable dates within 7 days, a date for the hearing will be selected
+without regard to her schedule.
+
+[7] The matter is adjourned. This Panel is not seized of this matter.
+
+4
+7.
+
+In compliance with these directions, on December 10, 2021, Ms. Krista Kennedy, a
+
+Hearing Secretary with the Tribunal, sent the Student a copy of the panel’s direction set out
+above together with an information brochure concerning pro bono legal assistance. This
+information was sent to the University email account provided by the Student and registered in
+the University of Toronto Repository of Student Information (the “ROSI Account”).
+8.
+
+On the same date Mr. Centa, the Assistant Discipline Counsel with carriage of this matter
+
+on behalf of the Provost, sent an email to the Student at the ROSI Account. His message
+informed her of the outcome of the hearing on December 9 and asked for her availability in the
+months of January and February for a further hearing date. The message also asked the Student
+to contact him at the earliest opportunity to discuss the contents of his message and next steps.
+9.
+
+The Provost also led evidence that, in response to this message and beginning on
+
+December 13, 2021, there were exchanges between the Student and Mr. Centa. Mr. Centa
+summarized these exchanges in a message sent to the Student on January 3, 2022:
+You responded to me on December 13, 2021. I responded immediately and asked you to call me.
+You responded and said that you were at work. You asked if I was available after 5. I responded
+immediately saying that I was available any time between 5:00 and 11:00 pm. I invited you to call
+me on my mobile or said that I could send you a Zoom link. You responded saying that you were
+not in the country and could not call me on my mobile. You stated that you were free at 4:00 pm
+Toronto time. I sent you a Zoom link for 4:00 Toronto time. You did not join the Zoom call.
+I wrote to you at 7:00 pm on December 13. I asked you to commit to a time that you will be
+available. You did not respond to this message. I wrote to you again on December 15 and 22,
+2021. You did not respond to these messages.
+
+10.
+
+The University’s Policy on Official Correspondence with Students requires students
+
+enrolled at the University to maintain a current and valid postal address and an address for a
+University-issued email account, to update their records when this information changes, and to
+monitor and retrieve their mail and email on a frequent and consistent basis.
+
+5
+11.
+
+The Provost led evidence demonstrating that the Student had been provided with notice
+
+of and a copy of all of the required documents relating to the Initial Hearing via the ROSI
+Account, and that she had responded to Mr. Centa using the ROSI Account on December 6,
+2021. The notice for the Initial Hearing contained information concerning the time, place and
+purpose of the Initial Hearing together with an explanation that if she chose not to appear, the
+Initial Hearing could nevertheless proceed to deal with the charges against her.
+12.
+
+In addition, as described in paragraphs 7 through 9 above, the Student responded to the
+
+more recent emails sent to her on December 10, 2021 via the ROSI Account. These
+communications from the Hearing Secretary and from Assistant Discipline Counsel contained
+the required information concerning the revised hearing date and time, and repeated the warning
+concerning the consequences of non-attendance at the hearing.
+13.
+
+In light of this evidence, it is reasonable to conclude that the Student is fully aware of
+
+timing, subject matter of and evidence to be tendered against her in these proceedings, together
+with the consequences of non-attendance at the hearing. She appears to have chosen, for
+whatever reason, not to further participate in the proceedings.
+14.
+
+The panel therefore found that the University had provided the Student with reasonable
+
+notice of the hearing and of the charges made against her in accordance with rules 9, 13 and 14
+of the Tribunal’s Rules of Practice and Procedure (the “Rules”) and section 6 of the Statutory
+Powers Procedure Act (the “SPPA”). We ordered that the hearing should proceed in the
+Student’s absence, as permitted by rule 17 of the Rules and section 7 of the SPPA.
+
+6
+C.
+
+Affidavit Evidence
+
+15.
+
+The Provost sought to enter two affidavits into evidence dealing with the substance of the
+
+charges against the Student: an affidavit of Payman Eskandari, affirmed November 4, 2021 (the
+“Eskandari Affidavit”), and an affidavit of Obianuju Umenyi, affirmed December 1, 2021 (the
+“Umenyi Affidavit”). On reviewing these two affidavits, the panel concluded that this was an
+appropriate case in which to admit evidence by way of affidavit, as permitted by rule 61 of the
+Rules. In the Student’s absence, the affiants were not subjected to cross-examination.
+16.
+
+The panel reviewed evidence showing that the Provost had provided the Student with a
+
+copy of the Eskandari Affidavit on November 15, 2021, and a copy of the Umenyi Affidavit on
+December 1, 2021.
+D.
+
+Liability
+
+17.
+
+In the summer term of 2020, Payman Eskandari and Ali Cheragi (together, the
+
+“Instructors”) co-taught a Calculus course in the Department of Mathematics, MAT135H1F (the
+“Course”). The Student was enrolled in this course, as was another student, JC (“Mr. C”).
+18.
+
+The Course required students to complete 10 assignments, and the two lowest marks were
+
+to be discarded with the remaining 8 assignments each being weighted at 12.5% of the final
+grade. All students in the course were required to submit their assignments electronically using
+the Crowdmark platform, and all assignments were to be completed and submitted without
+supervision due to the COVID-19 pandemic.
+19.
+
+Assignment 8 in the Course was provided to the students on June 1, 2020, and was to be
+
+returned by June 8, 2020 (the “Assignment”). On June 4, 2020, the Instructors provided a
+
+7
+specific reminder to the students enrolled in the Course of the requirement to complete the
+Assignment independently and without external assistance. The reminder read:
+It has been brought to our attention that there might have been cases of academic misconduct on
+our assignments. Note that our assignments are open book; this means you are allowed to use the
+official course material (i.e. your own lecture and tutorial notes, notes posted by instructors and
+TAs, and the textbook) while you work on the assignments. Also the use of a basic calculator is
+allowed. Unless otherwise indicated, other than those aids listed above, no aid (online or offline)
+is allowed.
+While, in principle, you may study together (which is difficult to do during this time) and discuss
+the course contents (i.e. the topics/theory/techniques/tools you learn in the course), assignments
+must be done independently. In particular, sharing solutions (in part or full) or ideas of solutions
+with each other in any way is not allowed. Needless to say, posting/finding solutions (in full or
+part) in social media groups (e.g. Facebook, Whatsapp, etc.) is not allowed. The solutions you
+submit for your assignments must be the result of your work only and no one else's. This is to
+assure fairness, so that students who work hard are not at a disadvantage.
+If we become aware of academic misconduct, we will have no choice but to report those
+involved/responsible (including those who facilitate cheating for others) to the University.
+Consequences for violation of the Code of Behaviour on Academic Matters are very serious. On
+the low end, possible sanctions can be things like 0 on the assignment, 0 on the course, and
+notation on student's academic record for a certain period of time. On the more severe end, they
+can result in student's expulsion from the University.
+Since each of our assignments is worth more than 10% of the final course grade, the cases will
+likely go to at least the level of the Dean of the Faculty of Arts and Science. Please don't put us in
+a situation that we feel obliged to start a procedure that is unpleasant for everyone involved (and
+may result in serious consequences for the student). If it is not clear to you what may constitute
+academic misconduct in the course, before you commit it, ask the instructors. Saying "I didn't
+know that was a violation" is not a legitimate excuse.
+
+20.
+
+Both the Student and Mr. C submitted their answers to the Assignment on June 8, 2020.
+
+The Instructors noted that their answers to Question 5 of the Assignment were “virtually
+identical”. Specifically, as set out in the Eskandari Affidavit:
+Both students used the same words and mathematical expressions in their answers; the only
+difference is that [the Student] used the word “that”, whereas [Mr. C] appears to have used the
+word “test”. While questions in introductory mathematics courses often have standard solutions,
+it is extremely unlikely that the presentation of any two solutions (i.e. the words and
+mathematical expressions) would be almost identical in general and for Question 5 in particular.
+No other student submitted an answer to Question 5 that had the same degree of similarity as
+between [the Student]’s and [Mr. C]’s answers. Given the number and degree of similarities
+between the two answers, it was highly unlikely that these similarities were coincidental.
+
+8
+21.
+
+The Eskandari Affidavit attaches copies of both the Student’s and Mr. C’s answers to
+
+Question 5 of the Assignment. These copies bear out the similarity of these two answers as
+described above. In particular, it is notable that both answers contain an explanatory sentence as
+well as mathematical notations and a small graph. The sentence reads “by horizontal find that
+the function graph is one-to-one so f is invertible on its domain”. We agree with Mr. Eskandari’s
+observation that, in Mr. C’s handwriting, it is unclear whether the word that he has written is
+“that” or “test”.
+22.
+
+Mr. Eskandari goes on to state that he met with the Student via Zoom on July 3, 2020 to
+
+discuss his concern that she had committed academic misconduct in providing her answers to the
+Assignment. The contents of this meeting were, quite properly, not placed in evidence before us.
+23.
+
+The Provost also provided the evidence of Obianuju Umenyi, an Academic Integrity
+
+Specialist with the Office of Student Academic Integrity in the Faculty of Arts and Science. In
+her affidavit, Ms. Umenyi explains that she had been assigned to investigate allegations that a
+number of students had committed academic offences in providing their answers to the
+Assignment, including both the Student and Mr. C.
+24.
+
+On March 2, 2021 there was a Zoom meeting, attended by Ms. Umenyi, between Mr. C
+
+and Professor Nicholas Rule, the Dean’s Designate. In that meeting, Mr. C admitted that he had
+viewed the answer to Question 5 of the Assignment on a website called Chegg.com, and that he
+had paid for a Chegg.com account to access the answer. Mr. C also acknowledged that he had
+collaborated with another student in the Course in preparing his answers to the Assignment but
+claimed not to remember the identity of the student that he had collaborated with.
+
+9
+25.
+
+The Umenyi Affidavit attaches digital images of the answers that Mr. C provided to the
+
+Assignment. It also attaches information obtained from the administrators of the Chegg.com
+website, which show that a question identical to Question 5 of the Assignment had been posted
+to the website, and that a solution to that question had also been posted on the website (the
+“Chegg Solution”). Significantly, the answer that Mr. C provided to Question 5 of the
+Assignment was identical to the Chegg Solution, which included the phrase: “by horizontal find
+that the function graph is one-to-one so f is invertible on its domain”.
+26.
+
+Indeed, Mr. C’s answers appears to be a digital image of the Chegg Solution as printed on
+
+plain paper or viewed on a computer screen. This answer contrasted with Mr. C’s answers to the
+remaining questions of the Assignment, all of which were apparently written on graph paper in a
+spiral 3 hole notebook. Even without his admission to the Dean’s Designate, it seems clear that
+Mr. C copied his answer to Question 5 of the Assignment directly from the Chegg.com website.
+27.
+
+The Umenyi Affidavit goes on to explain that, in addition to the information provided
+
+above concerning Mr. C, the University requested that the website administrators for Chegg.com
+provide any evidence of the use of their website involving the Student’s name or the email
+address associated with the ROSI Account. No information was received from the website
+administrators in response to this request.
+28.
+
+Mr. Centa submitted that this response demonstrates only that the Student did not access
+
+the website using her own name or the ROSI Account, but it does not eliminate the possibility
+that she had accessed the Chegg Solution under another name or using a different email address.
+We agree that this is a reasonable conclusion that can be drawn from this evidence.
+
+10
+29.
+
+The panel deliberated to consider all of the evidence summarized above. We concluded
+
+that the Student had either copied her answer to Question 5 of the Assignment directly from the
+Chegg Solution, or she had obtained and copied her answer from Mr. C’s answer (which was, on
+his own admission, a copy of the Chegg Solution).
+30.
+
+In our view, the Provost has established on a balance of probabilities that the Student
+
+obtained unauthorized assistance with Question 5 of the Assignment, and also knowingly
+represented the work of another as her own work. We have reached these conclusions without
+receiving any evidence that definitively establishes whether the Student obtained her answer
+directly from the website or indirectly from Mr. C.
+31.
+
+On this issue, Assistant Discipline Counsel pointed to two decisions of this Tribunal,
+
+namely the case of the University of Toronto and S.K (Case 595, October 12, 2010) and the case
+of the University of Toronto and Ms. B (Case No. 2003/04-1, April 7, 2004). In his submission,
+these two cases demonstrate that the Provost is not required to definitively prove the method by
+which a student has committed the offences of unauthorized assistance or plagiarism, as long as
+the required elements of these offences are made out.
+32.
+
+We found the case of Ms. B particularly helpful on this point. In that case, the accused
+
+student was found to have used unauthorized assistance and to have committed plagiarism in an
+examination by using content copied word for word from a website. The evidence before the
+Tribunal in that case did not establish whether the content had been brought into the exam room
+through study notes, or whether the student had found a means of accessing the website directly
+during the exam. In considering this scenario, the Tribunal wrote:
+We are therefore left with the evidence of the website and the notes and the examination. The
+examination was copied from one or both of the other two. We don’t know how Ms. B. accessed
+
+11
+the website or the notes during the period of the test. We do know that she did so as there is no
+other explanation for how the material was reproduced. We find that the University has provided
+clear and convincing evidence that Ms. B. violated the Code. We find her guilty of the offences
+set out in B.I.1(b) and (d) of the Code.
+
+33.
+
+In this case, we found that the evidence of the message that the Instructors sent to all of
+
+the students in the Course on June 4, 2020, in which they made it clear that the students were to
+prepare their answers to the Assignment independently, significantly diminishes the likelihood
+that the Student’s actions in obtaining assistance with her answer to Question 5 and passing the
+answer that she obtained off as her own were inadvertent. Like the Tribunal in the case of Ms.
+B, this Panel is persuaded that the answer provided by the Student to Question 5 of the
+Assignment reflects both unauthorized assistance and plagiarism, and for that reason we entered
+a conviction on both Charge 1 and Charge 2.
+34.
+
+Before we leave the question of liability, we note that there is one piece of evidence that
+
+we determined that we should expressly exclude from our consideration of the Student’s guilt.
+Specifically, one of the exhibits to the Eskandari Affidavit contains a printout of an email
+exchange between the Student and Mr. Eskandari that took place beginning on June 15, 2020.
+35.
+
+In the initiating message of that exchange, Mr. Eskandari communicated to the Student
+
+that he believed that he had “strong evidence” that she had cheated in providing her responses to
+the Assignment, and asked her to meet with him to discuss the matter. Subsequent exchanges
+show attempts to schedule the requested meeting, concluding with Mr. Eskandari asking the
+Student whether she admitted having committed an academic offence in submitting her answer
+to Question 5 of the Assignment. In response to this question the Student appears to make
+certain admissions and provides certain potentially mitigating information.
+
+12
+36.
+
+In reviewing this exchange, we were concerned that its contents, and particularly the
+
+Student’s final response to Mr. Eskandari, might constitute a student’s statement made to an
+instructor in the course of an initial meeting to discuss a potential academic offence. Paragraph 2
+of section C.i.(a) of the Code expressly requires that:
+Where an instructor has reasonable grounds to believe that an academic offence has been
+committed by a student, the instructor shall so inform the student immediately after learning of
+the act or conduct complained of, giving reasons, and invite the student to discuss the matter.
+Nothing the student says in such a discussion may be used or receivable in evidence against the
+student.
+
+37.
+
+In considering this email exchange, we decided that it did contain a student’s statement
+
+within the meaning of this provision. Given the state of the COVID-19 pandemic at the time, the
+Assignment was administered online and students were likely not easily able to meet with the
+Instructors in person. Communications that might normally have occurred in face-to-face
+meetings were therefore shifted, in whole or in part, into other forms of online communication,
+including into email messages.
+38.
+
+In our view, this provision of the Code is intended to afford a zone of privacy to initial
+
+meetings between students and instructors where concerns are outlined by the instructor and the
+student provides an initial response to those concerns. This zone of privacy is, we believe,
+provided by the Code in order to encourage student candour as well as the early and informal
+resolution of academic integrity concerns. On the facts of this case, and in particular in light of
+Mr. Eskandari’s pointed question to the Student regarding whether she had committed an
+academic offence in providing her answer to Question 5 of the Assignment, we find that this
+email exchange formed part of the required initial dialogue, which later continued in the meeting
+held over Zoom on July 3, 2020.
+
+13
+39.
+
+For that reason, we have expressly excluded the contents of this email exchange from our
+
+consideration of the Student’s guilt. In our view, the Provost’s remaining evidence establishes,
+to the required standard of proof, that the Student is guilty of both Charge 1 and Charge 2.
+40.
+
+In light of our findings on the first and second charges, the Provost withdrew the third
+
+charge.
+E.
+
+Sanction
+
+41.
+
+The Provost sought an order imposing the following sanctions on the Student:
+(a)
+
+a final grade of zero in MAT135H1F (20205);
+
+(b)
+
+a suspension from the University for two years from the date of the order; and
+
+(c)
+
+a notation of the sanction on her academic record and transcript for three years
+from the date of the order.
+
+42.
+
+Assistant Discipline Counsel submitted a book of authorities, including a chart
+
+summarizing the sanctions imposed in the cases submitted. We found that these authorities
+provided a helpful summary of the range of sanctions that are normally imposed by the Tribunal
+in cases involving unauthorized assistance and plagiarism.
+43.
+
+We are conscious that the Tribunal, in determining the appropriate sanction in a given
+
+case, should generally consider the factors set out in the decision of the University of Toronto v.
+Mr. C. (Case No. 1976/77-3, November 5, 1976) , namely (a) the character of the person
+charged; (b) the likelihood of a repetition of the offence; (c) the nature of the offence committed;
+(d) any extenuating circumstances surrounding the commission of the offence; (e) the detriment
+to the University occasioned by the offence; and (f) the need to deter others from committing a
+similar offence.
+
+14
+44.
+
+As we discussed earlier in these reasons, however, the Student did not attend the hearing
+
+or seek to tender any evidence in the discipline process. There was thus no evidence before us of
+the Student’s character, any possible explanation for the offences or any mitigating
+circumstances that might exist. There was no evidence before us as to whether the Student had
+any prior record of academic offences, and so we proceeded on the assumption that these were
+the Student’s first offences.
+45.
+
+Cases such as the University of Toronto and G.Z (Case No. 1004, February 26, 2020),
+
+the University of Toronto and Y.Y (Case No. 851, March 1, 2017 (Sanction)) and the University
+of Toronto and Q.J. L (Case No. 914, February 18, 2018) show that for students with no prior
+offences, a conviction for unauthorized assistance and/or plagiarism invariably results in a mark
+of 0 in the affected course. The cases tendered by Assistant Discipline Counsel likewise show
+that a suspension of 2 to 3 years, and a notation for 3 to 4 years are generally imposed in addition
+to the mark of 0. We were therefore satisfied that the sanctions proposed by the Provost were
+proportional to those that have been awarded in similar cases.
+46.
+
+We were not provided with the details of the sanctions that Mr. C received for these same
+
+offences. Assistant Discipline Counsel submitted that Mr. C’s case had been dealt with entirely
+through the more informal procedures set out in section C.i.(a) of the Code, referred to as the
+“Divisional Procedures”. The Code expressly provides that offences that are addressed under the
+Divisional Procedures are subject to distinct and generally less severe sanctions as set out in
+section C.i.(b) of the Code, titled “Divisional Sanctions”. We accepted this submission and
+based our decision on sanction purely on the Tribunal precedents that were provided to us.
+
+15
+47.
+
+We did, however, modify one aspect of the requested sanctions as we were concerned
+
+that, given the timing of this hearing, a full two-year suspension would prohibit the Student from
+enrolling in courses for both the first and the second term of the 2023-2024 academic year. That
+aspect of the sanction therefore had the potential to have a harsher effect than we intended,
+particularly given that the Initial Hearing was held in December of 2021. We decided that the
+Student’s suspension should end on December 31, 2023.
+48.
+
+At the conclusion of the hearing, and for the reasons outlined above, we signed an order
+
+imposing the following sanctions on the Student:
+a)
+
+a final grade of zero in MAT135H1F (20205);
+
+b)
+
+a suspension from the University from the date of the order to December 31,
+2023;
+
+c)
+
+a notation of the sanction on her academic record and transcript for three years
+from the date of the order; and
+
+d)
+
+that the case be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto, this 22nd day of February, 2022.
+Original signed by:
+____________________________________
+Ms. Alexandra Clark, Chair
+On behalf of the Panel
+
+

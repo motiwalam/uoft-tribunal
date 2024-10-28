@@ -1,0 +1,505 @@
+Case No.: 1539
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on September 20, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and S
+
+Y
+
+REASONS FOR DECISION
+Hearing Date: February 27, 2024, via Zoom
+Members of the Panel:
+Shaun Laubman, Chair
+Professor Zoraida Beekhoo, Faculty Panel Member
+Samantha Chang, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+S
+Y
+
+1.
+
+The Trial Division of the University Tribunal heard this matter on February 27,
+
+2024. As discussed below, S
+
+Y (the “Student”) did not attend, and the hearing
+
+proceeded in her absence.
+2.
+
+The Student was charged for offences related to two separate courses as follows:
+The STA256H5 Final Exam
+a.
+
+On or about April 13, 2023, you knowingly used or possessed an unauthorized aid
+
+or aids and/or obtained unauthorized assistance in connection with the final exam in
+STA256H5, contrary to section B.I.1(b) of the Code.
+b.
+
+On or about April 13, 2023, you knowingly represented as your own an idea or
+
+expression of an idea or work of another in connection with the final exam in STA256H5,
+contrary to section B.I.1(d) of the Code.
+c.
+
+In the alternative, on or about April 13, 2023, you knowingly engaged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with the final exam in STA256H5, contrary to section B.I.3(b) of the
+Code.
+The ECO202Y5 Final Exam
+d.
+
+On or about April 16, 2023, you knowingly used or possessed an unauthorized aid
+
+or aids and/or obtained unauthorized assistance in connection with the final exam in
+ECO202Y5, contrary to section B.I.1(b) of the Code.
+e.
+
+On or about April 16, 2023, you knowingly represented as your own an idea or
+
+expression of an idea or work of another in connection with the final exam in ECO202Y5,
+contrary to section B.I.1(d) of the Code.
+f.
+
+In the alternative, on or about April 16, 2023, you knowingly engaged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with the final exam in in ECO202Y5, contrary to section B.I.3(b) of
+the Code. (the “Charges”)
+2
+
+3.
+
+For the reasons set out in this decision, the Student was found guilty at the hearing
+
+of two counts of having knowingly used or possessed an unauthorized aid or aids and/or
+obtained unauthorized assistance, contrary to section B.I.1(b) of the Code.
+Decision to Proceed with the Hearing in the Student’s Absence
+4.
+
+Neither the Student nor any representative on her behalf appeared at the hearing.
+
+The Tribunal waited past the scheduled commencement time before beginning the
+proceeding.
+5.
+
+The University requested that the Tribunal proceed with the hearing in the
+
+Student’s absence and presented evidence in support of that submission.
+6.
+
+The affidavit of Alexciya Blair, a legal assistant at Paliare Roland Rosenberg
+
+Rothstein LLP, was tendered and admitted into evidence.
+7.
+
+Ms. Blair’s affidavit detailed the repeated communications sent by the University
+
+to the Student regarding the Charges. As discussed later in this decision, the Student
+participated at the Dean’s Designate meeting and admitted guilt. At the meeting, the
+Student was informed that the matter was going to be forwarded to the Tribunal for
+resolution. After that, the Student did not respond directly to multiple emails and phone
+calls from the University and its Assistant Discipline Counsel about the Charges and the
+Tribunal process sent over the course of 2023 and into early 2024. The emails and calls
+were made using the Student’s contact information on the Repository of Student
+Information (“ROSI”).
+8.
+
+In October 2023, following an email and phone call by Assistant Discipline Counsel
+
+in an effort to contact the Student, an immigration advisor responded to Assistant
+Discipline Counsel on the Student’s behalf. The advisor provided an authorization and
+direction form signed by the Student.
+9.
+
+The advisor engaged on the Student’s behalf with Assistant Discipline Counsel
+
+about the Tribunal hearing and process. The advisor confirmed that Assistant Discipline
+Counsel should inform the Student regarding the hearing date and time.
+3
+
+10.
+
+On January 16, 2024, the Dean’s Office, couriered the Notice of Virtual Hearing to
+
+the Student’s address on record. That same day, Assistant Discipline Counsel called the
+Student’s phone and left a voicemail reciting the contents of the cover letter that had been
+couriered to her.
+11.
+
+On February 5, 2024, Assistant Discipline Counsel emailed copies of the affidavits
+
+the University intended to use at the hearing.
+12.
+
+The University also tendered the affidavit of Andrew Wagg, a manager in
+
+Information Technology Services at the University. Mr. Wagg’s affidavit established that
+the Student’s University email account was last accessed on February 2, 2024.
+13.
+
+The University must satisfy its burden under the University Tribunal’s Rules of
+
+Practice and Procedure (“Rules”) to provide reasonable notice of a hearing before a
+proceeding will be held without the student’s participation. However, at the same time, a
+student cannot derail the disciplinary process by remaining silent and refusing to
+participate.
+14.
+
+In this case, based on the evidence presented, the Tribunal was satisfied that the
+
+University had discharged its obligation to provide reasonable notice to the Student
+regarding the Charges and the hearing scheduled for February 27, 2024. The Student
+was aware from the Dean’s Designate meeting that the matter was being referred to the
+Tribunal. The University made repeated efforts following that meeting to communicate
+with the Student, using email, phone calls and a courier package. The Student’s email
+account was accessed as recently as February 2024. In October 2023, the Student
+authorized an immigration advisor to communicate on their behalf with Assistant
+Discipline Counsel regarding the Charges and Tribunal process. All of these facts led to
+the conclusion that reasonable notice was provided. Therefore, the Tribunal determined
+that it would proceed with the hearing in the Student’s absence.
+Student’s Guilt
+15.
+
+The University presented three affidavits with evidence to support its case at the
+
+offence phase:
+4
+
+a. Virupaksh Agrawal – the Chief Presiding Officer for the STA256H5S final exam
+in Winter 2023;
+b. Ishnoor Singh - the Chief Presiding Officer for the ECO202Y5Y final exam in
+Winter 2023; and
+c. Timothy Yusun - an Assistant Professor who met with the Student for the
+Dean’s Designate meeting.
+16.
+
+The University’s evidence was unchallenged and established the following facts:
+a.
+
+The Student wrote the final exams for both STA256H5S and ECO202Y5Y
+
+in April 2023;
+b.
+
+The front page for both final exams contained a warning about academic
+
+integrity that warned against the use of unauthorized electronic devices during the
+exams;
+c.
+
+During the final exam for STA256H5S on April 13, 2023, the Student was
+
+found to be wearing a miniature camera poking out of a buttonhole in her jacket
+and connected to a cellphone that was turned on. The cellphone, wire and camera
+were confiscated during the final exam and returned to the Student following the
+final exam;
+d.
+
+Three days later, on April 16, 2023, the Student wrote the final exam for
+
+ECO202Y5Y;
+e.
+
+During the final exam for ECO202Y5Y, the Student was found to be wearing
+
+tiny earpieces in her ears. When asked, she denied having a cellphone on her and
+claimed the earpieces were merely to block out noise. However, a cellphone was
+found on her. The cellphone was connected by a wire to a miniature camera. The
+electronic devices were confiscated, and the Student then completed the final
+exam;
+
+5
+
+f.
+
+In June 2023, the Academic Integrity Unit emailed the Student to arrange
+
+the Dean’s Designate meeting for the alleged academic offences committed in
+STA256H5S and ECO202Y5Y. The Student responded by email and admitted
+committing offences in both classes. The Student’s email included the following
+admissions:
+I will attend the meeting on June 09, and I am so sorry for committing academic
+offenses in my exams of STA 256 and ECO 202. During the time while waiting
+for the academic integrity department’s update, I have researched so much about
+academic integrity including reading the university’s code on this subject, so now
+I have learned how serious my offenses are, and I am extremely regretful about
+these. Therefore, I want to apologize for my actions sincerely.
+***
+I know what I did could not be changed, and I want to promise I will never make
+such mistakes again in the future. I know I must be sanctioned due to my own
+mistake, and I will certainly respect the university’s decision on it.
+
+g.
+
+The Dean’s Designate meeting was held on June 9, 2023. At the start of the
+
+meeting, the Student was given the warning required by the Code about being
+entitled to seek advice, or to be accompanied by counsel at the meeting, before
+making, and not being obliged to make, any statement or admission, but that if she
+made any statement or admission in the meeting, it may be used or receivable in
+evidence against her in the hearing of any charge with respect to the alleged
+offences;
+h.
+
+The Student admitted to using a cellphone with a camera and wearing
+
+earpieces during the final exams for STA256H5S and ECO202Y5Y. She did it so
+that other people could see the exams she was writing. The Student admitted that
+she was being provided hints by other people while she was writing the final
+exams. She admitted paying $300 to a tutoring service named Easy Education or
+Easy Edu for this assistance;
+
+6
+
+i.
+
+The Student explained that her grandfather was sick and that his illness
+
+affected her ability to study for the final exams; and
+j.
+
+When asked at the Dean’s Designate meeting how she pled for the alleged
+
+offences, the Student pled guilty to the charges in connection with the final exams
+for STA256H5S and ECO202Y5Y.
+17.
+
+There was clear and convincing evidence of the Student’s guilt for the academic
+
+offences of knowingly using and possessing an unauthorized aid or aids and/or obtaining
+unauthorized assistance in connection with the final exams in STA256H5 and
+ECO202Y5, contrary to section B.I.1(b) of the Code.
+18.
+
+The academic offences the Student committed were very similar and occurred
+
+within days of one another. The Student was caught with unauthorized devices during the
+final exams for both classes. Prior to both exams, she was warned against the use of
+unauthorized devices.
+
+19.
+
+The Student subsequently admitted her guilt and that she used unauthorized
+
+devices and received unauthorized assistance during both final exams.
+
+20.
+
+There is no doubt regarding the Student’s liability. The Tribunal found her guilty of
+
+two offences for having knowingly used or possessed an unauthorized aid or aids and/or
+obtained unauthorized assistance in connection with the final exam in STA256H5 and
+ECO202Y5, contrary to section B.I.1(b) of the Code. Based on these findings of guilt, the
+University withdrew the remaining Charges.
+
+Penalty Phase
+
+21.
+
+During the penalty phase of the hearing, the University asked the Tribunal to
+
+impose the following sanctions on the Student:
+
+7
+
+a.
+
+a recommendation to the President of the University that the President
+
+recommend to the Governing Council that the Student be expelled from the
+University;
+b.
+
+immediately suspending the Student from the University for a period of up
+
+to five years from the date of the Order or until Governing Council makes its
+decision on expulsion, whichever comes first, and that a corresponding notation
+be placed on the Student’s academic record and transcript;
+c.
+
+a final grade of zero in STA256H5;
+
+d.
+
+a final grade of zero in ECO202Y5; and
+
+e.
+
+reporting the decision to the Provost for publication of the decision and the
+
+sanctions imposed, with the name of the Student withheld.
+22.
+
+The University tendered an additional affidavit by Timothy Yusun for the penalty
+
+phase. Mr. Yusun’s second affidavit provided evidence of a prior academic offence for
+which the Student was convicted and sanctioned. The prior conviction was also for the
+offence of obtaining unauthorized assistance during a final exam. The offence was
+committed during the Winter 2021 semester.
+23.
+
+For her prior conviction, the Student received a mark of zero on the final
+
+examination and a notation on her academic record and transcript for 12 months. At the
+time, the Student was warned that the consequences for subsequent allegations of
+academic misconduct may be more severe.
+24.
+
+The University reviewed the factors that a tribunal should consider when imposing
+
+a sanction outlined in the decision in University of Toronto and Mr. C (Case No. 1976/773, November 5, 1976). Those factors are:
+a.
+
+The character of the person charged;
+
+b.
+
+The likelihood of a repetition of the offence;
+
+8
+
+25.
+
+c.
+
+The nature of the offence committed;
+
+d.
+
+Any extenuating circumstances surrounding the commission of the offence;
+
+e.
+
+The detriment to the University occasioned by the offence; and
+
+f.
+
+The need to deter others from committing a similar offence.
+
+Since the Student elected not to participate at the hearing, there was no positive
+
+character evidence for the Tribunal to consider. Similarly, there was no direct evidence of
+extenuating circumstances. While there was limited and indirect evidence that the
+Student’s grandfather was ill at the time the offences were committed, the onus of
+establishing mitigating circumstances rests with the Student and she did not lead any
+evidence at the hearing. She also could not be cross-examined due to her nonparticipation. Furthermore, while the Student initially accepted responsibility and admitted
+guilt at the Dean’s Designate meeting, this early cooperation was then undermined by the
+Student’s subsequent non-responsiveness. Based on a full consideration of these
+elements, the limited evidence on extenuating circumstances should be given little weight.
+26.
+
+On the other hand, there was the fact that the Student had repeatedly committed
+
+the academic offence of knowingly using or possessing an unauthorized aid and/or
+obtaining unauthorized assistance with a final exam. The repetition of the offence,
+including the fact that the two offences that were at issue at the hearing were committed
+within days of one another, was a consideration weighing in favour of imposing a
+significant sanction.
+27.
+
+The Tribunal was satisfied on the evidence that the Student was aware that what
+
+she was doing was wrong but she proceeded to commit the offences anyway. Days after
+being caught with an unauthorized aid in STA256H5, the Student proceeded to commit
+the very same offence in ECO202Y5. The fact the Student was a repeat offender points
+to a strong likelihood of a repetition of the offence if the Student is not expelled and instead
+is given another opportunity to attend the University.
+
+9
+
+28.
+
+The Student’s offences were very serious. The University took the Tribunal to the
+
+recent decision in University of Toronto and Q.C. (Case No. 1505, November 24, 2023)
+(“Q.C.”), which is the first reported tribunal decision dealing with the unauthorized use of
+a miniature camera and earpiece in order to obtain assistance during a test. Like the case
+in Q.C., this case involved deliberate and premeditated planning and subterfuge by the
+Student. It also involved a commercial element as the Student paid a tutoring service to
+assist her with cheating on the exams. Past tribunal decisions have recognized that
+offences involving a commercial element require a strong deterrent to discourage others
+from committing a similar offence.
+29.
+
+The Tribunal agrees with the following findings from the Q.C. case at para 57,
+
+which apply with at least equal force to this case:
+In the present case, the Student has been found to have engaged in an extremely serious
+breach of academic integrity. What occurred is among the worst things a student could
+do. It is deserving of a harsh sanction. Her actions were completely premediated and
+deliberate. She went to a great deal of trouble and planning to conceal a camera in a
+button and to wear earpieces that had to be installed and removed with a special tool,
+which enabled her to show the test to the tutor and to receive the answers verbally in the
+exam room.
+
+30.
+
+There were several extenuating circumstances present in Q.C. that led the
+
+Tribunal in that case to impose a penalty of suspension from the University for five years
+instead of a recommendation of expulsion. Those circumstances were absent from the
+present case.
+31.
+
+As stated above, the repeat nature of the offences committed by the Student
+
+combined with the very serious nature of the offences and the lack of evidence regarding
+extenuating or mitigating factors demonstrated to the Tribunal that the penalties
+requested by the University were reasonable and appropriate. Accordingly, the Tribunal
+ordered that the following sanctions be imposed on the Student:
+
+10
+
+a.
+
+a recommendation to the President of the University that the President
+
+recommend to the Governing Council that the Student be expelled from the
+University;
+b.
+
+immediately suspending the Student from the University for a period of up
+
+to five years from the date of the Order or until Governing Council makes its
+decision on expulsion, whichever comes first, and that a corresponding notation
+be placed on the Student’s academic record and transcript;
+c.
+
+a final grade of zero in STA256H5;
+
+d.
+
+a final grade of zero in ECO202Y5; and
+
+e.
+
+reporting the decision to the Provost for publication of the decision and the
+
+sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto, this 17th day of May, 2024.
+
+Original signed by:
+Shaun Laubman, Chair
+On behalf of the Panel
+
+11
+
+

@@ -1,0 +1,445 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on October 7, 2015
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 am.
+
+BETWEEN:
+The University of Toronto
+
+.....
+
+- and -
+
+REASONS FOR DECISION
+
+Date of Hearing: Tuesday, May 10, 2016
+Members of the Panel:
+Mr. Jeffrey S. Leon, Barrister and Solicitor, Chair
+Professor Louis Florence, Faculty Panel Member
+Ms. Lu Zhao, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Mr. Deepak Paradkar, and Naveen Batish (Student-at-Law), Counsel for the Student
+Dr. Martha Harris, Office of Student Academic Integrity, Faculty of Arts and Sciences
+In Attendance:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Mr. ~ ~ 1 , the Student, in attendance
+
+2
+
+Preliminary Matters
+
+1.
+
+The Trial Division of the University Tribunal was convened on Tuesday, May 10,
+
+2016 to consider three charges brought by the University of Toronto against the Student
+under the Code of Behaviour on Academic Matters, 1995 (the "Code").
+
+The Charges
+
+2.
+
+The Student was charged with the following offences:
+
+(i)
+
+On or about April 2, 2015, you knowingly represented as your own an idea
+or expression of an idea, and/or the work of another in Assignment 3 that
+you submitted for academic credit in CSC343HIS (20151) (the "Course"),
+contrary to section B.I.1 (d) of the Code.
+
+(ii)
+
+On or about April 2, 2015, you knowingly obtained
+
+unauthorized
+
+assistance in connection with Assignment 3 that you submitted for
+academic credit in the Course, contrary to section B.1.1 (b) of the Code.
+
+(iii)
+
+In the alternative, on or about April 2, 2015, you knowingly engaged in a
+form
+
+of
+
+cheating,
+
+academic
+
+dishonesty
+
+or
+
+misconduct,
+
+fraud
+
+or
+
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with Assignment 3 that you submitted for academic credit in the Course,
+contrary to section B.l.3(b) of the Code.
+
+3
+
+The Facts
+
+3.
+
+The parties entered into an Agreed Statement of Facts (Exhibit "1"). That Agreed
+
+Statement sets out the facts that follow.
+4.
+
+In Winter 2015, the Student enrolled in CSC343H1 - Introduction to Databases
+
+(the "Course"), which was taught by Professor Diane Horton. The Course was an
+introduction to database management systems and focused on:
+(a)
+
+the relational data model;
+
+(b)
+
+relational algebra;
+
+(c)
+
+querying and updating databases and the query language SOL;
+
+(d)
+
+application programming with SQL;
+
+(e)
+
+integrity constraints, normal forms, and database design; and
+
+(f)
+
+elements of database system technology: query processing, and
+transaction management.
+
+5.
+
+A copy of the syllabus for the Course was filed as Exhibit "2" (Tab 4).
+
+The
+
+syllabus warned students about the need for academic integrity and the expectation that
+students must submit their own work and that collaboration was strictly forbidden:
+The work you submit must be your own. It is an academic offence to copy
+someone else's work. This includes their code, their words, and even their ideas.
+Whether you copy or let someone else copy, it is an offence. Academic offences
+are taken very seriously.
+
+4
+At the same time, we want you to benefit from working with other students.
+Obviously, work done with your partner is a joint effort. You are also welcome to
+work appropriately with students other than your partner. It is appropriate to
+discuss course material and technology related to assignments, and we
+encourage you to do so. For example, you may work through examples that help
+you understand course material or a new technology, or help each other
+configure your system to run a supporting piece of software. You may also
+discuss assignment requirements.
+However, other than between partners, collaboration on assignment solutions is
+strictly forbidden. The most certain way to protect yourself is not to discuss
+assignment solutions or the ideas behind them with students other than your
+partner. Certainly you must not let others see your assignment solutions, even in
+draft form. Please don't cheat. We want you to succeed and are here to help if
+you are having difficulty.
+
+Assignment 3
+
+6.
+
+One of the Course requirements was Assignment 3, which was worth 10% of the
+
+final grade in the Course. A copy of Assignment 3 was filed as Exhibit "2" (Tab 5).
+
+7.
+
+Part 1 of Assignment 3 consisted of a series of six small programs, written in the
+
+language XQuery. Students were permitted to work alone or in pairs. The Student
+worked with his partner Mr. A. The Student submitted their answer to Assignment 3 on
+April 2 (the "Submission"). A copy of the Submission was filed as Exhibit "2" (Tab 6).
+
+8.
+
+Professor Horton ran all of the several hundred submissions through an auto-
+
+testing program to see if the programs would run. The Submission failed the autotesting with an error message that read: "Toplevel Error: XQueryP tokens found, please
+use -language xqueryp or -language dxq". Only one other assignment in the class had
+that error message: the assignment submitted by Mr. B (the "B Submission"). A copy of
+the B Submission was filed as Exhibit "2" (Tab 7).
+
+5
+9.
+
+Professor Horton examined the Submission and the B Submission more closely.
+
+She observed that the two submissions were identical in structure. Other than some
+additional context defined by one group in the first two lines of the file, the only
+differences were the variable names chosen by the students. Professor Horton
+annotated printouts of the submissions. The annotated version of the Submission and
+the annotated version of the B Submission were filed as Exhibit "2" (Tab 8) and Exhibit
+"2" (Tab 9), respectively. These versions were highlighted where there was an identical
+code.
+
+10.
+
+Because of the unusual syntax of the XQuery language, and because students
+
+were not familiar with this language, the solutions submitted by the students in the
+Course varied widely. Professor Horton was confident that it was virtually impossible
+that students working independently could produce identical programs.
+
+11.
+
+The Student admitted that he located Mr. B's programs on Github, a publicly
+
+accessible web-based software program repository hosting service. The Student
+admitted that he accessed Mr. B's programs without Mr. B's knowledge or permission,
+copied Mr. B's programs, and then used them in the Submission. The Student knew that
+he was not permitted to collaborate with any students except his partner or to view or
+use the work of any other student in the way he did.
+
+12.
+
+The Student further admitted that he did not tell Mr. A that he had accessed,
+
+copied, and used Mr. B's programs in the Submission. The Student admitted that he
+knowingly:
+
+6
+(i)
+
+received unauthorized assistance contrary to s. B.1.1 (b) of the Code when
+he viewed, copied and used Mr. B's programs;
+
+(ii)
+
+included verbatim and nearly verbatim excerpts from Mr. B's programs in
+the Submission;
+
+(iii)
+
+failed to attribute the verbatim and nearly verbatim excerpts from Mr. B's
+work;
+
+(iv)
+
+represented Mr. B's ideas and work as his own;
+
+(v)
+
+committed plagiarism contrary to section B.1.1 (d) of the Code; and
+
+(vi)
+
+engaged in a form or cheating, academic dishonesty or misconduct, fraud
+or misrepresentation in order to obtain academic credit, contrary to section
+B.l.3(b) of the Cod e
+
+Decision
+
+13.
+
+The Panel found the Student guilty of charges 1 and 2 as set out above.
+
+Counsel for the University withdrew the third charge.
+Penalty
+
+14.
+
+The parties filed an Agreed Statement of Facts and Joint Submission on Penalty
+
+(Exhibit 3). This was supplemented by oral submissions on behalf of the University and
+the Student.
+
+7
+
+15.
+
+The following facts related to prior offences by the Student were set out in the
+Agreed Statement of Facts:
+(i)
+
+On October 30, 2013, the Student was sanctioned by the Dean's
+Designate for Academic Integrity in the Faculty of Arts and Science at the
+University of Toronto for having committed an academic offence.
+Specifically, the Student admitted that he and another student submitted
+answers to assignment 4 in the course CSC209H1 (20131), which were
+unacceptably similar. The Student admitted that he went to the lab to do
+the assignment and found an unlocked computer on which he found
+assignment code that had already been written. He then copied that code
+and submitted it as his own work.
+
+(ii)
+
+The Dean's Designate imposed a grade of zero on the assignment in
+question, and a final grade reduction by a further 20 marks. In addition,
+the Student's academic record and transcript was annotated from April 2,
+2013, to April 1, 2015, Exhibit "3" (Tab 1).
+
+(iii)
+
+Further, on August 13, 2014, the Student was sanctioned for academic
+misconduct in CSC336H1S. The Student admitted that he had worked on
+an assignment together with another student and came to have the same
+algorithm for the assignment because they discussed it together. He
+indicated that he had shared his work with the other student in such a way
+that the other student could copy it and acknowledged that he had
+
+8
+committed the academic offence of providing and receiving unauthorized
+assistance on the assignment.
+
+(iv)
+
+The Dean's Designate imposed a final grade of zero in the course
+CSC336 and suspended the Student from the University for a period of
+four months from July 1, 2014, to October 31, 2014, and a transcript
+annotation from September 2014 until graduation, Exhibit "3" (Tab 2).
+
+Joint Submission on Penalty
+
+16.
+
+The University and the Student made a joint submission requesting that the
+
+following penalty be imposed:
+
+(i)
+
+a final grade of zero in the course CSC 343H 1;
+
+(ii)
+
+a suspension from University for three years from May 1, 2016, to April 30,
+2019; and
+
+(iii)
+
+a notation of the sanction on the Student's academic record and transcript
+for four years from the date the Tribunal makes its order.
+
+17.
+
+The parties further submitted that this case shall be reported to the Provost for
+
+publication of a notice of the decision of the Tribunal and the sanction imposed, with the
+name of the student withheld.
+
+18.
+
+Counsel for the University reminded the Panel that while the Panel was not
+
+obliged or required to accept the joint submission, a joint submission should be rejected
+
+9
+only in circumstances where to give effect to it would be contrary to the public interest or
+bring the administration of justice into disrepute.
+19.
+
+Counsel for the University reviewed prior decisions of this Tribunal where there
+
+had been at least two prior convictions. In this case, the Student cooperated with the
+University from the outset, admitted responsibility for his conduct and plead guilty to the
+offences.
+20.
+
+An unusual aspect of this case is that the Student had completed the course
+
+requirements for his degree at the time of the hearing.
+
+Counsel for the Student
+
+submitted that the terms of the joint submission would have a significant effect on the
+Student in that he would not receive his degree until after his suspension was over
+(April 30, 2019).
+21.
+
+It should be recognized that the University will respond to serious misconduct,
+
+regardless of when it occurs in the student's academic career.
+22.
+
+The Student has demonstrated a flagrant disregard for honesty in his conduct at
+
+the University. The Student flaunted the Code in a significant way.
+23.
+
+There will be no opportunity to determine whether the Student has learned from
+
+the error of his ways and whether he will conduct himself with honesty and integrity in
+the future. As noted, upon completion of his suspension, the Student will receive his
+undergraduate degree and graduate. Thus, while specific deterrence may be less of a
+factor in this case, the Panel expressed its hope that as a graduate of the University, the
+Student will henceforth conduct himself in an appropriate manner.
+
+10
+24.
+
+The Panel was not in a position to find that the Joint Submission in this case
+
+would be contrary to the public interest or bring the administration of justice into
+disrepute and on that basis, accepted the submission.
+
+In doing so, the Panel orally
+
+cautioned the Student on the seriousness of his dishonest conduct, the potential
+damage done to the University by such dishonesty and, as noted, the importance of the
+need to conduct himself in the future with honesty and integrity.
+
+Order
+
+25.
+
+The Panel ordered as follows:
+(i)
+
+THAT the Student is guilty of an academic offence, contrary to the Code
+of Behaviour on Academic Matters;
+
+(ii)
+
+THAT the following sanctions shall be imposed on the Student:
+
+(a)
+
+a final grade of zero in the course CSC 343H 1;
+
+(b)
+
+a suspension from the University for three years from May 1, 2016,
+to April 30, 2019; and
+
+(c)
+
+a notation of the sanction on his academic record and transcript for
+four years from the date the Tribunal makes its order.
+
+(iii)
+
+THAT this case shall be reported to the Provost for publication of a notice
+
+of the decision of the Tribunal and the sanctions imposed, with the name
+of the student withheld.
+
+11
+
+_ -/-1..-Dated at Toronto, this
+
+Mr. Jeffrey
+
+<;} day of June, 2016
+
+

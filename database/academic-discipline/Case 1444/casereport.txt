@@ -1,0 +1,611 @@
+Case No. 1444
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on November 9, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and J
+
+W
+
+REASONS FOR DECISION
+Hearing Date: October 11, 2023, via Zoom
+Members of the Panel:
+R. Seumas M. Woods, Chair
+Professor Vivienne Luk, Faculty Panel Member
+Kerman Sekhon, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Sonia Patel, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+J
+
+W
+
+-2THE CHARGES
+1.
+
+On November 9, 2022, the University of Toronto (the “University”) laid the following
+
+charges (the “Charges”) against J
+
+W
+
+(the “Student”) under the Code of Behaviour on
+
+Academic Matters, 2019 (the “Code”):
+1.
+
+On or about March 8, 2021, you knowingly obtained and/or provided unauthorized
+assistance in connection with test 2 in LIN205H5, contrary to sections B.I.1(b) and B.II.1
+of the Code.
+
+2.
+
+In the alternative, on or about March 8, 2021, you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any kind in
+connection with test 2 in LIN205H5, contrary to sections B.I.3(b) and B.II.1 of the Code.
+
+3.
+
+On or about April 5, 2021, you knowingly obtained and/or provided unauthorized
+assistance in connection with test 3 in LIN205H5, contrary to sections B.I.1(b) and B.II.1
+of the Code.
+
+4.
+
+In the alternative to paragraph 3, on or about April 5, 2021, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with test 3 in LIN205H5, contrary to sections B.I.3(b)
+and B.II.1 of the Code.
+
+-3The Hearing
+2.
+
+The Tribunal heard the Charges on October 11, 2023, by videoconference over Zoom. The
+
+University attended the video hearing, but even after waiting 15 minutes the Student failed to
+appear.
+Ability to Proceed in the Student’s Absence
+3.
+
+As a result of the Student’s failure to attend the hearing, the Tribunal started the hearing
+
+by considering whether or not it could proceed in the Student’s absence. Ms. Patel, on behalf of
+the University, submitted that the University Tribunal’s Rules of Practice and Procedure (the
+“Rules”) entitled the Tribunal to proceed since the Student had been provided with adequate notice
+of the hearing. In support of that position, Ms. Patel provided the Tribunal with an affidavit from
+Naomi Carrera-McKail affirmed October 3, 2023, and an affidavit from Andrew Wagg affirmed
+October 3, 2023.
+4.
+
+Ms. Carrera-McKail is a law clerk with Ms. Patel’s firm. In her affidavit, Ms. Carrera-
+
+McKail provided information about the Student’s contact information, and in particular, the
+Student’s email. Her affidavit included a letter dated September 27, 2023, which Ms. Huang
+emailed to the Student at the Student’s email address in the Repository of Student Information
+(“ROSI”). She affirmed that the Student was emailed a copy of the Charges on November 9, 2022,
+and that on May 23, 2023, an assistant in her office emailed the Student a disclosure letter, an
+electronic link which the Student could use to obtain a copy of the University’s Disclosure Brief.
+Both were emailed to the Student at the address for the Student in ROSI.
+
+-45.
+
+Ms. Carrera-McKail further affirmed that:
+(a)
+
+On August 16, 2023, the University’s Office of Appeals, Discipline and Faculty
+Grievances (the “ADFG Office”) issued a Notice of Virtual Hearing advising the
+Student that the hearing had been scheduled for October 11, 2023 at 5:45 p.m. over
+Zoom which the ADFG Office emailed that day to the Student at the Student’s
+email address in ROSI;
+
+(b)
+
+on September 11, 2023, counsel for the University arranged for a courier to deliver
+a package containing the Notice of Virtual Hearing and the Charges to the
+condominium unit listed as the Student’s address in ROSI. The courier company
+indicated that the concierge at the condominium indicated that the Student no
+longer lived there and had not done so for over a year;
+
+(c)
+
+on September 27, 2023, the ADFG Office issued a Revised Notice of Virtual
+Hearing. The date and time of the hearing remained unchanged. The ADFG Office
+sent a copy of that notice to the Student at the Student’s email address in ROSI;
+
+(d)
+
+on September 28, 2023, Ms. Carrera-McKail called the number listed for the
+Student in ROSI. The number was still in service, but no one answered the call and
+there was no voicemail box for the number; and
+
+(e)
+
+on October 3, 2023, counsel for the University, Ms. Patel, emailed the Student, at
+the Student’s address in ROSI, copies of the affidavits on which the University
+intended to rely at the hearing.
+
+-56.
+
+Mr. Wagg is the Manager, Incident Response at Information Security, Information
+
+Technology Services at the University. His affidavit evidence was that on September 11, 2023,
+he checked to determine the last time anyone had accessed the email account for the Student in
+ROSI. Mr. Wagg determined that someone had accessed that account on August 7, 2023.
+7.
+
+Under rule 13(c) of the Rules, service of charges, notices of hearing and disclosure,
+
+amongst other things, may be served on a student by emailing a copy of the document to the
+students email address contained in ROSI. Based on the evidence before us, we were satisfied that
+the Student had received reasonable notice of the Charges and this hearing and therefore we could
+proceed with the hearing in the Student’s absence.
+8.
+
+While direct evidence that the Student had personally accessed the email account identified
+
+as the Student’s email account in ROSI after the Charges and the initial Notice of Virtual Hearing
+were emailed to the Student would have established that the Student had had actual notice of both
+the Charges and the date of this hearing, the Rules do not require the University to establish actual
+notice. To the contrary, the Rules allow the University to provide students with documents by
+emailing them to the student at their email address in ROSI. Students are responsible for
+monitoring their account in ROSI. They fail to do so at their own risk.
+9.
+
+In this case, the Student was notified of the Charges by email sent to the Student’s address
+
+on ROSI on November 9, 2022. There is evidence that someone accessed that account as late as
+August 7, 2023. The Student was notified of the date of this hearing by emails sent to the Student’s
+email address on ROSI on August 16, 2023, and September 27, 2023. As such, under the Rules
+the Student had notice of both the Charges and the date of this hearing. In all the circumstances
+of this case, the Student had reasonable notice of the hearing under rule 13 of the Rules. We may
+
+-6therefore proceed to hear and consider the University’s evidence in the Student’s absence under
+rule 17 of the Rules.
+Merits of the Charges
+10.
+
+In support of its allegations against the Student, the University tendered an affidavit from
+
+Ai Taniguchi, an Assistant Professor (Teaching Stream) in the Department of Language Studies at
+the University of Toronto, Mississauga, and an affidavit from Charles Elkabas. Professor Elkabas
+was until 2020 a professor of French Studies, Language Teaching and Learning in the Department
+of Language Studies at the University of Toronto Mississauga. He currently serves as a Dean’s
+Designate for Academic Integrity with the Office of the Dean.
+Professor Taniguchi’s Evidence
+11.
+
+In Winter 2021, Professor Taniguchi was the instructor for LIN205H5S (the “Course”).
+
+The Student was one of 420 students in the Course. The syllabus for the Course informed students
+of the importance of academic integrity. It warned students that misconduct would be treated
+seriously and provided examples of potential offences. Since the Course was delivered remotely,
+Professor Taniguchi included in the syllabus a specific section dealing with academic integrity in
+the digital environment:
+With regard to remote learning and online course, UTM wishes to remind students that they
+are expected to adhere to the Code of Behaviour on Academic Matters regardless of the
+course deliver method. By offering students the opportunity to learn remotely, UTM
+expects that students will maintain the same academic honesty and integrity that they would
+in a classroom setting. Potential academic offences in a digital context include, but are not
+limited to:
+
+
+
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for
+assessments.
+
+-7-
+
+12.
+
+
+
+Using technological aids (e.g. software) beyond what is listed as permitted in
+an assessment.
+
+
+
+Posting test, essay, or exam questions to message boards or social media.
+
+
+
+Creating, accessing, and sharing assessment questions and answers in virtual
+“course groups”.
+
+
+
+Working collaboratively, in-person or online, with others on assessments that
+are expected to be completed individually.
+
+Professor Taniguchi’s evidence was that students in the Course were evaluated on the basis
+
+of, amongst other things, three term tests, each of which was worth 20% of the final grade in the
+Course. Students were prohibited from working with others on the tests.
+13.
+
+The second test (“Test 2”) was administered on March 8, 2021. Students could take it at
+
+either 3:10 p.m. or 9:40 p.m. It consisted of 20 multiple choice and true or false questions, as well
+as three short answer questions. The three short answer questions each contained multiple subquestions. Test 2 was administered through Crowdmark. The order of the questions on the test
+was randomized and there were four different versions of the test.
+14.
+
+The third test (“Test 3”) was administered on April 5, 2021. As with Test 2, students could
+
+take Test 3 at either 3:10 p.m. or 9:40 p.m. Test 3 consisted of a mix of 22 multiple choice and
+true or false questions. Test 3 was administered through Quercus. Both the order of the questions
+and the order of the answer questions were randomized, resulting in each student receiving a
+unique version of the test.
+15.
+
+The Student took Test 2 at 3:10 p.m. on March 8, 2021. The Student received a grade of
+
+43 out of 44 on Test 2, answering incorrectly one of the true or false questions. The Student took
+Test 3 on April 5, 2021, at 3:10 p.m. The Student received a perfect grade of 22 out of 22 on it.
+
+-816.
+
+The day after Test 3’s administration, Professor Taniguchi received an anonymous email
+
+from people who said they were students in the Course. The email reported that many students in
+the Course were part of a WeChat group that had shared answers to the questions in the tests while
+they were being administered. The email attached screenshots and videos of a WeChat group with
+over 80 members. The email stated that the group had shared answers for all three of the tests in
+the Course, but the screenshots were for only Tests 2 and 3.
+17.
+
+Professor Taniguchi reviewed the screenshots, confirming that they showed that questions
+
+and answers to Test 2 and 3 had been posted during the test period that had begun at 3:10 p.m. on
+the days the tests had been administered.
+18.
+
+The anonymous students sent Professor Taniguchi screenshots showing the user IDs of the
+
+people in the WeChat group, and a list matching the names to user IDs, based on the students’
+social media information. She determined that a total of the WeChat group included 40 students
+in the Course. The Student was not among those 40 students.
+19.
+
+After reviewing the screenshots of Test 2 and Test 3 to determine which version of the tests
+
+had been posted, Professor Taniguchi was able to ascertain that the version of Test 3 posted to the
+WeChat group was the version the Student had completed, and that the posted version of Test 2
+was a version which the Student (amongst others) had completed. Professor Taniguchi therefore
+concluded that the Student had shared screenshots of her answers to Test 3.
+20.
+
+Professor Taniguchi met with the Student on May 13, 2021, to discuss her concerns about
+
+the tests. Following that meeting, she referred the matter to the Chair of the Department of
+Language Studies at the University of Toronto Mississauga for further action.
+
+-9Professor Elkabas’ Evidence
+21.
+
+Professor Elkabas’ evidence was that after receiving an academic integrity report from the
+
+Chair of Language Studies, he met with the Student on August 4, 2021, via Zoom. Jade Hazell,
+an academic integrity assistant was also present at the meeting and took notes of it.
+22.
+
+Professor Elkabas’ evidence was that at the commencement of the meeting, he cautioned
+
+the Student that they had the right to have someone with them, and were not required to answer
+any questions, and that the interview would be recorded. The Student indicated that they
+understood and agreed.
+23.
+
+Professor Elkabas asked the Student if they had shared their test answers with anyone. The
+
+Student responded that they had. The Student did not have the names of the persons with whom
+their answers had been shared. The Student indicated that they were part of a paid tutoring group.
+The Student had shared their answers because their grade point average was very low, and they
+wanted to do better. One of the students (“Student X”) in the group, whom she could not name,
+had offered to compare answers with the Student.
+24.
+
+The Student told Professor Elkabas that they had used a translation aid to complete Test 2.
+
+The Student further admitted that they had checked their answers on Test 3 with Student X on
+WeChat while writing the test. The Student acknowledged that they had shared screenshots of
+their answers with Student X, and that Student X had shared their answers with the Student. The
+Student denied posting their answers to the WeChat group. The Student did not know that Student
+X was sharing answers with a group. The Student denied receiving any rewards or presents for
+sharing their answers.
+
+- 10 25.
+
+The Student further admitted to comparing their answers with the answers they received
+
+from Student X but said they did so only after writing their own answers and consulting a
+translator.
+Decision on the Merits
+26.
+
+The University has the burden of establishing on the balance of probabilities, using clear
+
+and convincing evidence, that the Student committed the academic offence with which he or she
+has been charged. In this case, and only dealing with the first and third charges, that requires the
+University to establish that the Student knowingly obtained and/or provided unauthorized
+assistance in connection with Test 2 and Test 3.
+27.
+
+As set out above, students had to complete the two tests on their own. They were not
+
+allowed to work with others on the two tests. Based on the evidence set out above, the Student
+failed to comply with that obligation. In particular, the evidence clearly establishes that the
+Student:
+
+28.
+
+(a)
+
+used a translation aid to answer the questions on Test 2;
+
+(b)
+
+used a translation aid to answer the questions on Test 3;
+
+(c)
+
+checked her answers to the questions on Test 3 with Student X;
+
+(d)
+
+shared a screenshot of her answers to the questions on Test 3 with Student X;
+
+(e)
+
+viewed a screenshot of Student X’s answers to the questions on Test 3.
+
+Each of the above violated the prohibition against working with others. We therefore find
+
+the Student guilty of the charges of obtaining and providing unauthorized assistance on Test 2 and
+
+- 11 Test 3. In light of our findings on the above charges, counsel for the University advised us that
+the University was withdrawing the other charges.
+Sanction
+Evidence and Submissions
+29.
+
+On sanction, the University adduced an affidavit from Lisa Devereaux. Ms. Devereaux is
+
+the Director of Academic Success & Integrity in the Office of the Vice-Principal Academic and
+Dean at the University of Toronto Mississauga. Ms. Devereaux’s evidence was that the Student
+had previously committed two academic offences:
+(a)
+
+in the Fall 2018 term, the Student had admitted to obtaining unauthorized assistance
+on a midterm exam worth 15% of the final grade in FAH101H5F. For that breach
+of the Code, the Student received a grade of zero on the exam and a one-year
+annotation on her transcript, from February 11, 2019 to February 11, 2020;
+
+(b)
+
+in the Spring 2019 term, the Student admitted to providing unauthorized assistance
+to another student to complete an assignment worth 35% of the final grade in
+CCT206H5S. For that breach of the Code, the Student received a grade of zero in
+the course, a four-month suspension from May 1, 2020 to August 31, 2020, and a
+two-year annotation on her transcript from May 1, 2020 to April 30, 2022.
+
+30.
+
+The University submitted that in the circumstances, the appropriate penalty was a grade of
+
+zero in the Course, a four-year suspension, and a notation on the Student’s academic record and
+transcript for a period of five years.
+
+- 12 Decision
+31.
+
+The factors this Tribunal must consider in deciding what sanction to impose are well
+
+established. The leading case is University of Toronto v Mr. C. (Case No 1976/1977-3, November
+5, 1976) in which, sitting as a member of the Appellate Division of this Tribunal, former Supreme
+Court of Canada Justice Sopinka described them this way:
+What then are the principles that this Tribunal should follow in dealing with an appeal from
+sentence? First, in my opinion, punishment is not intended to be retribution to get even, as
+it were, with the student for what he has done. It must serve a useful function. The classical
+components of enlightened punishment are reformation, deterrence, and protection of the
+public. In applying these criteria, a tribunal should consider all of the following:
+
+32.
+
+(a)
+
+the character of the person charged;
+
+(b)
+
+the likelihood of a repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the
+offence;
+
+(e)
+
+the detriment to the University occasioned by the offence;
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+Considering each of the above factors, the sanction the University seeks is appropriate. In
+
+particular:
+(a)
+
+Character: because the Student chose not to attend the hearing, we have no
+evidence of character from the Student themselves. We do, however, have the fact
+that the Student also provided or obtained unauthorized assistance in each of
+2018and 2019 The Student’s commission of those offences reflects negatively on
+their character;
+
+- 13 (b)
+
+Likelihood of Repetition: given the evidence about the Student’s prior similar
+offences, we have concluded that there is a very real risk of the same offence being
+repeated absent a significant sanction;
+
+(c)
+
+Nature of Offence: Providing or obtaining unauthorized assistance is a very serious
+offence, striking at the heart of the evaluation process. The University expects
+students to comply with their obligation not to consult with others when asked not
+to do so. This is particularly important in today’s world, where so many tests and
+evaluations are administered virtually over the internet rather than in person in a
+classroom or examination hall. Both the University and the students who attend
+need to have confidence that students will not take advantage of the many
+opportunities to cheat that virtual tests and examinations offer. The way these
+offences came to light only underlines the importance students themselves attach
+to the rules against providing or obtaining unauthorized assistance. As such, this is
+a factor that tends to support a serious sanction;
+
+(d)
+
+Extenuating Circumstances: there is no evidence of any extenuating
+circumstances in this case. We note that the Student did not accept responsibility
+for their actions by pleading guilty to the offence and cooperating fully during the
+course of the discipline process.
+
+That might have been an extenuating
+
+circumstance;
+(e)
+
+Detriment to the University: unauthorized assistance strikes at the heart of the
+University’s core values of honesty and integrity. It cannot be tolerated. As such
+this factor points to a serious sanction;
+
+- 14 (f)
+
+Deterrence: sanctions that clearly demonstrate that taking advantage of the
+opportunities virtual testing offers will be met with serious sanctions is necessary
+to deter others from this type of conduct.
+
+33.
+
+We also note the fact that based on the evidence before us, the Student’s answers to Tests
+
+2 and 3 were shared to a broader group of students through WeChat. Even accepting the Student’s
+statement to the Dean’s Designate that the Student did not know that their answers were going to
+be shared with the wider group, by sharing their answers with someone else, the Student made it
+possible for the other student to distribute the answers to a wider group. The wide distribution of
+the Student’s answers tends to reinforce the seriousness of the offences and the need to deter others
+from similar conduct in the future.
+34.
+
+Based on the cases provided to us, the range of sanction for the type of conduct that the
+
+Student has engaged in ranges from a mark of zero in the course and a three-year suspension, to a
+mark of zero in the course and a five-year suspension, although expulsion is not unknown. In all
+of the cases, those penalties have been accompanied by a notation of the sanction on the student’s
+academic record for a period of time.
+35.
+
+The Tribunal has imposed the lesser sanction of a three-year suspension where either the
+
+student has had fewer prior convictions (see the University of Toronto v N.A. (Case No. 1186,
+September 21, 2021)) or has pleaded guilty and cooperated with the disciplinary process (see the
+University of Toronto v S.H.K. (Case No. 732, March 11, 2014)).
+
+- 15 36.
+
+The Tribunal has imposed the more serious sanction of a four-year suspension where the
+
+student has had a prior record of multiple convictions, been found guilty of multiple charges,
+and/or not cooperated with the disciplinary process. For example:
+(a)
+
+in the University of Toronto v P.F. (Case No. 1223, October 18, 2022), the student
+was found guilty of two charges of unauthorized assistance and one charge of
+plagiarism. The student had used an internet site to post questions and answers to
+two on-line final examinations, and to help the student complete an assignment in
+another course. The student had previously been convicted of one charge of
+plagiarism and did not attend the hearing. Noting that the student had exploited the
+unique circumstances of the COVID-19 pandemic (namely the virtual
+administration of examinations) to gain an advantage, and the need to deter such
+conduct, the Tribunal suspended the student for four years; and,
+
+(b)
+
+in the University of Toronto v M.R. (Case No. 1344, November 4, 2022), the student
+was convicted of two charges of unauthorized assistance, had a prior record of two
+prior convictions of unauthorized assistance, and did not attend the hearing. The
+student had accessed on-line resources to answer questions on two final
+examinations. The Tribunal suspended the student for 3 years, 11 months.1
+
+37.
+
+The Tribunal has imposed a five-year suspension where the student had multiple prior
+
+convictions, appreciated the seriousness of their actions and yet all the same went ahead and
+
+1
+
+By doing so, the student could return to the University at the beginning of the fall 2026 academic term which would
+not have been possible had the Tribunal imposed a four year suspension.
+
+- 16 committed the offence, and demonstrated no remorse. See the University of Toronto v N.A. (Case
+No. 661, February 19, 2012).
+38.
+
+After carefully considering the precedents provided to us and the facts of this particular
+
+case, we are satisfied that the appropriate sanction in this case is a mark of zero in the Course, a
+four-year suspension, and a notation on the Student’s academic record for a period of five years.
+In our view, that sanction properly reflects the seriousness of the offences and the need to deter
+others from committing them and considers the Student’s prior convictions and lack of cooperation
+with the disciplinary process.
+Order
+39.
+
+The Tribunal orders that:
+(a)
+
+the Student be found guilty of two counts of obtaining and providing unauthorized
+assistance, contrary to sections B.I.1(b) and B.II.1 of the Code;
+
+(b)
+
+the Student be given a final grade of zero in LIN205H5S in Winter 2021;
+
+(c)
+
+the Student be suspended from the University for a period of four years starting as
+of October 11, 2023;
+
+(d)
+
+the sanction be noted on the Student’s academic record and transcript for a period
+of five years starting as of October 11, 2023; and,
+
+(e)
+
+the case be reported to the Provost for publication of a notice of the Tribunal’s
+decision and the sanctions imposed, with the Student’s name withheld.
+
+- 17 Dated at Toronto at this 23rd day of January, 2024
+Original signed by:
+_______________________
+Seumas Woods, Chair
+On behalf of the Panel
+
+

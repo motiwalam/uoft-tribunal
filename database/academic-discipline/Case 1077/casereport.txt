@@ -1,0 +1,288 @@
+Case No.: 1077
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+TRIAL DIVISION
+
+IN THE MATTER OF charges of academic dishonesty filed on April 27, 2020,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c.56 as amended S.O.
+1978, c. 88
+
+B E T W E E N:
+
+THE UNIVERSITY OF TORONTO
+– AND –
+J
+
+H
+
+(the “Student”)
+
+Hearing Date: August 6, 2020 (via Zoom)
+Members of the Panel:
+Mr. Dean F. Embry, Chair
+Professor Kimberley Widger, Faculty Panel Member
+Ms. Emily Hawes Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein Barristers
+Hearing Secretary:
+Ms. Krista Kennedy, Hearing Secretary and Administrative Clerk, Office of Appeals, Discipline and
+Faculty Grievances, University of Toronto
+Not in Attendance:
+The Student
+
+I.
+
+CHARGES
+
+1.
+
+The Trial Division of the Tribunal held a hearing on August 6, 2020 to address the following charges
+brought by the University of Toronto (the “University”) against J
+
+H
+
+(the “Student”) under
+
+the Code of Behaviour on Academic Matters (the “Code”):
+1.
+
+On or about April 1, 2019, you knowingly represented as your own an idea or expression of
+an idea or work of another in an assignment you submitted in CSC148H1 (the “Course”),
+contrary to section B.I.1(d) of the Code.
+
+2.
+
+In the alternative, on or about April 1, 2019, you knowingly obtained unauthorized assistance
+in connection with an assignment that you submitted in the Course, contrary to section
+B.I.1(b) of the Code.
+
+3.
+
+In the further alternative, on or about April 1, 2019, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any
+kind in connection with an assignment you submitted in the Course, contrary to section
+B.I.3(b) of the Code.
+
+II.
+
+PRELIMINARY ISSUE: Proceeding in the Absence of the Student
+
+2.
+
+The Student was neither present nor represented. The University filed evidence that the Student
+was served with the charges by email at the email address provided by the Student to the University
+of Toronto in ROSI on April 27, 2020.
+
+3.
+
+Further, the University filed evidence that on July 20, 2020 the Student was served with the Notice
+of Hearing, again via the email address provided in ROSI.
+
+4.
+
+It should be noted that both the scheduling of the hearing and the hearing itself took place during
+the COVID-19 pandemic. On July 10, 2020, due to the physical restrictions necessitated by that
+pandemic, Assistant Discipline Counsel requested that the hearing proceed electronically. The
+Student was advised of this request by email and was given a deadline of July 17, 2020 to provide
+submissions in relation to this request. No reply from the student was ever received and the hearing
+was ordered and scheduled to proceed electronically as above.
+
+1
+
+5.
+
+In addition to the above, the University filed evidence demonstrating that efforts were made to
+ensure the Student was aware of the hearing and in a position to attend. In addition to the service
+of documents outlined above correspondence via email was sent to the Student which included
+invitations for discussion, efforts to arrange scheduling, disclosure of material and reminders of the
+hearing. All went unanswered.
+
+6.
+
+Given the above the Panel found that the Student was provided with reasonable notice and proper
+service as contemplated by sections 14 and 9 of the Tribunal’s Rules of Practice and Procedure
+(the “Rules”). As such, the hearing proceeded in the Student’s absence.
+
+II.
+
+SUMMARY OF FACTS/PARTICULARS
+
+7.
+
+The Panel received affidavit evidence from Professor Jacqueline Smith who while not in attendance
+at the hearing was available to answer any questions should they arise.
+
+8.
+
+The allegations against the student concerned “Assignment 2” for Course CSC148H1S (Introduction
+to Computer Science). This assignment required students to write an interactive treemap visualization
+tool. Students were provided with “starter code” which they were required to build on to create the
+envisioned tool.
+
+9.
+
+The Course in question was taught at both the St. George and University of Toronto Mississauga
+campus at the same time. Courses at both campuses incorporated the same assignment and the same
+“starter code”. However, two non-operative changes were made to the starter code to differentiate
+between the two campuses. These changes both concerned the spelling of words within the code and
+had no effect on how the code operated.
+
+10.
+
+Although students were permitted to work with a partner to complete the assignment, students
+wishing to do so were required to form a group on “MarkUs” to indicate who they would be working
+with. The Student did not form a group in relation to this assignment.
+
+11.
+
+Due to the nature of programming language and logic as well as optional non-operative features of
+code such as variable names and comments, there was an infinite number of different ways that
+students could build on the starter code to create the treemap visualization tool.
+
+12.
+
+The Student turned in his assignment and it was submitted through Moss, software that is used to
+detect similarities between student submissions. Moss detected substantial similarities between the
+
+2
+
+Student’s work and assignments turned in by a UTM student as well as two students at the St. George
+campus.
+13.
+
+When Professor Smith compared the Student’s assignment with that submitted by the UTM student
+she discovered that the assignments were identical with the exception of some spacing differences.
+Professor Smith noted that the Student’s assignment contained the UTM starter code and not the
+starter code provided to St. George campus students.
+
+14.
+
+When Professor Smith compared the Student’s assignment with those submitted by the two students
+at St. George campus she discovered that there were substantial similarities between the operational
+portions of the Code with the only differences being non-functional portions of the Code.
+
+15.
+
+Professor Smith met with the two other St. George campus students. The students apparently
+admitted that they found portions of the code they submitted online.
+
+III.
+
+ARGUMENT OF THE UNIVERSITY
+
+16.
+
+The University argues that the infinite possibilities available to a student in completing the
+assignment combined with the identical contents, in relation to the assignment turned in by the UTM
+student, and the substantial similarities, in relation to the assignments turned in by the two other St.
+George students is decisive proof that the Student plagiarized his assignment.
+
+IV.
+
+FINDINGS OF THE PANEL
+
+17.
+
+The Panel agrees that the identical or substantially similar contents of the Student’s assignment when
+compared with the assignments of other students justifies a finding of guilt.
+
+18.
+
+It should be noted that the Panel considered the possibility that the Student generated original code
+and that his own original work was somehow shared with or accessed by other students without his
+knowledge. In such a circumstance the Student would be not guilty of the offences charged. However,
+the fact that the Student’s assignment contained the UTM starter code and not the starter code that
+he was provided makes this possibility extremely unlikely. Further, in coming to its conclusion the
+Panel did not rely on the hearsay statement of the two St. George students who admitted that they
+found “portions” of code they found online chiefly because it was unnecessary to do so.
+
+19.
+
+Given the above, the Panel finds the Student guilty of one count of knowingly representing an idea
+or expression of an idea or work of another as his own, contrary to section B.I.1.(d) of the Code
+3
+
+V.
+
+SANCTION
+
+20.
+
+The University submitted that an appropriate sanction was a mark of zero in the course, a two-year
+suspension and a three-year notation of sanction. The University provided thorough and helpful
+authorities of similar cases to justify this sanction and asked the Panel to consider the nature of the
+offence as well as the character of the Student.
+
+21.
+
+In particular, the University noted that the Student did not co-operate with or participate in the process
+at all. The University asked the Panel to take this non-participation as evidence of a lack of insight
+or remorse on behalf of the student in relation to the offence and a lack of respect for the process.
+The lack of insight or remorse, the University argued, also gives rise to a concern that the Student
+might repeat the offending behavior. In this way the lack of participation of the Student, the
+University urged, should be treated as an aggravating factor.
+
+22.
+
+The Panel declines to treat the Student’s lack of co-operation or participation in the process as an
+aggravating factor. While the non-attendance of the Student results in the absence of evidence of
+remorse or insight which might have served as mitigating factors, the non-attendance of the Student
+is not evidence that the Student has no insight or is not remorseful. Simply put, there is no evidence
+as to why the Student did not participate in the process and did not attend the hearing and it would
+therefore be improper to infer anything from that lack of participation or attendance.
+
+23.
+
+That said, given the nature of the offence and in the absence of any mitigating factors we find that
+the sanction suggested by the University is an appropriate one. Plagiarism strikes at the very heart of
+academic integrity and therefore attracts a significant sanction.
+
+VI.
+
+ORDER OF THE PANEL
+
+24.
+
+At the conclusion of the hearing, the Panel conferred and made the following order:
+1.
+
+THAT the Student is guilty of one count of knowingly representing an idea or expression of
+an idea or work of another as his own, contrary to section B.I.1.(d) of the Code;
+
+2.
+
+THAT the following sanctions shall be imposed on the Student:
+
+(a)
+
+a final grade of zero in the course CSC148H1 in Winter 2019;
+
+4
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for a period of two
+years, ending on August 5, 2022; and
+
+(c)
+
+a notation of the sanction on his academic record and transcript from the date of this order
+for a period of three years, ending on August 5, 2023; and
+
+3.
+
+THAT this case be reported to the Provost for publication of a notice of the decision of the
+
+Tribunal and the sanction imposed, with Mr. H
+
+name withheld.
+
+DATED at Toronto, November 2, 2020
+
+Dean Embry, Chair
+
+5
+
+

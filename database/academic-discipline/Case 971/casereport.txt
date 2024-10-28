@@ -1,0 +1,450 @@
+Case No.: 971
+UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on April 24, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO (the "University")
+- AND –
+M
+
+-
+
+A
+
+(the "Student")
+
+REASONS FOR DECISION
+
+Hearing Date: September 19, 2018
+Panel Members:
+Ms. Roslyn M. Tsao, Chair
+Professor Ken Derry, Faculty Panel Member
+Mr. Bradley Au, Student Panel Member
+Appearances:
+Mr. Robert A. Centa, Assistant Discipline Counsel for University, Paliare Roland Barristers
+Not In Attendance:
+The Student
+Hearing Secretary
+Ms. Tracey Gameiro, Associate Director, Office of Appeals, Discipline and Faculty Grievances
+
+Charges and Appearances
+l.
+
+The Trial Division of the Tribunal heard this matter on September 19, 2018. The Student
+was charged on April 24, 2018 as follows:
+Charge 1:
+
+On or about December 7, 2016, you knowingly represented the ideas of
+another, or the expressions of the ideas of another as your own work in an
+essay titled “Why the Principle of All-Affected Interests is Wrong”
+(“Essay”) that you submitted in partial completion of the course
+requirements in POL484H1F 2016(9) (the “Course”), contrary to section
+B.I.1(d) of the Code;
+
+Charge 2:
+
+On or about December 7, 2016, you knowingly obtained unauthorized
+assistance in connection with the Essay, which you submitted for academic
+credit in the Course, contrary to section B.I.1(b) of the Code;
+
+Charge 3:
+
+On or about December 7, 2016, you knowingly submitted the Essay,
+which contained concocted references to one or more sources, contrary to
+section B.I.1(f) of the Code;
+
+Charge 4:
+
+In the alternative to the charges above, on or about December 7, 2016, you
+knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the
+Code to obtain academic credit or other academic advantage of any kind,
+contrary to section B.I.3(b) of the Code,
+
+the "Charges".
+
+Service on Student
+2.
+
+Pursuant to the Affidavit of Service of Ms. Susan Murphy sworn May 11, 2018, we are
+satisfied that a statement of the Charges was sent to the Student by email dated April 24,
+2018 to the Student's ROSI email address.
+
+2
+
+3.
+
+Pursuant to the Affidavit of Service of Ms. Krista Osbourne sworn September 11, 2018,
+we are also satisfied that the Notice of Hearing scheduled for September 19, 2018 was
+sent to the Student by email dated July 27, 2018 to the Student's ROSI email address.
+
+4.
+
+There was also evidence tendered by way of an email from Mike Wiseman the Associate
+Director, Information Security of Information Technology Services at the University, that
+the Student's ROSI account was last accessed on August 7, 2018 and that there was no
+auto-forwarding of messages from that account to another account.
+
+5.
+
+The Student did not respond in any way to Discipline Counsel in advance of hearing date
+and it was not expected that the Student would attend.
+
+6.
+
+The Student did not attend for this Hearing.
+
+7.
+
+The Panel is satisfied that valid and proper service was effected on the Student pursuant
+to the Rules and that the Hearing may proceed in the absence of the Student.
+
+8.
+
+Though the Student was last enrolled at the University in the Fall 2016 term (the term of
+the subject Course), there was evidence that his ROSI email account was being checked
+until as recently as August 7, 2018.
+
+Findings on Charges
+Facts
+9.
+
+The University tendered evidence by way of an Affidavit affirmed September 11, 2018 of
+Professor Joseph Carens, the professor who taught the Course to the Student. This
+Affidavit and Exhibits thereto were served on the Student by email to his ROSI email
+address on September 12, 2018 based on the Affidavit of Service of Robert Centa sworn
+September 13, 2018.
+
+10.
+
+Professor Carens affirmed the following facts:
+(a)
+
+Professor Carens taught the Course, a 4th year course, in the Fall of 2016 to the
+Student.
+
+3
+
+(b)
+
+Evaluation in the Course was based on two papers worth 40% and 60%. The first
+paper was due on October 26, 2016 and the second paper was due December 7,
+2016. The students were required to submit their papers in Word format and not
+through the "Turnitin.com" platform.
+
+(c)
+
+The Student submitted his first paper on October 25, 2016 and Professor Carens
+graded the paper with a 65% mark.
+
+(d)
+
+On December 4, 2016, the Student emailed Professor Carens seeking input as to
+how he could improve his grade on his second paper. Professor Carens referred
+the Student to his detailed comments on the Student's first paper.
+
+(e)
+
+On December 8, 2016, the Student submitted his second paper via e-mail and
+explained that the tardiness of his paper was due to an unexpected Toronto Hydro
+shutdown. Professor Carens accepted the paper without late penalty.
+
+(f)
+
+Professor Carens reviewed the second paper carefully, including the footnotes and
+citations therein. Professor Carens noted that a number of cited sources made no
+sense given the topic of the paper and he was careful to review the actual sources
+in the paper where he could locate same electronically.
+
+(g)
+
+In particular, Professor Carens cited 15 footnotes which he found to be concocted
+references for the following range of reasons:
+(i)
+
+the cited source material lacked any relevance to the portion of the
+Student's paper (or otherwise);
+
+(ii)
+
+the footnotes lacked any pinpoint references to support the Student's
+argument and such cited article did not provide any support for Student's
+argument as a whole in Professor's opinion;
+
+(iii)
+
+some pinpoint citations did not support the proposition advanced by the
+Student; and
+
+(iv)
+
+a footnote incompletely cited an article.
+
+4
+
+(h)
+
+Professor Carens also noted that the Bibliography cited an article though there
+were no footnotes referring to same in the text.
+
+(i)
+
+In addition, in Professor Caren's opinion, there were passages in the Student's
+paper that were "uncharacteristically sophisticated" in style.
+
+(j)
+
+As a result of his concerns, Professor Carens emailed the Student on December
+23, 2016 to request a meeting by phone or in person. Professor Carens wrote:
+"I have some questions about your essay. I'd like to talk with you
+about this either by phone or in person…Which would you
+prefer?"
+
+(k)
+
+On January 2, 2017, Professor Carens sent another email to the Student informing
+him that he would have to give him a temporary grade of zero on his second paper
+as the class marks were being delayed pending a mark for the Student. The
+Student was again invited to meet with Professor Carens to discuss. In particular,
+Dr Carens stated:
+…"This is not a permanent resolution of the matter, however. If
+you can satisfy me that my concerns are unfounded, I will be able
+to assign a normal grade for your paper and revise the final grade
+on emarks to reflect that. If I continue to have these concerns, I
+will have to initiate a formal process with the Office of Student
+Academic Integrity..."
+
+(l)
+
+On January 15, 2017, Professor Carens emailed the Student once more to advise
+that he would be entering a notation of "NGA" (no grade available) for the Course
+instead of a zero grade as he learned of this alternative pending method of
+addressing the situation so that the class grades could be submitted. Professor
+Carens invited the Student yet again for a meeting to discuss matters.
+
+(m)
+
+The Student did not contact Professor Carens. On January 23, 2017, Professor
+Carens submitted a formal notification of his concerns regarding academic
+dishonesty to his department chair.
+
+5
+
+11.
+
+In response to a question from the Tribunal, the Tribunal was advised that the delay
+between the January 2017 investigation and the hearing date (September 2018) was due,
+in part, to Professor Carens dealing with a loss in his family.
+
+Analysis of Charges
+12.
+
+The University has charged the Student based on three distinct modes of academic
+dishonesty: plagiarism, use of unauthorized assistance and concoction of references.
+Although the University is proceeding on a concurrent basis, it is open for the Tribunal to
+consider these charges in the alternative to each other.
+
+Professor's Concern That Reference Material Was Not Relevant or Did Not Support the
+Student's Argument
+13.
+
+In a case such as this, the Tribunal must be careful to balance the "red flags" raised by the
+professor who has a subject-matter expertise of the course material which informs
+his/her determination of "relevance" of cited material to the student's work against the
+possibility that the student is a poor student unable to properly interpret the material or
+formulate a sound argument.
+
+Concluding that there is "concoction" may be
+
+understandable when viewed through the lens of the professor but may not meet the
+burden of demonstrating academic dishonesty that the University must discharge.
+14.
+
+Since members of the Tribunal may not have the expertise in the particular subject matter
+of the course in question, the exercise of determining culpability will be based on the
+quality of the instructor's review of the matter and his/her articulation and explanation of
+the "red flags".
+
+15.
+
+In general, the Tribunal is not required to conclude that the University's version is the
+only version of the facts but some common sense testing is warranted to satisfy the
+Tribunal that the University's version is more likely than not.
+
+16.
+
+When there is no Student or defence presented, as in this case, the Tribunal must still
+objectively weigh the University's evidence.
+
+6
+
+17.
+
+In this case, the Tribunal reviewed the Student's (11 page) Essay and was provided with
+10 articles/papers (9 of which were referenced by the Student in his Essay) to consider in
+assessing Professor Caren's conclusions that the references/footnotes referred to
+irrelevant and/or unsupportive material. These articles/papers ranged from 2 to 41 pages
+in length.
+
+18.
+
+Although the members of the panel are thoughtful and have attained varying degrees of
+matriculation to date, a certain reliance upon Professor Caren's suspicions about
+academic dishonesty is required given that the panel cannot substantively digest the
+subject matter and thesis of the Essay in the course of the hearing.
+
+19.
+
+A detailed review of the examples advanced by Professor Carens was conducted by the
+panel during a recess. Although some of the cited footnotes could have been a product of
+misinterpretation or poor argument on the Student's part, when all examples were
+considered together and in the context of a 4th year student, the panel found that there
+was clear and convincing evidence of concocted references. The cited material, in many
+of the cases, was clearly not on point (even to a non-subject expert).
+
+20.
+
+The conclusion is that the cited references were, as submitted by Mr. Centa, included to
+provide a "patina of academic rigour".
+
+21.
+
+In so finding, there can also be no doubt that the concoction of offending
+references/footnotes was done "knowingly" by the Student or that he ought to have
+known that they were concocted.
+
+Plagiarism and Unauthorized Aid Not Established
+22.
+
+The evidence of Professor Carens above does not, however, establish that the Student
+plagiarized or used any unauthorized aids in completing the Essay. Indeed, Professor
+Carens indicates in his letter to his faculty chair of January 23, 2017 that he regrets not
+requiring the students to submit their essays using turnitin.com nor assigning any formal
+weight to class participation.
+
+7
+
+23.
+
+There was no evidence that any part of the Essay was plagiarized from another original
+source or that the Student had unauthorized assistance from another person as set out in
+the Charges.
+
+Conclusion on Charges
+
+24.
+
+The Student is found guilty of Charge 3 relating to "concoction".
+
+25.
+
+The Student is found not guilty of Charges 1 and 2 relating to "plagiarism" and "use of
+unauthorized aid", respectively.
+
+26.
+
+The University withdrew Charge 4.
+
+Penalty
+
+27.
+
+The University sought the following penalty:
+(a)
+
+a final grade of zero in the Course;
+
+(b)
+
+a suspension from the University for two years commencing from the date of the
+Order;
+
+(c)
+
+a notation of the sanction on his academic record and ti·anscript for three years
+from the day the Tribunal makes its order; and
+
+(d)
+
+that this case be repo1ted to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction or sanctions imposed, with the name of the
+student withheld.
+
+28.
+
+In determining penalty, the Panel is directed to consider the ~ f actors (Case No.
+
+1976/77-3, November 5, 1976), to achieve the goals of refonnation, detenence and
+protection of the public. None of these three goals has priority over the other but the
+Panel may consider how the facts of each case may demand that one has more relevance
+over the other.
+
+8
+
+29.
+
+The Student has no prior discipline history and, in his 4th year of studies at the University,
+had earned 19 credits. As stated above, the Student last attended at the University in the
+2016 Fall Term.
+
+30.
+
+In this case, the goal of individual rehabilitation is of minor importance given that the
+Student has been inactive at the University since 2016.
+
+Discipline Counsel
+
+acknowledged that it was important to fashion a sanction that would allow the Student to
+return to the University to complete his degree if he desired.
+31.
+
+A review of other decisions of the Tribunal with similar circumstances confirms that a
+recommendation for a two year suspension is in keeping with this body of cases.
+
+32.
+
+However, there has been a significant delay from January 2017 until the hearing date.
+The University has advised that the file was referred to Discipline Counsel on April 18,
+2018.
+
+As such, the file appears to have been appropriately and reasonably moved
+
+forward by Discipline Counsel from that time to hearing in September, 2018.
+33.
+
+As for the delay between January 2017 to April, 2018, some of the delay was explained
+by an aborted Dean's Designate meeting but a significant portion of that period, some 6-8
+months, was not explained and was not, in any event, attributable to the Student.
+
+34.
+
+The panel was of the view that, had there been less delay in moving this case forward,
+this hearing might have been heard in January of this year instead of September. To be
+clear, the panel is not attributing blame or being critical of the University in this matter
+but is simply noting the unexplained delay in bringing this matter to a hearing in a
+reasonable time.
+
+35.
+
+The panel agrees with the recommendation of the University on sanction except that the
+two year suspension is to commence on January 1, 2018.
+
+36.
+
+An Order with the above relief was signed by the Panel on September 19, 2018.
+
+9
+
+Dated at Toronto, this 28th day of November, 2018
+
+______________________________
+Roslyn Tsao, Co-Chair
+
+10
+
+

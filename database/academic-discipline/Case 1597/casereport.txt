@@ -1,0 +1,335 @@
+Case No.: 1597
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on February 7, 2024,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and S
+
+H
+
+REASONS FOR DECISION
+
+Hearing Date: July 4, 2024, via Zoom
+Members of the Panel:
+Shaun Laubman, Chair
+Professor Susanna Chow, Faculty Panel Member
+Charles Buck, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+S
+H
+Hearing Secretary:
+Karen Bellinger, Associate Director, Office of Appeals, Discipline and Faculty Grievances
+
+1. The Trial Division of the University Tribunal heard this matter against S
+
+H
+
+(the “Student”) by videoconference.
+2. For the reasons provided below, the Tribunal found the Student guilty of academic
+misconduct and imposed the following penalty:
+a. A final grade of zero in MGEC06H3F;
+b. A suspension from the University of Toronto for a period of 5 years to commence
+on May 1, 2024;
+c. A notation of the offence on the Student’s academic record and transcript for a
+period of 7 years or until graduation, whichever comes first; and
+d. that this case be reported to the Provost, with the Student’s name withheld, for
+publication of a notice of the decision of the Tribunal and the sanctions imposed.
+Agreed Statement of Facts
+3. Helpfully, the parties provided an Agreed Statement of Facts (“ASF”) that was relied
+upon by the Tribunal. The ASF is reproduced in part below.
+4. The Student was charged as follows:
+a. On or about November 14, 2023, you knowingly used and/or possessed an
+unauthorized aid or aids and/or obtained unauthorized assistance in connection
+with a midterm exam in MGEC06H3F, and/or attempted to do so, contrary to
+sections B.I.1(b) and/or B.II.2 of the Code.
+b. In the alternative, on or about November 14, 2023, you knowingly represented as
+your own an idea or expression of an idea or work of another in connection with a
+midterm exam in MGEC06H3F, or attempted to do so, contrary to sections
+B.I.1(d) and/or B.II.2 of the Code.
+c. In the alternative, on or about November 14, 2023, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with a midterm exam in
+
+2
+
+MGEC06H3F, contrary to section B.I.3(b) of the Code. (collectively referred to as
+the “Charges”)
+
+5. The Student acknowledged that he received a copy of the Charges, waived the reading of
+the Charges, and pleaded guilty to all Charges. The Provost agreed to withdraw charges
+#2 and #3 if a conviction was entered on charge #1.
+6. In Fall 2023, the Student enrolled in MGEC06H3F: Topics in Macroeconomic Theory
+(“MGEC06”), which was taught by Professor Muhebullah Karimzada.
+
+7. Students in the course were required to write two midterms (each worth 25%), a paper
+(worth 10%), and a final exam (worth 40%).
+The Midterm Exam
+8. The second midterm exam was administered in person on November 14, 2023 (the
+“Exam”). Professor Karimzada told students to turn off their electronic devices before he
+let them into the exam room.
+
+9. Shortly after he entered the exam room, the Student asked Professor Karimzada to use the
+washroom and indicated that it was urgent. The Student was coughing badly when he
+asked to use the washroom. Since the Exam had not started and students were still
+placing their belongings at the front of the room, Professor Karimzada allowed the
+Student to go to the washroom and asked him to be quick. After a couple of minutes, the
+Student returned, and the Exam started as usual.
+
+10. A couple of minutes later, Professor Karimzada saw that the question paper from the seat
+to the right of the Student was missing. Professor Karimzada counted the extra exams and
+the number of students in the room and found that he was missing a question paper.
+Professor Karimzada suspected that the Student was cheating, and asked Adrian Chan, an
+invigilator, to keep an eye on the Student.
+
+3
+
+11. During the Exam, Professor Karimzada and Mr. Chan saw that the Student would look
+around for quite some time and write nothing, and then suddenly start writing very fast.
+Mr. Chan suspected that the Student was cheating because he observed similar behaviour
+during other exams that he invigilated in which students had used miniature cameras and
+earpieces to communicate with third parties.
+
+12. At approximately 8:15 pm, Mr. Chan asked the Student to show him his ears. Mr. Chan
+saw that: it looked like the Student was trying to hide something; it looked like the
+Student was trying to remove something from his ears; and that something from near the
+Student’s head fell to the ground. The Student showed Mr. Chan his ears and said that he
+had nothing in his ears. Mr. Chan looked around the floor near the Student, but he did not
+find anything at this time, so he let the Student continue writing the Exam.
+
+13. Professor Karimzada approached the Student to check his progress. Professor Karimzada
+saw that the Student had completed questions 1 and 2, but that he was just staring at
+question 3. Professor Karimzada saw that, in question 1, the Student wrote "NPC" instead
+of "MPC”. Professor Karimzada asked the Student what he meant by “NPC” and the
+Student said that he did not know. Professor Karimzada suspected that the Student was
+cheating because “NPC” was not a term that they used in the course (the correct term was
+“MPC”) and the Student could not explain his answer. Professor Karimzada saw that,
+apart from the mistake about the term “NPC”, the Student’s answers were correct.
+
+14. Professor Karimzada asked the Student if he had his phone with him. The Student took a
+phone out from his pocket and Professor Karimzada saw that the phone was turned on.
+Professor Karimzada confiscated the Student’s phone and asked to see him after the
+Exam.
+
+15. Later that evening, Mr. Chan saw that the Student was trying to grab something from the
+floor with his foot. Mr. Chan walked over to the Student and saw that there was a broken
+earpiece on the floor near the Student. Mr. Chan picked up the broken earpiece and took
+it to the front of the room.
+
+4
+
+16. After the Exam concluded, the Student told Professor Karimzada that: he took the
+question paper from the exam room; he took pictures of the questions in the washroom;
+he sent pictures of the questions to two individuals whom he hired to give him answers;
+he flushed the question paper down the toilet; he erased the pictures on his phone; and the
+earpiece belonged to him. The Student then signed a form in which he admitted to
+possessing an unauthorized aid during the Exam.
+
+17. The Student subsequently handed in his Exam. Professor Karimzada saw that the Student
+had erased significant parts of his answers, including the acronym “NPC”.
+
+18. Professor Karimzada completed an Exam Incident Report about the incident. The Exam
+Incident report includes a picture of the earpiece that the Student wore during the Exam..
+The Dean’s Designate Meeting
+19. On January 3, 2024, the Office of the Vice-Principal Academic & Dean requested that the
+Student attend a Dean’s Designate meeting with Professor Nick Cheng to discuss the
+allegations that he committed an academic offence in connection with the Exam.
+20. On January 9, 2024, the Student attended a meeting with Professor Nick Cheng, a Dean’s
+Designate for academic integrity, and Sheryl Nauth, an Academic Integrity Specialist, to
+discuss the allegations. At the start of the meeting, Professor Cheng gave the Student the
+warning that is required by the Code.
+
+21. Professor Cheng told the Student that they would discuss the allegations about the
+MGEC06 Exam. Professor Cheng explained that: an invigilator saw the Student behaving
+strangely during the Exam in that he would not write anything and then he would write
+quickly; they found a phone in the Student’s possession and an earpiece presumably for
+communication; the Student allegedly received unauthorized assistance from someone
+outside the room; and there was a missing test in the seat beside the Student.
+
+5
+
+22. Professor Cheng read the specific wording of unauthorized assistance in the Code, and
+stated that, even if the Student decided that he did not actually receive assistance, the
+intent to do this and carrying out of that intent was considered an offence.
+
+23. Professor Cheng said that he would ask the Student a yes or no question, and that the
+Student would have an opportunity to explain later on. Professor Cheng asked the Student
+whether he admitted that he received unauthorized assistance or he attempted to receive
+unauthorized assistance on the Exam, and the Student said yes. Professor Cheng asked
+the Student whether he understood that his actions constituted an offence, and the Student
+said no.
+
+24. Professor Cheng asked the Student why he believed that he did not commit an offence.
+Professor Cheng said that he wanted to hear the explanation to understand what
+happened, and so that the Student could understand how to avoid this situation in the
+future. In response, the Student said that: after entering the exam room, he took the exam
+paper, folded it, and tucked it in his pocket; he told the teaching assistant that he needed
+to use the bathroom; once he was in the bathroom, he took pictures of the exam and sent
+them to a third party through Telegram (an encrypted messaging service); he ripped up
+the exam paper and flushed it down the toilet; he kept his phone on him and kept the call
+going with the third party; he returned to the exam room and took his seat; after about 20
+minutes, the third party did not give him any answers at all; the invigilator came to take
+attendance and noticed that he was not writing anything; the invigilator asked him if he
+was cheating and asked him to lift his hair to see whether he had headphones; when he
+lifted his hair, he unplugged the wireless headphone and the invigilator did not notice that
+it fell to the ground; he lost communication with the third party because the earpiece fell
+to the ground; he wanted to pick up the earpiece but it was too far away; the invigilator
+noticed the earpiece later on; and he told the professor that the third party helped him and
+gave him the earpiece.
+
+25. Professor Cheng asked the Student whether the third party was a person or a company
+and how he found out about them. In response, the Student said that: he thought they
+
+6
+
+were a group of people, but he was not sure; a friend told him about them at a party; he
+asked his friend for more information because he was interested; and his friend sent him a
+QR code so that he could get into a chat with them. Professor Cheng asked the Student
+whether he paid money for this service, and the Student said that he paid the tutors about
+$460.
+
+26. Professor Cheng explained to the Student that this was a serious matter, and that he
+would send him a follow-up letter. The Student stated that: this was his first attempt to
+cheat; he had family issues that affected him near the time of the exam; the earphone fell
+to the ground so he did not use it; he wrote the Exam by himself; he made a mistake; he
+did not have any excuse or reason; and he was sorry. Professor Cheng told the Student
+that the Vice-Provost would be in touch with him and that he should get legal counsel.
+Admissions and acknowledgements
+27. The Student admitted that: he used his phone to take and send pictures of the Exam to
+tutors whom he paid approximately $460 to solve questions on the Exam; the tutors told
+him answers to questions on the Exam by transmitting audio to a miniature earpiece that
+he wore during the Exam; he used the tutors’ answers on the Exam; and he performed no
+meaningful academic work on the Exam.
+
+28. The Student admitted that he falsely claimed that he did not obtain answers from the
+tutors during the Exam. The Student admitted that he erased some of the answers on his
+Exam in an attempt to cover up and minimize the misconduct.
+
+29. The Student admitted that he knowingly used and/or possessed an unauthorized aid or
+aids and/or obtained unauthorized assistance in the Exam, and/or attempted to do so,
+contrary to sections B.I.1(b) and/or B.II.2 of the Code.
+
+30. The Student admitted that he knowingly represented as his own an idea or expression of
+an idea or work of another in the Exam, or attempted to do so, contrary to sections
+B.I.1(d) and/or B.II.2 of the Code.
+
+7
+
+31. The Student admitted that he knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind in connection
+with the Exam, contrary to section B.I.3(b) of the Code.
+32. The Student acknowledged that he signed the ASF freely and voluntarily, knowing of the
+potential consequences he faces, and does so with the advice of counsel or having waived
+the right to obtain counsel.
+
+33. The Student acknowledged that the Provost made no representations to him regarding
+what penalty the Provost will seek in this proceeding.
+Finding
+34. Based on the admissions in the ASF, the Tribunal had no difficulty finding the Student
+guilty of one count of academic offence contrary to sections B.I.1(b) and/or B.II.2 of the
+Code.
+35. The Provost withdrew the other Charges.
+Penalty
+36. The Student and the Provost agreed on a Joint Submission on Penalty (“JSP”). They
+submitted that, in all the circumstances of his case, it was appropriate that the Tribunal
+impose the following sanctions on the Student:
+
+a. a final grade of zero in MGEC06;
+b. the Student will be suspended from the University of Toronto for a period of 5
+years, commencing on May 1, 2024;
+c. this sanction will be recorded on the Student’s academic record and transcript for
+a period of 7 years or until graduation, whichever comes first; and
+d. The case be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanction imposed in the University of Toronto newspapers,
+
+8
+
+with the name of the Student withheld.
+
+37. In addition to the JSP, the parties submitted an apology letter written and signed by the
+Student. In it, the Student expressed regret for his actions and accepted responsibility for
+them. He acknowledged the seriousness of his misconduct, the detrimental impact that
+cheating has on the integrity of the academic process and the unfairness caused to other
+students who do not cheat. The Student committed to modifying his behaviour in the
+future so that he would not feel the need to resort to cheating in difficult courses.
+38. The parties also submitted an Undertaking signed by the Student and Assistant Discipline
+Counsel on behalf of the University. In the Undertaking, the Student committed to
+completing at least six hours of “mutually agreeable academic success workshops offered
+by the University of Toronto”. The Undertaking stated that the Provost was agreeing to
+the JSP in reliance on the Undertaking. It also provided that the Student agreed that the
+University could prevent him from graduating until he fulfilled the Undertaking.
+39. When the Chair of the Tribunal raised questions about the purpose and authority for the
+Undertaking, the Panel was directed to several past decisions of the University Tribunal
+where forms of undertakings were presented during the penalty phase. The Provost
+confirmed that the Tribunal had no jurisdiction to enforce the Undertaking and the terms
+of the Undertakings were not found anywhere in the Code. In other words, they were not
+sanctions or terms that could be unilaterally imposed on the Student.
+40. The Provost submitted that the Undertaking should be viewed as a mitigating factor and
+that it was presented in support of the JSP. Given the seriousness of the Charges, the
+Provost may have sought a more severe sanction if not for the Undertaking. The Provost
+relied on the University of Toronto v. O.E. (Case No. 923, August 30, 2017) at paras. 2425 and 28 for the use of an Undertaking as a mitigating consideration.
+41. The introduction of undertakings into the discipline process should be approached with
+caution. Given the power imbalance between the student and the University, particularly
+when the student is unrepresented, care should be taken to ensure that the student fully
+appreciates the consequences of the terms they agree to in an undertaking as well as the
+
+9
+
+fact that those terms are sometimes, as in this case, not terms that could otherwise be
+imposed. It is not necessary in this case to comment further but there may well arise a
+future case where a tribunal will have to carefully scrutinize the reasonableness of an
+undertaking if it is proffered as part of the sentencing process and consider whether or not
+a joint submission on penalty can be adopted if the underlying undertaking is
+unreasonable in the circumstances.
+42. When considering the JSP, the Tribunal looked at the University of Toronto v. Mr. C
+(Case No. 1976/77-3; Nov. 5, 1976) (“Mr. C”) factors. It was also taken to a number of
+analogous cases for guidance on penalties imposed by other tribunals for similar
+offences.
+43. With respect to the Mr. C factors, the Student admitted guilt and expressed remorse. He
+cooperated with the discipline process. This character evidence was a mitigating factor.
+This was also the Student’s first academic offence.
+44. On the other hand, the use of unauthorized aids to cheat on the Exam and paying for
+unauthorized assistance are very serious offences and deserving of a significant sanction.
+This attack on academic integrity must have serious consequences to send a strong
+message of deterrence to the student population. There is no question that cheating of this
+nature has a detrimental impact on the University and other students who complete their
+work without paying someone else to do it for them.
+45. The Provost directed the Tribunal to three past decisions that involved convictions for
+unauthorized assistance where the student paid someone to help them cheat. Two of those
+decisions, University of Toronto v. Q.C. (Case No. 1505, November 24, 2023) and
+University of Toronto v. T.D. (Case No. 1560, June 3, 2024), saw 5-year suspensions
+imposed along with notations of 6 years and 7 years respectively. At the time of the
+Hearing, no sanction had yet been imposed in the third decision, University of Toronto v.
+X.S. (Case No. 1559).
+46. Considering the relevant Mr. C factors, along with the 5-year suspensions imposed in
+other analogous cases that the Tribunal was directed to, supports the reasonableness of
+
+10
+
+the JSP. The 7-year notation recognized the seriousness of the offence committed and is
+also in line with the longer notations imposed in the analogous past decisions.
+Consistency is a relevant sentencing consideration.
+47. Finally, applying the direction of the Discipline Appeals Board in University of Toronto
+v. M.A. (Case No. 837, December 22, 2016), the JSP cannot be said to be unreasonable or
+unconscionable. Therefore, this Tribunal should adhere to the agreement reached by the
+parties and reflected in the JSP.
+48. The Tribunal accepted the JSP and imposed the agreed-upon penalty on the Student.
+
+Dated at Toronto, this 16th day of October, 2024.
+
+Original signed by:
+_______________________________________
+Shaun Laubman, Chair
+On behalf of the Panel
+
+11
+
+

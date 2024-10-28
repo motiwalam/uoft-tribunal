@@ -1,0 +1,566 @@
+IN THE MATTER OF THE UNIVERSITY TRIBUNAL
+OF THE UNIVERSITY OF TORONTO (APPEAL DIVISION)
+IN THE MATTER OF charges of academic dishonesty filed on June 27, 2013,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995 (the "Code");
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, C. 88
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+Appellant
+and
+
+Respondent
+REASONS FOR DECISION
+
+Appeal hearing date: November 11, 2015
+Members of the Discipline Appeal Board:
+Ms. Patricia D.S. Jackson, Chair
+Ms. Jenna Jacobson, Student Panel Member
+Ms. Beth Martin, Student Panel Member
+Professor Elizabeth Peter, Faculty Panel Member
+Appearances:
+
+Rob Centa, for the Appellant, the University of Toronto
+
+-2-
+
+The Appeal
+L
+
+M s . ~ ' (the "Student") was charged, and convicted of the following academic
+
+offences (the "unauthorized assistance offences"):
+(1) On or about March 4, 2013, you knowingly obtained unauthorized
+
+assistance in connection with a partial essay draft that you submitted for
+academic credit in the Course, contrary to section B(i) 1(b) of the Code; and
+(2) On or about March 19, 2013, you knowingly obtained unauthorized
+assistance in connection with an essay that you submitted for academic credit
+in the Course, contrary to section B(i)l(b) of the Code; and
+2.
+
+The Student was also convicted of other academic offences, and a sentence imposed for
+
+all of the convictions. No appeal is taken from the other charges for which there were
+convictions, or in respect of sentencing.
+3.
+
+The Student was also charged and acquitted of the following academic offences (the
+
+"plagiarism offences"):
+(1) On or about March 4, 2013, you knowingly represented as your own an
+idea or expression of an idea and/or the work of another in a partial essay draft
+that you submitted for academic credit in the Course, contrary to section
+B(i)l(d) of the Code; and
+
+(2) On or about March 19, 2013, you knowingly represented as your own an
+idea or expression of an idea and/or the work of another in an essay that you
+submitted for academic credit in the Course, contrary to section B(i)l(d) of
+the Code.
+4.
+
+The University appeals the decision of the Trial Division of the University of Toronto
+
+Tribunal to acquit the Student in respect of the plagiarism offences.
+5.
+
+The University submits that the Tribunal erred in concluding that plagiarism under
+
+Section B(i)l(d) of the Code requires an "element of theft". The University further argues that
+
+-3-
+
+the "rule against multiple convictions" (often called the Kienapple principle) does not apply so as
+to prevent a conviction of plagiarism in respect of the same acts giving rise to a conviction for
+unauthorized assistance.
+
+The Student did not respond or attend
+6.
+
+As discussed in the Reasons for Decision of the Tribunal, the Student did not attend or
+
+participate in the Tribunal proceedings. Relying on the provisions of the Statutory Powers
+Procedure Act, and the Tribunal's Rules of Practice and Procedure, including the provisions that
+
+set forth the proper method of service, the Tribunal concluded that the Student had been properly
+served, and that it was appropriate to proceed in her absence.
+7.
+
+Similarly, on this appeal, the University led evidence that the Tribunal's Reasons for
+
+Decision, the Provost's Notice of Appeal, emails detailing the arrangements for the scheduling of
+this appeal and the Provost's materials on the appeal were all sent to the Student's email address
+as contained in ROSI (the Repository of Student Information). This is an authorized method of
+service under the Rules of Practice and Procedure. As it did in the case below, the University
+also couriered a letter confirming the time for the appeal, and a copy of the Provost's materials
+for the appeal to the Student's mailing address as listed in ROSI. However, the ROSI notation
+indicated the termination date for that address was the end of August 2013, and, indeed, the
+courier was unable to deliver anything to the Student at that address. The University advised that
+the Student has not responded to any of the communications sent to her, or otherwise participated
+in these proceedings, since her meeting with the Office of Student Academic Integrity in May of
+2013.
+8.
+
+Given the service of all relevant documents on the Student as required under the Rules of
+
+Practice and Procedure, the clear notification of the University's Policy on Official
+
+-4-
+
+Correspondence with Students, including the obligations thereby imposed, and the provisions of
+the Statutory Powers Procedure Act, we consider that the Student has been provided with
+reasonable notice and that it was appropriate to proceed in her absence. Reasonable notice was
+given and no response was received.
+The Decision Below
+9.
+
+The issues on appeal relate to the Student's submission of a partial essay draft, and the
+
+subsequent final essay in her East Asian Studies 209H course.
+10.
+
+Concerning those two documents, the Tribunal found that the evidence was clear that:
+•
+
+the Student obtained the assistance of another person - namely Doug Manson;
+
+•
+
+the writing styles manifested in both the partial draft essay and the final essay differed
+markedly from the writing style in the Student's in-class test;
+
+•
+
+the "document properties" of both the partial draft essay and the final essay revealed
+the author to be "Doug Manson";
+
+•
+
+when interviewed by the Dean's Designate, the Student did not know the meaning of
+some of the words used in in her essay and could not provide any details as to the
+process she followed in writing the essay; and
+
+•
+
+there was compelling evidence that the Student admitted that Mr. Manson had helped
+her with the partial essay and that he had written at least half of the final essay.
+
+11.
+
+The University does not dispute, and indeed it relies upon, these factual findings on the
+
+appeal.
+12.
+
+On the basis of these findings, the Tribunal found the Student guilty of the unauthorized
+
+assistance offences. The offence of unauthorized assistance, as set out in Section B(i) 1(b) of the
+Code is as follows:
+
+It shall be an offence for a student knowingly ... to use or possess
+an unauthorized aid or aids or obtain unauthorized assistance in
+
+-5-
+
+any academic examination or term test or in connection with any
+other form of academic work.
+13.
+
+The University also sought a conviction for plagiarism in respect of the partial essay and
+
+final essay under Section B.I. l(d) of the Code which provides:
+It shall be an offence for a student knowingly ...
+
+(d) to represent as one's own any idea or expression of an idea or
+work of another in any academic examination or term test or in
+connection with any other form of academic work, i.e. to commit
+plagiarism (for a more detailed account of plagiarism, see
+Appendix "A").
+Appendix "A" of the Code referred to in the offence section as providing "a more
+detailed account of plagiarism" reads as follows:
+In this Code, unless the context otherwise requires:
+(p) "plagiarism" The present sense of plagiarism is contained in
+the original ( 1621) meaning in English: "the wrongful
+appropriation and purloining, and publication as one's own, of the
+ideas, or the expression of the ideas ... of another." This most
+common, and frequently most elusive of academic infractions is
+normally associated with student essays. Plagiarism can, however,
+also threaten the integrity of studio and seminar room, laboratory
+and lecture hall. Plagiarism is at once a perversion of originality
+and a denial of the interdependence and mutuality which are the
+heart of scholarship itself, and hence of the academic experience.
+Instructors should make clear what constitutes plagiarism within a
+particular discipline;"
+14.
+
+The Tribunal declined to convict the Student of the plagiarism offences. In coming to
+
+this conclusion, the Tribunal noted that University counsel was not aware of any other cases in
+which a student had been convicted both of obtaining unauthorized assistance and of plagiarism
+in circumstances where a student submitted the work of another person.
+15.
+
+More importantly, the Tribunal noted, that Appendix "A" refers to the "purloining" of
+
+work as one's own, and hence, in the view of the Tribunal, necessarily includes the theft or
+misappropriation of the work of another. In other words, the Tribunal held, to convict a student
+
+-6-
+
+of plagiarism it was necessary to show that the Student had taken another's ideas or words
+without that person's permission. As there was no suggestion that the Student lacked permission
+from Doug Manson to use his ideas, indeed on the contrary the evidence suggested he had
+granted his permission, there was no basis upon which the Student be could convicted of the
+offence of plagiarism.
+16.
+
+On the basis of the convictions for the unauthorized assistance offences, and the
+
+convictions on other offences which are not the subject of this appeal, the Tribunal accepted the
+University's recommendation as to the appropriate penalty, namely a O in the course, a
+suspension for five years, a notation of the penalty on the Student's transcript until graduation,
+and a report for publication of the decision of the Tribunal. The University did not submit
+below, and did not submit on this appeal, that the sentence should be increased in the event of a
+conviction for the plagiarism offences.
+17.
+
+Having found that the evidence did not permit a conviction for plagiarism, it was not
+
+necessary and the Tribunal did not consider the question of whether if the facts established a
+basis for conviction of plagiarism, the rule against multiple convictions would preclude a
+conviction for both unauthorized assistance and plagiarism.
+Issues on Appeal
+18.
+
+The issues therefore raised by the appeal are:
+a. whether the Tribunal erred in concluding that plagiarism under Section B(i)l(d)
+of the Code requires an element of theft; and
+
+-7-
+
+b. whether the rule against multiple convictions applies so as to prevent a conviction
+of plagiarism in respect of the same acts giving rise to a conviction for
+unauthorized assistance.
+
+a. Whether Plagiarism under Section B(i)l(d) of the Code requires an element of theft
+The offence of plagiarism is defined in s. B .1.1(d) of the Code noted above at paragraph
+
+19.
+
+12. In the plain and ordinary meaning of the language used and incorporating the Code's
+definition of "knowingly" the offence is established if the Student knew or ought reasonably to
+have known that she was representing as her own, an idea or expression of an idea or work of
+another person.
+20.
+
+In this case, the Student submitted the ideas, expression of ideas and work of another
+
+person without attribution or any other indication that they were his. She represented those as
+her own. In the circumstances, the Student knew or ought reasonably to have known that she
+was doing so.
+21.
+
+We conclude that the University has established the offence of plagiarism.
+
+22.
+
+We disagree that the University is required to establish, in addition, that the Student was
+
+using the ideas or words of another without that person's permission, or in other words that there
+was an element of theft. We come to this conclusion for several reasons:
+•
+
+There is no element of theft contained in the section of the Code that defines the offence
+of plagiarism, section B.l. l(d). The Tribunal's decision to import or read in an element
+of theft is inconsistent with the clear and unambiguous language of s.B.l. l(d). The word
+"purloining", on which the Tribunal's interpretation turned, does not define the
+plagiarism offence. It is found in Appendix A which contains "a more detailed account
+
+-8-
+
+of plagiarism" and there is nothing to suggest that this is intended to derogate or
+otherwise modify the offence defined in s. B .I.1 (d) of the Code. Indeed, when read in
+context1, we interpret "purloining" as referring to the taking of another's ideas or words
+without proper attribution, as the balance of the sentence indeed makes clear.
+•
+
+We also agree with the University that it is appropriate to read the word "purloining" in
+the context of the Code as a whole. As the Code indicates in multiple places, including in
+the preamble, it is concerned with "the integrity of the teaching and learning relationship,
+openness, honesty and courtesy before any private interests" and "to ensure that academic
+achievement is not obscured or undermined by cheating or misrepresentation, that the
+evaluation process meets the highest standards of fairness and honesty and that
+malevolent or even mischievous disruption is not allowed to threaten the educational
+process". Viewed in the light of the Code's expressed objectives, the plagiarism offence
+is not designed to protect the private interests of third parties, including authors, from the
+unauthorized copying of their works, but rather to ensure that a student is prohibited from
+obtaining academic credit for someone else's work.
+
+•
+
+The Tribunal's interpretation of the plagiarism offence is completely unworkable (and
+undesirable) in the academic setting. If the element of theft (or a lack of consent by the
+author) is required to make out the offence of plagiarism, then the University would be
+required in every case to prove that the author did not consent to the student's use of his
+or her idea, expression or work. The University cannot be expected to call the author of
+any article, textbook, internet page or otherwise that the student has copied without
+
+1 Appendix A reads: "The present sense of plagiarism is contained in the original (1621) meaning in English: "the
+wrongful appropriation and purloining, and publication as one's own. of the ideas, or the expressions of the ideas ...
+of another."
+
+-9-
+
+appropriate attribution to testify to the lack of consent. Nor is it appropriate that a student
+could successfully defend a charge of plagiarism by leading evidence that the author of
+an unattributed work expressly or impliedly consented to her use of the work. The
+consent, for example of a paid author, would not be an appropriate answer to a charge of
+plagiarism. It is precisely because of this fact that many of the examples of plagiarism
+convictions under the Code occur when students have paid consenting third parties to
+create the work on their behalf.
+In the result, we conclude that it is not an element of the offence of plagiarism that the
+misrepresentation of work of another person as the student's own be shown to be done without
+the consent of that other person. On the facts of that case, the offence of plagiarism was made
+out.
+
+b. Whether the Rule against Multiple Convictions prevents a conviction of Plagiarism in
+respect of the same acts giving rise to a conviction for Unauthorized Assistance
+23.
+
+This then leads to an issue which the Tribunal, given its findings, did not address, and
+
+that is whether the rule against multiple convictions prevents a conviction for plagiarism in
+respect of the same acts giving rise to a conviction for unauthorized assistance. For the reasons
+that follow, we conclude that it does.
+24.
+
+It does not appear that this issue has been previously addressed in decisions of the
+
+University Tribunal at either level.
+25.
+
+The Tribunal appears to have misinterpreted the University's statement as to whether
+
+there have been previous cases of conviction for both unauthorized assistance and plagiarism for
+the same acts. The University referred to three cases in which a student was convicted of
+plagiarism and unauthorized assistance: University of Toronto v.
+
+511-•~ (Case 601),
+
+- 10 -
+
+University of Toronto v. J9~ ~ (Case 602), and University ofv. . - ~ (Case
+539). 2 However, each of these cases was decided on the basis of an agreed statement of fact, an
+
+agreement as to which charges would proceed and which would be withdrawn, and a guilty plea.
+Before the Tribunal and before the University conceded that there was no argument or
+consideration of whether it was appropriate to enter convictions for both prevented plagiarism
+and unauthorized assistance on the facts of those cases.
+26.
+
+The University also noted the case of the University of Toronto v. , , . LJ3( Case 410 ), in
+
+which the Tribunal dismissed multiple charges in respect of the same act, and entered a
+conviction in respect of one count only relating to each event of misconduct on the basis that the
+other charges were duplicative. 4 In effect, the Tribunal appears to have invoked the principle
+underlining the rule against multiple convictions without expressly considering the rule.
+27.
+
+The rule against multiple convictions has developed in the criminal context, and been
+
+well established as a matter of Canadian law since at least the decision in Kienapple v. The
+
+Queen, [1975] 1 S.C.R. 729. The essence of the rule is that "Canadian courts have long been
+concerned to see that multiple convictions are not without good reason heaped on an accused in
+respect of a single criminal delict." 5 The principle is equally applicable in the case of noncriminal convictions, such as those in issue here.
+28.
+
+The rule against multiple convictions is applicable where there is a relationship of
+
+sufficient proximity between (1) the facts and (2) the offences which form the basis of the two or
+more charges.
+
+2
+
+Decided on March 8, 2011, May 6, 2011 and August 11, 2009, respectively.
+
+3 August 20, 2007
+
+4 ■, supra, at para. 27
+5 R.
+
+v. Prince, [1986] 2 S.C.R. 480
+
+- 11 -
+
+29.
+
+The requirement for a factual nexus essentially asks whether the charges are both
+
+grounded in the same transaction or act. Here, the charges of plagiarism and unauthorized
+assistance clearly arise from the same act. The first charge of plagiarism and unauthorized
+assistance relates to the submission of a partial essay draft on March 4, 2013, and the second
+charge of plagiarism and unauthorized assistance relates to the submission of a final essay on
+March 19, 2013.
+30.
+
+The requirement for a sufficient proximity between the offences which form the basis of
+
+the charge is that if there are no "additional or distinguishing elements going to guilt in the
+second offence for which conviction is sought which are not present in the first offence".
+31.
+
+In this case, the offence for which the Student has already been convicted occurred when
+
+the Student used or possessed an unauthorized aid or aids or obtains unauthorized assistance in
+the writing of the partial essay and the final essay. The offence of plagiarism occurred when the
+Student represented as her own any idea or expression of an idea or work of another in the partial
+essay and the final essay.
+32.
+
+Rather than creating any additional or distinguishing elements to the offence of
+
+unauthorized assistance, the offence of plagiarism on the facts of this case is in effect a particular
+method of obtaining unauthorized assistance. The assistance which forms the foundation for the
+Student's guilt under the offence of unauthorized assistance is the use of the work of another -- a
+partial essay in one case and a final essay in the second. The reason that the assistance is
+unauthorized under the Code is that work was represented as the work of the Student. In effect
+the plagiarism for which the University seeks the conviction of the Student is no more than a
+specification of the means by which the Student employed unauthorized assistance. It does not
+add any distinguishing or additional element to the offence of unauthorized assistance.
+
+- 12 33.
+
+While not determinative, we note that the University's decision here and below not to
+
+seek any additional penalty in respect of the plagiarism offences reinforces the conclusion that
+they do not add anything additional to the elements of the unauthorized assistance offences.
+34.
+
+In the circumstances, we are of the view that on the facts of this case, there is sufficient
+
+nexus between the offences and the facts on which they are based to engage the rule against
+multiple convictions.
+35.
+
+In the result, we conclude that the Tribunal erred in concluding that the evidence did not
+
+establish an offence of plagiarism, but that the rule against multiple convictions prevents a
+conviction for both the unauthorized assistance offences and the plagiarism offences.
+36.
+
+We accordingly dismiss the appeal.
+
+,r
+
+February
+
+j , 2016.
+Jenna Jacobson, Student Panel Member
+
+Beth Martin, Student Panel Member
+
+Professor Elizabeth Peter, Faculty Panel Member
+
+- 12 33.
+
+While not determinative, we note that the University's decision here and below not to
+
+seek any additional penalty in respect of the plagiarism offences reinforces the conclusion that
+they do not add anything additional to the elements of the unauthorized assistance offences.
+34.
+
+In the circumstances, we are of the view that on the facts of this case, there is sufficient
+
+nexus between the offences and the facts on which they are based to engage the rule against
+multiple convictions.
+35.
+
+In the result, we conclude that the Tribunal erred in concluding that the evidence did not
+
+establish an offence of plagiarism, but that the rule against multiple convictions prevents a
+conviction for both the unauthorized assistance offences and the plagiarism offences.
+36.
+
+We accordingly dismiss the appeal.
+
+February 3
+
+, 2016.
+Patricia D.S. Jackson, Chair
+
+r
+Jenna Jacobson, Student Panel Member
+
+Beth Martin, Student Panel Member
+
+Professor Elizabeth Peter, Faculty Panel Member
+
+- 12 33.
+
+While not determinative, we note that the University' s decision here and below not to
+
+seek any additional penalty in respect of the plagiarism offences reinforces the conclusion that
+they do not add anything additional to the elements of the unauthorized assistance offences.
+34.
+
+In the circumstances, we are of the view that on the facts of this case, there is sufficient
+
+nexus between the offences and the facts on which they are based to engage the rule against
+multiple convictions.
+35.
+
+In the result, we conclude that the Tribunal erred in concluding that the evidence did not
+
+establish an offence of plagiarism, but that the rule against multiple convictions prevents a
+conviction for both the unauthorized assistance offences and the plagiarism offences.
+36.
+
+We accordingly dismiss the appeal.
+
+February
+
+, 2016.
+Patricia D.S. Jackson, Chair
+
+Jenna Jacobson, Student Panel Member
+
+Beth Martin, Student Panel Member
+
+Professor Elizabeth Peter, Faculty Panel Member
+
+- 12 33.
+
+While not determinative, we note that the University's decision here and below not to
+
+seek any additional penalty in respect of the plagiarism offences reinforces the conclusion that
+they do not add anything additional to the elements of the unauthorized assistance offences.
+34.
+
+In the circumstances, we are of the view that on the facts of this case, there is sufficient
+
+nexus between the offences and the facts on which they are based to engage the rule against
+multiple convictions.
+3 5.
+
+In the result, we conclude that the Tribunal erred in concluding that the evidence did not
+
+establish an offence of plagiarism, but that the rule against multiple convictions prevents a
+conviction for both the unauthorized assistance offences and the plagiarism offences.
+36.
+
+We accordingly dismiss the appeal.
+
+February
+
+, 2016.
+Patricia D.S. Jackson, Chair
+
+Jenna Jacobson, Student Panel Member
+
+Beth Martin, Student Panel Member
+
+Professor Elizabeth Peter, Faculty Panel Member
+
+

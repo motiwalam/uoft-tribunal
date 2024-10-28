@@ -1,0 +1,361 @@
+Case No.: 931
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on April 25, 2017,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+C. 88
+
+BETWEEN:
+
+UNIVERSITY OF TORONTO
+- and -
+
+REASONS FOR DECISION
+
+Date of Hearing: July 28, 2017
+
+Members of the Panel:
+Ms. Amanda Heale, Chair
+Professor Pascal van Lieshout, Faculty Panel Member
+Ms. Alanis Ortiz Espinoza, Student Panel Member
+Appearances:
+Mr. Robert Genta, Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+In Attendance:
+Ms. Lucy Gaspini, Manager, Academic Integrity & Affairs, UTM
+Ms. Alexandra Di Blasio, Academic Integrity Assistant, UTM
+Ms. Krista Osbourne, Administrative Clerk and Hearing Secretary, Office of the Appeals,
+Discipline and Faculty Grievances
+Mr. Sean Lourim, IT Support, Office of the Governing Council
+Mr. Douglas Harrison, Tribunal Co-Chair, Observer
+Not in Attendance:
+Ms. ~ ~ . the Student
+
+2
+
+Introduction
+1.
+
+--
+
+A hearing before the University Tribunal (the “Tribunal”) was convened on July 28,
+
+2017 to consider the Charges (as defined below) against the Student, C
+
+W
+
+(the “Student”). Counsel for the University presented a Consent (the “Consent”), signed
+by the Student, acknowledging notice of the hearing and requesting that the Tribunal
+
+proceed in the Student’s absence. The Consent was marked as Exhibit 1. On the strength
+of the Consent, Counsel asked that the Tribunal proceed in the absence of the Student,
+and the Panel so ordered.
+The Charge
+2.
+
+The charges against the Student (the “Charges”) are as follows:
+(a)
+
+On or about July 11, 2016, you knowingly represented as your own idea or
+expression of an idea, and/or the work of another in your final paper
+assignment, which you submitted for academic credit in HIS385YO, 2016
+(5) (the “Course”) contrary to Section B.I.1(d) of the Code.
+
+(b)
+
+In the alternative, on or about July 11, 2016, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection
+with academic work, which violated section B.I.3(b) of the Code.
+
+Particulars
+3.
+
+The particulars of the offences charged are as follows:
+(a)
+
+At all material times you were a registered student at the University of
+Toronto Mississauga.
+
+(b)
+
+In May 2016, you enrolled in the Course, which was taught by Prof. John
+Carroll.
+
+(c)
+
+Students were required to submit a final paper worth 35% of the final
+grade as part of the Course requirements.
+
+(d)
+
+On or about July 11, 2016, you submitted the paper titled “How did
+Japanese Occupation from 1941-1945 affect the History of Hong Kong?”
+for academic credit in the Course. It contained ideas, the expression of
+
+3
+
+ideas, and verbatim or nearly verbatim text from various online sources.
+(e)
+
+You knowingly represented the work of other persons as your own. You
+knowingly included ideas and expressions that were not your own, but
+were the ideas and expressions of other persons, which you did not
+acknowledge.
+
+(f)
+
+For the purposes of obtaining academic credit and/or other academic
+advantage, you knowingly committed plagiarism in the submission
+described above.
+
+Agreed Statement of Facts
+4.
+
+The hearing proceeded on the basis of an Agreed Statement of Facts (the "ASF"),
+
+which was marked as Exhibit 2. Counsel also presented a Joint Book of Documents (the
+"JBD") that is referred to in the ASF, which was marked as Exhibit 3. A summary of the
+agreed facts follows.
+5.
+
+In Summer 2016, the Student enrolled in HIS385Y0 L30002 - History of Hong
+
+Kong (the "Course").
+
+The Course was offered through the University of Toronto's
+
+Summer Program in Hong Kong. Prof. John Carroll taught the Course, and a copy of his
+Course Syllabus is included in the JBD at Tab 4.
+6.
+
+The Course explored the history of Hong Kong since the early 1800s from four
+
+angles: Chinese history, British Imperial history, world history, and as a place with its own
+identity.
+7.
+
+A student's grade in the Course was based on a number of different assignments.
+
+One of the assignments required students to complete a research paper of approximately
+3,000 to 4,000 words. This paper could be submitted by students individually, or as part
+of a group of up to five students. The research paper was worth 35% of the final grade in
+the Course.
+8.
+
+Prof. Carroll advised students in the Syllabus that their assignments might be
+
+submitted to Turnitin.com and contained an express warning about plagiarism:
+
+4
+
+Selected written assignments will be submitted to Turnitin.com for verification.
+Any case of plagiarism will result in a failing grade for that assignment and
+disciplinary action from the University of Toronto. Please do not even think of
+plagiarizing!
+
+9.
+
+The Syllabus also contained the assignment for the research paper. It advised
+
+students as follows:
+Use direct quotes sparingly. Generally, put the passage in your own words and
+cite your source. If you use direct quotes make them very brief. You should also
+cite page numbers whenever you mention specific details from the readings.
+Footnotes enable you to acknowledge quotations or ideas that are not your own,
+and to protect yourself from charges of plagiarism (stealing someone else's
+words or ideas). You must use footnotes whenever you use a direct quote from a
+document or a secondary source (such as a book or article), or whenever you
+use someone else's ideas, even when you are not making a direct quotation.
+Bibliography
+Provide a list, without numbers and alphabetized by the surname of the author, of
+all sources that you have used.
+
+10.
+
+On or about July 11, 2016, the Student and three other students submitted a paper
+
+titled "How Did Japanese Occupation from 1941-1945 affect the History of Hong Kong?"
+in completion of the research paper assignment ("Essay"). A copy of the Essay is included
+in the JBD at Tab 5
+11.
+
+Prof. Carroll reviewed a Microsoft Word version of the Essay. He used the track
+
+changes feature of Microsoft Word to mark his comments on the Essay ("Annotated
+Essay"). A copy of the Annotated Essay is included in the JBD at Tab 6
+12.
+
+On July 18, 2016, Prof. Carroll submitted the Essay to Turnitin.com. A copy of the
+
+Turnitin Originality report is included in the JBD at Tab 7 Prof. Carroll was concerned by
+the high similarity index (33%) and the fact that there appeared to be a significant match
+between the Essay and a Wikipedia article, which the students had not included in
+Essay's bibliography.
+13.
+
+Prof. Carroll located the Wikipedia article on the Japanese Occupation of Hong
+
+Kong. A copy of excerpts of the Wikipedia Article is included in the JBD at Tab 8 Prof.
+
+5
+
+Carroll compared the Wikipedia article to the Essay and concluded that the students had
+included verbatim and nearly verbatim excerpts from the Wikipedia article in the Essay
+without appropriate attribution.
+
+14.
+
+A highlighted copy of the Essay ("Highlighted Essay") is included in the JBD at Tab
+
+9
+
+15.
+
+The lettered and highlighted portions of the Highlighted Essay correspond to those
+
+in the highlighted version of the Wikipedia article, which is included in the JBD at Tab 10
+
+16.
+
+The students submitted the Essay on July 11, 2016, which was the day after the
+
+Course ended. For that reason, Prof. Carroll was not able to discuss his concerns about
+the Essay with any of them. Although he was not able to discuss the case with the
+students in person, he did notify them by email on July 23, 2016, that he had discovered
+the plagiarism and had reported the case to Woodsworth College. The Student did not
+reply to that email message.
+
+17.
+
+On January 31, 2017, the Student met with Prof. Michael Georges, the Dean's
+
+Designate for Academic Integrity at the University of Toronto Mississauga. During this
+meeting, the Student admitted that by submitting the Essay, she committed the offence
+of plagiarism as described by the Code.
+18.
+
+The Student admits that she knowingly:
+(a)
+(b)
+(c)
+(d)
+(e)
+
+19.
+
+included verbatim and nearly verbatim excerpts from the Wikipedia article in the
+Essay;
+failed to attribute those verbatim and nearly verbatim excerpts appropriately
+using quotation marks and appropriate citations;
+represented the ideas and work found in the sources as her own;
+committed plagiarism contrary to section B.1.1 (d) of the Code; and
+engaged in a form or cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit, contrary to section B.l.3(b)
+of the Code.
+
+The Student acknowledges that the Provost advised her of her right to obtain legal
+
+counsel and that she either obtained that advice or waived her right to do so. The Student
+
+6
+
+acknowledges that she is signing this ASF freely and voluntarily, knowing of the potential
+consequences she faces.
+Findings on Charges
+20.
+
+Following deliberations and based on the ASF and the JBD, the Panel concluded
+
+that the first charge (as outlined in paragraph 2 above) had been proven with clear and
+convincing evidence on a balance of probabilities, and accepted the guilty plea of the
+Student in respect of that charge. The Panel was advised that if the Tribunal convicts the
+Student on the first charge, the University would withdraw the alternative charge.
+Penalty
+21.
+
+The University and the Student submitted an Agreed Statement of Facts and Joint
+
+Submission on Penalty (the "JSP"), which was marked as Exhibit 4. In the JSP, the parties
+submitted that the Tribunal should impose the following sanctions on the Student:
+a) a final grade of zero in HIS385Y0 L30002 - History of Hong Kong (the
+"Course");
+b) a suspension from the University for three years commencing January 1,
+2018;and
+c) a notation of the sanction on her academic record and transcript for four
+years from the day the Tribunal makes it order.
+22.
+
+The parties also submitted that this case shall be reported to the Provost for
+
+publication of a notice of the decision of the Tribunal and the sanction imposed in the
+University newspapers, with the name of the Student withheld.
+23.
+
+Counsel for the University provided submissions on the high threshold required for
+
+a Tribunal to deviate from a joint submission on penalty. As set out in the Discipline
+Appeals Board decision in The University of Toronto and M.A. (Case No. 837, December
+22, 2016), a joint submission on penalty "may be rejected by a panel only in
+
+7
+
+circumstances where to give effect to it would be contrary to the public interest or would
+bring the administration of justice into disrepute" (para 25).
+24.
+
+The Student is currently serving a 12 month suspension for academic misconduct,
+
+and it was for this reason that the JSP proposed a 3-year suspension commencing on
+January 1, 2018. Counsel for the University submitted that it is important that sentences
+not overlap when they both arise from academic misconduct.
+25.
+
+In the Panel's view, the joint submission in this case is reasonable. In particular,
+
+the Panel took into consideration the seriousness of the offence, as well as the fact that
+this was not the Student's first offence. As reflected in the JSP, the Student had previously
+been sanctioned for obtaining an academic advantage over other students and for
+unauthorized assistance and plagiarism. The latter offence was admitted by the Student
+only three months prior to the conduct that gave rise to the Charges.
+26.
+
+However, there were also mitigating factors to consider. The Student had
+
+cooperated in the process and entered into the ASF and JSP, thereby showing that she
+had accepted responsibility for her conduct.
+27.
+
+Having regard to the above, and based on its review of similar cases presented by
+
+counsel to the University, the Panel agreed that the recommended sanctions are
+appropriate in the circumstances, and made the following order:
+a) The Student is guilty of one count of the academic offence of plagiarism,
+contrary to section B.1.1 (d) of the Code of Behaviour on Academic Matters.
+b) the following sanctions shall be imposed on the Student:
+i.
+
+a final grade of zero in HIS385Y0 L3002;
+
+ii.
+
+a suspension from the University for three years commencing
+January 1, 2018; and
+
+iii.
+
+a notation of the sanction on her academic record and transcript for
+four years from the day the Tribunal makes its order.
+
+8
+
+c) this case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction or sanctions imposed, with the
+name of the Student withheld
+
+Dated at Toronto, this
+
+J1+'of October, 2017,
+
+

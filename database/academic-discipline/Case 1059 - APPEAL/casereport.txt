@@ -1,0 +1,640 @@
+Case No. 1059
+
+THE DISCIPLINE APPEALS BOARD
+THE UNIVERSITY OF TORONTO
+IN THE MATTER of charges of academic dishonesty made on January 9, 2020
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995 (the "Code")
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+J
+
+H
+
+L
+Appellant
+- and –
+
+UNIVERSITY OF TORONTO
+Respondent
+
+REASONS FOR DECISION
+Appeal Hearing Date: March 3, 2022, via Zoom
+Members of the Discipline Appeals Board Panel:
+Ms. Patricia D.S. Jackson, Senior Chair
+Professor Ramona Alaggia, Faculty Panel Member
+Mr. Amin Kamaleddin, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel for University, Paliare Roland Rosenberg
+Rothstein LLP
+Mr. William Webb, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. J
+H
+L
+Hearing Secretary:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+
+-2-
+
+The Appeal
+1.
+
+Ms. J
+
+H
+
+L
+
+(the “Student”) appeals from the decision of the University
+
+Tribunal of January 19, 2021. The Tribunal found the Student guilty of altering and falsifying
+her midterm exam in GGR308 (the “Course”) and of making use of the falsified document (the
+“Resubmitted Exam”) by submitting it for re-grading in an attempt to obtain additional marks.
+The Tribunal found this conduct was contrary to section B.I.1 (a) of the Code of Behaviour on
+Academic Matters (the "Code”). The Tribunal ordered that the Student receive a final grade of
+zero in the Course and that she be suspended from the University for a period of four years, with
+the sanction being recorded for a period of five years in the Student’s academic record and
+transcript.
+
+2.
+
+The Resubmitted Exam which is the foundation of the offence that was found to have
+
+occurred contains marks for the questions in the exam which differ in a number of places from
+the marks recorded by the Professor and the Teaching Assistant who marked the exam.
+
+3.
+
+The Student submits that the Tribunal erred in failing to address several places where the
+
+Student alleges that, based on the markings and notations on the Resubmitted Exam described
+more fully below, the University failed to prove that those differences demonstrate that she had
+falsified the original exam paper. She says that the Tribunal did not adequately consider her
+evidence and these issues raise “doubts and discrepancies”. She says that she is entitled to the
+presumption of innocence, and that the matters she says the Tribunal did not consider raise a
+reasonable doubt that she is guilty, with the result that the Tribunal’s decision should be
+reversed.
+
+4.
+
+For the reasons that follow, we dismiss the appeal.
+
+The Decision Below
+5.
+
+The University's case was essentially based on the evidence of two witnesses and the
+
+associated documents.
+Evidence of the Teaching Assistant
+
+-3-
+
+6.
+
+Ms. Kira Holland was a Teaching Assistant for the Course, and marked a substantial
+
+portion of the mid-term examination in issue. At the time she had been a Teaching Assistant for
+two years. She was responsible for marking Parts 1 to 3 and a portion Part 4 of the mid-term
+exam and Professor Peirce, the Course professor, marked the balance of Part 4.
+
+7.
+
+Ms. Holland described her usual practice for grading exams, which she would have
+
+followed in this case. She marked by question, rather than by exam paper, using an erasable red
+pen. She added check marks, comments and corrections to each exam paper. For this mid-term
+she added the marks for each part and wrote the sum on the front of the exam booklet. In doing
+so she testified that she would have followed her usual process of adding up all the marks twice
+to ensure accuracy and/or spot-checking random exam booklets to verify that the marks added
+up.
+
+8.
+
+She then entered the marks for each student in an Excel spreadsheet (the "Holland
+
+Spreadsheet") and used the addition function on Excel to double check her addition of a total
+grade on the front of each examination booklet.
+
+9.
+
+In the case of the Student, this resulted in a record on the Holland Spreadsheet of 10
+
+marks for Part 1, 7.5 marks for Part 2, 7.5 marks for Part 3, for a total of 25 out of a possible 46
+marks for Parts 1 to 3. She also recorded a mark of 25 out of a possible 62 for the portion of Part
+4 that she marked.
+
+10.
+
+The Resubmitted Exam that is the basis of the offence sets out 7 questions of those
+
+marked by Ms. Holland in which the mark differs from the marks recorded on the Holland
+Spreadsheet or the subsequently and separately prepared spreadsheet created by Professor Peirce
+(the “Peirce Spreadsheet”). Ms. Holland testified that although it was always possible to make an
+error, in her experience marking discrepancies have always been an issue of one or two points
+and almost always based on content, not addition. Given that the discrepancies on the
+Resubmitted Exam occurred in 2 separate parts of the exam, and that to her knowledge no other
+
+-4-
+
+students had raised any concerns about the marking of the exam, she did not believe she had
+made the errors that the Resubmitted Exam indicated.
+Evidence of the Course Professor
+11.
+
+Professor Sarah Peirce is an Assistant Professor in the Department of Geography and
+
+Planning. She taught the course in issue. She confirmed that she was responsible for marking the
+balance of the exam. She received from Ms. Holland the examination papers with the marks that
+Ms. Holland had awarded, and the Holland Spreadsheet.
+
+12.
+
+She then marked the remaining questions. As Ms. Holland had done, she used an erasable
+
+red pen to mark the exam.
+
+13.
+
+She then created a more detailed spreadsheet (the "Peirce Spreadsheet") of her own in
+
+which she recorded the total marks that each student had received on each portion of the
+questions as reflected in Ms. Holland's red ink notations on the examination booklet. The
+spreadsheet was not only more detailed than the Holland Spreadsheet, it was, because it was
+based on the examination booklets themselves, created independently of the Holland
+Spreadsheet.
+
+14.
+
+According to both the Holland Spreadsheet (as it related to the questions marked by Ms.
+
+Holland) and the Peirce Spreadsheet, the Student received a total of 35.5 marks. The Professor
+awarded two bonus marks to all of the students after she reviewed the marks and concluded the
+exam had been too difficult. In the result the Student's exam received a total of 37.5 marks, for a
+grade of 60%.
+
+15.
+
+Two days after returning the marked exams to the students, the Professor received an
+
+email from the Student stating that, while the total score for her examination was correct, some
+parts of the exam “might not be” correct. The Student said she could not attend the Professor’s
+office but offered to send a picture of the examination so that it could be corrected. The timing of
+this email was within the 2-week period within which a student might request a change in exam
+marks.
+
+-5-
+
+16.
+
+At the Professor’s urging, the Student in fact attended at her office at which time she
+
+provided the Professor with the Resubmitted Exam, which she claimed was the exam she had
+received back after marking. She described concerns that she had with possible inaccuracy of the
+sum of the marks recorded, and described what she said were discrepancies between individual
+markings of questions within the exam and the total recorded on the front page (the 35.5 marks
+which became 37.5 as a result of the two bonus marks). The Professor and the Student confirmed
+that the Student’s arithmetic was correct on the basis of individual marks written in red ink
+within the Resubmitted Exam and on that basis the Professor agreed to increase the Student’s
+mark from 35.5 to 43.5, which became 45.5 as a result of the bonus marks.
+
+17.
+
+The Professor retained the Resubmitted Exam.
+
+18.
+
+In reviewing the Resubmitted Exam more carefully after her meeting with the Student,
+
+the Professor observed a number of anomalies that caused her concern. It appeared that some
+comments by Ms. Holland and or the Professor had been erased and/or whited out. It also
+appeared that some marks had been changed using a red pen similar to the one used by Ms.
+Holland and the Professor.
+
+19.
+
+It then became apparent that several marks for the individual questions and one of the
+
+total marks in the Resubmitted Exam that the Student had produced differed from those recorded
+on the Peirce Spreadsheet, and from the totals in the Holland Spreadsheet, and that those
+differences produced a total of eight additional marks. The Professor summarized the additional
+marks not reflected in the Peirce spreadsheet as follows:
+Question
+Part 2, Q. i
+Part 2, Q. iv
+Part 3, Q. 18
+Part 3, Q. 20
+Part 3, Q. 21
+
+Exam for Remarking
+3
+3
+1
+4.5
+2.5
+
+Peirce
+Spreadsheet
+1.5
+1.5
+0
+1.5
+1.5
+
+Difference
++1.5
++1.5
++1
++3.0
++1.0
+
+-6-
+
+Part
+Part 1
+Part 2
+Part 3
+Part 4
+Total
+20.
+
+Cover of Exam Internal Exam Peirce
+for Re-marking for Re-marking Spreadsheet
+10
+10
+10
+2.5
+10.5
+7.5
+12.5
+12.5
+7.5
+10.5
+10.5
+10.5
+35.5 + 2
+43.5
+35.5 + 2
+
+Holland
+Spreadsheet
+10
+7.5
+7.5
+n/a
+n/a
+
+The Professor created a black-and-white photocopy of the Resubmitted Exam on which
+
+she highlighted in yellow words that she suspected had been erased or whited out or where
+changes had been made. She also added comments detailing her suspicions in red as well as
+circling in red the comments that she had added to the Resubmitted Exam during her meeting
+with the Student.
+
+21.
+
+The Professor testified that she did not recall any other students in the Course raising
+
+concerns about the grading of their exam or the calculation of marks. She also reviewed her
+emails and did not have any request from other students in the Course to review their exams or to
+schedule a meeting with her.
+
+22.
+
+She further noted that she found Ms. Holland to be an experienced teaching assistant and
+
+grader and that she trusted the accuracy of Ms. Holland and her spreadsheet.
+
+Evidence of the Student
+23.
+
+The Student testified that when she received her exam back she saw that the internal
+
+marks did not match up with the top marks on the page and that she had questions with respect to
+the comments. So, she emailed the Professor and asked how it could be reviewed.
+
+24.
+
+She said that she met with the Professor and pointed out the difference between the
+
+internal marks and the mark at the top of the page of the test, with the result that the Professor
+agreed to change the marks, but also asked to keep the examination paper for her review.
+
+25.
+
+She maintained that she used a black pen when she wrote the examination and confirmed
+
+that she had made no changes. She denied making any changes subsequently and indicated that
+
+-7-
+
+someone else must have made them and that any error in the marking had to have been made by
+someone else.
+
+26.
+
+When the Student met with the Professor to discuss the exam and the marking she was
+
+not aware of the existence of the Peirce and Holland Spreadsheets.
+
+27.
+
+When the discrepancies between the marks recorded on the Peirce and Holland
+
+Spreadsheets and those resulting from the additional marks apparently shown on the Resubmitted
+Exam were pointed out, the Student then denied that she had sought additional marks in her
+meeting with the Professor. She said that there was no significance to the timing of her original
+email (within the limited time in which additional marks could be sought) and denied that her
+original meeting with the Professor was to seek additional marks. She said she was only seeking
+clarification on comments in the paper that she did not understand. She also denied that she was
+happy when during the meeting the Professor increased her mark.
+
+28.
+
+When questioned as to how this was consistent with her original suggestion that she send
+
+the exam to the Professor by photograph (a process that, had it occurred, we note might have
+increased her mark, but would have shed no light on the comments) she denied seeking a higher
+mark and again asserted she was simply seeking clarification of the comments.
+
+29.
+
+With respect to the portions of the answers that had been whited out, the Student
+
+maintained that the whiting out had all been done during the exam, out of a concern that if she
+wrote too much she might be penalized.
+The Tribunal’s Decision
+30.
+
+The Tribunal concluded that the University had established on a balance of probabilities
+
+based on clear and convincing evidence that the Student had changed the marks in her
+examination booklet in an attempt to persuade the Professor to increase her mark.
+
+31.
+
+They found the evidence of Ms. Holland and Professor Peirce straightforward, internally
+
+and externally consistent, and essentially untouched in cross-examination. They rejected the
+
+-8-
+
+evidence of the Student as lacking in credibility based on its inconsistency and essential
+implausibility.
+
+32.
+
+Among the reasons in support of this conclusion, which we find to be eminently
+
+reasonable, are the following:
+•
+
+It was simply implausible that both Professor Peirce and Ms. Holland would make 8 to 9
+similar mistakes in their marking of the Student’s examination and then both of them
+would make identical errors entering those marks in the independently prepared Peirce
+and Holland Spreadsheets.
+
+•
+
+It was implausible and lacking in credibility for the Student to assert that she was not
+seeking additional marks or that that influenced the timing of her email (which expressly
+addressed the question of marks) and instead then to assert that she sought only to review
+with the Professor the comments made on the marked exam.
+
+•
+
+That the resulting story led her to deny that she was happy when the Professor increased
+her mark only added to the lack of credibility and to the implausibility of her evidence.
+
+•
+
+Her assertion that she was not seeking to increase her marks was inconsistent with and
+undermined by her suggestion that the matter be dealt with simply by her taking a
+photograph of the examination which, as noted above, would shed no light on the
+comments, but might lead to an increase in the marks.
+
+•
+
+The Student’s testimony that she used white out during the exam in order to shorten
+certain of her answers was implausible, and (in our view perhaps even more tellingly)
+inconsistent with the fact that parts of the red check marks created during the marking
+process were covered by white out.
+
+The Appeal
+
+-9-
+
+33.
+
+At the hearing before the Tribunal, the Student submitted a lengthy document entitled
+
+"Doubts and Discrepancies" which detailed the ways in which she asserted that the suspicions of
+the Professor, and the arguments of the University concerning the changes she was alleged to
+have made to the Resubmitted Exam were in error. In this appeal she both complains that the
+document was not marked in evidence, and also that the Tribunal erred in failing to agree with its
+contents.
+
+34.
+
+While the first two pages of the document in question were evidence and marked as such,
+
+the balance of the document was not marked in evidence. However, it is clear from the Tribunal's
+Reasons for Decision, from the Student's summary of that document in her factums, and from the
+argument before us that the balance of the document constituted argument which, while
+considered by the Tribunal, was not evidence, and was properly not treated as such.
+
+35.
+
+The Student asked that we review "each question" raised in her list of doubts and
+
+discrepancies. She reviewed each place where it was suggested she had changed the Resubmitted
+Exam, giving reasons why it was wrong to suggest she had made such a change.
+
+36.
+
+While we give below some examples of why, on the record before us, we would not be
+
+inclined to draw the conclusions the Student asks us to draw, we must begin by pointing out that
+the request misconceives the role, and indeed the jurisdiction, of the Discipline Appeals Board.
+
+37.
+
+The Student is asking us to retry this case, and to make different factual findings than the
+
+Tribunal did.
+
+38.
+
+The Code makes it clear that the purpose of an appeal is not to seek a reversal of purely
+
+factual findings. It expressly provides that a student may not appeal a question or questions
+which are purely factual:
+
+4. An appeal to the Discipline Appeals Board may be taken in the following cases, only:
+(a) By the accused, from a conviction at trial, upon a question which is not one of fact
+alone.. (Emphasis added.)
+
+- 10 -
+
+39.
+
+It is true that the Discipline Appeals Board has broad remedial powers, including the
+
+power to modify the verdict or penalty and impose any sanction that it sees fit. But the Board
+adheres to a level of deference to Tribunal decisions. It is well-established that the Board will not
+simply substitute a decision it would have made for that of the Tribunal on the basis that it would
+place a greater emphasis or different meaning on particular pieces of evidence. This is
+particularly the case where, as here, the Tribunal has made findings of credibility with the benefit
+of seeing the witnesses in person (via Zoom) and measuring the quality and veracity of their
+evidence. This is even more so in a case, such as this, where the Student has declined to order the
+transcript of the proceedings.
+
+40.
+
+One other preliminary matter that we should address is the assertion by the Student that
+
+she is entitled to the "presumption of innocence". To the extent that this implies that these
+proceedings require the University to establish its case on the basis of a criminal standard, in
+other words beyond a reasonable doubt, it is in error. Nonetheless, the University is required to
+establish its case on a balance of probabilities, in other words to establish facts which sustain the
+charge on a basis that is more likely than not, based on clear and convincing evidence. This is
+expressly the standard that was applied by the Tribunal below, and it is the correct standard.
+
+41.
+
+However, having made these observations about our jurisdiction and the burden of proof,
+
+we do not mean it to imply that if the burden of proof were different, or that if we were entitled
+to substitute our own judgement on the facts, we would come to a different conclusion than the
+Tribunal below.
+
+42.
+
+We do not think there is any other explanation other than that the Student altered the
+
+Resubmitted Exam in a manner that was intended to lead to her receiving a higher grade than she
+in fact did. Those facts include the following:
+•
+
+It is evident that she marked up the exam after receiving it back. Like the Tribunal, we
+think the explanation that she whited out portions of the examination at the same time as
+she was writing the exam just after she wrote them out is incredible, but is also
+
+- 11 -
+
+specifically disapproved by the fact that some of the white out obscures portions of the
+red checkmarks. In other words, it is clear that she altered the Resubmitted Exam after
+she received it back from the Professor.
+•
+
+Her effort to have the Professor's review of the exam take place on the basis of a
+photocopy of the Resubmitted Exam transmitted by email and the contents of that email.
+These are consistent with the proposition that she wished the review to be disposed of on
+the basis of the appearance of the alterations she had made, and inconsistent with the
+explanation (that she was merely seeking to understand the comments on the exam) that
+she created after she learned of the Peirce and Holland Spreadsheets.
+
+•
+
+Perhaps most tellingly, we agree with the Tribunal that it is simply implausible that the
+resulting marks in the Resubmitted Exam were the marks actually awarded when they
+differed in eight or nine places from the careful tally of those marks, independently
+prepared, of those marks by two professors whose marking was not questioned by any of
+the other students writing the exam.
+
+43.
+
+The Tribunal went on to find that the discrepancies identified in the Holland and Peirce
+
+Spreadsheets (paragraph 19 above) were as a result of the Student making changes to her
+examination booklet so as to increase her mark.
+
+44.
+
+Once the facts referred to in paragraph 42 above were established, we do not think that it
+
+was a necessary element of establishing the charge to be able to identify each instance in which
+the Student altered the exam as originally marked by Ms. Holland and the Professor. This is
+particularly so as the evidence indicates that the exam was marked in erasable red pen, so that the
+ability to detect every erasure and/or change could not be guaranteed or expected.
+
+45.
+
+Nonetheless, there was a reasonable basis for each of the Tribunal's specific findings.
+
+46.
+
+In the result, the Student's effort, in her list of "doubts and discrepancies" to take issue
+
+with the specific findings does not provide a basis upon which to dislodge the finding that the
+
+- 12 -
+
+charge was made out. Moreover, we do not consider that there is a basis, let alone a reasonable
+basis, for an appellate body to interfere with those findings.
+
+47.
+
+A couple of examples may help to illustrate this point.
+
+48.
+
+The Student notes that Ms. Holland's method of marking was to put checkmarks where
+
+things were correct, and comments where they were not. She argues that Part 2 Q i is an example
+where there were three checkmarks and no comments, so that there was no basis to find that the
+red pen mark of "3/3"was an alteration by the Student.
+
+49.
+
+In light of the Tribunal’s other findings the fact that the Peirce Spreadsheet recorded a
+
+mark of 1.5 alone provides a reasonable basis for this finding. Moreover, the conclusion that a
+checkmark was added and a comment removed is reinforced by the appearance, to the right of
+the margin, of what appears to be an erased phrase. The weighing of these evidentiary points is
+not for this appellate Board, and, since there is no transcript and hence no record of what the
+cross-examination on this issue was, no conceivable basis upon which we could even attempt to
+do so.
+
+50.
+
+The Student also points to Part 2 Q iv of the Resubmitted Exam. She again says there is
+
+no basis for a conclusion that the red mark "3/3" results from her alterations since there were no
+comments nor crossing out. She acknowledges substantial whiting out, but says that since the
+this was over black ink instead of red ink the conclusion must be that the words were whited out
+while the midterm was being written.
+
+50.
+
+Again, we are not in a position to weigh this evidence. But we note that as for the
+
+previous example, the Peirce Spreadsheet showing the mark for this question as 1.5, not 3 is a
+proper basis for this conclusion. As well, we do not think that the whiting out of the black ink
+says anything about its timing. But, tellingly, a portion of a red checkmark and something beside
+it were whited. While one cannot tell what was whited out it clearly occurred after the question
+was marked.
+
+- 13 -
+
+51.
+
+In summary, we have neither the jurisdiction nor the relevant information to be able to
+
+attempt to reassess the weight of the evidence on which the Tribunal relied. But the Student's
+attempt to have us do so does not cause us to doubt the reasonableness of the Tribunal's analysis.
+Indeed, the review that we have done to assess the Student’s arguments has reinforced the
+reasonableness of those conclusions.
+
+52.
+
+For these reasons, we dismiss the appeal.
+
+Date at Toronto this 29th day of April, 2022.
+
+Original signed by:
+_______________________________
+Patricia D.S. Jackson
+On behalf of the Discipline Appeals Board Panel
+
+

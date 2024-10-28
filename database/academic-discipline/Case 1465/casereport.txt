@@ -1,0 +1,707 @@
+Case No. 1465
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on January 5, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O. 1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and X
+
+C
+
+Reasons for Decision
+
+Hearing Date: November 10, 2023, via Zoom
+Members of the Panel:
+Cheryl Woodin, Chair
+Professor Paul Kingston, Faculty Panel Member
+David Lio, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Jia Wang, Counsel to Student, Stienburg Law
+Hearing Secretary:
+Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+In Attendance:
+X
+C
+
+Introduction
+1.
+
+The Trial Division of the University Tribunal was convened on November 10, 2023
+to consider charges brought by the University of Toronto ("the University") against
+X
+
+C
+
+("the Student") under the University of Toronto Code of Behaviour on
+
+Academic Matters, 2019 ("the Code").
+2.
+
+The Student was represented by Jia Wang and did attend the meeting. Prior to
+the hearing, the University and the Student entered into an Agreed Statement of
+Facts ("ASF") and Joint Submission on Penalty ("JSP"), all of which had been
+reviewed and agreed to by the Student.
+
+The Charges and Particulars
+3.
+
+The Charges and Particulars alleged against the Student are as follows:
+
+Charges:
+1.
+
+On or about February 14, 2022, the Student knowingly represented as their own idea
+an idea or expression of an idea of work of another in assignment 2 in LINC02H3S,
+contrary to section B.I.1(d) of the Code.
+
+2.
+
+On or about March 3, 2022, the Student knowingly represented as their own an idea
+or expression of an idea or work of another in a preliminary research paper in
+LINC02H3S, contrary to section B.I.1(d) of the Code.
+
+3.
+
+On or about March 3, 2022, the Student submitted a preliminary research paper for
+academic credit in LINC02H3S knowing that it contained references to sources that
+had been concocted, contrary to B.I.1(f) of the Code.
+
+2
+
+4.
+
+In the alternative to each of the charges above, the Student knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.3(b) of the Code.
+
+Particulars:
+1. At all material times the Student was enrolled at the University of Toronto
+Scarborough.
+2. In Winter 2022, the Student enrolled in LINC02H3S Phonology II ("LINC02"). Students
+in LINC02 were required to write several assignments and papers.
+3. On or about February 14, 2022, the Student submitted their assignment 2 in LINC02,
+which was worth 10% of the Student's final grade.
+4. The Student submitted their preliminary research paper in LINC02:
+(a) To obtain academic credit;
+(b) Knowing that it contained ideas, expressions of ideas or work which were not the
+Student's own, but were the ideas, expressions of ideas or work of others, including
+but
+
+not
+
+limited
+
+to
+
+the
+
+authors
+
+of:
+
+https://www.linguisticsociety.org/sites/default/files/e-learning/18.2%20h8-syllablestructure.pdf (the "Linguistic Society Source"); and
+(c) Knowing that the Student did not properly reference the ideas, expressions of
+ideas or work that the Student drew from the Linguistic Society Source or from
+others.
+
+3
+
+5. On or about March 3, 2022, the Student submitted their preliminary research paper,
+which was worth 15% of the Student's final grade.
+6. The Student submitted their preliminary research paper in LINC02:
+(a) To obtain academic credit;
+(b) Knowing that it contained ideas, expressions of ideas or work which were not their
+own, but were the ideas, expressions of ideas or work of others, including but not
+limited to the authors of:
+i.
+
+Archangeli, D. B. (1999). Introducing Optimality Theory. Annual Review of
+Anthropology, 28(1), 531-552;
+
+ii.
+
+Guo, H. L. (1999). Mandarin Loanword Phonology and Optimality Theory:
+Evidence From Transliterated American State Names and Typhoon Names;
+
+iii.
+
+Neergaard, K. D., & Huang, C.-R. (2019). Constructing the Mandarin
+Phonological Network: Novel Syllable Inventory Used to Identify Schematic
+Segmentation. Complexity, 1-21; and
+
+iv.
+
+Triskova, H. (2011). The Structure of the Mandarin Syllable: Why, When and
+How to Teach it. Oriental Archive, 79, 99-134 (collectively, the "Preliminary
+Research Paper Sources").
+
+(c) Knowing that the Student did not properly reference the ideas, expressions of
+ideas or work drawn from the Preliminary Research Paper Sources or from others.
+7. The Student submitted their preliminary research paper in LINC02 knowing that it
+contained references to sources that had been concocted.
+
+4
+
+8. The Student knowingly submitted their assignment 2 and preliminary research paper
+in LINC02 with the intention that the University of Toronto rely on it as containing the
+Student's own ideas or work in considering the appropriate academic credit to be
+assigned to their work.
+9. The Student knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the Code in order
+to obtain academic credit or other academic advantage of any kind in connection with
+the Student's assignment 2 and preliminary research paper in LINC02.
+
+The Evidence Related to the Charges
+4.
+
+Evidence was submitted in the form of an ASF. Through that ASF, the following
+evidence was established.
+
+5.
+
+The Student was a student at the University of Toronto Scarborough at all material
+times and acknowledges the obligation to monitor and retrieve emails from their
+official University email account on a frequent and consistent basis under the
+University's Policy on Official Correspondence with Students.
+
+6.
+
+In Winter 2022, the Student enrolled in LINC02H3S: Phonology II, which was
+taught by Professor Joanna Chociej ("LINC02"). Students in LINC02 were required
+to write several assignments and papers. The LINC02 syllabus warned students
+that their work may be submitted through the University's plagiarism detection tool
+for a review of textual similarity and plagiarism. The LINC02 syllabus also
+contained a section on academic integrity that stated plagiarism was a serious
+offence.
+5
+
+7.
+
+Assignment 2 was worth 10% of the students' final grade in LINC02. Students were
+required to complete several language exercises for assignment 2.
+
+8.
+
+The Student submitted assignment 2 on February 14, 2022. Professor Chociej
+reviewed it and found that the Student copied ideas and text in their answer to Part
+1 Question 3 near verbatim from an online power point by the Linguistic Society
+without attribution (the "Linguistic Society Source").
+
+9.
+
+The preliminary research paper was worth 15% of the students' final grade in
+LINC02. Students were required to summarize and analyze the syllable
+phonotactics of a language of their choice for their preliminary research paper.
+
+10.
+
+The Student submitted their preliminary research paper in LINC02 on March 3,
+2022. Professor Chociej reviewed it and found that the Student copied ideas and
+the expression of ideas from the following sources without attribution:
+(a)
+
+Archangeli, D. B. (1999). Introducing Optimality Theory. Annual
+
+Review of Anthropology, 28(1), 531-552.
+(b)
+
+Guo, H. L. (1999). Mandarin Loanword Phonology and Optimality
+
+Theory: Evidence From Transliterated American State Names And
+Typhoon Names. https://aclanthology.org/Y99-1021.pdf.
+(c)
+
+Neergaard, K. D., & Huang C.-R. (2019). Constructing the Mandarin
+
+Phonological Network: Novel Syllable Inventory Used to Identify Schematic
+Segmentation. Complexity, 1-21.
+
+6
+
+(d)
+
+Triskova, H. (2011). The Structure of the Mandarin Syllable: Why,
+
+When and How to Teach it. Oriental Archive, 79, 99-134 (collectively, the
+"Preliminary Research Paper Sources").
+11.
+
+Professor Chociej also found that the Student cited several sources for ideas that
+were not actually in the sources that the Student had cited in their preliminary
+research paper, including:
+(a)
+
+Inkelas, S., Orgun, O., & Zoll, C. The implications of lexical
+
+exceptions for the nature of grammar. In I. Roca (Ed.), Derivations and
+constraints in phonology (pp. 393-418). Oxford: Clarendon Press.
+(b)
+
+Myers, J. (2022). An analogical approach to the Mandarin syllabary.
+
+Journal of Chinese Phonology, 11 (Special Issue), 163-190.
+(c)
+
+Scheer, T. (2015). How Diachronic is Synchronic Grammar? In P.
+
+Honeybone & J. Salmons (Eds.), The Oxford Handbook of Historical
+Phonology (pp. 313-336). Oxford: Oxford University Press.
+(d)
+
+Vitevitch, M. S., & Luce, P. (2004). A web-based interface to
+
+calculate phonotactic probability for words and nonwordsin English.
+Behaviour Research Methods, Instruments, & Computers, 36(3), 481-487.
+(e)
+
+Wiener, S., & Turnbill, R. (2016). Constraints of Tones, Vowels and
+
+Consonants on Lexical Selection in Mandarin Chinese. Language and
+Speech, 59(1), 59 – 82 (collectively, the "Concocted Sources").
+
+7
+
+12.
+
+In March 2022, Professor Chociej met with the Student to discuss their concerns
+that the Student plagiarized and concocted sources in the preliminary research
+paper in LINC02.
+
+13.
+
+On May 27, 2022, the Student met with Professor Mark Schmuckler, a Dean's
+Designate for academic integrity at the University of Toronto Scarborough, to
+discuss the allegations that they plagiarized in assignment 2 and the preliminary
+research paper in LINC02. The Student was accompanied by counsel. Professor
+Schmuckler provided the Student with the required warnings under the Code.
+During the meeting, the Student admitted to plagiarizing in assignment 2 and the
+preliminary research paper in LINC02.
+Admissions and Acknowledgements
+
+14.
+
+The Student admits that they knowingly represented as their own an idea or
+expression of an idea or work of another in assignment 2 in LINC02, contrary to
+section B.I.1(d) of the Code.
+
+15.
+
+The Student admits that they knowingly represented as their own an idea or
+expression of an idea or work of another in the preliminary research paper in
+LINC02, contrary to section B.I.1(d) of the Code.
+
+16.
+
+The Student admits that they submitted the preliminary research paper for
+academic credit in LINC02 knowing that it contained reference to sources that had
+been concocted, contrary to section B.I.1(f) of the Code.
+
+8
+
+17.
+
+The Student admits that they knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in
+the Code in order to obtain academic credit or other academic advantage of any
+kind in connection with assignment 2 and the preliminary research paper in
+LINC02, contrary to section B.I.3(b) of the Code.
+
+Decision of the Tribunal on the Charges
+18.
+
+The University must establish on a balance of probabilities through clear and
+convincing evidence that an academic offence has been committed by the Student.
+
+19.
+
+In this case the Tribunal has accepted the evidence as it was submitted by virtue
+of the agreed statement of facts.
+
+20.
+
+The University and the Student were prepared to agree to findings of liability with
+respect to offences 1, 2 and 3 in exchange for which the 4th charge would be
+withdrawn.
+
+21.
+
+The 3rd charge would have required the Tribunal to conclude that the student had
+"concocted" sources. The available facts indicate that the Student had identified
+sources for passages in their work that were not accurate and misrepresented that
+the passages in their work were in fact taken from other sources that were not
+cited. In other words, the Student's work was improperly attributed to a different
+source from which it was actually taken. The sources were therefore not fabricated
+("concocted") but rather misrepresented.
+
+9
+
+22.
+
+The Panel deliberated and determined that the 4th charge would be more
+appropriate, as a result of which the University agreed that it would proceed on
+charges 1, 2 and 4 instead. This was satisfactory to the Panel. The evidence
+satisfied the Tribunal that each of these charges has been made out.
+
+The Evidence Related to Penalty
+23.
+
+According to the University of Toronto Scarborough’s records, the Student has two
+prior academic offences: (1) plagiarism and unauthorized assistance in connection
+with a term test in CCT109 in Summer 2020; and (2) unauthorized assistance in a
+homework assignment in LINC12 in Fall 2021.
+
+24.
+
+In Summer 2020, the Student enrolled in CCT109: Contemporary Communication
+Technologies, which was taught by Professor Ryan Mitchell. Students in CCT109
+were required to write a term test, which was worth 15% of their final grade.
+
+25.
+
+On May 21, 2020, the Student submitted their term test in CCT109. Professor
+Mitchell reviewed the Student’s term test and alleged that they obtained
+unauthorized assistance and plagiarized significant portions of their term test from
+online sources. Professor Mitchell and the Student discussed Professor Mitchell’s
+concerns regarding the Student's term test in June 2020.
+
+26.
+
+In Fall 2021, the Student enrolled in LINC12: Semantics: The Study of Meaning,
+which was taught by Professor Angelika Kiss. Students in LINC12 were required
+to write several homework assignments, each of which were worth 10% of their
+final grade in the course.
+
+10
+
+27.
+
+In October 2021, the Student submitted a homework assignment (worth 10%) in
+LINC12. Professor Kiss reviewed the Student’s homework assignment and alleged
+that the Student obtained unauthorized assistance from other students on a
+significant portion of their homework assignment. Professor Kiss and the Student
+discussed these concerns in October 2021. During the meeting, the Student
+admitted to an academic offence in relation to their homework assignment.
+
+28.
+
+On February 3, 2022, the Dean’s Office sent the Student a letter about the CCT109
+allegations. The letter contained information about the CCT109 allegations,
+information about the academic discipline process, and an offer to expedite the
+matter if the Student was prepared to admit to an offence. The Student received
+and reviewed this letter on the date that it was sent.
+
+29.
+
+On February 14, 2022, the Student submitted assignment 2 in LINC02, which is
+the subject of charges #1 and #4 in this matter.
+
+30.
+
+On February 23, 2022, Professor Juvenal Ndayiragije, the Chair of the Department
+of Language Studies, sent the Student a letter about the LINC12 allegations. In the
+letter, Professor Ndayiragije imposed a final grade of zero on the LINC12
+assignment and stated that future offences would be forwarded to the academic
+integrity office. The letter also stated that: “I trust it is clear that the University
+regards with great seriousness all acts of academic dishonesty and why they
+cannot be tolerated. I hope you have learned from this unfortunate experience and
+nothing similar will happen again.” The Student received and reviewed this letter
+on the date that it was sent.
+11
+
+31.
+
+On February 27, 2022, the Student signed a form in which they admitted to the
+academic offences of plagiarism and unauthorized assistance in connection with
+the CCT109 term test and accepted a sanction of final grade of zero on the term
+test and a one-year notation on their transcript. In that form, the Student stated: “I
+understand that any subsequent allegations of academic misconduct are usually
+referred to the Dean’s Office, or Tribunal, for investigation. I understand that a
+subsequent allegation will be treated as a second offence and sanctioned
+accordingly.”
+
+32.
+
+On March 3, 2022, the Student submitted their preliminary research paper in
+LINC02, which is the subject of charges #2, #3, and #4 in this matter.
+
+Joint Submission on Penalty:
+33.
+
+The Provost and the Student submit that, in all the circumstances of the case, the
+University Tribunal should impose the following sanctions on the Student:
+(a)
+
+A final grade of zero in LINC02H3S;
+
+(b)
+
+A suspension from the University for a period of 4 years commencing
+
+on May 1, 2023; and
+(c)
+
+A notation of the offence on the Student's academic record and
+
+transcript for a period of 5 years from the date of the University Tribunal's
+order.
+
+12
+
+34.
+
+In so doing, the parties understood that the Tribunal must ultimately determine
+whether to accept the joint submission and has the ability to exercise discretion to
+impose a different penalty.
+
+35.
+
+The parties agreed that this case shall be reported to the Provost for publication of
+a notice of the University Tribunal’s decision and the sanction imposed, with the
+Student’s name withheld.
+
+Decision of the Tribunal on the Penalty
+36.
+
+The agreed facts establish that the Student had committed two prior offences, and
+that they committed the further offences at issue in this proceeding very shortly
+after acknowledging commission of previous offences.
+
+37.
+
+Counsel for the Student made submissions regarding mitigating factors on behalf
+of the Student. In essence, the submissions addressed not only the Student's
+remorse but also the very challenging circumstances and environment faced by
+the Student during the COVID pandemic. In particular, the Student was reported
+to have experienced a very severe form of isolation and estrangement from society
+which had a significant impact on their ability to perform as a student. It was also
+submitted that the Student hopes to return to a positive academic trajectory and is
+committed to taking steps to do so.
+
+38.
+
+It was anticipated that the Student would give evidence directly. Their counsel
+identified language barriers which prevented them from doing so. Counsel for the
+University was prepared to proceed with submissions regarding mitigating factors
+
+13
+
+rather than evidence from the Student provided that the Panel was ultimately
+prepared to accept the joint submission regarding penalty. Counsel for the Student
+confirmed that the purpose of the submissions was to support and provide context
+to the joint submission regarding penalty and not to disrupt it. The University's
+Counsel confirmed that its agreement to the joint submission had already
+incorporated the anticipated evidence. The Panel proceeded on this basis.
+39.
+
+The Panel is not obliged to accept a joint submission but should only reject such
+submission when it would be contrary to the public interest or would bring the
+administration of justice into disrepute.
+
+40.
+
+The factors which should be considered and may be relevant to sentencing
+include:
+
+41.
+
+(a)
+
+the character of the person charged;
+
+(b)
+
+the likelihood of a repetition of the offence;
+
+(c)
+
+the nature of the offence committed;
+
+(d)
+
+any extenuating circumstances surrounding the commission of the offence;
+
+(e)
+
+any detriment to the University occasioned by the offence;
+
+(f)
+
+the need to deter others from committing a similar offence.
+
+In this case, with respect to character, the Student admitted the offences and
+cooperated with the University. They Student further signed an undertaking to take
+certain academic success courses.
+14
+
+42.
+
+With respect to extenuating circumstances, the University acknowledges the
+difficult circumstances which were described by the Student's counsel. These are
+mitigating factors that should be considered.
+
+43.
+
+The University also points to the evidence of previous offences.
+
+44.
+
+With respect to the nature of the offence committed, any detriment to the University
+caused by the offence and the need to deter others from committing a similar
+offence, the University refers to the analysis in a similar fact pattern as described
+in the University of Toronto and M.T. (Case No. 1391, December 16, 2022)
+decision,. The relevant excerpt is as follows:
+The Tribunal considered the principles and factors relevant to sanction as articulated in
+University of Toronto and Mr. C. (Case No. 176/77-3, November 5, 1976). The Tribunal
+determined that these factors supported the imposition of the JSP. In this regard, the
+Tribunal observed the following:
+a.
+
+The nature of the offence and the detriment to the University occasioned by the
+offence. The offence is serious in nature and causes great detriment to the
+University and its students. A number of Tribunal Decisions (e.g. University of
+Toronto and Y.G. (Case No. 802, September 28, 2015)) have observed that
+plagiarism corrodes academic integrity at the University and undermines the
+relationship of trust between the University and its students. For these reasons,
+plagiarism is considered in the cases to be a very serious offence that warrants a
+serious penalty. The plagiarism involved here was deliberate and extensive.
+
+b.
+
+The need to deter others from committing a similar offence. There is a strong need
+to deter others from committing a similar offence, for many of the reasons noted
+above. This type of offence poses a grave threat to the integrity of the University's
+processes for evaluating students, is profoundly unfair to other students, and
+jeopardizes the University's reputation.
+
+c.
+
+The likelihood of a repetition of the offence. The Student has committed plagiarism
+four times in total. The latter three of those offences formed the subject matter of
+this hearing. The first offence took place in February 2021 and resulted in the
+Student being issued a warning. The second and third offences took place in
+October 2021 and led to the Student meeting with both of the course professors in
+the month of November 2021. In December 2021, the Student committed the fourth
+offence. The Tribunal was concerned by the multiple instances of plagiarism. The
+Tribunal was also concerned that the second and third offences took place after
+
+15
+
+the Student had received a warning in respect of the first offence, and that the
+fourth offence took place the month after the Student met with the course
+professors in respect of the prior two offences. Although the Tribunal appreciates
+that the Student has voiced regret and remorse over her actions, the Tribunal does
+have some concern about possible future repetition. In the Tribunal's view, a
+significant period of suspension is therefore appropriate.
+
+45.
+
+d.
+
+The character of the Student. The Tribunal was concerned by the number of
+occasions of plagiarism and by their timing relative to one another and to the
+Student's receipt of a warning and meetings with her professors. However, the
+Tribunal also noted certain considerations that mitigated against a more severe
+penalty. The Student accepted responsibility for, and demonstrated insight into,
+her behaviour by pleading guilty early in the process, at the Dean's meeting in
+February 2022. She cooperated with the University's academic discipline process,
+including by attending the hearing before the Tribunal. Her affidavit evidence
+articulated her regret and remorse for her actions and indicated that she has been
+seeking help for her mental health issues through on-line resources.
+
+e.
+
+Extenuating circumstances. At the time she committed the offences, the Student
+was experiencing personal difficulties due to the COVID pandemic, including
+mental health issues.
+
+Lastly, the University asks the Panel to consider penalties that have been applied
+in previous cases. Previous cases reflect general trends which can guide the
+Tribunal in applying the relevant factors in an appropriate and consistent way.
+
+46.
+
+Here, previous cases illustrate that a two-year suspension tends to occur for
+circumstances of unintentional misconduct or group work and is therefore not
+analogous to the circumstance before us.
+
+47.
+
+A three-year suspension tends to occur for circumstances of one or two prior
+offences, with one or two concurrent offences but without circumstances of
+misrepresentation as occurred here. They are instead circumstances of general
+plagiarism or unattributed assistance and not an active attempt to conceal as
+occurred here.
+
+16
+
+48.
+
+A four-year suspension has been applied where there are both previous and
+concurrent offences such as occurred here, and which cause a concern that
+repetition is possible without a sufficiently deterrent punishment.
+
+49.
+
+But penalties in previous cases also support the observation that a more serious
+penalty, including either a five-year suspension or an expulsion were available:
+see the University of Toronto and K.P. (Case No. 660, February 6, 2012) and the
+University of Toronto and O.E. (Case No. 923, August 30, 2017).
+
+50.
+
+The Tribunal agrees with the joint submission regarding penalty on the basis of the
+mitigating circumstances which exist here in the evidence of early cooperation,
+remorse and the impact of the COVID pandemic.
+
+51.
+
+Accordingly, the Tribunal finds that the Student is guilty of:
+(a)
+
+two counts of plagiarism, contrary to section B.I.1(d) of the Code; and
+
+(b)
+
+One count of knowingly engaging in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic
+advantage of any kind, contrary to section B.I.3(b) of the Code.
+
+52.
+
+The following sanctions shall be imposed on the Student:
+(a)
+
+A final grade of zero in LINC02H3S;
+
+(b)
+
+A suspension from the University for a period of 4 years commencing on
+May 1, 2023; and
+17
+
+(c)
+
+A notation of the offence on the Student's academic record and transcript
+for a period of 5 years from the date of the University Tribunal's order.
+
+53.
+
+The case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the name of the Student withheld.
+
+Dated at Toronto this 6th day of May, 2024
+
+Original signed by:
+_____________________________
+Cheryl Woodin, Chair
+On behalf of the Panel
+
+18
+
+

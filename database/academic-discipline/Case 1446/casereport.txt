@@ -1,0 +1,307 @@
+Case No. 1446
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 18, 2022,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+
+- and -
+
+H
+
+C
+
+REASONS FOR DECISION
+Hearing Date: April 13, 2023, via Zoom
+Panel Members:
+Michelle S. Henry, Chair
+Professor Vivienne Luk, Faculty Panel Member
+Sterling Mancuso, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Janet Song, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Anja Kohlman Sawa, Representative for the Student, Downtown Legal Services
+
+Hearing Secretary:
+Samanthe Huang, Coordinator & Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+H
+C
+
+-2BACKGROUND
+1. A Hearing of the Trial Division of the University Tribunal convened on April 13, 2023,
+to consider charges of academic dishonesty brought by the University of Toronto (the
+“University”) against H
+
+C
+
+(the “Student”), under the Code of Behaviour on
+
+Academic Matters, 1995 (the “Code”). The Student was informed of the charges by letter
+dated October 18, 2022, from Professor Heather Boon, Vice-Provost, Faculty &
+Academic Life.
+THE CHARGES
+2. At all material times, the Student was enrolled at the University of Toronto Faculty of
+Arts and Science. The Student has accumulated 6.5 credits and a cumulative GPA of
+1.43. The Student served a one-year academic suspension, which began in May 2022, due
+to their low GPA.
+3. The University alleges that the Student engaged in the following offences:
+1) On or about February 13, 2021, the Student knowingly obtained unauthorized assistance
+in connection with Term Test 1 in MAT224H1S (“MAT224”), contrary to section
+B.I.1(b) of the Code.
+2) In the alternative, on or about February 13, 2021, the Student knowingly represented as
+his own an idea or expression of an idea or work of another in Term Test 1 in MAT224,
+contrary to section B.I.1(d) of the Code.
+3) In the further alternative, on or about February 13, 2021, the Student knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with Term Test 1 in MAT224, contrary to section
+B.I.3(b) of the Code.
+4) On or about March 27, 2021, the Student knowingly obtained unauthorized assistance in
+connection with Term Test 2 in MAT224, contrary to section B.I.1(b) of the Code.
+
+-35) In the alternative, on or about March 27, 2021, the Student knowingly represented as his
+own an idea or expression of an idea or work of another in Term Test 2 in MAT224,
+contrary to section B.I.1(d) of the Code.
+6) In the further alternative, on or about March 27, 2021, the Student knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with Term Test 2 in MAT224, contrary to section
+B.I.3(b) of the Code.
+7) On or about April 22, 2021, the Student knowingly obtained unauthorized assistance in
+connection with the final assessment in MAT224, contrary to section B.I.1(b) of the
+Code.
+8) In the alternative, on or about April 22, 2021, the Student knowingly represented as his
+own an idea or expression of an idea or work of another in the final assessment in
+MAT224, contrary to section B.I.1(d) of the Code.
+9) In the further alternative, on or about April 22, 2021, the Student knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the final assessment in MAT224, contrary to
+section B.I.3(b) of the Code.
+10) On or about December 15, 2021, the Student knowingly obtained unauthorized assistance
+in connection with the final exam in PHL245H1F (“PHL245”), contrary to section
+B.I.1(b) of the Code.
+11) In the alternative, on or about December 15, 2021, the Student knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the final exam in PHL245, contrary to section
+B.I.3(b) of the Code.
+
+-4AGREED STATEMENT OF FACTS
+4. The Hearing proceeded based on an Agreed Statement of Facts (“ASF”). The Panel also
+received a Joint Book of Documents (“JBD”) that is referred to in the ASF.
+
+The
+
+following is an abridged version of the ASF.
+A.
+
+MAT224
+
+5. In Winter 2021, the Student enrolled in MAT224, which was taught by several
+instructors. Students in MAT224 were evaluated on the basis of, among other things, two
+term tests worth a combined 40% (with the highest score worth 25% and the lowest score
+worth 15%) and a final assessment worth 25% of their final grades.
+6. Term Test 1 (“TT1”) was released on February 12, 2021, and students had until February
+13, 2021, to submit their answers. TT1 was administered remotely. TT1 required
+students to sign an academic integrity statement, which stated:
+I confirm that:
+• I have not communicated with any person about the test other than a MAT224
+teaching team member.
+• I have not used any resources other than those that are listed as permitted in the
+Term Test 1 Information document at any point during the test.
+• I have not participated in or enabled any MAT224 group chat during the test.
+• I have not viewed the answers, solutions, term work, or notes of anyone.
+• I have read and followed all of the rules described in the Term Test 1
+Information document.
+• I understand the consequences of violating the University’s academic integrity
+policies as outlined in the Code of Behaviour on Academic Matters. I have not
+violated any of them while writing this assessment.
+By signing this document, I agree that all of the statements above are true.
+
+7. On February 13, 2021, the Student submitted his answers to TT1, and signed the
+academic integrity statement.
+8. Chegg.com is a subscription-based website that allows students to post problems to the
+site (“Askers”), which are then answered by so-called “experts”. Subscribers are also able
+to access the questions and answers posted by others on the site (“Viewers”). The
+webpage advertises that a “Chegg Study” subscription costs $18.95/month and will allow
+
+-5subscribers to “[t]ake a photo of your question and get an answer in as little as 30 mins”
+from an “expert”.
+9. When the instructors reviewed TT1, they found that virtually the entire test had answers
+that were similar to solutions that had been posted on Chegg.com. In particular, the
+instructors found that there were substantial similarities between the Student’s answers to
+Questions 1, 2, 3, 4, 5(a), 5(b), 6(a), 6(b) and 6(c) and answers that had been posted on
+Chegg.com.
+10. Term Test 2 (“TT2”) was released on March 26, 2021, and students had until March 27,
+2021, to submit their answers. TT2 was administered remotely. Students were allowed
+to consult their lecture notes, textbook and course materials, but were required to
+complete the assessment independently. Students were not permitted to collaborate with
+one another or to consult online discussion groups or forums. The instructions for TT2
+included examples of resources that are not permitted, including posting on “tutoring
+websites” such as Chegg.com.
+11. On March 27, 2021, the Student submitted his answers to TT2, and signed the academic
+integrity statement. When the instructors reviewed TT2, they found that the test had
+answers that were similar to solutions that had been posted on Chegg.com. In particular,
+the instructors found that there were substantial similarities between the Student’s
+answers to Questions 3 and 7(b) and answers that had been posted on Chegg.com.
+12. The Final Assessment was released on April 21, 2021, and students had until April 22,
+2021, to submit their answers. The Final Assessment was administered remotely.
+13. Students were allowed to consult their lecture notes, textbook and course materials, but
+were required to complete the assessment independently. The instructions for the Final
+Assessment included examples of resources that are not permitted, including posting on
+“tutoring websites” such as Chegg.com.
+14. The Final Assessment required students to sign an academic integrity statement. On
+April 22, 2021, the Student submitted his answers to the Final Assessment, and signed
+the academic integrity statement.
+
+-615. When the instructor reviewed the Final Assessment, they found that the test had answers
+that were nearly identical to solutions that had been posted on Chegg.com. In particular,
+the instructors found that there were substantial similarities between the Student’s
+answers to Questions 3, 4, 5, 6(a), 7 and 8 and answers that had been posted on
+Chegg.com.
+16. In all three assessments (TT1, TT2, and the Final Assessment), there were a number of
+ways the students could answer the questions. The fact that the Student’s answers and
+the Chegg.com answers contained the same steps (and omitted the same steps), the
+instructors considered it unlikely that the similarities between the Student’s answers and
+the Chegg.com answers arose by coincidence.
+B.
+
+PHL245
+
+17. In Fall 2021, the Student enrolled in PHL245H1F (Modern Symbolic Logic)
+(“PHL245”), which was taught by Professor Alex Koo.
+18. Students in PHL245 were evaluated on the basis of, among other things, a final exam
+worth 25% of their final grades. On December 15, 2021, the Student wrote the final exam
+in the Course. Students were required to complete the final exam independently. The
+final exam was administered remotely. Students were allowed to consult their notes and
+use Logic2010. Students were not permitted to consult any other resources.
+19. Each question on the final exam had two versions which used different variants. Students
+were not told that there were different versions for each question.
+
+In grading the
+
+Student’s final exam, the instructor determined that the Student’s answer to Question 11
+of the final exam contained the variant used in the alternate version of the question
+(which the Student did not receive).
+C.
+
+Meeting with the Dean’s Designate
+
+20. On August 17, 2022, the Student met with Professor Sue Varmuza, Dean’s Designate for
+Academic Integrity. During the meeting, the Student admitted to using Chegg.com in
+TT1, TT2 and the Final Assessment in MAT224, and that he discussed the questions with
+other students in the final exam in PHL245.
+
+-721. The matter was forwarded to the Vice-Provost’s office.
+D.
+
+Admissions and acknowledgements
+
+22. The Student admitted that:
+a. he knowingly accessed Chegg.com during MAT224, and in doing so:
+i. he paid for a Chegg.com subscription;
+ii. he viewed answers that had been posted to Chegg.com;
+iii. he used the answers that had been posted to Chegg.com in his answers to
+various questions in TT1, TT2 and the Final Assessment;
+b. he knowingly obtained unauthorized assistance in TT1, TT2 and the Final
+Assessment in MAT224;
+c. he knowingly represented as his own an idea or expression of an idea or work of
+another (the authors of the Chegg.com answer) in TT1, TT2 and the Final
+Assessment in MAT224; and
+d. he committed plagiarism in TT1, TT2 and the Final Assessment in MAT224.
+23. The Student further admitted that:
+a. he knowingly obtained unauthorized assistance in connection with the final exam
+in PHL245 by discussing the questions with other students who had received an
+alternate version of Question 11 of the final exam; and
+b. he knowingly used an unauthorized aid during the final exam in PHL245.
+
+-8FINDINGS ON CHARGES
+24. Following deliberations and based on the ASF and the JBD, the Panel concluded that
+charges #1, #4, #7 and #10 were proven on a balance of probabilities. The Panel
+accepted the guilty pleas of the Student in respect of these charges.
+25. The Panel was advised that if it returns a conviction on the above charges, the University
+will withdraw the alternative charges. Accordingly, the Panel makes no findings with
+respect to the alternative charges #2, #3, #5, #6, #8, #9 and #11.
+PENALTY
+26. The University and the Student submitted a Joint Submission on Penalty (“JSP”)
+recommending the following penalty:
+a. a final grade of zero in the course MAT224H1 in Winter 2021;
+b. a final grade of zero in the course PHL245H1 in Fall 2021;
+c. the Student will be suspended from the University of Toronto for a period of 5
+years, commencing on September 1, 2022, and ending on August 31, 2027; and
+d. this sanction will be recorded on the Student’s academic record and transcript
+from the date of the Tribunal’s order until graduation.
+27. The parties agree that it is appropriate for this case to be reported to the Provost for
+publication of a notice of the decision of the Tribunal and the sanction imposed in the
+University of Toronto newspapers, with the name of the Student withheld.
+28. Assistant Discipline Counsel provided submissions on the high threshold required for a
+Tribunal to deviate from a JSP. As set out in the Discipline Appeals Board decision in
+The University of Toronto and S.F. (Case No. 690, October 20, 2014), only truly
+unreasonable or “unconscionable” joint submissions should be rejected (para. 22).
+29. The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+
+-9factors set out in University of Toronto and Mr. C. (Case No. 1976/77-3, November 5,
+1976), namely: 1) the character of person charged; 2) the likelihood of repetition of the
+offence; 3) the nature of offence committed; 4) any extenuating circumstances
+surrounding the commission of the offence; 5) detriment to the University occasioned by
+the offence; and 6) the need to deter others from committing a similar offence.
+30. With respect to his character, the University noted that the Student admitted guilt very
+early on in the process at the Dean’s Designate meeting. He had insight into his actions
+and expressed remorse. He participated and cooperated fully in the process, including
+participating in the ASF and ASF on Penalty. As a result, there was a lot of evidence that
+the Provost was not required to call. The Student also gave an undertaking to complete
+six mutually agreeable academic success workshops offered by the University,
+comprising of at least six hours of instruction, or a similar program selected by the
+University of Toronto Faculty of Arts and Science. The Student also agreed that he will
+not be permitted to graduate from the University of Toronto until he has completed this
+requirement.
+31. The Panel also took into consideration the likelihood of repetition of the offence, the
+serious and deliberate nature of the offence, and the detriment to the University. This
+was not the Student’s first offence. The Student had committed four prior academic
+offences, which now brought him to eight academic offences.
+
+However, Assistant
+
+Discipline Counsel noted that all the incidents occurred around the same time from
+December 2020 to early 2021; and only one occurred after the first offence in MAT224.
+32. The University stressed the seriousness of obtaining unauthorized assistance, particularly
+at the height of the pandemic when the University was dealing with remote assessments,
+and the fact that online learning provided more opportunity to cheat. The University also
+stressed the need to send a strong message of deterrence in order to communicate the
+seriousness of these offences.
+33. Having regard to the above, and based on the review of similar cases provided by
+Assistant Discipline Counsel, in the Panel’s view, the joint submission in this case is
+reasonable. The Panel agrees that the recommended sanctions are appropriate.
+
+- 10 DECISION OF THE PANEL
+34. At the conclusion of the hearing, the Panel made the following order:
+a. THAT the Student is guilty of four counts of knowingly obtaining unauthorized
+assistance in any academic examination or term test or in connection with any
+other form of academic work, contrary to section B.I.1(b) of the Code;
+b. THAT the following sanctions shall be imposed on the Student:
+i. a final grade of zero in the course MAT224H1 in Winter 2021;
+ii. a final grade of zero in the course PHL245H1 in Fall 2021;
+iii. the Student will be suspended from the University of Toronto for a period
+of 5 years, commencing on September 1, 2022, and ending on August 31,
+2027; and
+iv. this sanction will be recorded on the Student’s academic record and
+transcript from the date of the Tribunal’s order until graduation; and
+c. THAT this case be reported to the Provost, with the Student’s name withheld, for
+publication of a notice of the decision of the Tribunal and the sanctions imposed.
+35. An Order was signed after the hearing on April 13, 2023, by the Panel to this effect.
+DATED at Toronto, 12 July 2023.
+
+Original signed by:
+_______________________________________
+Michelle S. Henry, Chair
+On behalf of the Panel
+
+

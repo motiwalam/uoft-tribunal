@@ -1,0 +1,421 @@
+Case No.: 1055
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on November 25, 2019
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and Y
+
+Y
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Date: October 15, 2020 via Zoom
+Members of the Panel:
+Ms. Ira Parghi, Lawyer, Chair
+Professor Richard Day, Faculty Panel Member
+Ms. Shirley Deng, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg, Rothstein LLP
+Hearing Secretary:
+Ms. Krista Kennedy, Administrative Clerk and Hearing Secretary, Office of Appeals, Discipline and
+Faculty Grievances
+Not in Attendance:
+The Student
+
+I.
+
+Introduction
+
+1. The Trial Division of the University Tribunal was convened on October 15, 2020 to consider
+charges brought against the Student by the University of Toronto (“the University”) pursuant to
+the University of Toronto Code of Behavior on Academic Matters, 1995 (“the Code”) on November
+25, 2019. The charges alleged that, on or about August 14, 2018, the Student represented as his
+own an idea or expression of an idea or work of another in an assignment submitted in course
+FAH392H5, entitled Topics in Modern Art and Architecture: Pre-Raphaelite Art in Context.
+
+2. The charges were as follows:
+1. On or about August 14, 2018, you knowingly represented as your own an idea or expression
+of an idea or work of another in an assignment titled “Pre-Raphaelites: Exhibition
+Catalogue Assignment 2.2” (“Exhibition Catalogue”) that you submitted in FAH392H5,
+contrary to section B.I.1(d) of the Code.
+2. On or about August 14, 2018, you knowingly used or possessed an unauthorized aid or aids
+and/or obtained unauthorized assistance in connection with your Exhibition Catalogue,
+contrary to B.I.1.(b) of the Code.
+3. In addition and in the alternative to charges 1 and 2, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of
+any kind in connection with your Exhibition Catalogue, contrary to section B.I.3(b) of the
+Code.
+
+3. The particulars of the offences charged were as follows:
+a) At all material times you were a student at the University of Toronto Mississauga.
+b) In Summer 2018 you enrolled in FAH392H5, taught by Professor Farrukh Rafiq.
+c) Students in FAH392H5 were required to submit an assignment in which you were to work
+on your own to create a mini version of an exhibition catalogue in respect of certain art
+works. You submitted the Exhibition Catalogue to complete this requirement.
+d) You submitted the Exhibition Catalogue knowing that it contained ideas and the expression
+of ideas of others.
+e) You knowingly represented the work of another person or persons who wrote the Sources
+as your own. You knowingly included in the Exhibition Catalogue ideas and expressions
+that were not your own, but were the ideas and expressions of another person, or persons,
+which you did not acknowledge in your Assignments.
+f) You knowingly obtained the unauthorized assistance of another person or persons to write,
+or to provide you with significant assistance to help you to write, the Exhibition Catalogue.
+
+II.
+
+Conduct of hearing in absence of Student
+
+4. The Student did not appear at the time scheduled for the commencement of the hearing. Nor did
+any representative of the Student. The Tribunal waited 15 minutes after the hearing was scheduled
+to commence to allow for the Student to appear. The Student still did not appear.
+
+5. Counsel for the University then sought an order that the hearing be permitted to proceed in the
+Student’s absence. To proceed in the absence of the Student, the University was required to
+demonstrate that the Student had been given “reasonable notice” of the hearing.
+2
+
+6. The University’s Policy on Official Correspondence with Students provides that students enrolled
+at the University must maintain current contact information in their record in the University’s
+record of academic history and student information (“ROSI”),and must update that information if
+it changes. Pursuant to Rule 9 of the Tribunal’s Rules of Practice and Procedures (“Rules”), one
+of the ways in which a Notice of Hearing may be served on a student is via email to the student’s
+email address in ROSI.
+
+7. Under Rule 17 of the Rules and sections 6 and 7 of the Statutory Powers Procedure Act (“SPPA”),
+the Tribunal may proceed with an oral hearing in the absence of a student when reasonable notice
+of the hearing has been given to the student in accordance with the Rules or SPPA (as the case may
+be) and the student does not attend.
+
+8. The University’s evidence in respect of service and attempts to communicate with the Student was
+as follows:
+a) On November 25, 2019, the University’s Office of Appeals, Discipline and Faculty
+Grievances served the Student with the charges issued against him by Professor Heather
+Boon, Vice-Provost, Faculty & Academic Life. These materials were served via email to
+the email address that the Student had provided to the University in ROSI (the Student’s
+“ROSI email address”).
+b) On September 3, 2020, an articling student working with counsel for the University sent
+various additional materials to the Student via email to the Student’s ROSI email address.
+These materials included a letter from counsel, a disclosure brief relating to this matter,
+and a copy of the University’s Policy on Official Correspondence with Students. The
+Student was informed that important documents and correspondence would be sent to his
+ROSI email address, and that he would be contacted to canvass potential dates for the
+hearing.
+c) As of October 5, 2020, the Student had last logged onto the online portal for students to
+access their student information on September 7, 2020, and had last accessed the email
+account corresponding to his ROSI email address on September 16, 2020. Both of these
+dates fell after the materials discussed above were sent to the Student via email to his ROSI
+email address.
+d) On September 25, 2020, the articling student working with counsel for the University sent
+a further email to the Student at his ROSI email address. The email re-attached the
+disclosure documents, invited the Student to contact counsel’s office, and proposed
+potential hearing dates for October 2020, asking the Student to advise if he were not
+available on any of those dates.
+e) Also on September 25, 2020, the articling student called the phone number that the Student
+had provided to the University in ROSI. A message identified the phone number as
+belonging to the Student. The articling student left a voice mail message identifying herself
+and asking that the Student contact her.
+
+3
+
+f) On September 30, 2020, the articling student called the same phone number for a second
+time. Again, a message identified the phone number as belonging to the Student. The
+articling student left a voice mail message identifying herself and asking that the Student
+contact her.
+g) On October 5, 2020, the articling student served the Student with three affidavits and
+explained to the Student that the University intended to rely on the affidavits during the
+hearing. She invited the Student to advise University counsel if he wished to cross-examine
+on any of the affidavits. These affidavits were served via email to the Student’s ROSI email
+address.
+h) On October 6, 2020, the articling student served the Student with an additional affidavit,
+again via email to the Student’s ROSI email address.
+i)
+
+In connection with a request by the Provost of the University that the hearing proceed
+electronically, I issued a Direction in which I invited the Student to file submissions as to
+why the hearing should proceed in person and not by Zoom. I requested that the Student
+provide any such submissions by October 7, 2020. A copy of this Direction and
+accompanying email correspondence from the University was sent to the Student via email
+to his ROSI email address.
+
+j)
+
+On October 7, 2020, having received no submissions from the Student or anyone on his
+behalf, I issued a Direction that the hearing proceed electronically. A copy of this Direction
+was provided to the Student via email to his ROSI email address.
+
+k) Also on October 7, 2020, the Student was also served with a Notice of Electronic Hearing
+and was provided with a Best Practice Guide and instructions relating to the Zoom platform
+that would be used to conduct the electronic hearing. These materials were sent to him via
+email to his ROSI email address.
+l)
+
+On October 8, 2020, the articling student working with counsel for the University served
+the Student with a further affidavit in respect of this matter, again via email to his ROSI
+email address.
+
+m) As of October 8, 2020, the articling student had not received any “bounce back” messages
+indicating that her emails to the Student could not be delivered.
+
+9. In light of the totality of the evidence regarding the efforts made to provide notice to and otherwise
+communicate with the Student, the Tribunal concluded that reasonable notice of the hearing had
+been provided to the Student in compliance with the Rules and the SPPA. An order permitting the
+hearing to proceed in the Student’s absence was therefore granted.
+
+III.
+
+Liability
+
+4
+
+10. Because the Student was not present, the hearing proceeded on the basis that he denied the charges
+against him. The onus was on the University to establish on the balance of probabilities that the
+Student had committed the offences charged.
+
+11. The Tribunal received evidence from Professor Farrukh Rafiq, a Sessional Instructor in the
+Department of Visual Studies at the University, who taught the course during which the Student
+allegedly committed the offences at issue. Professor Rafiq’s evidence was as follows:
+a) The syllabus for the course expressly discussed the importance of academic integrity and
+the issue of plagiarism in writing assignments. It cited the portion of the Code that identifies
+as potential academic offences the acts of “[u]sing someone else’s ideas of words without
+appropriate acknowledgement” and “[o]btaining or providing unauthorized assistance on
+any assignment”. It also stated: “If you have questions or concerns about what constitutes
+appropriate academic behaviour or appropriate research and citation methods, you are
+expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources”.
+b) The assignment in respect of which the alleged offences occurred involved the preparation
+of an exhibition catalogue. Students were asked to create a small-scale version of an
+exhibition catalogue containing an introductory essay and entries on two works of art.
+Students were required to read, sign, and attach an Academic Integrity Checklist to their
+exhibition catalogue.
+c) The Student submitted his Academic Integrity Checklist when he submitted his exhibition
+catalogue assignment on August 14, 2018. On his Academic Integrity Checklist, he
+confirmed that he had appropriately cited the source(s) of the idea(s) in his exhibition
+catalogue and that any proofreading by another was limited to indicating areas of concern
+that he then corrected himself. The Student’s exhibition catalogue assignment contained
+30 endnotes.
+d) The Student’s exhibition catalogue assignment contained an introduction and conclusion,
+neither of which were required. This surprised Professor Rafiq, because neither the
+instructions for the exhibition catalogue assignment nor the sample exhibition catalogue
+that he had provided to his students included an introduction and conclusion.
+e) The sophistication and high quality of the Student’s exhibition catalogue assignment also
+surprised Professor Rafiq, who by this time had seen and graded several of the Student’s
+previous assignments. In Professor Rafiq’s assessment, there was a significant difference
+between the writing style shown in the Student’s earlier assignments and that displayed in
+his exhibition catalogue assignment. Professor Rafiq’s evidence on this point was concrete
+and replete with specific examples, including the following:
+i. An earlier essay that the Student submitted on July 16, 2018 contained spelling or
+grammar mistakes in most of its sentences, whereas the exhibition catalogue
+assignment contained virtually no such errors.
+
+5
+
+ii. The Student’s earlier work demonstrated a simplistic writing style, which the
+exhibition catalogue assignment did not. Professor Rafiq pointed to specific
+examples of this in his evidence.
+iii. The Student’s earlier work relied on what Professor Rafiq characterized as basic
+and superficial analysis and observations, whereas the analysis and observations
+in the exhibition catalogue assignment were much deeper. Again, Professor Rafiq
+pointed to specific examples in his evidence.
+iv. The quality of the Student’s writing in the exhibition catalogue assignment was, in
+Professor Rafiq’s assessment, above average for a third-year course such as this
+one, and was of a much higher quality than the Student’s previous work.
+v. After reading the Student’s exhibition catalogue assignment, Professor Rafiq felt
+that it was “more likely than not” that parts or all of it had not been authored by
+the Student.
+f) Based on the Student’s performance in the course overall, a mark of zero on the exhibition
+catalogue assignment would have yielded a final mark in the course of 39%.
+
+12. The Tribunal also received the evidence of Professor Charles Elkabas, a Professor in the
+Department of Language Studies at the University and the Dean’s Designate in this matter.
+Professor Elkabas met with the Student to discuss the exhibition catalogue assignment on
+December 10, 2018. Professor Elkabas’ evidence regarding this meeting was as follows:
+a) At the start of the meeting, he provided the Student with the standard warning, which
+included a warning that, if the Student made any statement or admission in the meeting, it
+could be received in evidence against him in the hearing of these charges.
+b) The Student initially advised Professor Elkabas that he worked harder on the exhibition
+catalogue assignment than he had on previous course assignments, and finished the
+exhibition catalogue assignment early. He showed it to a friend who told him that the
+grammar was not good. He showed it to a second friend who pointed out sentences that the
+Student changed on his own over the span of 10-20 minutes. The Student also used the free
+version of Grammarly to check the grammar in the exhibition catalogue assignment.
+c) Professor Elkabas then asked the Student why he did not go to the Academic Skills Centre.
+The Student stated that he did not have enough time to do so. Professor Elkabas noted that
+the Student had indicated that he had finished the exhibition catalogue assignment early.
+The Student then responded that he does not go to the Academic Skills Centre and that he
+still had 30% of the exhibition catalogue assignment to finish when he met with his friend.
+d) Professor Elkabas also asked the Student to explain the meaning of some of the words used
+in his exhibition catalogue assignment, and the Student was unable to do so. The specific
+examples that Professor Elkabas cited in this regard included the following:
+i. When asked about the word “relegated” in the context of the statement “Women
+in the Pre-Raphaelite movement society were often relegated to roles that were
+6
+
+considered ‘craft’ as opposed to full-blown artists,” the Student stated that
+“relegated” meant “strong connection.”
+ii. When asked what “patrons” meant, he stated that he did not know.
+iii. When asked what “shackles” meant, he stated that he did not know.
+iv. When asked to explain the difference between the terms “emigrant” and
+“immigrant”, both of which he used in the exhibition catalogue assignment, he
+could not.
+e) Professor Elkabas asked the Student a number of substantive questions about the discussion
+and analysis contained in the exhibition catalogue assignment. In Professor Elkabas’
+assessment, the Student’s responses to these questions were not appropriate and did not
+reflect the sophisticated nature of the work contained in the exhibition catalogue
+assignment. Professor Elkabas gave a number of examples of this in his evidence, including
+the following:
+i. When asked to explain the concept of “Victorian ideals of life”, the Student stated
+that “Victorian time in 19th century is different and at that time they had some
+thought about what life should be like. It is high class life.”
+ii. When asked “who is Elizabeth?” the Student stated, “PRB [Pre- Raphaelite
+Brotherhood]. This brotherhood was founded by some gentleman so they
+influenced men and women so they were brotherhood and sisterhood. We always
+mentioned other guys work.”
+iii. When asked to explain the concept behind the sentence “he demonstrates her
+power while also showing her release (hence the title) from the patriarchal bonds
+of a terrible marriage”, he stated that “because this painting is all about the strong
+man and another way, it all...” but did not finish his explanation.
+iv. When asked to explain what he meant by the sentence “Yet the reality is that
+emigrants were keenly selected as young and married people, as opposed to deviant
+vagabonds”, he stated that it meant “immigration”.
+v. When asked to explain the concept of a “sexualized idealization”, he stated that
+“in those times sex is now different.”
+f) Professor Elkabas asked the Student to explain the bibliography of the exhibition catalogue
+assignment. The Student stated that he did not find all of the sources contained in the
+bibliography; rather, he found only sentences and paragraphs from the sources. The Student
+further stated that he did not remember whether he used every item listed in the
+bibliography and that he did not study the content of each such item.
+g) The Student confirmed that he understood and was familiar with the academic offence of
+obtaining unauthorized assistance and that he was familiar with the Code. He denied having
+committed an academic offence.
+7
+
+h) In Professor Elkabas’ assessment, the Student’s responses to him during the meeting were
+entirely inconsistent with the high quality of the exhibition catalogue assignment that the
+Student had submitted.
+
+13. No evidence was tendered on behalf of the Student, either by way of affidavit or in person at the
+hearing, which the Student did not attend.
+
+14. The Tribunal found the evidence proffered by the University as to the stark differences between
+the Student’s earlier course work, on the one hand, and the exhibition catalogue assignment, on the
+other, to be highly compelling. These differences are readily apparent along a number of
+dimensions, including the depth and quality of the analysis, the sophistication of expression, the
+organization of thought, proper spelling, and correct grammar.
+
+15. The Tribunal was also struck by the evidence regarding the Student’s inability, during his
+discussion with Professor Elkabas, to explain or even loosely describe many of the concepts and
+terminology that were so central to the analysis contained in the exhibition catalogue assignment.
+
+16. Having considered all of the evidence in the hearing, the Tribunal concluded that, on the balance
+of probabilities, the Student was guilty of one count of plagiarism and one count of unauthorized
+assistance, contrary to sections B.I.1(d) and B.I.1(b) of the Code, respectively.
+
+17. In light of the Tribunal’s finding on this charge, the second charge, relating to cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code in order
+to obtain academic credit or other academic advantage of any kind, contrary to section B.I.3(b) of
+the Code, was withdrawn.
+
+IV.
+
+Penalty
+
+18. On the issue of sanction, counsel for the University requested the following:
+a) that the Student receive a final grade of zero in FAH392H5 in Summer 2018;
+b) that the Student be suspended from the University for a period of three years;
+c) that the sanction be recorded on the Student’s academic record and transcript to the effect
+that he was sanctioned for academic misconduct for a period of four years; and
+d) that this case be reported to the Provost for publication of a notice of the decision of the
+Tribunal and the sanction or sanctions imposed, with the name of the Student withheld.
+
+19. The Tribunal received evidence from Professor Elkabas regarding the Student’s history of
+academic offences at the University. His evidence was as follows:
+a) In connection with a fall 2016 course, he admitted to obtaining unauthorized assistance in
+an assignment. By way of sanction, in March 2017 he was given a grade of zero for the
+assignment in question and a notation on his transcript for 12 months.
+8
+
+b) In connection with a second fall 2016 course, the Student admitted to obtaining
+unauthorized assistance. In March 2018, he was given a sanction of a grade of zero in the
+course and a notation on his transcript for 24 months. This was approximately five months
+before the events at issue in this matter.
+c) In both cases, the Student was informed that he was being treated leniently because he had
+shown remorse and was truthful regarding his conduct. He was urged to seek assistance
+from the Academic Skills Centre. He was also warned that any subsequent allegations of
+misconduct would usually be referred to this Tribunal.
+
+20. The Tribunal considered previous decisions it had rendered in cases involving academic
+misconduct of this nature. In those decisions, the sanctions handed down were consistent with the
+one sought by the University in this case. Of note, the Tribunal’s decisions offer considerable
+support for the proposition that a first-time plagiarism offence generally results in a two-year
+suspension and a second offence of plagiarism generally results in a three-year suspension (e.g.
+University of Toronto and Mr. L. (December 3, 2015), University of Toronto and B.S. (January 17,
+2014), University of Toronto and S.B. (November 14, 2007), University of Toronto and M.H.H.
+(January 12, 2009), University of Toronto and D.O.S. (October 7, 2009), University of Toronto and
+M.S.D. (June 24, 2020), University of Toronto and G.Z. (December 3, 2019), University of Toronto
+and R.W. (February 22, 2017)).
+
+21. The Tribunal therefore concluded that the sanction sought by the University was consistent with
+the case law and would further some sense of uniformity or proportionality so that similar penalties
+are imposed on offences committed in similar circumstances.
+
+22. The Tribunal also considered the principles and factors relevant to sanction as articulated in
+University of Toronto and Mr. C. (November 5, 1976, Case No. 1976/77-3). The Tribunal
+determined that these factors supported the imposition of the usual three-year suspension in cases
+of repeat plagiarism, as was the case here. The Tribunal observed the following:
+a) Because the Student did not participate in the hearing, there was no evidence before the
+Tribunal as to any extenuating circumstances that might have weighed in the Student’s
+favour by mitigating or explaining his conduct.
+b) Likewise, because the Student did not participate in the hearing, there was no evidence
+before the Tribunal as to the character of the Student, other than the facts relating to this
+offence and the Student’s two prior offences.
+c) The Student has a prior record of academic offences, in the second of which he received
+his sanction letter only months before committing the offence now at issue. The Tribunal
+accepted the University’s submission that the Student did not appear to have learned from
+his mistakes.
+d) The offence is serious in nature and causes great detriment to the University and its
+students. A number of Tribunal decisions (e.g. University of Toronto and Y.G. (September
+28, 2015), University of Toronto and R.W. (February 22, 2017)) have observed that
+plagiarism corrodes academic integrity at the University and undermines the relationship
+9
+
+of trust between the University and its students. For these reasons, plagiarism is considered
+in the cases to be a very serious offence that warrants a serious penalty.
+e) There is a strong need to deter others from committing a similar offence, for many of the
+reasons noted above. This type of offence poses a grave threat to the integrity of the
+University’s processes for evaluating students, is profoundly unfair to other students, and
+jeopardizes the University’s reputation.
+
+23. In all of the circumstances, the Tribunal was satisfied that the appropriate sanction was the one
+sought by the University.
+VI.
+
+Order
+
+24. At the conclusion of the hearing, the Tribunal made the following order:
+a) that the hearing may proceed in the absence of the Student;
+b) that the Student was guilty of one count of plagiarism and one count of unauthorized
+assistance, contrary to sections B.I.1(d) and B.I.1(b) of the Code, respectively;
+c) that the Student will receive a final grade of zero in FAH392H5 in Summer 2018;
+d) that the Student will be suspended from the University for a period of three years, from the
+date of the Order to October 14, 2023;
+e) that the sanction will be recorded on the Student’s academic record and transcript to the
+effect that he was sanctioned for academic misconduct for a period of four years, from the
+date of the Order to October 14, 2024; and
+f) that this case shall be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanction or sanctions imposed, with the name of the Student withheld.
+
+Dated at Toronto, this 13th day of January 2021.
+
+10
+
+Ira Parghi, Chair
+
+11
+
+

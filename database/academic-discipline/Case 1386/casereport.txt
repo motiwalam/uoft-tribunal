@@ -1,0 +1,383 @@
+Case No. 1386
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on July 14, 2022, and July 26, 2023
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and Y
+
+X
+
+REASONS FOR DECISION
+
+Hearing Date: November 21, 2023, via Zoom
+Panel Members:
+Michelle S. Henry, Chair
+Professor Irina D. Mihalache, Faculty Panel Member
+Brinda Batra, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Janet Song, Co-counsel, Paliare Roland Rosenburg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Coordinator & Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+Y
+X
+
+1
+
+1. A hearing of the Trial Division of the University Tribunal convened on November 21,
+2023, to consider academic charges brought by the University of Toronto (the
+“University”) against Y
+
+X (the “Student”) under the Code of Behaviour on
+
+Academic Matters, 2019 (the “Code”). There were two sets of charges before the Tribunal
+in this hearing. The Student was informed of the first set of charges by letter dated July
+14, 2022, from Professor Heather Boon, Vice-Provost, Faculty & Academic Life, and was
+informed of the second set of charges by letter dated July 26, 2021 from Professor Randy
+Boyagoda, Acting Vice-Provost, Faculty & Academic Life (collectively, the “Charges”).
+The Student was also informed of the hearing by a Notice of Virtual Hearing with respect
+to the Charges dated September 1, 2023.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+2. The hearing was scheduled to commence at 9:45 a.m. via Zoom. The Tribunal waited until
+10:00 a.m. before commencing the hearing. The Student did not appear at the hearing.
+3. Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “SPPA”), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of a hearing has been given to a party in accordance with the Act and the
+party does not attend at the hearing, the Tribunal may proceed in the absence of the party,
+and the party is not entitled to any further notice in the proceeding. In this case, the
+University requested that the Tribunal proceed with the hearing in the absence of the
+Student.
+4. Pursuant to Rule 13, a Notice of Hearing may be served on a student by various means,
+including: sending a copy of the document by courier to the student’s mailing address
+2
+
+contained in the Repository of Student Information (“ROSI”); or emailing a copy of the
+document to the student’s email address contained in ROSI.
+5. Further, the University’s Policy on Official Correspondence with Students (“Policy”) states
+that students are responsible for maintaining a current and valid postal address and a
+University-issued email account in ROSI. The Policy makes it clear that students are
+expected to monitor and retrieve their mail, including electronic messaging accounts issued
+to them by the University, on a frequent and consistent basis.
+6. In this case, the University filed Affidavits regarding the correspondences to the Student
+providing notice of the Charges and Notice of the Virtual Hearing.
+
+The Affidavit of
+
+Kimberly Blake, legal assistant at Paliare Roland, sworn November 17, 2023, outlines the
+various attempts to contact the Student by the University and then by Paliare Roland. On
+October 27, 2023, Ms. Blake attempted to call the Student using the telephone contained
+in ROSI. The calls to the telephone number went to an operator’s recording indicating that
+the number had not been assigned.
+7. On October 30, 2023, Paliare Roland arranged for copies of the Notice of Virtual Hearing,
+along with the charges in the matter and the disclosure letters to be couriered to the
+Student’s mailing address and permanent address contained in ROSI. The packages were
+accepted at both addresses, although they were signed for by individuals other than the
+Student.
+8. The package of documents was also sent by email to the email address of the Student
+contained in ROSI. It is clear that the Student was no longer accessing her University3
+
+issued email account at the time she was served with the charges and the Notice of Virtual
+Hearing. The Affidavit of Andrew Wagg, Manager, Incident Response at Information
+Security, Information Technology Services at the University, sworn November 10, 2023,
+confirmed that the last time someone accessed this e-mail account was on October 21,
+2022. As such, the email account was not accessed after the charges and Notice of Virtual
+Hearing were served by email. Based on a Supplementary Affidavit of Kimberly Blake
+sworn November 21, 2023, the Student was aware of the allegations of misconduct against
+the them in MAT133Y5Y and was advised by the course instructor that the matter had been
+referred the Academic Integrity Office.
+9. Having reviewed the evidence and heard the submissions of counsel for the University, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+accordance with the notice requirements set out in the SPPA and the Rules. Accordingly,
+the Tribunal proceeded to hear the case on its merits in the absence of the Student.
+THE CHARGES
+10. At all material times, the Student was a registered student at the University of Toronto
+Mississauga (“UTM”). The University brought the following charges against the Student:
+i.
+
+On or about March 8, 2021, the Student knowingly obtained unauthorized assistance
+in connection with Term Test 2 in LIN205H5S (English Grammar II) (“LIN205”),
+contrary to section B.I.1(b) of the Code.
+
+ii.
+
+In the alternative, on or about March 8, 2021, the Student knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with Term Test 2 in LIN205, contrary to section
+B.I.3(b) of the Code.
+
+4
+
+iii.
+
+On or about April 5, 2021, the Student knowingly obtained unauthorized assistance in
+connection with Term Test 3 in LIN205, contrary to section B.I.1(b) of the Code.
+
+iv.
+
+In the alternative, on or about April 5, 2021, the Student knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with Term Test 3 in LIN205, contrary to section
+B.I.3(b) of the Code.
+
+v.
+
+On or about April 20, 2021, the Student knowingly obtained unauthorized assistance
+in connection with the final exam in MAT157Y5 (Analysis I) (“MAT157”), contrary
+to section B.I.1(b) of the Code.
+
+vi.
+
+In the alternative, on or about April 20, 2021, the Student knowingly represented as
+the Student’s own an idea or expression of an idea or work of another in the final exam
+in MAT157, contrary to section B.I.1(d) of the Code.
+
+vii.
+
+In the further alternative, on or about April 20, 2021, the Student knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the final exam in MAT157,
+contrary to section B.I.3(b) of the Code.
+
+viii.
+
+On or about April 22, 2022, the Student knowingly obtained unauthorized assistance
+in connection with the Final Exam in MAT133Y5Y (Calculus and Linear Algebra for
+Commerce) (“MAT133”), contrary to section B.I.1(b) of the Code.
+
+ix.
+
+In the alternative, on or about April 22, 2022, the Student knowingly represented as
+the Student’s own an idea or expression of an idea or work of another in the Final Exam
+in MAT133, contrary to section B.I.1(d) of the Code.
+
+x.
+
+In the further alternative, on or about April 22, 2022, the Student knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other
+academic advantage of any kind in connection with the Final Exam in MAT133,
+contrary to section B.I.3(b) of the Code.
+
+5
+
+THE EVIDENCE
+LIN205
+11. The Tribunal received Affidavit evidence from Dr. Ai Taniguchi, a Professor in the
+Department of Languages at UTM, and the course instructor for LIN205. Professor
+Taniguchi’s evidence was as follows.
+12. In Winter 2021, the Student enrolled in LIN205. Students in LIN205 were evaluated on
+the basis of, among other things, three term tests, worth 20% each. The term tests were
+administered online. Students were required to complete the online tests independently.
+Students were allowed to use “authorized material” during the test, which included scratch
+paper and all material used in class.
+13. Term Test 2 was a multiple-choice test comprised of 23 questions. There were three
+versions of Term Test 2. The questions in each version of Term Test 2 were worded slightly
+differently; however, the question structures were conceptually similar, as were the correct
+answers. Term Test 2 was held online on March 8, 2021, from 3:10 pm to 5:00 pm EST
+(for most students) and worth 20% of the final grade in the Course.
+14. The Student requested to write Term Test 2 at an alternate time since she was in China.
+Professor Taniguchi allowed the Student to write the test on March 8, 2021, starting at 9:40
+pm until 11:30pm. On March 8, 2021, the Student submitted Term Test 2.
+15. Term Test 3 was a multiple-choice test comprised of 22 questions. Term Test 3 was held
+on April 5, 2021, from 3:10 pm to 5:00 pm EST and was worth 20% of the final grade in
+the Course. On April 5, 2021, the Student submitted Term Test 3.
+6
+
+16. The following day, on April 6, 2021, Professor Taniguchi received an anonymous email
+from someone reporting that there was a WeChat group chat in which 93 users discussed
+and shared answers to Term Test 2 and Term Test 3. On April 7, 2021, the anonymous
+individual sent Professor Taniguchi screenshots of the group chat participants.
+17. The screenshots provided by the anonymous individual showed that the answers for Term
+Test 2 were shared on WeChat on March 8, 2021—the day of the test—at 3:32 pm. The
+version of Term Test 2 contained in the Term Test 2 Screenshots was different than the
+version the Student wrote. However, the questions and correct answers were conceptually
+similar. All the answers contained in the Term Test 2 Screenshots were correct, except for
+Question 11, which was incorrectly answered “False” instead of “True”.
+18. The answers for Term Test 3 were shared on the WeChat group on April 5, 2021—the day
+of the test-around 4:10 pm to 4:12pm.
+19. The screenshots provided by the anonymous individual confirmed that, during both Term
+Test 2 and Term Test 3, the Student participated in a group chat on WeChat, in which
+participants shared answers to the questions on the tests.
+20. On August 20, 2021, Professor Taniguchi met with the Student regarding Term Test 2 and
+Term Test 3. The matter was then forwarded to the Department of Language Studies.
+MAT157
+21. The Tribunal received Affidavit evidence from Yael Karshon, a Professor in the
+Department of Mathematical & Computational Sciences at UTM, and the course instructor
+in MAT157. Professor Karshon’s evidence was as follows.
+7
+
+22. In Fall 2020 and Winter 2021, the Student enrolled in MAT157. Students in the Course
+were evaluated on the basis of, among other things, four term tests, problem sets and a final
+exam worth 36%. The final exam was administered online. Students were required to write
+the final exam independently. The instructions for the final exam contained a statement
+that no aids were allowed, and specifically prohibited students from communicating with
+each other either verbally or in writing.
+23. On April 20, 2021, the Student wrote the final exam in MAT157.
+24. While marking the final exam, Professor Karshon noticed that the Student’s solutions were
+almost identical to those of another student. Given the similarities between the students’
+answers, Professor Karshon suspected that the two students collaborated on the final exam
+and that the similarities were not merely coincidental.
+25. Professor Karshon’s evidence was that the students solved the problem using the same
+steps in the same order, with the same level of detail, even though the questions could have
+been answered in many different ways. Further, there were various portions of the
+students’ answers that were virtually identical; and the students presented their answers in
+very similar ways, although there were multiple ways students had been shown to present
+answers.
+26. On April 22, 2021, Professor Karshon met with the Student to discuss the final exam. The
+Professor scheduled a follow up meeting with the Student on April 27, 2021; however, the
+Student failed to attend.
+MAT133
+8
+
+27. The Tribunal received Affidavit evidence from Tyler Holden, an Associate Professor in the
+Department of Mathematical and Computational Sciences at UTM and the course
+instructor for MAT133. The evidence was as follows.
+28. In Fall 2021 and Winter 2022, the Student enrolled in MAT133. Students in MAT133
+were evaluated on the basis of, among other things, a Final Exam worth 30% of the final
+grade. The Final Exam was administered online. Students were required to write the final
+exam independently.
+29. The Final Examination was made available online from Thursday, April 21, 2022, at 4:00
+pm EST to Friday April 22, 2022, at 4:00 PM EST, and was worth 30% of the final grade
+in the Course. Students had a 3-hour window to answer the questions once they began the
+exam. The Student wrote the Final Exam in MAT133 on April 22, 2022.
+30. Students were required to complete the test independently. Students were not permitted to
+use unauthorized aids. Students were not allowed to transmit or receive information about
+the test from any other individual who was not a course instructor, whether in person,
+digitally, or by some other means. Students were not allowed to access the internet for
+course-related reasons, except to download and print the test, to submit the test digitally,
+or to communicate with one of the course instructors.
+31. Students were allowed to use “authorized material” during the test, which included a
+calculator of any type and the students’ own books and notes.
+
+9
+
+32. In submitting the Final Examination, students were required to sign a declaration
+confirming that their conduct during this test adhered to the Code. The Student submitted
+the declaration on April 22, 2022, at 3:37 PM EST.
+33. While marking the Final Examination, Professor Holden noticed that the Student’s answer
+to Question 5(ii) was similar to the answers of other students. Some answers were identical
+or nearly identical. Professor Holden considered the similarities between the students’
+answers to Question 5(ii) to be suspicious because the students solved the problem using
+the same steps in the same order, with the same level of detail, even though the questions
+could have been answered in many different ways. Some portions of the students’ answers
+were virtually identical. Professor Holden’s evidence was that there were specific aspects
+of the answers that were particularly suspicious given how some of the problems were
+solved, including where students used the incorrect approach or included the same level of
+detail that was unnecessary and not useful.
+34. Professor Holden noted that there are countless ways in which students could approach the
+question, including deciding the amount of detail to provide and what steps to include or
+omit in the answer. Accordingly, he believed that the degree of similarities between the
+students’ answers made it unlikely the similarities he observed in the students’ answers
+were merely coincidental.
+35. On May 7, 2022, Professor Holden wrote to the Student to schedule a meeting to discuss
+the allegations. The Student did not schedule a meeting with Professor Holden. The matter
+was forwarded to UTM's Department of Mathematical and Computational Sciences and to
+
+10
+
+the Academic Integrity Unit in the Office of the Vice Principal, Academic and Dean at
+UTM.
+DECISION OF THE TRIBUNAL ON CHARGES
+36. Having considered all the evidence heard during the hearing, Affidavit evidence, the
+Tribunal found that,
+a. the Student obtained unauthorized assistance in connection with an academic
+examination or term test or in connection with any other form of academic work,
+in respect of LIN205, and MAT133, contrary to section B.I.1.(b) of the Code; and,
+b. the Student knowingly engaged in a form of cheating, academic dishonesty or
+misconduct in connection with the final exam in MAT157, contrary to section
+B.I.3(b) of the Code.
+37. Accordingly, the Tribunal entered a finding of guilty with respects to the three (3) counts
+of obtaining unauthorized assistance in connection with an academic examination or term
+test or in connection with any other form of academic work, in respect of LIN205, and
+MAT133, contrary to section B.I.1.(b) of the Code; and the Student is guilty of one (1)
+count of knowingly engaging in a form of cheating, academic dishonesty or misconduct in
+connection with the final exam in MAT157, contrary to section B.I.3(b) of the Code.
+38. Given the findings with respect to the above charges, the University withdrew the alternate
+charges outlined in paragraph 10.
+
+11
+
+DECISION OF THE TRIBUNAL ON PENALTY
+39. The Tribunal heard submissions regarding the appropriate penalty in this case, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and C. (Case No. 1976/77-3, November 5, 1976).
+a. The Character of the Student.
+The Student did not participate in the proceeding and did not attend any meeting with
+the Dean’s Designate.
+
+Accordingly, there was no evidence before the Tribunal
+
+regarding the Student’s character other than the facts relating to this offence and the
+lack of responses from the Student. As noted above, based on the evidence, the Student
+was aware of the allegations of misconduct against them in MAT133, and was advised
+by the course instructor that the matter had been referred to the Academic Integrity
+Office. There is no evidence of whether she has remorse or insight, or whether she is
+willing to take responsibility for her actions.
+b. The likelihood of a repetition of the offence.
+Based on the Academic Integrity Unit’s records, the Student committed one prior
+offence in JAH391Y0Y (Anthropology) (“JAH391”) in Summer 2017. On October
+26, 2018, the Student admitted that she submitted an academic work containing
+references to sources which had been concocted in connection with an essay worth 25%
+of her final grade in JAH391 (the “Essay”). For this offence, the Student received a
+grade of zero on the Essay and a further grade reduction of 25 marks in JAH391, and a
+12-month notation on the Student’s academic transcript (from October 26, 2018, to
+October 26, 2019.
+12
+
+c. The nature of the offence committed.
+The Tribunal took into consideration the serious and deliberate nature of the offence
+and the detriment to the University. Unauthorized assistance in connection with an
+academic examination or term test and cheating are considered serious offences that
+strike at the heart of academic integrity and undermines the value of all of the
+University’s degrees.
+d. Any extenuating circumstances surrounding the commission of the offence.
+The onus is on the Student to put forward any mitigating circumstances. As indicated
+above, the Student did not participate in this hearing. As such, there was no evidence
+before the Tribunal of mitigating or extenuating circumstances.
+e. The need to deter others from committing a similar offence.
+General deterrence is an important factor in these cases. The Tribunal accepts that the
+University and the Tribunal must send a strong message to other students that such
+misconduct is considered a serious offence.
+40. Having regard to the submissions of the University, and the relevant factors outlined above,
+the Tribunal agrees that the sanctions are appropriate. At the conclusion of the hearing,
+the Tribunal made the following Order:
+a. The Student is guilty of three (3) counts of obtaining unauthorized assistance in
+connection with an academic examination or term test or in connection with any
+other form of academic work, in respect of LIN025H5, and MAT133Y5Y, contrary
+to section B.I.1.(b) of the Code; and the Student is guilty of one (1) count of
+13
+
+knowingly engaging in a form of cheating, academic dishonesty or misconduct in
+connection with the final exam in MAT157, contrary to section B.I.3(b) of the
+Code.
+b. The following sanctions shall be imposed on the Student:
+i. a final grade of zero in the following courses:
+ii. LIN205H5 (Winter 2021);
+iii. MAT157Y5 (Fall 2020 – Winter 2021);
+iv. MAT133Y5Y (Fall 2020 – Winter 2021); and
+c. a suspension from the University of Toronto for a period of four (4) years from the
+date of this order, ending on November 21, 2027; and
+d. a notation of the sanction on their academic record and transcript for a period of
+five (5) years from the date of this order, ending on November 21, 2028.
+e. This case be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanction imposed, with the Student’s name withheld.
+DATED at Toronto, February 14, 2024.
+
+Original signed by:
+______________________________________
+Michelle S. Henry, Chair
+On behalf of the Panel
+
+14
+
+

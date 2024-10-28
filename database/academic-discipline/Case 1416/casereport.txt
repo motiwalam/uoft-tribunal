@@ -1,0 +1,635 @@
+Case No.: 1416
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on September 21, 2022, and July
+20, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+Z
+
+L
+
+REASONS FOR DECISION
+
+Hearing Date: August 14, 2023
+Members of the Panel:
+Johanna Braden, Chair
+Professor Joseph Clarke, Faculty Panel Member
+Matthaeus Ware, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Joseph Berger, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Coordinator and Hearing Secretary, Office of Appeals, Dsicipline and
+Faculty Grievances
+Not In Attendance:
+Z
+L
+
+1.
+
+The Trial Division of the University Tribunal was convened on August 14, 2023, to
+
+consider charges brought by the University of Toronto (the “University”) against
+Z
+
+L
+
+(the “Student”) under the University of Toronto Code of Behaviour on
+
+Academic Matters, 2019 (the “Code”).
+Preliminary Issue: Proceeding in the Absence of the Student
+2.
+
+As contemplated by the Notice of Virtual Hearing, the hearing began on August
+
+14, 2023, at 1:45 pm. The Student was neither present nor represented. The University
+filed a consent form signed by the Student in which he attested (among other things) that
+he had signed an Agreed Statement of Facts (“ASF”), an Agreed Statement of Facts on
+Penalty (“ASFP”) and a Joint Submission on Penalty (“JSP”), and that he did not wish to
+attend or participate further in this proceeding. He requested that the Tribunal proceed
+in his absence, and waived his right to any further notice of this hearing.
+3.
+
+The Student further attested that he signed the consent form freely and voluntarily,
+
+knowing of the consequences. Accordingly, the Tribunal proceeded with the hearing in
+the Student’s absence.
+The Charges and Particulars
+4.
+
+There were two sets of charges against the Student. The first set of charges is
+
+dated September 21, 2022 (the “First Charges”), and the second set of charges is dated
+July 20, 2023 (the “Second Charges”).
+5.
+
+The First Charges and particulars are as follows.
+
+1.
+
+On or about December 17, 2021, you knowingly represented as your own an idea
+
+or expression of an idea or work of another in the final exam in CSCA20H3 (the
+“Course”), contrary to section B.I.1(d) of the Code.
+2.
+
+In the alternative, on or about December 17, 2021, you knowingly obtained
+
+unauthorized assistance in connection with the final exam in the Course, contrary to
+section B.I.1(b) of the Code.
+3.
+
+In the further alternative, on or about December 17, 2021, you knowingly engaged
+
+in a form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with the final exam in the Course, contrary to section
+B.I.3(b) of the Code.
+Particulars of the offences charged are as follows:
+1.
+
+At all material times you were a student enrolled at the University of Toronto
+
+Scarborough.
+2.
+
+In Fall 2021, you enrolled in CSCA20H3 (Introduction to Programming).
+
+3.
+
+Students in the Course were evaluated on the basis of, among other things, a final
+
+exam, worth 20% of their final grades. The final exam was a take-home exam, which
+students were required to complete entirely on their own.
+4.
+
+On or about December 17, 2021, you submitted your final exam in the Course.
+
+5.
+
+You submitted the final exam:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were
+
+not your own, but were the ideas, expressions of ideas or work of others, including
+other students in the Course, M.Z., Y.K.Z. and D.J. (the “Other Students”), a socalled “cram school” or “tutoring” service, or others; and
+
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas
+
+or work that you drew from the Other Students, the so-called “cram school” or
+“tutoring” service or others.
+6.
+
+You knowingly aided, assisted, abetted, counselled, procured or conspired with
+
+the Other Students, the so-called “cram school” or “tutoring” service or others to commit
+the offence of plagiarism in the final exam.
+7.
+
+You knew that you could not consult with others when completing the final exam.
+
+You knowingly obtained unauthorized assistance on the final exam from the Other
+Students, the so-called “cram school” or “tutoring” service or others, and/or aided,
+assisted, abetted, counselled, procured or conspired with the Other Students or others
+to obtain unauthorized assistance in the final exam.
+8.
+
+You knowingly submitted the final exam in the Course with the intention that the
+
+University of Toronto Scarborough rely on it as containing your own ideas or work in
+considering the appropriate academic credit to be assigned to your work.
+
+6.
+
+The Second Charges and particulars are as follows.
+1.
+
+On or about April 12, 2023, you knowingly forged or in any other way altered or
+
+falsified a document or evidence required by the University of Toronto, or uttered,
+circulated or made use of such forged, altered or falsified document, namely, a
+Verification of Illness Form purportedly from Dr. Dennis Bay, Humber River Hospital,
+dated April 12, 2023, which you submitted in support of petition #38388 to defer writing
+the final exam for LINB09H3, contrary to section B.I.1(a) of the Code.
+2.
+
+On or about April 14, 2023, you knowingly forged or in any other way altered or
+
+falsified a document or evidence required by the University of Toronto, or uttered,
+circulated or made use of such forged, altered or falsified document, namely, a
+Verification of Illness Form purportedly from Dr. Dennis Bay, Humber River Hospital,
+dated April 12, 2023, which you submitted in support of petition #38476 to defer writing
+the final exams for LINB10H3 and LINA02H3, contrary to section B.I.1(a) of the Code.
+3.
+
+In the alternative to each of Charges #1 and #2, you knowingly engaged in a form
+
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+
+otherwise described in the Code in order to obtain academic credit or other academic
+advantage of any kind in connection with petition #38388 and petition #38476, which
+you submitted to defer writing the final exams for LINB09H3, LINB10H3 and LINA02H3,
+contrary to section B.I.3(b) of the Code.
+The particulars related to the charges are as follows:
+1.
+
+At all material times, you were a registered student at the University of Toronto
+
+Scarborough.
+2.
+
+On April 12, 2023, you submitted a Verification of Illness (VOI) Form in support of
+
+petition #38388 to request a further deferral of the final exam for the Fall 2022 course
+LINB09H3, which you had previously deferred.
+3.
+
+On April 14, 2023, you submitted the same VOI Form in support of petition #38476
+
+to request a deferral of the final exams for the courses for LINB10H3 and LINA02H3.
+4.
+
+The VOI forms you submitted in support of petition #38388 and petition #38476
+
+were purportedly signed and stamped by Dr. Dennis Bay, License #77650, of Humber
+River Hospital, dated April 12, 2023.
+5.
+
+The VOI forms were forged, altered or falsified. Dr. Bay did not treat you, fill out,
+
+sign or the stamp the VOI forms.
+6.
+
+You knew that the VOI forms that you submitted were forged, altered or falsified
+
+when you submitted them.
+7.
+
+You knowingly submitted the VOI forms:
+(a)
+
+understanding that the University of Toronto Scarborough required
+
+evidence to be presented in order to obtain the academic accommodation or relief
+you sought;
+(b)
+
+with the intention that the University of Toronto Scarborough rely on them
+
+in considering whether or not to provide you with the academic accommodations
+or relief you requested; and
+
+(c)
+
+in an attempt to obtain an academic advantage.
+
+The Evidence
+7.
+
+Although the Student did not attend the hearing, he admitted the charges in writing
+
+through a signed ASF. Because the Student’s admissions were made belatedly, the ASF
+did not contain a thorough recitation of the relevant facts. Rather, the parties agreed to
+submit affidavit evidence to establish the charges.
+(a)
+8.
+
+The First Charges
+
+In respect of the First Charges, the University submitted two affidavits: one from
+
+Brian Harrington, Professor, Teaching Stream in the Department of Computer and
+Mathematical Sciences, at the University of Toronto Scarborough; and one from
+Professor Anya Tafliovich, Dean’s Designate for the administration of the Code at the
+University of Toronto Scarborough. The Student attested in writing that he accepts the
+evidence of both affiants, agrees with the facts set out therein, and waives his right to
+cross-examine the affiants.
+9.
+
+Briefly, the evidence of Professor Harrington was that the Student was in his
+
+Introduction to Programming Course in the Fall 2021 term. The final exam was a fourhour take-home test, and students were expected to complete it entirely on their own.
+Students were provided with “starter code” and required to complete the code as part of
+the final exam.
+10.
+
+An online program used by Professor Harrington detected marked similarities
+
+between the code submitted by the Student and the code submitted by the three Other
+
+Students. The similarities were suspicious for various reasons. Much of the similar code
+was distinctive, unorthodox, non-standard, and not taught in the course. All four final
+exams contained the same distinctive errors. Overall, given the nature and degree of
+similarities in the codes submitted by the Student and the three Other Students, Professor
+Harrington found it unlikely that the similarities were coincidental. He escalated the matter
+to the Dean’s Designate for Academic Integrity.
+11.
+
+Professor Tafliovich was the Dean’s Designate who investigated Professor
+
+Harington’s allegations. She contacted all four students involved and set up Dean’s
+Designate meetings, as contemplated by the Code. The Other Students all admitted to
+committing the offence of “unauthorized assistance” on the final exam at the Dean’s
+Designate meetings. Each of the Other Students admitted to using online external
+“tutoring services” (or “cram schools”) during the final exam period which provided them
+with instructions on how to answer the final exam. Each of the Other Students were given
+a sanction of a grade of zero on the final exam, and a notation of this sanction on their
+academic record for a period of one year.
+12.
+
+The Student met with the Dean’s Designate on June 21, 2022. In contrast to the
+
+Other Students, the Student denied at the Dean’s Designate meeting that he had
+committed an academic offence. The Student said he obtained online assistance from a
+“personal teacher” who helped him prepare before the final exam was distributed, but not
+during the final exam itself. The Student was unable to explain the similarities between
+his final exam and the final exam of the Other Students.
+
+13.
+
+The Student has since admitted that he was not truthful at the Dean’s Designate
+
+meeting. In the ASF, the Student admitted in writing that he:
+(a)
+
+knew that he could not look at anyone else’s solutions or use any external
+resources, including websites, when completing the final exam;
+
+(b)
+
+searched for solutions to the final exam on the internet during the four-hour
+exam period;
+
+(c)
+
+knowingly obtained unauthorized assistance on the final exam, contrary to
+section B.I.1(b) of the Code;
+
+(d)
+
+knowingly submitted the final exam with the intention that the University of
+Toronto Scarborough rely on it is as containing his own idea or work in
+considering the appropriate academic credit to be assigned to his work; and
+
+(e)
+
+knowingly represented as his own an idea or expression of an idea or work of
+another in the final exam, contrary to section B.I.1(d) of the Code.
+
+(b)
+14.
+
+The Second Charges
+
+In respect of the Second Charges, the University submitted a further two affidavits:
+
+one from Sheryl Nauth, Academic Integrity Assistant in the Office of the Vice-Principal
+Academic and Dean at the University of Toronto Scarborough; and one from Dr. Dennis
+Bay, physician at the Humber River Hospital, in Toronto, Ontario. The Student attested
+in writing that he accepts the evidence of both affiants, agrees with the facts set out in
+their affidavits, and waives his right to cross-examine the affiants.
+15.
+
+The affidavit evidence shows that in Winter 2023, the Student was scheduled to
+
+write three final exams during the April 2023 exam period. One exam (scheduled for April
+
+12, 2023) was an exam deferred from the previous academic term, and the other two
+exams (both scheduled for April 14, 2023) were for courses the Student was taking in the
+Winter 2023 term. In order to petition to defer exams at the University, students are
+required to submit petition requests through an online portal.
+16.
+
+On April 12, 2023, the Student submitted an online petition request to defer his
+
+exam that day for medical reasons. On April 14, 2023, the Student submitted another
+online petition request to defer his two exams that day for medical reasons. For all three
+requests, the Student emailed a verification of illness form to support his petitions. The
+verification of illness form was purportedly signed and stamped by Dr. Dennis Bay,
+License #77650, of Humber River Hospital, dated April 12, 2023.
+17.
+
+On June 12, 2023, the Assistant Registrar, Petitions, in the Office of the Registrar,
+
+reached out to Dr. Dennis Bay via email. The email attached the verification of illness
+form. The Assistant Registrar addressed Dr. Bay as follows.
+Hello Dr. Bay
+If you recall, we connected at the end of February regarding a fraudulent medical note
+that was submitted at that time.
+We found another note that was recently submitted again with your name.
+Patient DOB:
+Could you kindly confirm if this note was written by you and if you saw the subjected
+mentioned patient.
+
+18.
+
+Dr. Bay replied the next day, June 13, 2023. The evidence of Dr. Bay is that the
+
+verification of illness form submitted by the Student is an utter forgery. Dr. Bay did not
+
+write or authorize it. He does not own a stamp with his name, address and CPSO number.
+The handwriting is not his. He was not working at the Humber River Hospital the week
+of April 12, 2023. He does not have and has never had a patient with the same name as
+the Student. The Humber River Hospital does not have and has never had a patient with
+the same name as the Student.
+19.
+
+On July 4, 2023, the Student attended a Dean’s Designate meeting in respect of
+
+the allegation that he submitted a fraudulent medical note in an effort to defer three of his
+final exams. The Student denied the allegation, and asserted that he had visited Dr. Bay
+in order to obtain the verification of illness form.
+20.
+
+As with the First Charges, the Student now agrees he was not truthful with the
+
+Dean’s Designate. In the ASF, the Student admitted in writing that he:
+a. never was a patient of Dr. Bay at the Humber River Hospital in Toronto, Ontario;
+b. did not see Dr. Bay as a patient on April 12, 2023;
+c. submitted a verification of illness form dated April 12, 2023, purportedly signed and
+stamped by Dr. Bay, in support of his three petitions to defer writing three final
+exams, which was forged, altered or falsified; and
+d. knowingly forged or in any other way altered or falsified a document or evidence
+required by the University of Toronto, or uttered, circulated or made use of such
+forged, altered or falsified document, namely the Verification of Illness form dated
+April 12, 2023, purportedly signed and stamped by Dr. Bay, contrary to section
+B.I.3(a) of the Code.
+
+Decision of the Tribunal on Charges
+21.
+
+The onus is on the University to establish on the balance of probabilities, using
+
+clear and convincing evidence, that the Student has committed the academic offences as
+charged.
+22.
+
+In this case, the Student admitted three charges of violating the Code. Although
+
+the Student was not present, the admissions and acknowledgements contained in the
+ASF (signed by the Student) were comprehensive. The Tribunal was satisfied that the
+Student’s admissions were voluntary, informed and unequivocal.
+23.
+
+The affidavits provided ample evidence to support the charges. For the First
+
+Charges, the suspicious similarities between the Student’s final exam and the final exam
+of the Other Students are explained by their unauthorized use of an online tutor or “cram
+school”, which fed all four of them the same unorthodox (and sometimes incorrect) coding
+solutions while they were writing the exam. For the Second Charges, the evidence is
+clear that the Verification of Illness form submitted twice by the Student was a forgery.
+24.
+
+Accordingly, the Tribunal found the Student guilty of Charge 1 from the First
+
+Charges, and Charges 1 and 2 from the Second Charges. The remaining alternative
+charges were withdrawn by the University.
+Evidence and Submissions on Sanctions
+25.
+
+The parties agreed on a further Agreed Statement of Facts relevant to sanctions,
+
+which proved that the Student had committed a prior offence of plagiarism in an
+assignment in SOCA03Y3 (Introduction to Sociology) in Winter 2021. He was sanctioned
+
+for the offence at the departmental level on or around March 26, 2021. He received a
+sanction of a 10% grade reduction on the assignment.
+26.
+
+The Student also submitted a letter of apology in which he expressed remorse and
+
+regret. He explained that he felt under pressure and generally unwell. He admitted that
+he paid a friend who “assured me these things were safe” to “resolve some of these issues
+for me”. The Student’s letter was accompanied by a document purporting to be a “Health
+Examination Report” from the Shanghai First People’s Hospital International Medical
+Care Center dated May 18, 2023. The Health Examination Report lists the results of
+various medical tests performed on the Student. No explanation was given as to what
+these test results mean, or how they affected the Student at the time relevant to either
+the First or Second Charges. The Tribunal was not able to place any weight on the Health
+Examination Report.
+27.
+
+Based on all the evidence, the University and the Student jointly submitted that the
+
+Tribunal should order the following sanctions:
+a. a final grade of zero in the course CSCA20H3 in Fall 2021;
+b. a final grade of zero in the course LINB09H3 in Fall 2022;
+c. a final grade of zero in the course LINB10H3 in Winter 2023;
+d. a final grade of zero in the course LINBA02H3 in Winter 2023;
+e. the Student will be suspended from the University of Toronto for a period of
+3 years and 4 months, commencing on August 14, 2023 and ending on
+December 14, 2026; and
+f. this sanction will be recorded on the Student’s academic record and
+
+transcript from the date of the Tribunal’s order until graduation.
+
+Decision of the Tribunal on Sanctions
+28.
+
+The Tribunal considered the evidence in light of the factors and principles relevant
+
+to sanctions as set out in the decision of University of Toronto and Mr. C. (Case No.
+1976/77-3, November 5, 1976).
+a. The character of the Student: there was little evidence of the Student’s
+character other than what is revealed by the facts of these charges and his
+prior offence. This Student committed four dishonest acts in the space of
+just over two years, involving five different courses. His dishonesty spans
+a range of offences: plagiarism, exam cheating, falsified doctor’s notes. The
+Student appears to be someone who reaches for the easy way out in a
+variety of situations. That being said, the Tribunal recognizes that the
+Student has accepted a degree of responsibility for his actions by eventually
+admitting the charges against him and agreeing to a joint submission on
+sanction. The Students’ admissions would have carried more weight if they
+had been made earlier.
+b. The likelihood of repetition of the offence: this was a serious concern. On
+or around March 26, 2021, the Student was sanctioned for plagiarism. On
+December 17, 2021, the Student cheated on his final exam. While those
+charges were pending, the Student twice submitted a falsified verification of
+illness form to try and defer three other final exams. There is a pattern of
+
+dishonesty. A significant sanction is required to ensure this pattern does
+not continue.
+c. The nature of the offence committed and the detriment to the University: all
+three charges involve deliberate falsifications. They may have seemed like
+small deviations to the Student, but their effects are significant. Cheating
+on an exam weakens the essential fabric underpinning the University’s
+system of grading.
+
+Fabricating medical documents undermines the
+
+University’s process of medical accommodation.
+
+These are persistent
+
+problems striking at the core of academic integrity.
+d. Any extenuating circumstances: the Student’s letter explained he had been
+under stress and feeling unwell. Even if this is true, it is no excuse. If the
+Student had been legitimately unwell during either of the two relevant exam
+periods, he could have obtained a legitimate verification of illness form
+rather than pay a friend for a false one.
+e. The need for general deterrence: this is a predominant concern. For the
+First Charges, the integrity of take-home exams submitted virtually depends
+on students abiding by their promise to work without unauthorized
+assistance. Cheating on these exams can be easy to do and hard to detect.
+The Student’s dishonesty was only discovered because the “cram school”
+he paid for gave “non-standard” (and sometimes incorrect) solutions rather
+than the more orthodox solutions Professor Harrington was looking for.
+Similarly, the Second Charges involve a form of dishonesty that can slip
+
+past the authorities. It seems the Student was caught because the doctor’s
+name on the fake medical form he paid for had achieved a level of notoriety.
+Significant sanctions are essential to deter students from engaging in similar
+misconduct. The consequences of getting caught must be serious enough
+to dissuade students from temptation in their most stressful moments.
+29.
+
+The Tribunal also considered sanctions imposed in other recent decisions. No two
+
+cases are identical, and the decisions submitted by the University reveal a range of
+sanctions for cases involving three charges of dishonesty with one prior offence. A period
+of suspension lasting three years and four months places this joint submission towards
+the lower end of that range.
+30.
+
+Assistant Discipline Counsel urged the Tribunal to abide by the Discipline Appeals
+
+Board decision in University of Toronto v. M.A. (Case No. 837, December 22, 2016)
+(“M.A.”), in which a panel of the Discipline Appeals Board allowed an appeal from a
+Tribunal-level decision that failed to adhere to all aspects of a joint submission on penalty.
+M.A. emphasizes the high test that must be met before the Tribunal can depart from a
+joint submission, writing that the Tribunal: “can refuse to implement the joint submission
+only if it concludes that the parties' own agreement is unreasonable or unconscionable,
+or as the Supreme Court of Canada said in CM, "so unhinged from the circumstances of
+the offence" that its acceptance would lead a reasonable observer “to believe that the
+proper functioning of the justice system had broken down.”1
+
+1
+
+University of Toronto v. M.A.(Case 837, December 22, 2016), citing R. v. Anthony-Cook, 2016 SCC 43 at para. 34.
+
+31.
+
+With that test in mind, the Tribunal accepted the joint submission. The proposed
+
+sanction may not be what the Tribunal would have ordered otherwise, but it is within the
+range of acceptable outcomes.
+32. Accordingly, on August 14, 2023, the Tribunal made an order:
+1.
+
+THAT this hearing may proceed in the Student’s absence without the
+
+requirement to provide any further notice to them;
+2.
+
+THAT the Student is guilty of one count of knowingly representing as their
+
+own an idea or expression of an idea or work of another in any academic
+examination or term test or in connection with any other form of academic work,
+contrary to section B.I.1(d) of the Code;
+3.
+
+THAT the Student is guilty of two counts of knowingly forging or in any other
+
+way altering or falsifying a document or evidence required by the University of
+Toronto, or uttering, circulating or making use of such forged, altered or falsified
+document, contrary to section B.I.1(a) of the Code;
+4.
+
+THAT the following sanctions shall be imposed on the Student:
+(a)
+
+a final grade of zero in the course CSCA20H3 in Fall 2021;
+
+(b)
+
+a final grade of zero in the course LINB09H3 in Fall 2022;
+
+(c)
+
+a final grade of zero in the course LINB10H3 in Winter 2023;
+
+(d)
+
+a final grade of zero in the course LINBA02H3 in Winter 2023;
+
+(e)
+
+the Student will be suspended from the University of Toronto for a
+period of three years and four months, commencing on August 14,
+2023 and ending on December 14, 2026; and
+
+(f)
+
+this sanction will be recorded on the Student’s academic record and
+transcript from the date of the Tribunal’s order until graduation.
+
+5.
+
+THAT this case be reported to the Provost, with the Student’s name
+
+withheld, for publication of a notice of the decision of the Tribunal and the
+sanctions imposed.
+
+Dated at Toronto on this 8th day of April 2024
+
+Original signed by:
+Johanna Braden, Chair
+On behalf of the Panel
+
+

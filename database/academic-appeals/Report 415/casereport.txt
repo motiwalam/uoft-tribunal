@@ -1,0 +1,234 @@
+UNIVERSITY OF TORONTO
+GOVERNING COUNCIL
+Report # 415 of the Academic Appeals Committee
+July 20, 2021
+To the Academic Board
+University of Toronto
+Your Committee reports that it held an electronic hearing, conducted by Zoom on Thursday, June 17, 2021,
+at which the following members were present:
+Academic Appeals Committee Members:
+Professor Hamish Stewart, Senior Chair
+Professor Ernest Lam, Faculty Governor
+Ms. Susan Froom, Student Governor
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty Grievances
+For the Student Appellant:
+Ms. E.L. (the “Student”)
+For the Faculty of School of Graduate Studies:
+Ms. Denise Cooney, Paliare Roland Rosenberg Rothstein LLP
+Professor Martin Pickavé, School of Graduate Studies
+The Student appeals from a decision of the Graduate Academic Appeal Board (GAAB), dismissing her
+appeal from a decision of Professor Martin Pickavé, Chair of the Department of Philosophy, declining to
+direct a reassessment of the Student’s major research paper in PHL2117 (Formal Epistemology). The appeal
+is dismissed.
+
+Proceedings in the Department and the GAAB
+In the Fall 2019 term, the Student was enrolled in PHL2117 (Formal Epistemology), a graduate course. The
+course instructor was Professor Jonathan Weisberg. The Student received a mark of B+ for the course,
+having received a B for her major research paper and an A for class participation. In January 2020, the
+Student asked Professor Weisberg to explain the mark of B. Professor Weisberg initially advised her as
+follows:
+There’s a lot of interesting material here, but it’s not always presented as clearly or accurately as one might
+hope.
+Just at a superficial level, there are frequent non sequiturs, personal remarks and asides, ungrammatical
+sentences. Notation and terminology are also often introduced without explanation. These features make the
+flow of ideas hard to follow.
+More substantially, a lot of material goes by very quickly, without being explained in enough detail or depth
+for the reader to evaluate it. For example, the exchange between Temkin and Binmore & Voorhoeve would
+
+2
+need to be explained much more carefully and thoroughly for a reader to assess, or even understand, your
+take on it. The frequent switching between various subtopics and ideas causes similar problems.
+
+Professor Weisberg also provided the Student with a marked-up copy of her paper, explaining his
+assessment in more detail.
+The Student appealed her mark in PHL2117 to the Philosophy Department’s Graduate Department
+Academic Appeals Committee (GDAAC). Her grounds of appeal can be conveniently (though not
+exhaustively) grouped into three categories.
+First, the Student provided a point-by-point rebuttal of Professor Weisberg’s comments on the paper
+(Student’s Appeal Statement, pp. 97-103). The central theme of this rebuttal was that Professor Weisberg
+was unable to assess the paper properly because he lacked sufficient understanding of “standard economics”.
+Second, the Student alleged bias on Professor Weisberg’s part (Student’s Appeal Statement, pp. 89-92).
+She provided two pieces of evidence in support of this allegation. (i) The Student referred to a class
+discussion on September 18, 2019, which in her submission demonstrated his hostility towards her. The
+Student described this meeting as follows. She said that Professor Weisberg asked for an example to
+illustrate a concept in modal logic; she said “anti-immigration; Professor Weisberg described her example
+as “very political”; another student provided a different example, which Professor Weisberg also described
+as “very political”; finally, yet another student, whom your Committee will refer to as YZ, provided a
+further example, which (the Student said) Professor Weisberg “happily went with, as if a get out of jail free
+card.” (ii) On the basis of certain tweets, she alleged that Professor Weisberg was “a Sinophobic bigot”
+(Student’s Appeal Statement, p. 89; the Student is of Chinese ancestry; the tweets are reproduced at pp.
+114-116).
+Third, she submitted that her work was not assessed consistently with the work of YZ, whom (she asserted)
+received a grade of A for the course.
+The Student asked for her mark to be raised to A, or in the alternative, for her paper to be reassessed by two
+specific members of the Department.
+The five members of the GDAAC read the paper and in addition asked Professor Gurpreet Rattan, the
+Department’s Director of Graduate Studies, to read the paper. On April 8, 2020, the GDAAC reported to
+Professor Pickavé. Substantively, the GDAAC’s view was that mark Professor Weisberg assigned to the
+paper was not too low but, if anything, “rather generous [in that] others would have given the paper a failing
+grade.” The GDAAC reported that Professor Rattan had concluded that the paper was below the level that
+he had seen in papers submitted by students applying for admission to the Department’s graduate programs;
+accordingly, the GDAAC commented that “the paper would have resulted in the rejection of an application.”
+As to the Student’s submission that Professor Weisberg lacked sufficient understanding of economics, the
+GDAAC said:
+Prof. Weisberg often indicates that he does not understand what the paper is saying. [The Student] suggests
+that Prof. Weisberg is not sufficiently knowledgeable about the material, and she may have interpreted this
+type of comment from Prof. Weisberg in light of that perspective. But really the point of such comments is
+that the paper fails to accomplish what is incumbent upon its author: that is, the paper fails to explain its
+author’s views and argument with clarity and precision.
+
+3
+The GDAAC summarized its assessment of the paper as follows:
+
+… the paper … does not meet the basic standards for academic writing, … not just for philosophy but for
+other disciplines as well. The paper is very poorly written and organized. In its introduction the paper fails to
+offer a clear thesis and outline of its content and throughout the structure of the paper is very unclear. The
+paper contains many abrupt transitions, and it systematically fails to indicate why it turns to a particular view
+or issue. As a result, the connections between the parts of the paper are very unclear and the paper is very
+hard to follow. The overall argument of the paper never becomes clear.
+
+Procedurally, the GDAAC commended Professor Weisberg for his “very detailed feedback” on the paper.
+Thus, the GDAAC found no basis for raising the Student’s mark. Nevertheless, the GDAAC recommended
+that Professor Pickavé consider ordering the reassessment that the Student had requested in the alternative.
+On April 16, 2020, Professor Pickavé wrote to the Student, stating that he had decided not to order a
+reassessment. He explained:
+
+… your paper has already been read carefully by a total of eight faculty members of the Graduate Department
+of Philosophy (Professors Weisberg and Rattan, the five members of the [GDAAC], and me, all of which
+agree on the appropriateness of the mark it received. The problems of the major research paper are fairly
+basic and have nothing to do with differences in interpretation or methodology.
+
+(Your Committee notes that Professor Pickavé’s explanation of his decision was generous, in that some
+members of the GDAAC would have been inclined to fail the paper and therefore did not necessarily think
+the mark of B was appropriate.)
+The Student appealed to the GAAB, where she again asked for her mark to be raised to A, or in the
+alternative, for her paper to be reassessed by two specific members of the Department. Her grounds of
+appeal were generally similar to those relied on at the GDAAC, with the following additions. She sought
+to reinforce her allegation of bias by asserting that “It is extremely strange that in a department with 50-60
+tenure track faculty members, zero being Chinese descent” (Student’s Appeal Statement, p. 144). She
+alleged a number of problems with the GDAAC process: she submitted that “It was never clear how many
+rounds of voting it took to reach … consensus” on the quality of her paper, that someone might have put
+pressure on the members of the GDAAC, and that “Faculty members are very reluctant, or simply refuse
+to step on the toes of their academic colleagues in the same department.” (Student’s Appeal Statement, pp.
+144 and 146). And she argued that the criteria for good writing had been deployed “wildly out of proportion”
+(Student’s Appeal Statement, p. 145 and see also p. 143).
+In a report dated July 27, 2020, the GAAB dismissed the Student’s appeal. The GAAB noted that it was
+“extremely reluctant to second guess the academic judgment of specialists in the field” and therefore would
+not make its own assessment of the merits of the paper. The GAAB did, however, note that it “could not
+help but conclude that it was poorly written” and commented that “We do not see how the award of a grade
+of B in a graduate level course for a paper with these shortcomings could be seen as ‘wildly out of
+proportion.’” As to the Student’s “allegations that her Chinese heritage affected her grade”, the GAAB
+found that there was no evidence in support of an allegation of individual bias, and that if there was an
+alleged systemic bias, the GAAB was not the appropriate body to investigate it.
+
+4
+
+Decision
+Grounds of appeal and remedies sought
+Before your Committee, the Student’s grounds of appeal were basically similar to those that she relied on
+before the GAAB. The principal remedy sought was, again, an order that her paper be reassessed by two
+specific members of the Department (she abandoned her request for an increase in her mark). The Student
+also asked your Committee for the following additional remedies (Student’s Appeal Statement, pp. 8-10,
+renumbered for ease of reference):
+a. GDAAC is to disclose the number of rounds of voting that had occurred in order to have reached a
+unanimous decision in my Appeal.
+b. Chair Pickave is to name or identify tenure track member(s) in the Department of Philosophy that
+are of Chinese ancestry during or after 2019, if any.
+c. Under rigorous and formal rules, having [YZ] to disclose relevant documents for arriving at a fair
+outcome in this proceeding …
+i.
+
+ii.
+
+The relevant document is the version of the major project [YZ] completed and received
+credit in PHL2117 during Fall 2019 that would contain the grade and assessment done by
+[Professor] Weisberg.
+This disclosure would allow for comparison in the quality of work between [YZ], I; and
+whether discrepancy exists in the grade received.
+
+d. … summon of a witness …
+e. My understanding is that the GAAB finds the systemic bias against those of Chinese ancestry in
+the Department … to be irrelevant in the sense of outside of GAAB jurisdiction. I object
+vehemently against the assertion that [Ontario Human Rights Code] compliance at the systemic
+level is outside of university academic appeal bodies’ jurisdiction.
+
+The additional remedies
+To the extent that the GAAB dealt with the additional remedies, your Chair agrees with the GAAB that
+academic appeal bodies within the University probably lack jurisdiction to grant these remedies and that,
+even if there were jurisdiction, it would not be appropriate to grant them here.
+a. Your Chair agrees entirely with the GAAB’s conclusion that there is no evidence of any “rounds
+of voting and that in any event “the ‘rounds of voting’ question is irrelevant”.
+b. Your Chair agrees with the GAAB’s conclusion that it lacked jurisdiction to make this order and
+that, in any event, the information sought is irrelevant to the Student’s appeal.
+c. Your Chair agrees with the GAAB that it lacked jurisdiction to order another student to produce
+documents. Your Committee also lacks this jurisdiction. Even if there was such jurisdiction, the
+
+5
+Student has provided no reasonable grounds to believe that reading YZ’s paper would have assisted
+the GAAB or your Committee in deciding this appeal. Neither the GAAB nor your Committee is
+in a position to make a “comparison in the quality of work between [YZ] and [the Student].”
+d. The Student asked the GAAB and your Committee to summon a witness to testify about the class
+discussion on September 18, 2019, which she submitted demonstrated Professor Weisberg’s
+hostility towards her. This is not an appropriate occasion to discuss the appropriateness of hearing
+witnesses in the GAAB or in your Committee, the procedures that might be suitable for examining
+them, or the question whether the GAAB or your Committee has the power to require witnesses to
+appear. For the purposes of this appeal, your Committee accepts the Student’s description of the
+class discussion on September 18, 2019.
+e. The Student did not specifically request that your Committee conduct an investigation into systemic
+racism in the Department, but she submitted that the GAAB should have. Your Chair agrees entirely
+with the GAAB’s remarks on this issue: “If there is an alleged systemic bias in any department of
+the University that is a matter for investigation, either by the University office responsible or by
+the Ontario Human Rights Commission. The GAAB does not, and can not, carry out investigations.”
+Neither does your Committee.
+
+The principal remedy
+As noted above, the Student’s request for a reassessment of her paper rests on three principal submissions:
+(i) Professor Weisberg did not properly assess the paper, because of factors including his lack of expertise
+in economics and his disproportionate emphasis on the quality of the Student’s writing; (ii) Professor
+Weisberg was biased against her because of her Chinese ancestry; and (iii) YZ received an A.
+(i) Your Committee, like the GAAB, does not reassess academic work on its merits. Your Committee, like
+the GAAB, sees no reason to doubt the judgment of the eight members of the Department of Philosophy
+who read the paper and were all of the view that it deserved a mark of B at the most. Your Committee has
+no evidence about Professor Weisberg’s knowledge of economics (more specifically, rational choice theory)
+relative to the Student’s, but notes that whether or not her knowledge of rational choice theory was superior
+to his, her task in the paper would have been to provide clear explanations of the relevant concepts and
+relate them to the subject-matter of the course. It is apparent that the Student did not do that. Your
+Committee agrees with the GAAB that to award a B to a paper with the deficiencies identified by Professor
+Weisberg and by other members of the Department could not be described as “wildly out of proportion.”
+(ii) As noted, the Student’s evidence of bias consists of (A) her description of the class meeting on
+September 18, 2019 and (B) the content of tweets variously dated January 10, March 27, and April 8, 2019,
+and attributed to Professor Weisberg.
+(A) Your Committee does not draw any inference of bias of any kind from the Student’s description of the
+class meeting. As indicated, for the purposes of this appeal, your Committee is prepared to accept this
+description at face value. Your Committee finds that it shows at most an awkward moment in class. It does
+not show any personal bias or any bias on the basis of the Student’s Chinese ancestry. Your Committee
+notes that YZ, whom the Student credits with providing Professor Weisberg with a “get out of jail free”
+card and whom the Student says received a mark of A for the course, appears also to be of Chinese ancestry.
+
+6
+(B) The tweets that the Student attributed to Professor Weisberg were not authenticated; however, neither
+the Department nor SGS has at any stage raised any issue as to their authenticity. Your Committee therefore
+proceeds on the basis that Professor Weisberg wrote them. In these tweets, Professor Weisberg complains
+of having to teach a class of “80 bored undergraduates and 5 keen ones while the other 125 students enrolled
+in my course learn the same material from an illegal off-campus shadow course because my employer lacks
+integrity”. He also complains that international students, “many … from China”, are enrolled in “shadow
+courses taught in the student’s home language”. Your Committee has no evidence or information as to
+whether this complaint about shadow courses is justified, either factually or in terms of the University’s
+academic rules. It does not, however, indicate any bias towards the Student. The Student submits that the
+tweets indicate that Professor Weisberg is “a Sinophobic bigot”. Your Committee rejects this submission.
+Professor Weisberg’s concerns are about international undergraduate students of all nationalities (not just
+those from China). The Student was a graduate student and appears from the materials filed to be a domestic
+student. Moreover, your Committee cannot see how Professor Weisberg’s concerns about a “shadow course”
+for a high-enrollment undergraduate course, even if justified, could possibly influence his assessment of a
+student in a small, research-oriented graduate seminar like PHL2117.
+(iii) Your Committee has no evidentiary basis for comparing the Student’s work with YZ’s.
+
+Conclusion
+Eight members of the Philosophy Department concluded that the Student had submitted a poorly written
+paper in PHL2117. There is no merit in the Student’s submissions concerning the merits of Professor
+Pickavé’s decision not to order a reassessment or in her submissions concerning bias. The procedures
+followed by Professor Weisberg, Professor Pickavé, the GDAAC, and the GAAB were entirely appropriate.
+The appeal is dismissed.
+
+

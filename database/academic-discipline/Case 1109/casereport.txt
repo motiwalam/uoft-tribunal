@@ -1,0 +1,239 @@
+Case No.: 1109
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic misconduct filed on April 27, 2020
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- and J
+
+A
+
+(The “Student”)
+
+REASONS FOR DECISION
+Hearing Date: November 26, 2020, via Zoom
+Panel Members:
+Ms. Erin Dann, Chair
+Professor Lynne Howarth, Faculty Panel Member
+Ms. Emily Hawes, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Mr. Christopher Lang, Hearings Secretary, Office of the Appeals, Discipline and Faculty
+Grievances, University of Toronto
+Not in Attendance:
+The Student
+1
+
+1. A Hearing of the Trial Division of the University Tribunal convened on November 26,
+2020, by Zoom, to consider charges of academic dishonesty brought by the University
+against the Student, under the Code of Behaviour on Academic Matters, 1995 (the “Code”).
+The Student was informed of the charges by letter dated April 27, 2020, from Professor
+Heather Boon, Vice-Provost, Faculty & Academic Life.
+PRELIMINARY ISSUE: PROCEEDING IN THE ABSENCE OF THE STUDENT
+2. The hearing was scheduled to commence at 9:45 a.m. The Tribunal waited until 10:00 a.m.
+before commencing the hearing. The Student did not appear at the hearing.
+3. Pursuant to Sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”), and Rule
+17 of the University Tribunal Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act
+and the party does not attend at the hearing, the Tribunal may proceed in the absence of the
+party, and the party is not entitled to any further notice of the proceeding. In this case, the
+University requested that the Tribunal proceed with the hearing in the absence of the
+Student.
+4. Pursuant to Rule 9, a Notice of Hearing may be served on a student by various means,
+including by: sending a copy of the document by courier to the Student’s mailing address
+contained in the Repository of Student Information (“ROSI”); or emailing a copy of the
+document to the Student’s email address contained in ROSI.
+5. The University’s Policy on Official Correspondence with Students expressly states that
+students are responsible for maintaining on ROSI a current and valid University-issued
+email account. The Policy also makes it clear that students are expected to monitor and
+retrieve their mail, including electronic messaging account(s) issued to them by the
+University, on a frequent and consistent basis.
+6. Counsel for the Provost filed various affidavits setting out the measures taken regarding
+service on the Student. The University filed evidence that the Student was served with the
+charges by email on April 27, 2020, at the email address provided by the Student to the
+University of Toronto in ROSI. The evidence filed by the University further confirmed that
+the Student was served by email with a Notice of Electronic Hearing on November 11,
+2020.
+7. It should be noted that both the scheduling of this hearing and the hearing itself took place
+during the COVID-19 pandemic. On October 19, 2020, due to the physical restrictions
+necessitated by that pandemic, Assistant Discipline Counsel requested that the hearing
+proceed electronically on November 26, 2020. The Student was advised of this request by
+email and was given a deadline of October 27, 2020, to provide submissions in relation to
+2
+
+this request. No reply from the Student was ever received and the hearing was ordered and
+scheduled to proceed electronically.
+8. In addition to the above, the University filed evidence demonstrating the efforts made to
+ensure the Student was aware of the allegations, the scheduling of the hearing and that she
+was able to attend. In addition to the service of the documents outlined above,
+correspondence via email was sent to the Student which included invitations for discussion,
+efforts to arrange scheduling, disclosure of material and reminders of the hearing. All went
+unanswered.
+9. Having reviewed the evidence and heard the submissions of counsel for the Provost, the
+Tribunal concluded that the Student was given reasonable notice of the hearing in
+accordance with the notice requirements set out in the Act and the Rules. Accordingly, the
+Tribunal proceeded to hear the case on its merits in the absence of the Student.
+THE CHARGES
+10. At all material times, the Student was a registered student at the University in the Faculty
+of Arts & Science.
+11. The University alleged that the Student, on or about April 15, 2019, knowingly represented
+as her own an idea or expression of an idea or work of another in a report submitted in
+FOR201H – Conservation and Management of Tropical and Subtropical Forests (the
+“Course”), contrary to section B.I.1(d) of the Code.
+12. The University alleged, in the alternative, that the Student knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation in order to obtain
+academic credit or other academic advantage of any kind, which violated section B.I.3(b)
+of the Code.
+13. The particulars of the charges were as follows:
+a. In Winter 2019 the Student enrolled in the Course, taught by Professor Sean
+Thomas.
+b. Students in the Course were required to submit a Forest Conservation Consultant
+Report (“Report”). The Student submitted her Report to fulfill this requirement.
+c. The Student submitted her Report knowing that it contained ideas, the expression
+of ideas, and verbatim or nearly verbatim text from the work of other people in
+published works (the “Sources”) which were not the Student’s ideas or original
+work.
+
+3
+
+d. The Student knowingly represented the work of another person or persons who
+wrote the Sources as her own. The Student knowingly included in her Report ideas
+and expressions that were not her own, but were the ideas and expressions of
+another person, or persons, who wrote the Sources, which the Student did not
+acknowledge appropriately in her Report.
+e. The Student knowingly submitted her Report with the intention that the University
+of Toronto rely on it as containing her own ideas, expressions of ideas or work in
+considering the appropriate academic credit to be assigned to the Student’s work.
+f. For the purposes of obtaining academic credit and/or other academic advantage, the
+Student knowingly committed plagiarism in herReport.
+THE EVIDENCE
+14. The Tribunal received affidavit evidence from Professor Sean Thomas, who taught the
+Course in the winter of 2019. Professor Thomas attended the hearing by Zoom and
+answered questions from the panel members.
+15. At the beginning of the Course, Professor Thomas emphasized to students the importance
+of academic integrity. The Course syllabus included the following passage on the front
+page:
+PLAGIARISM: There is a lot of good on-line information available on tropical
+forests. Don’t even think about copying from a website or other source for any
+written assignment! We will be using Turnitin as a means of deterring plagiarism
+of the longer written assignments in the course.
+16. Students in the Course were required to submit a Forest Conservation Consultant Report
+worth 25% of their final grade by April 11, 2019. Students were required to work in groups
+of five students, with each student responsible for one section of the Report and all students
+contributing to a final chapter.
+17. The instructions for the Report reminded students of the importance of proper referencing,
+including the following:
+Remember to use proper referencing in all cases using the APA or similar format.
+Web sites will be valuable resources but make sure they are reputable and be sure
+to reference them properly. Click here for tips on citing electronic references. DO
+NOT use Wikipedia as a reference! Pictures may be helpful BUT REMEMBER,
+these must be referenced too!
+
+4
+
+18. On April 15, 2019, the Student’s group submitted their Report entitled “Forest
+Conservation Action Plan: West-Cambodia.” The Student was responsible for writing Part
+2 of the Report, titled “Forest Ownership and Formal Conservation Status.”
+19. As indicated in the course syllabus, Professor Thomas used the “Turnitin” software. The
+report generated by Turninit revealed that a significant portion of the Report authored by
+the Student was copied verbatim from several online sources.
+20. Professor Thomas visited each of the online sources himself and compared the content of
+the Report to those sources. He determined that at least 80% of the Report purportedly
+authored by the Student was, in fact, copied from the online sources, including entire
+paragraphs of text. The Student did not cite all of the sources in the Report and did not use
+any quotation marks in the Report.
+21. A copy of the Student’s Report and the online sources were both attached as exhibits to
+Professor Thomas’ affidavit.
+22. Following his review of the Report, Professor Thomas contacted the Student on April 17,
+2019, by email to set up a meeting to discuss the Report. She did not respond to Professor
+Thomas’ message. Further attempts to set up a meeting to discuss the issue also went
+unanswered.
+23. As noted above, the Student did not attend the hearing.
+DECISION OF THE TRIBUNAL ON CHARGES
+24. Having considered all the evidence heard during the hearing and the affidavit evidence, the
+Tribunal found that the Student knowingly represented the work of another person or
+persons who wrote the online sources as her own. Having reviewed the Report of the
+Student and compared it to the content of the online sources, the Panel agrees that
+approximately 80% (and certainly more than half) of the Student’s portion of the Report
+was copied verbatim from various online sources. Those online sources were not properly
+referenced in the Report, and, in some cases, not cited at all.
+25. Consequently, the Tribunal finds that Charge #1 (as outlined in paragraph 11) above had
+been proven with clear and convincing evidence on a balance of probabilities.
+Accordingly, the Tribunal entered a finding of guilt with respect to the Charge.
+26. The Panel was advised that if the Tribunal convicted the Student on Charge #1, the
+University would withdraw Charge #2 (the alternative charge) and that charge was so
+withdrawn.
+
+5
+
+PENALTY
+27. The University sought the following penalties:
+a. a final grade of zero in the course FOR201H1S;
+b. a suspension from the University of Toronto from the date of this order for a period
+of two years;
+c. a notation of the sanction on the Student’s academic record and transcript from the
+date of this order for a period of three years; and
+d. that this case be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the Student’s name withheld.
+28. The Provost called no further evidence.
+DECISION OF THE TRIBUNAL ON PENALTY
+29. The Panel heard submissions regarding the appropriateness of the penalty, reviewed
+relevant past decisions of the Tribunal submitted by the University, and considered the
+factors set out in University of Toronto and C. (File No. 1976/77-3; dated November 5,
+1976).
+a. The character of the Student. As the Student did not participate in the proceeding,
+there was no evidence before the Tribunal regarding the Student’s character other
+than the facts relating to this offence.
+b. The likelihood of a repetition of the offence. The Student did not have a prior
+record of academic offences and the offence here appears to be an isolated incident.
+Given the Student did not attend the hearing, the Panel was unable to make any
+further findings regarding the likelihood of a repetition of this offence.
+c. The nature of the offence committed. The Panel took into consideration the
+serious and deliberate nature of the offence and the detriment to the University.
+Plagiarism strikes at the very heart of academic integrity.
+d. Any extenuating circumstances surrounding the commission of the offence.
+The Student did not participate in this hearing. Accordingly, there is little evidence
+before the Tribunal of mitigating or extenuating circumstances.
+e. The detriment to the University occasioned by the offence. The Panel accepts
+the University’s concerns that plagiarism diminishes the relationship of trust
+6
+
+between the University and its students, and it undermines the evaluative process
+fundamental to the academic setting.
+f. The need to deter others from committing a similar offence. General deterrence
+is an important factor in these cases. The Panel accepts that the University and the
+Tribunal must send a strong message to other students that such misconduct is
+considered a serious offence.
+30. The determination of an appropriate penalty in every case by the Tribunal will depend on
+an assessment of these principles and factors in the individual circumstances of the case.
+However, the Discipline Appeals Board has stressed the importance of a general
+consistency in the approach of Tribunals to sanction, so that the students are treated fairly
+and equitably.
+31. Having regard to the cases presented by the University, the submissions of the University,
+and the relevant factors outlined above, the Panel agrees that the recommended sanctions
+are appropriate.
+32. Accordingly, at the conclusion of the hearing, the Panel made the following Order:
+a. The hearing proceed in the absence of the Student.
+b. The Student is guilty of one count of plagiarism, contrary to section B.I.1(d) of the
+Code of Behaviour on Academic Matters;
+c. The following sanctions shall be imposed on the Student:
+i) a final grade of zero in the course FOR201H1S;
+ii) a suspension from the University of Toronto from the date of this order for a
+period of two years; and
+iii) a notation of the sanction on the Student’s academic record and transcript from
+the date of this order for a period of three years; and
+d. This case be reported to the Provost for publication of a notice of the decision of
+the Tribunal and the sanction imposed, with the Student’s name withheld.
+DATED at Toronto, January 22, 2021.
+
+_______________________________________
+Erin Dann, Chair
+7
+
+

@@ -1,0 +1,704 @@
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+TRIAL DIVISION
+IN THE MATTER OF charges of academic dishonesty filed on April 23, 2015,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+– AND –
+
+Y (H
+
+)C
+
+■--
+
+REASONS FOR DECISION
+Hearing Date: Monday, June 22, 2015
+Members of the Panel:
+Ms. Sarah Kraicer, Barrister and Solicitor, Chair
+Professor Bruno Magliocchetti, Faculty of Italian Studies, Faculty Panel Member
+Ms. Alberta Tam, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Barristers
+Ms. Tegan O’Brian, Law Student, Downtown Legal Services
+Ms. Nicole Wilkinson, Law Student, Downtown Legal Services
+Professor John Carter, Deans’ Designate, Faculty of Applied Science and Engineering
+Professor Manfreddi Maggiore, Instructor ECE311H1: Dynamic Systems and Control
+Professor Luca Scardovi, Instructor ECE311H1: Dynamic Systems and Control
+In Attendance:
+Y (H
+)C
+, Student
+Ms.
+Ramtahal,
+Coordinator, Appeals, Discipline and Faculty Grievances
+I Natalie
+Ms. Johanna Braden, Incoming Tribunal Co-Chair, Observer
+
+2
+
+REASONS FOR DECISION
+
+1.
+
+The Trial Division of the University Tribunal was convened on June 22, 2015 to
+
+consider charges brought by the University of Toronto (the "University") against Mr.
+
+(~) ca
+
+'<I
+
+(the "Student") under the University of Toronto Code of Behaviour on
+
+Academic Matters, 1995 (the "Code").
+
+The Charges
+
+2.
+
+The Charges against the Student are as follows:
+1. On or about December 10, 2014, you knowingly used or possessed an
+unauthorized aid or aids or obtained unauthorized assistance in connection with the
+final examination in ECE311 H1 - Dynamic Systems and Control, contrary to section
+B.l.1(b) of the Code.
+2. In the alternative, on or about December 10, 2014, you knowingly engaged in a
+form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+and otherwise described in the Code to obtain academic credit or other academic
+advantage of any kind, contrary B.1.3(b) of the Code.
+Particulars
+
+The particulars of the offences charged are as follows:
+(a)
+
+At all material times you were a student registered at the University of
+Toronto in the Faculty of Applied Science and Engineering.
+
+(b)
+
+In Fall 2014 you enrolled in ECE311 H1, which was taught by
+Professor. Manfredi Maggiore and Professor Luca Scardovi.
+
+3
+
+(c)
+
+You wrote the final examination in ECE311 H1 on December 10, 2014,
+which was worth 50% of the course mark ("Exam").
+
+No aids were
+
+allowed in the Exam.
+(d)
+
+During the Exam you were found in possession of three unauthorized
+aids in the final exam, being lecture notes, the prior year's final exam,
+and solutions to a homework assignment.
+
+(e)
+
+At that time you signed an Acknowledgement of Possession of
+Unauthorized Exam Aid(s) During a Faculty Examination form in which
+you confirmed that you had been found in possession of the three
+documents during the exam, and that in doing so you had committed
+an academic offence under the Code.
+
+Plea to the Charges
+
+3.
+
+The Student entered a plea of not guilty to the charges. He also stated that
+
+particular (c) was factually incorrect, in that prescribed authorized aids were allowed in
+the Exam. The University agreed with this correction.
+
+The Evidence
+
+4.
+
+The Tribunal heard evidence from the two professors who invigilated the final
+
+examination on December 10, 2014 in ECE 311, Professor Manfredi Maggiore and
+Professor Luca Scardovi, from the Student, and from the Dean's Designate Professor
+John Carter.
+
+5.
+
+Much of the evidence is not in dispute. The Student does not deny that he
+
+brought a previous year's examination (questions only), a marked homework
+.,
+
+assignment, and lecture notes - all unauthorized aids - into the final examination and
+had them on his desk when the examination commenced. He does not dispute that he
+was aware of the rules of this examination, and knew that these documents were not
+
+4
+
+authorized aids. What is in dispute is whether effects of illness or medication prevented
+the Student from knowing that the unauthorized aids were present on his desk.
+
+6.
+
+The Student was enrolled in the Fall 2014 section of ECE 311- Dynamic Systems
+
+and Control, a course open to 3rd and 4th year students in the Faculty of Applied
+Science and Engineering, taught by Professors Maggiore and Scardovi. The final
+examination in ECE 311 H1 was worth 50% of the course grade.
+
+7.
+
+The rules for what was allowed to be brought into the examination were set out
+
+on the first page of the examination booklet, and were also written by Professor
+Maggiore on the blackboard of the examination room and announced again by him
+verbally as the students entered the examination room. Students were permitted a nonprogrammable calculator, and a one-page handwritten aide sheet. The aide sheet is
+one sheet of paper on which the student can handwrite his or her own notes of anything
+the student thinks could be useful during the examination - e.g. formulae, drawings,
+examples.
+
+8.
+
+The students wrote the examination in two adjacent rooms, each of which were
+
+invigilated by a professor and by tutorial assistants. The Student was seated in the
+room in which Professor Maggiore was invigilating.
+
+9.
+
+A few minutes after the examination commenced, a teaching assistant in the
+
+room approached Professor Maggiore and advised that one of the students had an
+unusually high pile of papers on his desk. Professor Maggiore went to the Student's
+desk and observed that there was a neat pile of papers approximately .7 cm thick
+stacked underneath the Student's examination booklet. Professor Maggiore lifted up
+the examination booklet and saw 3 stapled documents underneath. He described these
+documents as being "concealed" under the examination booklet.
+
+10.
+
+Professor Maggiore took away the three documents and permitted the Student to
+
+continue to write the examination. The documents were 1) solutions to homework
+
+5
+
+assignment# 3 in the course 2) a final examination from 2013 with no solutions and 3) a
+photocopy of Professor Maggiore's personal lecture notes for the course (approximately
+100 pages). All of these documents were unauthorized aids in the examination.
+
+11.
+
+These lecture notes were not meant for distribution for students, and Professor
+
+Maggiore could not say how they had ended up in the Student's hands. He found it "a
+little upsetting" that his personal lecture notes were in the Student's possession. The
+Student was not asked about this and provided no evidence about how he had obtained
+these lecture notes.
+
+12.
+
+At the conclusion of the examination, the Student spoke to both Professor
+
+Maggiore and Professor Scardovi. The Professors stated that the Student was very
+apologetic, saying he was very sorry, that he realized he had made a mistake, and that
+he "was not thinking straight". The Student did not mention being on any medication or
+having an illness. The Student appeared shaken and asked that the Professors not
+report the incident further. The Student's evidence was consistent with this, saying he
+apologized for disrespecting the professors and for having "stuff on my desk that I was
+not supposed to have".
+
+13.
+
+The Student testified that he had been ill with food poisoning on the previous
+
+day, December 9, 2014. He saw a doctor, who recommended he take over-the- counter
+medications lmodium and Gravol for his symptoms. The Student had an examination in
+ECE 314 on December 9 and submitted a petition to the Registrar with a Doctor's note
+in relation to that examination.
+
+14.
+
+On the morning of December 10, 2014, the Student was feeling tired and dizzy,
+
+after studying late into the night, and took lmodium and Gravol. He stated that he put
+"stuff'' relating to his course review into his backpack, thinking he might look at it before
+the examination.
+
+6
+
+15.
+
+The Student did not prepare a handwritten "aide sheet", although he knew that
+
+he was permitted to bring such an aide sheet into the examination.
+
+16.
+
+Before the examination began, the Student emptied the contents of the backpack
+
+onto his desk including the three unauthorized documents. When asked why he did
+that, he said "I didn't think too much about it". When asked whether he knew the
+documents were on his desk when the examination began, he stated "I'm not too sure"
+and "not exactly, I wasn't focusing on it". He also stated at a different point in his
+testimony that he only realized the documents were there when Professor Maggiore
+came over and took them away.
+
+17.
+
+The Student acknowledged on cross-examination that he knew the rules about
+
+what aids were permitted in this particular examination. He agreed that he knew he was
+not permitted to bring into the examination any lecture notes, previous homework
+assignment, or prior examination questions. He admitted that he should have known
+that these documents were not allowed at the examination.
+
+Evidence re Acknowledgement Form and Discussions with Dean's Designate
+
+18.
+
+Immediately after the examination was concluded, the Student spoke with
+
+Professors Maggiore and Scardovi. Professor Maggiore advised the Student that he
+was required to report the incident to the undergraduate office, and presented him with
+a form entitled "Acknowledgement of Possession of Unauthorized Exam Aid(s) During a
+Faculty Final Examination" , that the professor had partially filled out to describe the
+three documents he had confiscated from the Student's desk.
+
+19.
+
+There is no dispute that the Professors advised the student to read the form
+
+carefully, that the Student was clearly distressed and upset at the time, and that he
+hesitated before signing it. The Professors testified that they told the Student that he
+was not required to sign the form. They advised him that they were required to submit
+the form to the undergraduate office, and that it was not them but that office that would
+
+7
+
+make a decision about the consequences. The Student testified that he didn't actually
+read the form, although he was advised to do so and was given an opportunity to do so.
+He testified that he was told by the professors "you don't have to sign it, but you
+should".
+
+20.
+
+The Student signed the "Student Acknowledgement" on the form. His evidence
+
+was that Professor Maggiore said sign it, "so I did". The form states "I agree that the
+above statements are correct and true and that, by bringing an unauthorized aid into a
+Faculty final examination, I have committed an academic offence under the University's
+Code of Behaviour on Academic Matters. If this is my first offence, I understand that I
+will receive a formal written reprimand for this offence for the Vice Dean of the Faculty.
+I acknowledge that the unauthorized aid was returned to me at the end of the
+examination".
+
+21.
+
+This was the first time that these Professors had had to report an unauthorized
+
+examination aid, and both they and the Student were unfamiliar with the form and with
+the precise procedure to be followed. While the Tribunal finds that the Professors did
+not tell the student that he had to sign the form, given the Student's distress, and the
+general lack of familiarity of the parties with the process and the form, it is plausible that
+at the time he signed the Acknowledgment the Student did not understand he was
+admitting having committed an offence under the Code of Behaviour. The Tribunal
+therefore does not rely on this form as evidence of an admission by the Student that he
+committed the offence.
+
+22.
+
+The Student subsequently met with Professor John Carter, Deans' Designate-
+
+Academic Affairs in mid-December 2014 to discuss the incident. Professor Carter stated
+that the Student advised him at that meeting that he was admitting to the academic
+offence. The Student offered the explanation that he was ill with food poisoning, had
+· been to see a Doctor the previous day, was taking over-the-counter medications which
+affected his judgment about the aids he had brought into the area.
+
+8
+
+23.
+
+Professor Carter then wrote to the Student to advise that he was imposing a
+
+penalty of a mark of zero in the course. Because of his cumulative low academic
+standing, this mark in this course meant that the Student's grades were too low to
+permit him to continue his studies with the Department of Applied Science and
+Engineering.
+
+24.
+
+The Student subsequently revoked the admission of guilt he made with the
+
+Dean's Designate.
+
+· 25.
+
+The fact that the Student admitted and later revoked the admission of guilt made
+
+at the meeting of the Dean's Designate was not relied on by the University in argument.
+The Tribunal has not relied on the Student's interactions with the Dean's Designate in
+making its decision regarding the Charges.
+
+Decision of the Tribunal on the Charges
+26.
+
+The onus is on the University to establish on clear and convincing evidence on a
+
+standard of probabilities that the academic offence charged has been committed.
+
+27.
+
+The Student is charged under Charge 1 with knowingly using or possessing an
+
+unauthorized aid or aids in connection with the final examination in EGE 311. Under the
+Code, the offence of "knowingly possessing" an unauthorized aid is deemed to have
+been committed if the person knew or reasonably ought to have known that he or she
+possessed the unauthorized aid.
+
+28.
+
+In the view of the Tribunal, the following undisputed facts around the
+
+circumstances of the examination support the inference that the Student knowingly
+possessed unauthorized aids during the examination. (There is no evidence and it is
+not suggested by the University that the Student actually used those aids during the
+examination):
+
+9
+
+29.
+
+(a)
+
+The Student acknowledged that he knew the applicable rules for
+permissible aids in the final examination for ECE 311.
+
+(b)
+
+The Student admitted that he knew that he was not permitted to have the
+professor's lecture notes, a previous homework assignment, or a prior
+examination question paper on his desk.
+
+(c)
+
+He also admitted to bringing those documents into the examination and
+placing those documents on his desk at the outset of the examination.
+
+(d)
+
+In addition, the Student must have handled the documents after he
+removed them from his knapsack, as they were observed in a neat pile
+under his examination paper.
+
+(e)
+
+Since the Student did not prepare a study aid, he could not have
+mistaken the unauthorized documents on his desk for a permissible study
+aid.
+
+In addition, the Student gave vague and somewhat contradictory answers when
+
+asked whether he knew the documents were on his desk at the outset of the
+examination. He said he dumped the contents of his knapsack onto his desk. He said
+he was "unsure" and "didn't focus" on whether the documents were there or not, but
+also said that he only became aware of the documents when they were taken away by
+Professor Maggiore.
+
+30.
+
+The explanation the Student gave for having the unauthorized aids on his desk
+
+was that he was feeling ill since the previous day and had taken over-the-counter
+lmodium and Gravol which impaired his judgment. It is difficult to understand how the
+illness or medication he described would have affected his judgment to the extent that,
+despite knowing the rules, he was unaware of the fact that he placed documents on his
+desk under his examination booklet and that those documents were not permitted aids
+in this examination.
+
+31.
+
+Further, there is minimal evidence to support this explanation. The Student did
+
+not provide any further details of what he was thinking or how he was feeling when he
+
+10
+
+placed the documents on his desk. The Student led no evidence from any doctor or
+health professional about his health on December 10 or about the possible effects of the
+lmodium or Gravol on his mental state on that day. While he stated that he filed a
+petition and doctor's note regarding an examination the previous day, no evidence
+about that petition or that note was before the Tribunal. Moreover, in his discussions
+with the Professors immediately after the examination on December 10, the Student did
+not mention any illness or medication, just that he was "not thinking straight" at the time
+and was sorry.
+
+32.
+
+In the view of the Tribunal, the Student's explanation that illness and/or
+
+medication resulted in him not knowing that he possessed the unauthorized aids is not
+plausible, and is not supported by any cogent evidence. To the contrary, there is clear
+and convincing evidence from the University witnesses and from the Student himself
+that he knew the rules for this examination, knew that he was not permitted to have
+lecture notes, a homework assignment or the previous year's examination paper with
+him at the examination, and that he nevertheless brought those documents into the
+examination and placed them on his desk under his examination paper.
+
+33.
+
+The Tribunal finds that the Student knowingly possessed unauthorized aids at
+
+the examination.
+
+34.
+
+The Tribunal finds that the Student is guilty of Charge 1.
+
+35.
+
+Charge 2 was withdrawn by the University.
+
+Decision of the Tribunal on Sanction
+36.
+
+The University sought the following sanctions:
+(a)
+
+a final grade of zero in the course ECE 311;
+
+11
+
+37.
+
+(b)
+
+a suspension from the University of Toronto from the date of this order for
+a period of two years;
+
+(c)
+
+a notation of the sanction on his academic record and transcript from the
+date of this order for a period of three years, and,
+
+(d)
+
+that this case be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanction imposed, with the Student's
+name withheld.
+
+The Student sought the following sanctions:
+(a) A grade reduction in the course ECE 311 to 50%. This grade
+would allow him to continue in the Applied Science and Engineering
+program;
+(b) A suspension from the University of Toronto from the date of this
+order for a period of two years;
+
+38.
+
+The University led additional evidence at the sanction stage that in January
+
+2011, the Student admitted to committing the academic offence of plagiarism with
+respect to a lab in a first year course in APS 105H 1F, worth 3% of the final mark in that
+course. The Student received a penalty of a mark of zero for the lab, and was advised
+that in the event of a 2nd offence, the penalties would be much more severe.
+
+39.
+
+The Tribunal has considered the principles and factors relevant to sanction set
+
+out in University of Toronto and Mr. C (Case No. 1976/77-3; November 5, 1976). These
+factors include the character of the person charged, the likelihood of repetition of the
+offence, the nature and seriousness of the offence and the detriment to the University
+occasioned by the offence, any extenuating or mitigating factors surrounding the
+commission of the offence, and the need for specific and general deterrence. The
+determination of an appropriate penalty in every case by the Tribunal will depend on an
+assessment of these principles and factors in the individual circumstances of the case.
+At the same time, it is important that there is general consistency in the approach of
+Tribunals to sanction, so that students are treated fairly and equitably. (Discipline
+
+12
+
+Appeal Board, University of Toronto v. D.S, Case No. 451; August 24, 2007).
+
+40.
+
+The Student took a degree of responsibility for his own conduct, admitting that he
+
+knew the rules of this examination, that he had documents in his possession during the
+examination (after they had been discovered) and that these documents were not
+authorized aids. He also expressed genuine regret and remorse and apologized for this
+conduct immediately to the Professors and to the Dean's designate, and to some
+extent, also in his testimony before the Tribunal. He did not, however, demonstrate any ·
+insight into the reasons for his misconduct, other than attributing it unconvincingly to
+illness and/or medication. This is also not an isolated incident, but the second academic
+offence committed by the Student.
+
+41.
+
+The Student committed a second offence after receiving a relatively lenient
+
+penalty for a prior offence and after receiving a strong warning that future misconduct
+would be subject to severe penalties. The fact that the warning did not deter him from
+committing a second offence increases the likelihood of repetition. On the other hand,
+the prior offence was over three years ago, in the first term of his first year of studies,
+and involved a different form of misconduct (plagiarism, not using an unauthorized aid).
+These circumstances moderate somewhat the risk of repetition of the offence.
+
+42.
+
+The presence of mitigating or extenuating circumstances is another factor. For
+
+the reasons set out in its decision on the charges, the Tribunal does not consider the
+limited evidence it has received regarding the Student's illness and use of medication
+on the day of the examination to amount to an extenuating or mitigating circumstance
+for the commission of this offence.
+
+43.
+
+The misconduct is serious and causes serious detriment to the University. The
+
+Code provides that the University has a responsibility to ensure that academic
+achievement is not obscured or undermined by cheating, and both the University and
+students have a responsibility to ensure that conditions that might enable cheating not
+be tolerated. Bringing an unauthorized aid into a final examination threatens the
+
+13
+
+academic integrity of the University and breaks an important rule that guards against
+cheating in final examinations. The Student was aware of the rule, yet brought three
+unauthorized aids into the examination, two of which could potentially have provided
+him with assistance in the examination. While he did not use the aids during the first
+minutes of the examination before they were confiscated, which would have been even
+more serious, they were potentially helpful and were available to him on his desk under
+his examination booklet.
+
+44.
+
+Specific deterrence was the primary factor relied upon by the Student in arguing
+
+that he should receive a mark reduction in the course to 50%, rather than to 0%. He
+argues that a mark of zero would have a disproportionately severe impact on him,
+because it would result in him being required to permanently withdraw from the
+engineering program due to low overall grades. If he were to receive a mark of 50%, he
+could continue in this program after the period of any suspension. The University does
+not disagree that these would be the consequences of the grade of zero sanction it
+seeks, but argues that the Student's poor academic record is not grounds for leniency
+but instead should have made him more cautious about contravening the Code.
+
+45.
+
+The Student was on academic probation after the Fall 2010 session. He failed
+
+and was required to withdraw for 8 months after the Fall 2011 session. He was
+permitted to proceed again in the Fall of 2012. In Fall 2014 his cumulative GPA (not
+including a grade for ECE 311) was 1.81 and his sessional GPA was 2.1. The Tribunal
+was advised that the Student's examination was marked, and if no penalty at all were
+assigned to it, he would have received a mark of 56% in ECE 311. Therefore, if the
+grade in the course were lowered to 50% as requested by the Student , this would
+amount to a 6% grade reduction in the course.
+
+46.
+
+The Student relies on University of Toronto v. P. T. (Case No. 655; September
+
+26, 2012). In that case, a Tribunal reduced a course grade to 50% rather than zero on ·
+the charge of possessing an unauthorized aid, where it was the last course the student
+needed to complete his degree requirements. That case had different circumstances
+
+14
+
+than the present one, in that the student admitted misconduct at an early stage, had no
+discipline history (although he admitted to 3 incidents of misconduct in the proceedings
+before the Tribunal). Most significantly, the 50% grade sanction was agreed to by the
+University and the student in a joint submission on penalty. The Tribunal itself
+commented that the penalty was low, stating "absent the joint submission the Tribunal
+would have considered a more serious penalty". We agree with the Tribunal's
+comment in that decision that this penalty appears low, and we do not consider that the
+different circumstances of the case before us, including the fact that it is a second
+offence, warrant a similar penalty.
+
+47.
+
+The Tribunal recognizes that a grade of zero in this course is a penalty that
+
+would have a severe impact on the Student's ability to continue in the engineering
+program. However, it is the view of the Tribunal that a grade reduction of 6% is far too
+little to reflect the seriousness of the misconduct in this case or to serve as deterrent to
+other students. Further, the fact that the Student already has a poor academic record is
+not a principled reason for granting leniency in a mark reduction penalty. Indeed,
+reducing a penalty to cushion a student from the cumulative effect of that penalty on his
+overall grades would run contrary to the principles of general deterrence, as it would
+give students with a poor academic record less of a disincentive to cheat than those
+with a good record.
+
+48.
+
+The University relies on a number of Tribunal cases dealing with sanctions for
+
+possession of an unauthorized aid on the examination. In all of these cases, in contrast
+to the University of Toronto v. P. T. case, a mark of zero in the course was imposed as
+one of the sanctions to denote the seriousness of the misconduct and the need to deter
+other students who might be tempted to cheat.
+
+49.
+
+Many of these Tribunal cases, including University of Toronto v. P. T., also
+
+imposed a suspension and a notation of the suspension of 1-3 years. The Student did
+not object to the University's proposed suspension of two years. In the view of the
+Tribunal, the fact that this was a second offence, together with the other factors
+
+15
+
+reviewed above, warrants a suspension of two years and a notation of three years in
+addition to the reduction of the course mark to zero.
+Order of the Tribunal
+
+50.
+
+The Tribunal issued the following Order on June 22, 2015:
+1.
+
+THAT Mr.
+
+ca is guilty of one count of unauthorized aid / assistance,
+
+contrary to section B.1.1 (b) of the Code of Behaviour on Academic Matters;
+2.
+3.
+
+ca receive a final grade of zero in ECE311 H1 in Fall 2014;
+THAT Mr. ca be suspended from the University for a period of
+
+_THAT Mr.
+
+2 years, commencing on June 22, 2015 and ending on June 21, 2017;
+
+4.
+
+THAT the sanction be recorded on Mr.
+
+ca·s academic record and
+
+transcript to the effect that he was sanctioned for academic misconduct, for a
+period of 3 years from the date of this Order, to June 21, 2018, or until his
+graduation from the University, whichever is earlier;
+5.
+
+THAT this case shall be reported to the Provost for publication of a notice
+
+of the decision of the Tribunal and the sanction or sanctions imposed, with the
+name of the student withheld.
+
+Dated at Toronto this /'()day of August, 2015
+
+Ms.Sarah ~
+
+

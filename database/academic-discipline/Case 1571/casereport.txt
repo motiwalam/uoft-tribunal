@@ -1,0 +1,956 @@
+Case No. 1571
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty filed on November 1, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+
+UNIVERSITY OF TORONTO
+- and A
+
+M
+
+REASONS FOR DECISION
+
+Date of Hearing: June 25, 2024, via Zoom
+Members of the Panel:
+Michael Hines, Chair
+Professor Zoraida Beekhoo, Faculty Panel Member
+Zoë Reichert, Student Panel Member
+Appearances:
+Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Sonia Patel, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Karen Bellinger, Associate Director, Office of Appeals, Discipline & Faculty Grievances
+Not in Attendance:
+A
+M
+
+-2-
+
+Charges and Hearing
+1.
+
+This panel of the University Tribunal held a hearing on June 25, 2024, via Zoom,
+to consider charges brought by the University of Toronto against A
+M
+
+(“the Student”) under the Code of Behaviour on Academic Matters, 2019 (the
+
+“Code”).
+Procedural Issues
+2.
+
+The Student was charged with the Offences set out in paragraphs 5 and 7, below
+(the “Charges”). Essentially, they relate to two matters, namely a) the allegation
+that the Student submitted an assignment that contained unattributed work that
+was not their own and b) the allegation that the Student made use of a cell phone
+in an examination in an attempt to obtain assistance from an outside source.
+
+3.
+
+The Student did not appear at the hearing. The University requested an Order
+that the Hearing proceed in her absence, relying on the Affidavit of Kimberly
+Blake, a law clerk employed by the law firm of Paliare Roland Rosenberg
+Rothstein LLP. This Affidavit satisfied the Panel that reasonable efforts had been
+made by the Dean’s Office, the Office of the Vice-Provost and by Ms. Blake
+personally to locate the Student and bring to her attention the fact that she was
+facing concerns, charges and, ultimately, prosecution in this Hearing.
+Accordingly, the Tribunal granted the requested Order. That Order is hereby
+confirmed.
+
+Charges
+4.
+
+As stated above, the Student was charged with respect to two separate
+incidents. The first in time (the “Assignment Offence”) concerned an assignment
+in biology course BIO220H1: From Genomes to Ecosystems in a Changing
+World (“BIO220”).
+
+5.
+
+With respect to BIO220, the Student was charged as follows:
+
+-3-
+
+6.
+
+1.
+
+On or about March 16, 2023, you knowingly used or possessed an unauthorized
+aid or obtained unauthorized assistance in connection with an assignment
+submitted in BIO220H1 (“BIO220”), contrary to section B.I.1(b) of the Code.
+
+2.
+
+In the alternative, on or about March 16, 2023, you knowingly represented as
+your own an idea or expression of an idea or work of another in an assignment in
+BIO220, contrary to section B.I.1(d) of the Code.
+
+3.
+
+In the further alternative, on or about March 16, 2023, you knowingly engaged in
+a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with an
+assignment in BIO220, contrary to section B.I.3(b) of the Code.
+
+The second incident (the “Examination Offence”) arose out of an examination
+regarding a chemistry course CHM135H1S: Chemistry - Physical Principles
+(“CHM135”).
+
+7.
+
+With respect to CHM135, the Student was charged as follows:
+4.
+
+On or about April 25, 2023, you knowingly used or possessed an unauthorized
+aid, or obtained unauthorized assistance, in the final exam in CHM135H1
+(“CHM135”), contrary to section B.I.1(b) of the Code.
+
+5.
+
+In the alternative, on or about April 25, 2023, you knowingly engaged in a form of
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not
+otherwise described in the Code in order to obtain an academic advantage in
+connection with the final exam in CHM135, contrary to section B.I.3(b) of the
+Code.
+
+Evidence and Findings
+8.
+
+As noted above, the Student did not attend the hearing and so provided no
+evidence in this hearing. Additionally, and significantly, the Student did not
+engage with the Dean or any other representatives of the University following the
+alleged commission of the offences at issue before us. Consequently, we have
+no information as to the Student’s perspective on any of the issues and no
+information from her concerning any facts or factors that might tend to explain or
+justify any of her actions.
+The Assignment Offence
+
+-4-
+
+9.
+
+The University led its evidence on the merits of the Assignment Offence through
+the affidavit of Jill Wheeler, Assistant Professor, Teaching Stream, in the
+Department of Ecology & Evolutionary Biology at the University of Toronto
+Faculty of Arts and Science. The following facts were established to the Panel’s
+satisfaction:
+(a)
+
+In the Winter term of 2023, Prof. Wheeler was the course and lab
+coordinator for BIO220. The Student was a student in BIO220.
+
+(b)
+
+The BIO220 syllabus informed students that there was a zero-tolerance
+policy for plagiarism and that students who were caught plagiarizing the
+work of others in any of their coursework would be reported to the office of
+Student Academic Integrity. Students were reminded that they must
+answer and/or complete each assignment independently.
+
+(c)
+
+Students in BIO220 were required to complete several reading
+assignments, in which they were asked to read an assigned article and
+answer questions about it.
+
+(d)
+
+The third reading assignment (the “Third Assignment”) was worth 5% of
+students’ final grades and was due for the Student on March 15, 2023.
+The assignment instructions for the Third Assignment included the
+following reminder regarding academic integrity:
+“This assignment must be entirely in your own words. Do not
+directly copy any text from the article. It is very important that you
+summarize and/or paraphrase when answering the questions. If
+you use quotations from the article, you will receive a grade of zero
+for this assignment.”
+
+(e)
+
+The assigned article for the Third Assignment was titled “Aquatic
+eutrophication promotes pathogenic infection in amphibians”. Students
+were provided with a link to the article through Quercus. The Panel was
+
+-5-
+
+provided with a copy of this article as an exhibit to Prof. Wheeler’s
+Affidavit.
+(f)
+
+The Student submitted her response to the Third Assignment on March
+16, 2023. The Panel was also provided with a copy of the Student’s
+submission as an exhibit to Prof. Wheeler’s affidavit.
+
+(g)
+
+The Student’s TA informed Prof. Wheeler that they suspected that the
+Student had obtained unauthorized assistance on the Third Assignment
+because her answers appeared to correspond to a different article than
+the one that students had been assigned to read. For example, the
+Student’s answer referred to the survival and immune systems of Hyla
+chrysoscelis tadpoles, which were not organisms that were discussed in
+the assigned article or the Course generally.
+
+(h)
+
+Prof. Wheeler then conducted her own review of the Student’s submission
+and concluded that it appeared the Student had obtained unauthorized
+assistance, as her submission appeared to be about a different article
+than the one that had been assigned.
+
+(i)
+
+This conclusion was shared by the Panel members, who had the
+opportunity to compare the Student’s submission with the original article.
+To take one of several examples noted by Prof. Wheeler, Figure 2A in the
+article does not look at tadpole survival (as asserted in the Student’s
+submission) and Figure 2B does not look at infection rate in tadpoles (as
+asserted in the Student’s submission).
+
+10.
+
+Based upon these findings, the Panel was satisfied that the Student had
+committed an academic offence with respect to the Third Assignment. Two
+further areas of discussion arise.
+
+11.
+
+The first is perhaps more semantic than substantive. As stated above, the
+University alleged that the facts described above made out the offence of using
+or possessing an unauthorized aid or obtaining unauthorized assistance, contrary
+
+-6-
+
+to section B.I.1(b) of the Code. In the alternative, the University asserted that the
+facts disclosed the offence of knowingly representing as one’s own an idea or
+expression of an idea or work of another, contrary to section B.I.1(d) of the Code.
+12.
+
+In response to a question from the Panel, Discipline Counsel advised that neither
+offence was considered more or less serious than the other – that both offences
+were considered to be among the most serious listed in the Code. Counsel also
+agreed that the two offences could, in certain circumstances, arise out of the
+same fact situation.
+
+13.
+
+To the extent it may matter, the Panel is of the view that the facts proven as
+described above more accurately fall under section B.I.1(d) of the Code.
+Particularly given the Student’s failure to participate in any of the stages of the
+disciplinary process, the precise means through which the offensive material was
+obtained could not be clearly established in this case. This made it challenging to
+conclude, on a balance of probabilities, that “an unauthorized aid” or
+“unauthorized assistance” was involved, as the Panel understands those terms. It
+is, however, clearer to us that the Student represented as her own work that of
+“another”, however that information was obtained.
+
+14.
+
+Accordingly, the Tribunal entered a finding of guilt on Charge 2 as set out in
+paragraph 5, above.
+
+15.
+
+The second area of discussion relates, albeit indirectly, to the first. In her
+Affidavit, Prof. Wheeler noted that, in addition to the Student’s assignment, 31
+other assignments in the Course were flagged as potential cases of unauthorized
+assistance or aids because they referred to points that were not in the assigned
+article or appeared to be about other articles entirely. All of these cases (other
+than the Student’s case) were resolved at the departmental or divisional levels
+because the students admitted to having obtained unauthorized assistance or
+using an unauthorized aid.
+
+-7-
+
+16.
+
+In particular, of the 31 students who made admissions, at least 15 admitted to
+using ChatGPT, three admitted to using another artificial intelligence tool (such
+as a paraphrasing or summarizing tool), one admitted to using a translation tool,
+and one admitted to searching online.
+
+17.
+
+The University asked the Panel to use this evidence to support a finding of guilt
+on Charge 1, - knowingly using or possessing an unauthorized aid or obtaining
+unauthorized assistance.
+
+18.
+
+It is the Panel’s view that this evidence regarding the misconduct of other
+students had little, if any, probative value. Whether applied to a specific
+allegation of “using an unauthorized aid” (such as ChatGPT) or in support of a
+more general allegation of academic misconduct of some kind, this evidence
+invites us to rely upon a form of “guilt by association”.
+
+19.
+
+When applied to the University’s specific suggestion of reliance upon an artificial
+intelligence tool, it should be noted that this conclusion was evidently not
+established in approximately one-third of the 31 cases.
+
+20.
+
+More generally, it might hypothetically have been possible in a case like this for
+the University to lead evidence that at least inferentially supported a direct nexus
+between the Student and one or more of the 18 admitted cases involving artificial
+intelligence. For example, there might have been incriminating emails between
+the Student and one or more of the 18 other students establishing a probable
+common method of cheating. There might have been an improbably high degree
+of similarity between the mistakes and inaccuracies found in the Student’s
+assignment and those found in one or more of the assignments handed in by the
+other 18 students. In the face of such evidence, an element of complicity could
+be used to support the inference that the Student had committed the same sort of
+improper acts in the same way that other students had engaged in and admitted
+to.
+
+-8-
+
+21.
+
+We have no such evidence in this case. In the absence of such evidence, we are
+of the view that it would not be fair to judge the Student charged in this case
+based upon the actions of other students.
+
+22.
+
+This is not to suggest that such evidence of complicity existed and was somehow
+overlooked by the University in presenting its case. It simply means that, in the
+absence of more concrete evidence connecting the Student to the actions (and
+admissions) of other students, the evidence of what 31 other students did is not
+helpful to us in deciding what the Student did.
+
+23.
+
+As matters have unfolded, and for reasons expressed above, it was not
+necessary for the Panel to rely upon this evidence since the other evidence
+before us satisfactorily discharged the University’s burden of proof in establishing
+that the Student knowingly represented as her own an idea or expression of an
+idea or work of another, contrary to section B.I.1(d) of the Code.
+The Exam Offence
+
+24.
+
+As stated above, the Exam Offence involves the allegation that the Student made
+use of a cell phone in an examination in an attempt to obtain assistance from an
+outside source. The University led its evidence on the merits of the Exam
+Offence through the affidavit of Xiao Fei (Sophie) Feng. At all material times, Ms.
+Feng worked as a Chief Presiding Officer (“CPO”) at the University of Toronto
+Faculty of Arts and Science. The following facts were established to the Panel’s
+satisfaction:
+(a)
+
+As a CPO, Ms. Feng was responsible for administering and invigilating
+exams. This included, among other responsibilities, setting up and
+collecting exam packages, monitoring exams as students wrote, and
+checking students’ TCards and obtaining signatures for attendance
+purposes.
+
+-9-
+
+(b)
+
+On April 25, 2023, Ms. Feng was the CPO for the final examination for
+CHM135. The exam took place in person at the Myhal Centre in room
+MY330 from 7 to 10 p.m.
+
+(c)
+
+The Student attended the CHM135 exam.
+
+(d)
+
+The exam coversheet included a list of reminders on the front page,
+including the following:
+(i)
+
+As a student, you help create a fair and inclusive writing environment. If
+you possess an unauthorized aid during an exam, you may be charged
+with an academic offence.
+
+(ii)
+
+Turn off and place all cell phones, smart watches, electronic devices, and
+unauthorized study materials in your bag under your desk. If it is left in
+your pocket, it may be an academic offence.
+
+(e)
+
+In addition to the reminders on the exam papers, Ms. Feng made an
+announcement at the start of the exam reminding students that all
+electronic devices, such as cell phones, must be turned off and placed in a
+bag under each student’s chair, and that failing to do so may be an
+academic offence.
+
+(f)
+
+Once the exam officially started, Ms. Feng began making her rounds to
+verify each student’s identity and collect their signature.
+
+(g)
+
+Near the very beginning of the exam, at approximately 7:05 p.m., the
+Student raised her hand and asked to go the washroom. The Student
+indicated that she had a nosebleed and pointed to a red blot on her
+sweatshirt.
+
+(h)
+
+Ms. Feng brought the Student a pack of tissues and asked her to wait to
+leave the room until she had finished collecting signatures from all of the
+students. The Student agreed.
+
+- 10 -
+
+(i)
+
+Ms. Feng continued her rounds and reached the Student’s seat at
+approximately 7:30 p.m. She asked the Student to return the extra tissues
+that she had given her so that she could give them to another student.
+However, she noticed that the Student’s tissues did not appear to have
+any blood on them. She asked the Student about this, and the Student
+told her that the bleeding had stopped.
+
+(j)
+
+At approximately 8:10 p.m., the Student raised her hand again and asked
+to go to the washroom. Ms. Feng asked the Student to empty her pockets
+before leaving the room, which she did.
+
+(k)
+
+Ms. Feng escorted the Student to the washroom and waited inside the
+room. After many minutes of waiting, Ms. Feng heard papers rustling and
+what sounded like light tapping on a phone. She knocked on the door to
+the stall and asked the Student to come out and hand over the
+documents. The Student coughed loudly and did not respond. Ms. Feng
+repeated her instruction.
+
+(l)
+
+The Student came out of the stall and handed over her exam papers and
+phone. The Student’s phone was turned on. It contained photographs of
+the Student’s CHM135 exam papers. Ms. Feng took photographs of the
+Student’s phone and confiscated it. Copies of these photos were attached
+as an exhibit to Ms. Feng’s Affidavit for the Panel’s review. They clearly
+show photographs on the Student’s phone of pages to the CHM135 exam.
+
+(m)
+
+Since the Student had emptied her pockets before leaving the exam room,
+Ms. Feng suspected that the Student had hidden the papers and phone
+underneath her clothes.
+
+(n)
+
+Ms. Feng escorted the Student back to the exam room. The Student
+signed a Possession of an Unauthorized Aid During a Final Exam form, in
+which she acknowledged that she had brought an unauthorized aid with
+her to the final exam. A copy of the Possession of an Unauthorized Aid
+
+- 11 -
+
+During a Final Exam form was attached as an exhibit to Ms. Feng’s
+affidavit. In the Form, the Student agreed to the following characterization
+of the events in question:
+“I acknowledge that I brought an unauthorized aid with me to this
+final examination, and that the Item was confiscated for the duration
+of the examination. For the final examination, these aids were not
+permitted. I admit that by doing so, I have committed an academic
+offence under Section B.i.1 (b) of the University's Code of
+Behaviour on Academic Matters.”
+(o)
+
+The Student was permitted to continue writing the exam.
+
+(p)
+
+At the end of the exam, Ms. Feng asked the Student to remain in the
+room. The Student admitted that she was going to send the photos of the
+exam to her friend, who was a chemistry major. The Student was unclear
+as to whether any photos were actually sent, and Ms. Feng was not able
+to verify this.
+
+25.
+
+Based on this uncontested evidence, the Panel finds that, as she evidently
+admitted to Ms. Feng, the Student brought an unauthorized aid with her to this
+final examination, and that by doing so, she committed an academic offence
+under Section B.i.1 (b) of the Code.
+
+26.
+
+The fact that she was not actually successful in using the aid to secure
+assistance is irrelevant, since the Code treats attempts to commit offences as
+seriously as it treats realized offences – see Section B(ii)2.
+Sanction
+
+27.
+
+The University submitted that the Student should receive grades of zero in both
+BIO220 and CHM135 and should be suspended from the University for three
+years. For the reasons set out below, we agree with this sanction.
+
+- 12 -
+
+28.
+
+In support of its position, the University submitted the affidavit of Christina
+Amodio, an Academic Integrity Specialist at the University of Toronto Faculty of
+Arts and Science, Office of the Dean. This affidavit established that the Student
+had, shortly before the events underlying the Charges, engaged in a prior
+incident of academic misconduct (the “Prior Offence”).
+
+29.
+
+Specifically, in March 2023, the Student had admitted to plagiarizing part of an
+assignment that she had submitted on February 3, 2023, for the Winter 2023
+BI0130H1S course. The assignment was worth 8% of the final grade. The
+allegation was resolved at the departmental level. The Student received a
+sanction of a zero on the particular question of the assignment at issue. No other
+discipline was imposed.
+
+30.
+
+The timing of the Prior Offence and the disciplinary procedural steps surrounding
+it are significant. According to an email sent from Dinesh Christendat, Associate
+Chair, Undergraduate, Cell and Systems Biology, to the Student on March 20,
+2023, a discussion took place on March 14, 2023, between the Student and a Dr.
+Adriana Caragea regarding the February 3, 2023 BI0130H1S assignment
+containing plagiarized material. A copy of the March 20, 2023 email was attached
+as an exhibit to Ms. Amodio’s affidavit.
+
+31.
+
+According to the March 20, 2023, email, the Student admitted at that March 14,
+2023 meeting to the allegation of plagiarism. The Student, as noted previously,
+did not attend our hearing to dispute this prima facie evidence, and the Panel
+accepts it as accurate.
+
+32.
+
+Just two days following this March 14 departmental disciplinary meeting
+concerning the Prior Offence, i.e., on March 16, 2023, the Student submitted her
+response to the Third Assignment in BIO220, the assignment that ultimately
+constituted the Assignment Offence of plagiarism dealt with above.
+
+33.
+
+On March 20, 2023, four days after submitting the plagiarized BIO220,
+assignment, the Student was sent the email mentioned above from Associate
+
+- 13 -
+
+Chair Christendat concerning the Prior Offence – the plagiarized BI0130H1S
+assignment. The email described the plagiarism and the Student’s admission to
+Dr. Caragea. It imposed the penalty mentioned above – a grade of zero on the
+particular question in the assignment worth 8%. The email stated, in part:
+“Sanctions are imposed to ensure that you understand the seriousness
+with which offences are considered by the University. Because you have
+admitted the offence and the assignment in question is worth 10% or less
+(8%), I am authorized to impose a sanction for this offence without
+referring the matter to Student Academic Integrity for resolution….
+… Please be advised that all your current and future academic work must
+follow the rules and regulations of the University. I sincerely hope that you
+have learned from this experience and appreciate the importance of
+conducting yourself with integrity as you progress through your studies. A
+record of this matter has been sent to Student Academic Integrity (SAT)
+which maintains cases into their central database. Should you be
+involved in a subsequent allegation of academic misconduct, please
+note that it will be taken into account that it is not your first
+allegation and consequences may be more severe.” [emphasis added]
+34.
+
+As noted, this sanction and the accompanying admonishment quoted above
+were received by the Student only after having submitted the plagiarized BIO220
+assignment. However, one would have hoped that simply the meeting with Dr.
+Caragea on March 14 would have prevented the Student from submitting another
+plagiarized assignment two days later. That did not occur.
+
+35.
+
+In any event, one would certainly have hoped that the tenor of the March 20,
+2023 email from Associate Chair Christendat would have prevented the Student
+from attempting to cheat in her CHM135 exam on April 25, 2023. That did not
+occur either.
+
+- 14 -
+
+36.
+
+It is within this context that the University’s proposal for a three-year suspension
+must be evaluated.
+
+37.
+
+The University invites us to take into account three separate perspectives in
+assessing its proposal – the Provost’s Guidelines as set out in the Code, the
+case law involving similar fact situations and the factors set out in the well-known
+case of University of Toronto and Mr. C (Case No. 1976/77-3, November 5,
+1976). We will address these in reverse order.
+
+38.
+
+The six factors identified in Mr. C have been used to evaluate many cases similar
+to this one, cases involving repeated examples of the related offences of
+plagiarism and/or using an unauthorized aid. As in one of those cases, University
+of Toronto and N.A. (Case No. 1186, September 21, 2021), our conclusions are
+as follows:
+(a) Character: because the Student chose not to attend the hearing, we
+have no evidence before of us of the Student’s character, although we
+note that the Student committed a similar offence shortly before the two
+before us;
+(b) Likelihood of Repetition: given the evidence about the Student’s prior
+offence, there is a real risk of the same offences currently under review
+being repeated absent a significant sanction;
+(c) Nature of Offence: both plagiarism and the reliance on unauthorized
+forms of assistance in an examination are very serious offences. They
+strike at heart of the University’s core values of honesty and integrity.
+They have the potential to affect other students adversely by allowing
+cheaters to obtain grades higher than they actually merit by presenting the
+work of others as their own. They harm the reputation of the University as
+a whole. The Code itself makes all this very clear. Consequently, those
+who commit either or both of these offences merit serious sanctions;
+
+- 15 -
+
+(d) Extenuating Circumstances: there is no evidence of any extenuating
+circumstances in this case;
+(e) Detriment to the University: as noted above, offences of the kind
+committed in this case strike at the heart of the University’s core values of
+honesty and integrity. They cannot be tolerated;
+(f) Deterrence: serious sanctions are required to discourage others from
+committing similar offences,
+39.
+
+The Panel accepts that a multi-year suspension is warranted in this case. We
+believe that the issue before us is whether the sanction should be a three-year
+suspension as requested by the University, or a two-year suspension. This brings
+us to the case law and the Guidelines.
+
+40.
+
+In attempting to treat like cases alike, we must compare the case before us to
+cases involving the commission of multiple offences of plagiarism/unauthorized
+assistance by a student who has already been the recipient of discipline for a
+similar offence in the past. Cases involving “first offences” do not attract the
+same level of discipline as repeat offences, and so are of little assistance.
+Similarly, cases involving Joint Submissions on Penalty carry less precedential
+value, given the constraints placed on the Tribunal in such cases and the
+considerations that militate against tempering or increasing agreed-upon
+penalties where such agreements are reached.
+
+41.
+
+Within this structure, the University brought to our attention a number of cases
+involving plagiarism/unauthorized assistance as the subject offence where the
+convicted student had been previously disciplined for similar reasons.
+
+42.
+
+The sequence of events in our case is notable in that the University’s proposed
+three-year suspension, a very significant penalty, is intended to follow an
+extremely mild penalty for the first disciplinary incident. As stated above, the
+student did not receive a zero in BI0130H1S as a consequence of her plagiarized
+BI0130H1S assignment, nor did she even receive a zero for the entire
+
+- 16 -
+
+assignment. For her admitted plagiarism, the Student only received a mark of
+zero for the question in the assignment to which the plagiarism was related.
+43.
+
+In reviewing the cases submitted by the University, it would appear that threeyear suspensions are typically imposed by the Tribunal only where a prior
+disciplinary sanction has been imposed. The Tribunal can impose and has
+imposed two-year suspensions for a first offence of plagiarism/unauthorized
+assistance – see, for example, University of Toronto and H.L. (Case No. 886,
+March 16, 2017).
+
+44.
+
+The Panel was particularly concerned to know whether three-year suspensions
+have been imposed in other cases where the prior offence was treated as mildly
+as we see in the case before us – the imposition of a score of zero in respect of
+part of an assignment.
+
+45.
+
+In the case of University of Toronto and N.A. (Case No. 1186, September 21,
+2021), a three-year suspension for plagiarism was imposed as the “next step”
+following a prior disciplinary sanction involving an imposed grade of zero on a
+single assignment. In that case, the student had, in their prior offence, submitted
+an assignment that was largely based on a published paper not properly cited
+and that incorporated many sentences that were not properly paraphrased. The
+Department of Biology had resolved the earlier case by giving the Student a
+grade of zero for the assignment. Given the nature of the assignment, it may not
+have been possible to give a zero for part of the assignment, as occurred in our
+case. As stated, the Tribunal followed this with a three-year suspension for a
+subsequent act of plagiarism.
+
+46.
+
+In University of Toronto and J.Z. (Case No. 1406, May 24, 2023), the Tribunal
+imposed a three-year suspension for plagiarism. This sanction was determined,
+in part, because the student had received, just months prior to the subject
+offence, a grade of zero on a term test worth 25% of her final grade for an
+admitted act of plagiarism. Again, the possibility of giving a zero for a part of the
+test was evidently not discussed.
+
+- 17 -
+
+47.
+
+It should be noted here that our case involves arguably more egregious
+“subsequent” misconduct than that found in N.A. and J.Z. in that the Student in
+our case committed two academic offences following her first offence, whereas
+the students in the cases mentioned above were guilty of only one subsequent
+offence. We recognize that the first of the two “subsequent” offences in our case,
+the Assignment Offence, took place before a sanction had been imposed in
+respect of the Student’s Prior Offence involving the BIO130H1S assignment.
+
+48.
+
+In University of Toronto and W.L.J. (Case No. 815, January 19, 2016), the
+student had, with respect to a prior incident, admitted guilt to academic
+misconduct in plagiarizing and obtaining unauthorized assistance for an
+assignment which he had submitted for credit. Although the Decision does not
+state the precise sanction imposed for this first offence, it would appear not to
+have involved a suspension, since the student committed the offence actually
+adjudicated by the panel only five weeks after his admission of guilt in his first
+offence. The Tribunal imposed a suspension of three years for the second
+offence.
+
+49.
+
+Returning to the facts of our case, and bearing the foregoing in mind, it appears
+that the imposition of a three-year suspension in this case would not be
+inconsistent with prior Tribunal case law.
+
+50.
+
+Despite that fact, the Panel considered the situation faced by the Student in our
+case. Having been caught plagiarizing portions of her submission in the February
+3, 2023 BIO130H1S assignment, the Student was given the mildest of sanctions
+- a grade of zero on the particular portion of the assignment.
+
+51.
+
+To be sure, the Student was also advised by email that should she be involved in
+a subsequent allegation of academic misconduct, it would be “taken into account”
+that it was not her first offence and that “consequences may be more severe”
+[emphasis added].
+
+- 18 -
+
+52.
+
+In considering the sanction to be imposed in this case, the Panel had some
+concern that this rather equivocal language coupled with the very mild sanction
+imposed would not have suggested to the Student that the sanction for any
+further offence would be something as significant as a three-year suspension
+from the University.
+
+53.
+
+At this point, it is appropriate to mention the third perspective from which the
+University asks us to evaluate its proposed three-year suspension, namely the
+perspective of the non-binding Provost’s Guidance on Sanctions (the
+“Guidelines”) that is set out in Appendix “C” to the Code.
+
+54.
+
+Specifically, the University invites us to consider paragraph 8(c) of Part B
+concerning sanctions to be issued in proceedings before the Tribunal. That
+section states:
+8.
+
+To provide guidance to students facing a hearing at the Tribunal, absent
+
+exceptional circumstances, the Provost will request that the Tribunal:…
+…(c) suspend a student for three or more years for any offence involving academic
+dishonesty, where a student has committed a prior offence; [emphasis added]
+
+55.
+
+Standing alone, this statement is fairly unequivocal. It can be contrasted with the
+language of the preceding Section 8(b), which states that “absent exceptional
+circumstances”, the Provost will request that the Tribunal “suspend a student for
+two years for any offence involving academic dishonesty, where a student has
+not committed any prior offences” [emphasis added]. The emphasized words
+clearly exclude the Student in our case from consideration under Section 8(b).
+
+56.
+
+Nothing in Section 8(c) requires anything other than “a prior offence” in order to
+lead to a request by the Provost for a three-year suspension. The Guidelines do
+not contemplate the need for a two-year suspension (or any suspension) as a
+pre-requisite to a request for a three-year suspension under section 8(c), so long
+as a “prior offence” has been committed. The Code (which includes the
+Guidelines) was sent to the Student in the communications leading up to this
+
+- 19 -
+
+hearing. It therefore should have come as no surprise to the Student, had she
+attended the hearing, that the Provost was seeking a three-year suspension.
+57.
+
+Any formulation of a concept of progressive discipline within the University
+context must also take into account Part C.i.(b) of the Code concerning Divisional
+Sanctions. This is relevant in assessing the significance of the Department’s
+decision regarding the Prior Offence. Specifically in our case, section 1 of that
+Part states:
+1.
+
+In an assignment worth ten percent or less of the final grade, the department
+chair may deal with the matter if,
+(i)
+
+the student admits guilt; and
+
+(ii)
+
+the assignment of a penalty is limited to at most a mark of zero for the
+piece of work. [emphasis added]
+
+58.
+
+Unlike the Guidelines, this section of the Code is not discretionary. Section 1
+limits the power of a department chair in reacting to an offence concerning “an
+assignment worth ten percent or less of the final grade”. That was the case in the
+Prior Offence. Associate Chair Christendat had no power to issue a suspension.
+Had such a sanction been sought, the matter would have to have been referred
+by the Department to the Dean.
+
+59.
+
+The Guidelines would appear to be sensitive to the fact that, for many good
+reasons, discipline will often be dealt with at the Divisional level, and therefore
+that, again for many good reasons, first offences may well lead to sanctions
+falling far short of a suspension where the offence is admitted. These facts do
+not, under the Guidelines, preclude the Provost from seeking a three-year
+suspension in any case “where a student has committed a prior offence”,
+whatever the sanction for that prior offence may have been. It is to be recalled,
+however, that such a request can be anticipated, but only “absent exceptional
+circumstances”.
+
+- 20 -
+
+60.
+
+Putting all of this together, it is quite possible that, despite (or perhaps because
+of) the language in the March 20, 2023, email from Associate Chair Christendat,
+the Student in our case might have misinterpreted the seriousness of her
+wrongdoing. She was given a zero for part of her assignment and was told only
+that, because of her Prior Offence, the “consequences” flowing from any
+subsequent academic offence(s) “may be more severe”. In particular, no
+reference was made to the possibility (if not the likelihood) that if a second
+offence was committed, a three-year suspension would likely be sought by the
+Provost.
+
+61.
+
+Even if the Student had independently reviewed the Guidelines at the time of the
+proceedings surrounding the Prior Offence, the language of Section 8(c) coupled
+with the email would not necessarily have communicated the extreme level of
+disapproval that, both objectively and in light of prior Tribunal case law, the
+Assignment Offence and the Exam Offence would invite. If she had reviewed the
+Guidelines, the Student might have concluded that the mildness of the sanction
+in the case of her Prior Offence could be seen in any future disciplinary process
+as an “exceptional circumstance” that might invite a penalty less extreme than
+the three-year suspension now requested by the University.
+
+62.
+
+We would respectfully suggest that communications to students participating in
+the same kinds of disciplinary processes that involved the Student in March 2023
+could perhaps be clarified to some extent. For example, in letters outlining the
+future implications of agreed-upon or imposed “first” discipline, it might be
+possible to include a statement of the future implications of the first offence that
+is clearer than saying simply that “they may be more severe”. Indeed, the
+attention of a student might be drawn specifically to Section 8(c) of the
+Guidelines, indicating that a three-year penalty would, in the absence of
+exceptional circumstances, likely be sought for any further offences. Such direct
+communication might more effectively serve the purpose of deterrence
+contemplated in the case of Mr. C.
+
+- 21 -
+
+63.
+
+Returning to our case, we acknowledge that, in imagining how the Student may
+have interpreted the materials provided to her, we are engaging in speculation,
+rather than evaluating evidence. This fact is attributable to the failure of the
+Student to appear at the hearing. Had the Student testified persuasively
+regarding what she took from the communications that are in evidence, we may
+have been inclined to question more seriously the sanction requested by the
+University in this case.
+
+64.
+
+In the absence of such evidence, we are left with a student who, very shortly
+after having been engaged in a disciplinary process involving an investigation
+and admission of plagiarism, engaged in not one but two further academic
+offences - a further act of plagiarism and the attempt to obtain outside assistance
+in an examination by the use of a hidden cell phone and a story designed to play
+on the sympathies of the invigilator. As noted above, these facts are more
+egregious than those which supported three-year suspensions in N.A., J.Z. and
+W.L.J.
+
+65.
+
+In view of the considerations articulated in the case of Mr. C., the case law
+provided to us and particularly the consideration of the number and nature of the
+offences that have been proven in this case, we are prepared to accept the
+recommendation of the University that a three-year suspension be imposed.
+
+66.
+
+Accordingly, after reading the evidence submitted and hearing submissions from
+Discipline Counsel, the Tribunal orders that:
+(a)
+
+The hearing may proceed in the absence of the Student;
+
+(b)
+
+The following sanctions shall be imposed on the Student;
+(i)
+
+a final grade of zero in BIO220H1 in Winter 2023;
+
+(ii)
+
+a final grade of zero in CHM135H1 in Winter 2023;
+
+(iii)
+
+a suspension from the University for three years from July 9, 2024; and
+
+- 22 -
+
+(iv)
+
+a notation of the sanction on the Student’s academic record and transcript
+for four years from July 9, 2024.
+
+(c)
+
+This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+Dated at Toronto this 8 day of October, 2024.
+
+Original signed by:
+_____________________
+Michael Hines, Chair
+On Behalf of the Panel
+
+

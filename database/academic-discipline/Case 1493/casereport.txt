@@ -1,0 +1,407 @@
+Case No. 1493
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on January 5, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and B
+
+H
+
+REASONS FOR DECISION
+Hearing Date: April 2, 2024, via Zoom
+Panel Members:
+Michelle S. Henry, Chair
+Professor Paul Kingston, Faculty Panel Member
+Ryan Cortez, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Janet Song, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Arshia Hassani, Representative for the Student, Downtown Legal Services
+Hearing Secretary:
+Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+B H
+
+1
+
+1.
+
+A hearing of the Trial Division of the University Tribunal convened on April 2, 2024, to
+
+consider academic charges brought by the University of Toronto (the “University”) against B
+H
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”). The
+
+Student was informed of the charges by letter dated January 5, 2023, from the Provost (the
+“Charges”). The Student was also informed of the hearing by a Notice of Virtual Hearing with
+respect to the Charges dated January 3, 2024.
+THE CHARGES
+2.
+
+At all material times, the Student was enrolled at the School of Graduate Studies as a
+
+Doctor of Philosophy Candidate with the Centre for Comparative Literature. The University
+brought the following charges against the Student:
+a.
+
+On or about August 20, 2021, the Student knowingly forged or in any other way altered or
+
+falsified a document or evidence required by the University of Toronto, or uttered, circulated, or
+made use of such forged, altered, or falsified document, namely an application which the Student
+submitted for a Senior Doctoral Fellowship in the Caribbean Studies Program, contrary to Section
+B.I.1(a) of the Code.
+b.
+
+In the alternative, on or about August 20, 2021, the Student knowingly engaged in a form
+
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in order to obtain academic credit or other academic advantage of any kind, by submitting
+a forged, altered, or falsified document, namely an application which the Student submitted for a
+Senior Doctoral Fellowship in the Caribbean Studies Program, contrary to Section B.I.3(b) of the
+Code.
+
+AGREED STATEMENT OF FACTS
+3.
+
+The Hearing proceeded based on an Agreed Statement of Facts (“ASF”). The Panel also
+
+received a Joint Book of Documents (“JBD”) that is referred to in the ASF. The following is an
+abridged version of the ASF.
+4.
+
+In Fall 2021, the Student started his fifth year of the doctoral program. The New College
+
+Senior Doctoral Fellowship Program provides a stipend and academic opportunities to six
+
+2
+
+successful doctoral student applicants. Senior Doctoral Fellowships are valued at $1,500 each, for
+one full academic year (September 1 to May 30) in a specific academic program/area of study.
+5.
+
+Senior Doctoral Fellows are expected to engage with students and the larger intellectual
+
+community at New College and give an academic seminar related to their research. They are
+provided access to the special library collections at New College, and are eligible for New College
+travel funds and to submit applications for other funding initiatives in collaboration with their host
+Program Director.
+6.
+
+Applicants were required to submit a one-page cover letter outlining their
+
+qualifications for the New College Senior Doctoral Fellowship with a focus on their area of study.
+They were also required to submit a curriculum vitae, a one-page summary of their doctoral thesis
+and progress to date, and a letter of recommendation from their dissertation supervisor.
+7.
+
+On August 20, 2021, the Student applied for the Senior Doctoral Fellowship in the
+
+Caribbean Studies Program. The Application included a cover letter dated August 20, 2021, in
+which the Student represented that,
+a.
+
+his PhD dissertation was well underway;
+
+b.
+
+an article titled “Boomerang effects: constellating anti/colonial Nachträglichkeit
+
+between Shakespeare, Freud & Césaire” was under review at Diacritics, a peer-reviewed
+academic journal at Cornell University and published by the Johns Hopkins University
+Press (“Diacritics Article”); and,
+c.
+
+that his comprehensive exams included a significant focus on Caribbean history
+
+and literature.
+8.
+
+The Application also included a curriculum vitae that listed the Diacritics Article in the
+
+“Publication” section as “forthcoming (under review with Diacritics)”; and a two-page summary
+titled “Doctoral Thesis Summary & Progress to date (July 2021)”.
+9.
+
+On May 4, 2022, the Student emailed an Associate Professor of History at the University
+
+of Toronto to invite the Professor to meet to discuss whether she would become a member of the
+Student’s dissertation committee.
+3
+
+10.
+
+On May 9, 2022, the Professor requested that the Student send her a copy of the Diacritics
+
+Article identified in the Application as being under consideration by Diacritics.
+11.
+
+On the same day, the Student responded to the Professor's request for a copy of his article
+
+by explaining that there was in fact no actual Diacritics Article. He said that instead:
+The Diacritics situation was quite particular - at the time of applying to the New College SDF
+Program, I was participating in the School in Criticism and Theory at Cornell, where Diacritics is
+housed. As part of that program, we were invited to "pitch" articles for an upcoming edition of the
+journal, and my pitch (basically an extended abstract) won this little internal competition meaning
+I was invited to submit the full paper for editing and publication.
+
+The Student went on to explain that due to intervening circumstances he had not followed through.
+12.
+
+In response to the Student’s explanation, the Professor expressed concerns about the
+
+misrepresentations made in his Application which led her to decline any further involvement with
+his work.
+13.
+
+In response, the Student acknowledged that he had both misrepresented the status of the
+
+Diacritics Article and overstated his prior involvement in Caribbean literature and critical theory
+in his Application. The Student apologized to the Professor.
+14.
+
+On May 17, 2022, Professor John Ricco, Associate Director, Centre for Comparative
+
+Literature, contacted the editor of the Diacritics journal, and the managing editor, who advised
+him that they had no record of any submission from the Student either as a general submission or
+as a submission to an essay competition, and did not have and had never had an essay of his under
+review.
+15.
+
+On May 28, 2022, the matter was referred to Professor Luc De Nil, the Dean’s Designate
+
+for Academic Integrity.
+16.
+
+On July 19, 2022, the Student attended a Dean’s Designate meeting with Professor De Nil
+
+to discuss the allegations.
+17.
+
+During the meeting, the Student:
+4
+
+a.
+
+confirmed that he had never submitted a paper to the Diacritics journal;
+
+b.
+
+acknowledged that he had been loose with the terminology he had used to describe
+
+the informal feedback he received about his proposed paper during the Essay Competition,
+and that it was his understanding that he would, in the future, write and submit the paper
+to the journal;
+c.
+
+acknowledged that he understood the difference between a paper being “under
+
+review” as stated in the Application, and a not yet written paper that he had been invited to
+submit, and that it was inaccurate to describe a paper that had not yet been written as “under
+review”;
+d.
+
+acknowledged that an Application referencing a paper “under review” would be
+
+received more positively; and
+e.
+
+acknowledged that he had knowingly misrepresented the information contained in
+
+the Application.
+18.
+
+The Student offered to pay a fine equal to the amount of the $1,500 stipend he had received.
+
+The Student also promised not to make reference to the Fellowship on future documents.
+19.
+
+As part of the ASF, the Student made the following admissions:
+a.
+
+contrary to the information he provided in his Application cover letter and his
+
+curriculum vitae, he did not write or submit the Diacritics Article to Diacritics for
+publication;
+b.
+
+contrary to the representations he made to the Professor, he did not win the Essay
+
+Competition and was not invited by Diacritics to submit a full paper for editing and
+publication;
+c.
+
+he did not submit any article to Diacritics, nor was any article he authored under
+
+review by that journal;
+
+5
+
+d.
+
+he knew or ought to have known that describing a paper that was not yet written
+
+and had not been submitted as “under review” for publication by a peer-reviewed journal
+was inaccurate and misleading;
+e.
+
+he referred to the Diacritics Article in his Application as if it existed, had been
+
+submitted to a peer-reviewed journal, and that it was under review by that journal for
+publication, in order to enhance his prospects to be awarded the Fellowship; and
+f.
+
+by claiming the Diacritics Article was under review in the Application for the
+
+Fellowship, he knowingly forged or in any other way altered or falsified a document or
+evidence required by the University of Toronto, or uttered, circulated, or made use of such
+forged, altered, or falsified document, contrary to section B.I.1(a) of the Code.
+20.
+
+The Student acknowledged that he knew or ought to have known that he engaged in a form
+
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise
+described in the Code in order to obtain academic credit or other academic advantage of any kind
+in connection with the Application, contrary to section B.I.3(b) of the Code.
+FINDINGS ON CHARGES
+21.
+
+Following deliberations and based on the ASF and the JBD, the Panel concluded that the
+
+first charge was proven on a balance of probabilities. The Panel accepted the guilty plea of the
+Student in respect of the charge.
+22.
+
+The Panel was advised that if it returns a conviction on the first charge, the University will
+
+withdraw the alternative charge. Accordingly, the Panel makes no findings with respect to the
+alternative charge.
+PENALTY
+23.
+
+The University and the Student submitted a Joint Submission on Penalty (“JSP”)
+
+recommending the following penalty:
+a.
+
+a suspension from the University for three years commencing on May 1, 2024; and
+
+6
+
+b.
+
+a notation of the offence on the Student’s academic record and transcript until
+
+graduation.
+24.
+
+The parties agree that it is appropriate for this case to be reported to the Provost for
+
+publication of a notice of the decision of the Tribunal and the sanctions imposed, with the name
+of the Student withheld.
+25.
+
+Assistant Discipline Counsel provided submissions on the high threshold required for a
+
+Tribunal to deviate from a JSP. As set out in the Discipline Appeals Board decision in University
+of Toronto and S.F. (Case No. 690, October 20, 2014), only truly unreasonable or
+“unconscionable” joint submissions should be rejected (para. 22).
+26.
+
+The Panel also heard submissions regarding the appropriateness of the penalty, reviewed
+
+relevant past decisions of the Tribunal submitted by the University, and considered the factors set
+out in University of Toronto and Mr. C. (Case No. 1976/77-3, November 5, 1976), namely: 1) the
+character of person charged; 2) the likelihood of repetition of the offence; 3) the nature of offence
+committed; 4) any extenuating circumstances surrounding the commission of the offence; 5)
+detriment to the University occasioned by the offence; and 6) the need to deter others from
+committing a similar offence.
+27.
+
+With respect to his character, the University noted that the Student admitted guilt, had
+
+insight into his actions, expressed remorse and took responsibility for his actions. He participated
+and cooperated fully in the process, including participating in the ASF and JSP on Penalty.
+28.
+
+With respect to the consideration of the likelihood of repetition of the offence, Assistant
+
+Discipline Counsel noted that it was not particularly relevant in the circumstances as the Student
+was nearing completion of his PhD.
+29.
+
+Regarding general deterrence and the detriment to the University, the University stated
+
+that the need to deter was important in this case, as the Student’s actions could have denied other
+worthy candidates from this special opportunity and leads to a diversion of funds. The University
+noted that the integrity of the University and its programs are also compromised when such
+offences occur, as they bring into questions the professional integrity of academia, and not just the
+University.
+7
+
+30.
+
+With respect to the request to defer the start date of the suspension, the University noted
+
+that the Student’s thesis was nearing completion, and he needed some time to work with his
+dissertation committee.
+
+The University agreed that this request was reasonable in the
+
+circumstances.
+31.
+
+The parties also noted that the Student had donated the amount obtained to the University.
+
+32.
+
+Having regard to the above, and based on the review of the cases provided by Assistant
+
+Discipline Counsel, in the Panel’s view, the joint submission in this case is reasonable. The Panel
+agrees that the recommended sanctions are appropriate.
+DECISION OF THE PANEL
+33.
+
+At the conclusion of the hearing, the Panel made the following order:
+a.
+
+THAT the Student is guilty of one count of knowingly forging or in any other way
+
+altering or falsifying a document or evidence required by the University, or uttering,
+circulating or making use of such forged, altered or falsified document, contrary to Section
+B.I.1(a) of the Code;
+b.
+
+THAT the following sanctions shall be imposed on the Student:
+i. a suspension from the University for three years commencing on May 1, 2024;
+and
+ii. a notation of the sanction on the Student’s academic record and transcript until
+graduation.
+
+c.
+
+THAT this case shall be reported to the Provost for publication of a notice of the
+
+decision of the Tribunal and the sanctions imposed, with the name of the Student withheld.
+34.
+
+An Order was signed after the hearing on April 2, 2024, by the Panel to this effect.
+
+DATED at Toronto, July 23, 2024.
+
+8
+
+Original signed by:
+______________________________________
+Michelle S. Henry, Chair
+On behalf of the Panel
+
+9
+
+

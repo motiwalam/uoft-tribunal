@@ -1,0 +1,542 @@
+Case No.: 1184
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed March 16, 2021, and August 24,
+2021,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c.88
+
+UNIVERSITY OF TORONTO
+- and G
+
+K
+
+R
+
+REASONS FOR DECISION
+
+Hearing Date: June 8, 2022, via Zoom
+Members of the Panel:
+Mr. Douglas F. Harrison, Chair
+Professor Margaret MacNeill, Faculty Panel Member
+Ms. Madison Kerr, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. G
+K
+R
+Hearing Secretary:
+Ms. Carmelle Salomon-Labbé, Associate Director, Office of Appeals, Discipline and Faculty
+Grievances
+
+2
+
+Charges and Hearing
+1. The Trial Division of the Tribunal held a hearing by videoconference on June 8, 2022, to
+address the following charges brought by the University of Toronto (the “University”)
+against G
+
+K
+
+R
+
+(the “Student”) under the Code of Behaviour on Academic
+
+Matters, 1995 (the “Code”), which were set out in a letter to the Student dated August 24,
+2021:
+1. On or about February 14, 2021, you knowingly represented as your own an idea or
+expression of an idea or work of another in an assignment that you submitted
+(“Assignment 1”) in STA302H1S: Methods of Data Analysis 1 (“Course”), contrary to
+section B.I.1(d) of the Code.
+2. On or about February 14, 2021, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in Assignment 1 in the Course, contrary to
+section B.I.1(b) of the Code.
+3. In addition and in the alternative to charges 1 and 2, on or about February 14, 2021, you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with Assignment 1 which you
+submitted for academic credit in the Course, contrary to section B.I.3(b) of the Code,
+4. On or about March 28, 2021, you knowingly represented as your own an idea or
+expression of an idea or work of another in an assignment that you submitted
+(“Assignment 2”) in the Course, contrary to section B.I.1(d) of the Code.
+5. On or about March 28, 2021, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in Assignment 2 in the Course, contrary to
+section B.I.1(b) of the Code.
+6. In addition and in the alternative to charges 4 and 5, on or about March 28, 2021, you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with Assignment 2 which you
+submitted for academic credit in the Course, contrary to section B.I.3(b) of the Code,
+
+3
+7. In or about March or April 2021, you knowingly used or possessed an unauthorized aid
+or aids or obtained unauthorized assistance, or attempted to do so, in connection with
+academic work in the Course, contrary to sections B.I.1(b) and B.II.2 of the Code.
+8. In addition and in the alternative to charge 7, in or about March or April 2021, you
+knowingly engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain academic credit
+or other academic advantage of any kind in connection with academic work in the
+Course, contrary to sections B.I.3(b) and B.II.2 of the Code.
+Particulars of the offences charged are as follows:
+1. At all material times you were a student at the University of Toronto Mississauga.
+2. In Winter 2021 you enrolled in the Course, taught by Professor Katherine Daignault.
+3. Students in the Course were required to submit three assignments. You submitted your
+three assignments in partial fulfillment of this requirement.
+4. You were required to write your assignments independently without the use of any aids or
+assistance, and you were expressly reminded not to search for solutions online.
+5. You did not write your assignments independently, but instead you knowingly obtained
+unauthorized assistance from Chegg.com, an online subscription service which provides
+“expert” answers to questions asked (“Chegg”), and/or from others who obtained such
+assistance and provided them to you.
+6. You submitted your Assignment 1 on or about February 14, 2021, and Assignment 2 on
+March 28, 2021, knowing that they contained ideas, the expression of ideas, and verbatim
+or nearly verbatim text from the work of other people (the “Sources”) which were not your
+ideas or your original work.
+7. You knowingly represented the work of another person or persons who wrote the Sources
+as your own. You knowingly included in your Assignment 1, question 1, and Assignment
+2, question 1, ideas and expressions that were not your own, but were the ideas and
+expressions of another person, or persons, who wrote the Sources, which you did not
+acknowledge appropriately.
+8. You knowingly submitted your Assignments 1 and 2 with the intention that the University
+of Toronto rely on them as containing your own ideas, expressions of ideas or work in
+considering the appropriate academic credit to be assigned to your work.
+
+4
+9. For the purposes of obtaining academic credit and/or other academic advantage, you
+knowingly committed plagiarism in your Assignment 1, question 1, and Assignment 2,
+question 1.
+10. You used the answers provided by Chegg to question 1 of each of Assignment 1 and
+Assignment 2 (“Chegg Answers”) as your own answers to provide the answers to question
+1 on each of your Assignment 1 and Assignment 2.
+11. The answers which you provided for question 1 of each of Assignment 1 and Assignment
+2 are virtually the same as the Chegg Answers.
+12. You knowingly obtained unauthorized assistance in connection with Assignment 1 and
+Assignment 2 in the Course.
+
+Preliminary Matters
+2. The Provost of the University and the Student filed a Joint Book of Documents (Re:
+Finding of Offence) (“JBD”), which included an Agreed Statement of Facts (“ASF”) that
+was signed by the Student on May 31, 2022. The University and the Student agreed that
+each document contained in the JBD could be admitted into evidence before the Tribunal
+for all purposes, including for the truth of the document’s contents, without further need
+to prove the document, and that if a document indicated that it was sent or received by
+someone, that was prima facie proof that it was sent and received as indicated.
+3. In addition to the above-noted charges, the ASF also referred to an additional set of
+charges made by the University against the Student, dated March 16, 2021 (a copy of
+which was contained in the JBD), in respect of an assignment submitted by the Student in
+a first-year Astronomy course. As set out in the ASF, and as reiterated at the outset of the
+hearing by counsel for the University, the University agreed to withdraw these additional
+charges in their entirety and no evidence was presented to the Tribunal by the University
+with respect to them. The Tribunal accepted the withdrawal of these charges and
+accordingly, no order in respect of these charges was required and none was made.
+
+5
+
+Agreed Facts
+4. The relevant facts in this matter, as set out in the ASF, are as follows.
+7. The Student first registered as a student at the University of Toronto Mississauga in Fall
+2016. As of May 27, 2022, the Student has earned 20.0 credits with a Cumulative GPA of
+2.82.
+The Course
+8. In Winter 2021, the Student enrolled in STA302H1, Methods of Data Analysis I (the
+“Course”), which was taught by Professor Katherine Daignault. Due to the COVID-19
+pandemic the Course was taught online.
+9. The syllabus contained a detailed section on Academic Integrity which provided the
+following guidelines:
+• You may consult class notes/lecture slides during tests and projects,
+however sharing or discussing questions or answers with other students is an
+academic offence.
+• Students must complete all assessments individually. Working together is
+not allowed.
+• Paying anyone else to complete your assessments for you is academic
+misconduct.
+• Sharing your answers/work/code with others is academic misconduct.
+• Looking up solutions to test problems online or in textbooks and copying
+what you find is an academic offence.
+• All work that you submit must be your own! You must not copy
+mathematical derivations, computer output and input, or written answers
+from anyone or anywhere else. Unacknowledged copying or unauthorized
+collaboration will lead to severe disciplinary action, beginning with an
+automatic grade of zero for all involved and escalating from there. Please
+read the UofT Policy on Cheating and
+Plagiarism, and don’t plagiarize.
+
+9. Students in the Course were required to submit, among other things, three assignments, each
+worth 10%.
+10. Assignment 1 was due February 14, 2021. Assignment 2 was due March 28, 2021. Both were
+required to be uploaded to Crowdmark.
+11. Both assignments required students to answer three questions as follows:
+
+6
+The assignment is divided into three questions, each with subparts. Each
+question needs to be uploaded under the correct section in Crowdmark,
+otherwise it may be overlooked when graded. One question is a hand
+calculation-type question with some theoretical components, one will involve
+using R to perform a data analysis, and one requires an R simulation. You
+should make sure to show all your work for all hand-calculation/proof
+questions, while the R questions should be presented clearly with R code and
+output for each part provided and verbal explanations of the results.
+12. The instructions for each of Assignment 1 and Assignment 2 contained the following detailed
+reminder about Academic Integrity:
+
+Academic Integrity Reminder:
+This assignment should be completed individually. Examples of what
+constitutes an academic offence on this assignment are:
+• Sharing whole or partial solutions with other students in the class.
+• Posting the assignment questions or solutions online.
+• Searching for and/or using solutions found online or from external sources
+including other students).
+• Providing solutions that are not 100% your own work.
+Don’t put your academic career on the line! Academic misconduct is serious.
+
+13. [The Student] submitted her Assignment 1 on February 14, 2021, for academic credit.
+14. [She] submitted her Assignment 2 on March 28, 2021 for academic credit.
+15. In late February 2021, Professor Daignault became aware that solutions to her assignments
+were posted on Chegg.com. Chegg.com is a subscription-based website that allows students
+to post problems to the site (“Askers”), which are then answered by so-called “experts”.
+Subscribers are also able to access the questions and answers posted by others on the site
+(“Viewers”). The webpage advertises that a “Chegg Study” subscription costs $18.95/month
+and will allow subscribers to “take a photo of your question and get an answer in as little as
+30 mins” from an “expert”.
+16. Chegg.com has an “Honor Code”, in which it states that its services are not intended to be
+used for any sort of cheating or fraud. Chegg.com permits instructors to request an “honor
+code investigation” for alleged violations of its “code”.
+
+7
+17. Professor Daignault submitted a request to Chegg.com to take down her assignment questions
+and the posted solutions and requested that an investigation be opened pursuant to their
+advertised “Honor Code” to find out who accessed the questions and answers, and to obtain
+the solutions provided to subscribers. She received the posted solutions in late March, and
+then proceeded to review all student submissions for both Assignment 1 and 2.
+…
+20. Upon her review, Professor Daignault determined that the answers given by the Student to the
+following questions were virtually identical to the Chegg solutions:
+a.
+
+Assignment 1 question 1 (a) through (e),
+
+b. Assignment 2 questions 1(a), (b) and (c).
+…
+22. The matter was subsequently forwarded to the Office of the Dean.
+Meeting with the Dean’s Designate
+23. On June 8, 2021, the Student met with Professor Michael Georges, Dean’s Designate for
+Academic Integrity. The Student admits that Professor Georges read to her the required
+warnings from the Code of Behaviour on Academic Matters.
+24. During the meeting, the Student claimed that she:
+a. did not have access to Chegg.com as she would need a premium account to obtain
+access;
+b. watched a lot of videos provided by Khan Academy;
+c. had a link to a video that was somewhat of a similar question because it showed her
+how to use regression;
+d. used information from a website that does almost the same steps as her answer;
+e. did not copy her answers to Assignment 1 or Assignment 2 but was “learning how to
+solve the problem”;
+f.
+
+her answers were exactly how the online solution was answered on Khan Academy;
+
+8
+g. she didn’t look at Chegg.com, but she looked at the other website to understand how
+to do questions like this and it was the same; and
+h. she denied that she had committed an academic offence.
+
+5. In addition to the above agreed facts, the ASF also states that:
+Admissions and acknowledgements
+25. The Student admits that she knowingly accessed Chegg.com to obtain unauthorized assistance
+while working on each of Assignment 1 and Assignment 2, and in doing so she used the answers that
+had been posted to Chegg.com to provide answers for all of question 1 in her Assignment 1, and
+questions 1(a), 1(b) and 1(c) in her Assignment 2.
+26. The Student admits that she is guilty of obtaining unauthorized assistance on each of Assignment
+1 and Assignment 2.
+27. The Student acknowledges that she signed the ASF freely and voluntarily, knowing of the
+potential consequences she faces, and that she was given the opportunity to seek the advice of counsel
+before doing so.
+
+Finding on Charges
+6. The Student was charged under s. B.I.1(b) of the Code with having knowingly used or
+possessed an unauthorized aid or aids or obtained unauthorized assistance in both
+Assignment 1 and Assignment 2 in the Course, contrary to section B.I.1(b) of the Code,
+as set out in paragraphs 2 and 5 of the charges (see paragraph 1, above).
+7. The Student was also charged under s. B.I.1(d) of the Code with having represented as
+her own an idea or expression of an idea or work of another in both assignments that she
+submitted.
+
+9
+
+8. In addition, the Student was charged, in the alternative, under s. B.I.3(b) of the Code with
+having knowingly engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with both
+assignments, which she submitted for academic credit in the Course.
+9. Based on the ASF, including the Student’s admissions contained in it, the Tribunal is
+satisfied that the offence of knowingly using or possessing an unauthorized aid or aids or
+obtaining unauthorized assistance in both assignments has been made out by the
+University.
+10. Therefore, the Tribunal finds that the Student is guilty of having knowingly used or
+possessed an unauthorized aid or aids or obtained unauthorized assistance in both
+Assignment 1 and Assignment 2 in the Course, contrary to section B.I.1(b) of the Code.
+Withdrawal of Alternative charges
+11. Upon these findings, Counsel for the University advised that the University was
+withdrawing the other charges and alternative charges, as set out in paragraphs 1, 3, 4, 6,
+7 and 8 of the charges (see paragraph 1, above), which was done. The Tribunal notes that
+with respect to the charges listed in paragraphs 7 and 8 of the charges, there was nothing
+contained in the ASF and no evidence was presented at the hearing.
+Sanction
+12. The parties filed a Joint Submission on Penalty (“JSP”), which was signed by the Student
+on May 31, 2022, that the sanction in this matter be as follows:
+a. a final grade of zero in STA302H1S (20211);
+
+10
+b. a suspension from the University commencing from the date of the Tribunal’s order until
+May 31, 2027;
+c. a notation of the sanction on her academic record and transcript from the date of the
+Tribunal’s order for six years or until her graduation from the University, whichever
+comes first; and
+
+d. that the Tribunal order that this case be reported to the Provost for publication of a notice
+of the decision of the Tribunal and the sanctions imposed, with the name of the student
+withheld.
+
+13. Along with the JSP, the parties also filed a Joint Book of Documents (Re: Sanction)
+which included an Agreed Statement of Facts on Sanction for the penalty phase of the
+hearing, which was signed by the Student on May 31, 2022. As with the JBD, the parties
+agreed that each document contained in the Joint Book of Documents (Re: Sanction)
+could be admitted into evidence before the Tribunal for all purposes, including for the
+truth of the document’s contents, without further need to prove the document, and that if
+a document indicated that it was sent or received by someone, that was prima facie proof
+that it was sent and received as indicated.
+14. The Agreed Statement of Facts on Sanction set out that the Student had committed four
+prior offences of academic misconduct. Prior to signing the Agreed Statement of Facts
+on Sanction, the Student acknowledged that the Provost had advised her of her right to
+obtain legal counsel and that she signed the Agreed Statement of Facts on Sanction freely
+and voluntarily, knowing of the potential consequences she faced. The four prior offences
+and how they were addressed are as follows.
+
+A. First Offence – CSC108H5F, Assignment 1 – Fall 2016
+
+11
+3. In Fall 2016, the Student enrolled in CSC108H5F: Introduction to Computer
+Programming (“CSC108”) at the University of Toronto, Mississauga (“UTM”).
+4. In October 2016, [the Student] submitted her Assignment 1 in CSC108, worth 5% of her
+final grade in CSC108. She was required to work on Assignment 1 independently.
+5. On or about October 18, 2016, [the Student] admitted to the CSC108 instructor that she
+had collaborated with another student in the course, M.H., to complete Assignment 1.
+6. [The Student] signed an Admission of Guilt form in which she admitted to obtaining and
+providing unauthorized aid and assistance in connection with Assignment 1.
+7. [The Student] received a mark of zero for Assignment 1. A letter dated October 24, 2016,
+reporting this sanction was sent by Professor Khanin, Chair of the Department of
+Mathematical & Computational Sciences at UTM, to the Student. In this letter, Professor
+Khanin noted that since this incident was considered the Student’s first academic offence,
+he trusted that she had “had time to reflect on the seriousness of this incident and will not
+commit another academic offence again.”
+B. Second Offence - CSC108H5F, Assignment 2 – Fall 2016
+8. In November 2016, the Student submitted her Assignment 2 in CSC108, worth 10% of
+her final grade in CSC108. Students were expected to complete this assignment
+independently.
+9. The CSC108 instructor determined that [the Student]’s Assignment 2 was unusually
+similar to the Assignment 2 of another student in CSC108, S.B. He met with [the
+Student] on or about November 9, 2016, to discuss his concerns.
+
+C. Third Offence – PHY100H5F – Fall 2016
+
+12
+10. In Fall 2016, [the Student] was also enrolled in PHY100H5F (“PHY100”) at UTM. As
+part of PHY100, [the Student] was required to complete Assignment 9 for 4% of her
+grade.
+11. The PSY100 instructor noted that the Assignment 9 that the Student submitted was
+unusually similar to the Assignment 9 submission from another student in PHY100, N.F.
+He met with [the Student] on December 5, 2016, to discuss his concerns about her
+PHY100 Assignment 9.
+D.
+
+Fourth Offence – ERS120H5S – Winter 2017
+
+12. In Winter 2017, [the Student] was enrolled in ERS120H5S (“ERS120”) at UTM.
+13. As part of ERS120, the Student was required to complete Lab 6, worth 4% of her grade
+in ERS120. Lab 6 required students to complete sections of their lab notebook during the
+time allotted for Lab 6, based on the work performed by the students during the lab, and
+not prior to that time.
+14. On February 17, 2017, the Teaching Assistant for [the Student]’s lab section found that
+two pages of [the Student]’s lab notebook had been completed prior to the start of Lab 6.
+
+15. [The Student] met with the ERS120 instructor on February 27, 2027, to discuss the
+instructor’s concerns with [the Student]’s Lab 6.
+E. Dean’s Meeting – March 6, 2017
+16. On March 6, 2017, [the Student] met with the Dean’s Designate, Professor Michael
+Georges, to discuss the allegations of academic misconduct concerning her Assignment 2
+in CSC108, Assignment 9 in PHY100, and Lab 6 in ERS120.
+17. At that meeting [the Student] admitted to knowingly committing academic offences by:
+a. sharing her work with a friend for Assignment 2 in CSC108;
+
+13
+b. copying her work directly from the internet in collaboration with N.F. for
+Assignment 9 in PHY100; and,
+c. filling in answers in her lab notebook for Lab 6 prior to the commencement of
+the allotted time for Lab 6 in ERS120.
+18. [The Student] signed forms admitting that she had committed academic offences in
+respect of each of Assignment 2 in CSC108, Assignment 9 in PHY100, and Lab 6 in
+ERS120.
+19. Professor Georges imposed the following sanctions:
+a. a final grade of zero in CSC108, and a transcript notation for 24 months, from
+March 6, 2017 to March 5, 2019, stating: “Mark reduced in CSC108H5F 2016(9)
+due to academic misconduct”;
+b. a final grade of zero in PHY100, and a transcript notation from March 6, 2017 to
+March 5, 2019 stating: “Mark reduced in PHY100H5F 2016(9), due to academic
+misconduct”; and
+c. in respect of ERS120:
+i. a suspension from the University of Toronto for a period of 8 months,
+from May 1, 2017 to December 31, 2017;
+ii. a grade of zero in the course; and
+iii. a transcript notation for 24 months, from March 6, 2017 to March 5,
+2019, stating: “Mark reduced in ERS120H5S 2017(1) due to academic
+misconduct”.
+
+20. Professor Michael Lettieri, Vice-Dean Academic Experiences at UTM, wrote a letter to
+[the Student] dated March 15, 2017, noting the sanctions she had received. In this letter,
+Professor Lettieri communicated the following to the Student:
+
+14
+As you are now aware, these are considered to be serious offences
+under the Code of Behaviour on Academic Matters (Code), and because
+you committed three offences in three courses, they would normally be
+severely sanctioned. It is essential for you to know that I reviewed the
+case again, including the Dean’s Designate’s record of his meeting with
+you in which you admit you contravened the Code. I appreciate that you
+were forthcoming with the truth and remorseful of your actions.
+Moreover, I believe you have learned a valuable lesson and that there
+will be not repetition of similar behaviour in the future. It is imperative
+that you understand that the penalty recommended by my designate was
+appropriate, warranted, and much more lenient than what is envisaged
+in the Provost’s Guidelines (Appendix “C”).
+
+21. Professor Lettieri concluded the March 15, 2017 letter to [the Student] by stating the
+following:
+I also strongly suggest that you contact a staff member from our Robert
+Gillespie Academic Skills Centre to ensure that you have a strategy in
+place to help you with your future academic work and goals.
+I trust that you have had time to reflect on the seriousness of this
+incident and will not commit another academic offence. Please be
+advised that any subsequent allegations of offence are usually referred
+directly to the Tribunal for investigation. I also hope that you will do
+everything in your power to make a success of your academic career at
+the University of Toronto Mississauga.
+
+14. In support of the JSP, the Tribunal was directed by the parties to a number of previous
+Tribunal decisions.
+15. In University of Toronto and S.P. (Case No. 1276, (May 16, 2022)) (“S.P.”), the student,
+who did not cooperate with the University and did not attend the hearing, was found to
+have used the Chegg.com website as an unauthorized aid during an online, open-book test.
+She was found to have posted questions from the test on Chegg.com and used an answer
+obtained from Chegg.com. She had no prior offences on her record. The student received
+a zero in the course, a three-year suspension from the University and a four-year notation
+on her record. The Tribunal in that case canvassed similar previous cases and reviewed
+the Provost’s Guidance on Sanctions (Appendix “C” to the University’s Code of
+
+15
+
+Behaviour on Academic Matters). The Guidance states that absent exceptional
+circumstances, the University will request that the Tribunal impose a final grade of zero in
+any course where the student is found to have committed an offence, and suspend a
+student for two years for any offence involving academic dishonesty, where a student has
+not committed a prior offence. The Tribunal noted that in previous cases, the suspension
+periods for students ranged from two to three years, although when the student had
+committed prior offenses, the suspensions tended to be on the higher end of that range. In
+addition, if it was not shown that the student had paid for access to Chegg.com, then that
+acted as a bit of a mitigating factor that brought the suspension period down.
+16. One of the cases referenced by the panel in S.P. was University of Toronto and T.J. (Case
+No. 1102, November 5, 2021), another instance of a student using the Chegg.com website
+as an unauthorized aid in an exam. The Tribunal imposed on that student a three-year
+suspension and a four-year notation, noting, at paras. 11(c) and 11(e) of the decision:
+[T]he Covid-19 pandemic has amplified the importance of trust. Online
+learning provides more opportunities for students to cheat. In this case,
+Professor Chandra and the University had to go to considerable lengths to
+detect and uncover the extent of the Student’s misconduct. By cheating on his
+exam, the Student undermined the grades-based system of evaluation and broke
+the honour code that is essential to modern learning.
+…
+… In today’s online world, it is all too easy for students to find new outlets for
+unauthorized assistance. Students must understand that this kind of misconduct
+will have serious repercussions, so that they will be dissuaded from the
+temptation to cheat when under pressure.
+
+17. In University of Toronto and I.S. (Case No. 1212, November 3, 2021), the student was
+found to have committed plagiarism in a final paper, almost all of which was taken
+verbatim or nearly verbatim from a published article that the student did not cite. In
+determining the sanction, the Tribunal took note of the fact that this Student had
+
+16
+
+committed four prior offences. As is the situation in the present case, that student’s four
+prior offences had all been resolved at an earlier level. In addition, that student also
+cooperated with the University and expressed remorse. The Tribunal in that case was
+troubled by the multiple previous instances and concerned about possible future repetition.
+It was felt that a significant suspension was appropriate to guard against that possibility.
+Referring to previous decisions of the Tribunal, it was concluded that a five-year
+suspension with a six-year notation was within the reasonable range of disposition.
+18. In determining the sanction in a particular case, the Tribunal is not bound to follow a JSP,
+if one is filed. The Tribunal has an obligation and responsibility to impose a sentence that
+is appropriate in the circumstances. However, when the recommended sanction is within
+the range of reasonable outcomes as indicated by the Guidance and by the prior cases, the
+Tribunal would have to find that that recommended sanction is truly unreasonable or
+unconscionable in order to reject it. As stated in University of Toronto and Y.T. (Case No.
+1027, March 24, 2021), at para. 27, a JSP should “only be rejected in circumstances where
+giving it effect would be contrary to the public interest or would bring the administration
+of justice into disrepute.” (see also University of Toronto and S.K. (Case No. 1031,
+November 11,2019) at para. 30).
+19. In the current case, the Tribunal acknowledges that while the Student has admitted she
+knowingly accessed Chegg.com to obtain unauthorized assistance, there was no proof of
+the Student having paid any money for that access. In addition, unlike a student who
+purchases an essay and submits it as their own, or presents another’s work verbatim as
+their own, the Student here did not submit an entire assignment based on answers from
+Chegg.com.
+
+17
+
+20. However, it remains the case that this Student had not one, not two, not three, but four
+prior offences on her record. Given the admonitions in the letters she received from
+Professor Khanin in October 2016 and from Professor Lettieri in March 2017, one would
+have thought she would have taken the messages to heart. But unfortunately, she did not.
+The Tribunal notes her ultimate cooperation with the University in this matter, but also
+notes that her initial response was to deny any misconduct.
+21. The recommended sanction here is serious and lengthy. The Student has enough credits to
+graduate but she will be unable to until any suspension ordered by the Tribunal has
+expired. Clearly, the temptation to cheat on assignments, due to access to websites like
+Chegg.com is great, and this Tribunal must do what it can to assist the University in
+ensuring that the penalties for those who are caught are harsh enough to make a potential
+cheater think twice.
+22. The Guidance recommends an expulsion in cases where a student has submitted academic
+work that the student has purchased, in whole or in part, unless the student demonstrates
+through their cooperation that a lesser penalty is appropriate. In this case, the Tribunal
+does not recommend expulsion, as there was no proof the Student paid for access to
+Chegg.com and she did eventually cooperate by admitting her guilt and signing both the
+ASF and the Agreed Statement of Facts on Sanction. The Tribunal does, however, find
+that a lengthy suspension and notation is appropriate.
+23. Therefore, the Tribunal accepts that the penalty submitted by the parties in the JSP is
+reasonable and within the range of appropriate sanctions for the offences the Student has
+been found to have committed.
+
+18
+
+24. The Tribunal therefore orders that the following sanctions be imposed on the Student:
+a. a final grade of zero in STA302H1S (20211);
+b. a suspension from the University commencing from the date of this order until
+May 31, 2027; and
+c. a notation of the sanction on her academic record and transcript from the date of
+the order for six years or until her graduation from the University, whichever
+comes first.
+25. In addition, the Tribunal orders that this case be reported to the Provost for publication of
+a notice of the decision of the Tribunal and the sanctions imposed, with the name of the
+Student withheld.
+
+Dated at Toronto, this 7th day of September
+
+Original signed by:
+________________________________________
+Mr. Douglas F. Harrison, Chair
+On behalf of the Panel
+
+2022.
+
+

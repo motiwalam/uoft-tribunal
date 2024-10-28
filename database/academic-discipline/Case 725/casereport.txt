@@ -1,0 +1,1760 @@
+=""'
+""', · -- - -- - - - - - -- - - - - -- - - - -- - - - - - - -
+
+/
+
+THE UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+TRIAL DIVISION
+
+IN THE MATIER OF charges of academic dishonesty filed on July 24, 2013,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on
+Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56
+as amended S.O. 1978, c. 88
+
+BETWEEN:
+THE UNIVERSITY OF TORONTO
+-AND -
+
+REASONS FOR DECISION
+Hearing Date: Wednesday September 18, 2013
+Members of the Panel:
+
+Ms. Sarah Kraicer, Barrister and Solicitor, Chair
+Professor Bruno Magliocchetti, Department of Italian Studies, Faculty Panel
+Member
+Ms. Fikir Haile, Student Panel Member
+Appearances:
+Mr. Robert Genta, Assistant Discipline Counsel, Paliare Roland Barristers
+Ms. Danielle Muise, Legal Case Worker, Downtown Legal Services, on behalf of
+the Student
+In Attendance:
+Mr.
+Student
+Mr. ~ the Student's father
+Professor Eleanor Irwin, Dean's Designate, University of Toronto Scarborough
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+Ms. Sinead Cutt, Administrative Assistant, Appeals, Discipline and Faculty
+Grievances
+
+f9 Cl,
+
+1.
+The Trial Division of the University Tribunal was convened on September
+18, 2013, to consider charges brought by the University of Toronto (the
+"University") against Mr.
+(the "Student") under the University of Toronto
+Code of Behaviour on Academic Matters, 1995 (the "Code").
+
+ftl <11
+
+The Charges
+
+2.
+
+The Charges against the Student are as follows:
+
+CSC C63 charges
+
+1. On or about February 4, 2013, you knowingly represented as your own an
+idea or expression of an idea, and/or the work of another in two discussion
+threads, which you initiated for academic credit in CSC C63, contrary to
+section 8 .1.1 (d) of the Code.
+2. On or about February 4, 2013, you knowingly possessed an unauthorized
+aid, or obtained unauthorized assistance, in co nnection with two
+discussion threads, which you initiated for academic cred it in CSC C63,
+contrary to section 8 .1.1 (b) of the Code.
+3. On or about March 18, 2013, you knowingly represented as your own an
+idea or expression of an idea, and/or the work of another in two discussion
+threads, which you initiated for academic credit in CSC C63, contrary to
+section 8.l.1 (d) of the Code.
+4. On or about March 18, 2013, you knowingly possessed an unauthorized
+aid, or obtained unauthorized assistance, in connection with two
+discussion threads, which you initiated for academic credit in CSC C63,
+contrary to section 8.1 .1(b) of the Code.
+5. In the alternative, on or about February 4 and March 18, 2013 you
+knowingly engaged in a form of cheating, academic dishonesty or
+misconduct, fraud or misrepresentation not otherwise described in the
+Code in order to obtain academic credit or other academic advantage of
+any kind in connection with discussion threads that you initiated for
+academic credit in CSC C63, contrary to section B.1.3(b) of the Code.
+
+2
+
+CSC 037 charges
+6. On or about February 25, 2013, you knowingly represented as your own
+an idea or expression of an idea, and/or the work of another in
+Assignment 2, which you submitted for academic credit in CSC D37,
+contrary to section 8.1.1 (d) of the Code.
+7. On or about February 25, 2013, you knowingly possessed an
+unauthorized aid, or obtained unauthorized assistance, in connection with
+Assignment 2, which you submitted for academic credit in CSC D37,
+contrary to section 8.1.1 (b) of the Code.
+
+8. In the alternative, on or about February 25, 2013 you knowingly engaged
+in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection an
+assignment that you submitted for academic credit in CSC D37, contrary
+to section 8.1.3(b) of the Code.
+
+CSC C73 charges
+9. On or about December 12, 2012, you knowingly possessed an
+unauthorized aid, or obtained unauthorized assistance in an examination
+in CSC C73, contrary to section 8.1.1 (b) of the Code.
+10. In the alternative, on or about December 12, 2012, you knowingly
+engaged in a form of cheating, academic dishonesty or misconduct, fraud
+or misrepresentation not otherwise described in the Code in order to
+obtain academic credit or other academic advantage of any kind in an
+examination in CSC C73, contrary to section B.1.3(b) of the Code.
+
+MAT C32 charges
+11. On or about November 7, 2012, you knowingly possessed an
+unauthorized aid, or obtained unauthorized assistance during a term test
+in MAT C32, contrary to section 8.1.1 (b) of the Code.
+12. In the alternative, on November 7, 2012, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+
+3
+
+academic credit or other academic advantage of any kind in a term test in
+MAT C32, contrary to section B.l.3(b) of the Code.
+Agreed Statement of Facts and Plea
+
+3. Discipline Counsel advised the Tribunal at the outset of the hearing that the
+University had entered into an Agreed Statement of Facts with the Student,
+which is attached as Appendix "A" to these Reasons for Decision. The Tribunal
+also received into evidence a Joint Book of Documents, on consent, containing
+documents
+referred
+to
+in
+the
+Agreed
+Statement
+of
+Facts.
+4.
+Pursuant to the Agreed Statement of Facts, the Student pleaded guilty to
+all charges filed by the Provost. The University agreed that if the Tribunal
+convicts the Student on any of Charges 1-4, the Provost will withdraw charge 5. If
+it convicts on any of charges 6 or 7, the Provost will withdraw charge 8. If it
+convicts on charge 9, the Provost will withdraw charge 10. If it convicts on
+charge 11, the Provost will withdraw charge 12.
+5.
+The facts underlying the charges are set out in the Agreed Statement of
+Facts and the Joint Book of Authorities and are summarized below:
+A.
+
+MAT C32 - Charges 11 and 12
+
+6.
+In Fall 2012, the Student enrolled in MAT C32 - Graph Theory and
+Algorithms for its Applications, which was taught by Professor Viktor Harangi
+("C32"). The academic requirements for the course included a mid-term
+examination, which was worth 30% of the final grade.
+7.
+The C32 mid-term examination was held on November 7, 2012. The
+examination was closed book and students were not permitted to bring
+calculators or any notes into the examination. Professor Harangi also made an
+announcement at the beginning of the class that no aids, such as notes, books,
+or calculators were permitted. He made it clear that only pens and pencils were
+permitted.
+8.
+The Student attended the mid-term examination and handed in an
+examination booklet. The Student admits that he knew that he was not permitted
+to possess any notes, electronic devices, or other aids.
+9.
+During the examination, Professor Harangi observed that the Student had
+a bundle of notes and a smart-phone in his possession. Professor Harangi told
+4
+
+the Student, on more than one occasion, to put the notes and the phone away
+and not to look at them. The Student admits that Professor Harangi did not
+confiscate the smart-phone or the lecture notes from him and that the Student
+was permitted to take the unauthorized aids with him when he left the exam
+room.
+10.
+On November 22, 2012, the Student met with Professor Nick Cheng, the
+designate of the Chair of the Computer Science Department, to discuss the
+matter.
+11.
+On December 5, 2012, Professor Eleanor Irwin, the Dean's Designate for
+academic integrity at the University of Toronto Scarborough, invited the Student
+to meet with her to discuss Professor Harangi's concerns regarding the possible
+academic office in the mid-term examination. Her letter stated "I must point out
+that it is considered an offence to use or possess an unauthorized aid or aids or
+obtain unauthorized assistance in any academic examination or term test or in
+connection with any other form of academic work".
+12.
+The Student admits that he brought lecture notes and other relevant
+material into the mid-term examination with him. The Student admits that he was
+warned about possessing and using the notes during the examination, and that
+he used this unauthorized material to answer questions on the mid-term
+examination.
+13.
+
+The Student admits that he knowingly:
+(a)
+
+possessed and used an unauthorized aid and received
+unauthorized assistance in completing the mid-term examination;
+and
+
+(b)
+
+engaged in a form or cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit,
+contrary to section B.l.1(b) of the Code.
+
+B.
+
+CSC C73 - Charges 9 and 10
+
+14.
+
+In Fall 2012, the Student enrolled in CSC C73 - Computability and
+Computational Complexity, which was taught by Professor Mike Molloy
+("C73").
+
+15.
+
+The academic requirements for C73 included a final examination, which
+was worth 45% of the final grade in C73.
+5
+
+16.
+
+To assist students to prepare for the examination, Professor Molloy posted
+online the exam questions and solutions to the 2009 exam ("2009
+Answers").
+
+17.
+
+The C73 final examination was held on December 12, 2012, which was
+one week after the date Professor Irwin sent the Student the letter about
+the alleged offence in the MAT C32. The examination was closed book
+and students were not permitted to bring calculators or any notes into the
+examination.
+
+18.
+
+The Student attended the C73 final examination and submitted an answer
+booklet. The Student admits that he knew that he was not permitted to
+possess any notes, electronic devices, or other aids during the final
+examination.
+
+19.
+
+Professor Molloy did not notice anything unusual during the examination,
+but when he marked the Student's exam, he noticed that three of the
+Student's solutions were copied almost verbatim from the 2009 Answers.
+Professor Molloy concluded that must have had access to the 2009
+Answers during the examination and used the 2009 Answers to complete
+his examination.
+
+20.
+
+On December 19, 2012, Professor Molloy met with the Student to discuss
+the matter.
+
+21.
+
+On January 30, 2013, Professor Wayne Dowler, the Dean's designate for
+academic integrity at the University of Toronto Scarborough wrote to the
+Student to invite him to discuss the allegation that he had committed an
+academic offence in C73.
+
+22.
+
+The Student admits that he brought a copy of the 2009 Exam and
+Solutions into the C73 final examination with him. He admits that he
+copied from the 2009 Exam when completing his examination answers
+and that
+(a)
+
+his answer to question 2 was copied from the solution to question 4
+on the 2009 exam;
+
+(b)
+
+his answer to question 3 was copied from the solution to question 3
+on the 2009 exam; and
+
+(c)
+
+his answer to question 6b was copied from the solution to question
+6d on the 2009 exam.
+6
+
+23.
+
+The Student admits that he knowingly:
+(a)
+
+possessed and used an unauthorized aid and received
+unauthorized assistance in completing the final examination; and
+
+(b)
+
+engaged in a form or cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit,
+contrary to section B.1.1 (b) of the Code.
+
+C.
+
+CSC C63 - Charges 1 to 5
+
+24.
+
+In Winter 2013, the Student enrolled in CSCC63 - Computability and
+Computational Complexity, which was taught by Professor Nick Cheng
+("C63").
+
+25.
+
+The course outline, which was available on-line, was linked to a specific
+page warning the students about plagiarism and how to avoid committing
+plagiarism and other academic offences in computer science courses.
+That page stated as follows:
+Plagiarism - Computer Science, UTSC
+
+Plagiarism is a kind of fraud: passing off someone else's work or ideas as your
+own in order to get a higher mark. Plagiarism is treated very seriously. The
+assignments you hand in must be your own and must not contain anyone else's
+ideas. Refer to the section on Code of Behavior on Academic Matters in the
+Calendar for a more detailed description of plagiarism.
+Guidelines for avoiding plagiarism
+
+You may discuss assignments with friends and classmates, but only up to a
+point: You may discuss and compare general approaches, but you must not
+leave such discussions with any recorded material. You must not look at
+someone else's solution to an assignment on paper or on the computer screen,
+even in draft form. The actual coding of your programs, analysis of results, and
+writing of reports must be done individually.
+If you do talk with anyone about an assignment, then you must state this in your
+assignment and state the extent of your discussion. Also, if you make use of
+other resources such as books or webpages, then you must state this in your
+assignment and paraphrase the solution in a way that shows you actually
+understand the material.
+Note that it is also a serious offense to help someone commit plagiarism. Do not
+lend your printouts, reports or memory sticks, and do not let others copy or read
+them. To protect yourself against people copying your work without your
+
+7
+
+knowledge, retain all of your old printouts and draft notes until the assignments
+have been graded and returned to you. If you suspect that someone has stolen a
+printout or memory stick, contact your instructor immediately.
+To help you avoid committing plagiarism, here are some rules that you must
+follow.
+After any discussion about an assignment, you must immediately destroy all
+notes from such discussions and you must wait at least one hour before going
+back to the work you discussed.
+Never discuss an assignment with anyone if he/she is going to leave with
+recorded notes or is going to return to his/her work without spending an hour
+doing something other than the work you just discussed.
+Never show anyone (other than your instructor or tutor) anything, even in draft
+form, that you intend to submit as your own work.
+Never let anyone show you anything, even in draft form, that he/she is likely to
+submit as his/her own work.
+If you make use of material from a source other than your current course texts
+and notes (for examples, books, journals, webpages, solutions to assignments
+from past or concurrent offerings of a course), then you must do the following.
+You must make appropriate reference to the source of what you use.
+After consulting such sources, you must wait at least one hour before writing out
+your solution on your own.
+The first point helps you to avoid committing plagiarism. The second point helps
+you to avoid getting zero for your work. After all, when we read the work you
+submit, it must be clear that it is your work and yours alone, and that you fully
+understand it.
+
+26.
+
+27.
+
+The academic requirements for C63 included:
+(a)
+
+Online Discussion #1, which was worth 7.5% of the final grade; and
+
+(b)
+
+Online Discussion #2, which was worth 7.5% of the final grade.
+
+For each discussion, each student was expected to initiate two discussion
+threads by asking two questions. Each student was also required to
+answer two questions posed by other students. The discussion took place
+online in the Blackboard academic portal. Prior to 2012, the discussions
+took place on the University of Toronto Scarborough intranet site.
+
+8
+
+28.
+
+The course outline contained a specific warning that students'
+contributions to the Online Discussions must be their own work and must
+adhere to the plagiarism policy, which is reproduced above. The syllabus
+stated:
+Note #3: Each discussion will have multiple threads, and will be led by the TA
+and the instructor on the Blackboard-portal {html). For these discussions, we're
+looking for you to demonstrate your grasp (and learning) of relevant course
+material. In grading your work, we'll be looking for breadth as well as depth, and
+quality will be at least as important as quantity. If you're unable to solve a
+particular problem or present a correct solution, you may still show your
+knowledge by making suggestions as to how an answer could be obtained.
+Sometimes this is what "real" theoretical computer scientists do when they hold
+discussions. As with any work submitted for academic credit, your submissions to
+these discussions must be your own work. You must adhere to the policy on
+plagiarism (see below}. [emphasis added]
+
+29.
+
+Professor Cheng provided instruction sheets for the Online Discussions,
+which included the topics to be discussed online and how to initiate the
+two "language threads" on or before the relevant deadlines.
+
+30.
+
+On February 4, 2013, the Student initiated two discussion threads as part
+of Online Discussion 1. On March 18, 2013, he initiated three more
+discussions as part of Online Discussion 2.
+
+31.
+
+Except for some minor and inconsequential changes, the five discussion
+threads initiated by the Student are identical to five discussion threads
+initiated by other students during the previous year ("Original Discussion
+Threads").
+
+32.
+
+On March 25, 2013, the Student met with Professor Cheng to discuss the
+discussion threads.
+
+33.
+
+The Student admits that he knowingly:
+(a)
+
+included verbatim and nearly verbatim excerpts from the Original
+Discussion Threads in the discussion threads that he initiated;
+
+(b)
+
+failed to attribute the verbatim and nearly verbatim excerpts from
+the Original Discussion Threads or to indicate in any way that his
+discussion threads they were based on the Original Discussion
+Threads;
+
+(c)
+
+represented the ideas and work of others as his own;
+9
+
+(d)
+
+did no meaningful academic work on the discussion threads that he
+submitted;
+
+(e)
+
+committed plagiarism contrary to section B.l.1(d) of the Code;
+
+(f)
+
+received unauthorized assistance from the Original Discussion
+Threads; and
+
+(g)
+
+engaged in a form or cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit,
+contrary to section B.l.1(b) of the Code.
+
+D.
+
+CSC D37H - Charges 6 to 8
+
+34.
+
+In Winter 2013, the Student enrolled in CSC D37H - Analysis of
+Numerical Algorithms for Computational Mathematics, which was taught
+by Professor Wayne Enright ("D37").
+
+35.
+
+The academic requirements for D37 included an assignment that was
+worth 10% of the final grade in the course ("Assignment 2").
+
+36.
+
+Professor Enright prepared a handwritten set of answers and a marking
+scheme for Assignment 2 ("Enright Answers"). Professor Enright gave a
+copy of the Enright Answers to Professor Nick Cheng, the teaching
+assistant in D37, so that he could mark the students' submissions in
+response to Assignment 2.
+
+37.
+
+Professor Enright had used Assignment 2 in a previous year. At that time,
+he also prepared a handwritten set of answers to Assignment 2. He now
+recalls that he may have circulated the set of answers to students in the
+class to assist them to understand the correct answers to the questions.
+The answer sheet he prepared in that previous years would have been
+essentially identical to the Enright Answers.
+
+38.
+
+On or about February 25, 2013, The Student submitted his answers to the
+questions contained in Assignment 2.
+
+39.
+
+When Professor Cheng marked the Student's assignment, he noticed that
+it was very similar to the Enright Answers including the symbols used and
+the diagram that was drawn. Professor Cheng concluded that this
+similarity was highly unusual and that no other assignment was so similar
+to the Enright Answers.
+10
+
+40.
+
+On March 14, 2013, the Student met with Professor Cheng to discuss the
+matter.
+
+41.
+
+The Student states that he found a copy of Professor Enright's answer
+guide from the prior year posted on the Internet. He admits that he knew
+he should not have accessed that answer guide and that he was not
+permitted to use it to complete his assignment. He knew that copying
+portions of the answer guide into his assignment was not permitted.
+
+42.
+
+With respect to this Assignment, the Student admits that he knowingly:
+(a)
+
+included verbatim and nearly verbatim excerpts from the answer
+sheet prepared by Professor Enright;
+
+(b)
+
+failed to indicate in any way that his Solutions were based on the
+answer sheet prepared by Professor Enright;
+
+(c)
+
+represented the ideas and work of the course instructor as his own;
+
+(d)
+
+committed plagiarism contrary to section B.l.1(d) of the Code;
+
+(e)
+
+obtained unauthorized assistance from the answer sheet prepared
+by Professor Enright; and
+
+(f)
+
+engaged in a form or cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit,
+contrary to section B.1.1(b) of the Code.
+
+E.
+
+The meeting with the Dean's Designate
+
+43.
+
+On April 17, 2013, the Student met with Professor Irwin, Dean's designate
+for academic integrity at the University of Toronto Scarborough. The
+Student admits that Professor Irwin provided the warning that was
+required to be given to him under the Code.
+
+44.
+
+During that meeting, The Student admitted that he committed the
+academic offences described above.
+
+Decision on Charges
+
+45.
+
+The Student pleaded guilty to all charges. He acknowledged in the
+Agreed Statement of Facts that the Provost had advised him of his right to
+obtain legal counsel, that he had obtained legal advice, that he was
+11
+
+signing the Agreed Statement of Facts freely and voluntarily, knowing of
+the potential consequences he faced and having consulted with legal
+counsel, and that the Provost had made no representations to him about
+what penalty the Provost would be seeking.
+46.
+
+At the hearing, the Student was present and was represented by a law
+student. The law student representative advised the Tribunal that the
+Student entered a plea of guilty on all charges. The Tribunal is satisfied
+that the plea is informed, free and voluntary.
+
+47.
+
+After reviewing the facts contained in the Agreed Statement of Facts and
+Book of Documents, the Tribunal deliberated and determined that the
+facts demonstrated that the Charges 1,2,3,4,6,7,9 and 11 to which the
+Student had entered a plea of guilty were proven.
+
+48.
+
+The Tribunal accepted the guilty pleas in respect of those charges, and
+found the Student guilty of three counts of the academic offence of
+plagiarism contrary to section B.1.1(d) of the Code in respect of Charges
+1,3,and 6, and five counts of the academic offence of receiving
+unauthorized assistance contrary to section B. i.1 (b) of the Code of
+Behaviour on Academic Matters in respect of charges 2,4,7,9, and 11 ;.
+
+49.
+
+The remaining charges 5,8, 10 and 12 were withdrawn by the University.
+The Tribunal therefore makes no finding with respect to charges 5,8, 10
+and 12.
+
+Sanction
+
+50.
+
+The University and the Student submitted a further Agreed Statement of
+Facts and Joint Submission on Penalty to the Tribunal, which is attached
+to these Reasons for Decision as Appendix "B".
+
+51.
+
+The further facts relevant to penalty are as follows:
+(a)
+
+The Student admits that he has been sanctioned for academic
+misconduct on one prior occasion.
+
+(b)
+
+In Winter 2010, the Student enrolled in MAT A37, which was taught
+by Professor Michael Goldstein. The Student admitted that he
+possessed an unauthorized aid during the final exam in the course,
+which was worth 45% of the final grade. The Dean's Designate for
+Academic Integrity imposed a grade of zero on the examination.
+12
+
+The letter from the Dean's Designate to the Student dated June 16,
+2010 stated, "I trust it is clear that the University regards with great
+seriousness all acts of academic dishonesty and why they cannot
+be tolerated. I hope you have learned from this unfortunate
+experience and nothing similar will happen again."
+52.
+
+The Provost and the Student have agreed in a Joint Submission on
+Penalty that the appropriate penalty in all the circumstances of this case is
+that:
+(a)
+
+53.
+
+a final grade of zero be assigned for each of:
+(i)
+
+MAT C32,
+
+(ii)
+
+CSC C73,
+
+(iii)
+
+CSC C63, and
+
+(iv)
+
+CSC D37;
+
+(b)
+
+The Student be immediately suspended from the University from
+the date of the Tribunal's order until August 30, 2018, and that a
+corresponding notation be placed on his academic record and
+transcript for 5 years.
+
+(c)
+
+the Tribunal should report this case to the Provost who may publish
+a notice of the decision of the Tribunal and the sanctions imposed,
+with the Student's name withheld.
+
+In oral submissions, Discipline Counsel highlighted the fact that the
+Student has been found to have committed misconduct in 5 courses at the
+University in numerous assignments ranging from class assignments to
+final examinations. The misconduct took place over the course of two
+separate semesters. Some of the misconduct occurred after the Student
+had interactions with the Dean's office regarding misconduct in the Fall
+term of 2012. The student has a history of prior discipline for misconduct.
+On the other hand, Discipline Counsel noted that the Student cooperated
+during his meetings with the Dean's Designate, has cooperated
+throughout these proceedings, and has demonstrated some insight and
+remorse in so doing. Discipline counsel submitted that in all the
+circumstances, a 5 year suspension and other penalties in the Joint
+Submission addressed the need for general and specific deterrence for
+the serious misconduct, while affording the Student an opportunity to
+13
+
+rehabilitate his relationship with the University at the conclusion of the
+lengthy suspension period. He argued that this penalty is consistent with
+other penalties of this Tribunal in similar circumstances.
+54.
+
+The Student's representative highlighted several circumstances as
+mitigating or extenuating in her submissions in support of the Joint
+Submission on Penalty. She stated that the Student had an undiagnosed
+medical condition, and a potential mental health condition, that might have
+affected his studies and his conduct during the relevant period. She
+presented a letter to the Panel members from the Student in this regard,
+which is attached as Appendix C. In the letter, the Student provides
+information about physical symptoms and a possible mental health
+condition that made it difficult to concentrate, made him concerned about
+his ability to maintain his grades, and led him to make "some terrible
+choices about how to go about my work". The Student stated in the letter
+that his struggles with his health do not excuse his behaviour over the past
+year, but hoped that they might help to explain why he made the poor
+choices he did.
+
+Decision of the Tribunal on Sanction
+
+55.
+
+The Tribunal is mindful that a high threshold must be met for the Tribunal
+to reject a joint submission on penalty. Only where the Tribunal is of the
+view that accepting the joint submission would bring the administration of
+justice into disrepute should the Tribunal reject it. With this threshold in
+mind, the Tribunal considered the factors set out in the decision of
+University of Toronto v. C. Dated November 5, 1976 at p. 12 (file 1976/773) and previous case law of this Tribunal in assessing the appropriateness
+of the proposed penalty.
+
+56.
+
+The offences in this case are very serious acts of academic misconduct in
+4 different courses: using unauthorized aids and plagiarism.
+The
+misconduct regarding the use of unauthorized aids was brazen and
+repeated. The Student brought lecture notes and other unauthorized
+material into a mid-term examination in November 2012, and used them
+during the midterm despite being told by the invigilating professor to put
+them away. Even though he then had interactions with the Chair's
+designate and Dean's office regarding that misconduct, in December 2012
+he again brought and used an unauthorized aid into a final examination in
+a different course. Moreover, the Student committed this misconduct
+
+14
+
+despite having been previously disciplined in 2010 for using an
+unauthorized aid in an examination.
+
+57.
+
+The misconduct regarding plagiarism was also serious: he plagiarized the
+previous year's work of other students and presented it as his own original
+work, and he plagiarized the answer sheet prepared by his course
+professor which he found on the Internet and presented the answers as
+his own. The nature of this misconduct undermines the necessary
+relationship of honesty and trust between the student and the University,
+and fundamentally threatens the integrity of the academic program and
+the grades issued by the University.
+
+58.
+
+As the Student has committed misconduct in 5 courses (the four subject to
+these charges, and the one prior misconduct), and has repeated similar
+acts of misconduct despite receiving warnings and being subject to
+disciplinary action, the Tribunal has a real concern that the student is likely
+to continue the pattern of misconduct should he continue to be a student
+at the University.
+
+59.
+
+On the other hand, the Student has cooperated with the University in this
+proceeding, and appeared and participated before the Tribunal. The
+Tribunal has carefully considered the Student's letter and has concluded
+that while it is a genuine expression of remorse and demonstrates a
+degree of insight, the information it provides does not excuse the
+Student's misconduct, as the letter itself acknowledges. While the
+Tribunal sympathizes with any health difficulties the Student may have,
+the information provided as to the nature and timing of those possible
+difficulties is insufficient to indicate that they should be considered
+mitigating circumstances for the misconduct at issue in this proceeding.
+
+60.
+
+We agree that the proposed penalty in the Joint Submission is consistent
+with previous decisions of the Tribunal in similar circumstances where
+students have been disciplined for multiple acts of serious misconduct
+over a period of time following an earlier disciplinary history. In University
+of Toronto and the Student (Case 481; October 12, 2007), the Student
+pied guilty to 6 charges of plagiarism-related misconduct, and had
+previously been disciplined for one prior plagiarism offence. The Student
+appeared and cooperated with the University. Tribunal accepted a joint
+submission for a penalty of a 5 year suspension with a 7 year transcript
+notation, and grades of zero for the five courses in which the plagiarism
+
+15
+
+had taken place. In University of Toronto v. ,-1 (Case 629; February 29,
+2012) the student was found guilty of 1 charge of plagiarism-related
+misconduct, and had previously been disciplined for 3 plagiarism offences.
+The Student did not attend the hearing and did not cooperate with the
+University. The Tribunal imposed a 5 year suspension, a 7 year transcript
+notation, and a grade of zero for the course. In University of Toronto v.
+~ (Case 625; February 13, 2013), the student pied guilty to
+plagiarism-related offences in 2 courses, and had previously been
+disciplined for 2 other academic misconduct offences. The Tribunal took
+into account the fact that the student had been absent from the University
+by his own decision for over one year in imposing a penalty of a four year
+suspension, a six year transcript annotation, and a grade of zero in the
+two courses in question.
+61.
+
+The Tribunal in this case has considered the relevant factors and the case
+law and accepts the recommendation for the sanctions set out in the Joint
+Submission on Penalty: a grade of zero in the four courses in which the
+misconduct arose, a five year suspension from the University, <:l five year
+transcript notation of the suspension, and publication of the notice of the
+decision with the name of the student withheld. In our view, the sanctions
+set out in the Joint Submission on Penalty are appropriate and reasonable
+in the circumstances of this case, and accepting the recommended
+penalty does not bring the administration of justice into disrepute.
+
+Order
+
+62.
+
+The Tribunal issued the following Order on September 18, 2013:
+
+1. THAT Mr.
+
+Cl is found guilty of:
+
+(a)
+
+three counts of the academic offence of plagiarism contrary to
+section B.l.1(d) of the Code of Behaviour on Academic Matters
+("Code"); and
+
+(b)
+
+five counts of the academic office of receiving unauthorized
+assistance contrary to section B.1.1 (b) of the Code;
+
+2. THAT the following sanctions shall be imposed on Mr.
+
+(c)
+
+Cl:
+
+he shall receive a final grade of zero in each of the courses CSC
+C63, CSC D37, CSC C73, and MAT C32;
+16
+
+(d)
+
+he shall be suspended from the University from the date of this
+order until August 30, 2018; and
+
+(e)
+
+that a notation be placed on his academic record and transcript
+until August 30, 2018;
+
+3. THAT th is case shall be reported to the Provost for publication of a
+notice of the Tribunal's decision and the sanctions imposed, with the name
+of the student withheld.
+
+Dated at Toronto, thisk:2,day of December, 2013
+
+Sarah T. Kraicer, Co-Chair
+
+17
+
+APPENDIX A
+
+1
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY-OF TORONTO
+
+IN THE MATTER OF charges of academ ic dishonesty made on July 24, 2013
+
+ANO IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56, as amended.
+
+BETWEEN:
+
+- and •
+
+I
+
+:-ie
+
+00 0 0
+
+this
+
+\
+
+jt;\/
+
+Vo I\\ v .~ .Q •• f •· ·· · ·· ··· ·•· · · ···" ··
+
+[i ·~~~·~f •• SQ,pt01L12r,20J) ..
+
+AGREED STATEMENT OF FACTS
+
+1.
+
+. I l() "'ie
+
+• ,.,. ll I' ~ ,- ~ ~ "' II •1 0"' 11, 'I ., • "'-
+
+~ Ni,er ~ CuJ)
+
+. ... ......~.J.t'..... !JJ............~
+
+This hearing arises out of charges of academic misconduct filed by the Provost of the
+University of Toronto (the "Provost") under the Code of Behaviour on Academic Matters
+("Code'). For the purpose of this hearing, the Provost and ~
+
+Cl ("Mr. Cl") have
+
+prepared this Agreed Statement of Facts ("ASF'') and joint book of documents ("JBD").
+The Provost and Mr. <111 agree that:
+(a)
+
+each document contained in the JBD may be admitted into evidence at the
+Tribunal for all purposes, including for the truth of the document's _contents,
+without further need to prove the document; and
+
+(b)
+
+if a document indicates that it was sent or received by someone, that is prima
+facie proof that the document was sent and received as indicated.
+
+2
+2.
+
+Mr.
+
+Cl admits that he received a copy of the charges filed by the Provost. The charges
+
+are included in the JBD at Tab 1.
+
+3.
+
+Mr.
+
+Cl admits that he received the notice of hearing for September 18, 2013, which is
+
+included in the JBD at Tab 2. He acknowledges that he received reasonable notice of
+the hearing.
+
+4.
+
+5.
+
+Cl waives the reading of the charges filed against him and pleads guilty to all
+charges. The Provost agrees that if the Tribunal convicts Mr. Cl:
+
+Mr:
+
+(a)
+
+on any of charges 1 to 4, the Provost will withdraw charge 5;
+
+(b)
+
+on any of charges 6 or 7, the Provost Will withdraw charge 8;
+
+(c)
+
+on charge 9, the Provost will withdraw charge 10; and
+
+(d)
+
+on charge 11 , the Provost will withdraw charge 12.
+
+A copy of Mr.
+
+<:as academic record dated August 12, 2013, in included in the JBD at
+
+Tab 3.
+
+A.
+
+MAT C32 • Charges 11 and 12
+
+6.
+
+In Fall 2012, Mr.
+
+<11 enrolled in MAT C32 - Graph Theory and Algorithms for its
+
+Applications, which was taught by Victor Harangi ("C32"). A copy of the course outline
+for C32 is included in the JBD at Tab 4. The academic requirements for the course
+included a mid-term examination, which was worth 30% of the final grade in C32.
+7.
+
+The C32 mid-term examination was held on November 7, 2012. A copy of the mid-term
+examination is included in the JBD at Tab 5.
+
+3
+8.
+
+The examination was closed book and students were not permitted to bring calculators
+or any notes into the examination. Prof. Harangi also made an announcement at the
+beginning of the class that no aids, such as notes, books, or calculators were permitted.
+He made it clear that only pens and pencils were permitted.
+
+9.
+
+Cl attended the mid-term examination and handed in an examination booklet. A
+copy of Mr. (9's mid-term examination booklet is included in the JBD at Tab 6. Mr. CII
+
+Mr.
+
+admits that he knew that he was not permitted to possess any notes, electronic devices,
+or other aids.
+10.
+
+During the examination, Prof. Harangi observed that Mr. Cl had a bundle of notes and a
+
+Cl, on more than one occasion,
+to put the notes and the phone away and not to look at them. Mr. <II admits that Prof.
+smart-phone in his possession. Prof. Harangi told Mr.
+
+Harangi did not confiscate the smart•phone or the lecture notes from him and that Mr.
+
+Cl was permitted to take the unauthorized aids with him when he left the exam room.
+11.
+
+On November 22, 2012, Mr.
+
+Cl met with Nick Cheng, the designate of the Chair of the
+
+Computer Science Department, to discuss the matter.
+12.
+
+On December 5, 2012, Professor Eleanor Irwin, the Dean's Designate for academic
+integrity at the University of Toronto Scarborough, invited Mr.
+
+Cl to meet with her to
+
+discuss Prof. Harangi's concerns regarding the possible academic office in the mid-term
+examination. A copy of this letter is included in the JBD at Tab 7.
+13.
+
+Cl admits that he brought lecture notes and other relevant material into the midterm examination with him. Mr. <II admits that he was warned about possessing and
+Mr.
+
+using the notes during the examination, and that he used this unauthorized material to
+answer questions on the mid-term examination.
+
+4
+14.
+
+Mr.
+(a)
+
+Cl admits that he knowingly:
+possessed and used an unauthorized aid and received unauthorized assistance
+in completing the mid-term examination; and
+
+(b}
+
+engaged in a form or cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit, contrary to section B.1.1 (b)
+of the Code.
+
+B.
+
+CSC C73 - Charges 9 and 1o
+
+15.
+
+In Fall 2012, Mr.
+
+Cl enrolled in CSC C73 - Computability and Computational
+
+Complexity, which was taught by Mike Molloy ("C73'.'). A copy of the course outline in
+C73 is included in the JBD at Tab 8.
+16.
+
+The academic requirements for C73 included a final examination, which was worth 45%
+of the final grade in C73.
+
+17.
+
+To assist students to prepare for the examination, Prof. Molloy posted online the exam
+questions and solutions to the 2009 exam ("2009 Answers"). A copy of the 2009
+Answers is included in the JBD at Tab 9.
+
+18.
+
+The C73 final examination was held on December 12, 2012, which was one week after
+the date Prof. Irwin sent Mr.
+
+Cl the letter about the alleged offence in the MAT C32. The
+
+examination was closed book and students were not permitted to bring calculators or
+any notes into the examination.
+19.
+
+Mr.
+
+Cl attended the C73 final examination and submitted an answer booklet. A copy of
+
+Mr.
+
+cas
+
+examination booklet is included in the JBD at Tab 10. Mr.
+
+Cl admits that he
+
+5
+knew that he was not permitted to possess any notes, electronic devices, or other aids
+during the final examination.
+20.
+
+Prof. Molloy did not notice anything unusual during the examination, but when he
+marked Mr.
+
+cl's exam, he noticed that three of Mr. <:as solutions were copied almost
+
+verbatim from the 2009 Answers . Prof. Molloy concluded that Mr.
+
+Cl must have had
+
+access to the 2009 Answers during the examination and used the 2009 Answers to
+complete his examination.
+
+<11 to discuss the matter.
+
+21.
+
+On December 19, 2012, Prof. Molloy met with Mr.
+
+22.
+
+On January 30, 2013, Prof. Wayne Dowler, the Dean's designate for academic integrity
+at the University of Toronto Scarborough wrote to Mr.
+
+<11 to invite him to discuss the
+
+. allegation that he had committed an academic offence in C73. A copy of this letter is
+included in the JBD at Tab 11.
+23.
+
+Mr.
+
+<11 admits that he brought a copy of the 2009 Exam and Solutions into the C73 final
+
+examination with him. He admits that he copied from the 2009 Exam when completing
+his examination answers and that
+(a)
+
+his answer to question 2 was copied from the solution to question 4 on the 2009
+exam;
+
+(b)
+
+his answer to question 3 was copied from the solution to question 3 on the 2009
+exam; and
+
+(c)
+
+his answer to question 6b was copied from the solution to question 6d on the
+2009 exam.
+
+24.
+
+Mr.
+
+Cl admits that he knowingly:
+
+6
+(a)
+
+possessed and used an unauthorized aid and received unauthorized assistance
+in completing the final examination; and
+
+(b)
+
+engaged in a form or cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit, contrary to section B.l.1(b)
+of the Code.
+
+C.
+
+CSC C63 - Charges 1 to 5
+
+25.
+
+In Winter 2013, Mr.
+
+Cl enrolled in CSCC63 - Computability and Computational
+
+Complexity, which was taught by Nick Cheng ("C63"). A copy of the course outline in
+C63 is included in the JBD at Tab 12.
+26.
+
+The course outline, which was available on-line, was linked to a specific page warning
+the students about plagiarism and how to avoid committing plagiarism and other
+academic offences in computer science courses. That page, which is included in the
+JBD at Tab 13, stated as follows:
+Plagiarism - Computer Science, UTSC
+
+Plagiarism is a kind of fraud: passing off someone else's work or ideas as your own in
+order to get a higher mark. Plagiarism is treated very seriously. The assignments you
+hand in must be your own and must not contain anyone else's ideas. Refer to the section
+on Code of Behavior on Academ ic Matters in the Calendar for a more detailed description
+of plagiarism.
+Guidelines for avoiding plagiarism
+
+You may discuss assignments with friends and classmates, but only up to a point: You
+may discuss and compare general approaches, but you must not leave such discussions
+with any recorded material. You must not look at someone else's solution to an
+assignment on paper or on the computer screen, even in draft form. The actual coding of
+your programs, analysis of results, and writing of reports must be done individually.
+If you do talk with anyone about an assignment, then you must state this in your
+assignment and state the extent of your discussion. Also, if you make use of other
+resources such as books or webpages, then you must state this in your assignment and
+paraphrase the solution in a way that shows you actually understand the material.
+·
+
+7
+Note that it is also a serious offense to help someone commit plagiarism. Do not lend
+your printouts, reports or memory sticks, and do not let others copy or read them. To
+protect yourself against people copying your work without your knowledge, retain all of
+your old printouts and draft notes until the assignments have been graded and returned
+to you. If you suspect that someone has stolen a printout or memory stick, contact your
+instructor immediately.
+To help you avoid committing plagiarism, here are some rules that you must follow.
+After any discussion about an assignment, you must immediately destroy all notes from
+such discussions and you must wait at least one hour before going back to the work you
+discussed.
+Never discuss an assignment with anyone if he/she is going to leave with recorded notes
+or is going to return to his/her work without spending an hour doing something other than
+the work you just discussed.
+Never show anyone (other than your instructor or tutor) anything, even in draft form, that
+you intend to submit as your own work.
+Never let anyone show you anything, even in draft form, that he/she is likely to submit as
+his/her own work.
+If you make use of material from a source other than your current course texts and notes
+(for examples, books, journals, webpages, solutions to assignments from past or
+concurrent offerings of a course), then you must do the following.
+You must make appropriate reference to the source of what you use.
+After consulting such sources, you must wait at least one hour before writing out your
+solution on your own.
+The first point helps you to avoid committing plagiarism. The second point helps you to
+avoid getting zero for your work. After all, when we read the work you submit, it must be
+clear that it is your work and yours alone, and that you fully understand it.
+
+27.
+
+28.
+
+The academic requirements for C63 included:
+(a)
+
+Online Discussion #1, which was worth 7.5% of the final grade; and
+
+(b)
+
+Online Discussion #2, which was worth 7.5% of the final grade.
+
+For each discussion, each student was expected to initiate two discussion threads by
+asking two questions. Each student was also required to answer two questions posed by
+other students. The discussion took place online in the Blackboard academic portal.
+Prior to 2012, the discussions took place on the University of Toronto Scarborough
+intranet site.
+
+8
+29.
+
+The course outline contained a specific warning that students' contributions to the Online
+Discussions must be their own work and must adhere to the plagiarism policy, which is
+reproduced above. The syllabus stated:
+Note #3: Each discussion will have multiple threads, and will be led by the TA and the
+instructor on the Blackboard-portal (html). For these discussions, we're looking for you to
+demonstrate your grasp (and learning) of relevant course material. In grading your work,
+we'll be looking for breadth as well as depth, and quality will be at least as important as
+quantity. If you're unable to solve a particular problem or present a correct solution, you
+may still show your knowledge by making suggestions as to how an answer could be
+obtained. Sometimes this is what "real" theoretical computer scientists do when they hold
+discussions. As with any work submitted for academic credit, your submissions to these
+discussions must be your own work. You must adhere to the policy on plagiarism (see
+below). [emphasis added]
+
+30.
+
+Prof. Cheng provided instruction sheets for the Online Discussions, which included the
+topics to be discussed online and how to initiate the two "language threads" on or before
+the relevant deadlines. A copy of the instruction sheet for each Online Discussion is
+included in the JBD at Tab 14.
+
+31.
+
+On February 4, 2013, Mr.
+
+<11 initiated two discussion threads as part of Online
+
+Discussion 1. On March 18, 2013, he initiated three more discussions as part of Online
+Discussion 2.
+32.
+
+Except for some minor and inconsequential changes, the five discussion threads
+initiated by Mr.
+
+Cl are identical to five discussion threads initiated by other students
+
+during the previous year ("Original Discussion Threads"). Copies of all five of Mr.
+
+Cl's
+
+discussion threads and the Original Discussion Threads are included in the JBD at Tab
+
+15.
+33.
+
+On March 25, 2013, Mr.
+
+34.
+
+Mr.
+
+Cl met with Prof. Cheng to discuss the discussion threads.
+
+Cl admits that he knowingly:
+
+9
+(a)
+
+included verbatim and nearly verbatim excerpts from the Original Discussion
+Threads in the discussion threads that he initiated;
+
+(b)
+
+failed to attribute the verbatim and nearly verbatim excerpts from the Original
+Discussion Threads or to indicate in any way that his discussion threads they
+were based on the Original Discussion Threads;
+
+(c)
+
+represented the ideas and work of others as his own;
+
+(d)
+
+did no meaningful academic work on the discussion threads that he subm itted;
+
+(e)
+
+committed plagiarism contrary to section B.l.1(d) of the Code;
+
+(f)
+
+received unauthorized assistance from the Original Discussion Threads; and
+
+(g)
+
+engaged in a form or cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit, contrary to section B.I. 1(b)
+of the Code.
+
+D.
+
+CSC D37H - Charges 6 to 8
+
+35.
+
+In Winter 2013, Mr.
+
+Cl enrolled in CSC 037H - Analysis of Numerical Algorithms for
+
+Computational Mathematics, which was taught by Wayne Enright ("D37"). A copy of the
+course outline in D37 is included in the JBD at Tab 16.
+
+36.
+
+The academic requirements for D37 included an assignment that was worth 10% of the
+final grade in the course ("Assignment 2"). A copy of Assignment 2 is included in the
+JBD at Tab 17.
+
+10
+37.
+
+Prof. Enright prepared a handwritten set of answers and a marking scheme for
+Assignment 2 ("Enright Answers"). A copy of the Enright Answers is included in the JBD
+at Tab 18. Prof. Enright gave a copy of the Enright Answers to Nick Cheng, the teaching
+assistant in D37, so that he could mark the students' submissions in response to
+Assignment 2.
+
+38.
+
+Prof. Enright had used Assignment 2 in a previous year. At that time, he also prepared a
+handwritten set of answers to Assignment 2. He now recalls that he may have circulated
+the set of answers to students in the class to assist them to understand the correct
+answers to the questions. The answer sheet he prepared in that previous years would
+have been essentially identical to the Enright Answers.
+
+39.
+
+On or about February 25, 2013, Mr. Cl submitted his answers to the questions
+contained in Assignment 2
+
+("Cl Assignment''). A copy of the Cl Assignment is included
+
+in the JBD at Tab 19.
+40.
+
+When Mr. Cheng marked the Cl ·Assignment, he noticed that it was very similar to the
+Enright Answers including the symbols used and the diagram that was drawn. Mr.
+Cheng concluded that this similarity was highly unusual and that no other assignment
+was so similar to the Enright Answers.
+
+41.
+
+On March 14, 2013, Mr.
+
+42.
+
+Mr.
+
+Cl met with Prof. Cheng to discuss the matter.
+
+Cl states that he found a copy of Prof. Enright's answer guide from the prior year
+
+posted on the Internet. He admits that he knew he should not have accessed that
+answer guide and that he was not permitted to use it to complete the
+He knew that copying portions of the answer guide into the
+permitted.
+
+Cl Assignment.
+
+Cl Assignment was not
+
+11
+43.
+
+With respect to the
+(a)
+
+Cl Assignment, Mr. ca admits that he knowingly:
+
+included verbatim and nearly verbatim excerpts from the answer sheet prepared
+by Prof. Enright;
+
+(b)
+
+failed to indicate in any way that his Solutions were based on the answer sheet
+prepared by Prof. Enright;
+
+(c)
+
+represented the ideas and work of the course instructor as his own;
+
+(d)
+
+committed plagiarism contrary to section B.1.1 (d) of the Code;
+
+(e)
+
+obtained unauthorized assistance from the answer sheet prepared by Prof.
+Enright; and
+
+(f}
+
+engaged in a form or cheating, academic dishonesty or misconduct, fraud or
+misrepresentation in order to obtain academic credit, contrary to section B.1.1 (b)
+of the Code.
+
+E.
+
+The meeting with the Dean's Designate
+
+44.
+
+On April 17, 2013, Mr.
+
+Cl met with Prof. Irwin, Dean's designate for academic integrity
+at the University of Toronto Scarborough. Mr. Cl admits that Prof. Irwin provided the
+warning that was required to be given to him under the Code.
+
+45.
+
+Cl admitted that he committed the academic offences
+described above. A copy of the letter sent to Mr. Cl by Prof. Irwin on May 8, 2013, is
+During that meeting, Mr.
+
+included in the JBD at Tab 20. Mr.
+
+ca
+
+admits that the letter accurately summarizes what
+
+took place during his meeting with Prof. Irwin.
+
+12
+F.
+
+Acknowledgments
+
+46.
+
+Mr.
+
+Cl acknowledges that:
+
+(a)
+
+the Provost has advised Mr.
+
+Cl of his right to obtain legal counsel and that Mr.
+
+~ has obtained legal advice; and
+
+(b)
+
+he is signing this ASF freely and voluntarily, knowing of the potential
+consequences he faces, and having consulted with legal counsel; and
+
+(c)
+
+that the Provost has made no representations to Mr.
+
+Cl regarding what penalty
+
+the Provost may ask the Tribunal to impose in the circumstances of this case.
+
+Signed on August 23 , 2013
+
+Signed on August J i, 2013
+
+Robert A. Genta
+Assistant Discipline Counsel
+University of Toronto
+
+Doc 937970 v2
+
+APPENDIX B
+
+TH:: UN VERS!TY TRIB UN.-\L
+
+THE UNI ERSITY OF TORONTO
+2-1 ,i{,'
+1,9
+! i ', !) ..) I
+
+THE UNIVERSITY OF TORONTO
+
+. ld -
+
+JOl~JT SUBMISSION ON PENALTY
+r -s ,
+
+~1'
+
+. "er::,
+
+1
+
+g a :;:>.sou' 01 Gra,·~e, -,. a•·adem11.. ,n,s,:;oncLc1 ftt"'C ~,. tr~ Pm,ost "'I · e
+of T .,,oi'to 'tr., ·Fr ,c-:,t 1 .,nnE:, the COCi:! oi Se avio1i,- (ll) A ·a Je-f) ,~
+.,::• · ,s '
+
+• . '
+■
+
+,= :,r ,;-i.; p:1 :;c, -· u tt'.e pr,,.-a,~, .t ase of th, 11:'.a , ::; the 0 rc •o,,
+0
+
+.::■ 'la ·1:: pr,
+
+a -'C ,n.c; Jo nt SJn•-r:.1ss.o
+
+11 ?"n:i ty,
+
+1SP , ,,, 1.
+
+cC•,"d-;.,_,,era'acc~; ::e :-. ct;:::;JS;-, T eP;·o·.JOS'a,.J '·ii •.::t agre-:- hi1
+
+'ld'c
+
+ti., /;:-V die, CP. ::I. !':,
+
+THE UNl\lERS!TV TRIBUNAL
+UNIVERSITY OF TORONTO
+
+ced by
+
+I\ - \)
+
+.
+
+y. ................,.··
+
+Q:f~J.f:
+
+the •••••••\..I.{)_1_ •••
+this
+
+~~ day of ~Q ptQ.J\b0,20 .•l].
+
+s~r d r.,H
+
+......... !.0!)./?!-...... ~.... .
+
+-,
+
+:n ;·\r: ;er .~~(;": ')
+
+-:;c,kJ~te·:•·
+
+he ancriied
+
+1r
+
+rvl.,·\T ,\:1 ?, v~1hich
+
+•tvas. £augi·n by Prof
+
+\:1i<)"':8B1
+
+t/;r ·2■ a<frn it1&d 1r:~::;~ he possessed an unautrtonzeo akf during the firtal
+
+13\\::;:·n n :iu;, coursst t.Nhi::h ~!-:'~is \V(:!'th 45'-Y~. of the· final grade
+1
+
+The [:,e2·-1ts 0Esigr18te
+
+~c1 ,;>./:t. ;:-:,t::n·1<(;. ~r1tegnt\1 .1:-nr.lO'>,~d a g; •~Ot} of zero on ~he axan1incth.Jn. Th0 p~rth;'!.s r12rve
+c.it;;c'7.:,,j a "ri:-iv ,-rf· lh8 dl'-'C,sio:1 :E:11.,~r frnn, !i1e Oe8n's Dr~s,gn;:,te. d,~ted ,June 16,
+
+t1.11:-
+
+c:a
+
+t:e irnrt.~dia-tety ~u::,pen(Jed fror-1 (he Unv.1ersi'lV frocn H~~ d<.1 tB 0;
+
+li"l& ·i·r:bun~:1l's rFder uni!! i~ugust ·30, ~~018. and that a correspc:1c:ir.g
+notai.ion be pizc&d on ~,1s t.tC3dsrnic record and tr3n~:.c6p1 for~) yf';:;:J:-s.
+
+"'• ,· f,./ ;to on S;;;~,ternti-;
+
+I7
+
+20U.
+
+-~
+Rooen A Centa
+As$islanl Disi.;ip:ir)e Cv1.msd
+Un1vers1\y nf Tr>r00tc
+r, ... ~,.; ·:"
+
+-
+
+APPENDIX C
+
+September 18, 2013
+Dear Panel Members,
+T hank you for allowing me to present to you some of the health troubles that I
+have been going through over the past year. I submit this statement to you in
+support of the Joint Submission on Penalty that will be presented to you at my
+sanction hearing on September 18, 2013, by Mr. Genta and Ms. Muise.
+Towards the middle of the Fall 2012 Term I began to suffer from symptoms of
+stomach and throat pain. My condition slowly worsened , and I found it very
+difficult to concentrate and felt that my studies were suffering as a result. I
+becam_e incredibly overwhelmed and concerned about my ability to maintain my
+grades, and as a result, I made some terrible choices about how to go about my
+academic work.
+I was unable to find the time to go to a medical specialist until after my final
+exams in the spring of 2013, as I was trying, albeit unsuccessfully, to focus on
+my studies. My condition was finally diagnosed on July 15, 2013 as chronic
+gastritis with a bacterial infection.
+I have included with this statement a copy of a letter from my family physician,
+Dr. Chongen Liu, which confirms my diagnosis, and my symptoms. Dr. Liu
+confirms that I had been suffering from these symptoms for at least several
+months, and states that the symptoms of my undiagnosed condition affected my
+concentration and ability to focus on my studies.
+Dr. Liu's letter also refers to the likelihood that I have anxiety and/or depression,
+and that my mental health is currently under assessment. I believe that it is likely
+that I have been dealing with some mental health issues for some time, and that
+this could also have contributed to my difficulties in my studies.
+I know that my struggles with my health do not excuse my behaviour over the
+past year, but I hope this information might help to explain why I made the poor
+choices that I did.
+Yours truly,
+
+T!HE UNIVERSITY TRIBUNAL
+UN~\fERS~TY OF TORONTO
+
+Exnt ,
+the •••• •••
+
+this
+
+V..0.f.kJJ{).~§!~t;(...................
+
+ll day of tSe ptw1bQf. 20.1.-1.•
+.......ca!.1.e9.J...Uiu..~.
+
+Dr. Chongeu Liu_,Ml), fanJU~-physichi.n·
+205~2330 Kenne9y Road,, ScarbQ.roug.Ji.QN: MlT 206
+.Phque: 4 L.6-609•0000- Fax~ 416-609-0001
+Au·gust 29, 1013
+TO 'yv'hbin fl May Concern~
+'
+.
+tam ·a f~inily p:&ysi~fo:n iirSci.Irbo:rough,Wheii.i$ ~ me:ltl·~~ ~·9f·GP$.():'· and ·
+CCFf, _.
+.···
+1
+
+tllilR8il
+
+Mr..
+r,i1s been a patients of t1iy •gra~!ic;e !iiilce .N,oyc~b~'r, 2Qll/ ff~
+had symptoms ·of hea.r.lbUJO, tbma~ gisco,mfort .fJ lld ~toinach p,,iid
+for:At '
+lel1sfseve_ral _months. He h~¢beeo.sent to endoscop,y. and seen EN1''
+specialist-to eventu~ly c1JJ,1{1J:1p-:diagnosis·of·cli ro1lic gastritis wilh H. Pylori
+bncfcria. infectj~h.
+.
+
+c*~
+
+This condition ga~e b.iin ·tfie h_~~utoum·; .st9m:j.ch pil.i~;_ lJjroat tliscomf~r~ etc.
+affecling liis. conc~ntTatioil, eftetgY:AA~-boil,ity t9 (oots Oil :s t~~Y-·.
+l{e- also had Tuberculosis:in•20-i0. And he is-probably has anxiety ~ud/qt\
+
+dcp)'ession:."t present; whtcn: is-.-under·assessment.
+
+Yours ttuly,
+
+,,-,,:/?
+_,..,. /
+
+~- -·
+
+"''
+
+,J'
+
+Dr. Chongcn Liu, .wlD
+
+

@@ -1,0 +1,674 @@
+Case No. 1505
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on May 4, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as am. S.O.
+1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and Q
+
+C
+
+REASONS FOR DECISION
+Hearing Date: September 12, 2023, via Zoom
+Members of the Panel:
+Douglas F. Harrison, Chair
+Dr. Vivienne Luk, Faculty Panel Member
+Matthaeus Ware, Student Panel Member
+Appearances:
+William Webb, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Marcy Segal, Counsel for Q C Segal Law Professional Corporation
+Hearing Secretary:
+Samanthe Huang, Coordinator & Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances
+In Attendance:
+Q C
+
+1
+
+Charges and Hearing
+
+1.
+
+The Trial Division of the Tribunal held a hearing by videoconference on September 12,
+
+2023, to address the charges brought by the University of Toronto (the “University”) against
+Q
+
+(the “Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”).
+
+C
+
+The Student attended the hearing, represented by counsel, Ms. Marcy Segal. The charges against
+the student were set out in a letter to the Student dated May 4, 2023, as follows:
+
+1.
+
+On or about December 2, 2022, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in connection with term test 2 in ECO220Y1Y,
+contrary to section B.I.1(b) of the Code.
+
+2.
+
+On or about December 2, 2022, you knowingly represented as your own an idea or
+expression of an idea or work of another in connection with term test 2 in ECO220Y1Y,
+contrary to section B.I.1(d) of the Code.
+
+3.
+
+On or about December 2, 2022, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind in connection
+with term test 2 in ECO220Y1Y.
+
+4.
+
+On or about February 10, 2023, you knowingly used or possessed an unauthorized aid or
+aids or obtained unauthorized assistance in connection with term test 3 in ECO220Y1Y,
+contrary to section B.I.1(b) of the Code.
+
+5.
+
+On or about February 10, 2023, you knowingly represented as your own an idea or
+expression of an idea or work of another in connection with term test 3 in ECO220Y1Y,
+contrary to section B.I.1(d) of the Code.
+
+6.
+
+On or about February 10, 2023, you knowingly engaged in a form of cheating, academic
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code
+in order to obtain academic credit or other academic advantage of any kind in connection
+with term test 3 in ECO220Y1Y.
+
+2
+
+Particulars of the offences charged are as follows:
+
+1.
+
+You were a student enrolled at the University of Toronto, Faculty of Arts and Science at
+all material times.
+
+2.
+
+In Fall 2022, you enrolled in ECO220Y1Y: Introduction to Data Analysis and Applied
+Econometrics, which was taught by Professor Jennifer Murdock.
+
+3.
+
+Students in the course were required to write four in-person term tests, which were each
+worth 14% of their final grade. Students were prohibited from using aids or obtaining
+assistance on the term tests.
+
+4.
+
+On or about December 2, 2022, you submitted term test 2.
+
+5.
+
+On or about February 10, 2023, you submitted term test 3.
+
+6.
+
+During term tests 2 and 3, you used:
+a. A camera and/or other electronic device(s) to transmit video footage and/or images of
+the term tests to another individual or individuals who assisted you with the term
+tests; and/or
+b. An earpiece and/or other electronic device(s) to transmit and/or receive audio from
+another individual or individuals who assisted you with the term tests.
+
+7.
+
+You knew or ought to have known that, in connection with term tests 2 and 3:
+a. You were not permitted to use a camera, an earpiece, and/or other electronic
+device(s); and/or
+b. You were not permitted to obtain assistance from others.
+
+8.
+
+You submitted term tests 2 and 3:
+a. To obtain academic credit;
+b. Knowing that it contained ideas, expressions of ideas or work that were not your
+own, but were the ideas, expressions of ideas or work of others; and
+c. Knowing that you did not properly reference the ideas, expressions of ideas or work
+
+3
+
+that you drew from others.
+
+9.
+
+You knowingly submitted or intended to submit term tests 2 and 3 with the intention that
+the University rely on it as containing your own ideas or work in considering the
+appropriate academic credit to be assigned to your work.
+
+Facts
+2.
+
+The parties filed an Agreed Statement of Facts (“ASF”) with the Panel. The Student
+
+acknowledged that she had received a copy of the charges, waived the reading of them, and pled
+guilty to all charges. The facts agreed to are as follows.
+3.
+
+The Student was a student at the University of Toronto at all material times.
+
+4.
+
+In Fall 2022, the Student enrolled in ECO220Y1Y: Introduction to Data Analysis and
+
+Applied Econometrics, which was taught by Professor Jennifer Murdock. Students in the course
+were required to write four in-person term tests, each worth 14% of their final grade.
+5.
+
+Students were required to attend workshops every week. The workshops gave students a
+
+chance to practice their skills, collaborate with others, and work with mini case studies. Students
+were expected to be active in solving questions, writing, and interacting with their classmates
+and the instructional team. Students’ preparation and regular and active participation counted
+towards their participation mark.
+6.
+
+The Student attended 2 out of 12 workshops in Fall 2022.
+
+7.
+
+Term test 1 was administered in person on October 28, 2022.
+
+8.
+
+The Student wrote term test 1 on October 28, 2022. The Student received a final grade of
+
+24.2% (23/95) on term test 1 because she wrote many incorrect and incomplete answers.
+9.
+
+Term test 2 was administered in person on December 2, 2022.
+
+4
+
+10.
+
+The Student wrote term test 2 on December 2, 2022. The Student scored 84.61% (66/78)
+
+on questions 1-5(a), but she scored 0% (0/17) on questions 5(b)-(d) because she wrote nothing
+for these questions.
+11.
+
+Professor Murdock tracked ECO220Y1Y students’ academic progress during the course
+
+on a scatterplot. Professor Murdock reviewed the scatterplot and noticed that the Student had
+scored significantly better on term test 2 than term test 1. Professor Murdock found this unusual
+because no other student in the course had improved as much as the Student, and, to the best of
+Professor Murdock’s recollection, she had not seen a student improve to this degree in her nearly
+two decades of teaching.
+12.
+
+Professor Murdock reviewed the Student’s academic progress and noticed that the
+
+Student only attended 2 out of 12 workshops in Fall 2022. Professor Murdock also noticed that
+the Student’s term test 2 exhibited a strange pattern in that the Student wrote several excellent
+answers for questions 1-5(a), but she wrote nothing for questions 5(b)-(d).
+13.
+
+Professor Murdock had heard about a new type of academic misconduct in which
+
+students were livestreaming their tests by using a miniature camera and earpiece to get answers
+in real time from paid tutors. Professor Murdock suspected that the Student used a miniature
+camera and earpiece on term test 2 based on the Student’s unusual academic progress and answer
+patterns.
+14.
+
+In the lead-up to term test 3, the Student attended 0 out of 5 workshops.
+
+15.
+
+Term test 3 was administered in person on February 10, 2023. Professor Murdock put a
+
+mark next to the Student’s name on the sign-in sheet and instructed the head teaching assistant,
+Aly Somani, to alert her when the Student had been signed in.
+16.
+
+The Student wrote term test 3 on February 10, 2023.
+
+5
+
+17.
+
+During term test 3, Mr. Somani noticed that the Student was holding up her test paper
+
+vertically, and he asked the Student to stop. Later, Mr. Somani noticed the Student holding up
+her paper again, and he informed Professor Murdock.
+18.
+
+Professor Murdock and Mr. Somani walked over to the Student to investigate.
+
+19.
+
+Professor Murdock asked to see the Student’s ears, which were blocked by her hair. The
+
+Student moved her hair. Professor Murdock saw an earpiece, and Professor Murdock took
+pictures of the earpiece.
+20.
+
+Professor Murdock asked to see the Student’s cellphone. The Student took her cellphone
+
+out of her backpack and Professor Murdock saw that it was on. Professor Murdock then asked
+the Student to turn off her cellphone.
+21.
+
+Professor Murdock asked the Student for the earpieces. The Student said she needed a
+
+tool to remove the earpieces. The Student took a small metal tool out of her backpack and
+removed two earpieces. Professor Murdock confiscated the earpieces and the metal tool and took
+a picture of them.
+22.
+
+Professor Murdock saw that the Student’s shirt had large buttons. Professor Murdock did
+
+not try to confiscate a camera and she did not take a close-up picture of the Student’s chest area.
+Mr. Somani saw that one of the buttons on the Student’s shirt looked different from the other
+buttons.
+23.
+
+Professor Murdock prepared an academic integrity report that alleged the Student had
+
+committed academic offences on term test 2 and term test 3. This report contains the scatterplot
+of student grades and pictures of the student’s earpieces and small metal tool.
+24.
+
+On February 14, 2023, Professor Murdock met with the Student to discuss the allegations
+
+that she committed an academic offence in connection with term test 2 and term test 3 in
+ECO220Y1Y.
+
+6
+
+25.
+
+On March 23, 2023, Professor and Dean’s Designate Walid Saleh met with the Student to
+
+discuss the academic misconduct allegations about term test 2 and term test 3 in ECO220Y1Y.
+Christina Di Matteo, an academic integrity specialist at the University, and Kerri Huffan, a
+Registrar, attended the meeting as well. At the start of the meeting, Professor Saleh gave the
+Student the caution that is required by the Code.
+26.
+
+During the meeting, the Student stated that she used an earpiece to obtain help from her
+
+boyfriend on term test 2 and term test 3. The Student stated that she purchased the earpiece from
+an online shopping platform. The Student stated that she experienced a lot of pressure because
+ECO220Y1Y was a compulsory course and she had already failed it once before. The Student
+stated that she regretted her actions and that she had learned a lesson.
+27.
+
+The Student admits that she used a miniature camera to livestream video footage of the
+
+questions on term test 2 and term test 3 to a tutor whom she paid to solve questions on the term
+tests. The Student admits that the paid tutor told her answers to questions on term test 2 and term
+test 3 by transmitting audio to earpieces that the Student wore during the term tests. The Student
+admits that she used the paid tutor’s answers on term test 2 and term test 3, and that she
+performed no meaningful academic work on these term tests.
+28.
+
+The Student admits that the claims she made to Professor Saleh about obtaining help
+
+from her boyfriend on term test 2 and term test 3 were false. The paid tutor told the Student that
+she should tell the University of Toronto this false version of events.
+29.
+
+The student admits that she knowingly used or possessed an unauthorized aid or aids or
+
+obtained unauthorized assistance in connection with term test 2 and term test 3 in ECO220Y1Y,
+contrary to section B.I.1(b) of the Code.
+30.
+
+The student admits that she knowingly represented as her own an idea or expression of an
+
+idea or work of another in connection with term test 2 and term test 3 in ECO220Y1Y, contrary
+to section B.I.1(d) of the Code.
+
+7
+
+31.
+
+The student admits that she knowingly engaged in a form of cheating, academic
+
+dishonesty or misconduct, fraud or misrepresentation not otherwise described in the Code in
+order to obtain academic credit or other academic advantage of any kind in connection with term
+test 2 and term test 3 in ECO220Y1Y, contrary to section B.I.3(b) of the Code.
+32.
+
+The Student acknowledged that she signed the ASF freely and voluntarily, knowing of
+
+the potential consequences she would face, and did so with the advice of counsel.
+33.
+
+The Student acknowledged that the Provost made no representations to her regarding
+
+what penalty the Provost would seek in this proceeding.
+Finding on Charges
+34.
+
+On the basis of the ASF, the submissions of counsel, and the Student’s admissions, the
+
+Tribunal is satisfied on a balance of probabilities that the University has proven that the elements
+of charges 1 and 4. The Tribunal therefore accepted the Student’s guilty plea with respect to
+these two charges and found her guilty of two counts of obtaining unauthorized assistance,
+contrary to section B.I.1(b) of the Code.
+35.
+
+Upon these findings, Counsel for the University advised that the Provost was
+
+withdrawing charges 2, 3, 5 and 6 as set out in paragraph 1, above.
+Sanction
+36.
+
+For the purpose of the sanction phase of the hearing, the Provost and the Student prepared
+
+a joint submission on penalty (“JSP”).
+37.
+
+The Provost and the Student submit that, in all the circumstances of the case, the
+
+University Tribunal should impose the following sanctions on the Student:
+a.
+
+A final grade of zero in ECO220Y1 in Fall 2022 and Winter 2023;
+
+8
+
+b.
+
+A suspension from the University for five years from the date of the Tribunal’s
+
+order; and
+c.
+
+A notation of the offence on the Student’s academic record and transcript for six
+
+years from the date of the Tribunal’s order.
+38.
+
+The parties also agree that this case shall be reported to the Provost for publication of a
+
+notice of the Tribunal’s decision and the sanction imposed, with the Student’s name withheld.
+39.
+
+This request was in part based on factors laid out, sanctions handed down, by the
+
+Tribunal in previous cases, and the Provost’s Guidance on Sanctions (but which are not binding
+on this Tribunal).
+40.
+
+The Student acknowledged that the Provost had advised her of her right to obtain legal
+
+counsel and that she has obtained that advice.
+41.
+
+The Student acknowledged that she signed the JSP freely and voluntarily, knowing of the
+
+potential consequences she faced and knowing that the Tribunal was not bound by the JSP and
+has the discretion to impose and/or recommend a different sanction, including one that is more
+severe than the JSP recommends.
+42.
+
+Section C.II.(B) of the Code sets out that the Tribunal may impose a range of sanctions
+
+on a student who has been convicted under the Code, ranging from an oral reprimand to a fiveyear suspension or, more severely, a recommendation to the President to recommend to
+Governing Council of expulsion or to Governing Council of cancellation of a degree. The
+Tribunal may also order that any sanction it imposes be recorded on the student’s academic
+record and transcript for a period of time and may also report any case to the Provost, who may
+publish a notice of the decision and sanction in the University newspapers, with the name of the
+student withheld.
+43.
+
+The Code also contains, in Appendix “C”, the Provost’s Guidance on Sanctions. Section
+
+B.8 provides, “absent exceptional circumstances, the Provost will request that the Tribunal: …
+9
+
+(b) suspend a student for two years for any offence involving academic dishonesty, where a
+student has not committed any prior offences; … (e) recommend that a student be expelled
+where that student has: … (ii) … had a student personate that student in a test , … or (iv) has
+submitted academic work that the student has purchased in whole or in part, unless that student
+has demonstrated through her or his cooperation, or otherwise, that a lesser penalty is
+appropriate.”
+44.
+
+The sanction in a particular case is to be determined based on the circumstances of that
+
+case. However, previous decisions of the Discipline Appeals Board and this Tribunal have found
+that students must be treated fairly and equitably when being sanctioned, and that there must be a
+general consistency in the approach of the Tribunal generally (see University of Toronto v. B.S.
+(Case No. 697, January 17, 2014 (Sanction)), at paragraphs 8-11).
+45.
+
+As noted by the University’s counsel, University of Toronto and Mr. C (Case No.
+
+1976/77-3, November 5, 1976) (“Mr. C”) is a foundational decision for this Tribunal insofar as
+its reasons for decision set out factors that a tribunal should consider when imposing a sanction:
+
+46.
+
+a.
+
+The character of the person charged;
+
+b.
+
+The likelihood of a repetition of the offence;
+
+c.
+
+The nature of the offence committed;
+
+d.
+
+Any extenuating circumstances surrounding the commission of the offence;
+
+e.
+
+The detriment to the University occasioned by the offence; and
+
+f.
+
+The need to deter others from committing a similar offence.
+
+With respect to her character, the Student admitted the offence and demonstrated
+
+remorse. While she initially lied about who was providing her with the answers during the exam,
+she quickly admitted that it was a paid tutor and she otherwise fully cooperated with the
+University after being presented with the charges. She told the Panel that she deeply regretted
+what she had done, that she knew it was bad thing to do and took responsibility for what she did.
+
+10
+
+She said she deserved the sanction that was being submitted jointly by the University and by her.
+She said she hoped she would have a chance to correct her errors and that what happened here
+was a big lesson for her.
+47.
+
+By these statements and by her cooperation, the Tribunal concluded that she has
+
+demonstrated insight into her actions and that there is little to no likelihood of a repetition of the
+offence.
+48.
+
+With respect to the nature of the offence, counsel for the University stated that this was
+
+the first case brought to the Tribunal that involved a student using a real-time camera and
+earpieces during a test or exam, but it will not be the last. To undertake this required deliberate
+planning and subterfuge, as the camera appears to have been disguised as a button on the
+Student’s shirt and the earpieces required a special tool to install and remove them. In addition,
+this scheme had a commercial element to it, as it involved the Student paying someone for the
+unauthorized assistance she received.
+49.
+
+With respect to the detriment to the University and the need for deterrence, obtaining
+
+unauthorized assistance on a test, generally, is an extremely serious offence that harms the
+institution and the academic process. It is a serious breach of academic integrity and can be seen
+as an attempt to defraud the University. Obtaining real-time assistance using a hidden camera
+and earpieces is taking things to a new level, one that has only been possible in very recent years
+as technology once reserved to spy novels has become readily available to anyone. The fact that
+the Student was caught in this instance is a testament to Professor Murdock’s vigilance in
+monitoring her students’ progress and spotting anomalies.
+50.
+
+The associated penalty for what occurred here must act as general deterrent against this
+
+kind of surreptitious behaviour. Accordingly, it is important to send a strong message to the
+community that this will not be tolerated. As was noted by this Tribunal in University of Toronto
+v. T.J. (Case No. 1102, November 5, 2021), at para. 11(e), with respect to the need to deter
+others from committing similar offences:
+
+11
+
+[C]heating on exams must always be denounced and deterred in order to protect the
+academic integrity of the University. In today’s online world, it is all too easy for
+students to find new outlets for unauthorized assistance. Students must understand that
+this kind of misconduct will have serious repercussions, so that they will be dissuaded
+from the temptation to cheat when under pressure.
+
+51.
+
+Given the novelty of the scheme employed by the Student, counsel for the University told
+
+the Panel that there are no similar prior cases to point to, to provide direct guidance on what kind
+of penalty is appropriate. However, he submitted that this case was akin to one of personation,
+where another person completes all the academic work for a student, or to one of purchasing an
+academic work and he directed the Panel to a number of previous decisions of the University
+Tribunal involving those circumstances.
+52.
+
+In University of Toronto v. J.O. (Case No. 617, August 25, 2011), the student was found
+
+to have hired and agreed to pay someone else to write an in-person term test in a first-year Math
+course in the fall of 2010. The student, who was from South Korea, had placed ads on the
+Craigslist, Kijiji and Telecommute Anywhere websites, the latter of which said, in part,
+“Looking for an asian [sic] guy who is good at math … to help write 3 tests and a final … I will
+pay you $1000 and bonus” (the Craigslist and Kijiji ads were similar). He had begun placing
+these ads on the second day of classes that fall. Representatives from the Mathematics
+department saw these ads and interviewed the student about them. He convinced them that he
+was looking for a private tutor who could communicate well with him “to help get him through
+the course”. He had taken the course twice before and dropped it after having poor results.
+Exactly one day after the meeting, one of the professors who had attended the meeting caught
+someone personating the student during a term test. The student was expelled, despite (a) having
+had no prior academic offences, (b) having a history of depression; and (c) apologizing for his
+actions. The Tribunal concluded that expulsion was warranted given the student’s actions were
+premediated, involved a commercial transaction, and, most importantly, he had lied to the
+departmental representatives. It was noted that following that meeting with the departmental
+representatives, he could have taken a different course of action, but instead proceeded with his
+plan to have the person he hired take the test. The Tribunal felt that a “forceful message that such
+conduct will not be tolerated is necessary to promote general deterrence.” It concluded that
+
+12
+
+“Respect for the University as an academic institution and respect for the integrity of the
+academic process” required expulsion.
+53.
+
+Expulsion was also the sanction imposed by the Tribunal in University of Toronto v. Z.Z.
+
+(Case No. 862, August 23, 2016). In this case, the student was found to have submitted an essay
+in a first-year East Asian Studies course that had been custom written and likely paid for. The
+student did not participate in the hearing. The Tribunal, relying in part on the decision of the
+Appeal Board in University of Toronto v. S.C.H., N.R.H. and M.K.K. (Case No. 596, 597, 598,
+November 23, 2011), found that the starting point for their analysis of the appropriate sanction in
+such a case was expulsion. It noted, at para. 31, that when a student purchases an essay, the
+student is “acting intentionally and deliberately and in a very premediated way to subvert the
+academic process.” In order to send a strong message of deterrence, the Tribunal held, at para.
+32, it would only be in cases “of unusual circumstances of mitigation or other extraordinary
+situation that would provide some excuse or explanation where the penalty would not be
+expulsion.”
+54.
+
+In University of Toronto v. H.M. (Case No. 1356, August 31, 2022), a student was found
+
+to have paid someone to write a term test in one course and paid for answers to an on-line final
+exam in another. The Tribunal ordered that the student receive grades of zero in both courses and
+a five-year suspension. A number of mitigating factors were taken into account in determining
+that a suspension rather than outright expulsion was the appropriate sanction: the student (a) had
+no prior academic offences; (b) admitted to the offences; (c) was in first year and struggling to
+adapt to a new environment; (d) was experiencing family difficulties around the time of the
+offences; and (e) was isolated at home in China during the school year because of the pandemic.
+55.
+
+A more recent case of paid personation is University of Toronto v. H.Z. (Case No. 1475,
+
+July 17, 2023). In this case, the student paid a tutoring company to have someone write an online final exam for her in an accounting course. The student was caught after the individual hired
+to write the test revealed the scheme to the professor who taught the course during the exam,
+because she felt guilty and felt her actions were unfair to honest students. When confronted, the
+student admitted that she had paid someone to write the exam for her, and she was very
+remorseful. The University did not seek to expel the student, who had completed all of the
+13
+
+courses required for her program by the time of the hearing. The Tribunal suspended the student
+for five years along with a zero grade in the course and a notation on her record until graduation.
+56.
+
+In arriving at the sanction, the Tribunal in H.Z. cited four prior decisions involving
+
+students convicted for paying to have someone personate them in a test or exam: University of
+Toronto v. S.J. (Case No. 1423, January 3, 2023), University of Toronto v. F.Z. (Case No. 1243,
+December 20, 2022), University of Toronto v. P.L. (Case No. 1211, September 23, 2021) and
+University of Toronto v. M.A. (Case No. 837, August 31, 2016). In each of those cases, the
+student had had no prior academic offences and entered into an agreed statement of facts with the
+Provost. They all received a zero grade in the course and a five-year suspension.
+57.
+
+In the present case, the Student has been found to have engaged in an extremely serious
+
+breach of academic integrity. What occurred is among the worst things a student could do. It is
+deserving of a harsh sanction. Her actions were completely premediated and deliberate. She went
+to a great deal of trouble and planning to conceal a camera in a button and to wear earpieces that
+had to be installed and removed with a special tool, which enabled her to show the test to the
+tutor and to receive the answers verbally in the exam room.
+58.
+
+However, she has no prior record of academic misconduct, she obtained legal advice, she
+
+has demonstrated remorse, she has apologized, she has shown insight into what has occurred,
+and she has cooperated with the University. These are legitimate factors of mitigation, and she
+deserves credit for that. It has been demonstrated to the Tribunal that a lesser penalty than
+expulsion is appropriate. Accordingly, in light of the foregoing, including a review of the case
+law, the Tribunal concludes that the sanction requested by the Provost and agreed to by the
+Student, which effectively stops just short of expulsion, is reasonable and appropriate in the
+circumstances and is consistent with prior decisions of this Tribunal.
+59.
+
+The Tribunal therefore orders that the following sanctions be imposed on the Student:
+a.
+
+a final grade of zero in ECO220Y1 in Fall 2022 and Winter 2023;
+
+b.
+
+a suspension from the University for five years from September 12, 2023; and
+
+14
+
+c.
+
+a notation of this sanction on the Student’s academic record and transcript for six
+
+years from September 12, 2023 (which is the date of the order).
+60.
+
+In addition, the Tribunal orders that this case be reported to the Provost for publication of
+
+a notice of the decision of the Tribunal and the sanctions imposed, with the name of the Student
+withheld.
+
+Dated at Toronto, this 24th day of November, 2023.
+Original signed by:
+___________________________________
+Douglas Harrison, Chair
+On behalf of the Panel
+
+15
+
+

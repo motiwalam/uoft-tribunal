@@ -1,0 +1,549 @@
+Case No.: 904
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on December 5, 2016
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+- and C
+
+M
+
+J
+
+- -■
+
+REASONS FOR DECISION
+Hearing Dates: May 24, 2017 and July 10, 2017
+Members of the Panel:
+Ms. Sara Zborovski, Barrister and Solicitor, Chair
+Dr. Chris Koenig-Woodyard, Faculty Panel Member
+Ms. Ashley Barnes, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland, Barristers
+Professor Eleanor Irwin, Dean’s Designate, University of Toronto Scarborough
+Mr. Terry Johnston, Associate Director, Office of Convocation (July 10, 2017)
+In Attendance:
+Mr. Christopher Lang, Director, Office of the Appeals, Discipline and Faculty Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+Ms. Larissa Leong, Articling Student, Norton Rose Fulbright (May 24, 2017)
+Not in Attendance:
+Mr. C■ M
+J
+
+••
+
+2
+
+1.
+
+This panel of the University Tribunal held a hearing on May 24, 2017 and July 10,
+
+2017 to consider the charges brought by the University of Toronto (the “University”) against
+M
+J (the “Student”) under the Code of Behaviour on Academic Matters, 1995
+■■
+I
+
+Mr. C
+
+(the “Code”).
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 1:45 on May 24th 2017.
+
+At that time,
+
+Discipline Counsel advised that neither the Student nor a representative of the Student had
+responded to the Notice of Hearing.
+3.
+
+Discipline Counsel made submissions on proceeding with the hearing in the absence
+
+of the Student. She advised the Tribunal that the following attempts had been made to
+provide notice of the charges and hearing to the Student:
+i.
+
+On September 1, 2016, the Office of the Dean & Vice-Principal
+Academic sent a letter to the Student advising of an allegation of a
+possible academic offence, and requesting that the Student arrange
+an appointment to discuss the matter at his earliest convenience.
+Follow-up correspondence was sent again on September 23rd and
+October 18th.
+
+ii.
+
+On December 5, 2016, the Office of the Vice-Provost, Faculty and
+Academic Life served the charges on the Student by email to the two
+email addresses that the Student had provided in the University of
+Toronto Repository of Student Information (“ROSI”). One was a yahoo
+account, and the other the Student’s utoronto account.
+
+iii.
+
+On December 6, 2016, the Office of Appeals, Discipline and Faculty
+Grievances, University of Toronto served the Student with a letter
+regarding the charges filed against him, together with copies of the
+
+3
+
+charges, the Code of Behaviour on Academic Matters, the Rules of
+Practice and Procedure and a pamphlet for Downtown Legal Services
+by email to his yahoo and utoronto email accounts. These documents
+were also sent twice by courier to the mailing address in the Student’s
+ROSI account.
+
+The Office received a “bounce back” message from
+
+the yahoo account indicating that the email could not be delivered. No
+“bounce back” message was received from the Student’s utoronto
+account.
+
+The courier packages were returned to the Office as
+
+undelivered with a notation that it was the “wrong address”.
+iv.
+
+On
+
+January
+
+24,
+
+2017
+
+Discipline
+
+Counsel
+
+sent
+
+additional
+
+correspondence by email (including another copy of the charges) to
+the Student’s two email addresses in ROSI and by courier to the
+mailing address in the Student’s ROSI account. Discipline Counsel
+received a “bounce back” from the yahoo account indicating that the
+email could not be delivered.
+
+No “bounce back” message was
+
+received from the Student’s utoronto account. The courier package
+was
+
+subsequently returned to Discipline Counsel’s
+
+office as
+
+undelivered.
+v.
+
+Discipline Counsel also considered that the Student’s ROSI account
+contained a “permanent address” (different from the one to which the
+courier packages referred to above were sent).
+
+This permanent
+
+address was incomplete (it did not provide a street name) and when
+Discipline Counsel searched the included postal code on the Canada
+Post website, the site indicated that “the postal code cannot be found”.
+vi.
+
+Discipline Counsel sent additional emails to the Student’s yahoo and
+utoronto email addresses on January 3, 2017, March 27, 2017 and
+April 5, 2017. “Bounce back” messages were received from the yahoo
+account indicating that each of the messages could not be delivered.
+
+4
+
+vii.
+
+On April 5, 2017, the Office of Appeals, Discipline and Faculty
+Grievances, University of Toronto served the Student with the Notice
+of Hearing, together with a copy of the letter of December 6, 2016 and
+enclosures (which included the charges) by email to the Student’s
+yahoo and utoronto accounts. A “bounce back” message was received
+from the yahoo account indicating that the message could not be
+delivered.
+
+viii.
+
+On April 6, 2017, Discipline Counsel contacted Mike Wiseman, Acting
+Director, Information Security, Information Technology Services at the
+University asking Mr. Wiseman to advise her of the last date on which
+someone accessed the Student’s utoronto account and if the account
+was currently forwarded to another email address. On April 10, 2017,
+Mr. Wiseman advised that the Student’s utoronto account was
+forwarded to a hotmail account as of December 1, 2005 and as a
+result, there would be no mail in the Student’s utoronto account.
+
+ix.
+
+On April 7, 2017, Discipline Counsel attempted to contact the Student
+by calling the telephone number in his ROSI account.
+
+No one
+
+answered the call and a message indicated that the corresponding
+voicemail had not been initiated. Discipline Counsel called again on
+April 11th and was greeted by a voicemail greeting that said “you have
+reached” followed by a beep. Discipline Counsel left a message
+requesting a return phone call.
+
+Repeat calls were made and
+
+voicemails left on April 12th and May 19th.
+x.
+
+On May 16, 2017, Discipline Counsel sent an email to the Student at
+his utoronto and hotmail accounts attaching another copy of the
+Charges and the Notice of Hearing. No bounce back message was
+received from either of these accounts in response to Discipline
+Counsel’s email.
+
+5
+
+xi.
+
+On May 18, 2017, Discipline Counsel sent an email to Meredith
+Williams, the individual from the Kreller Business Information Group
+(“Kreller”) who first contacted the University regarding the Student.
+Discipline Counsel advised that the University had been trying to
+contact the Student and asked for his current contact information. As
+of the May 24th hearing date, Discipline Counsel had not received a
+response from Kreller.
+
+xii.
+
+On May 18, 2017, Discipline Counsel also sent a courier package to
+an address in Manila which was included on a consent signed by the
+Student and provided to Kreller (which was provided to the University
+with the original request for confirmation that the Student had obtained
+the indicated degree). On May 23, 2017, Discipline Counsel received
+confirmation that the package ad been successfully delivered on May
+22nd.
+
+4.
+
+As of the date of the May 24th hearing date, the Student had not responded to any of
+
+the above-noted correspondence.
+5.
+
+In light of the very recent attempt to provide notice to the Student at the address in
+
+Manila, the Tribunal adjourned the hearing to July 10th to provide additional time for the
+Student to respond to notice of the hearing.
+6.
+
+At the hearing on July 10th, Discipline Counsel advised of the following additional
+
+attempts which had been made to contact the Student to advise of the new hearing date:
+i.
+
+Discipline Counsel conducted a wide variety of internet searches to
+determine if there were additional methods for getting in contact with
+the Student. None of these resulted in a reliable means of contacting
+the Student.
+
+6
+
+ii.
+
+Additional attempts were made to contact Kreller but these did not
+result in the receipt of any additional information regarding the
+Student, including any further contact information for him.
+
+7.
+
+Pursuant to sections 6 and 7 of the Statutory Powers Procedure Act (the “Act”) and
+
+Rule 17 of the University of Toronto Rules of Practice and Procedure (the “Rules”), where
+reasonable notice of an oral hearing has been given to a party in accordance with the Act
+and the party does not attend the hearing, the Tribunal may proceed in the absence of the
+party and the party is not entitled to any further notice in the proceeding.
+8.
+
+The University requested that the Tribunal proceed with this hearing in the absence
+
+of the Student.
+9.
+
+Pursuant to Rule 9, a Notice of Hearing may be served on a student by various
+
+means, including by sending a copy of the document by courier to the student’s mailing
+address in ROSI or by emailing a copy of the document to the student’s email address in
+ROSI.
+10.
+
+The University’s Policy on Official Correspondence with Students expressly states
+
+that students are responsible for maintaining a current and valid postal address and email
+account on ROSI. Students are expected to monitor and retrieve all mail, including emails,
+on a frequent and consistent basis.
+11.
+
+The onus of proof is on the University to demonstrate that it provided a student with
+
+reasonable notice of the hearing.
+12.
+
+Based on totality of the attempts made to provide notice to the Student, including
+
+particularly the attempts made following the May 24th hearing, the Tribunal concluded that
+the Student was given reasonable notice of the hearing in compliance with the notice
+requirements of the Act and the Rules.
+
+7
+
+13.
+
+The Tribunal therefore determined it would proceed to hear the case on its merits in
+
+the absence of the Student, and the hearing proceeded on the basis that the Student was
+deemed to deny the Charge made against him.
+B.
+
+The Charge and Particulars
+
+14.
+
+The Charges and Particulars were detailed in a letter dated December 5, 2016 and
+
+are set out below:
+i.
+
+In or around August 2016, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such
+forged, altered or falsified record, namely, a degree in your name purportedly
+from the University of Toronto contrary to Section B.I.3(a) of the Code.
+Particulars
+ii.
+
+You were a registered student at the University of Toronto
+Scarborough (“UTSC”) and were enrolled in courses at UTSC from
+Fall 2004 to Fall 2005.
+
+iii.
+
+By the end of Fall 2005, you had accumulated 1.5 credits. You have
+not enrolled in any courses at the University of Toronto since Fall
+2005. You have not graduated from the University of Toronto.
+
+iv.
+
+On August 25, 2016, the University of Toronto Office of Convocation
+received an email from Kreller Business Information Group, an
+international due diligence investigation company, seeking to confirm a
+degree.
+
+Kreller advised that [you] (DOB: December **, 1982) had
+
+reported receiving a Bachelor of Science degree from the University of
+Toronto on June 22, 2009 and attached a copy of a degree (the
+“Degree”). The Degree had your name and indicated that you had
+obtained a Bachelor of Science from the University of Toronto on June
+22, 2009.
+
+8
+
+v.
+
+Kreller also provided a copy of an Authority for Release of Information
+form, dated June 14, 2016, that was signed by you.
+
+vi.
+
+The University of Toronto Office of Convocation matched the name
+and month and year of birth to you.
+
+However, you had not been
+
+conferred a degree by the University of Toronto. On August 25, 2016,
+the Office of Convocation advised Kreller that no degree had been
+granted to you.
+vii.
+
+The Degree was forged. You have not graduated from the University
+of Toronto.
+
+viii.
+
+You forged or in any other way altered or falsified, and/or uttered,
+circulated, or made use of the Degree, including by providing it to
+Kreller or a client of Kreller for degree verification purposes.
+
+C.
+
+The Evidence
+
+15.
+
+The University called the evidence of Mr. Terry Johnson, Assistant Director at the
+
+Office of Convocation at the University. His duties included the responsibility for providing
+confirmation of degrees issued by the University.
+16.
+
+On August 25, 2016, Mr. Johnson received an email from Meredith Williams at
+
+Kreller, addressed to the Office of Convocation General Inquiry, advising that she was
+conducting a routine background check on the Student who reported that he received a
+Bachelor of Science degree from the University of Toronto on June 22, 2009. Ms. William’s
+email attached a “Provided Certificate/Diploma”, i.e. the Degree. Ms. Keller advised that
+she attempted to verify the provided education with AuraData who reported “No File Found”.
+Ms. Keller inquired whether the provided Degree was genuine.
+17.
+
+By email of the same date, Mr. Johnson responded to Ms. Williams that the
+
+University was not able to find any evidence of the Degree having been granted by the
+University to the Student, suggesting that the electronic copy that was attached to her email
+was not a valid University diploma.
+
+9
+
+18.
+
+At the hearing, Mr. Johnson explained how he determined that the Degree provided
+
+was not a valid University diploma. Among other things, Mr. Johnson noted that the date on
+the diploma was June 22, 2009 however, he confirmed that 2009 graduation ceremonies
+ended on June 19th and accordingly, it would have been impossible for a diploma to have
+been issued on June 22, 2009.
+19.
+
+Mr. Johnson investigated further and determined that the Student had most recently
+
+been enrolled in courses at UTSC from Fall 2004 to Fall 2005.
+20.
+
+The University presented a copy of the Student’s Academic History which indicates
+
+that he received 1.5 credits during his time at UTSC.
+D.
+
+Decision of the Tribunal.
+
+21.
+
+The onus is on the University to establish on the balance of probabilities, using clear
+
+and convincing evidence, that the academic offence charged has been committed by the
+Student.
+22.
+
+The Student was charged with an offence under Section B.I.3(a) of the Code, which
+
+reads:
+It shall be an offence for a […] student […] knowingly: to forge or in any other way alter or
+falsify any academic record, or to utter, circulate or make use of any such forged,
+altered or falsified record, whether the record be in print or electronic form.
+
+23.
+
+The Tribunal determined that the evidence clearly established that the Degree
+
+provided by the Student to Kreller was false.
+24.
+
+Having concluded that the Degree was a forgery, and given that it was circulated
+
+and/or made use of by the Student, as evidenced by the fact that the Student provided it to
+Kreller and provided an Authority for Release of Information form authorizing Kreller to
+contact the University to confirm the accuracy of the Degree, the Tribunal found it more
+
+10
+
+likely that not that the Student was responsible for circulating and making use of the forged
+record.
+25.
+
+The Tribunal found that the Student is guilty of forging or in any other way altering or
+
+falsifying an academic record, and/or uttering, circulating or making use of such forged,
+altered or falsified record, contrary to section B.I.3(a) of the Code.
+
+E.
+
+Penalty
+
+26.
+
+The matter continued with a hearing on the appropriate sanction. The University
+
+requested that the Tribunal make an order immediately suspending the Student for up to
+five years, and recommending to the President of the University that he recommend to the
+Governing Council that the Student be expelled from the University.
+27.
+
+The panel reviewed a number of Tribunal decisions presented by the University.
+
+These cases establish the importance of the University as an educational institution and as
+a degree-granting body, and emphasize that members of the public must be able to rely on
+degree certificates allegedly issued by the University as being accurate. These decisions
+establish that the forgery or falsification of an academic record, including a diploma, is an
+offence of the utmost seriousness because such falsification both undermines the credibility
+of the University and of other students who have legitimately earned their degrees.
+28.
+
+Additional considerations of the Tribunal included that the Student’s conduct was
+
+premediated and egregious, and that the Student did not respond to any attempts to contact
+him and as a result there were no mitigating circumstances for consideration.
+29.
+
+The Tribunal deliberated and concluded that, under the circumstances, it was
+
+appropriate to make a recommendation for expulsion
+F.
+
+Conclusion
+
+11
+
+30.
+
+The Tribunal orders that the Student is guilty of the academic offence of altering or
+
+falsifying an academic record, and/or uttering, circulating or making use of such forged,
+altered or falsified record, contrary to section B.l.3(a) of the Code;
+31.
+
+The Tribunal orders that the following sanctions be imposed on the Student:
+
+i.
+
+The Student be immediately suspended from the University of Toronto for a
+period of up to 5 years from the date of the Tribunal's order or until Governing
+Council makes its decision on expulsion, whichever comes first, and that a
+corresponding notation be placed on his academic record and transcript; and
+
+ii.
+
+the Tribunal recommends to the President of the University that he
+recommend to the Governing Council that the Student be expelled from the
+University; and
+
+32.
+
+The Tribunal also ordered, that the case be reported to the Provost for publication of
+
+a notice of this decision and the sanctions imposed, with the name of the Student withheld.
+Dated at Toronto this
+
+-wJo~
+
+~ day of 00
+
+2017
+
+

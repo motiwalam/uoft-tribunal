@@ -1,0 +1,329 @@
+Case No.: 1023
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 22, 2019,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as
+amended S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and D
+
+A
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Dates: June 24, 2019 July 5, 2019 and July 22, 2019
+Members of the Panel:
+Mr. Shaun Laubman, Lawyer, Chair
+Professor Dionne Aleman, Faculty Panel Member
+Ms. Elizabeth Frangos, Student Panel Member
+Appearances:
+Ms. Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Ms. Meg Cormack, Downtown Legal Services
+In Attendance:
+The Student
+Hearing Secretary
+Mr. Christopher Lang, Director, Appeals, Discipline & Faculty Grievances
+
+2
+
+1. The Trial Division of the University Tribunal heard this matter over the course of
+three days.
+2. The Student was charged in connection with three separate alleged offences.
+The primary charges were as follows:
+a. In or about March 2018, you knowingly represented as your own an idea or
+expression of an idea or work of another in a lab report titled “Using
+comparative proteomics of myosin light chain to assess evolutionary
+relationships and environmental variation between Shark, Cod and Tilapia
+species” (“BIO314 Lab Report”) that you submitted in BIO314H5S, contrary
+to section B.i.1(d) of the Code;
+b. In the alternative to paragraph 1, in or about March 2018, you knowingly
+used or possessed an unauthorized aid or aids and obtained unauthorized
+assistance in connection with your BIO314 Lab Report, contrary to Section
+B.i.1(b) of the Code;
+c. On or about April 8, 2018, you knowingly represented as your own an idea
+or expression of an idea or work of another in a book report titled “Book
+Review Reconstructing the Past: Parsimony, Evolution, and Inference By:
+Elliot Sober (1988)” (“Sober Book Review”) that you submitted in
+BIO443H5S, contrary to section B.i.1(d) of the Code; and
+d. On or about April 8, 2018, you knowingly represented as your own an idea
+or expression of an idea or work of another in a book report titled “Book
+Review Proof of An Evolutionary Account of the Social and Conceptual
+Development of Science By David Hull (1988)” (“Hull Book Review”) that
+you submitted in BIO443H5S, contrary to section B.i.1(d) of the Code. (the
+“Charges”)
+3. At the conclusion of the Hearing, the Student was found guilty of two Charges,
+committing plagiarism in relation to the BIO314 Lab Report and the Hull Book Review.
+
+3
+
+4. The Student was acquitted of the Charges in connection with the Sober Book Review.
+5. After hearing oral submissions and receiving further written submissions, and for the
+reasons detailed below, the Tribunal imposes the following penalty on the Student:
+a. That the Student receive a final grade of zero in each of the following
+courses:
+i. BIO314H5S in Winter 2018; and
+ii. BIO443H5S in Winter 2018;
+b. That the Student be suspended from the University for a period of four
+years, commencing on July 22, 2019 and ending on July 21, 2023;
+c. That the sanction be recorded for a period of five years on the Student’s
+academic record and transcript to the effect that she was sanctioned for
+academic misconduct, commencing on July 22, 2019 and ending on July
+21, 2024; and
+d. That this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanction or sanctions imposed, with the
+name of the Student withheld.
+Evidence of the Offences
+6. The University presented clear and convincing evidence that the Student committed
+plagiarism with her BIO314 Lab Report and Hull Book Review. By contrast, there was
+little evidence of the Charges in connection with the Sober Book Review other than
+the review itself and the Professor’s view that an undergraduate student would not be
+able to write the review that was submitted.
+BIO314 Lab Report
+7. The Student took BIO314 during the Winter 2018 semester. Fifteen percent of the
+course grade was a lab report due in March 2018.
+
+4
+
+8. All lab reports in the course, including the Student’s, were submitted to turnitin.com.
+The lab report submitted by the Student had a result of 0% when it was checked using
+turnitin. Initially, this result escaped detection and the Student scored very well on the
+report. However, the peculiar turnitin.com result ultimately came to the attention of
+Professor Chatfield, the course instructor.
+9. Professor Chatfield noticed both the 0% result for the Student’s report, which he
+described as highly unusual, and the fact that Turnitin identified only 46 words in the
+report. The report, which was 8 pages long, clearly has many more than 46 words.
+10. The Professor noted that the Student’s report had been submitted to turnitin.com in
+PDF format and was not being read properly as a result. The Student was asked to
+resubmit her report to turnitin.com in a readable Word format.
+11. On April 17, 2018, a Word version of what was represented to be the Student’s report
+was sent to Professor Chatfield. He submitted the Word version of the report to
+turnitin.com and discovered that the report had a high degree of similarity to a lab
+report submitted by a different student for the same class the previous year.
+12. After receiving these results, the Professor wrote out a paragraph from the initial PDF
+version of he Student’s lab report and submitted that excerpt to turnitin.com. The
+result was a perfect match to the other student’s lab report from the previous year.
+13. The Professor compared the original lab report submitted by the Student and the Word
+version that was provided on April 17th. There were a number of changes between
+the two documents. The changes were mainly to adjectives and other wording as
+opposed to the substance of the lab report. The Professor described some of the
+changes as non-sensical.
+14. The inference that the University invited the Tribunal to draw from the fact of the
+changes was that the Student attempted to conceal her plagiarism by changing words
+once she knew the lab report would be checked using turnitin.
+
+5
+
+15. In his evidence at the Hearing, the Professor reviewed the two versions of the lab
+report submitted by the Student compared to the lab report submitted by a different
+student in 2017. The similarities were extensive and obvious.
+16. In cross-examination, the Professor conceded that he would expect to see some
+degree of overlap or similarities in lab reports from year to year; however, he stated
+that he had never seen the extent of overlap that existed between the Student’s lab
+report and the 2017 report submitted by a different student. For example, with one
+exception, the Student listed identical references, including page citations, as the lab
+report from the preceding year.
+17. In her testimony at the Hearing, the Student admitted that she knew the student who
+authored the lab report that she was accused of plagiarising from. However, she
+denied having seen the other lab report prior to the Dean’s meeting and she was
+adamant that she did not plagiarize from any source for her BIO314 Lab Report.
+18. The Student had no credible explanation for the extensive and obvious similarities
+between her lab report and the earlier report that she was accused of plagiarizing.
+She admitted submitting a different report in April despite knowing that she was
+expected to submit the same paper.
+19. The Tribunal accepts that it is reasonable to draw the inference from the evidence that
+the Student made changes to her report in an effort to avoid detection.
+20. On the evidence presented at the Hearing, the Tribunal had little difficulty in finding
+that the Student had committed plagiarism in respect of the BIO314 Lab Report.
+Hull Book Review
+21. The Student enrolled in BIO443 in the Winter 2018 semester. She was one of two
+students in the course who elected to submit two optional book reports in order to earn
+up to an additional 4% towards her final grade. Those two book reports are referred
+to below as the Hull Book Review and the Sober Book Review.
+
+6
+
+22. Professor Stefanovic testified for the Provost. He testified that he was immediately
+struck by the Student’s choice of books to review. He described them as unusual
+choices for an undergraduate student.
+23. After Professor Stefanovic reviewed the Student’s Hull Book Review, he was struck
+by the sophistication of some of the language and by the bizarre word selection
+throughout the review. In his evidence, he provided the Tribunal with a number of
+examples of words that did not make sense in the context for which they were used in
+the review.
+24. The Professor did a Google search for book reviews of the underlying book, a 1988
+book by David Hull entitled “Proof of an Evolutionary Account of the Social and
+Conceptual Development of Science”. On the first Google results page, he found two
+book reviews published in the early 1990s. When he compared these two reviews to
+the Student’s Hull Book Review, he found a number of passages that were identical
+except for apparent selective word changes.
+25. At the Hearing, the Professor reviewed the two books reviews that he found on Google
+and compared them to the Student’s Hull Book Review. The similarities were again
+extensive and obvious.
+26. As with the BIO314 Lab Report, the Student denied committing plagiarism with the
+Hull Book Review. She testified that she found the Hull book difficult to understand at
+first but she did additional research in order to understand it, which helped her overall
+understanding and performance in the second half of the course.
+27. The Student said that she had never seen the other two reviews of Hull’s book prior
+to the Dean’s meeting. She had no credible explanation for the similarities between
+those two reviews and her own.
+28. On the evidence presented at the Hearing, the Tribunal had little difficulty in finding
+that the Student had committed plagiarism in respect of the Hull Book Review.
+
+7
+
+Sober Book Review
+29. The evidence regarding the Sober Book Review was different than the evidence
+presented by the Provost to make out the other two alleged offences. No source
+material was presented to support the allegation that the Student had plagiarized the
+Sober Book Review.
+30. Professor Stefanovic’s evidence was that he found that the Sober Book Review used
+very sophisticated terminology and phraseology. He found that the review employed
+sophisticated concepts but without any explanation or details.
+
+In his view, an
+
+undergraduate student would not be capable of writing the Sober Book Review.
+31. The Professor said that he searched for a source for the content in the Sober Book
+Review but could not find any.
+32. The Student denied any plagiarism regarding the Sober Book Review.
+33. In its submissions, the Provost argued that the Tribunal could infer that the Sober
+Book Review was not the Student’s original work product based on the Professor’s
+evidence that he did not believe an undergraduate student could write the review. The
+Provost relied on a 2016 decision in which an inference was drawn that a student did
+not write an essay, in part because the writing was superior to other work product
+submitted by the student.
+34. The 2016 decision is distinguishable on its facts, including the fact that the Provost’s
+evidence in that case was unchallenged since the student did not attend the hearing.
+In this case, the Student expressly denied any plagiarism in respect of the Sober Book
+Review.
+35. On the limited evidence submitted by the Provost, the Tribunal was not satisfied that
+the charges in respect of the Sober Book Review were made out. The Student was
+acquitted of those Charges.
+
+8
+
+Penalty Phase
+36. The Student and the Provost agreed that an appropriate penalty for the two
+convictions on plagiarism would include a grade of zero for both BIO314 and BIO443.
+They also agreed that the decision should be published with the Student’s name
+redacted. The Tribunal agrees that those terms should form part of the penalty.
+37. Where the Student and the Provost disagreed was in the length of the suspension and
+notation on the Student’s transcript, and whether the suspension should run
+consecutively or concurrently with a three-year academic suspension that the Student
+would have to serve as a result of her cumulative GPA dropping below the minimum
+requirements.
+38. With respect to the length of the suspension and notation, the Provost argued for a
+four year suspension and a five year notation on the Student’s transcript. The Provost
+emphasized the efforts the Student made to avoid detection: for example, first
+submitting a PDF of the BIO314 Lab Report and then altering words to avoid detection
+by turnitin. The Provost also submitted that the lack of remorse exhibited by the
+Student and her persistent refusal to accept responsibility for her conduct despite the
+overwhelming evidence against her, at least with respect to the BIO314 Lab Report
+and Hull Book Review, were relevant considerations for imposing a penalty towards
+the upper range of sanctions for a student with no prior history of academic offences.
+39. The Student’s position was that a two year suspension and three year notation were
+appropriate penalties. She gave evidence regarding her family circumstances and
+future ambitions to become a doctor. There was a dispute over whether she could
+also introduce evidence of a medical condition after failing to provide proper notice or
+a medical report. The Tribunal ruled that this evidence was inadmissible. Even if it
+had been admitted, it would have been entitled to no weight since it was
+uncorroborated.
+40. The Student relied on the fact that she had no prior academic offences and argued
+that the length of her suspension should be towards the lower end of the range in the
+
+9
+
+precedents provided to the Tribunal.
+
+The Provost replied to this submission by
+
+pointing out that the Student submitted the altered BIO314 Lab Report in April 2018
+after she had met with and been warned by Professor Stefanovic regarding the Hull
+Book Review in BIO443.
+41. The Student also relied on the fact that the BIO314 Lab Report and the Hull Book
+Review were worth a relatively low percentage of the overall course grade in the
+respective courses (15% and 2% respectively). The Tribunal did not find this to be a
+persuasive factor in this case, particularly in light of the Provost’s submissions
+regarding the seriousness of plagiarism and its impact on the University and its
+stakeholders.
+42. Finally, during the course of submissions, the parties alerted the Tribunal to the fact
+that the Student was serving a three-year academic suspension because of her low
+cumulative GPA. That academic suspension was scheduled to run until April 30,
+2022. The Tribunal invited the parties to make written submissions following the
+Hearing on the issue of whether the suspension that was going to be imposed due to
+the Charges should run concurrently or consecutively with the Student’s academic
+suspension.
+43. The Provost requested that if a four year suspension was imposed, that suspension
+begin to run May 1, 2021. The effect would be a one year overlap with the Student’s
+academic suspension and a cumulative suspension of six years. In the alternative,
+the Provost requested that if the suspension was less than four years that it run
+consecutive with the academic suspension.
+
+The Provost relied on the need for
+
+significant deterrence and the aggravating factor of the Student’s attempts to avoid
+detection. The Provost acknowledged that a cumulative seven year suspension would
+have a prejudicial effect on the Student.
+44. The Student submitted that a suspension that was entirely consecutive to her
+academic suspension would be unduly harsh, particularly if the Tribunal accepted the
+Provost’s recommendation of a four year suspension.
+
+She requested that the
+
+suspension run concurrently with her academic suspension or, in the alternative, a
+
+10
+
+hybrid approach where the majority of the suspensions ran concurrently with only one
+additional year of the penalty running past her academic suspension for a total
+suspension from the University of four years.
+45. The Tribunal accepts the Provost’s recommendation that a four year suspension and
+five year notation are appropriate penalties in this case. While these penalties are
+towards the upper range for a student without a prior history of academic offences,
+there were several aggravating factors. There were multiple offences. The Student
+also deliberately and repeatedly took steps to prevent her plagiarism from being
+detected. The Student also exhibited a lack of remorse and responsibility for her
+actions. Finally, the Tribunal is of the view that a penalty of the same or less duration
+than the Student’s academic suspension would not have any deterrent effect.
+46. The Tribunal was not persuaded that the penalty should run consecutive to the
+Student’s academic suspension. The Tribunal accepted the Student’s submission that
+an aggregate suspension of five years or more would be unduly harsh and would have
+a prejudicial effect on the Student if she ever decided to return to the University or
+pursue further post-secondary education. A four year suspension, running concurrent
+with the academic suspension, is a significant penalty and strikes the appropriate
+balance between the need for deterrence, imposing consequences for the Student’s
+conduct and providing the opportunity for her to learn from her mistakes.
+47. The following penalty is imposed on the Student for the two breaches of section
+B.i.1(d) of the Code in connection with the BIO314 Lab Report and the Hull Book
+Review:
+a. That the Student receive a final grade of zero in each of the following
+courses:
+i. BIO314H5S in Winter 2018; and
+ii. BIO443H5S in Winter 2018;
+
+L1.
+
+b. That the Student be suspended from the University for a period of four
+years, commencing on July 22, 2019 and ending on July 21,2023;
+
+c. That the sanction be recorded for a period of five years on the Student's
+academic record and transcript to the effect that she was sanctioned for
+academic misconduct, commencing on July 22, 2019 and ending on July
+
+21,2024; and
+
+d. That this case shall be reported to the Provost for publication of a notice of
+the decision of the Tribunal and the sanction or sanctions imposed, with the
+name of the Student withheld.
+
+Dated at Toronto, this LI day of October, 2019
+
+Shaun
+
+ubman, Co-Chair
+
+

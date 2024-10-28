@@ -1,0 +1,981 @@
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on October 28, 2013,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971 , S.O. 1971, c. 56 as amended S.O. 1978,
+
+c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+- and -
+
+REASONS FOR DECISION
+Hearing Date: Friday, July 18, 2014
+Members of the Panel:
+Mr. Bernard Fishbein, Chair
+Professor Kathi Wilson, Department of Geography, Faculty Panel Member
+Mr. Michael Dick, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel for the University of Toronto
+Ms. Lucy Gaspini, Manager, Academic Integrity and Affairs, Office of the Dean, University of
+Toronto Mississauga Campus
+Dr. Mircea Voda, Course Instructor: MAT232H5 Calculus of Several Variables
+Ms. Yvette Ye, Undergraduate .Counsellor for the Department of Mathematical and
+Computational Sciences
+In Attendance:
+Mr. Christopher Lang, Director, Appeals, Discipline and Faculty Grievances
+
+Not in Attendance :
+Mr. •
+Ms.
+
+qi, the Student
+•
+
+~. the Student
+
+2
+
+1.
+
+These are _allegations by the Provost that ~
+
+GI ("<1") and ~ -181 ("81")
+
+(collectively, "the Students") violated various provisions of the University's Code of
+
+Behaviour on Academic Matters, 1995 (the "Code"). As the allegations arise out of the
+same incident involving both
+
+<1 and ~, the hearing before this Panel of the Trial Division
+
+of the University Tribunal ("the Tribunal") was scheduled for July 18, 2014 on both sets of
+allegations.
+
+PRELIMINARY ISSUES
+
+2.
+
+The Hearing Notice stated that the hearing would commence at 9:45 a.m. on
+
+July 18, 2014.
+
+As is customary, in the absence of either of the accused Students, the
+
+Tribunal waited until 10:00 a.m. before commencing the hearing.
+
+Neither Student was
+
+present or attended at any point in the hearing.
+3.
+
+Accordingly, there were two preliminary matters that had to be dealt with at the
+
+outset:
+(a)
+
+whether to proceed in the absence of the accused Students;
+
+(b)
+
+whether the two sets of allegations should be heard together.
+
+(a)
+
+Whether to proceed in the absence of the two students
+
+4.
+
+The Tribunal has the authority to proceed in the absence of students against whom
+
+allegations are made.
+
+Section 7 of the Statutory Powers Procedure Act, R.S.O. 1990,
+
+c. S.22 (the "SPPA") provides:
+
+"7. ( 1) Where notice of an oral hearing has been given to a party to a
+proceeding in accordance with this Act and the party does not attend at the
+
+3
+hearing, the tribunal may proceed in the absence of the party and the party is
+not entitled to any further notice in the proceeding."
+5.
+
+Section 6 of the SPPA sets out the requirements of such notice:
+
+"6. (3) A notice of an oral hearing shall include,
+(a) a statement of the time, place and purpose of the hearing; and
+(b) a statement that if the party notified does not attend at the hearing, the
+tribunal may proceed in the party's absence and the party will not be
+entitled to any further notice in the proceeding."
+6.
+
+In addition, the Rules of Practice and Procedure of the Tribunal (the "Rules") also
+
+specifically address such a situation:
+"17. Where notice of an oral hearing, electronic hearing, or written hearing has
+been given to a person in accordance with this rule, and the person does not
+attend at or does not participate in the hearing, the panel may proceed in the
+absence of the person or without the person's participation and the person is not
+entitled to any further notice in the proceeding."
+7.
+
+Section 9 of the Tribunal's Rules indicate how service of documents (including
+
+charges, notices of hearing, disclosure, etc.) are to be served or sent to a student. They
+include personal service, sending a copy of the document by courier to the student's mailing
+address, as contained in the University's Repository of Student Information ("ROSI"), or
+emailing a copy of the document to the student's email address contained in ROSI.
+
+8.
+
+The Tribunal was presented with a number of affidavits from Aaron Smith, a process
+
+server engaged by the University's Discipline Counsel, the legal assistant in the office of the
+University's Discipline Counsel, and Sinead Cutt, Administrative Assistant, Appeals,
+Discipline and Faculty Grievances, in the Office of the Governing Council at the University.
+
+4
+9.
+
+The affidavits establish that letters were sent both to ~ and
+
+<1 advising that they
+
+had been charged under the Code, enclosing a copy of the Code and the charges both by
+email and by courier to the last shown addresses provided by the Students in ROSI. The
+courier package for ~ was returned by the courier because it could not be delivered to the
+address indicated on ROSI, which was an apartment complex with no specific apartment
+number. The courier package for
+listed for
+10.
+
+<1 was left at the mailbox of the building of the address
+
+GI on the ROSI address. However, neither email to the Students "bounced back".
+
+Notices of this hearing (not only including the time, date and location of the hearing
+
+but also advising that if the accused did not attend, the hearing may take place without the
+accused, and the accused would be entitled to no further notice of the proceeding) were
+again sent by courier and email to the addresses last listed in ROSI for both accused.
+Again , the courier package for ~ was returned but there was no "bounce-back" of the
+email. In addition, after numerous unsuccessful attempts, the legal assistant did reach ~
+at the telephone number indicated in ROSI, on December 6, 2013. ~ confirmed that she
+knew she was receiving emails with respect to the charges and confirmed the ROSI email
+address as the best email address for her.
+11.
+
+A disclosure package relating to the charges and a copy of the University's Policy on
+
+Official Correspondence with Students (the "Policy") was sent to ~ by courier at the Prince
+
+of Wales address. It was returned by the courier advising that ~ no longer lived at this
+address and had moved. Further attempts to reach ~ by telephone (with messages left)
+or by email were unsuccessful and went unanswered.
+12.
+
+However, the University did make contact with~ in January and February of 2013.
+
+In response to an earlier email to her email address, indicated on ROSI, to schedule a time
+
+5
+
+for
+
+SI to meet with the Dean's Designate for Academic Integrity as required under the
+
+Code, ~ responded on January 30, 2013, from the ROSI-indicated email address. There
+was a further email exchange (again through the ROSI-indicated email address) and
+
+SI did
+
+attend a meeting with the Dean's Designate for Academic Integrity on February 5, 2013 to
+discuss, and as outlined infra, when~ ultimately admitted to the allegations against her.
+13.
+
+The University was also able to establish some contact with
+
+October 2013. In response to an email at
+
+Cl between May to
+
+<a address indicated on ROSI, attempting to
+
+set up a date for a meeting with the Dean or his representative with respect to the
+allegations,
+
+Cl responded from a different email address (the "new email address")
+
+indicating that he was out of the country and sought to change the date for the meeting.
+However, further attempts to reach
+
+GI to reschedule the meeting as he had requested at
+
+both the ROSI and the new email address went unanswered. There was no "bounce back"
+of those emails.
+14.
+
+It should be noted that the hearing date was set unilaterally by the University only
+
+after numerous emails from the legal assistant in Discipline Counsel's office went
+unanswered.
+15.
+
+Ultimately, the University was able to effect personal service on
+
+at the new address.
+
+SI on July 14, 2014
+
+SI was given the Notice of Hearing, the Charges under the Code, the
+
+copy of the Code, the Tribunal's Rules of Practice and Procedure, a pamphlet for downtown
+legal services, the disclosure brief, and a copy of the University's Policy. An attempt at
+personal service on
+
+<1 at his address in ROSI was unsuccessful - the Process Server
+
+was advised by the residents of that address that the previous occupants had moved
+recently and there was no one by the name of
+
+<1 residing there.
+
+6
+
+16.
+
+In the circumstances, the University argued that it had either made personal service
+
+(in the case of ~) or effected service in accordance with the Tribunal's Rules or had given
+reasonable notice within the meaning of the SPPA. The University pointed to the Policy
+which indicates students are responsible for maintaining and advising the University of a
+correct postal address as well as an email account in ROSI. The ROSI records for
+indicated that
+
+<=I
+
+GI had updated his ROSI records a number of times prior to the last ROSI
+
+entries. The Policy also indicates the responsibilities of students to monitor and retrieve
+their mail and email on a frequent and consistent basis. The Policy had been included in
+the material that the University had previously forwarded to the accused Students.
+17.
+
+In the circumstances, it was the unanimous ruling of the Panel that notice had been
+
+given in accordance with the Tribunal's Rules and the SPPA, and that the hearing should
+proceed in the absence of the accused Students.
+
+(b)
+
+Whether these allegations should be heard together
+
+18.
+
+Section 27 of the Tribunal's Rules gives the Tribunal the authority to hear two
+
+proceedings at the same time, if:
+(a)
+
+the proceedings have a question of fact, law or mixed fact and law in
+common;
+
+(b)
+
+the proceedings involve the same parties;
+
+(c)
+
+the proceedings arise out of the same transaction or occurrence or series of
+transactions or occurrences; or
+
+(d)
+
+for any other reason an order ought to be made
+
+7
+
+19.
+
+The University's allegations were with respect to (1 "personating" ~ and handing
+
+in quiz results in a course in which only ~ was enrolled (but for which both of them
+attended the quiz). The University alleged
+
+<1 handed in the quiz completed by him -
+
+purporting it to be the quiz completed by ~- Needless to say, the allegations involved the
+same parties, the same witnesses and evidence and essentially the same transaction. The
+University asserted there would be no unfairness, no prejudice and no complication from
+hearing the cases together - to the contrary, to not hear them together would create all of
+those difficulties. As well, the University had given notice to the accused Students that it
+wished to have the cases heard together but, not surprisingly, received no response, and
+certainly no objection.
+20.
+
+In the circumstances, the Panel ruled , again unanimously, that the hearings should
+
+proceed together.
+THE CHARGES
+
+21.
+
+The Charges are as follows:
+
+(i)
+
+~<t
+
+1.
+
+On or about October 30, 2012, you knowingly personated
+
+rva •
+
+~ at Quiz #3 in MAT232H5 (the "Course"), contrary to section B.1.1 (c) of the
+
+Code.
+2.
+
+In the alternative, on or about October 30, 2012, you knowingly did or
+
+omitted to do something for the purpose of aiding or assisting
+
+tva .. ~ to
+
+commit the section B.1.1 (b) offence of obtaining unauthorized assistance in
+connection with Quiz #3 in the Course, contrary to section B.ll.1(a)(ii) of the
+Code.
+
+8
+Particulars
+
+3.
+
+At all material times, you were a student at the University of Toronto
+
+Mississauga.
+4.
+
+At all material times, ~
+
+--1 ~ was also a student at the University
+
+of Toronto Mississauga. In Fall 2012, Ms. ~ enrolled in the Course, which
+was taught by Dr. Mircea Voda.
+5.
+
+On October 30, 2012, students in the Course wrote Quiz #3.
+
+You
+
+were not enrolled in the Course at that time. Nevertheless, you agreed to
+write Quiz #3 in the Course on Ms. ~•s behalf.
+6.
+
+You attended and wrote Quiz #3 in the Course. At Ms.
+
+Si's request,
+
+you wrote Ms. ~ •s name and student number on your test paper. At the
+conclusion of the quiz, you submitted the test paper which contained Ms.
+~s name and student number to Dr. Voda. When you submitted the test
+paper to Dr. Voda, you informed Dr. Voda that you were Ms. ~7.
+
+The test paper that you submitted was not completed by Ms. ~- In
+
+fact, you had completed the test paper, and written Ms.
+
+Si's name and
+
+student number on the paper.
+8.
+
+You represented to Dr. Voda that you were Ms. ~-
+
+9.
+
+By engaging in the conduct described above:
+(a)
+
+you knowingly personated Ms.~ in connection with Quiz #3 in
+the Course; and
+
+(b)
+
+you knowingly did something for the purpose of aiding or
+assisting Ms. ~ to obtain unauthorized assistance in Quiz #3
+in the Course.
+
+9
+
+(ii)
+
+~~·
+
+1.
+
+On or about October 30, 2012, you knowingly had another person,
+
+~
+
+<1, personate you at Quiz #3 in MAT232H5 (the "Course"), contrary to
+
+section B .1. 1(c) of the Code.
+2.
+
+In the alternative, on or about October 30, 2012, you knowingly
+
+obtained unauthorized assistance in connection with Quiz #3 in the Course,
+contrary to section B.l.1(b) of the Code.
+3.
+
+In the further alternative, on or about October 30, 2012, you knowingly
+
+engaged in a form of cheating, academic dishonesty or misconduct, fraud or
+misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind in connection with
+Quiz #3 in the Course, contrary to section B.l.3(b) of the Code.
+Particulars
+
+4.
+
+At all material times, you were a student at the University of Toronto
+
+Mississauga. In Fall 2012, you enrolled in the Course, which was taught by
+Dr. Mircea Voda.
+5.
+
+At all material times, ~
+
+GI was also a student at the University of
+
+Toronto Mississauga.
+6.
+
+On October 30, 2012, students in the Course wrote Quiz #3. Before
+
+the quiz, you asked Mr. (I, who was not enrolled in the Course at the time,
+to write Quiz #3 on your behalf.
+7.
+
+You attended and wrote Quiz #3 in the Course but did not submit your
+
+test paper.
+
+10
+
+<1 also attended and wrote Quiz #3 in the Course. At your
+request, Mr. GI wrote your name and student number on his test paper. At
+the conclusion of the quiz, Mr. GI submitted the test paper which contained
+your name and student number to Dr. Voda. When Mr. <1 submitted the test
+
+8.
+
+Mr.
+
+paper to Dr. Voda, he informed Dr. Voda that he was you.
+9.
+
+You did not complete the test paper that Mr.
+
+GI submitted which
+
+contained your name and student number.
+
+GI represented to Dr. Voda that he was you.
+
+10.
+
+Mr.
+
+11.
+
+By engaging in the conduct described above:
+(a)
+
+you knowingly had Mr.
+
+GI personate you in connection with
+
+Quiz #3 in the Course; and
+(b)
+
+you obtained unauthorized assistance in connection with Quiz
+#3 in the Course.
+
+12.
+
+You engaged in the conduct described above in order to obtain
+
+academic credit or other academic advantage.
+THE EVIDENCE
+
+22.
+
+The University called two witnesses, Dr. Mircea Voda and Ms. Yvette Ye.
+
+i)
+
+Dr. Voda
+
+23.
+
+Dr. Voda gave his testimony under oath.
+
+24.
+
+Dr. Voda was the instructor in MAT232, a standard second-year calculus course
+
+being taught in the fall of 2012 at the Mississauga campus of the University. Dr. Voda
+taught one of the two sections of approximately 60 students.
+
+11
+25.
+
+The course syllabus for MAT232 (which was available both online and was reviewed
+
+at the first lecture of the course) outlined the assessment for the course which included five
+quizzes of which the best four would count. The syllabus also included a summary of the
+University's academic integrity requirements which were also reviewed during the first
+lecture and discussed with the students. Dr. Voda told the class it was "OK to collaborate
+but not copy" and that violating the academic integrity requirements would "just not be worth
+it because it would result in serious punishment".
+26.
+
+Quiz #3 was given in the lecture hall during the last 15 minutes of the class on
+
+October 30, 2012. Since it was administered at the end of the class, there was no assigned
+seating and the sole person invigilating the quiz was Dr. Voda.
+
+He had distributed the
+
+quizzes himself and as the students finished, they came to the front of the classroom to
+hand them in.
+
+SI to hand in her paper at the end of the
+quiz because he wanted to return to her a previous term test SI had earlier given him for
+re-marking . During the course of the quiz, Dr. Voda had noticed SI writing the quiz but by
+the end of the quiz he did not see her anywhere. At that point, GI handed in a paper which
+purported to be Si's. Dr. Voda asked GI his name and he indicated that he was SiiDr. Voda told him that he was not her because he knew her. He asked GI for his student
+ID. GI replied that he did not have it and so Dr. Voda asked him what his name was. GI
+replied "Gordon" and Dr. Voda asked him if he was enrolled in the class. GI indicated he
+was not and Dr. Voda then asked him what he was doing there. GI indicated that he was
+27.
+
+Coincidentally, Dr. Voda was waiting for
+
+just sitting and listening to the lecture to refresh his memory of the material because he had
+taken the course before. Dr. Voda then asked what he was doing with
+replied that he was handing it in for her because she had to go.
+
+Si's quiz and he
+
+12
+28.
+
+At that point in time, Dr. Voda did not know (Is name, although he did recognize
+
+<1 from the first quiz because he had to separate GI and~
+then to stop ~ from copying from Cl· At that time, Dr. Voda had merely told ~ that she
+could not sit next to GI and that she ought not to let this occur again. As a result, at
+him. Dr. Voda recognized
+
+Quiz #3 when he saw both of them, Dr. Voda said he was paying attention that they were
+not sitting close together so that the previous situation would not recur. At Quiz #3, they
+were sitting separately in different rows.
+29.
+
+After Quiz #3, Dr. Voda looked up "Gordon" on his class list and realized that there
+
+was no one in the class with that name. He suspected that~ therefore had not only not
+handed in, but had also not completed the quiz that bore her name.
+
+<?I had handed in with Si's term test (which
+he had been unable to give her) and saw that the writing was different. The quiz that <1
+had handed in bearing Si's name also contained some notations that had not yet been
+taught in the course. Dr. Voda then also compared the quiz that <1 had handed in with
+30.
+
+Dr. Voda then compared the quiz that
+
+other course work of ~ and it again confirmed, in his view, that ~ had not actually done
+the quiz that
+
+<?I had handed in for her.
+
+31.
+
+Accordingly, Dr. Voda then reported in writing this suspected breach of the Code.
+
+32.
+
+Dr. Voda, by accident, was subsequently able to identify (1. In December, when
+
+the final exam in MAT232 was being written, another exam in another course, MAT334, was
+also being written in the same location.
+Then, coincidentally,
+
+GI was taking that exam and Dr. Voda noticed him.
+
+<?I was enrolled in the next course that Dr. Voda taught, MAT268 (a
+
+<1 did not attend classes, he did
+attend tests, so that Dr. Voda was able to determine <a name. With this information,
+vector calculus course), in the winter of 2013. Although
+
+13
+Dr. Voda was also able to determine that
+had indicated in their exchange when
+
+<1 had never taken this course previously (as he
+
+<1 handed in ~ •s quiz) but rather, as indicated on
+
+Gls academic record, had taken a similar course, MAT233, which is essentially the same
+course although designed for commerce students.
+
+ii)
+
+Ms. Yvette Ye
+
+33.
+
+Ms. Ye gave her testimony under oath. She is an Undergraduate Counsellor for the
+
+Department of Mathematical and Computational Sciences. Among her responsibilities in
+this position was involvement in the academic discipline process, including sitting in
+meetings between accused students and the Dean's Designate to take notes of the meeting
+with her computer.
+34.
+
+In this capacity, Ms. Ye sat in the meeting between~ and Professor Graham (who
+
+had recently passed away) on February 5, 2013. Ye identified the notes she took of the
+meeting.
+35.
+
+The meeting opened with Professor Graham explaining the process and ensuring
+
+that
+
+El had received her copy of the Code, and whether she had any questions. El said
+
+she had received the copy and had no questions. In particular, Professor Graham read
+from C.i(a)6 of the Code which provided:
+"6.
+
+Before proceeding with the meeting, the dean shall inform the student that
+he or she is entitled to seek advice, or to be accompanied by counsel at
+the meeting, before making, and is not obliged to make, any statement or
+admission, but shall warn that if he or she makes any statement or
+admission in the meeting, it may be used or receivable in evidence
+against the student in the hearing of any charge with respect to the
+alleged offence in question. The dean shall also advise the student,
+without further comment or discussion, of the sanctions that may be
+
+14
+imposed under section C.i.(b), and that the dean is not obliged to impose
+a sanction but may instead request that the Provost lay a charge against
+the student. Where such advice and warning have been given, the
+statements and admissions, if any, made in such a meeting may be ~sed
+or received in evidence against the student in any such hearing."
+36.
+
+SI acknowledged that she was aware that she could be accompanied by someone
+
+but did not have anyone representing her at this meeting.
+
+Again, Professor Graham
+
+emphasized to the student that she did not need to say anything but what she said would be
+recorded.
+37.
+
+Professor Graham showed SI Quizzes #1 and #3 and the term test. Initially, SI
+
+identified all as her handwriting and indicated that she had asked
+
+<1 to hand in Quiz #3 for
+
+her which she explained was due to the fact that she was sitting at the back and had to go
+to the washroom in a hurry. After some initial denial, and some persistent questioning from
+
+SI ultimately admitted that GI wrote Quiz #3 for her and explained the
+circumstances how that came about. Ultimately, SI signed a formal Admission of Guilt,
+Professor Graham,
+
+Academic Offence wherein she admitted to being guilty to an offence under section
+B.ii.1(a)(i) of the Code. Section B.i.1(c) of the Code makes it an offence for a student to
+knowingly:
+"(c) to personate another person, or to have another person personate, at
+any academic examination or term test or in connection with any other
+form of academic work;"
+38.
+
+The University submitted that it had demonstrated on "clear and convincing
+
+evidence" (as required by section C.ll.(a)9 of the Code) that SI and
+
+<1 had committed the
+
+academic offence of personation. Dr. Voda had seen the two accused Students at Quiz #3
+but only one paper had been handed in between the two of them. It had been handed in by
+
+15
+
+GI who initially indicated that he was SI but then conceded that he was handing it in on
+her behalf. It was clear that it was not her handwriting and contained notations that had not
+been taught in the course.
+
+39.
+
+If there was any doubt after the evidence of Dr. Voda (and the University submitted
+
+there could not be), there was a clear and explicit signed admission by
+
+SI to having done
+
+this with the cooperation of
+
+<?I-
+
+40.
+
+GI had been verified by Dr. Voda when GI attended at the
+
+The identification of
+
+other exam held simultaneously in Dr. Voda's course and then subsequently took another
+course from Dr. Voda.
+41.
+
+Neither student appeared at the hearing and there was obviously no evidence to the
+
+contrary.
+42.
+
+After a short recess, this Tribunal concluded unanimously that the University had
+
+established by clear and convincing evidence that
+
+SI and GI had violated section B.i.1(c)
+
+of the Code, namely personation, on clear and convincing evidence. In the circum stances,
+the University withdrew the other charges against the Students.
+
+SANCTION
+43.
+
+On the question of sanction, the University called Lucy Gaspini, the Manager of
+
+Academic Integrity & Affairs in the Office of the Dean at the University of Toronto in
+Mississauga, who gave her testimony under oath. Ms. Gaspini testified that the University
+maintains records of past misconduct, and the record of prior discipline with respect to
+
+SI
+
+was filed with the Panel. In the fall of 2011 , in another course, namely LIN200 (language
+studies), SI had admitted that she was guilty of unauthorized assistance in an assignment.
+
+16
+Since it was her first academic offence, which was settled at the departmental level, the
+sanction was simply a mark of O for the assignment in question.
+a)
+
+The Submissions of the University
+
+44.
+
+For both Students, the University sought a recommendation that they be immediately
+
+suspended from the University for a period of up to five (5) years from the date of the
+Orders or until Governing Council made its decision on expulsion, which the University
+wished the Panel to recommend to the President of the University to recommend to
+Governing Council.
+45.
+
+In addition, with respect to ~ . the University also sought a final grade of zero in the
+
+course of MAT232.
+46.
+
+The University reviewed the range of penalties that this Tribunal was free to impose
+
+pursuant to section C.ii.(b) of the Code as well as the University's guidelines for sanction.
+Conceding readily that neither the Code nor the guidelines dictated any automatic result
+and that the Panel was free to impose any sanction that we thought appropriate, the
+University urged the most severe sanctions in this case. The University referred us to the
+foundational case of University of Toronto and Mr. C. dated November 5, 1976 and the oft
+quoted criteria (listed in page 12 of the decision) to determine appropriate penalty. The
+University reviewed those criteria with us:
+
+(i)
+47.
+
+the character of the persons charged
+
+The University asserted that what we could clearly extrapolate from the evidence
+
+was that
+
+SI was clearly prepared to be dishonest to obtain an advantage and that GI was
+
+willing to help her cheat. In the University's view, there is no evidence of any remorse and
+certainly no evidence of any mitigating circumstances which, in any event, would have been
+
+17
+on the accused Students to bring forward. The University urged that we should treat the
+accused Students' failure to attend or effectively participate in these proceedings as an
+exacerbating factor and pointed to at least one other decision in support of that assertion
+(University of Toronto and Ms. ~
+
+fl ~ . decision dated June 3, 2010 at
+
+paras 23-25).
+(ii)
+
+48.
+
+likelihood of repetition of the offence
+
+The University pointed to the fact that this was . s second offence, the first of
+
+which had occurred only 10 months before. Moreover, Dr. Vada had caught the two of
+them cheating at Quiz #1 and had warned them about it. Again, the University indicated
+that there were no circumstances to suggest that if unpunished or permitted to return to the
+University community, these offences would not be repeated by the accused Students.
+(iii)
+
+49.
+
+the nature of the offence committed
+
+The University indicated that personation was among the most serious of offences
+
+possible and other cases had regarded it as such. (e.g. University of Toronto and
+
+-- ca. decision [Case No. 617 ;February 16, 2011]). It was a deliberate act and
+events that could not be done merely negligently or carelessly, which clearly spoke to the
+seriousness of it.
+(iv)
+
+50.
+
+the detriment to the University
+
+Again, the University articulated how serious personation was.
+
+The evaluation
+
+process is critical to the functioning of the University and it is completely undermined by the
+offence of personation.
+
+In the University's submission, personation is even more
+
+detrimental than plagiarism - at least with respect to plagiarism there is some part of the
+work that is the student's - here there was none.
+
+18
+
+(v)
+51.
+
+general deterrence
+
+The University asserted that it was crucial that the Tribunal send to the University
+
+community the strongest of messages that this kind of conduct could not in any way be
+tolerated. Here, since it was almost happenstance that the accused Students were caught
+(particularly with respect to identifying
+
+GI). With offences that are difficult to detect, the
+
+need for a strong message of deterrence was even greater.
+52.
+
+The University reviewed a number of previous Tribunal decisions to demonstrate
+
+that the penalty it sought was in accordance with previous decisions of the Tribunal. The
+University stressed the value of the consistency in how the Tribunal dealt with similar
+offences. The University said that the Panel could extrapolate from the cases, at least the
+following two conclusions:
+(a)
+
+the
+
+Tribunal
+
+has
+
+ordered
+
+the
+
+most
+
+severe
+
+sanction,
+
+namely,
+
+a
+
+recommendation of expulsion, even for a first offence (and here it was, for ~
+at least, a second offence);
+(b)
+
+where a 5-year suspension was substituted as opposed to expulsion, it was
+only when the student participated in the process and demonstrated that the
+student had taken some responsibility for what the student had done, and
+wished to rehabilitate his/her relationship to the University. That was certainly
+not the situation here.
+
+53.
+
+After a brief recess, this Panel ruled unanimously to impose the sanctions that the
+
+University sought. Although not necessarily agreeing that the accused's failure to attend or
+participate in these proceedings was necessarily an exacerbating factor, this clearly was the
+
+19
+most serious of offences, and with no demonstration of either remorse or any significant
+appreciation of the degree of their wrongdoing, by either of the accused Students.
+Accordingly, this Tribunal recommends:
+(a)
+
+that both ~ and
+
+<11 be immediately suspended from the University for a
+
+period of up to 5 years from the date of the Orders or until the Governing
+Council makes its decision on expulsion, whichever comes first, and that a
+corresponding notation be placed on the academic record and transcript of
+the Students;
+(b)
+
+that the President of the University recommend to the Governing Council that
+~ and
+
+(c)
+
+GI be expelled from the University;
+
+that a final grade of zero be given to ~
+
+Dated at Toronto, this
+
+'],~
+
+day of October, 2014
+
+Mr. Bernard Fishbein, Chair
+
+in the course of MAT232H5.
+
+

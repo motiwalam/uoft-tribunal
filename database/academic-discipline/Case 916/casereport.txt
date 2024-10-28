@@ -1,0 +1,967 @@
+Case No.: 916
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on January 17, 2017,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters, 1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended S.O. 1978,
+c. 88
+
+BETWEEN:
+UNIVERSITY OF TORONTO
+
+-
+
+M
+
+- and S
+
+Reasons for Decision
+
+Hearing Date: December 15, 2017
+Members of the Panel:
+Ms. Cheryl Woodin, Chair
+Professor Pascal van Lieshout, Faculty Panel Member
+Ms. Natasha Ramkissoon, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, University of Toronto
+In Attendance:
+Mr. Christopher Lang, Director, Office of Appeals, Discipline and Faculty Grievances
+Professor Luc De Nil, Vice-Dean, Students, School of Graduate Studies
+Mr. Brian Alexic, IT Support, Office of the Governing Council
+
+-
+
+Not in Attendance:
+Mr. M
+S
+, the Student
+Ms. Julia Wilkes, Counsel to the Student, Wardle Daley Bernstein Bieber LLP
+
+2
+Introduction
+1.
+
+The Trial Division of the University Tribunal was convened on December 15,
+2017 to consider charges brought by the University of Toronto ("the University")
+against Mr. S
+
+("the Student") under the University of Toronto Code
+
+of Behaviour on Academic Matters, 1995 ("the Code").
+2.
+
+The Student was represented by Ms. Julia Wilkes who was not present at the
+hearing although she was available to answer any questions as might be
+required and to attend in person should it be required. The Tribunal was advised
+that both the Student and Wilkes were content to proceed in this fashion. As the
+hearing proceeded on an Agreed Statement of Facts and Joint Submissions on
+Penalty, all of which had been reviewed and agreed to by the Student in
+consultation with counsel, this manner of proceeding was acceptable to the
+Tribunal.
+
+The Charges and Particulars
+3.
+
+The Charges and Particulars alleged against the Student are as follows:
+
+Charges
+1. In or around August 2015, you knowingly represented as your own the ideas
+or expression of ideas or works of another in the dissertation entitled
+“Machiavelli’s Republicanisms: Society, Discord and the Politics of Equilibrium
+in the Florentine Histories” (the “Dissertation”), which you submitted in
+conformity with the requirements for the degree of Doctor of Philosophy,
+contrary to section B.I.1(d) of the Code.
+2. In the alternative, in or around August 2015, you knowingly obtained unauthorized
+assistance in connection with the Dissertation, which you submitted in conformity
+with the requirements for the degree of Doctor of Philosophy, contrary to section
+B.I.1(b) of the Code.
+
+3
+3. In the further alternative, in or around August 2015, by submitting the Dissertation,
+you knowingly engaged in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation not otherwise described in the Code in order to obtain
+academic credit or other academic advantage of any kind, contrary to section
+B.I.3(b) of the Code.
+Particulars:
+4. From Fall 2009 to Summer 2015, you were a student at the University of Toronto
+School of Graduate Studies and were enrolled in the Doctor of Philosophy program
+with the Department of Political Science.
+5. In or around August 2015, you submitted the Dissertation in partial completion of
+the requirements for the Degree of Doctor of Philosophy.
+6. You submitted the Dissertation:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas, and verbatim or
+nearly verbatim text from a number of sources, including:
+(i)
+
+Jurdjevic, A Great and Wretched City: Promise and Failure in
+Machiavelli’ Florentine Political Thought (Harvard, 2014);
+
+(ii)
+
+Jurdjevic, “Machiavelli’s Hybrid Republicanism”, English Historical
+Review, Vol. CXXII No. 499;
+
+(iii)
+
+Jurdjevic, “Writing History in a Ruined world”, in After Civic
+Humanism, eds. Nicholas Baker and Brian Maxson (Toronto: CRRS,
+2015);
+
+(iv)
+
+Robert Black, Machiavelli (Routledge, 2013);
+
+4
+(v)
+
+Robert Black, “Review of A Great & Wretched City: Promise and
+Failure in Machiavelli’s Florentine Political Thought”, Canadian
+Journal of History 49 (2014): 495-496; and
+
+(vi)
+
+Jurdjevic, “Virtue, Commerce, and the Enduring Florentine
+Republican Moment”, Journal of the History of Ideas. 62.4 (2001):
+721-743;
+
+(collectively, the “Sources”);
+(c)
+
+knowing that it contained ideas or expressions of ideas which were
+not your own, but were the ideas or expressions of ideas of others,
+including the authors of the Sources; and
+
+(d)
+
+knowing that you did not properly reference the ideas, expressions
+of ideas and the verbatim or nearly verbatim text that you drew from
+the Sources, including through the use of citations and/or quotation
+marks.
+
+7. You knowingly obtained unauthorized assistance in connection with the
+Dissertation, including from the Sources.
+8. You knowingly submitted the Dissertation with the intention that the University of
+Toronto rely on it as containing your own ideas that were expressed in your own
+words when evaluating your work, and to obtain an academic advantage.
+9. Counsel for the University advised that if the Tribunal convicted the Student on
+charge #1, the Provost would withdraw charges #2 and #3.
+The Evidence Related to the Charges
+4.
+
+The evidence was tendered by way of an Agreed Statement of Facts and a Joint
+Book of Documents.
+
+5.
+
+The Agreed Statement of Facts is reprinted below (without the source documents
+which are contained in the Joint Book of Documents).
+
+5
+1.
+
+This matter arises out of charges of academic misconduct filed on January
+17, 2017 by the Provost of the University of Toronto (the “Provost”) under
+the Code of Behaviour on Academic Matters (“Code”). The Provost and
+
+-
+
+M
+
+S
+
+(the “Student”) have prepared this Agreed
+
+Statement of Facts (“ASF”) and a joint book of documents (“JBD”). The
+Provost and the Student agree that:
+(a)
+
+each document contained in the JBD may be admitted into evidence
+for all purposes, including for the truth of the document’s contents,
+without further need to prove the document; and
+
+(b)
+
+if a document indicates that it was sent or received by someone, that
+is prima facie proof that the document was sent and received as
+indicated.
+
+A.
+
+Charges and guilty plea
+
+2.
+
+The Student admits that he received a copy of the charges filed by the
+Provost. The charges are included in the JBD at Tab 1.
+
+3.
+
+The Student admits that he received a copy of the notice of hearing in this
+matter and that he has received reasonable notice of this hearing. A copy
+of the notice of hearing is included in the JBD at Tab 2.
+
+4.
+
+The Student waives the reading of the charges filed against him, and pleads
+guilty to charge #1.
+
+5.
+
+The Provost agrees that if the Tribunal convicts the Student on charge #1,
+the Provost will withdraw charges #2 and #3.
+
+6.
+
+In Fall 2009, the Student was admitted to the University of Toronto School
+of Graduate Studies (“SGS”), in the Doctor of Philosophy program with the
+Department of Political Science. A copy of the Student’s current academic
+record is included in the JBD at Tab 3.
+
+6
+B.
+
+The Thesis
+
+7.
+
+In order to obtain the degree of Doctor of Philosophy, the Student was
+required, among other things, to complete and defend a thesis (course code
+RST9999Y).
+
+8.
+
+The Student was aware of the importance of academic integrity and the
+need to appropriately cite his sources in the completion of the thesis
+requirement. A copy of the General Regulations contained in the SGS
+Calendar
+
+(which
+
+is
+
+available
+
+online
+
+at
+
+https://sgs.calendar.utoronto.ca/general-regulations) is included in the JBD
+at Tab 4. It provides, at section 11.6:
+11.6 Code of Behaviour on Academic Matters
+The Code of Behaviour on Academic Matters addresses the
+responsibilities of all students and faculty to the integrity of the
+teaching and learning experience.
+See the full text of the Code of Behaviour on Academic Matters.
+9.
+
+In addition, a copy of the SGS website with respect to “Academic Integrity
+Resources”
+
+(at
+
+http://www.sgs.utoronto.ca/facultyandstaff/Pages/Academic-Integrity.aspx)
+is included in the JBD at Tab 5. It provides, in part:
+Policy
+The University's policy on academic misconduct is found in the
+Code of Behaviour on Academic Matters (the Code). Other
+policies deal with the general conduct of students (the Code of
+Student Conduct) and with research ethics. For information
+regarding allegations of research misconduct, please visit the
+website of the Vice-President, Research and Innovation.
+Students in graduate studies are expected to commit to the
+highest standards of integrity and to understand the importance
+of protecting and acknowledging intellectual property. For
+example, it is assumed that they bring to their graduate studies
+a clear understanding of how to cite references appropriately,
+
+7
+thereby avoiding plagiarism. The student's thinking must be
+understood as distinct from the sources upon which the student
+is referring. Two excellent documents entitled How Not to
+Plagiarize (of interest to students) and Deterring Plagiarism (of
+interest to faculty) are available for reference. Regarding
+plagiarism, the Code includes the following statements:
+B.i.1. It shall be an offence for a student knowingly:
+(d) to represent as one's own idea or expression of an idea or
+work of another in any academic examination or term test or in
+connection with any other form of academic work, i.e., to commit
+plagiarism.
+Wherever in the Code an offence is described as depending on
+"knowing," the offence shall likewise be deemed to have been
+committed if the person ought reasonably to have known.
+Other academic offences include the possession and/or use of
+unauthorized aids in examinations, submitting the same paper
+for different courses, forgery (whether of academic records or
+other documents), concocting facts or references to sources,
+personating someone, and other forms of cheating and
+academic dishonesty. Please refer to sections B.i.1. and B.i.3. in
+the Code for detailed descriptions of offences applicable to
+students.
+While offences are often related to coursework, they can be
+found outside the context of courses (e.g., theses). Furthermore,
+according to section B.i.4. in the Code, “A graduate of the
+University may be charged with any of the above offences
+committed knowingly while he or she was an active student,
+when, in the opinion of the Provost, the offence, if detected,
+would have resulted in a sanction sufficiently severe that the
+degree would not have been granted at the time that it was”.
+Academic misconduct by graduate students is taken very
+seriously. Following procedures outlined in the Code, cases
+involving graduate students are handled by the Chair/Director of
+the Graduate Unit and the Dean of the School of Graduate
+Studies. Students are encouraged to ask their graduate unit
+about specific practices in their discipline related to appropriate
+citation practices. It is the responsibility of the student to be
+informed and to cite it right. [Emphasis added]
+
+8
+10.
+
+The Student’s thesis supervisor was Professor Ryan Balot. He also had a
+committee, comprised of internal and external readers to provide him with
+comments on his thesis. Initially, the Student and his committee agreed that
+he would work to complete and defend his thesis by December 31, 2015.
+
+11.
+
+However, on April 29, 2015, the Student learned that he had been accepted
+to complete a post-doctoral fellowship at Arizona State University’s (“ASU”)
+Center for Political Thought and Leadership commencing in August 2015.
+Accordingly, the timetable for the completion of the Student’s thesis would
+need to be pushed up.
+
+12.
+
+At the time of his acceptance into ASU, the Student had completed drafts
+of three chapters of his thesis.
+
+13.
+
+On or about May 6, 2015, the Student proposed to his committee that he
+would complete a draft of his thesis by the second week of June 2015; his
+final thesis by the first week of July 2015; and he would defend his thesis in
+the second week of August 2015 to allow the Student to complete his
+degree in time to commence his post-doctoral fellowship.
+
+14.
+
+By May 22, 2015, however, it became clear that the timeline would have to
+be further expedited to meet the SGS submission deadlines. The Student
+was required to submit a draft manuscript to the internal and external
+committee members by approximately June 2, 2015, and a finalized draft to
+the external reviewer by approximately June 30, 2015.
+
+15.
+
+The Student worked simultaneously on completing the final chapters of his
+thesis and revising the chapters previously provided to members of his
+committee.
+
+16.
+
+In mid-June 2015, the fourth of five readers of his work (and one of his
+external committee members) advised the Student that he should have
+more thoroughly addressed the work of Professor Mark Jurdjevic (Associate
+Professor and Chair of the Department of History at York University) in his
+
+9
+work. While the Student had previously reviewed Professor Jurdjevic’s
+work, he spent substantial time over the next few weeks to address the
+reader’s comments.
+17.
+
+The Student addressed the prominent, relevant works of Professor
+Jurdjevic. In many instances, the Student disagreed with Professor
+Jurdjevic’s conclusions. He distinguished those works in many places in his
+thesis.
+
+18.
+
+In approximately late June 2015, the Student submitted his final thesis
+entitled “Machiavelli’s Republicanisms: Society, Discord and Politics of
+Equilibrium in the Florentine Histories” (the “Thesis”) in completion of his
+thesis requirement, and in approximately August 2015, he defended his
+Thesis.
+
+19.
+
+In November 2015, the Student was conferred the degree of Doctor of
+Philosophy from the University.
+
+C.
+
+Allegations of Plagiarism Come to Light
+
+20.
+
+After the Student had been conferred his degree by the University of
+Toronto (and while he was completing his post-doctoral fellowship with
+ASU), the Student and Professor Jurdjevic discussed working together on
+a post-doctoral research project. Professor Jurdjevic invited the Student to
+sit on a panel at a conference with him and the Student’s external reviewer,
+Dr. John McCormick. Professor Jurdjevic and the Student met for dinner at
+a conference in February 2016 to discuss conducting research together.
+
+21.
+
+After that meeting, Professor Jurdjevic reviewed the Thesis. On review,
+Professor Jurdjevic determined that the Thesis contained approximately 50
+passages that were taken from his work or other works without appropriate
+attribution. In some instances, the passages were taken verbatim or nearly
+verbatim from Professor Jurdjevic’s work; in other instances, they were
+paraphrased without appropriate citation. A copy of the passages that
+
+10
+Professor Jurdjevic identified from the Thesis are included in the JBD at
+Tab 6.
+22.
+
+On July 30, 2016, Professor Jurdjevic brought this matter to the attention of
+Professor Ryan Balot, the Student’s Ph.D. supervisor at the University.
+
+23.
+
+On August 4, 2016, the Student met with Professor Balot and Professor
+Steven Bernstein, Associate Chair and Graduate Director of the
+Department of Political Science at the University, to discuss the allegation
+of academic misconduct.
+
+D.
+
+Dean’s Meeting
+
+24.
+
+On November 9, 2016, the Student met with Luc De Nil, Vice-Dean,
+Students, at the School of Graduate Studies, as well as with Professor Balot
+and Professor Bernstein, via teleconference. The Student was represented
+by a lawyer, Julia Wilkes. During the meeting, the Student admitted that he
+had committed plagiarism in the Thesis.
+
+25.
+
+The next day, on November 10, 2016, Vice-Dean De Nil sent a letter to the
+Student summarizing their meeting and advising that he would be referring
+the matter to the Provost. A copy of Vice-Dean De Nil’s letter is included in
+the JBD at Tab 7.
+
+E.
+
+Consent to Submit Thesis to Turnitin and Ithenticate
+
+26.
+
+On June 26, 2017, the Student provided consent to the University for the
+submission of the Thesis to two online databases: Turnitin.com and
+Ithenticate.com. A copy of the consent form executed by the Student is
+included in the JBD at Tab 8. Turnitin.com and Ithenticate.com are
+databases that contain academic works and online sources, used for the
+purposes of detecting plagiarism. The Thesis had not previously been
+submitted to either of the databases.
+
+11
+F.
+
+Comparison between Thesis and Sources
+
+27.
+
+The submission of the Thesis to the databases revealed additional
+passages that had been taken verbatim or nearly verbatim without
+appropriate attribution (beyond those identified by Professor Jurdjevic). An
+annotated and highlighted copy of the Thesis is included in the JBD at Tab
+9.
+
+28.
+
+The sources from which the Student plagiarized are:
+(a)
+
+“A Great and Wretched City: Promise and Failure in Machiavelli’s
+Florentine Political Thought” by Mark Jurdjevic, an excerpt of which
+is included in the JBD at Tab 9A;
+
+(b)
+
+“Machiavelli’s Hybrid Republicanism” by Mark Jurdjevic, a copy of
+which is included in the JBD at Tab 9B;
+
+(c)
+
+Review of “A Great & Wretched City: Promise and Failure in
+Machiavelli’s Florentine Political Thought” by Robert Black, a copy of
+which is included in the JBD at Tab 9C;
+
+(d)
+
+“Machiavelli” by Robert Black, an excerpt of which is included in the
+JBD at Tab 9D;
+
+(e)
+
+“Actors and Structures in Machiavelli’s Istorie Fiorentine” by Sverre
+Bagge, a copy of which is included in the JBD at Tab 9E;
+
+(f)
+
+“Virtue, Commerce, and the Enduring Florentine Republican
+Moment: Reintegrating Italy into the Atlantic Republican Debate” by
+Mark Jurdjevic, a copy of which is included in the JBD at Tab 9F;
+
+(g)
+
+“The Virtue of Ruin in Machiavelli’s Florentine Histories” by Jack
+D’Amico, a copy of which is included in the JBD at Tab 9G;
+
+12
+(h)
+
+“John Adams’s Machiavellian Moment” by C. Bradley Thompson, a
+copy of which is included in the JBD at Tab 9H;
+
+(i)
+
+“Giannoti and Contarini: Venice as Concept and as Myth” by J.G. A.
+Pocock, a copy of which is included in the JBD at Tab 9I;
+
+(j)
+
+“Civic
+
+Humanism:
+
+The
+
+Florentine
+
+Legacy”
+
+at
+
+http://www2.idehist.uu.se/distans/ilmh/Ren/civic-mixed.htm, a copy
+of which is included in the JBD at Tab 9J; and
+(k)
+
+“Justice and Injustice” in Machiavelli’s Ethics by Erica Benner
+(Princeton), a copy of which is included in the JBD at Tab 9K
+
+(collectively, the “Sources”).
+29.
+
+The copy of the Thesis at Tab 9 of the JBD includes notes in the margin, as
+well as highlighting, to indicate the text that was taken verbatim or nearly
+verbatim from the Sources. The highlighting in the Thesis at Tab 9 of the
+JBD corresponds to the highlighting contained in the Sources at Tabs 9A
+through 9K of the JBD.
+
+G.
+
+Admissions and Acknowledgements
+
+30.
+
+The Student admits that he inadvertently but knowingly (as defined in the
+Code of Behaviour on Academic Matters):
+(a)
+
+included verbatim or nearly verbatim excerpts from the Sources in
+the Thesis;
+
+(b)
+
+failed to attribute appropriately those verbatim or nearly verbatim
+excerpts to the Sources, including through the use of citations,
+quotation marks or other appropriate means;
+
+13
+(c)
+
+represented in the Thesis the ideas of another person, the
+expression of the ideas of another person, or the work of another
+person as his own; and
+
+(d)
+31.
+
+committed plagiarism, contrary to section B.I.1(d) of the Code.
+
+The Student acknowledges that:
+(a)
+
+the Provost has advised the Student of his right to obtain legal
+counsel and that he has done so; and
+
+(b)
+
+he is signing this ASF freely and voluntarily, knowing of the potential
+consequences he faces, and does so with the advice of counsel.
+
+Decision of the Tribunal on the Charges
+6.
+
+The University must establish on a balance of probabilities through clear and
+convincing evidence that an academic offence has been committed by the Student.
+
+7.
+
+In this case, in light of the evidence contained in the Agreed Statement of Facts,
+which includes certain admissions and acknowledgements by the Student, as well
+as the Joint Book of Documents, the Tribunal found that the Student had
+committed an academic offence as set out in Charge #1 in that:
+In or around August 2015, you knowingly represented as your own the ideas
+or expression of ideas or works of another in the dissertation entitled
+“Machiavelli’s Republicanisms: Society, Discord and the Politics of
+Equilibrium in the Florentine Histories” (the “Dissertation”), which you
+submitted in conformity with the requirements for the degree of Doctor of
+Philosophy, contrary to section B.I.1(d) of the Code.
+
+8.
+
+The Tribunal is satisfied that there is clear and convincing evidence that the
+Student knowingly represented another’s ideas, expression of ideas and/or work
+as his own.
+
+14
+9.
+
+The plagiarism at issue consists of approximately 50 passages that were taken
+from the work of Dr. Jurdjevic (who first discovered the plagiarism) or from other
+works without appropriate attribution. In particular, there are many instances of
+passages that were taken verbatim or nearly verbatim without appropriate citation.
+In other cases they were paraphrased without appropriate citation.
+
+10.
+
+The University’s counsel provided the Tribunal with an annotated copy of the
+Thesis highlighting each of these instances. The Tribunal reviewed a number of
+these passages in detail. While the Tribunal recognizes that the Student was
+operating on a compressed timeline for completion of his thesis, there is no
+question that the result of this compressed timeline was a thesis which quite clearly
+contains plagiarized passages.
+
+11.
+
+It is significant that the Student was aware of the importance of academic integrity
+when he began his thesis and admitted that he had committed plagiarism when
+confronted with it.
+
+12.
+
+In light of the Tribunal's finding on Charge #1, Charges #2 and #3 were withdrawn
+by the Provost.
+
+The Evidence Related to Penalty
+13.
+
+The Agreed Statement of Facts on Penalty is reprinted below (without source
+documents) save and except for paragraphs 4-6 which have been removed at the
+request of the Student's counsel on the basis that they summarize information
+relating to the Student's medical circumstances which need not be published.
+
+14.
+
+Counsel for the University took no position on this request provided that these
+reasons adequately describe the circumstances supporting the Penalty.
+
+The
+
+Tribunal was content to proceed in this manner.
+1.
+
+This matter arises out of charges of academic misconduct filed on January
+17, 2017 by the Provost of the University of Toronto (the “Provost”) under
+the Code of Behaviour on Academic Matters (“Code”). The Provost and
+
+15
+
+-
+
+M
+
+S
+
+(the “Student”) have prepared this Agreed
+
+Statement of Facts on Penalty (“ASF on Penalty”). The Provost and the
+Student agree that:
+(a)
+
+each document attached to this ASF on Penalty may be admitted
+into evidence at the Tribunal for all purposes, including for the truth
+of the document’s contents, without further need to prove the
+document;
+
+(b)
+
+if a document indicates that it was sent or received by someone, that
+is prima facie proof that the document was sent and received as
+indicated; and
+
+(c)
+
+this ASF on Penalty uses the same defined terms as those used in
+the Agreed Statement of Facts.
+
+A.
+
+The Thesis
+
+2.
+
+The Student admits that, had the plagiarism in the Thesis been detected before he
+was conferred his Doctor of Philosophy degree, the degree would not have been
+granted.
+
+3.
+
+The Student’s Ph.D. supervisor, Professor Balot, has advised the Provost that he
+is not prepared to accept the resubmission of the Thesis or to continue to work
+with the Student on his Ph.D.
+
+B.
+
+The Student’s Medical Circumstances
+
+4.
+
+[INFORMATION REDACTED]
+
+5.
+
+[INFORMATION REDACTED]
+
+6.
+
+[INFORMATION REDACTED]
+
+16
+C.
+
+Other Circumstances Surrounding Discovery of Plagiarism
+
+7.
+
+In or around September 2015, the Student prepared an application to the
+Social Sciences and Humanities Research Council for a 2015-16
+Postdoctoral Fellowship in the Center for Political Thought, which included
+a letter of interest and description of his Thesis. A copy of the description of
+the Student’s Thesis is attached at Tab 1.
+
+8.
+
+As part of his application, the Student requested that Professor Mark
+Jurdjevic prepare a letter of support on his behalf.
+
+9.
+
+On review of the Student’s description of the Thesis, Professor Jurdjevic
+recognized a number of passages from his own work that were not properly
+cited. On September 20, 2015, Professor Jurdjevic sent an email to the
+Student about the passages that he had identified. The Student apologized
+and accepted that he had made a mistake. He also indicated that he would
+make the necessary changes to the description. A copy of the email
+exchange between the Student and Professor Jurdjevic is included in the
+JBD at Tab 2.
+
+10.
+
+As set out in the Agreed Statement of Facts, Professor Jurdjevic
+subsequently reviewed the Thesis and determined that passages in the
+Thesis had been plagiarized.
+
+D.
+
+Events following Discovery of Plagiarism
+
+11.
+
+As set out in the Agreed Statement of Facts, the Student was accepted to
+a post-doctoral fellowship with ASU. Although the fellowship was originally
+scheduled to commence in August 2015, due to issues relating to his visa,
+he did not start his fellowship with ASU until November 2015.
+
+12.
+
+The Student completed the post-doctoral fellowship with ASU as of June
+30, 2017.
+
+17
+13.
+
+As of August 2016, when the Student met with Professor Balot and
+Professor Bernstein with respect to the allegation of academic misconduct
+in the Thesis, the Student had an advance contract with a publisher to
+publish a book, provisionally entitled “Machiavelli’s Republicanisms”, which
+would build on the Student’s work in the Thesis (the “Book Project”).
+
+14.
+
+After the allegation of academic misconduct in the Thesis came to light, the
+Student voluntarily withdrew from the Book Project.
+
+15.
+
+The Student is currently working in Toronto as a Bilingual Coordinator at a
+non-profit organization that promotes education and resources about
+physical activity and its role in developing and maintaining healthy
+individuals and communities. He manages a group of French-speaking
+ambassadors that advocate the organization’s mission in their respective
+regions.
+
+E.
+
+Acknowledgments
+
+16.
+
+The Student acknowledges that:
+(a)
+
+the Provost advised him of his right to obtain legal counsel, and he
+has done so; and
+
+(b)
+
+he is signing this ASF on Penalty freely and voluntarily, knowing of
+the potential consequences she faces.
+
+15.
+
+Further, the Student provided certain undertakings and has acknowledged certain
+positions taken by the University which are relevant to the Tribunal's consideration
+of the penalty submission. They are as follows:
+(a)
+
+The Student undertakes not to enrol in, or apply for admission to, any
+program or course at the University until the Fall 2020 term or later. For
+clarity, however, he may submit an application to the University before the
+Fall 2020 term provided that the first term in which he would be enrolled is
+Fall 2020 or later.
+
+18
+(b)
+
+The Student understands and agrees that whether he will be permitted to
+enrol at the University, including in the Doctor of Philosophy program, will
+be determined by the University at such time as his application is received.
+For clarity, the University may consider the circumstances surrounding the
+commission of this academic offence and the sanction imposed in
+assessing the Student’s application.
+
+(c)
+
+The Student further understands and agrees that a notation will be placed
+on his academic record and transcript indicating that he is not permitted to
+enrol in, or apply for admission to, the University until the Fall 2020 term or
+later. Such notation will be removed as of September 1, 2020.
+
+(d)
+
+The Student agrees that should he contravene the undertaking given at
+paragraph 4 and should he become enrolled in a program or course at the
+University before Fall 2020, the University will be entitled to withdraw his
+admission from such program or course.
+
+(e)
+
+The Student further undertakes to return his degree certificate to the
+University, and consents to the removal of his thesis from the University
+library and the Library and Archives Canada, and any affiliated
+organizations or databases, and will sign any documents or take any such
+acts as are required to facilitate the removal of his thesis from such libraries,
+organizations or databases.
+
+Decision of the Tribunal on the Penalty
+16.
+
+In this case, the plagiarism is unambiguous but must be assessed in its context. It
+occurred in a significant work in which many sources were identified and where
+effort was clearly made to properly attribute to those sources.
+
+17.
+
+While not a defence or an excuse for the conduct, the Tribunal recognizes that the
+conduct occurred in the context of an expedited timeline for delivery of the thesis,
+coinciding with a time when the Student was without certain personal supports
+
+19
+which were previously available to him (outside of the University) and which could
+have assisted him in managing this expedited timeline.
+18.
+
+It must be noted that the Student was confronted with a concern about attribution
+by Professor Jurdjevic in September 2015 before the issues with the thesis itself
+were discovered. While the Student admitted the attribution problem at that time,
+he took no steps to address the more significant and underlying issue, being the
+plagiarism in the thesis itself.
+
+19.
+
+With the preceding caveat, the Student has no history of plagiarism or other
+misconduct with the University and admitted his guilt in relation to the thesis itself
+both initially and for purposes of this hearing. He has taken no steps to oppose,
+delay or challenge this process.
+
+In fact, he has co-operated throughout,
+
+recognizing the seriousness of the consequences likely to follow.
+20.
+
+The offence is serious however because it occurred in the context of a dissertation
+thesis, which had significant visibility as a work authored by a student of the
+University. The Student intended the thesis to form the basis for a book, where it
+would have had even greater prominence and visibility as a representation of the
+University’s academic quality.
+
+21.
+
+The Tribunal considered a series of cases which were presented to it and which
+addressed plagiarism or similar misconduct in the context of a thesis.
+
+22.
+
+The cases assisted the Tribunal in supporting the sanction to which the parties
+agreed in this case as they demonstrated that in the context of a thesis dissertation,
+even without a history of prior offences, a sanction of zero in the course and a
+recall and cancellation of the degree, as applicable, is appropriate. They also
+establish that where there are certain mitigating factors (no previous history of
+academic offices, co-operation), the opportunity to re-apply to the University at a
+future date is appropriate. There is a high threshold for departing from a joint
+submission on penalty (The University of Toronto and M.A. (Case No. 837,
+December 22, 2016). It has not been met in this case.
+
+20
+23.
+
+On the basis of its consideration of the evidence and the benefit of guidance from
+similar cases the Tribunal accepts the joint submission of the University and the
+Student. Accordingly, the Tribunal made an order as follows:
+(a)
+
+a final grade of zero in the course RST9999Y;
+
+(b)
+
+a recommendation by the Tribunal to the Governing Council that the
+Student’s Doctor of Philosophy degree, conferred November 2015, be
+cancelled and recalled; and
+
+(c)
+24.
+
+a permanent notation of the sanction on his academic record and transcript.
+
+The case shall be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed, with the name of the Student withheld.
+Dated at Toronto this 12th day of March, 2018
+
+___________________________________
+Ms. Cheryl Woodin, Chair
+
+

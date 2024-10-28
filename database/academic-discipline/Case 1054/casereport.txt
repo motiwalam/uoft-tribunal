@@ -1,0 +1,418 @@
+Case No.: 1054
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty made on August 24, 2018,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and A
+
+M
+
+(the “Student”)
+
+REASONS FOR DECISION
+Hearing Dates: November 13 and 20, 2019 and January 15, 2020
+Members of the Panel:
+Mr. Shaun Laubman, Lawyer, Chair
+Professor Julian Lowman, Faculty Panel Member
+Ms. Karen Chen, Student Panel Member
+Appearances:
+Ms. Tina Lie, Assistant Discipline Counsel, Paliare Roland Rosenberg, Rothstein LLP
+Ms. Hanna Yakymova, Downtown Legal Services, Representative for the Student
+Hearing Secretary:
+Krista Kennedy, Administrative Clerk and Hearings Secretary, Office of Appeals, Discipline and
+Faculty Grievances, University of Toronto
+In Attendance:
+The Student, (in person on November 13, 2019); (via Skype on November 20, 2019; and
+January 15, 2020)
+
+1. The Trial Division of the University Tribunal heard this matter over three days. Mr.
+M
+
+(the “Student”) participated in person on the first date and by videoconference
+
+on the second and third.
+2. For the reasons provided below, the Tribunal found the Student guilty of academic
+misconduct.
+Background and Agreed Statement of Facts
+3. Helpfully, the parties provided an Agreed Statement of Facts (“ASF”) that was relied
+upon by the Tribunal. The ASF addressed many of the underlying facts and certain
+procedural matters and is reproduced in full as Schedule “A” to these Reasons.
+4. The Student was charged as follows:
+a. On or about March 15, 2018, you knowingly forged or in any other way altered or
+falsified a document or evidence required by the University, or uttered, circulated
+or made use of such forged, altered or falsified document, namely a Scantron
+sheet that you submitted in a midterm examination in LMP301H1 (the “Course”),
+contrary to section B.I.1(a) of the Code.
+b. On or about March 15, 2018, you knowingly obtained unauthorized assistance in
+connection with a midterm examination that you wrote in LMP301H1, contrary to
+section B.I.1(b) of the Code.
+c. In the alternative, on or about March 15, 2018, you knowingly engaged in a form
+of cheating, academic dishonesty or misconduct, fraud or misrepresentation in
+order to obtain academic credit or other academic advantage of any kind in
+connection with a midterm examination that you wrote in LMP301H1, contrary to
+section B.1.3(b) of the Code. (collectively referred to as the “Charges”)
+
+2
+
+The University’s Position and Evidence
+5. The University’s position was that the Student copied off the exam paper of one or more
+students sitting around him in the exam room. However, since there were two different
+versions of the exam distributed (version A and version B), the Student had to
+misrepresent on his Scantron form that he had a version A exam since that was the
+version of the exam that he copied off of. The Student had in fact been given a version B
+exam.
+6. The University called Dr. Lei Fu as its first witness. Dr. Fu was one of the course
+instructors. She was present during the exam although she did not participate in the
+distribution of the exam prior to the students entering the room. She did describe the
+room layout, where there were tables and chairs aligned in straight rows.
+7. She also described how each row received either a version A or a version B exam with
+each table in a row receiving the identical version. The version distributed alternated
+between rows to reduce the potential for cheating.
+8. Both versions of the exam had the same questions but the questions were arranged in a
+different order.
+9. Dr. Fu said she did not notice anything suspicious during the exam. If students finished
+the exam early, they were permitted to hand in their completed Scantron form and exam
+and leave within ten minutes of the end of the session. Students who did not finish earlier
+than ten minutes before the end had to remain and their Scantron forms and exams were
+collected at the end.
+10. Dr. Fu described how the forms and exams were collected quickly at the end as students
+were in a hurry to leave. She said that she separated the version A and version B
+forms/exams into separate piles. When she went through them individually, she noticed
+that there was a version A Scantron form with a version B exam. The form in question
+was the Student’s.
+
+3
+
+11. In other words, the Student indicated on his Scantron form that he had a version A exam
+but the exam that he submitted with the form was a version B exam.
+12. Dr. Fu counted all of the submitted forms and exams and found there were an equal
+number of version A and version B exams, 62 of each. However, when she counted the
+submitted Scantron forms, she counted 63 version A forms and 61 version B forms. She
+said she recounted the forms and exams three times to confirm the discrepancy. The
+Student’s Scantron form was the only one where the version noted on the form differed
+from the associated version of the exam.
+13. The University’s second witness was Professor Elizabeth Cowper, Dean’s Designate for
+Academic Integrity. She testified about the Dean’s Designate meeting with the Student.
+14. According to Prof. Cowper, at the meeting, the Student was confronted with the
+allegation that the specific version B exam that was entered into evidence at the hearing
+was the exam he had been given. The Student denied that he was provided a version B
+exam and insisted that he had received a version A exam. When asked about apparent
+erased markings on the version B exam, the Student denied that the markings were his
+handwriting. According to Prof. Cowper, at the meeting, the Student denied any
+knowledge as to why there was a discrepancy between his Scantron form and the version
+of the exam he handed in with it.
+15. Finally, the University tendered the affidavit evidence and expert report of Diane Kruger,
+a forensic document examiner. Ms. Kruger’s opinion evidence went in on consent and
+was uncontested.
+16. Ms. Kruger determined that the erased markings on the version B exam were the
+Student’s. Importantly, this was admitted by the Student by the time of the hearing (see
+paragraph 13 of the ASF). The Student also admitted in the ASF that he had in fact
+received a version B exam.
+17. Ms. Kruger was able to reconstruct the markings that the Student had erased. In the
+upper right hand corner of the exam pages, he had written answers to the questions that
+
+4
+
+corresponded with the answers he used on his Scantron form. He then erased the answers
+on the exam.
+18. The University’s position was that the Student was compelled to change his explanation
+and denial from the Dean’s Designate’s meeting after he was confronted with the expert
+forensic evidence tying him to the version B exam with the erased markings.
+The Student’s Position and Evidence
+19. The Student testified in his own defence.
+20. The Student described that when he entered the exam room, the exams and Scantron
+forms were already distributed on the individual tables. He said that he had a version A
+exam and it wasn’t until after the exam had already started that he noticed he had
+somehow been given a second exam as well, this one a version B exam.
+21. The Student acknowledged during his cross-examination that he could have raised his
+hand and asked for guidance on what to do with the two versions of the exam. However,
+he said he was worried that he would get in trouble for having two versions and in a panic
+he decided that the best course of action was to complete his Scantron form using the
+version A exam he said he noticed first.
+22. When it came time to hand in his exam, the Student’s testimony was that he intended to
+hand in the version A exam but he inadvertently handed in the version B exam instead.
+He said he took the version A exam with him from the exam room and disposed of it
+before he was aware there was any issue of academic misconduct.
+23. The Student’s explanation for the erased markings on the version B exam he submitted
+was that he used it as a worksheet when he ran out of room on the version A exam.
+24. Finally, the Student said that he felt that Prof. Cowper had already made up her mind and
+there was no benefit to explaining what had happened at the Dean’s Designate meeting.
+He acknowledged being given the opportunity to provide an explanation but claimed that
+he did not think that Prof. Cowper would listen to him so he simply denied that the
+version B exam was his.
+5
+
+25. The Student’s position was that he was given both versions of the exam and that he did in
+fact have a version A exam as indicated on his Scantron form. He claimed to have
+received no advantage as a result of getting both versions of the exam since the questions
+were identical (only in a different order). He denied any academic violation and
+maintained that the answers on his Scantron form were his and not copied off of anyone.
+Additional Witnesses and Motion for an Adjournment
+26. The Tribunal had to address a number of mid-hearing motions and evidentiary issues. In
+each case, the Tribunal sought to arrive at a decision that was consistent with the
+procedural and evidentiary rules and that balanced the interests of the parties.
+27. Reasons for the mid-hearing motions were delivered orally during the course of the
+hearing. However, in order to assist future Tribunals confronted with similar issues, a
+brief summary of the issues and reasoning for the decisions is provided below.
+Inadmissible evidence
+28. First, the Student sought to call a second witness at the hearing, Brendan Neufeld. Mr.
+Neufeld was the Student’s initial case worker at Downtown Legal Services during the
+summer of 2019.
+29. Mr. Neufeld was going to provide evidence regarding his observations of the distribution
+of answers across the 124 exams that were completed for the mid-term. The purpose of
+this evidence was to support the Student’s argument that there were no other exams that
+had an identical or substantively similar pattern of correct and incorrect answers. The
+inference that the Student wanted to have drawn was that he did not copy off of any other
+student taking the exam.
+30. The University objected to Mr. Neufeld’s evidence and the objection was upheld. First,
+there is a concern that a party’s legal representative (even if that representative is not
+actively conducting the hearing) should not be giving evidence at a hearing unless there
+are compelling reasons for it. More significantly, the proposed evidence was Mr.
+Neufeld’s observations and conclusions drawn from the documentary evidence. It is
+6
+
+questionable whether the proposed evidence was in fact evidence as opposed to argument
+but, even if it was, it would effectively be opinion not fact evidence and of no assistance
+to the Tribunal in the circumstances.
+31. The Student was allowed to address the observations and arguments that had been
+proposed to be put into evidence via Mr. Neufeld as part of the closing submissions.
+Adjournment to call reply evidence
+32. The next motion arose after the Student completed his evidence and the defence rested its
+case. The University requested an adjournment in order to call reply evidence. The
+Student opposed the adjournment request.
+33. The basis for the University’s request was that it wanted to consider and potentially call
+the teaching assistants for the Course, who were involved with distributing the exam
+papers, in reply to the Student’s evidence that he had been given both version A and
+version B exams. The University asserted that the first time it had heard this explanation
+was when the Student testified and therefore it could not have anticipated the need to call
+the TAs as witnesses.
+34. The Student opposed the adjournment request for several reasons:
+a. the University was splitting its case. According to the Student, the University
+could and should have anticipated the Student’s defence and called the TAs to
+testify at the hearing as part of its case in chief; and
+b. the prejudice to the Student arising from the further delay. The Charges had been
+outstanding for over one and a half years already and the Student would have to
+travel back from England, where he lives, if there was another day of hearing.
+35. The adjournment request was granted on terms. While it was reasonable to argue that the
+University could have called the TAs as witnesses during their case in chief given their
+involvement in the events in question, it was true that the Student chose to provide his
+explanation for the first time during his testimony. That was his right, however, fairness
+dictated that the University be given an opportunity to call reply evidence.
+7
+
+36. While the need for an adjournment was unfortunate, terms were imposed in order to
+negate any potential prejudice:
+a. The University was instructed not to discuss the evidence at the hearing with the
+potential reply witnesses;
+b. Any reply evidence was strictly limited to true reply, that is, it had to be in
+response to evidence that was raised for the first time in the Student’s testimony;
+c. The delay due to the adjournment was brief as all parties and counsel were
+accommodating and able to find a date within one week to resume the proceeding;
+and
+d. The Student was given the opportunity to participate in the resumed hearing via
+videoconference. Since he had already testified, there was no impact on the
+quality of the evidence as a result of this accommodation.
+Production of counsel’s notes
+37. On the second hearing date, prior to the University calling its reply witnesses, the Student
+brought a motion seeking production of University counsel’s notes of interviews
+conducted with the reply witnesses in between the hearing dates.
+38. The University called as reply witnesses two of the TAs for the Course who were
+invigilators for the exam. Prior to the second hearing date, the Student was provided with
+a “Will Say” summary of the reply witnesses’ proposed evidence.
+39. The Student argued that the University should have to produce counsel’s notes from the
+interviews with the witnesses in order to understand what questions were asked. The
+Student contended that it was relevant to know what questions were asked since the way
+that the questions were framed could impact the substance of the answers.
+40. The University opposed production on the basis that counsel’s notes were privileged. It
+also argued that the content of the questions was irrelevant and production could lead to
+
+8
+
+the need for University counsel to become a witness, thereby leading to a further
+adjournment.
+41. The Student’s production motion was denied. While the case law submitted to the
+Tribunal in support of the parties’ respective positions was largely distinguishable, there
+is a general principle that the notes prepared by counsel of interviews conducted in
+preparation for a hearing are subject to litigation privilege. The underlying facts are not
+subject to privilege, however, the notes themselves ordinarily will be. That applies even
+in a case such as this one where the University acknowledged that the discussions with
+the TAs in between the hearing dates were the first time that the potential witnesses were
+interviewed.
+42. However, to ensure that the Student had full disclosure of the underlying facts within the
+proposed reply witnesses’ knowledge, the University was ordered to review the counsel
+notes and to provide a summary of any additional facts that were not reflected in the
+“Will Say” summaries that had already been produced even if the additional facts were
+not evidence that the University intended to lead.
+University’s Reply Evidence
+43. As stated, the University called two reply witnesses, Scott Ryall and Kristiana Xhima.
+44. Mr. Ryall was the lead TA for the Course. He was the individual primarily responsible
+for preparing and distributing copies of the exams. He described the procedure that he
+followed for distributing copies of the exams, alternating between version A and version
+B for adjacent rows. He also described the process he followed for counting the number
+of exams that he brought to the exam room, that were distributed to students at the exam
+and then either not used (as there were extra copies) or handed in at the end of the exam
+with the completed Scantron forms.
+45. Mr. Ryall described the methodical counting process he undertook to ensure that all
+copies for the exams were accounted for. He said that the exam was a “restricted exam”
+meaning that students were not permitted to keep copies of the exams. This was because
+the same exams were used each time the Course was offered, at least in recent years.
+9
+
+46. Mr. Ryall said he did not notice anyone cheating during the exam. However, he did say
+he recalled Dr. Fu stopping in the middle of collecting the exams at the end. According
+to Mr. Ryall, she stopped when she collected the Student’s Scantron form and exam and
+noticed the discrepancy between the two.
+47. Ms. Xhima did not recall as many details as Mr. Ryall. She did recall that there was a
+system in place to alternate between handing out version A and version B exams but she
+did not recall the specifics.
+48. Ms. Xhima did not recall Dr. Fu stopping in the middle of collecting the exams. Instead,
+like Dr. Fu, she recalled that the discrepancy between the Student’s Scantron form and
+his exam was discovered following the exam when Dr. Fu was reviewing all of the exams
+that were handed in.
+Decision of the Tribunal
+49. The Tribunal deliberated and after considering the evidence and submissions presented
+by both the University and the Student, it unanimously determined that the Student was
+guilty of knowingly engaging in a form of cheating, academic dishonesty or misconduct,
+fraud or misrepresentation in order to obtain academic credit or other academic advantage
+of any kind in connection with the midterm examination in LMP301H1, contrary to
+section B.I.3(b) of the Code of Behaviour on Academic Matters.
+50. As set out in the ASF, there was no dispute regarding the following facts:
+a. The Student did receive a version B exam;
+b. He did not provide his name or student number on the exam paper, as required;
+c. He made markings on the exam paper and subsequently erased some of them;
+d. He submitted a Scantron form indicating that he had received a version A exam;
+
+10
+
+e. The Student answered 18 out of 25 questions correctly based on the version A
+exam. Based on the version B exam, he would have only received a score of 4
+out of 25.
+51. There was also no dispute that the Student did not give the explanation that he had
+received copies of both the version A and version B exams when he met Prof. Cowper for
+the Dean’s Designate meeting. Instead, at the meeting, the Student denied that the
+version B exam was his.
+52. The Student’s explanation at the Hearing was not accepted by the Tribunal. As stated
+above, it was inconsistent (and directly contrary in some respects) to the explanation he
+gave at the Dean’s Designate meeting. The Student’s evidence as to why he did not tell
+Prof. Cowper that he had received two exams was not credible. By the time of the
+meeting, the Student knew he faced an allegation of serious academic misconduct. It did
+not make sense for him to lie if he had in fact received two versions of the exam as he
+claimed at the hearing.
+53. It is more likely that the Student denied getting a version B exam at the Dean’s Designate
+meeting because he believed at the time that was his best opportunity to avoid liability.
+However, in the face of the University’s expert handwriting evidence that tied him to the
+version B exam, he had to change his explanation to the Tribunal.
+54. The Tribunal also did not accept the Student’s account of what took place on the day of
+the exam. There was no direct evidence to corroborate that he received a version A
+exam. The Tribunal does not accept that the Student would not have raised his hand and
+asked for assistance had he actually discovered that he had been given both versions of
+the exam. We also do not accept the Student’s evidence that he inadvertently handed in
+the version B exam and left with the version A exam that he had intended to submit with
+his Scantron form.
+55. The Student had no explanation for why he erased the answers that he wrote in the upper
+corners of his version B exam booklet. The erased markings corresponded with the
+
+11
+
+answers on his Scantron form. It is more likely than not that he erased the answers in an
+effort to conceal them when he handed in the exam booklet.
+56. While there were some inconsistencies in the evidence of the University’s witnesses,
+these can be explained by the passage of time since the exam date. Mr. Ryall’s evidence
+established that there was a system in place for ensuring that students received only one
+version of the exam and that the overall number of exams that were distributed were
+accounted for throughout. His evidence established that it was very unlikely that the
+Student inadvertently received two different versions of the exam.
+57. Finally, while the Tribunal was satisfied by the evidence that the Student had committed
+an academic offence, we were not convinced that the Student cheated in the manner
+alleged by the University. There was no direct evidence showing that he copied off
+another student at the exam. All of the University’s witnesses testified that they did not
+notice any unusual activity while the exam was being written.
+58. In light of the fact the professors have used the same exam for several years (a practice
+they may wish to reconsider going forward), it is just as likely that the Student had access
+to the answers for a version A exam before the exam was administered. He could have
+then copied the answers to his exam paper from memory and then erased those markings
+in an effort to conceal that the version B exam was his.
+59. The Panel accepted the University’s submission that it did not have to prove exactly how
+the Student cheated in order to establish that an academic offence was committed. It
+relied on the “Ms. B” [Case No. 2003/04-1, April 7, 2004] and “Ms. K” [Case No. 595,
+October 12, 2010] Tribunal Decisions that stand for this proposition. The University did
+establish on a balance of probabilities, with clear and convincing evidence, that the
+Student had violated the Code.
+60. Based on the evidence before it, and the fact that the precise method of cheating on the
+exam was not established but various forms of misrepresentation were proven, the
+Tribunal determined that there had been a violation of the third charge, pursuant to
+section B.I.3(b) of the Code.
+12
+
+Penalty
+61. Both the University and the Student presented evidence at the penalty stage.
+62. The Student had a prior offence. In the Winter 2016, the Student had submitted two
+forged quizzes for credit. He admitted to the academic offence when he was caught. He
+was ultimately given a grade of zero for the course, suspended for eight months and a
+notation was placed on his transcript until graduation. He also was required to write
+letters of apology to his professor and the Department administrator.
+63. The University relied on the prior offence and the fact that the misconduct in the Course
+was committed in his first semester back at the University as aggravating factors. The
+University acknowledged that the Student had cooperated during the discipline process
+(consenting to evidence and agreeing to the ASF) but contrasted that with his untruthful
+evidence at the hearing. The University also contended that the Student had not
+demonstrated that he had learned from his mistakes or accepted responsibility for his
+actions.
+64. The University asked the Tribunal to impose a grade of zero for the Course, a suspension
+until December 31, 2022 (just under three years), a notation on the Student’s transcript
+until graduation and publication of the decision.
+65. The Student testified that he was only one credit short of graduation. In fact, he testified
+that, but for the conviction, he had been offered the chance to improve his grade in a
+mathematics course and that would have been enough for him to graduate. He also
+testified that he had an open job offer but it was contingent on his graduation. The
+Student spoke about the stress he experienced with a difficult and demanding course load
+and with the pressure of meeting the expectations of his family and the requirements to
+maintain an external scholarship he had received to attend the University.
+66. The Student accepted all of the University’s proposed sanctions except for the duration of
+the suspension. The Student’s position was that a suspension of two years and eight
+months was appropriate and would allow the Student to return and complete his studies in
+the Fall 2022 semester.
+13
+
+67. The Tribunal imposed the following penalty on the Student:
+a. a grade of zero in the course LMP301H1;
+b. a suspension from the University of Toronto from the date of this Order until July
+13, 2022;
+c. a notation of the sanction on his academic record and transcript from the date of
+this Order until the date he graduates from the University of Toronto or until June
+1, 2023, whichever date is later; and
+d. that this case be reported to the Provost, with the Student’s name withheld, for
+publication of a notice of the decision of the Tribunal and the sanctions imposed.
+68. The parties agreed on the sanction except the length of the suspension. Even then they
+were only months apart. The Tribunal accepted the Student’s submission and determined
+that a suspension that allowed the Student to return to the University to complete his
+studies in the Fall 2022 semester was appropriate. The July 13, 2022 date was selected
+because the hearing commenced on November 13, 2019 and the Tribunal felt it was
+unfair to penalize the Student for the two months it took to complete the hearing given
+that an adjournment came at the University’s request.
+69. However, the Tribunal also felt it was appropriate to ensure that the notation on the
+Student’s transcript lasted until at least June 1, 2023. This was out of concern regarding
+the possibility of the Student re-offending if he elects to immediately pursue graduate
+studies after graduation.
+70. Finally, the Tribunal also noted the length of time that passed between when the offence
+was committed and the matter was brought to a hearing. In total, it was twenty months
+between the exam date and the hearing. While the inherent prejudice to the Student was
+mitigated by the fact he was able to take and complete courses in the interim, this amount
+of time is less than ideal. It is expected that the discipline process will typically be much
+shorter since students should not be subjected to the stigma, uncertainty and stress of
+being charged any longer than necessary.
+14
+
+Dated at Toronto, this 31st day of January, 2020
+
+_______________________________________
+Shaun Laubman, Co-Chair
+
+15
+
+

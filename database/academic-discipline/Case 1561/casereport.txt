@@ -1,0 +1,586 @@
+Case No. 1561
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+
+IN THE MATTER OF charges of academic dishonesty made on October 19, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+UNIVERSITY OF TORONTO
+- and X
+
+M
+
+REASONS FOR DECISION
+Hearing Date: January 16, 2024, via Zoom
+Members of the Panel:
+Simon Clements, Chair
+Professor Dionne Aleman, Faculty Panel Member
+Alexander Bowie, Student Panel Member
+Appearances:
+Lily Hamer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Sonia Patel, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Samanthe Huang, Coordinator & Hearing Secretary, Office of Appeals, Discipline and Faculty
+Grievances
+Not in Attendance:
+X
+M
+
+1.
+
+This panel of the University Tribunal held a hearing on January 16, 2024, to consider the
+
+charges brought by the University of Toronto (the “University”) against X
+
+M (the
+
+“Student”) under the Code of Behaviour on Academic Matters, 2019 (the “Code”). It is alleged
+that the Student committed plagiarism on a paper submitted on July 27, 2021, contrary to section
+B.I.1(d) of the Code.
+A.
+
+Preliminary Issue: Proceeding in the Absence of the Student
+
+2.
+
+The hearing was scheduled to begin at 1:45 pm on January 16, 2024. At that time,
+
+Assistant Discipline Counsel advised that neither the Student nor a representative of the Student
+had responded to the Notice of Virtual Hearing.
+3.
+
+When the Student had not joined the hearing via the Zoom video conferencing platform
+
+(“Zoom”) at 1:45 pm, Assistant Discipline Counsel made submissions on proceeding with the
+hearing in the absence of the Student. She advised that on October 19, 2023, the charges were
+served on the Student by email to the email address of the Student which was the email address
+the Student had provided to the University in the University of Toronto Repository of Student
+Information (“ROSI”).
+4.
+
+The University submitted the Affidavit of Natalia Botelho, a legal assistant at Paliare
+
+Roland Rosenberg Rothstein LLP (“Paliare Roland”) who described the efforts made by the
+office to contact the Student. On September 13, 2023, Ms. Sonia Patel, a lawyer at Paliare
+Roland, emailed the Student at the ROSI email to introduce herself and invite the Student to
+attend a phone call or virtual meeting to discuss the allegations. Ms. Patel sent a follow-up email
+to the Student at the ROSI email on September 20, 2023.
+5.
+
+On October 19, 2023, the Office of the Vice-Provost, Faculty and Academic Life served
+
+the charges in this matter on the Student by email to the ROSI email.
+6.
+
+On November 1, 2023, Ms. Patel emailed the Student a disclosure brief which was
+
+successfully delivered to the Student’s ROSI email address.
+7.
+
+On November 22, 2023, Ms. Patel emailed the Student about scheduling a hearing date.
+
+She provided a list of available dates, including January 16, 2024, and asked the Student to
+advise her as soon as possible if they were not available on any of these dates. Ms. Patel advised
+
+2
+
+that if she did not hear back by November 27, 2023, she would request that a hearing be
+scheduled.
+8.
+
+On November 29, 2023, the ADFG Office issued a Notice of Virtual Hearing for a
+
+hearing to take place via Zoom on January 16, 2024, at 1:45 p.m. The ADFG Office sent the
+notice to the Student at the ROSI email.
+9.
+
+On December 13, 2023, the ADFG Office issued a Revised Notice of Virtual Hearing.
+
+The date and time of the hearing remained unchanged. The ADFG Office sent the notice to the
+Student at the ROSI email.
+10.
+
+On January 4, 2024, Ms. Patel emailed the Student a copy of the affidavit of Professor
+
+Margaret Kohn. Ms. Patel stated that the Provost would rely on the affidavit at the hearing and
+asked the Student to let her know whether they intended to cross-examine Professor Kohn. The
+Student did not respond to this correspondence.
+11.
+
+On September 15, 2023, Ms. Patel called the Student at the two personal phone numbers
+
+listed on ROSI. Ms. Patel was not able to reach the Student on either of these phone numbers.
+12.
+
+On September 20, 2023, Janice Patterson, a legal assistant at Paliare Roland, tried to call
+
+the Student on the same numbers and was also unsuccessful.
+13.
+
+Ms. Patel attempted to call the Student again on December 7, 2023, at the phone number
+
+listed with the Student’s mailing address on ROSI. Ms. Patel received an automated message
+saying her call “could not be completed as dialled”.
+14.
+
+On December 7, 2023, Paliare Roland arranged for a courier to deliver a package to the
+
+Student at Shenghua North Road, No. 288, Chengdu, China 610000, the Student’s address in
+ROSI. The courier package contained a letter from Ms. Harmer, copies of the Notice of Virtual
+Hearing and Charges in this matter. The courier was unable to confirm delivery to the address in
+ROSI with the postal code of 610000. However, the courier was able to access Chengdu with the
+postal code of 610003. Paliare Roland instructed the courier to attempt to deliver the package to
+610003 instead. On December 8, 2023, the courier company confirmed the address.
+15.
+
+On December 12, 2023, the courier company requested a phone number for the recipient.
+
+Paliare Roland provided the three phone numbers in the Student’s ROSI. The next day, the
+3
+
+courier company advised that they had been unable to reach the recipient at the phone numbers
+provided.
+16.
+
+On December 18, 2023, the courier company advised that they had made repeated
+
+delivery attempts but had been unable to deliver the package.
+17.
+
+Ms. Botelho affirmed that as of January 9, 2024, Paliare Roland had not received any
+
+communication from the Student.
+18.
+
+The University submitted the Affidavit of Mr. Andrew Wagg who is the Manager,
+
+Incident Response at Information Security, Information Technology Services at the University of
+Toronto.
+19.
+
+Information Technology Services provides many services to the University, including
+
+management of the email accounts used by students. To access an email account one needs to
+input both the user's login id and the password for that account. The Microsoft 365 Exchange
+portal automatically records the last time someone accessed a particular university-issued email
+account. This is denoted with the code "LastUserActionTime". The LastUserActionTime log
+only updates when someone logs in to a university-issued email account.
+20.
+
+On January 4, 2024, Mr. Wagg checked the portal records to determine the last time
+
+someone accessed the email account of the Student and determined that the last time someone
+accessed that account was on January 3, 2024 at 4:17 p.m., local Toronto time.
+21.
+
+Section 6 of the Statutory Powers and Procedures Act (the “Act”) states that the parties to
+
+a proceeding shall be given reasonable notice of the hearing by the tribunal. Section 7(3) states
+that where reasonable notice of the hearing has been given to a party to a proceeding in
+accordance with the Act and the party does not participate in accordance with the notice, the
+tribunal may proceed without the party’s participation and the party is not entitled to any further
+notice in the proceeding.
+22.
+
+Rule 13 of the University Tribunal’s Rules of Practice and Procedure (the “Rules”) states
+
+that the charges, notices of hearing, and disclosure material may be served on a student by email
+or by courier. Rule 21 mirrors the provision in section 7(3) of the Act. Where notice of an
+
+4
+
+electronic hearing has been given to the Student in accordance with the Rules and the Student
+does not attend hearing, the Tribunal may proceed in the absence of Student.
+23.
+
+The University requested that the Tribunal proceed with this hearing in the absence of the
+
+Student.
+24.
+
+Pursuant to rule 13, a notice of hearing may be served on a student by various means,
+
+including by sending a copy of the document by courier to the student’s mailing address in ROSI
+or by emailing a copy of the document to the student’s email address in ROSI.
+25.
+
+The University’s Policy on Official Correspondence with Students expressly states that
+
+students are responsible for maintaining a current and valid postal address and email account on
+ROSI. Students are expected to monitor and retrieve all mail, including emails, on a frequent and
+consistent basis.
+26.
+
+The onus of proof is on the University to demonstrate that it provided the Student with
+
+reasonable notice of the hearing.
+27.
+
+In this case, the University provided reasonable notice to the Student. The Student
+
+provided the University with a mailing address, email address, and phone numbers. The office
+of Assistant Discipline Counsel utilized all these means of communication to try and contact the
+Student, all to no avail.
+28.
+
+The Notice of Virtual Hearing had been served on the Student by email on November 29,
+
+2023, and again on December 13, 2023, when there was a change in panel members. Someone
+last logged into the email account of the Student, using an ID and password presumably known
+only to the Student on January 3, 2024, at which time the Student would have been able to read
+the Notice of Virtual Hearing and would have known that the hearing was to take place over
+Zoom on January 16, 2024.
+29.
+
+For these reasons the Tribunal finds that reasonable notice has been given to the Student
+
+by valid means of service, and the Student has failed to attend the hearing via Zoom. The
+Tribunal therefore determined it would proceed to hear the case on its merits in the absence of
+the Student, and the hearing proceeded on the basis that the Student was deemed to deny the
+charges made against them.
+
+5
+
+B.
+
+The Charge and Particulars
+
+30.
+
+The Charges and Particulars were detailed in a letter dated October 19, 2023, and are set
+
+out below:
+1.
+
+On or about July 27, 2021, you knowingly represented as your own an idea or expression
+
+of an idea or work of another in a paper you submitted in POLB72 (the “Course”), contrary to
+section B.I.1(d) of the Code.
+2.
+
+In the alternative, on or about July 27, 2021, you knowingly obtained unauthorized
+
+assistance in connection with a paper you submitted in the Course, contrary to section B.I.1(b) of
+the Code.
+3.
+
+In the further alternative, on or about July 27, 2021, you knowingly engaged in a form of
+
+cheating, academic dishonesty or misconduct, fraud or misrepresentation not otherwise described
+in the Code in order to obtain academic credit or other academic advantage of any kind in
+connection with a paper you submitted in the Course, contrary to section B.I.3(b) of the Code.
+
+Particulars of the offences charged are as follows:
+1.
+
+At all material times, you were a student enrolled at the University of Toronto
+
+Scarborough.
+2.
+
+In Summer 2021, you enrolled in the Course.
+
+3.
+
+On or about July 27, 2021, you submitted a paper in the Course, entitled “essay.doc”,
+
+which was worth 40% of your final grade in the Course (the “Essay”).
+4.
+
+You submitted the Essay:
+(a)
+
+to obtain academic credit;
+
+(b)
+
+knowing that it contained ideas, expressions of ideas or work which were not
+
+your own, but were the ideas, expressions of ideas or work of others, including the
+authors of the following articles:
+(i)
+
+Gardner, David, “Thomas Hobbes and Niccolo Machiavelli: A
+
+Comparison”, E-International Relations (2010 Sep 1), online: https://www.eir.info/2010/09/01/thomas-hobbes-and-niccolo-machiavelli-a-comparison/
+
+6
+
+(ii)
+
+Stewart, Duncan, “Thomas Hobbes”, The Stanford Encyclopedia of
+
+Philosophy
+
+(Spring
+
+2021
+
+Edition),
+
+Edward
+
+N.
+
+Zalta
+
+(ed.),
+
+online:
+
+https://plato.stanford.edu/archives/sum2022/entries/hobbes/
+(iii)
+
+Williams, Garrath, “Thomas Hobbes: Moral and Political Philosophy”,
+
+Internet Encyclopedia of Philosophy, online: https://iep.utm.edu/hobmoral/ (the
+“Sources”)
+(c)
+
+knowing that you did not properly reference the ideas, expressions of ideas or
+
+work that you drew from the Sources.
+5.
+
+By taking ideas, expressions of ideas or work from the Sources or other third parties
+
+without appropriate attribution, you knowingly obtained unauthorized assistance from the
+Sources or other third parties in connection with the Essay.
+6.
+
+You knowingly submitted the Essay with the intention that the University of Toronto
+
+Scarborough rely on it as containing your own ideas or work in considering the appropriate
+academic credit to be assigned to your work.
+
+C.
+
+The Evidence
+
+31.
+
+The University filed the Affidavit evidence of Professor Margaret Kohn affirmed on
+
+January 4, 2024. Professor Kohn is a Professor and the Graduate Chair in the Department of
+Political Science at the University of Toronto Scarborough (“UTSC”).
+32.
+
+One of the courses offered by the Department of Political Science in Summer 2021 was
+
+POLB72H3Y: Introduction to Political Theory (the “Course”). The Course was taught online by
+Dr. Igor Shoikhedbrod, who no longer works at UTSC.
+33.
+
+The Student was a student in the Course.
+
+34.
+
+The Course syllabus informed students that they “should familiarize themselves with the
+
+university’s policy on plagiarism. Plagiarism is a serious academic offence and will be dealt with
+accordingly.” Students were instructed to read the University of Toronto’s policy on plagiarism
+and provided with a link to the UTSC Academic Advising & Career Centre plagiarism tutorial.
+Finally, the syllabus noted that if students had “any doubts about whether [they were]
+committing plagiarism, [they should] please inquire with [their] instructor and/or teaching
+assistant(s).”
+7
+
+The Essay
+35.
+
+Students in the Course were evaluated on the basis of, among other things, a 1,500-word
+
+comparative essay due on July 27, 2021. The essay was worth 40% of the final grade in the
+Course.
+36.
+
+Students were instructed to write an essay response to one of two comparative questions
+
+or prompts. The instructions also reminded students that this was not a research essay and that
+they were prohibited from using secondary texts or sources. This is an exegetical essay and not a
+research essay. Exegesis is the careful reading and interpretation of texts. Students were told:
+“You should write your exegesis using only the required course text. We are not looking for some
+other author’s reading of the assigned texts; we are looking for your reading of the texts. No
+secondary texts or sources are to be used.”
+[Emphasis in original]
+37.
+
+Under “Required Course Text & Bibliography”, the instructions for the essay reiterated
+
+that references were to come “only” (emphasis in original) from the Course text, Michael L.
+Morgan (ed.), “Classics of Moral and Political Theory”, 5th ed (Indianapolis: Hackett, 2011).
+The instructions stated: “No other sources are to be used.”
+38.
+
+The Student submitted their essay on or around July 27, 2021 (the “Essay”). The Essay
+
+did not cite any sources.
+39.
+
+The Essay was submitted to Turnitin, a website which detects plagiarism. Turnitin
+
+flagged the Essay with a 61% similarity index to other sources in the Turnitin database. Turnitin
+identified a number of passages from the Essay that were identical or near identical to the text of
+two online sources, neither of which were the Course text, the only permitted source:
+(a) David Gardner, “Thomas Hobbes and Niccolo Machiavelli: A Comparison”, EInternational Relations (2010 Sep 1), online: https://www.e-ir.info/2010/09/01/thomashobbes-and-niccolo-machiavelli-a-comparison/; and
+(b) Williams, Garrath, “Thomas Hobbes: Moral and Political Philosophy”, Internet
+Encyclopedia of Philosophy, online: https://iep.utm.edu/hobmoral/
+
+8
+
+40.
+
+Dr. Shoikhedbrod, the Course instructor, submitted a report attaching the Turnitin report
+
+and alleging that an academic offence had occurred. In her capacity as Chair, Professor Kohn
+reviewed the allegation and report and agreed with Dr. Shoikhedbrod’s conclusion that several
+sentences from the Essay appeared to have been taken verbatim or near verbatim from the online
+sources identified by Turnitin. In her affidavit, Professor Kohn provided side by side examples of
+identical or near identical wording from the sources and the Student’s essay.
+41.
+
+A third source document, Stewart, Duncan, “Thomas Hobbes”, The Stanford
+
+Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), online:
+https://plato.stanford.edu/ar- chives/sum2022/entries/hobbes/ was later identified as also
+containing text that was identical or near identical to passages from the Essay. Once again, in her
+Affidavit, Professor Khon provided a side-by-side comparison of the wording of the essay and
+the Duncan article showing that they were nearly identical.
+42.
+
+Based on the extensive overlap between the Essay and the three online sources described
+
+above, Professor Kohn believed that the Essay constitutes plagiarism and referred the matter to
+the Office of the Dean and Vice-Principal (Academic) at UTSC for further action.
+D.
+
+Decision of the Tribunal
+
+43.
+
+The onus is on the University to establish on the balance of probabilities, using clear and
+
+convincing evidence, that the academic offence charged has been committed by the Student.
+44.
+
+The Student was charged with an offence under section B.I.1(d) of the Code, because
+
+they knowingly represented as their own an idea or expression of an idea or work of another.
+45.
+
+The submission of Assistant Discipline Counsel is that the evidence shows on a balance
+
+of probabilities that the Student plagiarised from the sources to complete the essay. The amount
+and nature of overlap between the essay and the sources is too extensive to be a coincidence. The
+Student must have known that they were representing the work of others as their own.
+46.
+
+The Tribunal finds that there is no other reasonable explanation for the preparation of the
+
+essay. The Student clearly cut and pasted extensive passages from three sources with minor
+editing and grammatical changes. There is no originality to the Student’s work. The course
+
+9
+
+syllabus clearly stated that no outside sources were to be used. The Student clearly violated that
+direction. The Student is guilty of plagiarism, contrary to section B.I.1(d) of the Code.
+E.
+
+Penalty
+
+47.
+
+The matter continued with a hearing on the appropriate sanction. The University
+
+requested that the Tribunal make an order that the Student be given a mark of zero in the course,
+a suspension from the University for two years and a notation on their transcript for three years.
+48.
+
+Appendix “C” to the Code provides guidance to students on sanctions. Where a finding
+
+of guilt has been made contrary to the Code, where there have been no prior offences a student
+should expect to receive a zero in the course, a two-year suspension and a three-year notation.
+The University filed several authorities dealing with similar offences involving plagiarism.
+Assistant Discipline Counsel referred to ten decisions of this Tribunal. In nine of those decisions
+a two-year suspension was made. In the tenth case the suspension was three years. There are no
+exceptional circumstances that would warrant deviating from a two-year suspension and threeyear notation in this case.
+49.
+
+In addition, Assistant Discipline Counsel reviewed the Mr. C. factors, University of
+
+Toronto v. Mr. C. (Case No. 1976/77-3, November 5, 1976) and applied them to the present case
+in relation to the proposed sanction. Here, the Student has not engaged in the discipline process
+in any way. The Student has not responded to any communications from Assistant Discipline
+Counsel or her office. The Student did not attend the hearing. Regarding character, there is no
+evidence of remorse, nor any evidence that the Student will not reoffend. There is no evidence of
+extenuating circumstances. Because of the Student’s failure to attend the hearing, the Tribunal
+has been provided with no comfort that the Student has reflected or reassessed their behaviour, or
+has insight into their conduct.
+50.
+
+Regarding the nature of the offence, Assistant Discipline Counsel submitted that the
+
+plagiarism is an offence of the utmost seriousness. As stated in the University of Toronto v. F.A.
+(Case No. 766, June 16, 2015) at para 37, plagiarism “undermines the relationship of trust,
+learning and teaching between all students and the University. The grave threat that plagiarism
+poses to the core of academic integrity warrants a strong penalty. In addition, the sanction must
+serve as an effective general deterrent to others, as plagiarism is an ongoing and significant issue
+10
+
+for the University.” Finally, there is a need for general deterrence of this conduct. See the
+University of Toronto v. B.C. (Case No. 697, January 17, 2014 (Sanction)) at para 14,
+“[p]lagiarism is a serious offence. It strikes at the heart of the integrity of academic work, and
+cannot be tolerated by an academic institution. Students know this.”
+F. Conclusion
+51.
+
+The Tribunal finds that the Student is guilty of the academic offence of plagiarism,
+
+contrary to section B.I.1(d) of the Code.
+52.
+
+The Tribunal makes the following Order:
+1.
+
+The hearing may proceed in the absence of the Student;
+
+2.
+
+The Student is guilty of one count of plagiarism, contrary to section B.I.1(d) of
+the Code;
+
+3.
+
+The following sanctions shall be imposed on the Student:
+i.
+
+a final grade of zero in POLB72H3Y in Summer 2021;
+
+ii.
+
+a suspension from the University for two years from the date of the order;
+and
+
+iii.
+
+a notation of the sanction on the Student’s academic record and transcript
+for three years from the date of the order.
+
+4.
+
+This case shall be reported to the Provost for publication of a notice of the
+decision of the Tribunal and the sanctions imposed, with the name of the Student
+withheld.
+
+Dated at Toronto this 19th day of March 2024
+
+Original signed by:
+_________________________________________________
+Simon Clements, Chair
+On behalf of the Panel
+11
+
+

@@ -1,0 +1,1506 @@
+Case No: 1520
+THE UNIVERSITY TRIBUNAL
+THE UNIVERSITY OF TORONTO
+IN THE MATTER OF charges of academic dishonesty filed on May 24, 2023,
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic
+Matters, 2019,
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+B E T W E E N:
+THE UNIVERSITY OF TORONTO
+- AND X
+
+Q
+
+Y
+
+REASONS FOR DECISION
+Hearing Date: December 19, 2023, and February 26, 2024, via Zoom
+Members of the Panel:
+Christopher Wirth, Chair
+Professor Ted Kesik, Faculty Panel Member
+David Lio, Student Panel Member
+Appearances:
+Lily Harmer, Assistant Discipline Counsel, Paliare Roland Rosenberg Rothstein LLP
+Janet Song, Co-Counsel, Paliare Roland Rosenberg Rothstein LLP
+Hearing Secretary:
+Nadia Bruno, Special Projects Officer, Office of Appeals, Discipline and Faculty Grievances
+In Attendance:
+X
+
+Q
+
+Y
+
+Charges and Particulars
+A Panel of the Trial Division of the University Tribunal was convened on December 19,
+2023, and February 26, 2024, by videoconference to consider charges brought by the
+University of Toronto (the “University”) against X
+
+Q
+
+Y
+
+(the “Student”) under the
+
+University’s Code of Behaviour on Academic Matters, 2019 (the “Code”). The charges
+alleged against the Student as filed by the Provost on May 24, 2023 are as follows:
+1.
+
+On or about April 21, 2021, you knowingly submitted academic work in PHC489Y1 in the
+form of a final report titled "Study on Comparing Two Types of voice of Pharmaceutics
+Learning Video" and made an oral presentation based on the final report containing and
+describing research inputs, tools, methodologies, data and results that had been concocted,
+contrary to section B.I.1(f) of the Code.
+
+2.
+
+In the alternative, on or about April 21, 2021, you knowingly engaged in a form of cheating,
+academic dishonesty or misconduct, fraud or misrepresentation in order to obtain academic
+credit or other academic advantage of any kind, contrary to section B.I.3(b) of the Code.
+
+The particulars related to charges 1 and 2 are as follows:
+1.
+
+At all material times you were a student at the University of Toronto Faculty of Arts and
+Science.
+
+2.
+
+In Fall 2020 you enrolled in PHC489Y1 - Pharmaceutical Chemistry Research (the
+"Course").
+
+3.
+
+Students in the Course were evaluated on the basis of, among other things, a final report
+on their supervised research project worth 90% of their final grade, consisting of a written
+report worth 80% and an oral presentation worth 10%.
+
+4.
+
+On or about April 21, 2021, you submitted a final written report titled "Study on Comparing
+Two Types of voice of Pharmaceutics Learning Video" and made an oral presentation on
+your research findings (collectively, the "Research Report").
+
+5.
+
+After your oral presentation on April 21, 2021, you provided one of the research inputs
+described in your Research Report to the Course instructor.
+
+2
+
+6.
+
+You knowingly fabricated, altered, manipulated, mislabelled or misrepresented the
+research inputs, tools, methodologies, data and results you submitted in connection with
+your Research Report.
+
+7.
+
+You submitted the Research Report knowing that it described and contained research
+inputs, tools, methodologies, data and results that had been concocted, and knowing that
+you had engaged in a form of cheating, academic misconduct, fraud or misrepresentation
+in order to obtain academic credit or advantage.
+
+Assistant Discipline Counsel advised the Panel that if a finding of guilt was made for
+Charge 1, the Provost would then withdraw Charge 2.
+The Student’s Position
+The Student was present and denied the charges. As a result, the hearing proceeded on the
+basis that the University bore the burden of proving the charges on the balance of
+probabilities.
+Overview
+The University tendered the evidence of one witness, Associate Professor David Dubins
+("Professor Dubins"), an Associate Professor, Teaching Stream, at the Department of
+Leslie Dan Faculty of Pharmacy at the University, who provided his evidence by both
+affidavit, which was accepted by the Panel pursuant to rule 66 of the University Tribunal’s
+Rules of Practice and Procedure (“Rules”), and orally. The Student testified on her own
+behalf.
+After careful deliberation, and having considered all the evidence, the Panel found that on
+a balance of probabilities the evidence was sufficiently clear, cogent and convincing to
+discharge the burden of proof on the University and found that the Student had committed
+academic misconduct as alleged.
+The Evidence
+The content of the affidavit (without Exhibits) of Professor Dubins is set out below along
+with relevant evidence from his examination in chief, cross-examination and any questions
+3
+
+from the Panel. A summary of the most relevant evidence of the Student is also set out
+below.
+a) Evidence of Professor Dubins
+Professor Dubins’s affidavit provides as follows:
+1.
+
+I am an Associate Professor, Teaching Stream, at the Department of Leslie Dan Faculty of
+Pharmacy at the University of Toronto. As such, I have personal knowledge of the matters
+set out in this affidavit. Where I do not have personal knowledge of a matter, I state the
+source of my information and I believe it to be true.
+
+A.
+
+PHC489Y1
+
+2.
+
+In Fall 2020 to Winter 2021, I was a research supervisor for PHC489Y1 (Pharmaceutical
+Chemistry Research) (the “Course”), which was coordinated by Professor K. Sandy Pang
+and Professor Robert B. Macgregor Jr. I have attached a copy of the syllabus to my affidavit
+as Exhibit A.
+
+3.
+
+The Course was a research project course. The goal of the Course was to introduce students
+in the fourth year of the Pharmaceutical Sciences specialist program to the philosophy,
+methodology, and performance of research.
+
+4.
+
+Students in the Course were required to complete a research project consisting of a
+preliminary report and interview outlining their research which was worth 10% of their
+final grade, a final report comprised of an oral presentation worth 10%, and a final written
+report worth 80% of their final grade. The final report grade was determined by the
+student’s supervisor and a secondary reviewer.
+
+5.
+
+Students were required to find a faculty member who holds a graduate appointment in the
+Graduate Department of Pharmaceutical Sciences in the Leslie Dan Faculty of Pharmacy
+to supervise their research project.
+
+6.
+
+The supervisor’s responsibilities included:
+(a)
+
+defining the research problem;
+
+4
+
+(b)
+
+ensuring the progress of the student, through guidance and encouragement, and
+providing resources for the project;
+
+(c)
+
+stimulating and evaluating the student’s progress in her/his research project;
+
+(d)
+
+overseeing the progress of student and ensuring that the student submits her/his
+Final Report on time and prepares for the Oral Presentation; and
+evaluating the student’s progress at mid-term and assessing the student’s Final
+
+(e)
+
+Report.
+7.
+
+In the majority of cases, the supervisor would provide the student with the research project.
+Students were then expected, under the guidance of the supervisor, to:
+(a)
+
+develop a clear and comprehensive understanding of the research problem through
+a thorough review of the literature;
+
+(b)
+
+acquire the necessary skills to obtain and interpret data, and summarize the
+findings; and
+
+(c)
+
+critically comment on study findings, limitations and how results fit within the
+context of existing literature.
+
+8.
+
+Students were expected to devote at least 156 hours to conduct their research project, which
+could involve working in the laboratory (or other research setting), doing literature
+searches, reading, performing experiments or surveys, analyzing data, and writing a report
+that summarizes the project.
+
+B.
+
+Supervision of the Student’s Research Project
+
+9.
+
+X
+
+10.
+
+I agreed to supervise the Student’s research for the Course.
+
+11.
+
+During Fall 2020, I met with the Student to discuss her research topic. I proposed a study
+
+Q
+
+Y
+
+(the “Student”) was a student in the Course.
+
+on the pedagogical utility of using a computer-generated voice for teaching, as opposed to
+an authentic human voice, which was especially relevant during the COVID-19 pandemic.
+The Student agreed to study this topic.
+
+5
+
+12.
+
+During the Fall semester, the Student scheduled weekly meetings with me, where I helped
+monitor and guide her work.
+
+13.
+
+During our meetings, we devised a project to compare how audience members responded
+to a scientific presentation narrated by a computer-generated voice, with the same
+presentation narrated by an authentic human voice (“Research Project”).
+
+14.
+
+The Student’s Research Project involved setting up the same video presentation on the
+topic of describing the acid-base equilibria, with the same script, using the two different
+methods of presenting the spoken material (computer-generated vs. human).
+
+15.
+
+Initially, we discussed posting both videos on YouTube and then observing which video
+received more views. We later decided that rather than posting the videos on YouTube, the
+Student would present the videos to a group of students, and then administer a survey rating
+and comparing the two methods.
+
+16.
+
+During the Fall 2020 term, the Student made good progress on the Research Project.
+
+17.
+
+The Student created visuals for the acid-base video in PowerPoint. The Student also
+worked on a video script and a computer-generated voice, which was to be imposed on the
+PowerPoint slides.
+
+18.
+
+Around the end of the Fall 2020 term, I noticed the Student had not checked in with me for
+a while. I asked for an update on the progress of the Research Project. The Student emailed
+me her proposed survey questions, which I reviewed and provided comments on. A copy
+of this email chain from December 2020 is attached to my affidavit as Exhibit B.
+
+19.
+
+During the Winter 2021 term, the Student and I met in early January to go over her midterm
+evaluation and discuss her progress. I completed the “Research Supervisor” portion of the
+midterm evaluation, which was due on January 11, 2021. By this point, the Student had not
+yet collected the data for the Research Project. Accordingly, I noted that it appeared the
+data may not be ready by the end of the Course, but that I was confident she would continue
+to make progress, and that she should have plenty to talk about in her final report. A copy
+of the mid-term term evaluation is attached to my affidavit as Exhibit C.
+
+20.
+
+On February 4, 2021, the Student emailed me her PowerPoint presentation containing 26
+slides, and a video script to accompany each slide.
+
+6
+
+21.
+
+A copy of the Student’s email dated February 4, 2021 is attached to my affidavit as Exhibit
+D.
+
+22.
+
+A copy of the Student’s PowerPoint presentation is attached to my affidavit as Exhibit E.
+
+23.
+
+A copy of the Student’s video script is attached to my affidavit as Exhibit F.
+
+24.
+
+Over the course of the Winter 2021 term, the frequency of our communications and
+meetings decreased. When I would periodically check-in with the Student, she advised that
+the work was in progress.
+
+C.
+
+Delay in submitting the final report and cancellation of presentation
+
+25.
+
+The Student’s final report and presentation were initially due on April 12, 2021.
+
+26.
+
+On April 11, 2021, at 10:15 PM, the Student emailed one of the course coordinators,
+Professor Pang, to cancel the presentation. The Student stated she had a cold and could not
+talk much because of a sore throat. On April 12, 2021 at 10:34 AM—the day of the
+presentation—the Student forwarded this email to me. On April 19, 2021, I emailed the
+Student, as I had still not received her final report, nor had she contacted me to reschedule
+her presentation. The Student replied and stated that she was still editing part of the
+conclusion and would be submitting the final report on April 20, 2021 at 5:00 PM EST,
+and then would be presenting on Zoom video conference. A copy of this email chain is
+attached to my affidavit as Exhibit G.
+
+D.
+
+The Report
+
+27.
+
+On April 20, 2021, the Student submitted her written final report entitled “Study on
+Comparing Two Types of voice of Pharmaceutics Learning Video” (the “Report”). A copy
+of the Report is attached to my affidavit as Exhibit H.
+
+28.
+
+The Report indicated that the Student conducted the Research Project as follows:
+(a)
+
+the study participants were 20 randomly selected pharmacy students from the
+University, representing an equal number of male and female participants, ranging
+in age from 16 to 40 years old;
+
+7
+
+(b)
+
+she presented two videos to the study participants. Each video was 10 minutes long
+and used the same script to present educational information on the topic of
+pharmaceutics, one using a human voice actor (the “Human-Narrated Video”)
+and the other using a machine-generated voice (the “Machine-Narrated Video”);
+
+(c)
+
+the Human-Narrated Video took 100 hours to make while the Machine-Narrated
+Video took 3 hours to make;
+
+(d)
+
+participants were asked to complete surveys before and after watching the videos
+to obtain their opinions on the Human-Narrated Video in comparison to the
+Machine-Narrated Video; and
+
+(e)
+29.
+
+participants generally preferred the Machine-Narrated Video.
+
+In reviewing the Report, I found that certain aspects were unusually vague or missing. In
+particular:
+(a)
+
+the Report was vague with respect to the selection of study participants. It only
+stated that twenty pharmacy students were randomly selected and voluntarily took
+part in the surveys. It did not state the process for randomized selection;
+
+(b)
+
+the Report was vague with respect to the methodology of the Research Project. It
+did not state how the videos were shown, when the videos were shown, and in what
+format;
+
+(c)
+
+the Report did not include links to either the Human-Narrated Video or the
+Machine-Narrated Video. I was also not shown the Human-Narrated Video in
+advance of the Student submitting the Report; and
+
+(d)
+30.
+
+the Student did not include the raw data underlying the Report.
+
+In conjunction with the Student’s decreased engagement with the supervision process, I
+found the vagueness and quality of the Student’s Report to be concerning, and an indication
+that the Student had not carried out the Research Project as she had represented in the
+Report.
+
+8
+
+E.
+
+The Presentation
+
+31.
+
+On April 21, 2021 starting around 11:00 AM EST, the Student presented her Research
+Project findings in an oral presentation format over Zoom video conference to me and
+Professor Pang. I recorded this Zoom video conference using the Zoom recording feature.
+That video recording of the Student’s presentation is attached to my affidavit as Exhibit I.
+
+32.
+
+During the oral presentation, some of the Student’s actions and her answers to questions
+raised concerns about whether the Research Project took place in the manner described in
+the Report. In particular:
+(a)
+
+I asked the Student to share the Human-Narrated Video during the presentation,
+but she was unable to do so. She stated this was because she did not show the
+participants the video online, but in-person;
+
+(b)
+
+when I asked the Student how she showed the participants the video in-person
+given COVID-19 restrictions on in-person meetings, she changed her answer and
+said she shared the videos online by using WeChat;
+
+(c)
+
+when I asked the Student to share the video she shared with the participants via
+WeChat, she paused, did not respond, and then left the Zoom meeting;
+
+(d)
+
+when the Student re-joined the Zoom meeting a few minutes later, she kept her
+camera off and did not respond to our questions for almost 15-minutes. When
+prompted by me or Professor Pang, she eventually said she was searching for the
+Human-Narrated Video;
+
+(e)
+
+over 15-minutes after re-joining the Zoom call, the Student shared her screen and
+played what she stated was the Human-Narrated Video. The video consisted of a
+blurry, shaky camera pointed at a computer screen, with the Student’s PowerPoint
+presentation (previously attached as Exhibit E) playing on it. When Professor Pang
+and I stated we could not hear the audio, the Student stopped playing the video
+midway and stopped screensharing. Based on my brief observation, the video
+appeared to be very basic and did not meet the description of the Human-Narrated
+Video from the Report. It very clearly could not have taken 100 hours to produce,
+and did not appear to me to be a video that could have been used to fulfil the
+objectives of the Research Project; and
+
+9
+
+(f)
+
+when I asked how the study participants were recruited, the Student said only that
+one of the participants was a student in neuroscience. This was inconsistent with
+the Report, as well as her statements earlier in the presentation, where she stated
+all participants were pharmacy students.
+
+33.
+
+Before ending the Zoom meeting, I asked the Student to send me a copy of the HumanNarrated Video she showed the study participants. I also asked for a copy of the data
+underlying the Report.
+
+34.
+
+Our Zoom call with the Student was filled with inconsistencies, awkward silences, and
+unanswered questions. It was odd to me that the Student disappeared from the screen for
+long stretches of time, but when she returned she was still unable to provide the information
+we were requesting. The video she eventually shared was not of a quality suitable for the
+purpose of the Research Project. I was very uneasy about the integrity of the research
+described by the Student in her Report and during the presentation following this call.
+
+F.
+
+The Video
+
+35.
+
+On April 21, 2021, shortly after the Student’s presentation ended, the Student emailed me
+what was purportedly the Human-Narrated Video (the “Video”).
+
+36.
+
+A recording of the Video is attached to my affidavit as Exhibit J.
+
+37.
+
+I had the following concerns with the Video sent by the Student:
+(a)
+
+I reviewed the meta-data of the file, which showed the Video was first created on
+April 21, 2021 at 11:30 AM—during the Student’s presentation. A screenshot of
+the Video’s metadata is attached to my affidavit as Exhibit K, and is included
+below:
+
+10
+
+(b)
+
+the Video was a total of 2:42 minutes in duration, not 10 minutes as indicated in
+the Report;
+
+(c)
+
+the Video ends early at slide 10 of 26 of the PowerPoint presentation (previously
+attached as Exhibit E). Accordingly, it could not have been the complete video
+shown to the study participants; and
+
+(d)
+
+the Video consisted of the Student pointing her camera at her computer monitor
+and reading an excerpt of the script out loud in one take. There was nothing about
+this short basic video that could support the Student’s claim in her Report that the
+Video took her 100 hours to make.
+
+11
+
+G.
+
+The Data File
+
+38.
+
+After the presentation, the Student also emailed me a data file containing more detailed
+information on the demographics of the study participants (the “Data File”). A copy of the
+Student’s Data File is attached to my affidavit as Exhibit L.
+
+39.
+
+I had the following concerns with the Student’s Data File:
+(a)
+
+I reviewed the meta-data of the Data File, which showed the document was created
+on April 5, 2011 [2021] at 10:25 PM and last saved on April 21, 2021 at 1:22 PM
+(after the presentation). Given that the Student was originally scheduled to present
+on April 12, 2021, I found it unusual that the Data File was only created on April
+5, 2021. I expected an earlier date so that the Student would have had sufficient
+time to analyze and synthesize the data for the Final Report and presentation. A
+copy of the meta-data of the Data File is attached to my affidavit as Exhibit M,
+and is also excerpted below:
+
+12
+
+(b)
+
+in the Report and during the presentation, the Student indicated there were 10 male
+participants and 10 female participants. However, the Data File indicated there
+were 11 male participants and 9 female participants; and
+
+(c)
+
+the Data File indicated the participants ranged in age from 16 years old to 40 years
+old. However, I confirmed with the Pharmacy Registrar’s office that there were no
+16 year old or 40 year old students enrolled in the pharmacy program at that time.
+
+40.
+
+As a result of all of these anomalies with the Report, the Video, and the Data File, I became
+concerned that:
+(a)
+
+the Student had not conducted her Research Project as intended and described by
+her;
+
+(b)
+
+the Student had only prepared the Human-Narrated Video on the day she made her
+presentation to Professor Pang and me and therefore could not have shown it to
+her research participants as she claimed she had done; and
+
+(c)
+
+that consequently the results she reported could not be supported by actual data
+obtained as described in the Report.
+
+H.
+
+Contact with the student
+
+41.
+
+On April 21, 2021, I met with the Student to discuss my concerns about her research
+project.
+
+42.
+
+This matter was subsequently forwarded to the Office of the Vice-Principal Academic and
+Dean.
+
+Professor Dubins further testified orally as follows:
+(a)
+
+The Course in question is a required course where its research component is 100%
+of the final grade and there are no lectures. His role is to help coordinate by assisting
+students to pair up with supervisors and by supervising the research by helping with
+any questions the student may have.
+
+13
+
+(b)
+
+In 2020, due to the pandemic it was difficult to find research supervision for
+students and to find projects that could be done remotely. The Student approached
+him and he agreed to be her supervisor.
+
+(c)
+
+He met with her in the Fall of 2020 and then they met weekly with Dr. Sandy Pang
+(“Dr. Pang”) whose idea it was for the project which was to see if there would be a
+difference in reactions to machine generated voices versus human ones. The initial
+plan was to prepare videos, one based on a machine generated voice and the other
+with a human voice and to post them on YouTube to see how many hits they
+received. The only difference between the two videos would be the audio
+component. The idea was to test which would land better with people as learners.
+
+(d)
+
+Initially during their weekly meetings, they came up with a script and things were
+progressing well in the Fall term. The plan was for the Student to prepare a
+PowerPoint and then add the audio to it. In this regard, he showed her how to use
+Watson to assist with this. Watson assists with helping create sounds that are quite
+like the human voice whereby you can control the tone, speed and pitch.
+
+(e)
+
+The Student prepared a PowerPoint presentation which had 26 slides and 2 audio
+clips.
+
+(f)
+
+The Student was to prepare the audio clips for all 26 slides. There was to be two
+PowerPoints, one with a human voice for each slide and the other with a computergenerated voice for each slide.
+
+(g)
+
+The January 15, 2021 email documents the mid-point evaluation he conducted. In
+that regard, he provided comments on the Student’s summary of the project, but
+raised concerns that her data would not be ready by the end of the Course. As well,
+Dr. Pang was not happy with the quality of the materials and thought that using a
+higher quality of Adobe would improve it.
+
+(h)
+
+In the Winter of 2021, he met less frequently with the Student as he was dealing
+with other issues in other courses. He did, however, check in with her and she told
+him that she was collecting data. He expected her to work more on the video, but
+14
+
+she indicated that she was still testing it. Ultimately, he never received a full version
+of the video with the machine-generated voice, but did receive the human voice
+version before the report.
+(i)
+
+The report was due by April 12, 2021, when there was to be an oral presentation.
+The Student missed this oral presentation due to medical reasons and it was
+rescheduled.
+
+(j)
+
+When he did receive the report, he was concerned as it had not been intended that
+they would use actual human subjects as participants. He was also concerned since
+there are no 40 year old pharmacy program students enrolled and that along with
+the fact that one of the students was said to be 16 years old made him concerned
+about the authenticity of the data. He was concerned that it was concocted and as a
+result, he asked the Student to send him the raw data.
+
+(k)
+
+In addition, using 20 pharmacy students would have required ethics consideration
+and approval before testing was done. There was also no discussion and agreement
+in advance on how randomization would be done and how data would be collected.
+As well, if there was no data showing how all participants were tested then how
+could it be determined if there was a preference for one format over the other?
+
+(l)
+
+They did not discuss in advance who the human volunteers would be.
+
+(m)
+
+As well, he was concerned by the statement that it had taken 100 hours for the
+Student to prepare the version using the human voice, but only 3 hours to prepare
+the version using the computer. First, there was no way to verify this. As well, 100
+hours seems excessive while 3 hours seemed low and so to him this appeared to be
+odd.
+
+(n)
+
+On April 21, 2021, the Student presented by Zoom to him and Dr. Pang. They
+recorded it. The recording of the video of the presentation by the Student was shared
+with the Panel and reviewed by Professor Dubins.
+
+15
+
+(o)
+
+After the Student shared her PowerPoint slides and presented her research project
+and results, they had a question and answer session with her. In that question and
+answer session they asked the Student to provide the clip of the PowerPoint
+presentation using the human voice. They asked her to share it and send it to them.
+The Student then left the Zoom link. At this point they were becoming concerned
+about whether the video actually existed. Fifteen minutes later the Student returned
+to the Zoom meeting. When she returned, the Student kept her camera off and did
+not respond to them for 15 minutes when they tried to discuss it with her. After 15
+minutes she then said she was searching for the video. This was surprising as both
+versions of the video should have been completed if they had been presented to the
+20 participants for them to review.
+
+(p)
+
+Finally, the Student played a video without any sound. It was extremely shaky
+without any audio and did not look to be a high-quality production that a 100 hours
+of work would have created. It appeared to be a recording by a camera held up to a
+computer screen.
+
+(q)
+
+They then discussed her data with her and asked her who her participants were. She
+said one was Felix, a science student – neuroscience. They asked to see the human
+video as they had only seen the first and second slides of the computer generated
+one. This interaction made them concerned that the whole thing had been concocted
+and that the Student had in the 15 minute break when she left the Zoom meeting,
+simply prepared the video on the fly.
+
+(r)
+
+Subsequently, the Student sent them a video after the presentation. In her report she
+said her video was 8 minutes long, but the one she sent them turned out to be 10
+minutes long. As well, the video was not a verbatim use of the script which had
+been agreed upon and prepared for the videos, but rather was just loosely following
+it. In addition, as noted in Professor Dubins’s affidavit, the metadata of the file for
+the video says that it was recorded at 11:30 a.m. on April 21, 2021 which was the
+same day and same time when the Student left the Zoom meeting for 15 minutes
+before returning.
+
+16
+
+(s)
+
+Despite his request, the Student never sent him the raw data. He was concerned
+about whether there were any 16 or 40 year olds in the pharmacy program so he
+asked the Registrar about this who confirmed that there were no 16 or 40 year olds
+in the pharmacy program. In the report it was said that there were an equal number
+of male and female participants, yet that did not appear to be the case. The report
+also said that all participants were shown both videos, but the data that was provided
+only showed which video was preferred, but did not identify any data showing what
+the participants had watched or what their preference had been.
+
+(t)
+
+Ultimately, his concerns were that the Student was under academic pressure and
+created false data in order to finalize the report and that she had also prepared one
+of the videos on the fly during the 15 minute break during their Zoom meeting with
+her.
+
+(u)
+
+In cross-examination, Professor Dubins confirmed that prior to April 21, 2021, he
+did receive the PowerPoint and prompts, but did not receive the questions for the
+questionnaire.
+
+(v)
+
+In re-examination, Professor Dubins confirmed that on December 25, 2020, he did
+suggest to the Student that it should be done by way of crossover so that the
+participants would each watch both versions and be able to compare them, whereas
+the Student was suggesting a parallel and not crossover study.
+
+This concluded the University’s evidence.
+b) Evidence of the Student
+The Student testified that she was in the Course in the Fall/Winter of 2020-2021. She
+reviewed the email to Professor Dubins in which there was an outline of the process, project
+detail and steps. They discussed that there would be two videos.
+She successfully passed her mid-term and Professor Dubins did not give her any further
+instructions. She fulfilled the expectations of the work.
+
+17
+
+In the Winter term, she submitted her slides, video script and questionnaire. She did not
+receive any instructions concerning the video and did not get any comments. In particular,
+she did not get any comments that her data was wrong until April 21, 2021.
+In addition, there were no emails between them about how the video quality was to be
+determined and no suggestions concerning the raw data.
+In cross-examination, the Student’s transcript was reviewed and the Student confirmed that
+she took the Course in her fourth year, it was a mandatory course and she needed to
+complete it in order to pass and to finish her program, and that since then she has not
+required any more courses apart from this one to finish her degree.
+She knew that preparing the report would be a big time commitment. In that regard, she
+testified that she did record all of the version of the video using the human voice and there
+was more to it than we have seen yet she no longer has it.
+She prepared the version of the video using the human voice before her presentation. The
+human voice version had 26 slides narrated by herself. It was not made on WeChat, rather
+it was recorded on several devices using her computer. She could not recall which device
+was used to record it, but it was a separate device from the computer. She said that she did
+not know that she could imbed a human voice into a PowerPoint despite what Professor
+Dubins had testified to. She did not ask him or anyone for clarification as she did not want
+to bother anyone by asking questions. As he was her resource as a professor, she took it
+from her mid-term that what she was doing had been approved.
+With respect to her mid-term evaluation, she discussed it with her supervisors, received
+input from them and support. In that regard, it was agreed with Dr. Pang that it would be a
+crossover study video.
+On December 24, 2020, she emailed Professor Dubins looking for support. On December
+25, 2020, he responded suggesting a crossover study. The Student testified that that is what
+she did.
+
+18
+
+On January 8, 2021 when the mid-term took place, it was agreed that it would be a
+crossover study by which two identical videos would be shown except that the voices
+would be different.
+The reference to 100 hours to do the human voice version included everything she had
+done. She noted that prep time should be included.
+It was suggested to the Student that if she was trying to do a comparison between videos
+and that the time she was allocating for each was to include prep time, was it not misleading
+not to have allocated the preparation time to both evenly. The Student testified that it was
+probably more accurate to say that it took her 8 hours to record the human voice
+presentation and only 3 hours for the machine one as she had no problems with Watson. It
+was then suggested to the Student that 8 hours versus 3 hours compared to what she had
+said in the report of 100 hours versus 3 hours means that there is a large error in the report
+which she made more than once.
+The Student testified that by January 8, 2021 the scripts were complete, but the video still
+had to be done. She did the machine voice one first. When she received on January 15,
+2021, Professor Dubins’s mid-term evaluation, no one told her to stop so in her view she
+must have been successful. She did not read the evaluation.
+The next email following January 15, 2021 was on February 4, 2021. In that email she sent
+Professor Dubins PowerPoint slides, but no audio yet.
+The Student confirmed that she had not yet started recruiting the survey participants despite
+knowing that April 12, 2021 was the deadline and that meant she had only two months to
+get it done which would involve finishing the audio, selecting the participants, showing
+them the videos, doing the surveys and then collecting and analyzing the data and writing
+the report.
+The Student testified that she had a sore throat and that was the reason why she obtained
+an extension of the April 12, 2021 deadline, but she knew that it was the deadline for the
+presentation.
+
+19
+
+She testified that once the videos were finished she recruited 20 random participants and
+showed them the videos through WeChat.
+She met with them on WeChat one at a time and showed each both videos which were 10
+minutes long and then asked the survey questions. She recorded their answers by taking
+notes. She did not record the WeChat meetings. She used paper and took notes by hand.
+She was taken to the document she said are her notes and which she testified she took for
+each participant when they were speaking on WeChat and confirmed that there were no
+other notes. They do not contain any names of the participants so there is no way to keep
+track of who these people were, nor do the notes show which video they watched.
+The Student was taken to the data file and it was suggested to her that the first time this
+document was created was on April 5, 2021. The Student refused to answer the question.
+The Student then said she needed time to think about it and then eventually said that she
+created it when she was doing the interviews. The Student then testified that not all of the
+students were in the pharmacy program. There was one who was in neuroscience not in
+pharmacy and was just taking some pharmacy courses.
+The Student confirmed that she did not identify this in the report, and this was yet another
+mistake in it.
+It was also suggested to the Student that finding 16 year olds in the University of Toronto’s
+population for her participants was odd. It was also suggested to her that this was at a time
+when it was at the end of the school year. The Student also refused to answer any questions
+about whether she knew many 16 or 40 year old University of Toronto students.
+The Student conceded that there were 11 males and 9 females rather than 10 and 10, and
+that was another mistake in her report.
+It was suggested to her that for each participant she would need at least 30 minutes of their
+time, as there were two 10 minute videos they had to watch and questions she had to ask
+them. As well, it was suggested to the Student that they were not going to be one after the
+other so it would take significant time for her to conduct the meetings with all 20
+
+20
+
+participants. As a result, it was suggested to the Student that in fact no such meetings with
+participants ever occurred. The Student denied this.
+It was also raised with the Student that although the machine and human versions of the
+video should have been the same, there is a difference between the script and what is
+actually said in the video. It was suggested to her that that was because the second one was
+made up. The Student testified that she did not know that it would be needed and had to
+look for it. The Student conceded that she was off camera and gone for 15 minutes and
+during that time she was looking for the video, but that was because there was a poor
+connection with Zoom. She was downloading it from WeChat as it no longer existed
+elsewhere and that she found it herself on WeChat.
+Lastly, it was suggested to her that the reason she turned the camera off is that she used her
+phone camera to record the first 10 slides and did so in a panic and that was why the video
+was shaky and why the wording was not accurate. The Student disagreed with this
+suggestion.
+This concluded the evidence for the Student.
+The University did not call any reply evidence.
+University’s Submissions
+Assistant Discipline Counsel submitted that the evidence of Professor Dubins supports a
+finding on a balance of probabilities that the Student committed the academic offences as
+alleged.
+In that regard, it was submitted that the evidence in its totality demonstrated that the Student
+fabricated, altered, manipulated, mislabelled or misrepresented the research inputs, tools,
+methodologies, data and results she submitted in connection with her Research Report.
+Assistant Discipline Counsel also advised that if the Panel made a finding on Charge 1, the
+University would withdraw Charge 2.
+
+21
+
+Assistant Discipline Counsel submitted that the Student was clearly guilty of having
+concocted data.
+Assistant Discipline Counsel submitted that the onus was on the Provost to prove on a
+balance of probabilities based upon clear, cogent and compelling evidence that it was more
+likely than not that the Student committed the offences in question.
+In that regard, the question is whether the Student knew or ought to have known that she
+was committing the offences. The offences were committed if the Student knew or ought
+to have reasonably known that she was concocting data. The Provost does not have to show
+how it happened.
+The University takes academic integrity seriously, and the Student knew or ought to have
+known that it was her obligation to maintain integrity in the preparation of her report and
+in that regard, to maintain the data file of the report.
+The evidence in this matter provides a strong basis to conclude that the Student knowingly
+concocted the data for her research project as:
+(a)
+
+There are multiple inconsistencies between the report, the presentation of it and the
+data file;
+
+(b)
+
+The claims in the report are not accurate;
+
+(c)
+
+The quality of the video submitted did not match the description of the video; and
+
+(d)
+
+The video file and presentation sent afterward also demonstrates that it was
+concocted.
+
+With respect to (a), there are a number of inconsistencies that show that the data was
+concocted:
+(i)
+
+The sex of the participants in the report. It was stated that there were 20 students in
+total and that it was controlled for sex such that the number of men and women
+would be 10 and 10. During her presentation, the Student again said that the ratio
+
+22
+
+of male to female participants was 10 to 10, however, in the data file sent after the
+presentation it lists 11 males and 9 females contrary to the claims of 10 and 10. In
+cross-examination, the Student stated that this was a mistake, however, given the
+number of mistakes involved here it provides a basis to conclude the data was
+concocted rather than a mistake;
+(ii)
+
+The program major of students. In the report they were said to be 20 random
+pharmacy students. In her presentation, the Student claimed the participants were
+all pharmacy students, but later conceded that one was not a pharmacy student. In
+cross-examination, the Student said that she did not select pharmacy students just
+anyone who had experience in pharmacy. Again, the Student blamed this as being
+a mistake;
+
+(iii)
+
+Format. During her presentation the Student was asked to show the human version
+of the video. She said that she could not because she did not show it to the students
+by video, rather she said that she showed it to them in person instead, despite this
+having occurred during the height of the pandemic. Then she changed her evidence
+and said that she had shown it to them on WeChat. She then showed the video in
+the Zoom meeting during her presentation. All of these inconsistencies show that
+the data was concocted, and it is all the more telling given that this all came out
+when she was questioned by the professors at the end of her presentation.
+
+In the report it said that the participants’ ages ranged from 16 to 40 years old and all were
+in pharmacy. Professor Dubins fact checked this and was told that there were no 16 or 40
+year olds in the pharmacy program. In cross-examination, the Student was asked how many
+16 and 40 year old pharmacy students she knew and refused to answer.
+The video itself was not consistent with how she described it in her report. As testified to
+by Professor Dubins, it was to be a crossover study by which the students would view both
+the machine voice version and the human voice version which would otherwise be identical
+except for that narration style. The same 26 slides in the PowerPoint were to be shown to
+all the participants and the audio would be imbedded in the script and was meant to be
+identical but was not.
+23
+
+The video shared by the Student during the presentation was a 10 second video in which a
+shaky camera was pointed at a computer screen with no audio. The video which the Student
+later provided did not match the report, the audio was not imbedded, was shaky and ended
+abruptly at slide 10 rather than slide 26 as indicated in the report. It was also only 2 minutes
+and 46 seconds long and is done all in one take and is not a 10 minute clip as described in
+the report.
+In cross-examination the Student claimed she uploaded all of it to WeChat, but could only
+retrieve a small portion of the content, but could provide no further coherent explanation
+for this.
+With respect to the poor quality, it was suggested to the Student that this is because it was
+made in haste when she was asked for it by the professors during the presentation and that
+this supports the inference that it had not been previously done and shown to participants
+and therefore supports the inference that the data was in fact concocted.
+Demeanor
+What was meant to be a 15 minute presentation turned into 45 minutes of delay,
+disappearances and behaving strangely. There were long pauses, the Student looked
+stressed and started changing her answers. First, she said the students were all pharmacy
+students, then said one was in neuroscience, and when pressed for the video she dropped
+off the Zoom call. This was all very unusual.
+When the Student reappeared, her camera was off and there was a long silence. The
+professors were concerned that she was not there and were about to end the call. It took 20
+minutes for the Student to finally turn her camera on and resume. This all made Professor
+Dubins feel extremely uneasy about the whole situation.
+It was suggested the reason that the Student was acting strangely on Zoom was because
+she did not have the data as it did not exist and she had to scramble to make up something
+right on the spot, which also supports the inference that the data was concocted.
+Metadata of Data File After Presentation
+
+24
+
+The metadata of the data file which was subsequently sent to Professor Dubins shows that
+it was created on April 21, 2021 at 11:30 a.m. which was during the presentation. At 11:30
+a.m. the Student’s camera was still off and the Student was unresponsive to Professor
+Dubins’s questions. This is likely when the Student was recording the video while on the
+Zoom call and explains her long awkward silences. Since the report is based on having
+shown 20 students the videos, if it was only created on April 21, 2021, this also supports
+the finding that the data was concocted.
+Other documents show that data was created on April 5, 2021, and saved on April 21, 2021,
+at a time after the conclusion of the presentation. In that regard, the Student in crossexamination refused to answer any questions about when the data file was created, but then
+subsequently admitted that the data file was created on April 5, 2021. As a result, it is
+unlikely it could have been synchronized and shown at the presentation on April 21, 2021,
+and instead only sent afterwards.
+Assistant Discipline Counsel asked the Panel to find that the Student had concocted data
+and to find the Student guilty of Charge No. 1. If the Student was found guilty of Charge
+No. 1 then the Provost would withdraw Charge No. 2.
+The Panel asked Assistant Discipline Counsel whether the metadata might reflect the date
+when it was copied rather than created. Assistant Discipline Counsel advised that that was
+possible, but that when you look at the totality of the evidence, it all supports the inference
+that it did not happen this way.
+The Student’s Submissions
+The Student submitted that she took care to do the data and methodology in creation of the
+questionnaire.
+During her presentation she was co-operative and had put all of her effort into it.
+The Student submitted that she was not asked to submit her video and raw data in advance
+and as well she did not get enough direction with respect to this research project. In
+conclusion she did not think that she had done anything wrong.
+
+25
+
+University’s Reply
+In reply, Assistant Discipline Counsel submitted that Professor Dubins did not have a
+chance to review the data in advance so he could not have approved it as the Student only
+sent him a script in advance.
+Standard of Proof
+The onus is on the University to establish, based upon clear and convincing evidence on a
+balance of probabilities, that the academic offences charged have been committed.
+Decision of the Tribunal
+Based on the evidence and the submissions by counsel for the University, the Student was
+found guilty of:
+(a)
+
+one count of knowingly submitting concocted academic work, contrary to section
+B.I.1(f) of the Code.
+
+Given this finding, the University withdrew Charge 2.
+Reasons for Decision
+The Panel accepted the evidence of Professor Dubins, finding that his evidence was
+credible and reliable and rejected that of the Students finding it to be unreliable and
+implausible.
+The evidence of Professor Dubins clearly combined with the totality of the evidence
+demonstrated that the Research Report contained research inputs, tools, methodologies,
+data and results that had been concocted.
+In that regard, the Panel considered the fact that there were multiple inconsistencies in the
+Student’s report, her presentation of it and the data file. These included the fact that the
+Student in her report and in her presentation stated that there were 20 students in total and
+that 10 were women and 10 were men, but the data file sent after the presentation showed
+
+26
+
+11 men and 9 women. Importantly, it was also noted by the Panel that the data file did not
+identify who these 20 students were.
+In her report and in her presentation the Student stated that the 20 students were all random
+pharmacy program students. However, the Student later conceded during the presentation
+that one was not a pharmacy student and then testified in cross-examination that they were
+not pharmacy students but anyone who had pharmacy experience.
+The report also said that they ranged in ages from 16 to 40 years old which to Professor
+Dubins and to the Panel seemed unlikely. In cross-examination, the Student refused to
+answer as to how many 16 and 40 year old pharmacy students she knew. Professor Dubins
+ultimately confirmed that there were no 16 or 40 year old students registered in the
+pharmacy program. Although, given that this was based upon a report from the Registrar
+to Professor Dubins, the Panel gave this less weight.
+The video was also not consistent with how it was described in the Student’s report and the
+fact that the video shared during her presentation was only a short one taken by a shaky
+camera pointed at a computer screen with no audio also demonstrated that the Student had
+concocted her data.
+The presentation itself and how it was conducted also raised concerns by the Panel given
+the Student’s strange behaviour and disappearances from the presentation. The long pauses,
+her looking stressed and changing her answers all undermined her credibility. The fact that
+the Student then dropped off the Zoom call for 15 minutes and only reappeared off camera
+and for there then to be an additional 15 minutes of silence where she was non-responsive
+before she finally turned her camera back on made not just Professor Dubins feel uneasy,
+but also the Panel.
+The Panel was also concerned by the Student’s inability during cross-examination to
+provide a coherent explanation as to why, if she did in fact upload all of it to WeChat, she
+could only retrieve such a small portion of the content.
+As well, the fact that the metadata of the file for the video showed that it was first created
+on April 21, 2021 at 11:30 a.m., during the Student’s presentation and that the metadata
+27
+
+for the data file also showed that it was created on April 5, 2021 and last saved on April
+21, 2021 at a time after the conclusion of the Student’s presentation, all combined to
+demonstrate to the Panel that on a balance of probabilities that the data file and video had
+not been prepared in advance and in fact were only prepared at the time of the presentation
+or afterwards.
+The fact that the Student in her report said that she spent 100 hours preparing one version
+of her audio presentation also seemed unlikely particularly given its poor quality, while at
+the same time, it was unlikely that only 8 hours would be required to prepare the other
+version.
+In her testimony, the Student did not respond well to cross-examination. She changed her
+evidence a number of times and on a number of other occasions refused to answer the
+questions put to her. As a result, her testimony along with the other evidence in this case
+led the Panel to conclude that her evidence was unreliable and implausible and the Panel
+rejected it.
+As a result, considering all these circumstances and despite the Student’s denials, the Panel
+inferred from all the evidence and was satisfied on a balance of probabilities based upon
+clear, cogent and convincing evidence that it was more likely than not that the Student had
+in fact concocted her data.
+As such, the Panel was satisfied on a balance of probabilities that the Student committed
+the academic offence of knowingly submitting academic work in PHC489Y1 in the form
+of a final report titled "Study on Comparing Two Types of voice of Pharmaceutics Learning
+Video" and made an oral presentation based on the final report containing and describing
+research inputs, tools, methodologies, data and results that had been concocted, contrary to
+section B.I.1(f) of the Code as alleged in Charge 1 filed by the Provost on May 24, 2023.
+Given this finding, the University withdrew Charge 2.
+
+28
+
+Adjournment
+As the matter did not conclude on December 19, 2023, the Panel adjourned the hearing
+until 9:45 a.m. on February 26, 2024, on consent of the Student and the University.
+Sanction
+The hearing resumed at 9:45 a.m. on February 26, 2024, to address the issue of sanction.
+The University’s Evidence
+The University tendered the evidence of one witness, Victoria James (“Ms. James”), an
+Academic Integrity Specialist with Student Academic Integrity at the University, who
+provided her evidence by affidavit, which was accepted by the Panel pursuant to rule 66 of
+the Rules.
+The contents of Ms. James’ affidavit (without Exhibits) are set out below.
+a) Evidence of Ms. James
+Ms. James’ affidavit provides as follows:
+1.
+
+I am an Academic Integrity Specialist with Student Academic Integrity (“SAI”) at the
+University of Toronto (the “University”). As such, I have personal knowledge of the
+matters set out in this affidavit. Where I do not have personal knowledge of a matter, I state
+the source of my information and I believe it to be true.
+
+2.
+
+SAI is the office at the Faculty of Arts and Science that is responsible for investigating
+allegations of academic misconduct and arranging for students who are facing such
+allegations to meet with the Dean or Dean’s Designate in accordance with the process set
+out in the Code of Behaviour on Academic Matters (the “Code”).
+
+3.
+
+SAI maintains a database of allegations of academic misconduct that have been made
+against students in the Faculty of Arts and Science. There is a “Discipline Case Report” for
+each allegation in the database, which records the details relating to the allegation and the
+outcome.
+
+29
+
+4.
+
+According to SAI’s records, X
+
+Q
+
+Y
+
+(the “Student”) has committed one prior
+
+offence.
+A.
+
+First Offence: Plagiarism in PHC300
+
+5.
+
+In Fall 2020, the Student registered in PHC300H1F (“PHC300”).
+
+6.
+
+On December 4, 2020, the Student submitted an assignment in PHC300, which was worth
+20% of the Student’s final grade in the course.
+
+7.
+
+The Student admitted to the offence of plagiarism in the assignment.
+
+8.
+
+In light of the Student’s admission, the case was resolved at the divisional level. The
+Student was sanctioned on June 1, 2021 and received a grade of zero on the assignment, a
+further reduction of 25% in the Student’s final grade in the course, and a transcript notation
+until April 30, 2022. A copy of the Academic Integrity Case Report for the assignment is
+attached to my affidavit at Exhibit A.
+
+9.
+
+On June 3, 2021, the Dean’s Designate sent the Student a letter confirming the sanction
+imposed in connection with the assignment in PHC300. The letter stated in part:
+This email is to follow up on our meeting which took place on June 1, 2021 to
+discuss the allegation that for the course PHC300H1F (20209), you submitted
+an assignment for credit that contained material that does not entirely represent
+your own work. As you know, this is an academic offence under the
+University’s Code of Behaviour on Academic Matters.
+[…]
+Please be advised that all your current and future academic work must follow
+the rules and regulations of the University. I sincerely hope that you have
+learned from this experience and appreciate the importance of conducting
+yourself with integrity as you progress through your studies. Please note that
+if, in the future, you are involved in another instance of academic misconduct,
+it will be taken into account that it is not your first offence, and the
+consequences may be more severe.
+
+10.
+
+A copy of the resolution letter is attached to my affidavit as Exhibit B.
+
+11.
+
+I make this affidavit in connection with the charges that were filed against the Student by
+the University under its Code of Behaviour on Academic Matters and for no other purpose.
+
+30
+
+The University had no further evidence on sanction.
+The Student’s Evidence
+The Student had no further evidence on sanction but then sought to have the Panel admit
+into evidence two documents, a medical note and questionnaire, which Assistant Discipline
+Counsel objected to, submitting that they were unreliable and after the fact.
+The Panel decided to admit these documents into evidence, but to give them the appropriate
+weight.
+The University’s Submissions
+The University provided the Panel with a Book of Authorities containing a number of prior
+decisions of this Tribunal and a chart summarizing them.
+Counsel for the University submitted that the appropriate sanctions to be imposed on the
+Student should be:
+(a)
+
+a final grade of zero in the course PHC489Y1 in Winter 2021;
+
+(b)
+
+the Student will be suspended from the University of Toronto for a period of 5
+years, commencing on December 19, 2023 and ending on December 19, 2028;
+
+(c)
+
+this sanction will be recorded on the Student’s academic record for a period of 6
+years, commencing on December 19, 2023 and ending on December 19, 2029; and
+
+(d)
+
+this case be reported to the Provost, with the Student’s name withheld, for
+publication of a notice of the decision of the Tribunal and the sanctions imposed.
+
+Assistant Discipline Counsel submitted that the proposed penalty was appropriate in the
+circumstances.
+Assistant Discipline Counsel reviewed with the Panel the Provost’s guidance on penalty
+which provides guidelines for consistency so that students may know what to expect in
+
+31
+
+similar circumstances, although previous decisions of this Tribunal have indicated that
+these guidelines are not binding on the Tribunal.
+In that regard, pursuant to the Provost’s guidelines, absent exceptional circumstances the
+Provost will normally seek:
+(a)
+
+a zero in the course;
+
+(b)
+
+3 years for academic dishonesty when has a prior finding of misconduct; and
+
+(c)
+
+notification on the academic transcript for 1 year longer than the suspension.
+
+Assistant Discipline Counsel then reviewed with the Panel the principles relative to
+sanction as set out in The University of Toronto and Mr. C. (Case No. 1976/77-3,
+November 5, 1976) (“Mr. C.”), namely:
+(a)
+
+The character of the Student;
+
+(b)
+
+The likelihood of a repetition of the offence;
+
+(c)
+
+The nature of the offence committed;
+
+(d)
+
+Any extenuating circumstances;
+
+(e)
+
+The detriment to the University caused by the misconduct; and
+
+(f)
+
+The need for general deterrence.
+
+With respect to likelihood of repetition, Assistant Discipline Counsel noted that as the
+Student had a prior discipline history there was a strong likelihood of repetition of the
+conduct. Further, she did not only deny her conduct, but she went to significant lengths to
+cover it up and to make excuses. This suggests that there is a likelihood of repetition of the
+conduct by the Student. As well, given that she had in this case fabricated, altered,
+manipulated, mislabeled or misrepresented the research inputs, tools, methodologies, data
+and results she submitted in connection with her Research Report. This suggests that there
+is a likelihood of repetition of the conduct by the Student.
+
+32
+
+With respect to the nature of the offence, it was submitted that knowingly fabricating data
+and results of a Research Report is a serious form of academic misconduct.
+With respect to the detriment to the University, and to deterrence, Assistant Discipline
+Counsel submitted that it is important that students be deterred from creating fabricated
+academic work. Academic integrity is seriously undermined by fabricating academic work
+and there is significant detriment to the University and therefore this conduct needs to be
+deterred.
+The Student in this case fabricated the data and results of her academic work in order to
+obtain academic credit or other academic advantage. This case is consistent with other
+cases from this Tribunal which have found that those circumstances require expulsion as
+the Student’s conduct was egregious.
+In the submission of Assistant Discipline Counsel, where the student has engaged in
+conduct such as this including fabricating data and results, expulsion can usually only be
+avoided by significant mitigating factors, but none are present here.
+Assistant Discipline Counsel also reviewed with the Panel the chart of prior decisions and
+reviewed in detail several of those prior decisions of this Tribunal to demonstrate that the
+proposed penalty was consistent with decisions of this Tribunal in similar circumstances.
+With respect to the Student’s character, given the findings of data concoction, this brings
+into question the character of the Student. In that regard, the Student has not demonstrated
+any insight or remorse for her conduct. While not co-operating with the University is not
+an aggravating factor there is no mitigating factor here.
+The onus is on the Student to provide mitigating circumstances. The two documents which
+the Student had provided, one from October 11, 2022, was one and a half years after the
+offence occurred. The symptoms and diagnosis do not support the theory that they
+contributed to the Student’s concoction of data. As well, the document does not provide a
+diagnosis, it only refers to mental health screening. In Assistant Discipline Counsel’s
+submission this should be given little or no weight.
+
+33
+
+With respect to the questionnaire, it is dated October 31, 2022, as well one and a half years
+after the events and is based just upon a self-report with no diagnosis. Accordingly, the
+Panel should give it little or no weight as well. In conclusion there is no evidence of any
+mitigating circumstances.
+With respect to repetition, the Student has one prior offence and so specific deterrence is
+needed to stop the Student from repeating her conduct. This is an aggravating factor.
+With respect to the nature of the offence, data concoction in the Student’s last course
+needed to graduate is very serious.
+Assistant Discipline Counsel drew the Panel’s attention to the University of Toronto and
+J.W.K. (Case No. 813, February 15, 2016) (“J.W.K.”) case in which a graduate student
+engaged in repeated concoction which strikes at the heart of academic integrity.
+In this case, the Student did not come clean when pressed by her professor and instead
+made up a video when questioned on the spot during the presentation and then sent it after
+the fact to her professor.
+In the University of Toronto and J.P. (Case No. 781, January 26, 2017) case, the student
+was given a five year suspension as they took additional dishonest steps when questioned.
+In the University of Toronto and S.G. (Case No. 588, July 28, 2011) case, the student first
+denied the conduct then when confronted with proof of it provided a different explanation.
+In this case, the Student is in the fourth year of pharmacy and could go on to work in
+healthcare so an amplified sanction is needed.
+With respect to the detriment to the University, the University of Toronto and M.K. (Case
+No. 634, October 4, 2012 (Appeal)) case provided for a five year suspension as when it
+comes to academic research there is a need to deter data concoction as a lack of research
+integrity is very harmful to the University’s reputation.
+As well, the J.W.K. case speaks to how the concoction of data is a very serious matter.
+
+34
+
+Assistant Discipline Counsel further submitted that this case is a bit unique in that it is the
+first undergraduate concoction of data in a 100% research course. Most of the other
+decisions are with respect to graduate students and involve a revocation of their degree.
+There is a need to determine how seriously the University takes this type of conduct for
+undergraduate students.
+In that regard, the lowest sanction is that of a three year suspension. This involved a lab
+report which was 5% of the grade and mitigating conduct where the student acknowledged
+their conduct and entered into an Agreed Statement of Facts and a Joint Submission on
+Penalty. In this case, the assignment was for 100% of the grade and there is no mitigation
+factor present.
+In the University of Toronto and The Student (Case No. 462, February 22, 2006) case there
+was a five year suspension but it involved a graduate student who had entered into an
+Agreed Statement of Facts and a Joint Submission on Penalty. In that case, the graduate
+student had not submitted the materials for publication so it did not have to be retracted so
+the detriment to the University was not as serious.
+Here, a fourth-year student going into the health sciences field needs to know better. As a
+result, a five year suspension along with a six year notation and publication with the
+Student’s name withheld is the appropriate sanction in the circumstances.
+The Student’s Submissions
+The Student submitted that this case was destroying her future based on speculation. Most
+of the cases provided by Assistant Discipline Counsel involved graduate students. As a
+result, she did not think a five year suspension was fair.
+The University’s Reply Submissions
+Assistant Discipline Counsel clarified that in one of the cases being relied upon with
+respect to a graduate student, the sanction also involved a six month ban from the laboratory
+and a recall of their master’s degree.
+
+35
+
+Sanction Decision
+After deliberations, the Panel ordered that the following sanctions shall be imposed on the
+Student:
+(a)
+
+a final grade of zero in the course PHC489Y1 in Winter 2021;
+
+(b)
+
+the Student will be suspended from the University of Toronto for a period of 5
+years, commencing on December 19, 2023 and ending on December 19, 2028;
+
+(c)
+
+this sanction will be recorded on the Student’s academic record for a period of 6
+years, commencing on December 19, 2023 and ending on December 19, 2029; and
+
+(d)
+
+this case be reported to the Provost, with the Student’s name withheld, for
+publication of a notice of the decision of the Tribunal and the sanctions imposed.
+
+An Order was signed by the Panel to this effect.
+Reasons for Sanction
+The Panel considered the submissions of Assistant Discipline Counsel and the Student and
+the factors and principles relevant to sanction in Mr. C, supra, as set out above.
+In addition to these factors, the Panel considered the chart of prior decisions and the other
+decisions of this Tribunal involving similar misconduct as contained in the University’s
+Book of Authorities and the sanctions imposed. However, the Panel remained cognizant of
+the fact that no two cases are identical and that it is not bound by past decisions of this
+Tribunal. However, the Tribunal does try to develop a consistent body of cases so that
+students are treated fairly and consistently in similar circumstances.
+With respect to the two documents the Student provided as evidence on the issue of
+sanction, although the Panel admitted them into evidence, it was unable to give them any
+weight as they were created a significant length of time after the Student’s conduct, were
+based upon a self-report, did not provide any formal diagnosis, and did not address the
+Student’s condition at the time of her conduct.
+
+36
+
+By knowingly fabricating the data and results for her academic work, the Student broke
+the honour code that is essential to modern learning.
+Students must understand that this kind of misconduct will have serious repercussions so
+that they will be dissuaded from the temptation to consider fabricating data and results for
+academic work.
+The Panel accepted the University’s submission that by knowingly fabricating data and
+results for her academic work, the Student committed a serious form of academic
+misconduct.
+The Student committed the offences knowingly and deliberately, not through carelessness
+or inadvertence. The offences were the result of the Student’s calculated conduct.
+In different ways, the University is vulnerable to, and suffers detriment from, the
+fabricating of data and results offences that the Student committed here.
+As this Tribunal held in the University of Toronto and M.K. (Case No. 491, November 5,
+2008), at para. 43, “such conduct will and must meet with the most severe reaction when
+uncovered.”
+The seriousness of the offences and the need for deterrence are particularly compelling in
+this case which involved research for 100% of the grade in an undergraduate course by a
+fourth-year student.
+The fact that the Student had one prior offence is an aggravating factor. Given that there
+were no significant mitigating factors, including showing insight or remorse for her
+conduct, the need to deter the Student and others from committing similar offences weighs
+heavily in the circumstances of this case.
+In the Panel’s view, a strong message must be conveyed to the Student and to the University
+community that serious offences such as these will not be tolerated, and that those who
+commit them will face serious sanctions. As a result, the Panel is persuaded that a severe
+sanction is required where a student is guilty of fabricating data and results in order to deter
+not just the Student, but others who may contemplate similar misconduct.
+37
+
+Dated at Toronto, this 26th day of July 2024
+
+Original signed by:
+______________________________________
+Christopher Wirth, Chair
+On behalf of the Panel
+
+38
+
+

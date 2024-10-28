@@ -1,0 +1,916 @@
+Case No.: 913
+UNIVERSITY OF TORONTO
+UNIVERSITY TRIBUNAL
+
+IN THE MATTER OF charges of academic dishonesty filed on January 16, 2017
+AND IN THE MATTER OF the University of Toronto Code of Behaviour on Academic Matters,
+1995
+AND IN THE MATTER OF the University of Toronto Act, 1971, S.O. 1971, c. 56 as amended
+S.O. 1978, c. 88
+
+B E T W E E N:
+UNIVERSITY OF TORONTO
+
+and
+
+A
+
+P
+
+REASONS FOR DECISION
+Hearing Date: October 16, 2017
+Members of the Panel:
+Mr. Paul Michell, Chair
+Professor Dionne Aleman, Faculty Panel Member
+Mr. Ramz Aziz, Student Panel Member
+Appearances:
+Ms. Lily I. Harmer, Assistant Discipline Counsel for the University, Paliare Roland Barristers
+Dr. Kristi Gourlay, Manager and Academic Integrity Officer, Office of Student Academic
+Integrity, University of Toronto
+Mr. Jackson Foreman, Law Student, Downtown Legal Services, for the Student
+
+--
+
+In Attendance:
+Ms. A
+P
+, the Student
+Ms. Tracey Gameiro, Associate Director, Appeals, Discipline and Faculty Grievances
+Mr. Sean Lourim, Technology Assistant, Office of the Governing Council
+
+2
+
+A.
+
+Charges and Hearing
+
+1.
+
+This panel of the University Tribunal held a hearing on October 16, 2017 to consider the
+
+--
+
+charges brought by the University of Toronto against A
+Code of Behaviour on Academic Matters, 1995.
+2.
+
+3.
+
+P
+
+(the “Student”) under the
+
+The charges were set out in a letter to the Student dated January 16, 2017:
+1.
+
+In or about July 2016, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such
+forged, altered or falsified academic record, including a degree certificate, in an
+application that you submitted to a prospective employer, contrary to section
+B.I.3(a) of the Code.
+
+2.
+
+In or about July 2016, you knowingly forged or in any other way altered or
+falsified an academic record, and/or uttered, circulated or made use of such
+forged, altered or falsified academic record, namely, the education information
+contained in a LinkedIn profile that you maintained, contrary to section B.I.3(a)
+of the Code.
+
+3.
+
+In or about July 2016, you engaged in a form of cheating, academic dishonesty
+or misconduct, fraud or misrepresentation not herein otherwise described, in
+order to obtain academic credit or other academic advantage of any kind:
+(i)
+
+in submitting an application to a prospective employer falsely claiming
+to have earned an Honours Bachelor of Science from the University,
+contrary to section B.I.3(b) of the Code;
+
+(ii)
+
+in submitting a false degree certificate; and
+
+(iii)
+
+in maintaining a public LinkedIn profile in which you falsely claimed to
+hold a Doctor of Philosophy degree and an Honours Bachelor of Science
+from the University.
+
+The Student is an undergraduate at the University of Toronto in the Faculty of Arts &
+
+Science. She first enrolled at the University in 2003.
+4.
+
+The Student attended the hearing. She was represented by Jackson Foreman of
+
+Downtown Legal Services.
+
+3
+B.
+
+Agreed Statement of Facts and Guilty Plea
+
+5.
+
+Ms. Harmer and Mr. Foreman provided the Tribunal with an agreed statement of facts
+
+and a joint book of documents on liability. The Student pleaded guilty to charges 1 and 2. The
+Provost advised that if the Tribunal were to accept the guilty plea, charge 3 would be withdrawn.
+6.
+
+The Student has not enrolled in courses at the University since the Winter 2013 term. By
+
+that point, she had earned 19.5 academic credits, and had a cumulative grade point average of
+1.72. To graduate from the University, students must meet eligibility requirements, including
+having 20 credits and a cumulative grade point average of at least 1.85.
+7.
+
+In July 2016, Terry Johnson, Assistant Director, Office of Convocation, received a
+
+request from an employment screening company seeking to verify a degree that the Student had
+submitted in support of a job application. The University’s records indicated that it had not
+granted a degree to the Student. A week later, the screening company sent Mr. Johnson an
+electronic copy of an Honours Bachelor of Science degree certificate from the University in the
+Student’s name dated June 8, 2009. As discussed below, the degree certificate was a forgery.
+8.
+
+The Office of Student Academic Integrity conducted an online search. The Student’s
+
+LinkedIn profile (visited on July 28, 2016) stated that she had:
+
+
+obtained a “University of Toronto Doctor of Philosophy (PhD), Health Policy &
+Management, Health Economics 2009-2013”
+
+
+
+obtained a “University of Toronto Honours Bachelor of Science, Biological
+Chemistry, Philosophy of Bioethics 2003-2008
+
+
+
+started to work in July 2016 as a laboratory solutions specialist at Abbott
+Laboratories, a global healthcare company, where her role was to “lead the sales
+
+4
+organization in complex consultative selling engagements where laboratory work
+flow analysis and future work flow redesign may be required”
+
+
+previously worked as associate sales director, Canada for Quidel Corporation
+from July 2013 to January 2016, focusing on the “hospital, private reference
+laboratory, and public health laboratory markets with an emphasis on the
+marketing and product launches of novel molecular and point of care fluorescence
+assays and automation within the infections disease markets”
+
+
+9.
+
+held jobs from 2007 to 2016 in the healthcare field.
+
+On July 28, 2016, the website of Quidel, a California-based diagnostic healthcare
+
+manufacturer, identified the Student, with a “PhD” after her name, as associate director,
+international sales, Canada.
+10.
+
+On July 28, 2016, Professor Don Dewees, Dean’s Designate for Academic Integrity,
+
+wrote to the Student, advising that he had received a report alleging that she had committed an
+academic offence by providing a document purporting to be a University degree certificate to the
+employment screening company in support of a job application. He asked the Student to attend a
+Dean’s meeting to discuss the allegations.
+11.
+
+On August 2, 2016, the Student asked to postpone the meeting until the next week.
+
+12.
+
+By August 4, 2016, the Student’s LinkedIn profile had been changed to delete references
+
+to her holding degrees from the University.
+13.
+
+On November 18, 2016, the Student attended a meeting with Professor John Britton, the
+
+Dean’s Designate. The meeting took place consistent with the requirements of the Code. At the
+meeting, the Student read a prepared statement. She also admitted that:
+
+5
+(a)
+
+she had interrupted her university studies to care for an ill family member and to
+work full-time to help to support her family;
+
+(b)
+
+in July 2016 she had been unemployed for six months after losing her job due to
+downsizing;
+
+(c)
+
+she supplied the false degree certificate to Abbott, who offered her a job; and
+
+(d)
+
+upon receipt of the July 28, 2016 letter from Professor Dewees, she immediately
+wrote to Abbott to explain what she had done and to withdraw from her
+employment position with them.
+
+14.
+
+The Student admitted that although she has never earned a degree from the University,
+
+she knowingly:
+(a)
+
+forged, altered and falsified the degree certificate in its entirety;
+
+(b)
+
+falsely claimed in her LinkedIn profile that she had earned an Honours BSc and a
+PhD in Health Policy & Management, Health Economics from the University; and
+
+(c)
+15.
+
+falsely represented that she held a PhD on her former employer’s website.
+
+The Student also admitted that she knowingly:
+(a)
+
+forged, altered and falsified her academic achievements at the University by
+claiming to have earned an Honour BSc and a Ph.D. in order to assist her to
+obtain employment and/or enhance her employment status;
+
+(b)
+
+forged the degree certificate and falsified information on LinkedIn and with her
+former employer about her academic credentials, contrary to section B.I.(3)(a) of
+the Code; and
+
+6
+(c)
+
+falsely claimed in her LinkedIn profile that she had earned both an Honours BSc
+and a PhD in Health Policy & Management, Health Economics from the
+University.
+
+16.
+
+The Tribunal reviewed the agreed statement of facts and joint book of documents. After
+
+confirming with the Student that she understood the terms of the agreement, the Tribunal
+deliberated. We then reconvened the hearing, and advised the parties that we accepted the agreed
+statement of facts and the Student’s guilty plea. The Tribunal indicated that it was satisfied that
+on a balance of probabilities, the elements of charges 1 and 2 had been proven.
+17.
+
+In light of the Tribunal’s findings on charges 1 and 2, the University withdrew charge 3.
+
+C.
+
+Penalty
+
+18.
+
+There was no joint submission on penalty. The Provost called no further evidence.
+
+19.
+
+The Student sought to admit into evidence a November 25, 2016 letter from
+
+Professor Britton to Vice-Provost Sioban Nelson. (The letter is dated 2015, but it was common
+ground at the hearing that this was a mistake, and that the correct date should have been 2016).
+The Student sought to have the letter admitted because it set out Professor Britton’s views about
+the Student’s explanation, including the statement that she had read at the meeting with him
+earlier that month. The Provost objected to the admission of the letter.
+20.
+
+The Tribunal heard argument on this preliminary issue. After deliberation, we decided to
+
+admit the letter into evidence, but to defer our decision as to the weight to be given to it. We also
+advised the Student that although we had decided to admit the letter, in our view the letter could
+not in itself be a mechanism by which she could prove the truth of the statement she made at the
+November 2016 meeting with Professor Britton. We advised the Student that although she was
+
+7
+under no obligation to give evidence at the hearing, the letter was not a route by which she could
+lead evidence of mitigating circumstances.
+21.
+
+In light of this, the Student decided to testify. Mr. Foreman led her evidence. She was
+
+then cross-examined by Ms. Harmer. The Student led no further evidence. We address the
+relevant portions of the Student’s evidence below.
+22.
+
+The parties then made oral submissions. The Provost sought an order recommending that
+
+the Student be expelled. The Student sought a five-year suspension. We adjourned to deliberate,
+and then advised the parties that we would reserve our decision on sanction.
+23.
+
+On the preliminary issue, we conclude that although the November 25, 2016 letter is
+
+admissible, it carries little weight in our determination of the appropriate sanction. At its highest,
+the letter records Professor Britton’s account of some aspects of his meeting with the Student,
+including her explanation for her conduct, his appreciation of her candour, his view that the
+matter should be referred to the Tribunal, and his hope that the Tribunal would take into
+consideration evidence of mitigating factors. However, we do not share the Student’s view that
+the letter shows that Professor Britton questioned the Student (let alone cross-examined her)
+about her explanation. Nor does it state that he believed her explanation. He may or may not
+have done so: the letter does not say. Even if it had done so, that would not bind the Tribunal.
+This is no criticism of Professor Britton: his letter is simply a transmittal letter in which he
+described the events of his meeting with the Student and some observations about the case. It
+goes no further. Even if Professor Britton had indicated that he believed her explanation, the
+letter could not be a substitute for the Student leading evidence of mitigating circumstances
+before us.
+
+8
+24.
+
+We now turn to our decision on the appropriate sanction. This is a difficult case. Indeed,
+
+the panel is not unanimous in its decision on sanction. Our dissenting colleague’s reasons follow
+our decision below. The choice is between the two most serious sanctions the Tribunal can order.
+The Student has admitted to having committed more than one serious offence. She faces the
+headwind of cases over the past four years that have held that the offences she has admitted to
+(misrepresentation of academic qualifications and forgery of a degree certificate) are among the
+most serious academic offences. A recommendation of expulsion is common, even where (as
+here) the student has no prior offences.
+25.
+
+Mr. Foreman, for the Student, sought to distinguish these cases as having involved few or
+
+no mitigating factors for the panel to consider where a recommended expulsion is in play. There
+is some force to this submission. In many of these cases, the student was either absent or else put
+forward no evidence of mitigating circumstances. Here, by contrast, the Student was present,
+had cooperated, and gave evidence of mitigating circumstances. We address that evidence below.
+26.
+
+On the other hand, most of the cases that the Student relied on to support the imposition
+
+of a five year suspension rather than a recommendation of expulsion involved joint submissions
+on penalty: Mr. R [Case No. 2001/0202; February 26, 2002]; Y.Z. [Case No. 687; July 16, 2013];
+and N.R. [Case No. 714; October 11, 2013]. As noted above, there was no such joint submission
+here. In our view, that limits their application.
+27.
+
+Mr. Foreman took a different approach to a fourth case. In A.L. [Case No. 606; February
+
+14, 2012], the Trial Division imposed a five year suspension in a serious case of forgery. On
+appeal [Case No. 606; October 10, 2012], the Appeal Division allowed the Provost’s appeal and
+imposed a recommendation of expulsion. The student’s application for judicial review of the
+
+9
+
+-
+
+Appeal Division’s decision was dismissed by the Divisional Court: L
+
+v. University of
+
+Toronto, 2014 ONSC 644 (Div. Ct.). Mr. Foreman argued that although a recommendation of
+expulsion had been the appropriate disposition in that case, the circumstances there had been
+substantially more serious than those here. Thus, he argued, it was not appropriate to impose the
+same sanction on the Student here, since her misconduct was not as serious as that of the student
+in A.L.
+28.
+
+We are not persuaded by this submission. Although a recommendation of expulsion is the
+
+most severe sanction that the Tribunal can impose, it does not follow that this sanction is
+appropriate only for the most egregious version of a serious offence, with the implication that it
+is necessarily disproportionate to impose the same sanction for a less egregious version of a
+similar offence. The most serious sanctions should normally be reserved for the most serious
+offences. But that does not mean that they must be reserved for only the most outrageous
+circumstances involving the most serious offences. Put another way, imposing the sanction of a
+recommendation of expulsion on the Student does not mean that she is in the same boat as the
+most egregious example of a student who has also been subject to the same sanction. Depending
+on the evidence underlying the Mr. C factors, where the offences are sufficiently severe, it may
+be appropriate to recommend expulsion even where the student did not misconduct him or
+herself during the disciplinary process. In this, we appear to part company with our colleague
+(paras. 51 and 59 below).
+29.
+
+In essence, the Student’s argument is that imposing the most severe sanction in this case
+
+ignores evidence of mitigating circumstances. Implicit in this argument is that if the Tribunal
+were to impose the most severe sanction here, it would remove any incentive for students
+
+10
+charged with forgery and misrepresentation offences to plead guilty, co-operate, or express
+regret. Indeed, it could be argued that it is the Provost’s interest to maintain such an incentive.
+30.
+
+We do not accept this argument.
+
+31.
+
+First, in general, the incentive for students to cooperate, participate, attend, give evidence,
+
+or plead guilty is that such conduct is evaluated and weighed in the Tribunal’s review of the Mr.
+C factors, discussed below. It is not for the Tribunal to manage the negotiation process between
+the Provost and students, or to tell the Provost or students what position to take in those
+negotiations or before us. Mitigating conduct by students tends to incline the Tribunal to impose
+a reduced penalty, but it is one factor among others that the Tribunal must consider.
+32.
+
+Second, on the facts of this case, the incentive argument might have more force if the
+
+Student had pleaded guilty to a single offence. But the Student pleaded guilty to distinct
+offences. First, she misrepresented her educational qualifications to one employer (Quidel) by
+claiming to hold a PhD from the University which she had not earned, or indeed even enrolled
+in. When she later applied to work for another employer (Abbott), she falsely claimed (as she
+confirmed in cross-examination) that she held both an Honours BSc and a PhD from the
+University. She broadcast these misrepresentations more generally through her LinkedIn profile,
+which her employer and others could access: that is the offence to which she pleaded guilty.
+Second, she went so far as to forge, alter and falsify a University degree certificate and submit it
+to a screening company retained by her would-be employer to support her false claim to hold that
+degree.
+33.
+
+The Student did not commit these serious offences all at once. They were separate
+
+offences committed at separate times. The Student’s evidence was that once she started to lie
+
+11
+about her qualifications, the situation “snowballed,” and she felt that she had to continue to lie
+about her qualifications (and eventually, forge a degree certificate) to keep the initial ruse alive.
+Her misrepresentations about her qualifications are bad enough. They are compounded by the
+forgery, which is itself recognized as being among the gravest offences: e.g., J.Z. [Case No. 928;
+June 5, 2017] at para. 19; S.K. [Case No. 492; July 31, 2008] at para. 13.
+34.
+
+The offences here were distinct. The Student’s “snowball” explanation seeks to blur this
+
+reality by suggesting that once the first offence was committed, her subsequent actions were part
+of a single course of conduct designed to keep her initial lie alive. We disagree. As in D.D. [Case
+No. 593; September 3, 2010] at para. 10, this was not a case of a single “spur of the moment” but
+ill-advised decision. No doubt the “snowball” here gathered size and speed as it rolled downhill,
+but the Student could have stopped it at any time. Had she done so earlier, and particularly,
+before she forged a degree certificate, she may well have had a more compelling case to make
+before us. There was nothing inevitable about forging a degree certificate. By contrast, our
+colleague largely accepts the “snowball” theory as part of his discussion (paras. 54-55 below) of
+extenuating circumstances.
+35.
+
+A telling detail, in the Tribunal’s view, is that the Student went so far as to fabricate a
+
+detailed (and apparently plausible) title for her fictitious PhD thesis and post it on her LinkedIn
+profile. As with the forgery of the degree certificate, that is quite inconsistent with the Student’s
+“snowball” theory. It suggests to us a very calculated effort by the Student to deceive.
+36.
+
+Many of the recommendation of expulsion cases that the Provost relied on before us refer
+
+to evidence which might have been available had the students in those cases attended the hearing
+and led evidence about mitigating factors. The panels in those cases recognized (albeit
+
+12
+rhetorically in some instances) that if the student had attended the hearing and had led evidence,
+that may well have weighed in his or her favour: e.g., K.N. [Case No. 899; August 21, 2017] at
+para. 7; S.R. [Case No. 833; April 27, 2016] at para. 33; T.A. [Case No. 726; April 8, 2014] at
+para. 11. It is common for panels to lament that a student’s absence from the hearing has
+deprived them of useful evidence that might have been helpful to the student’s case. Here, of
+course, the Student did attend the hearing, did plead guilty, did agree to a statement of facts on
+liability, and did give evidence of mitigating circumstances. That must count for something. But
+what?
+37.
+
+The difficulty for the Student is that there are forgery cases where a recommendation of
+
+expulsion has been held to be the appropriate sanction even where the student participated in the
+hearing, cooperated with the Provost, and showed remorse. For example, in M.K. [Case No. 491;
+November 5, 2008], the panel recommended expulsion despite the student’s participation in the
+process and guilty plea. In that case, counsel for the Student made the same argument outlined
+above: that a recommendation of expulsion should not be the automatic sanction for forgery
+(para. 36). However, the panel there did not think they were imposing an automatic sanction, and
+neither do we. (Unlike our dissenting colleague, we do not view M.K. as a case involving a “lack
+of mitigating circumstances” (para. 57 below). Rather, the panel there simply held, as we do
+here, that the mitigating circumstances were insufficient to outweigh the other factors). In A.A.L.
+[Case No. 590; August 10, 2010] at para. 18, the panel recommended expulsion in similar
+circumstances, and noted (para. 15) that this sanction was consistent with prior forgery cases. By
+contrast, the handful of cases where a recommendation of expulsion has not been made have
+either arisen in the context of a joint submission on penalty (as noted above) or (like S.D. [Case
+
+13
+No. 406; May 1, 2007]) involved a student who had already obtained a degree, where different
+considerations may apply.
+38.
+
+Ultimately, our conclusion is that the appropriate sanction is to recommend that the
+
+Student be expelled. We explain the reasons for that conclusion below. Our answer to the
+rhetorical question posed in para. 36 above is that the Student’s willingness to cooperate with the
+Provost, admit guilt, attend the hearing, agree to a statement of facts, or give evidence of
+mitigating circumstances do count for something: but they must be weighed and evaluated in the
+context of the other factors to determine the appropriate sanction. The effect they will have
+necessarily varies with the circumstances.
+39.
+
+Counsel for the parties addressed the Mr. C. [Case No. 1976/77-3; Nov. 5, 1976] factors.
+
+Organizing the evidence around these factors, we reach the following conclusions:
+
+
+Nature of the offences. The case law is almost uniform in emphasizing the
+seriousness of misrepresenting academic qualifications and forgery of a degree
+certificate. In particular, forgery is “probably the most serious offence”: S.K.,
+supra at para. 14, and “an offence of the utmost seriousness”; Y.X. [Case No. 866;
+November 4, 2016] at para. 14; see also J.Z., supra at para. 19; D.D. at para. 9.
+The offences here were deliberate. A recommendation of expulsion is typical:
+C.A. [Case No. 828; April 11, 2016] at para. 19; A.A.L., supra at para. 15. This
+factor favours the sanction sought by the Provost.
+
+
+
+General deterrence. Not only are the cases clear about the nature of the offence:
+they also emphasize the importance of general deterrence. First, these offences
+show the most serious lack of academic and personal integrity: K.N., supra at
+para. 7. Second, forgery and misrepresentation are often difficult to detect.
+Employers should not have to feel obliged to contact the University (let alone pay
+an outside service) to verify the University credentials of job applicants. Third,
+
+14
+the Tribunal must penalize and deter students from falsely claiming to hold
+University degrees and forging degree certificates. Otherwise, a sort of academic
+Gresham’s law may take hold. The Tribunal must send a strong message to other
+students about the consequences of being found guilty of these offences. This
+factor weighs heavily in favour of a recommendation of expulsion.
+
+
+Harm to the University. These offences cause great harm to the reputation of the
+University. They undermine the trust that employers have in the University. They
+also harm other students who obtain legitimate degrees but must compete with
+those who falsely claim to hold degrees from the University and forge degree
+certificates: A.G. [Case No. 933; October 6, 2017] at para. 7; C.M.J. [Case No.
+904; October 5, 2017] at para. 27. This factor adds further weight to a
+recommendation of expulsion as the appropriate sanction.
+
+
+
+Student’s character. The Tribunal notes that the Student admitted guilt, cooperated with the Provost, and expressed remorse for her offences, both at the
+meeting with the Dean’s Designate and again before the Tribunal. Before us, she
+appeared generally contrite, although at times in cross-examination she sought to
+downplay her agency in her decisions. For example, when asked why she had
+falsely claimed to hold two University degrees, she deflected these questions,
+responding that she felt she already had adequate experience and qualifications
+for the positions she had applied for. To her credit, the Student wrote to Abbott
+promptly to admit that she had lied about holding degrees from the University and
+to withdraw from consideration for employment. However, we note that her letter
+to Abbott is silent about the forged degree certificate. Although the Student
+appears to have learned from what has no doubt been an unpleasant experience, in
+our view she was reluctant to accept full responsibility for her actions and the
+harm they have caused. To that extent, we may differ from Professor Britton’s
+views as set out in his November 2016 letter. But as noted above, that letter has
+little impact on our decision. Our mandate is to evaluate the Student’s character
+based on all of the evidence before us. Overall, this factor weighs in the Student’s
+favour, but as we set out below, in our view the weight to be given to it is limited.
+
+15
+We find our colleague’s comparison (para. 50) to N.R., supra inapposite, since
+unlike here (as we note at para. 26 above), that case involved a joint submission
+on penalty.
+
+
+Likelihood of repetition. This factor concerns specific deterrence: is the Student
+likely to reoffend? These were the Student’s first offences. The commission of
+more than one offence is not encouraging, and may suggest a predilection,
+particularly where, as noted above, the offences were calculated. The Student says
+that she wants to return to the University after a five-year suspension and
+complete her degree. We accept this, and agree with our colleague (para. 52) that
+we should express no view on the likelihood of the Student completing her degree
+given her academic standing. Ultimately, however, there is only limited evidence
+before us that would permit us to meaningfully assess this factor. Unlike our
+colleague (para. 52), we accord little weight to it.
+
+
+
+Extenuating circumstances. The Student gave evidence of extenuating
+circumstances. She testified that her father suffered a heart attack, and that she
+interrupted her studies to take care of him. She then took a job at a company
+called Phoenix, later moving to Quidel. Along with an older brother, she
+supported her family, including four younger siblings. She took courses at the
+University on a part-time basis during this period. She lost her job at Quidel in
+late 2015, and was off work for six months. This led to financial and personal
+pressures. She also spoke about her own health challenges and the difficulties of a
+long commute. These pressures, she said, made her desperate for the Abbott job.
+She falsely claimed to hold two degrees from the University when she applied to
+Abbott, and “stupidly” forged a degree certificate to satisfy a background check
+for the screening company that Abbott retained. But long before she applied to
+Abbott, the Student had already lied to Quidel (“I overindulged myself”) about
+holding a PhD. When asked on cross-examination why she had lied about holding
+a PhD, she said this was part of the “snowball” effect. But if so, then the snowball
+had started to roll long before she applied to Abbott. We find that although the
+Student was remorseful, and that there are some extenuating circumstances, she
+
+16
+has not fully grappled with the extent of her misconduct and the harm it has
+caused. We are sympathetic to the Student’s situation, but unlike our dissenting
+colleague, we do not view the extenuating circumstances here as being
+“exceptional,” “sever[e],” or “extreme” (paras. 43, 56). On balance, this factor
+weighs against a recommendation of expulsion.
+40.
+
+The Tribunal’s task is to evaluate and weigh these factors. That is a highly fact-dependent
+
+exercise. Our colleague takes a different view as to how the factors should be weighed on the
+facts of this case, but we share the same analytical framework. In the final analysis, we conclude
+that on the evidence the first three factors outweigh any mitigating factors, making a
+recommendation of expulsion the appropriate sanction.
+41.
+
+While we are not bound by previous decisions, in our view the case law suggests that
+
+these factors should be weighed accordingly. This might have been a different case if the Student
+had been guilty of only one offence. But the combination of false claims to hold University
+degrees and forgery of a degree certificate is, in these circumstances, simply too serious to
+permit any other result: J.O. [Case No. 870; October 31, 2016] at paras. 78-81. In our judgment,
+the mitigation factors here are insufficient.
+D.
+
+Conclusion on Penalty
+
+42.
+
+For these reasons, the Tribunal holds that the following sanction be imposed on the
+
+Student:
+(a)
+
+a recommendation to the President of the University that he recommend to the
+Governing Council that the Student be expelled from the University;
+
+(b)
+
+a suspension from the University for up to five years from the date of these
+reasons, and that a corresponding notation be placed on her transcript; and
+
+17
+(c)
+
+this decision be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed in the University newspapers, with the
+Student's name withheld.
+
+Dated at Toronto, this l~ day of January, 2018.
+
+~ V-
+
+Paul Michell, Chair
+
+Professor Dionne Aleman, Faculty Panel Member
+
+17
+(c)
+
+this decision be reported to the Provost for publication of a notice of the decision
+of the Tribunal and the sanction imposed in the University newspapers, with the
+Student’s name withheld.
+
+Dated at Toronto, this 15th
+
+day of January, 2018.
+
+____________________________________
+Paul Michell, Chair
+
+)A_.(_ _- -
+
+________________________________________
+Professor Dionne Aleman, Faculty Panel Member
+
+18
+REASONS FOR DISSENT
+43.
+
+The Student’s case presents a scenario which, upon its face, is not entirely unique:
+
+egregious academic misconduct in the context of exceptional personal circumstances. Rarer,
+however, is the gravity of the circumstances under which she made her decisions to commit
+academic dishonesty. My chief concerns relate to the weighing of the Mr. C. factors; specifically,
+that the Student’s extenuating circumstances, admission of wrongdoing, expression of remorse,
+and cooperation with the disciplinary process warrant greater consideration. Indeed, it is difficult
+to imagine personal circumstances more exceptional than those facing the Student.
+Consequently, a sanction of expulsion would mean that a student who commits forgery under
+exceptional extenuating circumstances, admits wrongdoing, expresses remorse and who
+cooperates with the disciplinary process would have little hope of continuing their university
+education. That cannot be right. As I detail below, a five-year suspension would be more
+appropriate given the severity of the circumstances facing the Student when she made her
+choices.
+Nature of the offences
+44.
+
+Fraud and forgery are among the most serious of academic misconduct offences: Y.Z.
+
+[Case No. 687; July 13, 2013] at para. 7. Consequently, a sanction must be proportionate to the
+severity of the offence.
+45.
+
+The extent of the forgery was not insignificant. There is little doubt that the Student’s
+
+conduct was wilful and deliberate. The calculation, scope and protracted nature of the forgery in
+question warrants that it be given no less weight. There was clear intent to deceive, which I do
+not dispute.
+
+19
+46.
+
+The Student’s false claims regarding her degrees, and forged degree certificate would
+
+weigh this factor in favor of expulsion, e.g. J.O. [Case No. 870; October 31, 2016] at paras. 7880. I would weigh this factor in favour of expulsion.
+
+General deterrence
+47.
+
+A penalty must be of sufficient severity as to discourage future offenders. Consequently,
+
+the seriousness of an offence as grave as forgery would be readily be communicated by expulsion.
+However, an appropriately lengthy suspension would also be effective deterring prospective
+offenders. A period of five years would likely be highly damaging to a student’s academic and
+professional career. The stigma alone would rival that of expulsion. Additionally, a suspension
+would incentivize an offender to cooperate and reconcile with the university and the external party
+with whom they have acted dishonestly. I would weigh this factor in favour of a five-year
+suspension.
+
+Harm to the University
+48.
+
+Forgery and false representation of a degree are undoubtedly offences that are detrimental
+
+to the University: Y.Z. [Case No. 687; July 13, 2013] at para. 22. I do not dispute the severity of
+the harm done not only to the University, but those who have earned legitimate degrees as well as
+other candidates for the positions the Student has occupied. I would weigh this factor in favour of
+expulsion.
+
+20
+Student’s character
+49.
+
+Making determinations regarding a student’s character and integrity is a difficult exercise,
+
+Dishonesty in the context of recruitment is especially egregious: Y.Z., supra at para. 9. Here, the
+calculated effort of the false representation, as seen from the forged degree certificate and the
+representation on LinkedIn, reflects poorly on the student’s character.
+50.
+
+However, this was the Student’s first offence. Her situation is similar to that of N.R. [Case
+
+No. 714; October 11, 2013], where a student had one credit remaining till graduation and received
+a five-year suspension for false representation. Like N.R., the Student acknowledged her
+wrongdoing at the earliest possible opportunity – after being caught. Similarly, the Student was
+quick to admit fault, and took the additional step of admitting her wrongdoing to her employer,
+who rescinded the job offer. The Student also cooperated throughout, plead guilty, attended the
+hearing and provided evidence – unlike A.L. [Case No. 606; February 14, 2012] where the student
+was eventually expelled for forgery. I found her expression of remorse to be genuine, albeit
+defensive.
+51.
+
+The Student’s conduct can be contrasted with A.L., who was expelled for forgery. A.L.
+
+ignored the opportunity to rectify their conduct after the first time they were caught, and opted to
+“fabricate excuses” A.L. at para. 45. Additionally, A.L.’s conduct was of an escalating nature,
+where they were provided fair warning and an opportunity to do the right thing, but they did not:
+A.L. at para. 62. The Student did not attempt to cover up her actions after the investigation began.
+She proactively wrote a letter to her employer admitting wrongdoing. Granted, her decision to do
+so may have been with a view to control the fallout of being caught. Regardless, she did not attempt
+to conceal or justify her behavior with fabricated excuses. In doing so, she acted with integrity.
+These considerations weigh in favour of a five-year suspension.
+
+21
+Likelihood of repetition
+52.
+
+This was the Student’s first offence. While her current GPA is below the graduation
+
+requirement, we must be careful not to assume she will not cross the threshold while satisfying the
+remainder of her credit requirements. The Student lost her job as a result of her behavior, and has
+compromised her career. She has the opportunity to learn from the conviction, and in my view, is
+unlikely to repeat again. The remainder of her ability to earn a livelihood remotely similar to the
+one she previously enjoyed depends on it. A suspension would grant her some hope of a reasonably
+prosperous life, ending the cycle of suffering that began with her family setback which led to her
+errors in judgment. Consequently, this factor weighs in favour of a 5-year suspension.
+
+Extenuating circumstances
+53.
+
+Although she neared the completion of her undergraduate degree, the Student interrupted
+
+her university to care for an ill family member, who was the breadwinner of the family. Being
+elder to most of her siblings, she had no choice but to work full-time to make ends meet. When
+joining Quidel, she falsely represented her academic credentials, which were then listed on her
+employer’s website. The Student says she did so to secure employment, and felt that she was
+justified to do so as she had nearly completed her degree. She continued to work until 2016 when
+she lost her job due to downsizing, and was unemployed for six months. Having responsibility of
+her family, she says she felt pressured to make false representations regarding her academic
+credentials as other employees at her level had a university degree, and she felt justified in doing
+so based on her work experience. A doctorate degree was not required for the position, and the
+Student characterized her decision to claim she had a doctorate degree as “stupid”. It is not the
+Tribunal’s place to question the Student’s choices regarding her family. However, we must be
+
+22
+cognizant of the context in which she made her decision to commit forgery and falsely represent
+her credentials.
+54.
+
+The Student’s position when faced with the prospect of financially supporting her family
+
+was not an enviable one. Driven by a desire to support her family, she did what she thought was
+necessary to secure employment. After her initial misrepresentation to Quidel, I do not think it was
+possible to renege on her credentials with subsequent employers – the so-called “snowball effect”.
+The illness of her father and the needs of the family were omnipresent during her employment.
+Based on the Student’s evidence, at no point did the mitigating circumstance ameliorate or expire.
+To admit wrongdoing would be to lose employment, having adverse effects not only on the
+Student, but her family as well. After advertising her credentials to the world via LinkedIn, she
+could not simply appear one day without an undergraduate or doctorate degree that she claimed to
+have earned previously without serious reputational repercussions. The speed with which
+information is transmitted, and the permanence of a person’s online activity in the digital age make
+online misrepresentation difficult to rectify.
+55.
+
+After her first false representation to Quidel, what would a person be reasonably expected
+
+to do in the Student’s circumstances? The family relied on her financially. Should she quit? Would
+she then be expected to approach the university and admit her wrongdoing? Once advertised as a
+doctoral graduate to one employer, how could she expect to retract her designation for a subsequent
+position? In that context, she had limited options but to continue with her false representation to
+Abbott Laboratories, at least with respect to her undergraduate degree. From her testimony, she
+seems to be motivated by a sense of duty to maintain her status as a breadwinner for the family,
+without having the luxury of opting for the higher road.
+
+23
+56.
+
+The Student’s circumstances thus represent the extreme end of extenuating circumstances
+
+a student can experience: a family tragedy, the disruption of her education, unexpected financial
+responsibility, and a misrepresentation to fulfill said responsibility - notably one that she could not
+easily rectify without harm to her loved ones.
+57.
+
+In A.L., the Tribunal held that “each case must be judged on its own facts and every student
+
+is entitled to have their personal circumstances considered” at para 5. In the context of her personal
+and familial circumstances, a sanction of expulsion, even for an offence as serious as forgery seems
+disproportionate. A five-year suspension would have similar deterrent effect, without penalizing a
+student with exceptional personal circumstances, who has admitted fault, expressed remorse and
+cooperated with the disciplinary process. Further, I must distinguish the Student’s case from M.K.
+[Case No. 491; November 5, 2008] where the lack of mitigating circumstances would justify a
+sanction of expulsion over suspension.
+58.
+
+There is a concern is that if expulsion is not possible in this case of forgery, it would not
+
+be possible in any case. I do not ascribe to this view. Barring extenuating circumstances, expulsion
+would be a likely outcome in cases of forgery: S.D. (Case No. 406 May 2007) at para. 54. A
+sanction of suspension must be cautiously applied, strictly limited to cases where a student
+experienced circumstances at least as grave as those facing the Student, admitted wrongdoing,
+expressed remorse and cooperated with the disciplinary process.
+59.
+
+For these reasons, I would add greater weight to the Student’s extenuating circumstances.
+
+If we dismiss the Student’s circumstances, we are suggesting that her case is no different than
+A.L.’s where the student did not adduce evidence, express remorse or admit wrongdoing during
+the investigation [at para 45]. Such a decision would reflect poorly on notions of justice and
+
+24
+fairness so core to our institutional values. These considerations weigh this factor in favour of a
+five-year suspension.
+
+B. Conclusion on Penalty
+60.
+
+A message must be sent to students and the public that forgery and fal se representati ons
+
+are unacceptable. As stated in S.R. [Case No. 833 ; April 27, 2016] at para. 6, "employers must be
+able to rely on representations made by University of Toronto students and graduates".
+61.
+
+A five-year suspension would be the highest penalty short of expulsion that the panel cou Id
+
+reco,mnend. It falls within the range of reasonable sanctions ·due to its severity, deterrence effect,
+and capacity to refonn .
+62.
+
+I would hold that the following sanction be imposed on the Student:
+(a)
+
+a suspension from the University of Toronto from the day the Tribunal makes its
+order for five years
+
+(b)
+
+this decision be reported to the Provost for publication of a notice of the dec isio n
+of the Tribunal and the sanction imposed in the University newspapers , with the
+Student's name withheld.
+
+Dated at Toronto, this/&, day of January, 2018.
+
+Ramz Aziz, Student Panel Member
+
+
